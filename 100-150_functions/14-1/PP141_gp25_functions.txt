@@ -1,0 +1,84 @@
+=== A0A379QQ73 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 282.0
+E-value: 9.227e-08
+Alignment Length: 143
+Percentage Identity: 0.258
+
+=== A0A378NBL0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:STY65237.1};
+Bit Score: 259.0
+E-value: 2.121e-07
+Alignment Length: 138
+Percentage Identity: 0.224
+
+=== A0A225DM31 ===
+DE   SubName: Full=Phage protein {ECO:0000313|EMBL:OWK42053.1};
+Bit Score: 258.0
+E-value: 5.826e-07
+Alignment Length: 148
+Percentage Identity: 0.229
+
+=== A0A2P5KA58 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PPB83582.1};
+Bit Score: 256.0
+E-value: 6.561e-07
+Alignment Length: 135
+Percentage Identity: 0.251
+
+=== C3X1T8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EEO27174.1};
+Bit Score: 219.0
+E-value: 2.575e-06
+Alignment Length: 139
+Percentage Identity: 0.208
+
+=== A0A0S4R1Q3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CUU68048.1};
+Bit Score: 218.0
+E-value: 1.281e-05
+Alignment Length: 130
+Percentage Identity: 0.246
+
+=== A0A381C919 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SUW63473.1};
+Bit Score: 212.0
+E-value: 2.322e-05
+Alignment Length: 127
+Percentage Identity: 0.181
+
+=== A0A2D0L3S4 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 171.0
+E-value: 7.183e-05
+Alignment Length: 142
+Percentage Identity: 0.204
+
+=== Q2L2W2 ===
+DE   SubName: Full=Phage protein {ECO:0000313|EMBL:CAJ48927.1};
+Bit Score: 167.0
+E-value: 0.0001752
+Alignment Length: 136
+Percentage Identity: 0.242
+
+=== A0A0M7MR24 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CUJ80696.1};
+Bit Score: 149.0
+E-value: 0.0003369
+Alignment Length: 142
+Percentage Identity: 0.183
+
+=== A0A7Y4ZDJ1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NOU23361.1};
+Bit Score: 142.0
+E-value: 0.0003575
+Alignment Length: 121
+Percentage Identity: 0.223
+
+=== A0A1V3J2W2 ===
+DE   RecName: Full=ESPR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 160.0
+E-value: 0.004889
+Alignment Length: 87
+Percentage Identity: 0.275
+

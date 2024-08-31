@@ -1,0 +1,14 @@
+=== A0A2A2CD96 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PAU25805.1};
+Bit Score: 146.0
+E-value: 0.02356
+Alignment Length: 117
+Percentage Identity: 0.188
+
+=== A0A6S7BAK5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAB3784557.1};
+Bit Score: 139.0
+E-value: 0.03068
+Alignment Length: 103
+Percentage Identity: 0.271
+

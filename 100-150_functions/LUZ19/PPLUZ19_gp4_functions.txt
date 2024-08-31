@@ -1,0 +1,68 @@
+=== A0A2P8ABC9 ===
+DE   RecName: Full=RRM domain-containing protein {ECO:0000259|PROSITE:PS50102};
+Bit Score: 100.0
+E-value: 0.005056
+Alignment Length: 116
+Percentage Identity: 0.189
+
+=== A0A7Z9PYQ6 ===
+DE   SubName: Full=SPOR domain-containing protein {ECO:0000313|EMBL:HIB68728.1};
+Bit Score: 96.0
+E-value: 0.02003
+Alignment Length: 81
+Percentage Identity: 0.259
+
+=== C4GES9 ===
+DE   RecName: Full=tetrahydrofolate synthase {ECO:0000256|ARBA:ARBA00013025};
+DE            EC=6.3.2.17 {ECO:0000256|ARBA:ARBA00013025};
+DE   AltName: Full=Tetrahydrofolylpolyglutamate synthase {ECO:0000256|ARBA:ARBA00030592};
+Bit Score: 98.0
+E-value: 0.03643
+Alignment Length: 83
+Percentage Identity: 0.156
+
+=== A0A259A1U1 ===
+DE   RecName: Full=SPOR domain-containing protein {ECO:0000259|PROSITE:PS51724};
+Bit Score: 95.0
+E-value: 0.03643
+Alignment Length: 83
+Percentage Identity: 0.156
+
+=== A0A7X7WVL4 ===
+DE   SubName: Full=SPOR domain-containing protein {ECO:0000313|EMBL:NLI30409.1};
+Bit Score: 81.0
+E-value: 0.03868
+Alignment Length: 83
+Percentage Identity: 0.18
+
+=== A0A660N9F6 ===
+DE   RecName: Full=tetrahydrofolate synthase {ECO:0000256|ARBA:ARBA00013025};
+DE            EC=6.3.2.17 {ECO:0000256|ARBA:ARBA00013025};
+DE   AltName: Full=Tetrahydrofolylpolyglutamate synthase {ECO:0000256|ARBA:ARBA00030592};
+DE   Flags: Fragment;
+Bit Score: 96.0
+E-value: 0.0436
+Alignment Length: 84
+Percentage Identity: 0.154
+
+=== A0A2W4HQS5 ===
+DE   RecName: Full=SPOR domain-containing protein {ECO:0000259|PROSITE:PS51724};
+Bit Score: 85.0
+E-value: 0.0436
+Alignment Length: 83
+Percentage Identity: 0.156
+
+=== A0A6B3UNP1 ===
+DE   SubName: Full=SPOR domain-containing protein {ECO:0000313|EMBL:NEX94113.1};
+Bit Score: 70.0
+E-value: 0.0436
+Alignment Length: 101
+Percentage Identity: 0.148
+
+=== A0A5C2HUW6 ===
+DE   RecName: Full=SPOR domain-containing protein {ECO:0000259|PROSITE:PS51724};
+Bit Score: 89.0
+E-value: 0.04914
+Alignment Length: 82
+Percentage Identity: 0.219
+

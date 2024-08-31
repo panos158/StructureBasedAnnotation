@@ -1,0 +1,503 @@
+=== A0A496UXI6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RKZ20214.1};
+Bit Score: 535.0
+E-value: 8.677e-15
+Alignment Length: 129
+Percentage Identity: 0.426
+
+=== A0A0F8Y9R9 ===
+DE   RecName: Full=YqaJ viral recombinase domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 539.0
+E-value: 1.768e-14
+Alignment Length: 123
+Percentage Identity: 0.43
+
+=== A0A2E3MWF4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB76566.1};
+Bit Score: 504.0
+E-value: 1.014e-13
+Alignment Length: 125
+Percentage Identity: 0.44
+
+=== A0A2D5TST2 ===
+DE   RecName: Full=YqaJ viral recombinase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 442.0
+E-value: 2.572e-12
+Alignment Length: 131
+Percentage Identity: 0.312
+
+=== A0A0F9PVR9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKM97272.1};
+Bit Score: 423.0
+E-value: 2.038e-11
+Alignment Length: 135
+Percentage Identity: 0.34
+
+=== A0A0F8Z6D6 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 384.0
+E-value: 1.723e-10
+Alignment Length: 128
+Percentage Identity: 0.32
+
+=== A0A2G2GAY1 ===
+DE   RecName: Full=Endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 328.0
+E-value: 7.626e-10
+Alignment Length: 141
+Percentage Identity: 0.333
+
+=== A0A3N5WEL6 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 354.0
+E-value: 9.878e-10
+Alignment Length: 131
+Percentage Identity: 0.412
+
+=== A0A2D7X2D9 ===
+DE   RecName: Full=Endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 328.0
+E-value: 3.165e-09
+Alignment Length: 133
+Percentage Identity: 0.203
+
+=== A0A1F4YPI9 ===
+DE   RecName: Full=Restriction endonuclease type IV Mrr domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 319.0
+E-value: 5.664e-09
+Alignment Length: 139
+Percentage Identity: 0.28
+
+=== A0A2D8XDA3 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 276.0
+E-value: 1.263e-07
+Alignment Length: 134
+Percentage Identity: 0.246
+
+=== A0A0F9U4J3 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 221.0
+E-value: 1.911e-06
+Alignment Length: 135
+Percentage Identity: 0.244
+
+=== A0A0F9V6J8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKN61493.1};
+Bit Score: 210.0
+E-value: 5.739e-06
+Alignment Length: 133
+Percentage Identity: 0.21
+
+=== A0A3E0QW51 ===
+DE   RecName: Full=Endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 214.0
+E-value: 6.968e-06
+Alignment Length: 133
+Percentage Identity: 0.21
+
+=== A0A3N5K3Z5 ===
+DE   RecName: Full=Holliday junction resolvase {ECO:0008006|Google:ProtNLM};
+Bit Score: 185.0
+E-value: 1.419e-05
+Alignment Length: 134
+Percentage Identity: 0.268
+
+=== A0A2D7X1L0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAK51075.1};
+Bit Score: 195.0
+E-value: 1.514e-05
+Alignment Length: 136
+Percentage Identity: 0.227
+
+=== A0A3D5EPW3 ===
+DE   RecName: Full=Protein NO VEIN C-terminal domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 183.0
+E-value: 3.51e-05
+Alignment Length: 132
+Percentage Identity: 0.212
+
+=== A0A0F9T652 ===
+DE   RecName: Full=YqaJ viral recombinase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 176.0
+E-value: 4.851e-05
+Alignment Length: 126
+Percentage Identity: 0.238
+
+=== A0A2D7PFA5 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 145.0
+E-value: 6.283e-05
+Alignment Length: 135
+Percentage Identity: 0.177
+
+=== A0A497C1D5 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 141.0
+E-value: 7.628e-05
+Alignment Length: 131
+Percentage Identity: 0.183
+
+=== A0A1Z8LPY4 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 157.0
+E-value: 0.0001554
+Alignment Length: 133
+Percentage Identity: 0.263
+
+=== A0A2D9CF40 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 152.0
+E-value: 0.0001769
+Alignment Length: 127
+Percentage Identity: 0.181
+
+=== A0A2E1TLY2 ===
+DE   RecName: Full=Protein NO VEIN C-terminal domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 143.0
+E-value: 0.0001887
+Alignment Length: 117
+Percentage Identity: 0.256
+
+=== A0A0F9H3G6 ===
+DE   RecName: Full=NERD domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 151.0
+E-value: 0.0002013
+Alignment Length: 127
+Percentage Identity: 0.196
+
+=== T2DN33 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 147.0
+E-value: 0.0002607
+Alignment Length: 134
+Percentage Identity: 0.186
+
+=== A0A381Y4K0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SVA71582.1};
+Bit Score: 154.0
+E-value: 0.0002781
+Alignment Length: 133
+Percentage Identity: 0.157
+
+=== A0A2D5MW06 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 128.0
+E-value: 0.0006879
+Alignment Length: 142
+Percentage Identity: 0.161
+
+=== A0A0A2ZY44 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 125.0
+E-value: 0.0009505
+Alignment Length: 136
+Percentage Identity: 0.169
+
+=== A0A850RE67 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.001815
+Alignment Length: 119
+Percentage Identity: 0.168
+
+=== A0A660QAH6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RKX34707.1};
+Bit Score: 130.0
+E-value: 0.002204
+Alignment Length: 132
+Percentage Identity: 0.166
+
+=== A0A847ZTT3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NMD07701.1};
+Bit Score: 122.0
+E-value: 0.002204
+Alignment Length: 136
+Percentage Identity: 0.183
+
+=== A0A800KUI0 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 123.0
+E-value: 0.003045
+Alignment Length: 136
+Percentage Identity: 0.198
+
+=== A0A1Q9YHI6 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523, ECO:0000256|HAMAP-Rule:MF_00130};
+DE            EC=3.1.21.10 {ECO:0000256|HAMAP-Rule:MF_00130};
+DE   AltName: Full=Recombination protein U homolog {ECO:0000256|HAMAP-Rule:MF_00130};
+Bit Score: 112.0
+E-value: 0.003944
+Alignment Length: 162
+Percentage Identity: 0.16
+
+=== A0A847B301 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523, ECO:0000256|HAMAP-Rule:MF_00130};
+DE            EC=3.1.21.10 {ECO:0000256|HAMAP-Rule:MF_00130};
+DE   AltName: Full=Recombination protein U homolog {ECO:0000256|HAMAP-Rule:MF_00130};
+Bit Score: 114.0
+E-value: 0.004208
+Alignment Length: 159
+Percentage Identity: 0.138
+
+=== A0A7J3XD63 ===
+DE   RecName: Full=Holliday junction resolvase {ECO:0008006|Google:ProtNLM};
+Bit Score: 93.0
+E-value: 0.008571
+Alignment Length: 137
+Percentage Identity: 0.153
+
+=== A0A7C5E9Y1 ===
+DE   RecName: Full=Holliday junction resolvase Hjc {ECO:0008006|Google:ProtNLM};
+Bit Score: 95.0
+E-value: 0.009755
+Alignment Length: 131
+Percentage Identity: 0.167
+
+=== A0A7C6M4Y5 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523, ECO:0000256|HAMAP-Rule:MF_00130};
+DE            EC=3.1.21.10 {ECO:0000256|HAMAP-Rule:MF_00130};
+DE   AltName: Full=Recombination protein U homolog {ECO:0000256|HAMAP-Rule:MF_00130};
+Bit Score: 95.0
+E-value: 0.01041
+Alignment Length: 137
+Percentage Identity: 0.16
+
+=== A0A1W1VSC2 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523};
+Bit Score: 97.0
+E-value: 0.01184
+Alignment Length: 153
+Percentage Identity: 0.137
+
+=== A0A2R7NMN3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PTT35457.1};
+Bit Score: 94.0
+E-value: 0.01264
+Alignment Length: 109
+Percentage Identity: 0.229
+
+=== A0A2E7BMG4 ===
+DE   RecName: Full=Holliday junction resolvase {ECO:0008006|Google:ProtNLM};
+Bit Score: 85.0
+E-value: 0.01746
+Alignment Length: 123
+Percentage Identity: 0.203
+
+=== A0A847NV68 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523, ECO:0000256|HAMAP-Rule:MF_00130};
+DE            EC=3.1.21.10 {ECO:0000256|HAMAP-Rule:MF_00130};
+DE   AltName: Full=Recombination protein U homolog {ECO:0000256|HAMAP-Rule:MF_00130};
+Bit Score: 101.0
+E-value: 0.01863
+Alignment Length: 164
+Percentage Identity: 0.115
+
+=== A0A2D6WXA1 ===
+DE   RecName: Full=Holliday junction resolvase {ECO:0008006|Google:ProtNLM};
+Bit Score: 94.0
+E-value: 0.01987
+Alignment Length: 125
+Percentage Identity: 0.152
+
+=== A0A117KXM2 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523};
+Bit Score: 92.0
+E-value: 0.01987
+Alignment Length: 145
+Percentage Identity: 0.165
+
+=== A0A351WPE6 ===
+DE   RecName: Full=Restriction endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 90.0
+E-value: 0.01987
+Alignment Length: 142
+Percentage Identity: 0.133
+
+=== A0A662VV23 ===
+DE   RecName: Full=Crossover junction endodeoxyribonuclease Hjc {ECO:0000256|HAMAP-Rule:MF_01490};
+DE            Short=Hjc {ECO:0000256|HAMAP-Rule:MF_01490};
+DE            EC=3.1.21.10 {ECO:0000256|HAMAP-Rule:MF_01490};
+DE   AltName: Full=Holliday junction resolvase Hjc {ECO:0000256|HAMAP-Rule:MF_01490};
+Bit Score: 88.0
+E-value: 0.01987
+Alignment Length: 130
+Percentage Identity: 0.184
+
+=== A0A7X4EWQ1 ===
+DE   SubName: Full=DUF3883 domain-containing protein {ECO:0000313|EMBL:MYJ97031.1};
+Bit Score: 87.0
+E-value: 0.01987
+Alignment Length: 131
+Percentage Identity: 0.145
+
+=== A0A0F9PIU9 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 82.0
+E-value: 0.01987
+Alignment Length: 166
+Percentage Identity: 0.15
+
+=== A0A7C3ZGT2 ===
+DE   RecName: Full=Holliday junction resolvase {ECO:0008006|Google:ProtNLM};
+Bit Score: 81.0
+E-value: 0.01987
+Alignment Length: 95
+Percentage Identity: 0.221
+
+=== A0A1J1AFN7 ===
+DE   SubName: Full=Holliday junction resolvase {ECO:0000313|EMBL:APE96487.1};
+Bit Score: 73.0
+E-value: 0.0212
+Alignment Length: 136
+Percentage Identity: 0.161
+
+=== A0A497C0E3 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 97.0
+E-value: 0.02413
+Alignment Length: 87
+Percentage Identity: 0.206
+
+=== A0A7J3KEN4 ===
+DE   SubName: Full=Holliday junction resolvase {ECO:0000313|EMBL:HGQ55916.1};
+Bit Score: 87.0
+E-value: 0.02413
+Alignment Length: 123
+Percentage Identity: 0.211
+
+=== A0A5E4J3H1 ===
+DE   SubName: Full=Holliday junction resolvase Hjc {ECO:0000313|EMBL:VVB70255.1};
+DE            EC=3.1.22.4 {ECO:0000313|EMBL:VVB70255.1};
+Bit Score: 80.0
+E-value: 0.02413
+Alignment Length: 94
+Percentage Identity: 0.17
+
+=== A0A2R6GFQ5 ===
+DE   RecName: Full=Crossover junction endodeoxyribonuclease Hjc {ECO:0000256|HAMAP-Rule:MF_01490};
+DE            Short=Hjc {ECO:0000256|HAMAP-Rule:MF_01490};
+DE            EC=3.1.21.10 {ECO:0000256|HAMAP-Rule:MF_01490};
+DE   AltName: Full=Holliday junction resolvase Hjc {ECO:0000256|HAMAP-Rule:MF_01490};
+Bit Score: 67.0
+E-value: 0.02413
+Alignment Length: 143
+Percentage Identity: 0.146
+
+=== A0A843MGI3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBQ0107431.1};
+Bit Score: 86.0
+E-value: 0.03557
+Alignment Length: 125
+Percentage Identity: 0.064
+
+=== A0A357TBS5 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523};
+Bit Score: 85.0
+E-value: 0.03557
+Alignment Length: 143
+Percentage Identity: 0.139
+
+=== A8FEG6 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000255|HAMAP-Rule:MF_00130};
+DE            EC=3.1.21.10 {ECO:0000255|HAMAP-Rule:MF_00130};
+DE   AltName: Full=Recombination protein U homolog {ECO:0000255|HAMAP-Rule:MF_00130};
+Bit Score: 77.0
+E-value: 0.03557
+Alignment Length: 140
+Percentage Identity: 0.142
+
+=== A0A496X720 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RLA51611.1};
+Bit Score: 82.0
+E-value: 0.03794
+Alignment Length: 124
+Percentage Identity: 0.209
+
+=== A0A1Y4W9S8 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523};
+Bit Score: 82.0
+E-value: 0.03794
+Alignment Length: 139
+Percentage Identity: 0.165
+
+=== A0A150NDW6 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523, ECO:0000256|HAMAP-Rule:MF_00130};
+DE            EC=3.1.21.10 {ECO:0000256|HAMAP-Rule:MF_00130, ECO:0000256|NCBIfam:TIGR00648};
+DE   AltName: Full=Recombination protein U homolog {ECO:0000256|HAMAP-Rule:MF_00130};
+Bit Score: 87.0
+E-value: 0.04048
+Alignment Length: 169
+Percentage Identity: 0.142
+
+=== A0A1G3WNB5 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523, ECO:0000256|HAMAP-Rule:MF_00130};
+DE            EC=3.1.21.10 {ECO:0000256|HAMAP-Rule:MF_00130};
+DE   AltName: Full=Recombination protein U homolog {ECO:0000256|HAMAP-Rule:MF_00130};
+Bit Score: 95.0
+E-value: 0.04318
+Alignment Length: 167
+Percentage Identity: 0.137
+
+=== A0A7G2RPK0 ===
+DE   RecName: Full=GH10 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 79.0
+E-value: 0.04318
+Alignment Length: 96
+Percentage Identity: 0.145
+
+=== U2DZG0 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523, ECO:0000256|HAMAP-Rule:MF_00130};
+DE            EC=3.1.21.10 {ECO:0000256|HAMAP-Rule:MF_00130};
+DE   AltName: Full=Recombination protein U homolog {ECO:0000256|HAMAP-Rule:MF_00130};
+Bit Score: 69.0
+E-value: 0.04318
+Alignment Length: 145
+Percentage Identity: 0.151
+
+=== A0A842FTE5 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523, ECO:0000256|HAMAP-Rule:MF_00130};
+DE            EC=3.1.21.10 {ECO:0000256|HAMAP-Rule:MF_00130, ECO:0000256|NCBIfam:TIGR00648};
+DE   AltName: Full=Recombination protein U homolog {ECO:0000256|HAMAP-Rule:MF_00130};
+Bit Score: 82.0
+E-value: 0.04607
+Alignment Length: 145
+Percentage Identity: 0.186
+
+=== A0A7C0YTD3 ===
+DE   RecName: Full=Crossover junction endodeoxyribonuclease Hjc {ECO:0000256|HAMAP-Rule:MF_01490};
+DE            Short=Hjc {ECO:0000256|HAMAP-Rule:MF_01490};
+DE            EC=3.1.21.10 {ECO:0000256|HAMAP-Rule:MF_01490};
+DE   AltName: Full=Holliday junction resolvase Hjc {ECO:0000256|HAMAP-Rule:MF_01490};
+Bit Score: 76.0
+E-value: 0.04607
+Alignment Length: 141
+Percentage Identity: 0.156
+
+=== A0A416S1K6 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523};
+Bit Score: 76.0
+E-value: 0.04607
+Alignment Length: 144
+Percentage Identity: 0.152
+
+=== A0A7Y8V116 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523, ECO:0000256|HAMAP-Rule:MF_00130};
+DE            EC=3.1.21.10 {ECO:0000256|HAMAP-Rule:MF_00130, ECO:0000256|NCBIfam:TIGR00648};
+DE   AltName: Full=Recombination protein U homolog {ECO:0000256|HAMAP-Rule:MF_00130};
+Bit Score: 75.0
+E-value: 0.04915
+Alignment Length: 139
+Percentage Identity: 0.151
+
+=== A0A7X7PZP4 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523, ECO:0000256|HAMAP-Rule:MF_00130};
+DE            EC=3.1.21.10 {ECO:0000256|HAMAP-Rule:MF_00130, ECO:0000256|NCBIfam:TIGR00648};
+DE   AltName: Full=Recombination protein U homolog {ECO:0000256|HAMAP-Rule:MF_00130};
+Bit Score: 73.0
+E-value: 0.04915
+Alignment Length: 139
+Percentage Identity: 0.179
+

@@ -1,0 +1,7 @@
+=== A0A2T4MWB4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PTH78880.1};
+Bit Score: 122.0
+E-value: 0.002635
+Alignment Length: 102
+Percentage Identity: 0.264
+

@@ -1,0 +1,71 @@
+=== A0A2D5TSU5 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:MAD98739.1};
+Bit Score: 283.0
+E-value: 4.114e-06
+Alignment Length: 104
+Percentage Identity: 0.375
+
+=== A0A0F9P8E7 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 295.0
+E-value: 9.756e-06
+Alignment Length: 103
+Percentage Identity: 0.3
+
+=== A0A2E3MWI4 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 262.0
+E-value: 1.378e-05
+Alignment Length: 111
+Percentage Identity: 0.324
+
+=== A0A7X6DTP2 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:NKE72994.1};
+Bit Score: 106.0
+E-value: 0.007313
+Alignment Length: 119
+Percentage Identity: 0.201
+
+=== C9LWM5 ===
+DE   SubName: Full=DNA-binding helix-turn-helix protein {ECO:0000313|EMBL:EEX76773.1};
+DE   SubName: Full=Helix-turn-helix domain protein {ECO:0000313|EMBL:AEB99624.1};
+Bit Score: 104.0
+E-value: 0.008692
+Alignment Length: 130
+Percentage Identity: 0.176
+
+=== A0A1U7VWG8 ===
+DE   SubName: Full=Multiprotein-bridging factor 1c-like {ECO:0000313|RefSeq:XP_009766295.1};
+Bit Score: 99.0
+E-value: 0.01837
+Alignment Length: 130
+Percentage Identity: 0.2
+
+=== A0A1G9UAV2 ===
+DE   SubName: Full=Transcriptional regulator, contains XRE-family HTH domain {ECO:0000313|EMBL:SDM57090.1};
+Bit Score: 94.0
+E-value: 0.02595
+Alignment Length: 125
+Percentage Identity: 0.128
+
+=== A0A759WCH7 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:HAG2208842.1};
+Bit Score: 93.0
+E-value: 0.02911
+Alignment Length: 150
+Percentage Identity: 0.186
+
+=== A0A828NZU4 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:EFM8154317.1};
+Bit Score: 89.0
+E-value: 0.02911
+Alignment Length: 139
+Percentage Identity: 0.136
+
+=== A0A163GJZ7 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:EAC0673023.1};
+Bit Score: 89.0
+E-value: 0.03266
+Alignment Length: 133
+Percentage Identity: 0.127
+

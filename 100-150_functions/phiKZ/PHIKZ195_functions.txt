@@ -1,0 +1,65 @@
+=== A0A673FPQ2 ===
+DE   SubName: Full=Protein interacting with cyclin A1 {ECO:0000313|Ensembl:ENSSRHP00000002848.1};
+Bit Score: 86.0
+E-value: 0.006917
+Alignment Length: 99
+Percentage Identity: 0.121
+
+=== K9UJD3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AFY94289.1};
+Bit Score: 87.0
+E-value: 0.0124
+Alignment Length: 137
+Percentage Identity: 0.109
+
+=== A0A3L7NPG4 ===
+DE   SubName: Full=PDZ domain-containing protein {ECO:0000313|EMBL:RLS34658.1};
+Bit Score: 78.0
+E-value: 0.0176
+Alignment Length: 103
+Percentage Identity: 0.116
+
+=== A0A358V1T1 ===
+DE   RecName: Full=ROK family protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 85.0
+E-value: 0.02096
+Alignment Length: 108
+Percentage Identity: 0.12
+
+=== E7RCN5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EGA91400.1};
+Bit Score: 89.0
+E-value: 0.02356
+Alignment Length: 98
+Percentage Identity: 0.142
+
+=== A0A0R2GTB6 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 70.0
+E-value: 0.03544
+Alignment Length: 96
+Percentage Identity: 0.104
+
+=== E7F6W0 ===
+DE   SubName: Full=Protein-interacting with cyclin A1 {ECO:0000313|Ensembl:ENSDARP00000092693};
+DE   SubName: Full=Uncharacterized protein proca1 {ECO:0000313|RefSeq:XP_009289846.1, ECO:0000313|RefSeq:XP_021328590.1};
+Bit Score: 75.0
+E-value: 0.03757
+Alignment Length: 99
+Percentage Identity: 0.121
+
+=== W5K926 ===
+DE   SubName: Full=Uncharacterized LOC103023370 {ECO:0000313|Ensembl:ENSAMXP00000004087.2};
+Bit Score: 83.0
+E-value: 0.04745
+Alignment Length: 99
+Percentage Identity: 0.131
+
+=== A0A2H6EZE5 ===
+DE   RecName: Full=DUF2953 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 82.0
+E-value: 0.04745
+Alignment Length: 92
+Percentage Identity: 0.108
+

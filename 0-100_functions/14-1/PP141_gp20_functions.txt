@@ -1,0 +1,28 @@
+=== A0A2Z5UVT6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:BBB15141.1};
+Bit Score: 153.0
+E-value: 0.00958
+Alignment Length: 48
+Percentage Identity: 0.5
+
+=== A0A257QUI7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OYV52002.1};
+Bit Score: 99.0
+E-value: 0.0333
+Alignment Length: 73
+Percentage Identity: 0.342
+
+=== A0A352NNU1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HBC94374.1};
+Bit Score: 101.0
+E-value: 0.04392
+Alignment Length: 68
+Percentage Identity: 0.382
+
+=== A0A158D4F8 ===
+DE   RecName: Full=Transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 123.0
+E-value: 0.04707
+Alignment Length: 50
+Percentage Identity: 0.46
+

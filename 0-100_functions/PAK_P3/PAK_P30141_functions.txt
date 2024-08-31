@@ -1,0 +1,7 @@
+=== A0A166WSH8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KZP34065.1};
+Bit Score: 97.0
+E-value: 0.01994
+Alignment Length: 78
+Percentage Identity: 0.153
+

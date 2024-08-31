@@ -1,0 +1,1116 @@
+=== A0A2E7I117 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 654.0
+E-value: 2.356e-17
+Alignment Length: 124
+Percentage Identity: 0.54
+
+=== A0A386UJB8 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:AYF00448.1};
+Bit Score: 265.0
+E-value: 1.061e-07
+Alignment Length: 135
+Percentage Identity: 0.229
+
+=== A0A482IPI4 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:QBP09846.1};
+Bit Score: 232.0
+E-value: 1.167e-06
+Alignment Length: 130
+Percentage Identity: 0.207
+
+=== A0A059PCT9 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 215.0
+E-value: 1.836e-06
+Alignment Length: 131
+Percentage Identity: 0.198
+
+=== A0A3B0JN54 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 212.0
+E-value: 2.23e-06
+Alignment Length: 128
+Percentage Identity: 0.203
+
+=== A0A1J5P634 ===
+DE   RecName: Full=Bacteriophage lambda head decoration protein D {ECO:0008006|Google:ProtNLM};
+Bit Score: 221.0
+E-value: 2.539e-06
+Alignment Length: 133
+Percentage Identity: 0.263
+
+=== A0A0P7ZPA1 ===
+DE   SubName: Full=Bacteriophage lambda head decoration protein D {ECO:0000313|EMBL:KPQ06193.1};
+Bit Score: 208.0
+E-value: 2.539e-06
+Alignment Length: 139
+Percentage Identity: 0.251
+
+=== A0A7K0GP90 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:MRY60517.1};
+Bit Score: 235.0
+E-value: 2.89e-06
+Alignment Length: 124
+Percentage Identity: 0.241
+
+=== A0A5K8AHC4 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 211.0
+E-value: 2.89e-06
+Alignment Length: 132
+Percentage Identity: 0.25
+
+=== B9A907 ===
+DE   SubName: Full=Uncharacterized protein B3gp19 {ECO:0000313|EMBL:BAH22288.1};
+Bit Score: 205.0
+E-value: 3.996e-06
+Alignment Length: 128
+Percentage Identity: 0.187
+
+=== A0A3M1AD10 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:RMD93351.1};
+Bit Score: 200.0
+E-value: 4.854e-06
+Alignment Length: 133
+Percentage Identity: 0.263
+
+=== A0A6J4G140 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 191.0
+E-value: 6.29e-06
+Alignment Length: 135
+Percentage Identity: 0.237
+
+=== A0A257GKR3 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:OYU38934.1};
+Bit Score: 209.0
+E-value: 7.16e-06
+Alignment Length: 133
+Percentage Identity: 0.248
+
+=== A0A258L5E5 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 195.0
+E-value: 7.16e-06
+Alignment Length: 141
+Percentage Identity: 0.226
+
+=== A0A349Y7A8 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:HAU81173.1};
+DE   Flags: Fragment;
+Bit Score: 198.0
+E-value: 7.64e-06
+Alignment Length: 128
+Percentage Identity: 0.226
+
+=== D9QFX9 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 167.0
+E-value: 8.697e-06
+Alignment Length: 146
+Percentage Identity: 0.198
+
+=== A0A4Q7BJK8 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:RZG81822.1};
+Bit Score: 187.0
+E-value: 1.369e-05
+Alignment Length: 139
+Percentage Identity: 0.215
+
+=== B0RYH0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAP52690.1};
+Bit Score: 192.0
+E-value: 1.461e-05
+Alignment Length: 132
+Percentage Identity: 0.204
+
+=== A0A1B8Q526 ===
+DE   RecName: Full=Bacteriophage lambda head decoration protein D {ECO:0008006|Google:ProtNLM};
+Bit Score: 177.0
+E-value: 1.461e-05
+Alignment Length: 134
+Percentage Identity: 0.231
+
+=== A0A450WZU1 ===
+DE   SubName: Full=Bacteriophage lambda head decoration protein D {ECO:0000313|EMBL:VFK22564.1};
+Bit Score: 194.0
+E-value: 1.663e-05
+Alignment Length: 130
+Percentage Identity: 0.223
+
+=== Q602Y4 ===
+DE   RecName: Full=Bacteriophage lambda head decoration protein D {ECO:0008006|Google:ProtNLM};
+Bit Score: 178.0
+E-value: 2.02e-05
+Alignment Length: 138
+Percentage Identity: 0.253
+
+=== A0A7X6FSC8 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:NKW09418.1};
+Bit Score: 188.0
+E-value: 2.299e-05
+Alignment Length: 133
+Percentage Identity: 0.225
+
+=== A0A496VSD7 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:RKZ75775.1};
+Bit Score: 180.0
+E-value: 2.453e-05
+Alignment Length: 131
+Percentage Identity: 0.229
+
+=== A0A840RPC3 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 180.0
+E-value: 2.453e-05
+Alignment Length: 126
+Percentage Identity: 0.222
+
+=== A0A3C1SU28 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:HAO34041.1};
+Bit Score: 182.0
+E-value: 2.617e-05
+Alignment Length: 137
+Percentage Identity: 0.218
+
+=== B8IDQ9 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 188.0
+E-value: 3.392e-05
+Alignment Length: 135
+Percentage Identity: 0.207
+
+=== H0A594 ===
+DE   RecName: Full=Bacteriophage lambda head decoration protein D {ECO:0008006|Google:ProtNLM};
+Bit Score: 165.0
+E-value: 3.861e-05
+Alignment Length: 138
+Percentage Identity: 0.224
+
+=== A0A6N8DTY2 ===
+DE   RecName: Full=Bacteriophage lambda head decoration protein D {ECO:0008006|Google:ProtNLM};
+Bit Score: 169.0
+E-value: 4.119e-05
+Alignment Length: 132
+Percentage Identity: 0.219
+
+=== Q6AMW1 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 178.0
+E-value: 4.395e-05
+Alignment Length: 132
+Percentage Identity: 0.234
+
+=== A0A3A8E833 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:RKG30288.1};
+Bit Score: 169.0
+E-value: 4.395e-05
+Alignment Length: 131
+Percentage Identity: 0.236
+
+=== A0A354XIF1 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:HBK36798.1};
+Bit Score: 174.0
+E-value: 5.696e-05
+Alignment Length: 128
+Percentage Identity: 0.179
+
+=== A0A248JRT6 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:ASG21405.1};
+Bit Score: 170.0
+E-value: 5.696e-05
+Alignment Length: 131
+Percentage Identity: 0.213
+
+=== A0A7U3YZH0 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 159.0
+E-value: 5.696e-05
+Alignment Length: 121
+Percentage Identity: 0.214
+
+=== A0A175R742 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 166.0
+E-value: 7.875e-05
+Alignment Length: 135
+Percentage Identity: 0.259
+
+=== A0A330H7U5 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:RAZ84440.1};
+Bit Score: 166.0
+E-value: 7.875e-05
+Alignment Length: 140
+Percentage Identity: 0.242
+
+=== A0A378QQA0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:STZ02851.1};
+Bit Score: 154.0
+E-value: 7.875e-05
+Alignment Length: 138
+Percentage Identity: 0.239
+
+=== A0A1G7GQT3 ===
+DE   SubName: Full=Bacteriophage lambda head decoration protein D {ECO:0000313|EMBL:SDE90329.1};
+Bit Score: 174.0
+E-value: 8.403e-05
+Alignment Length: 134
+Percentage Identity: 0.223
+
+=== A0A081N7S9 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 172.0
+E-value: 8.403e-05
+Alignment Length: 131
+Percentage Identity: 0.236
+
+=== A0A2M9E9N4 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 168.0
+E-value: 8.403e-05
+Alignment Length: 131
+Percentage Identity: 0.16
+
+=== V2UG53 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 163.0
+E-value: 8.965e-05
+Alignment Length: 130
+Percentage Identity: 0.23
+
+=== A0A661CKV4 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 162.0
+E-value: 0.0001021
+Alignment Length: 131
+Percentage Identity: 0.16
+
+=== A0A1Y5K8D1 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 149.0
+E-value: 0.0001021
+Alignment Length: 101
+Percentage Identity: 0.267
+
+=== A0A5J6QLA2 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:QEY62535.1};
+Bit Score: 168.0
+E-value: 0.000124
+Alignment Length: 126
+Percentage Identity: 0.222
+
+=== A0A4R2P7T2 ===
+DE   SubName: Full=Bacteriophage lambda head decoration protein D {ECO:0000313|EMBL:TCP30051.1};
+Bit Score: 161.0
+E-value: 0.000124
+Alignment Length: 132
+Percentage Identity: 0.204
+
+=== A0A496X4P3 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:RLA50063.1};
+Bit Score: 164.0
+E-value: 0.0001714
+Alignment Length: 128
+Percentage Identity: 0.226
+
+=== A0A4D8PWY5 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:QCO03034.1};
+Bit Score: 159.0
+E-value: 0.0001714
+Alignment Length: 140
+Percentage Identity: 0.171
+
+=== A0A212SEZ5 ===
+DE   SubName: Full=Bacteriophage lambda head decoration protein D {ECO:0000313|EMBL:SNB84206.1};
+Bit Score: 157.0
+E-value: 0.0001714
+Alignment Length: 134
+Percentage Identity: 0.238
+
+=== A0A431VC84 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:RTR16173.1};
+Bit Score: 156.0
+E-value: 0.0001714
+Alignment Length: 143
+Percentage Identity: 0.195
+
+=== A0A450YW62 ===
+DE   SubName: Full=Bacteriophage lambda head decoration protein D {ECO:0000313|EMBL:VFK45788.1};
+Bit Score: 164.0
+E-value: 0.0001829
+Alignment Length: 125
+Percentage Identity: 0.168
+
+=== A0A081NI12 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 163.0
+E-value: 0.0001951
+Alignment Length: 142
+Percentage Identity: 0.204
+
+=== G7GB07 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 157.0
+E-value: 0.0001951
+Alignment Length: 134
+Percentage Identity: 0.231
+
+=== A0A1G5T1I1 ===
+DE   SubName: Full=Bacteriophage lambda head decoration protein D {ECO:0000313|EMBL:SDA14978.1};
+Bit Score: 154.0
+E-value: 0.0001951
+Alignment Length: 140
+Percentage Identity: 0.214
+
+=== A0A1M7D9R4 ===
+DE   SubName: Full=Bacteriophage lambda head decoration protein D {ECO:0000313|EMBL:SHL75929.1};
+Bit Score: 153.0
+E-value: 0.0001951
+Alignment Length: 146
+Percentage Identity: 0.184
+
+=== A0A161X1U3 ===
+DE   RecName: Full=Bacteriophage lambda head decoration protein D {ECO:0008006|Google:ProtNLM};
+Bit Score: 128.0
+E-value: 0.0002082
+Alignment Length: 144
+Percentage Identity: 0.194
+
+=== A0A165SUA5 ===
+DE   RecName: Full=Bacteriophage lambda head decoration protein D {ECO:0008006|Google:ProtNLM};
+Bit Score: 159.0
+E-value: 0.0002221
+Alignment Length: 127
+Percentage Identity: 0.291
+
+=== A0A1V2H5X1 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 163.0
+E-value: 0.0002698
+Alignment Length: 129
+Percentage Identity: 0.224
+
+=== A0A165U8Q6 ===
+DE   RecName: Full=Bacteriophage lambda head decoration protein D {ECO:0008006|Google:ProtNLM};
+Bit Score: 146.0
+E-value: 0.0002698
+Alignment Length: 135
+Percentage Identity: 0.17
+
+=== A0A1M7ZLZ0 ===
+DE   SubName: Full=Bacteriophage lambda head decoration protein D {ECO:0000313|EMBL:SHO65822.1};
+Bit Score: 153.0
+E-value: 0.0002878
+Alignment Length: 137
+Percentage Identity: 0.24
+
+=== A0A7Y7LRD0 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 128.0
+E-value: 0.0002878
+Alignment Length: 113
+Percentage Identity: 0.23
+
+=== A0A1H8THH8 ===
+DE   SubName: Full=Bacteriophage lambda head decoration protein D {ECO:0000313|EMBL:SEO89993.1};
+Bit Score: 148.0
+E-value: 0.0003071
+Alignment Length: 136
+Percentage Identity: 0.213
+
+=== A0A4Q5TP19 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RYY51278.1};
+Bit Score: 152.0
+E-value: 0.0003277
+Alignment Length: 149
+Percentage Identity: 0.187
+
+=== D2U9G8 ===
+DE   SubName: Full=Hypothetical phage-related protein {ECO:0000313|EMBL:CBA14756.1};
+Bit Score: 153.0
+E-value: 0.000398
+Alignment Length: 131
+Percentage Identity: 0.221
+
+=== A0A7C1YPU7 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:HEC04786.1};
+Bit Score: 152.0
+E-value: 0.000398
+Alignment Length: 138
+Percentage Identity: 0.21
+
+=== A0A847KRB0 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:NLI26787.1};
+Bit Score: 144.0
+E-value: 0.000398
+Alignment Length: 124
+Percentage Identity: 0.169
+
+=== A8U1Z7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EDP61714.1};
+Bit Score: 141.0
+E-value: 0.000398
+Alignment Length: 119
+Percentage Identity: 0.226
+
+=== A0A4V1IMV2 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:RDH41521.1};
+Bit Score: 154.0
+E-value: 0.0004246
+Alignment Length: 126
+Percentage Identity: 0.182
+
+=== A0A017HCB9 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 150.0
+E-value: 0.0004246
+Alignment Length: 141
+Percentage Identity: 0.148
+
+=== A0A8B2PH31 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 142.0
+E-value: 0.0004246
+Alignment Length: 140
+Percentage Identity: 0.185
+
+=== A0A558HG20 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:TVU68067.1};
+DE   Flags: Fragment;
+Bit Score: 147.0
+E-value: 0.0005871
+Alignment Length: 131
+Percentage Identity: 0.19
+
+=== A0A196NUX5 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 129.0
+E-value: 0.0006264
+Alignment Length: 149
+Percentage Identity: 0.14
+
+=== A0A255YQF4 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.0006684
+Alignment Length: 133
+Percentage Identity: 0.187
+
+=== A0A4R5HG44 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:TDF41900.1};
+Bit Score: 158.0
+E-value: 0.0007609
+Alignment Length: 121
+Percentage Identity: 0.165
+
+=== A0A497TNX0 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:RLJ20791.1};
+Bit Score: 145.0
+E-value: 0.0007609
+Alignment Length: 131
+Percentage Identity: 0.19
+
+=== A0A255XTB1 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 138.0
+E-value: 0.0007609
+Alignment Length: 148
+Percentage Identity: 0.216
+
+=== A0A1I4C6H7 ===
+DE   SubName: Full=Bacteriophage lambda head decoration protein D {ECO:0000313|EMBL:SFK76744.1};
+Bit Score: 138.0
+E-value: 0.0007609
+Alignment Length: 132
+Percentage Identity: 0.189
+
+=== A0A495D1N8 ===
+DE   SubName: Full=Bacteriophage lambda head decoration protein D {ECO:0000313|EMBL:RKQ95427.1};
+Bit Score: 116.0
+E-value: 0.0007609
+Alignment Length: 232
+Percentage Identity: 0.159
+
+=== W6MCL1 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 139.0
+E-value: 0.0008118
+Alignment Length: 140
+Percentage Identity: 0.192
+
+=== A0A6F8URP2 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 137.0
+E-value: 0.0008118
+Alignment Length: 132
+Percentage Identity: 0.242
+
+=== G1UYV3 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 130.0
+E-value: 0.0008662
+Alignment Length: 144
+Percentage Identity: 0.159
+
+=== A0A506TXI8 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:TPW26026.1};
+Bit Score: 140.0
+E-value: 0.0009242
+Alignment Length: 127
+Percentage Identity: 0.173
+
+=== A0A0L8BTK5 ===
+DE   RecName: Full=Bacteriophage lambda head decoration protein D {ECO:0008006|Google:ProtNLM};
+Bit Score: 145.0
+E-value: 0.001052
+Alignment Length: 132
+Percentage Identity: 0.189
+
+=== A0A2D5H7M3 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:MAC56931.1};
+Bit Score: 143.0
+E-value: 0.001052
+Alignment Length: 132
+Percentage Identity: 0.242
+
+=== A0A0D0H635 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 120.0
+E-value: 0.001052
+Alignment Length: 132
+Percentage Identity: 0.159
+
+=== A0A3N1MG61 ===
+DE   SubName: Full=Bacteriophage lambda head decoration protein D {ECO:0000313|EMBL:ROQ00186.1};
+Bit Score: 131.0
+E-value: 0.001122
+Alignment Length: 235
+Percentage Identity: 0.144
+
+=== A0A7Z7VM60 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:TBM39816.1};
+Bit Score: 128.0
+E-value: 0.001278
+Alignment Length: 115
+Percentage Identity: 0.217
+
+=== A0A2X1BHK9 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 141.0
+E-value: 0.001363
+Alignment Length: 136
+Percentage Identity: 0.183
+
+=== A0A530B340 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:TIW11275.1};
+Bit Score: 128.0
+E-value: 0.001363
+Alignment Length: 135
+Percentage Identity: 0.177
+
+=== Q11J13 ===
+DE   RecName: Full=Bacteriophage lambda head decoration protein D {ECO:0008006|Google:ProtNLM};
+Bit Score: 137.0
+E-value: 0.001455
+Alignment Length: 128
+Percentage Identity: 0.187
+
+=== A0A549T0V5 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:TRL35501.1};
+Bit Score: 139.0
+E-value: 0.001552
+Alignment Length: 132
+Percentage Identity: 0.234
+
+=== A0A0T5PP98 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 135.0
+E-value: 0.001552
+Alignment Length: 119
+Percentage Identity: 0.193
+
+=== A0A4Q8M7B6 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:TAA45653.1};
+Bit Score: 135.0
+E-value: 0.001656
+Alignment Length: 139
+Percentage Identity: 0.165
+
+=== A0A014LWD1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EXU73881.1};
+Bit Score: 123.0
+E-value: 0.001656
+Alignment Length: 126
+Percentage Identity: 0.174
+
+=== A0A839Z9X3 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 120.0
+E-value: 0.001656
+Alignment Length: 143
+Percentage Identity: 0.16
+
+=== A0A3A9BHC4 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:RKI99331.1};
+Bit Score: 111.0
+E-value: 0.001656
+Alignment Length: 138
+Percentage Identity: 0.195
+
+=== A0A7W8PLL6 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 111.0
+E-value: 0.001656
+Alignment Length: 132
+Percentage Identity: 0.174
+
+=== A0A1H8AYZ1 ===
+DE   SubName: Full=Bacteriophage lambda head decoration protein D {ECO:0000313|EMBL:SEM74998.1};
+Bit Score: 105.0
+E-value: 0.001767
+Alignment Length: 224
+Percentage Identity: 0.12
+
+=== A0A2G1Z9G9 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:PHQ72386.1};
+Bit Score: 137.0
+E-value: 0.001885
+Alignment Length: 145
+Percentage Identity: 0.165
+
+=== A0A7X0AWK3 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 131.0
+E-value: 0.001885
+Alignment Length: 133
+Percentage Identity: 0.187
+
+=== A0A4Q7F1V8 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:RZM99949.1};
+Bit Score: 123.0
+E-value: 0.002146
+Alignment Length: 123
+Percentage Identity: 0.17
+
+=== A0A285MAF3 ===
+DE   SubName: Full=Bacteriophage lambda head decoration protein D {ECO:0000313|EMBL:SNY94068.1};
+Bit Score: 130.0
+E-value: 0.002443
+Alignment Length: 142
+Percentage Identity: 0.154
+
+=== A0A0T9XJ66 ===
+DE   SubName: Full=Gifsy-1 prophage head protein gpshp {ECO:0000313|EMBL:CNU60935.1};
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:SUE47996.1};
+Bit Score: 109.0
+E-value: 0.002606
+Alignment Length: 101
+Percentage Identity: 0.188
+
+=== G1UXQ8 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 111.0
+E-value: 0.002781
+Alignment Length: 153
+Percentage Identity: 0.196
+
+=== M1NU44 ===
+DE   SubName: Full=Phage protein {ECO:0000313|EMBL:AGF74833.1};
+Bit Score: 130.0
+E-value: 0.003378
+Alignment Length: 130
+Percentage Identity: 0.192
+
+=== A0A6M3J7X2 ===
+DE   SubName: Full=Putative head decoration protein {ECO:0000313|EMBL:QJA65528.1};
+Bit Score: 122.0
+E-value: 0.003378
+Alignment Length: 130
+Percentage Identity: 0.169
+
+=== F2K217 ===
+DE   SubName: Full=Hypothetical phage-related protein {ECO:0000313|EMBL:ADZ91095.1};
+Bit Score: 133.0
+E-value: 0.003604
+Alignment Length: 134
+Percentage Identity: 0.171
+
+=== A0A0F9UV47 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 113.0
+E-value: 0.003604
+Alignment Length: 72
+Percentage Identity: 0.263
+
+=== A0A174UH83 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.003604
+Alignment Length: 126
+Percentage Identity: 0.198
+
+=== A0A1H1JS83 ===
+DE   RecName: Full=Bacteriophage lambda head decoration protein D {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.003604
+Alignment Length: 137
+Percentage Identity: 0.167
+
+=== A0A0E3VUK9 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 116.0
+E-value: 0.003845
+Alignment Length: 110
+Percentage Identity: 0.145
+
+=== A0A0M9GN54 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 128.0
+E-value: 0.004103
+Alignment Length: 138
+Percentage Identity: 0.152
+
+=== A0A2U3MY67 ===
+DE   RecName: Full=DUF3850 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 100.0
+E-value: 0.004103
+Alignment Length: 132
+Percentage Identity: 0.151
+
+=== A0A257ET81 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:OYU16629.1};
+Bit Score: 111.0
+E-value: 0.004377
+Alignment Length: 101
+Percentage Identity: 0.247
+
+=== A0A316MRT9 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.004377
+Alignment Length: 136
+Percentage Identity: 0.264
+
+=== A0A2W6WBG6 ===
+DE   RecName: Full=Exo-alpha-sialidase {ECO:0008006|Google:ProtNLM};
+Bit Score: 95.0
+E-value: 0.004983
+Alignment Length: 144
+Percentage Identity: 0.125
+
+=== F7XZX5 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.005317
+Alignment Length: 127
+Percentage Identity: 0.173
+
+=== A0A511Z845 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 105.0
+E-value: 0.005673
+Alignment Length: 136
+Percentage Identity: 0.154
+
+=== Q4FT00 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.005673
+Alignment Length: 137
+Percentage Identity: 0.175
+
+=== A0L9A3 ===
+DE   SubName: Full=Putative phage protein GP19 {ECO:0000313|EMBL:ABK44546.1};
+Bit Score: 103.0
+E-value: 0.006052
+Alignment Length: 233
+Percentage Identity: 0.141
+
+=== A0A450VFW4 ===
+DE   SubName: Full=Bacteriophage lambda head decoration protein D {ECO:0000313|EMBL:VFK03655.1};
+Bit Score: 117.0
+E-value: 0.006458
+Alignment Length: 120
+Percentage Identity: 0.275
+
+=== N9G0J8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ENW28467.1};
+Bit Score: 99.0
+E-value: 0.006458
+Alignment Length: 134
+Percentage Identity: 0.156
+
+=== A0A1G5CGI7 ===
+DE   SubName: Full=Bacteriophage lambda head decoration protein D {ECO:0000313|EMBL:SCY01431.1};
+Bit Score: 92.0
+E-value: 0.006458
+Alignment Length: 111
+Percentage Identity: 0.234
+
+=== A0A0M3AYX1 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.00689
+Alignment Length: 109
+Percentage Identity: 0.238
+
+=== A0A432VKJ9 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:RUN77324.1};
+Bit Score: 111.0
+E-value: 0.007351
+Alignment Length: 66
+Percentage Identity: 0.212
+
+=== A0A1Q8M8Y1 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:OOO81963.1};
+Bit Score: 100.0
+E-value: 0.007351
+Alignment Length: 127
+Percentage Identity: 0.188
+
+=== A0A844LIQ3 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:MTU44580.1};
+Bit Score: 129.0
+E-value: 0.008369
+Alignment Length: 86
+Percentage Identity: 0.209
+
+=== A0A653RBF7 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:VXB52851.1};
+Bit Score: 83.0
+E-value: 0.008929
+Alignment Length: 229
+Percentage Identity: 0.122
+
+=== D8JWC0 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 95.0
+E-value: 0.009527
+Alignment Length: 226
+Percentage Identity: 0.15
+
+=== A0A7G8VCB3 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:QNK65756.1};
+Bit Score: 114.0
+E-value: 0.01016
+Alignment Length: 137
+Percentage Identity: 0.167
+
+=== A0A6L5Z674 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:MSU92081.1};
+Bit Score: 113.0
+E-value: 0.01016
+Alignment Length: 106
+Percentage Identity: 0.207
+
+=== A0A1D2SDP2 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.01084
+Alignment Length: 121
+Percentage Identity: 0.157
+
+=== A0A239CB89 ===
+DE   SubName: Full=Bacteriophage lambda head decoration protein D {ECO:0000313|EMBL:SNS16633.1};
+Bit Score: 97.0
+E-value: 0.01084
+Alignment Length: 231
+Percentage Identity: 0.125
+
+=== S9SBB6 ===
+DE   SubName: Full=Phage protein GP19 {ECO:0000313|EMBL:EPY01388.1};
+Bit Score: 93.0
+E-value: 0.01084
+Alignment Length: 228
+Percentage Identity: 0.144
+
+=== A0A1T4X2F3 ===
+DE   SubName: Full=Bacteriophage lambda head decoration protein D {ECO:0000313|EMBL:SKA83762.1};
+Bit Score: 106.0
+E-value: 0.01157
+Alignment Length: 137
+Percentage Identity: 0.145
+
+=== A0A6N7W5C7 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.01157
+Alignment Length: 133
+Percentage Identity: 0.172
+
+=== A0A2W6ZLU6 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:PZU95563.1};
+Bit Score: 95.0
+E-value: 0.01157
+Alignment Length: 226
+Percentage Identity: 0.106
+
+=== A0A839F9S2 ===
+DE   RecName: Full=Bacteriophage lambda head decoration protein D {ECO:0008006|Google:ProtNLM};
+Bit Score: 103.0
+E-value: 0.01499
+Alignment Length: 143
+Percentage Identity: 0.118
+
+=== A0A0Q4Z1Q2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KQP33824.1};
+Bit Score: 100.0
+E-value: 0.01499
+Alignment Length: 143
+Percentage Identity: 0.153
+
+=== H1PQJ0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EHO83665.1};
+Bit Score: 105.0
+E-value: 0.016
+Alignment Length: 100
+Percentage Identity: 0.16
+
+=== A0A3N9VNN0 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:RQW89951.1};
+Bit Score: 100.0
+E-value: 0.01821
+Alignment Length: 63
+Percentage Identity: 0.285
+
+=== A0A1Q3Z0S7 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 89.0
+E-value: 0.01821
+Alignment Length: 224
+Percentage Identity: 0.138
+
+=== Q727I5 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 88.0
+E-value: 0.01943
+Alignment Length: 107
+Percentage Identity: 0.196
+
+=== A0A5K7ZGS1 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 95.0
+E-value: 0.02212
+Alignment Length: 140
+Percentage Identity: 0.157
+
+=== A0A6N7B4K6 ===
+DE   SubName: Full=Phage protein {ECO:0000313|EMBL:KAF0205501.1};
+Bit Score: 94.0
+E-value: 0.0236
+Alignment Length: 66
+Percentage Identity: 0.196
+
+=== Q72A28 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 90.0
+E-value: 0.0236
+Alignment Length: 114
+Percentage Identity: 0.184
+
+=== A0A3T0L2M4 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:AZV46860.1};
+Bit Score: 75.0
+E-value: 0.0236
+Alignment Length: 117
+Percentage Identity: 0.17
+
+=== A0A139D6M8 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 94.0
+E-value: 0.02518
+Alignment Length: 108
+Percentage Identity: 0.222
+
+=== A0A431I8R0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RTL03609.1};
+Bit Score: 73.0
+E-value: 0.02687
+Alignment Length: 157
+Percentage Identity: 0.152
+
+=== A0A3A6P766 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:RJX35660.1};
+Bit Score: 82.0
+E-value: 0.02867
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== A0A3L7AMB7 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:RLP80572.1};
+Bit Score: 98.0
+E-value: 0.03482
+Alignment Length: 61
+Percentage Identity: 0.229
+
+=== A0A3D6C5E2 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:HCY86671.1};
+Bit Score: 86.0
+E-value: 0.03482
+Alignment Length: 225
+Percentage Identity: 0.102
+
+=== A0A1F9RBM3 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 90.0
+E-value: 0.03715
+Alignment Length: 67
+Percentage Identity: 0.223
+
+=== A0A5N4WAY1 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 86.0
+E-value: 0.03715
+Alignment Length: 109
+Percentage Identity: 0.11
+
+=== A0A1F2YR50 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 95.0
+E-value: 0.03964
+Alignment Length: 63
+Percentage Identity: 0.222
+
+=== A0A5S4WFM2 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:TYL80168.1};
+Bit Score: 94.0
+E-value: 0.04229
+Alignment Length: 65
+Percentage Identity: 0.184
+
+=== A0A2G4KD61 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 85.0
+E-value: 0.04229
+Alignment Length: 240
+Percentage Identity: 0.095
+
+=== A0A1L3SPU5 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 73.0
+E-value: 0.04229
+Alignment Length: 91
+Percentage Identity: 0.208
+
+=== A0A2W4ZJY4 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:PZO82640.1};
+Bit Score: 88.0
+E-value: 0.04512
+Alignment Length: 69
+Percentage Identity: 0.217
+
+=== A0A5E7Z8B4 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 70.0
+E-value: 0.04512
+Alignment Length: 235
+Percentage Identity: 0.14
+
+=== A0A7D7VJE0 ===
+DE   SubName: Full=Head decoration protein {ECO:0000313|EMBL:QMU59005.1};
+Bit Score: 86.0
+E-value: 0.04814
+Alignment Length: 106
+Percentage Identity: 0.132
+

@@ -1,0 +1,65 @@
+=== A0A7D5W1P3 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.005676
+Alignment Length: 111
+Percentage Identity: 0.225
+
+=== A0A5M9J2G7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAA8563228.1};
+Bit Score: 114.0
+E-value: 0.01167
+Alignment Length: 118
+Percentage Identity: 0.237
+
+=== A0A0D1WCB1 ===
+DE   RecName: Full=Ead/Ea22-like family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 111.0
+E-value: 0.01245
+Alignment Length: 114
+Percentage Identity: 0.298
+
+=== A0A6Y5AUI2 ===
+DE   SubName: Full=Ead/Ea22-like family protein {ECO:0000313|EMBL:HAB6079994.1};
+DE   Flags: Fragment;
+Bit Score: 120.0
+E-value: 0.0197
+Alignment Length: 90
+Percentage Identity: 0.233
+
+=== A0A5Y8Q498 ===
+DE   SubName: Full=Ead/Ea22-like family protein {ECO:0000313|EMBL:ECQ5051300.1};
+Bit Score: 107.0
+E-value: 0.0197
+Alignment Length: 113
+Percentage Identity: 0.221
+
+=== A0A1B2F5V4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ANY87678.1};
+Bit Score: 86.0
+E-value: 0.03326
+Alignment Length: 121
+Percentage Identity: 0.206
+
+=== A0A730I3Y8 ===
+DE   SubName: Full=Ead/Ea22-like family protein {ECO:0000313|EMBL:HAE3777248.1};
+DE   Flags: Fragment;
+Bit Score: 102.0
+E-value: 0.03552
+Alignment Length: 113
+Percentage Identity: 0.203
+
+=== W7P356 ===
+DE   RecName: Full=Ead/Ea22-like family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.03792
+Alignment Length: 114
+Percentage Identity: 0.201
+
+=== A0A151BY75 ===
+DE   RecName: Full=PE domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 91.0
+E-value: 0.04049
+Alignment Length: 118
+Percentage Identity: 0.228
+

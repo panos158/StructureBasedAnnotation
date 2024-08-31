@@ -1,0 +1,14 @@
+=== M7C0H7 ===
+DE   SubName: Full=Interferon-related developmental regulator 2 {ECO:0000313|EMBL:EMP33862.1};
+Bit Score: 55.0
+E-value: 0.03683
+Alignment Length: 118
+Percentage Identity: 0.144
+
+=== T1FKD3 ===
+DE   RecName: Full=Mab-21-like nucleotidyltransferase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 56.0
+E-value: 0.03909
+Alignment Length: 121
+Percentage Identity: 0.14
+

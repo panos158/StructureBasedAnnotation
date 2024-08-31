@@ -1,0 +1,56 @@
+=== A0A354IYW7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HBI70705.1};
+Bit Score: 385.0
+E-value: 5.883e-10
+Alignment Length: 102
+Percentage Identity: 0.509
+
+=== A0A522K768 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TAM23747.1};
+Bit Score: 390.0
+E-value: 1.344e-09
+Alignment Length: 97
+Percentage Identity: 0.494
+
+=== A0A494TET5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AYJ85523.1};
+Bit Score: 382.0
+E-value: 2.38e-09
+Alignment Length: 92
+Percentage Identity: 0.565
+
+=== A0A1L3ZS77 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:API58475.1};
+Bit Score: 365.0
+E-value: 9.038e-09
+Alignment Length: 85
+Percentage Identity: 0.576
+
+=== A0A847VG21 ===
+DE   RecName: Full=DUF3310 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 366.0
+E-value: 1.094e-08
+Alignment Length: 85
+Percentage Identity: 0.564
+
+=== A0A7X0AZL7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB6253038.1};
+Bit Score: 327.0
+E-value: 8.353e-08
+Alignment Length: 87
+Percentage Identity: 0.551
+
+=== A0A7Y6NH19 ===
+DE   RecName: Full=3'-phosphatase, 5'-polynucleotide kinase {ECO:0008006|Google:ProtNLM};
+Bit Score: 305.0
+E-value: 4.09e-07
+Alignment Length: 88
+Percentage Identity: 0.454
+
+=== A0A2P4V2T6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:POM31603.1};
+Bit Score: 128.0
+E-value: 0.0001413
+Alignment Length: 131
+Percentage Identity: 0.335
+

@@ -1,0 +1,7 @@
+=== A0A1I5C9M8 ===
+DE   RecName: Full=IraD/Gp25-like domain-containing protein {ECO:0000259|Pfam:PF04965};
+Bit Score: 102.0
+E-value: 0.03994
+Alignment Length: 64
+Percentage Identity: 0.156
+

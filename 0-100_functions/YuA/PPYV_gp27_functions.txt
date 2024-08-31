@@ -1,0 +1,204 @@
+=== A0A3N7IY24 ===
+DE   RecName: Full=Type II toxin-antitoxin system HicA family toxin {ECO:0008006|Google:ProtNLM};
+Bit Score: 445.0
+E-value: 1.907e-09
+Alignment Length: 68
+Percentage Identity: 0.882
+
+=== A0A5A7ZPV2 ===
+DE   RecName: Full=Bro-N domain-containing protein {ECO:0000259|PROSITE:PS51750};
+Bit Score: 308.0
+E-value: 4.307e-06
+Alignment Length: 69
+Percentage Identity: 0.463
+
+=== A0A6N7H2E0 ===
+DE   RecName: Full=Type II toxin-antitoxin system HicA family toxin {ECO:0008006|Google:ProtNLM};
+Bit Score: 257.0
+E-value: 2.043e-05
+Alignment Length: 71
+Percentage Identity: 0.45
+
+=== A0A3S0DX83 ===
+DE   RecName: Full=Rha family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 270.0
+E-value: 2.302e-05
+Alignment Length: 66
+Percentage Identity: 0.348
+
+=== A0A1H6GSE3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SEH26226.1};
+Bit Score: 182.0
+E-value: 0.0003207
+Alignment Length: 71
+Percentage Identity: 0.366
+
+=== A0A4P7Z7P3 ===
+DE   RecName: Full=Type II toxin-antitoxin system HicA family toxin {ECO:0008006|Google:ProtNLM};
+Bit Score: 200.0
+E-value: 0.0004075
+Alignment Length: 69
+Percentage Identity: 0.26
+
+=== A0A5S4YLY9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TYO65416.1};
+Bit Score: 165.0
+E-value: 0.0004326
+Alignment Length: 65
+Percentage Identity: 0.276
+
+=== A0A1Q7B3Y8 ===
+DE   RecName: Full=Type II toxin-antitoxin system HicA family toxin {ECO:0008006|Google:ProtNLM};
+Bit Score: 185.0
+E-value: 0.0005835
+Alignment Length: 72
+Percentage Identity: 0.236
+
+=== A0A2T5UCX5 ===
+DE   RecName: Full=HicA-like toxin of HicAB toxin-antitoxin system {ECO:0008006|Google:ProtNLM};
+Bit Score: 177.0
+E-value: 0.0006983
+Alignment Length: 66
+Percentage Identity: 0.303
+
+=== A0A6H9HR33 ===
+DE   RecName: Full=Type II toxin-antitoxin system HicA family toxin {ECO:0008006|Google:ProtNLM};
+Bit Score: 174.0
+E-value: 0.0007414
+Alignment Length: 76
+Percentage Identity: 0.263
+
+=== H8FYC8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CCG43366.1};
+Bit Score: 197.0
+E-value: 0.0007872
+Alignment Length: 63
+Percentage Identity: 0.38
+
+=== A0A2U1YMZ0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PWC92946.1};
+Bit Score: 187.0
+E-value: 0.0008357
+Alignment Length: 69
+Percentage Identity: 0.275
+
+=== H6SRW3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CCG07642.1};
+Bit Score: 154.0
+E-value: 0.002606
+Alignment Length: 72
+Percentage Identity: 0.263
+
+=== A0A0Q5XEW2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KQS84323.1};
+Bit Score: 165.0
+E-value: 0.003119
+Alignment Length: 67
+Percentage Identity: 0.283
+
+=== A0A7S3W1D8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAE0530821.1};
+DE   Flags: Fragment;
+Bit Score: 158.0
+E-value: 0.003516
+Alignment Length: 62
+Percentage Identity: 0.37
+
+=== A0A1X7HCG7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SMF83369.1};
+Bit Score: 174.0
+E-value: 0.004207
+Alignment Length: 65
+Percentage Identity: 0.246
+
+=== A0A850LKR9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NVK98162.1};
+Bit Score: 166.0
+E-value: 0.004467
+Alignment Length: 64
+Percentage Identity: 0.218
+
+=== A0A6L7GIQ4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MXP15817.1};
+Bit Score: 158.0
+E-value: 0.004743
+Alignment Length: 65
+Percentage Identity: 0.276
+
+=== A0A1U6I7S1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SLK04029.1};
+Bit Score: 148.0
+E-value: 0.007211
+Alignment Length: 67
+Percentage Identity: 0.343
+
+=== A0A069E4U3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KCZ85077.1};
+Bit Score: 155.0
+E-value: 0.008128
+Alignment Length: 66
+Percentage Identity: 0.242
+
+=== A0A1F9QEX4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OGR40155.1};
+Bit Score: 134.0
+E-value: 0.01096
+Alignment Length: 75
+Percentage Identity: 0.093
+
+=== A0A380S861 ===
+DE   RecName: Full=HicA toxin of toxin-antitoxin {ECO:0008006|Google:ProtNLM};
+Bit Score: 123.0
+E-value: 0.01312
+Alignment Length: 68
+Percentage Identity: 0.264
+
+=== A0A5C6KJE8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TWV63522.1};
+Bit Score: 92.0
+E-value: 0.01995
+Alignment Length: 67
+Percentage Identity: 0.208
+
+=== A0A0N0V0T1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KPA13632.1};
+Bit Score: 122.0
+E-value: 0.02691
+Alignment Length: 65
+Percentage Identity: 0.092
+
+=== A0A352R5G3 ===
+DE   RecName: Full=DUF4136 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 87.0
+E-value: 0.03221
+Alignment Length: 68
+Percentage Identity: 0.191
+
+=== A0A1I7LQC8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SFV11893.1};
+Bit Score: 94.0
+E-value: 0.0363
+Alignment Length: 72
+Percentage Identity: 0.138
+
+=== A0A2V3UAQ7 ===
+DE   RecName: Full=HicA-like toxin of HicAB toxin-antitoxin system {ECO:0008006|Google:ProtNLM};
+Bit Score: 118.0
+E-value: 0.03854
+Alignment Length: 73
+Percentage Identity: 0.246
+
+=== A0A534S6H5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TMA58477.1};
+Bit Score: 116.0
+E-value: 0.04613
+Alignment Length: 49
+Percentage Identity: 0.265
+
+=== A0A3D8L1T9 ===
+DE   SubName: Full=DUF4062 domain-containing protein {ECO:0000313|EMBL:RDV11323.1};
+Bit Score: 94.0
+E-value: 0.04613
+Alignment Length: 74
+Percentage Identity: 0.094
+

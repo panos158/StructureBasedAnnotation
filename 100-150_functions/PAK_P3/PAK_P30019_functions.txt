@@ -1,0 +1,1262 @@
+=== A0A3M2XV51 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RML67702.1};
+Bit Score: 478.0
+E-value: 4.274e-11
+Alignment Length: 112
+Percentage Identity: 0.375
+
+=== A0A4Q5TLU9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RYY51262.1};
+Bit Score: 362.0
+E-value: 2.104e-08
+Alignment Length: 109
+Percentage Identity: 0.229
+
+=== A0A2C6DMM9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PHI29695.1};
+Bit Score: 320.0
+E-value: 2.323e-07
+Alignment Length: 107
+Percentage Identity: 0.242
+
+=== A0A806K146 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AGS53498.1};
+Bit Score: 289.0
+E-value: 6.347e-07
+Alignment Length: 119
+Percentage Identity: 0.21
+
+=== A0A0S8DL70 ===
+DE   RecName: Full=Plastocyanin-like domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 303.0
+E-value: 8.392e-07
+Alignment Length: 112
+Percentage Identity: 0.232
+
+=== A0A5B9DX31 ===
+DE   RecName: Full=Bacteriophage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 300.0
+E-value: 9.384e-07
+Alignment Length: 106
+Percentage Identity: 0.216
+
+=== A0A1W9V649 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OQY32023.1};
+Bit Score: 269.0
+E-value: 1.551e-06
+Alignment Length: 105
+Percentage Identity: 0.266
+
+=== A0A369KRY5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RDB37401.1};
+Bit Score: 286.0
+E-value: 1.64e-06
+Alignment Length: 119
+Percentage Identity: 0.142
+
+=== A0A6M3M4K8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QJB01120.1};
+Bit Score: 255.0
+E-value: 2.425e-06
+Alignment Length: 109
+Percentage Identity: 0.192
+
+=== A0A540VTN4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TQE99503.1};
+Bit Score: 275.0
+E-value: 2.564e-06
+Alignment Length: 107
+Percentage Identity: 0.205
+
+=== A0A6N6VRN6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAB8035845.1};
+Bit Score: 262.0
+E-value: 2.711e-06
+Alignment Length: 104
+Percentage Identity: 0.211
+
+=== A0A5C7QI53 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TXH58196.1};
+Bit Score: 294.0
+E-value: 3.206e-06
+Alignment Length: 105
+Percentage Identity: 0.209
+
+=== A0A3D4Z0K1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HCU24078.1};
+Bit Score: 288.0
+E-value: 3.585e-06
+Alignment Length: 107
+Percentage Identity: 0.196
+
+=== A0A0J6WQW4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KMO85840.1};
+Bit Score: 252.0
+E-value: 3.791e-06
+Alignment Length: 106
+Percentage Identity: 0.169
+
+=== R6R1T5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CDC28282.1};
+Bit Score: 260.0
+E-value: 4.239e-06
+Alignment Length: 103
+Percentage Identity: 0.223
+
+=== A0A352NNM2 ===
+DE   RecName: Full=Bacteriophage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 256.0
+E-value: 4.239e-06
+Alignment Length: 107
+Percentage Identity: 0.158
+
+=== A0A1V3L4B1 ===
+DE   RecName: Full=Bacteriophage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 252.0
+E-value: 4.239e-06
+Alignment Length: 107
+Percentage Identity: 0.168
+
+=== A0A133ZRY3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KXB58180.1};
+Bit Score: 248.0
+E-value: 4.239e-06
+Alignment Length: 107
+Percentage Identity: 0.196
+
+=== A0A3D5P8G9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HCW79877.1};
+Bit Score: 259.0
+E-value: 5.012e-06
+Alignment Length: 106
+Percentage Identity: 0.169
+
+=== A0A542B2X7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TQI72896.1};
+Bit Score: 276.0
+E-value: 6.626e-06
+Alignment Length: 106
+Percentage Identity: 0.15
+
+=== A0A5K7Z7E4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:BBO74394.1};
+Bit Score: 272.0
+E-value: 7.007e-06
+Alignment Length: 106
+Percentage Identity: 0.188
+
+=== A0A0F9MB73 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKN04670.1};
+Bit Score: 255.0
+E-value: 7.007e-06
+Alignment Length: 110
+Percentage Identity: 0.181
+
+=== A0A0Q9HVM1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KRE07464.1};
+Bit Score: 254.0
+E-value: 7.007e-06
+Alignment Length: 120
+Percentage Identity: 0.191
+
+=== A0A1G0R440 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OGU54882.1};
+Bit Score: 260.0
+E-value: 8.285e-06
+Alignment Length: 104
+Percentage Identity: 0.163
+
+=== A7ILI2 ===
+DE   RecName: Full=Bacteriophage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 254.0
+E-value: 8.761e-06
+Alignment Length: 104
+Percentage Identity: 0.201
+
+=== A0A0F9GCH6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKL60832.1};
+Bit Score: 262.0
+E-value: 9.796e-06
+Alignment Length: 103
+Percentage Identity: 0.233
+
+=== A0A521UGM5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TAK31002.1};
+Bit Score: 263.0
+E-value: 1.095e-05
+Alignment Length: 106
+Percentage Identity: 0.207
+
+=== A0A484QF84 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VFR36802.1};
+Bit Score: 259.0
+E-value: 1.095e-05
+Alignment Length: 102
+Percentage Identity: 0.176
+
+=== A0A2D9CHV5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAO24263.1};
+Bit Score: 218.0
+E-value: 1.095e-05
+Alignment Length: 115
+Percentage Identity: 0.191
+
+=== A0A7W1N1F8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBA3841173.1};
+Bit Score: 254.0
+E-value: 1.225e-05
+Alignment Length: 106
+Percentage Identity: 0.207
+
+=== A0A850F7Q6 ===
+DE   RecName: Full=Bacteriophage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 257.0
+E-value: 1.295e-05
+Alignment Length: 104
+Percentage Identity: 0.201
+
+=== A0A4V2RHR5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TCN41430.1};
+Bit Score: 245.0
+E-value: 1.619e-05
+Alignment Length: 106
+Percentage Identity: 0.15
+
+=== A0A523GQA1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TDI74596.1};
+Bit Score: 248.0
+E-value: 1.712e-05
+Alignment Length: 105
+Percentage Identity: 0.123
+
+=== R8Y3V2 ===
+DE   RecName: Full=Bacteriophage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 243.0
+E-value: 2.264e-05
+Alignment Length: 102
+Percentage Identity: 0.147
+
+=== A0A6M3JAI0 ===
+DE   RecName: Full=Tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 222.0
+E-value: 2.531e-05
+Alignment Length: 103
+Percentage Identity: 0.194
+
+=== A0A2Z6EVM1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:BBE09468.1};
+Bit Score: 255.0
+E-value: 2.831e-05
+Alignment Length: 102
+Percentage Identity: 0.156
+
+=== A0A1H4K5U2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SEB53900.1};
+Bit Score: 248.0
+E-value: 2.831e-05
+Alignment Length: 104
+Percentage Identity: 0.201
+
+=== A0A1F0F643 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OFO43435.1};
+Bit Score: 239.0
+E-value: 2.831e-05
+Alignment Length: 104
+Percentage Identity: 0.211
+
+=== A4N143 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EDJ87769.1};
+Bit Score: 228.0
+E-value: 2.831e-05
+Alignment Length: 107
+Percentage Identity: 0.214
+
+=== R6NR66 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CDC08731.1};
+Bit Score: 234.0
+E-value: 2.993e-05
+Alignment Length: 107
+Percentage Identity: 0.177
+
+=== A0A1H9HQT7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SEQ64648.1};
+Bit Score: 235.0
+E-value: 3.165e-05
+Alignment Length: 102
+Percentage Identity: 0.176
+
+=== A0A5C7J3P8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TXG75878.1};
+Bit Score: 233.0
+E-value: 3.165e-05
+Alignment Length: 106
+Percentage Identity: 0.188
+
+=== A0A4Q2QYK5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RYA94087.1};
+Bit Score: 238.0
+E-value: 3.742e-05
+Alignment Length: 101
+Percentage Identity: 0.198
+
+=== A0A7Y4XJH9 ===
+DE   RecName: Full=Proteinase inhibitor I42 chagasin domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 216.0
+E-value: 3.742e-05
+Alignment Length: 103
+Percentage Identity: 0.184
+
+=== A0A657K5H2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OCG38580.1};
+Bit Score: 252.0
+E-value: 3.957e-05
+Alignment Length: 101
+Percentage Identity: 0.148
+
+=== A0A0M0T6W1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KOP32304.1};
+Bit Score: 248.0
+E-value: 3.957e-05
+Alignment Length: 107
+Percentage Identity: 0.14
+
+=== A0A2E2D648 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAX51279.1};
+Bit Score: 151.0
+E-value: 3.957e-05
+Alignment Length: 112
+Percentage Identity: 0.223
+
+=== A0A090E4E5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CDR35345.1};
+Bit Score: 236.0
+E-value: 4.425e-05
+Alignment Length: 103
+Percentage Identity: 0.271
+
+=== A0A5C7QCX5 ===
+DE   RecName: Full=DUF2442 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 233.0
+E-value: 4.679e-05
+Alignment Length: 110
+Percentage Identity: 0.19
+
+=== A0A4R7WHC5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TDV61247.1};
+Bit Score: 214.0
+E-value: 4.679e-05
+Alignment Length: 106
+Percentage Identity: 0.179
+
+=== A0A496UL28 ===
+DE   RecName: Full=Phytase-like domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 230.0
+E-value: 5.232e-05
+Alignment Length: 106
+Percentage Identity: 0.188
+
+=== A0A3P1W1C0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RRD39250.1};
+Bit Score: 198.0
+E-value: 5.533e-05
+Alignment Length: 126
+Percentage Identity: 0.246
+
+=== V8GB63 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ETD72972.1};
+Bit Score: 225.0
+E-value: 5.85e-05
+Alignment Length: 108
+Percentage Identity: 0.148
+
+=== L7VXY4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AGC71923.1};
+Bit Score: 202.0
+E-value: 6.542e-05
+Alignment Length: 118
+Percentage Identity: 0.186
+
+=== C4GFW7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EEP69122.1};
+Bit Score: 195.0
+E-value: 7.735e-05
+Alignment Length: 100
+Percentage Identity: 0.19
+
+=== A0A859IH39 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QKY73310.1};
+Bit Score: 223.0
+E-value: 9.671e-05
+Alignment Length: 106
+Percentage Identity: 0.15
+
+=== A0A2E5S5E1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBI41213.1};
+Bit Score: 208.0
+E-value: 0.0001023
+Alignment Length: 118
+Percentage Identity: 0.169
+
+=== A0A1H7XUY7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SEM37752.1};
+Bit Score: 203.0
+E-value: 0.0001023
+Alignment Length: 103
+Percentage Identity: 0.213
+
+=== A0A3E2KQ21 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RFU90257.1};
+Bit Score: 194.0
+E-value: 0.0001023
+Alignment Length: 100
+Percentage Identity: 0.2
+
+=== A0A193QH60 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CRL44507.1};
+Bit Score: 221.0
+E-value: 0.0001081
+Alignment Length: 100
+Percentage Identity: 0.22
+
+=== H0A2V6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EHL99386.1};
+Bit Score: 223.0
+E-value: 0.0001144
+Alignment Length: 101
+Percentage Identity: 0.198
+
+=== A0A1I4X1I2 ===
+DE   RecName: Full=Dit-like phage tail protein N-terminal domain-containing protein {ECO:0000259|Pfam:PF21821};
+Bit Score: 203.0
+E-value: 0.0001144
+Alignment Length: 105
+Percentage Identity: 0.123
+
+=== A0A401FPZ7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAY74291.1};
+Bit Score: 202.0
+E-value: 0.0001279
+Alignment Length: 117
+Percentage Identity: 0.153
+
+=== A0A6M3LIH3 ===
+DE   RecName: Full=Tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 212.0
+E-value: 0.0001512
+Alignment Length: 104
+Percentage Identity: 0.134
+
+=== A0A1M6UTS5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SHK72602.1};
+Bit Score: 210.0
+E-value: 0.0001512
+Alignment Length: 104
+Percentage Identity: 0.192
+
+=== A0A328C6A9 ===
+DE   RecName: Full=ASCH domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 203.0
+E-value: 0.0001512
+Alignment Length: 105
+Percentage Identity: 0.18
+
+=== M1ZU89 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EKN42961.1};
+Bit Score: 191.0
+E-value: 0.0001512
+Alignment Length: 122
+Percentage Identity: 0.163
+
+=== A0A6M3J9P3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QJA65757.1};
+Bit Score: 217.0
+E-value: 0.0001691
+Alignment Length: 102
+Percentage Identity: 0.166
+
+=== A0A6I4YZU7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MXV44397.1};
+Bit Score: 217.0
+E-value: 0.0001691
+Alignment Length: 104
+Percentage Identity: 0.153
+
+=== A0A497BHU2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RLC88271.1};
+Bit Score: 195.0
+E-value: 0.0001691
+Alignment Length: 102
+Percentage Identity: 0.176
+
+=== A0A1D8A2I0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AOR76343.1};
+Bit Score: 214.0
+E-value: 0.0001788
+Alignment Length: 102
+Percentage Identity: 0.166
+
+=== D3ALQ8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EFC97256.1};
+Bit Score: 210.0
+E-value: 0.0001788
+Alignment Length: 105
+Percentage Identity: 0.171
+
+=== A0A0S4R4I8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CUU68129.1};
+Bit Score: 189.0
+E-value: 0.000189
+Alignment Length: 101
+Percentage Identity: 0.168
+
+=== A0A843HNV9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBO7732872.1};
+Bit Score: 216.0
+E-value: 0.0001999
+Alignment Length: 104
+Percentage Identity: 0.153
+
+=== A0A4P7WF08 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QCE34702.1};
+Bit Score: 214.0
+E-value: 0.0001999
+Alignment Length: 102
+Percentage Identity: 0.176
+
+=== W0QDZ6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AHG75448.1};
+Bit Score: 205.0
+E-value: 0.0002114
+Alignment Length: 103
+Percentage Identity: 0.135
+
+=== A0A841QHJ8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB6457906.1};
+Bit Score: 197.0
+E-value: 0.0002114
+Alignment Length: 105
+Percentage Identity: 0.2
+
+=== A0A365YZ12 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RBM07800.1};
+Bit Score: 205.0
+E-value: 0.0002235
+Alignment Length: 102
+Percentage Identity: 0.147
+
+=== A0A0L0GXU1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KNC94035.1};
+Bit Score: 198.0
+E-value: 0.0002235
+Alignment Length: 112
+Percentage Identity: 0.169
+
+=== X0S2R3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAF75339.1};
+Bit Score: 201.0
+E-value: 0.0002363
+Alignment Length: 102
+Percentage Identity: 0.186
+
+=== A0A1I5NBD7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SFP19010.1};
+Bit Score: 198.0
+E-value: 0.0002499
+Alignment Length: 115
+Percentage Identity: 0.182
+
+=== G9XHG9 ===
+DE   RecName: Full=BppU N-terminal domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 208.0
+E-value: 0.0002643
+Alignment Length: 105
+Percentage Identity: 0.2
+
+=== A0A398BHA8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RID87050.1};
+Bit Score: 197.0
+E-value: 0.0002643
+Alignment Length: 107
+Percentage Identity: 0.158
+
+=== A0A6M0RCH9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NEZ48025.1};
+Bit Score: 192.0
+E-value: 0.0002643
+Alignment Length: 110
+Percentage Identity: 0.218
+
+=== A0A3N0G5D3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RNM07697.1};
+Bit Score: 199.0
+E-value: 0.0002795
+Alignment Length: 101
+Percentage Identity: 0.138
+
+=== A0A291PJI1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ATJ91534.1};
+Bit Score: 201.0
+E-value: 0.0002955
+Alignment Length: 102
+Percentage Identity: 0.156
+
+=== A0A177G3J9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OAG74949.1};
+Bit Score: 191.0
+E-value: 0.0003125
+Alignment Length: 104
+Percentage Identity: 0.163
+
+=== A0A149RPG6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KXV16168.1};
+Bit Score: 202.0
+E-value: 0.0003304
+Alignment Length: 105
+Percentage Identity: 0.18
+
+=== A0A1M6XFT1 ===
+DE   RecName: Full=PilZ domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 197.0
+E-value: 0.0003304
+Alignment Length: 104
+Percentage Identity: 0.173
+
+=== A0A0M6ZWG1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CTQ67109.1};
+Bit Score: 195.0
+E-value: 0.0003304
+Alignment Length: 100
+Percentage Identity: 0.14
+
+=== A0A4V1AJ01 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QBO37285.1};
+Bit Score: 206.0
+E-value: 0.0003494
+Alignment Length: 103
+Percentage Identity: 0.174
+
+=== A0A0Q6E1W3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KQT70539.1};
+Bit Score: 189.0
+E-value: 0.0003494
+Alignment Length: 100
+Percentage Identity: 0.15
+
+=== A0A5Y3Q3U2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ECI4938126.1};
+Bit Score: 200.0
+E-value: 0.0003695
+Alignment Length: 110
+Percentage Identity: 0.136
+
+=== A0A6I6SRX2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QHC50490.1};
+Bit Score: 207.0
+E-value: 0.0003907
+Alignment Length: 104
+Percentage Identity: 0.153
+
+=== A0A149R0W8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KXV03044.1};
+Bit Score: 198.0
+E-value: 0.0003907
+Alignment Length: 102
+Percentage Identity: 0.176
+
+=== A0A354WSY8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HBK27301.1};
+Bit Score: 184.0
+E-value: 0.0003907
+Alignment Length: 109
+Percentage Identity: 0.192
+
+=== J0ZL39 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EJF89118.1};
+Bit Score: 185.0
+E-value: 0.000462
+Alignment Length: 100
+Percentage Identity: 0.2
+
+=== A0A4P7WGC8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QCE35634.1};
+Bit Score: 207.0
+E-value: 0.0004885
+Alignment Length: 106
+Percentage Identity: 0.141
+
+=== A0A7W6J435 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB4063692.1};
+Bit Score: 189.0
+E-value: 0.0004885
+Alignment Length: 102
+Percentage Identity: 0.107
+
+=== A0A1I4EXC8 ===
+DE   RecName: Full=Immunity protein 50 {ECO:0008006|Google:ProtNLM};
+Bit Score: 185.0
+E-value: 0.0004885
+Alignment Length: 106
+Percentage Identity: 0.207
+
+=== A0A4P8YMD2 ===
+DE   RecName: Full=Bacteriophage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 191.0
+E-value: 0.0005165
+Alignment Length: 104
+Percentage Identity: 0.211
+
+=== A0A7W2QTH3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBA6142346.1};
+Bit Score: 170.0
+E-value: 0.0005165
+Alignment Length: 106
+Percentage Identity: 0.141
+
+=== A0A6M3MAD7 ===
+DE   RecName: Full=Tail protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 173.0
+E-value: 0.0005462
+Alignment Length: 105
+Percentage Identity: 0.161
+
+=== F2BBP3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EGF11189.1};
+Bit Score: 189.0
+E-value: 0.0005776
+Alignment Length: 103
+Percentage Identity: 0.213
+
+=== Q0BRT6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ABI62466.1};
+Bit Score: 183.0
+E-value: 0.0006108
+Alignment Length: 112
+Percentage Identity: 0.16
+
+=== A0A351M2Z9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HAZ57419.1};
+Bit Score: 180.0
+E-value: 0.0006829
+Alignment Length: 112
+Percentage Identity: 0.133
+
+=== A0A318FK91 ===
+DE   RecName: Full=Bacteriophage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 185.0
+E-value: 0.0007222
+Alignment Length: 102
+Percentage Identity: 0.098
+
+=== A0A843GX40 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBO7712479.1};
+Bit Score: 180.0
+E-value: 0.0007222
+Alignment Length: 104
+Percentage Identity: 0.173
+
+=== A0A1T4QWZ0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SKA07828.1};
+Bit Score: 167.0
+E-value: 0.0007222
+Alignment Length: 115
+Percentage Identity: 0.147
+
+=== I0QRQ6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EIC83979.1};
+Bit Score: 190.0
+E-value: 0.0007636
+Alignment Length: 101
+Percentage Identity: 0.158
+
+=== A0A6C2C787 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TYC49891.1};
+Bit Score: 168.0
+E-value: 0.0007636
+Alignment Length: 116
+Percentage Identity: 0.206
+
+=== A0A3A9AFX8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RKI90540.1};
+Bit Score: 190.0
+E-value: 0.0008539
+Alignment Length: 101
+Percentage Identity: 0.168
+
+=== R9RCI9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AGM23120.1};
+Bit Score: 174.0
+E-value: 0.0008539
+Alignment Length: 111
+Percentage Identity: 0.171
+
+=== F3QJE8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EGG55796.1};
+Bit Score: 186.0
+E-value: 0.0009548
+Alignment Length: 106
+Percentage Identity: 0.122
+
+=== A0A7C9K2G7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MPW31995.1};
+Bit Score: 180.0
+E-value: 0.00101
+Alignment Length: 104
+Percentage Identity: 0.163
+
+=== A0A1S8T8C7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OOM74003.1};
+Bit Score: 171.0
+E-value: 0.00101
+Alignment Length: 108
+Percentage Identity: 0.138
+
+=== A0A149U1B3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KXV59178.1};
+Bit Score: 185.0
+E-value: 0.001068
+Alignment Length: 105
+Percentage Identity: 0.142
+
+=== U2R1Z0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ERK44702.1};
+Bit Score: 181.0
+E-value: 0.001068
+Alignment Length: 103
+Percentage Identity: 0.097
+
+=== A0A2K2TVT2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PNV62211.1};
+Bit Score: 164.0
+E-value: 0.001068
+Alignment Length: 109
+Percentage Identity: 0.146
+
+=== A0A1Y4D1N0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OUO51669.1};
+Bit Score: 181.0
+E-value: 0.001129
+Alignment Length: 106
+Percentage Identity: 0.16
+
+=== A0A401X999 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GCD64450.1};
+Bit Score: 185.0
+E-value: 0.001411
+Alignment Length: 102
+Percentage Identity: 0.127
+
+=== A0A4R6LV69 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TDO92356.1};
+Bit Score: 172.0
+E-value: 0.001411
+Alignment Length: 107
+Percentage Identity: 0.158
+
+=== A0A081BI35 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAK47703.1};
+Bit Score: 173.0
+E-value: 0.001493
+Alignment Length: 106
+Percentage Identity: 0.15
+
+=== A0A348HFQ2 ===
+DE   SubName: Full=Non-ribosomal peptide synthetase modules {ECO:0000313|EMBL:BBG30454.1};
+Bit Score: 185.0
+E-value: 0.001578
+Alignment Length: 102
+Percentage Identity: 0.127
+
+=== A0A1Z5IUV8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAX05466.1};
+Bit Score: 170.0
+E-value: 0.001578
+Alignment Length: 106
+Percentage Identity: 0.179
+
+=== C0XGT9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EEI25410.1};
+Bit Score: 175.0
+E-value: 0.001669
+Alignment Length: 103
+Percentage Identity: 0.203
+
+=== A0A0T9PRN3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CNH77782.1};
+Bit Score: 180.0
+E-value: 0.001765
+Alignment Length: 101
+Percentage Identity: 0.148
+
+=== A0A5X8Y1K8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ECB1915057.1};
+Bit Score: 175.0
+E-value: 0.001765
+Alignment Length: 101
+Percentage Identity: 0.158
+
+=== A0A1I4XWC0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SFN29683.1};
+Bit Score: 166.0
+E-value: 0.001765
+Alignment Length: 113
+Percentage Identity: 0.15
+
+=== M6QCM0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EMN90965.1};
+Bit Score: 164.0
+E-value: 0.001765
+Alignment Length: 113
+Percentage Identity: 0.194
+
+=== A0A3M5VJ99 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RMU57808.1};
+Bit Score: 163.0
+E-value: 0.001765
+Alignment Length: 55
+Percentage Identity: 0.345
+
+=== A0A150MUL4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KYD28177.1};
+Bit Score: 171.0
+E-value: 0.001866
+Alignment Length: 104
+Percentage Identity: 0.163
+
+=== J5WM28 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EJU22957.1};
+Bit Score: 139.0
+E-value: 0.001866
+Alignment Length: 109
+Percentage Identity: 0.11
+
+=== A0A2D0K4V3 ===
+DE   RecName: Full=Bacteriophage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 170.0
+E-value: 0.001973
+Alignment Length: 102
+Percentage Identity: 0.156
+
+=== A0A7I0HS46 ===
+DE   RecName: Full=RecJ OB domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 143.0
+E-value: 0.001973
+Alignment Length: 114
+Percentage Identity: 0.157
+
+=== A0A239MYE1 ===
+DE   SubName: Full=Putative Ig domain-containing protein {ECO:0000313|EMBL:SDK40756.1};
+Bit Score: 172.0
+E-value: 0.002087
+Alignment Length: 101
+Percentage Identity: 0.168
+
+=== A0A437MC89 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RVT95257.1};
+Bit Score: 159.0
+E-value: 0.002087
+Alignment Length: 108
+Percentage Identity: 0.148
+
+=== A0A7G2RX07 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAB53538.1};
+Bit Score: 172.0
+E-value: 0.002207
+Alignment Length: 103
+Percentage Identity: 0.135
+
+=== R7GTG9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CDE30376.1};
+Bit Score: 147.0
+E-value: 0.002333
+Alignment Length: 122
+Percentage Identity: 0.147
+
+=== A0A149VDD7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KXV78240.1};
+Bit Score: 163.0
+E-value: 0.002759
+Alignment Length: 100
+Percentage Identity: 0.15
+
+=== K1JUP4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EKB31452.1};
+Bit Score: 173.0
+E-value: 0.002917
+Alignment Length: 100
+Percentage Identity: 0.15
+
+=== A0A0M9D4F5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KOY68996.1};
+Bit Score: 176.0
+E-value: 0.003085
+Alignment Length: 103
+Percentage Identity: 0.174
+
+=== A0A1Z5IQL9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAX04065.1};
+Bit Score: 173.0
+E-value: 0.003085
+Alignment Length: 90
+Percentage Identity: 0.1
+
+=== A0A1W1VPY9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SMB95333.1};
+Bit Score: 159.0
+E-value: 0.003085
+Alignment Length: 106
+Percentage Identity: 0.16
+
+=== A0A1G2XI90 ===
+DE   RecName: Full=STAS domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 158.0
+E-value: 0.003085
+Alignment Length: 113
+Percentage Identity: 0.141
+
+=== A0A0U2N5K0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ALS27199.1};
+Bit Score: 151.0
+E-value: 0.003085
+Alignment Length: 109
+Percentage Identity: 0.192
+
+=== A0A0T9RHK1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CNI62847.1};
+Bit Score: 173.0
+E-value: 0.003449
+Alignment Length: 113
+Percentage Identity: 0.123
+
+=== A0A8A7K4E0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QTL96566.1};
+Bit Score: 163.0
+E-value: 0.003449
+Alignment Length: 82
+Percentage Identity: 0.134
+
+=== A0A2N2BUH2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PKM61629.1};
+Bit Score: 160.0
+E-value: 0.003449
+Alignment Length: 103
+Percentage Identity: 0.194
+
+=== V6IXH0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EST12042.1};
+Bit Score: 143.0
+E-value: 0.004079
+Alignment Length: 116
+Percentage Identity: 0.137
+
+=== A0A2W4AB07 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PZL78253.1};
+Bit Score: 155.0
+E-value: 0.004823
+Alignment Length: 104
+Percentage Identity: 0.173
+
+=== A0A1C6CHD5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SCI95692.1};
+Bit Score: 152.0
+E-value: 0.004823
+Alignment Length: 118
+Percentage Identity: 0.161
+
+=== A0A660E064 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VDG27804.1};
+Bit Score: 163.0
+E-value: 0.005099
+Alignment Length: 89
+Percentage Identity: 0.146
+
+=== A0A7X2MGX8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MSE09213.1};
+Bit Score: 150.0
+E-value: 0.005099
+Alignment Length: 104
+Percentage Identity: 0.153
+
+=== A0A1A5D9D1 ===
+DE   RecName: Full=Dystroglycan-type cadherin-like domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 161.0
+E-value: 0.005392
+Alignment Length: 102
+Percentage Identity: 0.166
+
+=== A0A349YQ64 ===
+DE   RecName: Full=DUF1292 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 164.0
+E-value: 0.005702
+Alignment Length: 103
+Percentage Identity: 0.126
+
+=== A0A1F0F6M1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OFO43645.1};
+Bit Score: 161.0
+E-value: 0.005702
+Alignment Length: 59
+Percentage Identity: 0.237
+
+=== A0A7Z6QMD6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RDF13874.1};
+Bit Score: 154.0
+E-value: 0.005702
+Alignment Length: 103
+Percentage Identity: 0.145
+
+=== A6TKE2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ABR46660.1};
+Bit Score: 149.0
+E-value: 0.00603
+Alignment Length: 107
+Percentage Identity: 0.149
+
+=== A0A7W0C2N8 ===
+DE   RecName: Full=Pullulanase {ECO:0008006|Google:ProtNLM};
+Bit Score: 147.0
+E-value: 0.00603
+Alignment Length: 107
+Percentage Identity: 0.168
+
+=== A0A2E7P9C6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBO18280.1};
+Bit Score: 115.0
+E-value: 0.006742
+Alignment Length: 105
+Percentage Identity: 0.161
+
+=== A0A0R2JIH7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KRN75686.1};
+Bit Score: 162.0
+E-value: 0.007972
+Alignment Length: 102
+Percentage Identity: 0.166
+
+=== A0A4P7L167 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QBY46196.1};
+Bit Score: 140.0
+E-value: 0.00843
+Alignment Length: 105
+Percentage Identity: 0.161
+
+=== A0A7C9VI11 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NGX96369.1};
+Bit Score: 149.0
+E-value: 0.008914
+Alignment Length: 102
+Percentage Identity: 0.117
+
+=== A0A1Y3QHW7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OUM99251.1};
+Bit Score: 143.0
+E-value: 0.008914
+Alignment Length: 114
+Percentage Identity: 0.096
+
+=== A0A843GJL4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBO7692683.1};
+Bit Score: 153.0
+E-value: 0.009426
+Alignment Length: 103
+Percentage Identity: 0.184
+
+=== A0A0R2BC03 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KRM74009.1};
+Bit Score: 135.0
+E-value: 0.01179
+Alignment Length: 92
+Percentage Identity: 0.206
+
+=== A0A3N5XF99 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RPJ58266.1};
+Bit Score: 128.0
+E-value: 0.01179
+Alignment Length: 105
+Percentage Identity: 0.142
+
+=== A0A133N8X0 ===
+DE   RecName: Full=PRC-barrel domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 116.0
+E-value: 0.01246
+Alignment Length: 108
+Percentage Identity: 0.111
+
+=== A0A177L9I7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OAH61952.1};
+Bit Score: 144.0
+E-value: 0.01393
+Alignment Length: 105
+Percentage Identity: 0.142
+
+=== A0A0R2DDR3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KRN02159.1};
+Bit Score: 148.0
+E-value: 0.01474
+Alignment Length: 101
+Percentage Identity: 0.128
+
+=== A0A2A8ETX7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PEO19833.1};
+Bit Score: 141.0
+E-value: 0.01474
+Alignment Length: 81
+Percentage Identity: 0.197
+
+=== A0A133PS25 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KXA31634.1};
+Bit Score: 138.0
+E-value: 0.01474
+Alignment Length: 104
+Percentage Identity: 0.144
+
+=== X1VJ20 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAJ15231.1};
+Bit Score: 145.0
+E-value: 0.01648
+Alignment Length: 72
+Percentage Identity: 0.166
+
+=== A0A1I1TU51 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SFD60768.1};
+Bit Score: 146.0
+E-value: 0.0206
+Alignment Length: 105
+Percentage Identity: 0.142
+
+=== Q9P9V5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAF85551.1};
+Bit Score: 119.0
+E-value: 0.02576
+Alignment Length: 77
+Percentage Identity: 0.116
+
+=== A0A356ZC10 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HBQ87555.1};
+Bit Score: 134.0
+E-value: 0.0288
+Alignment Length: 103
+Percentage Identity: 0.155
+
+=== A0A2G8E4P6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PIJ69445.1};
+Bit Score: 99.0
+E-value: 0.03601
+Alignment Length: 109
+Percentage Identity: 0.11
+
+=== X1FA68 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAH17648.1};
+DE   Flags: Fragment;
+Bit Score: 111.0
+E-value: 0.04258
+Alignment Length: 62
+Percentage Identity: 0.209
+
+=== G6F3H2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EHD12922.1};
+Bit Score: 91.0
+E-value: 0.04258
+Alignment Length: 112
+Percentage Identity: 0.142
+

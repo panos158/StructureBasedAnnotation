@@ -1,0 +1,14 @@
+=== A0A7W5ELD8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB3227002.1};
+Bit Score: 135.0
+E-value: 0.03405
+Alignment Length: 68
+Percentage Identity: 0.264
+
+=== A0A3E0N690 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:REJ67619.1};
+Bit Score: 117.0
+E-value: 0.04147
+Alignment Length: 73
+Percentage Identity: 0.246
+

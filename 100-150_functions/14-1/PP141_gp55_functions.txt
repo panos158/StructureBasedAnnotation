@@ -1,0 +1,1384 @@
+=== A0A0F9PVR9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKM97272.1};
+Bit Score: 291.0
+E-value: 8.391e-09
+Alignment Length: 144
+Percentage Identity: 0.222
+
+=== A0A1F4YPI9 ===
+DE   RecName: Full=Restriction endonuclease type IV Mrr domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 282.0
+E-value: 7.016e-08
+Alignment Length: 139
+Percentage Identity: 0.237
+
+=== T2DN33 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 267.0
+E-value: 9.679e-08
+Alignment Length: 129
+Percentage Identity: 0.178
+
+=== A0A0A2ZY44 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 258.0
+E-value: 1.519e-07
+Alignment Length: 136
+Percentage Identity: 0.191
+
+=== A0A847ZTT3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NMD07701.1};
+Bit Score: 256.0
+E-value: 2.095e-07
+Alignment Length: 142
+Percentage Identity: 0.154
+
+=== A0A2G2GAY1 ===
+DE   RecName: Full=Endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 233.0
+E-value: 3.987e-07
+Alignment Length: 133
+Percentage Identity: 0.18
+
+=== A0A0F9U4J3 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 229.0
+E-value: 7.589e-07
+Alignment Length: 136
+Percentage Identity: 0.25
+
+=== A0A2D9CF40 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 240.0
+E-value: 9.205e-07
+Alignment Length: 132
+Percentage Identity: 0.174
+
+=== A0A2D7PFA5 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 233.0
+E-value: 1.444e-06
+Alignment Length: 132
+Percentage Identity: 0.166
+
+=== A0A2E3DFR9 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 228.0
+E-value: 1.868e-06
+Alignment Length: 133
+Percentage Identity: 0.157
+
+=== A0A2S5M840 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PPC99608.1};
+Bit Score: 219.0
+E-value: 1.992e-06
+Alignment Length: 134
+Percentage Identity: 0.149
+
+=== A0A496UXI6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RKZ20214.1};
+Bit Score: 207.0
+E-value: 1.992e-06
+Alignment Length: 145
+Percentage Identity: 0.213
+
+=== A0A0F9V6J8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKN61493.1};
+Bit Score: 221.0
+E-value: 2.125e-06
+Alignment Length: 141
+Percentage Identity: 0.17
+
+=== A0A800KUI0 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 220.0
+E-value: 3.126e-06
+Alignment Length: 133
+Percentage Identity: 0.142
+
+=== A0A1X7AEU2 ===
+DE   RecName: Full=Archaeal holliday junction resolvase (Hjc) {ECO:0008006|Google:ProtNLM};
+Bit Score: 213.0
+E-value: 4.6e-06
+Alignment Length: 138
+Percentage Identity: 0.188
+
+=== A0A381Y4K0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SVA71582.1};
+Bit Score: 213.0
+E-value: 5.95e-06
+Alignment Length: 140
+Percentage Identity: 0.15
+
+=== A0A2E3MWF4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB76566.1};
+Bit Score: 198.0
+E-value: 1.373e-05
+Alignment Length: 134
+Percentage Identity: 0.179
+
+=== A0A2D5MW06 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 204.0
+E-value: 1.465e-05
+Alignment Length: 132
+Percentage Identity: 0.159
+
+=== A0A660QAH6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RKX34707.1};
+Bit Score: 203.0
+E-value: 1.562e-05
+Alignment Length: 132
+Percentage Identity: 0.143
+
+=== A0A0F8Y9R9 ===
+DE   RecName: Full=YqaJ viral recombinase domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 178.0
+E-value: 1.562e-05
+Alignment Length: 135
+Percentage Identity: 0.237
+
+=== A0A2D5TST2 ===
+DE   RecName: Full=YqaJ viral recombinase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 169.0
+E-value: 4.101e-05
+Alignment Length: 139
+Percentage Identity: 0.179
+
+=== A0A1Z8LPY4 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 187.0
+E-value: 6.034e-05
+Alignment Length: 139
+Percentage Identity: 0.215
+
+=== A0A2D7N9M4 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 178.0
+E-value: 6.034e-05
+Alignment Length: 142
+Percentage Identity: 0.161
+
+=== A0A0F9T652 ===
+DE   RecName: Full=YqaJ viral recombinase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 180.0
+E-value: 6.435e-05
+Alignment Length: 145
+Percentage Identity: 0.117
+
+=== A0A0F8Z6D6 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 173.0
+E-value: 6.863e-05
+Alignment Length: 136
+Percentage Identity: 0.176
+
+=== A0A0M2A9C9 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523};
+Bit Score: 127.0
+E-value: 0.0001077
+Alignment Length: 154
+Percentage Identity: 0.11
+
+=== A0A497C0E3 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 160.0
+E-value: 0.0001225
+Alignment Length: 122
+Percentage Identity: 0.196
+
+=== C2CHL4 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523};
+Bit Score: 145.0
+E-value: 0.0001225
+Alignment Length: 162
+Percentage Identity: 0.135
+
+=== A0A7Y8V116 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523, ECO:0000256|HAMAP-Rule:MF_00130};
+DE            EC=3.1.21.10 {ECO:0000256|HAMAP-Rule:MF_00130, ECO:0000256|NCBIfam:TIGR00648};
+DE   AltName: Full=Recombination protein U homolog {ECO:0000256|HAMAP-Rule:MF_00130};
+Bit Score: 137.0
+E-value: 0.0002186
+Alignment Length: 175
+Percentage Identity: 0.154
+
+=== A0A356PEX4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HBP66248.1};
+Bit Score: 145.0
+E-value: 0.0002486
+Alignment Length: 142
+Percentage Identity: 0.176
+
+=== A0A843MGI3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBQ0107431.1};
+Bit Score: 146.0
+E-value: 0.0003216
+Alignment Length: 133
+Percentage Identity: 0.105
+
+=== A8FEG6 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000255|HAMAP-Rule:MF_00130};
+DE            EC=3.1.21.10 {ECO:0000255|HAMAP-Rule:MF_00130};
+DE   AltName: Full=Recombination protein U homolog {ECO:0000255|HAMAP-Rule:MF_00130};
+Bit Score: 138.0
+E-value: 0.0003216
+Alignment Length: 176
+Percentage Identity: 0.159
+
+=== A0A6B1XZF0 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523};
+Bit Score: 133.0
+E-value: 0.0003216
+Alignment Length: 171
+Percentage Identity: 0.146
+
+=== A0A382WNT3 ===
+DE   RecName: Full=Protein NO VEIN C-terminal domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 162.0
+E-value: 0.0003657
+Alignment Length: 137
+Percentage Identity: 0.175
+
+=== A0A6I3SG44 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523};
+Bit Score: 132.0
+E-value: 0.0003657
+Alignment Length: 164
+Percentage Identity: 0.17
+
+=== A0A7U9RZH8 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523};
+Bit Score: 107.0
+E-value: 0.000416
+Alignment Length: 151
+Percentage Identity: 0.119
+
+=== A0A523VH73 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523};
+Bit Score: 121.0
+E-value: 0.0005738
+Alignment Length: 159
+Percentage Identity: 0.169
+
+=== A0A2D7X1L0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAK51075.1};
+Bit Score: 132.0
+E-value: 0.0006527
+Alignment Length: 143
+Percentage Identity: 0.174
+
+=== A0A2E0PXS1 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523};
+Bit Score: 124.0
+E-value: 0.0009602
+Alignment Length: 173
+Percentage Identity: 0.15
+
+=== A0A2R7NMN3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PTT35457.1};
+Bit Score: 132.0
+E-value: 0.001024
+Alignment Length: 114
+Percentage Identity: 0.192
+
+=== A0A074ZC61 ===
+DE   RecName: Full=Type I restriction enzyme R protein N-terminal domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 102.0
+E-value: 0.001024
+Alignment Length: 140
+Percentage Identity: 0.121
+
+=== A0A6I2UJ43 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523};
+Bit Score: 106.0
+E-value: 0.001325
+Alignment Length: 143
+Percentage Identity: 0.111
+
+=== A0A3B1AHR1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VAX01221.1};
+Bit Score: 116.0
+E-value: 0.001714
+Alignment Length: 169
+Percentage Identity: 0.106
+
+=== A0A1V4X524 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OPY04833.1};
+Bit Score: 115.0
+E-value: 0.001714
+Alignment Length: 169
+Percentage Identity: 0.159
+
+=== A0A6B9TC04 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QHK17405.1};
+Bit Score: 135.0
+E-value: 0.001827
+Alignment Length: 144
+Percentage Identity: 0.083
+
+=== A0A7X7ISX4 ===
+DE   RecName: Full=site-specific DNA-methyltransferase (adenine-specific) {ECO:0000256|ARBA:ARBA00011900};
+DE            EC=2.1.1.72 {ECO:0000256|ARBA:ARBA00011900};
+DE   Flags: Fragment;
+Bit Score: 89.0
+E-value: 0.002078
+Alignment Length: 137
+Percentage Identity: 0.109
+
+=== A0A7Z0NBM5 ===
+DE   RecName: Full=Restriction endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 105.0
+E-value: 0.002217
+Alignment Length: 108
+Percentage Identity: 0.157
+
+=== A0A2D9DR27 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAO39387.1};
+Bit Score: 98.0
+E-value: 0.002364
+Alignment Length: 137
+Percentage Identity: 0.131
+
+=== D7WF12 ===
+DE   RecName: Full=UPF0102 protein HMPREF0291_11350 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 87.0
+E-value: 0.002867
+Alignment Length: 106
+Percentage Identity: 0.179
+
+=== A0A2X2UE21 ===
+DE   SubName: Full=VRR-NUC domain-containing protein {ECO:0000313|EMBL:SQB16622.1};
+Bit Score: 128.0
+E-value: 0.003261
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== A0A848IJ54 ===
+DE   RecName: Full=Restriction endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 102.0
+E-value: 0.003261
+Alignment Length: 131
+Percentage Identity: 0.129
+
+=== A0A3L7YSL5 ===
+DE   SubName: Full=DUF91 domain-containing protein {ECO:0000313|EMBL:RLT58450.1};
+Bit Score: 98.0
+E-value: 0.003709
+Alignment Length: 95
+Percentage Identity: 0.147
+
+=== A0A7S0JKH7 ===
+DE   RecName: Full=Protein NO VEIN C-terminal domain-containing protein {ECO:0000259|Pfam:PF13020};
+DE   Flags: Fragment;
+Bit Score: 89.0
+E-value: 0.003956
+Alignment Length: 94
+Percentage Identity: 0.244
+
+=== A0A7Y8LXJ3 ===
+DE   RecName: Full=Restriction endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.004219
+Alignment Length: 109
+Percentage Identity: 0.146
+
+=== A0A7J4ICP0 ===
+DE   RecName: Full=Protein NO VEIN C-terminal domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 94.0
+E-value: 0.004219
+Alignment Length: 107
+Percentage Identity: 0.177
+
+=== A0A5E4YIZ5 ===
+DE   RecName: Full=UPF0102 protein PTE30175_04459 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 86.0
+E-value: 0.004219
+Alignment Length: 115
+Percentage Identity: 0.191
+
+=== A0A3R7B6L8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RJS90601.1};
+Bit Score: 98.0
+E-value: 0.004499
+Alignment Length: 106
+Percentage Identity: 0.122
+
+=== A0A0Q4JLM2 ===
+DE   RecName: Full=PD-(D/E)XK motif protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 94.0
+E-value: 0.004499
+Alignment Length: 137
+Percentage Identity: 0.16
+
+=== A0A0F9G0Q9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKL84091.1};
+Bit Score: 106.0
+E-value: 0.004798
+Alignment Length: 150
+Percentage Identity: 0.14
+
+=== A0A4U1I7T5 ===
+DE   RecName: Full=UPF0102 protein FAZ69_10190 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 94.0
+E-value: 0.004798
+Alignment Length: 111
+Percentage Identity: 0.153
+
+=== A0A2E5KQ18 ===
+DE   RecName: Full=DUF3883 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.005117
+Alignment Length: 161
+Percentage Identity: 0.099
+
+=== W6KB52 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CCQ74244.1};
+Bit Score: 104.0
+E-value: 0.005117
+Alignment Length: 129
+Percentage Identity: 0.147
+
+=== A3NEP2 ===
+DE   RecName: Full=UPF0102 protein BURPS668_3819 {ECO:0000255|HAMAP-Rule:MF_00048};
+Bit Score: 95.0
+E-value: 0.005117
+Alignment Length: 110
+Percentage Identity: 0.19
+
+=== E1Y9B4 ===
+DE   RecName: Full=Restriction endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 94.0
+E-value: 0.005117
+Alignment Length: 111
+Percentage Identity: 0.162
+
+=== A0A2I0P1Q1 ===
+DE   RecName: Full=YraN family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 98.0
+E-value: 0.005457
+Alignment Length: 100
+Percentage Identity: 0.15
+
+=== A0A7C5BFT2 ===
+DE   RecName: Full=UPF0102 protein ENW59_00180 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 84.0
+E-value: 0.005457
+Alignment Length: 108
+Percentage Identity: 0.166
+
+=== A0A6G7C6Y7 ===
+DE   RecName: Full=DUF3883 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 92.0
+E-value: 0.00582
+Alignment Length: 117
+Percentage Identity: 0.119
+
+=== A0A0W1L2B9 ===
+DE   RecName: Full=Restriction endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 87.0
+E-value: 0.006207
+Alignment Length: 141
+Percentage Identity: 0.12
+
+=== A0A853EX29 ===
+DE   RecName: Full=Restriction endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.006619
+Alignment Length: 110
+Percentage Identity: 0.2
+
+=== A0A1I4F5R5 ===
+DE   RecName: Full=PD-(D/E)XK nuclease superfamily protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 97.0
+E-value: 0.006619
+Alignment Length: 111
+Percentage Identity: 0.153
+
+=== A0A7T0G077 ===
+DE   RecName: Full=Restriction endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 98.0
+E-value: 0.007059
+Alignment Length: 109
+Percentage Identity: 0.128
+
+=== A0A496X720 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RLA51611.1};
+Bit Score: 113.0
+E-value: 0.008029
+Alignment Length: 113
+Percentage Identity: 0.159
+
+=== A0A1F8ZMJ8 ===
+DE   RecName: Full=Protein NO VEIN C-terminal domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 100.0
+E-value: 0.008029
+Alignment Length: 125
+Percentage Identity: 0.144
+
+=== A0A6V8F1L4 ===
+DE   RecName: Full=Holliday junction resolvase {ECO:0008006|Google:ProtNLM};
+Bit Score: 100.0
+E-value: 0.008562
+Alignment Length: 157
+Percentage Identity: 0.14
+
+=== A0A643FJ25 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QOT76335.1};
+Bit Score: 98.0
+E-value: 0.008562
+Alignment Length: 160
+Percentage Identity: 0.143
+
+=== A0A1N6EPH5 ===
+DE   RecName: Full=UPF0102 protein SAMN05444168_0848 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 92.0
+E-value: 0.008562
+Alignment Length: 110
+Percentage Identity: 0.2
+
+=== A0A1S1X5Z6 ===
+DE   RecName: Full=Restriction endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 85.0
+E-value: 0.009132
+Alignment Length: 111
+Percentage Identity: 0.117
+
+=== A0A6X8DI45 ===
+DE   RecName: Full=Restriction endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 92.0
+E-value: 0.01108
+Alignment Length: 134
+Percentage Identity: 0.119
+
+=== A0A498C180 ===
+DE   RecName: Full=UPF0102 protein DFR31_2578 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 90.0
+E-value: 0.01108
+Alignment Length: 110
+Percentage Identity: 0.218
+
+=== A0A4U7DYD6 ===
+DE   RecName: Full=Restriction endonuclease type IV Mrr domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 84.0
+E-value: 0.01108
+Alignment Length: 151
+Percentage Identity: 0.139
+
+=== U7LHM0 ===
+DE   RecName: Full=UPF0102 protein HMPREF1264_00345 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 82.0
+E-value: 0.01108
+Alignment Length: 106
+Percentage Identity: 0.198
+
+=== A0A2A3HGX3 ===
+DE   RecName: Full=UPF0102 protein BGX14_2862 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 79.0
+E-value: 0.01108
+Alignment Length: 98
+Percentage Identity: 0.173
+
+=== A0A2Z6UR45 ===
+DE   RecName: Full=UPF0102 protein KUL10_34130 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 83.0
+E-value: 0.01181
+Alignment Length: 110
+Percentage Identity: 0.163
+
+=== A0A2S8RIN9 ===
+DE   RecName: Full=UPF0102 protein B0G83_11883 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 82.0
+E-value: 0.01181
+Alignment Length: 118
+Percentage Identity: 0.144
+
+=== A4JAG1 ===
+DE   RecName: Full=UPF0102 protein Bcep1808_0248 {ECO:0000255|HAMAP-Rule:MF_00048};
+Bit Score: 80.0
+E-value: 0.01181
+Alignment Length: 108
+Percentage Identity: 0.222
+
+=== W5IIX8 ===
+DE   RecName: Full=Restriction endonuclease type IV Mrr domain-containing protein {ECO:0000259|Pfam:PF04471};
+Bit Score: 56.0
+E-value: 0.01181
+Alignment Length: 163
+Percentage Identity: 0.128
+
+=== A0A1W9TMS8 ===
+DE   RecName: Full=AAA-ATPase-like domain-containing protein {ECO:0000259|Pfam:PF09820};
+Bit Score: 80.0
+E-value: 0.0126
+Alignment Length: 114
+Percentage Identity: 0.149
+
+=== A0A511MYV2 ===
+DE   RecName: Full=UPF0102 protein DC3_13880 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 71.0
+E-value: 0.0126
+Alignment Length: 102
+Percentage Identity: 0.137
+
+=== A0A7C7RII3 ===
+DE   SubName: Full=DUF3883 domain-containing protein {ECO:0000313|EMBL:HIE14731.1};
+Bit Score: 107.0
+E-value: 0.01343
+Alignment Length: 93
+Percentage Identity: 0.129
+
+=== A0A4Z0F6A1 ===
+DE   SubName: Full=VRR-NUC domain-containing protein {ECO:0000313|EMBL:TFZ80908.1};
+Bit Score: 100.0
+E-value: 0.01343
+Alignment Length: 90
+Percentage Identity: 0.166
+
+=== A0A1N6L5V8 ===
+DE   RecName: Full=UPF0102 protein SAMN05444165_6151 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 87.0
+E-value: 0.01343
+Alignment Length: 111
+Percentage Identity: 0.18
+
+=== A0A2J9HFB4 ===
+DE   RecName: Full=UPF0102 protein CEQ24_028930 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 74.0
+E-value: 0.01343
+Alignment Length: 123
+Percentage Identity: 0.146
+
+=== A0A382EZK7 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523};
+Bit Score: 93.0
+E-value: 0.01433
+Alignment Length: 173
+Percentage Identity: 0.138
+
+=== A0A1H7ARL0 ===
+DE   SubName: Full=Restriction endonuclease {ECO:0000313|EMBL:SEJ68271.1};
+Bit Score: 92.0
+E-value: 0.01433
+Alignment Length: 92
+Percentage Identity: 0.141
+
+=== A0A2E2Q5Y5 ===
+DE   RecName: Full=Protein NO VEIN C-terminal domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 80.0
+E-value: 0.01433
+Alignment Length: 159
+Percentage Identity: 0.125
+
+=== Q9UZC5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAB50134.1};
+Bit Score: 79.0
+E-value: 0.01528
+Alignment Length: 106
+Percentage Identity: 0.094
+
+=== A0A6G7BA94 ===
+DE   RecName: Full=DUF1064 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 78.0
+E-value: 0.01528
+Alignment Length: 94
+Percentage Identity: 0.117
+
+=== A0A1I3FN42 ===
+DE   RecName: Full=UPF0102 protein SAMN05192543_10214 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 77.0
+E-value: 0.01528
+Alignment Length: 114
+Percentage Identity: 0.14
+
+=== A0A7Z2G2D8 ===
+DE   RecName: Full=UPF0102 protein FAZ97_00615 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 75.0
+E-value: 0.01528
+Alignment Length: 129
+Percentage Identity: 0.17
+
+=== A0A7Y6QRP6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NVE00219.1};
+Bit Score: 71.0
+E-value: 0.01528
+Alignment Length: 82
+Percentage Identity: 0.231
+
+=== A0A7C8IDB0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAF2871250.1};
+Bit Score: 63.0
+E-value: 0.01528
+Alignment Length: 132
+Percentage Identity: 0.09
+
+=== A0A375FT52 ===
+DE   RecName: Full=UPF0102 protein CO2235_10066 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 87.0
+E-value: 0.0163
+Alignment Length: 120
+Percentage Identity: 0.133
+
+=== A0A1H0Z595 ===
+DE   RecName: Full=UPF0102 protein SAMN05443245_0454 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 80.0
+E-value: 0.0163
+Alignment Length: 120
+Percentage Identity: 0.141
+
+=== A0A2E4FYQ1 ===
+DE   RecName: Full=DUF559 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 77.0
+E-value: 0.0163
+Alignment Length: 136
+Percentage Identity: 0.058
+
+=== A0A7T1AZP6 ===
+DE   SubName: Full=VRR-NUC domain-containing protein {ECO:0000313|EMBL:QPM75027.1};
+Bit Score: 104.0
+E-value: 0.01738
+Alignment Length: 86
+Percentage Identity: 0.162
+
+=== A0A3N2D5M5 ===
+DE   RecName: Full=UPF0102 protein EDC56_3938 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 78.0
+E-value: 0.01738
+Alignment Length: 118
+Percentage Identity: 0.093
+
+=== A0A2A4TV64 ===
+DE   RecName: Full=AAA-ATPase-like domain-containing protein {ECO:0000259|Pfam:PF09820};
+Bit Score: 71.0
+E-value: 0.01738
+Alignment Length: 91
+Percentage Identity: 0.175
+
+=== A0A7X9J953 ===
+DE   RecName: Full=UPF0102 protein GYA58_10655 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 69.0
+E-value: 0.01738
+Alignment Length: 113
+Percentage Identity: 0.15
+
+=== A0A1L8SKV6 ===
+DE   RecName: Full=Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523};
+Bit Score: 86.0
+E-value: 0.01977
+Alignment Length: 154
+Percentage Identity: 0.142
+
+=== A0A7W8S278 ===
+DE   RecName: Full=UPF0102 protein HDG32_003305 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 84.0
+E-value: 0.01977
+Alignment Length: 117
+Percentage Identity: 0.162
+
+=== A0A2J6XSL0 ===
+DE   RecName: Full=Restriction endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 77.0
+E-value: 0.01977
+Alignment Length: 105
+Percentage Identity: 0.18
+
+=== B9C054 ===
+DE   RecName: Full=UPF0102 protein BURMUCGD2_0167 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 75.0
+E-value: 0.01977
+Alignment Length: 116
+Percentage Identity: 0.172
+
+=== A0A522IDJ2 ===
+DE   RecName: Full=UPF0102 protein EPN70_19500 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 65.0
+E-value: 0.01977
+Alignment Length: 140
+Percentage Identity: 0.178
+
+=== A0A496UG45 ===
+DE   SubName: Full=VRR-NUC domain-containing protein {ECO:0000313|EMBL:RKZ06733.1};
+Bit Score: 103.0
+E-value: 0.02108
+Alignment Length: 95
+Percentage Identity: 0.157
+
+=== A0A5P2H7B7 ===
+DE   RecName: Full=UPF0102 protein FOB72_15605 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 86.0
+E-value: 0.02108
+Alignment Length: 112
+Percentage Identity: 0.16
+
+=== A0A6J5EZP3 ===
+DE   RecName: Full=UPF0102 protein LMG29739_05900 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 81.0
+E-value: 0.02108
+Alignment Length: 117
+Percentage Identity: 0.136
+
+=== A0A2W4SNJ6 ===
+DE   RecName: Full=Restriction endonuclease type IV Mrr domain-containing protein {ECO:0000259|Pfam:PF04471};
+Bit Score: 77.0
+E-value: 0.02108
+Alignment Length: 143
+Percentage Identity: 0.174
+
+=== B9TD46 ===
+DE   RecName: Full=Restriction endonuclease type IV Mrr domain-containing protein {ECO:0000259|Pfam:PF04471};
+Bit Score: 69.0
+E-value: 0.02108
+Alignment Length: 141
+Percentage Identity: 0.127
+
+=== A0A495U5H9 ===
+DE   RecName: Full=UPF0102 protein B0G69_1528 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 80.0
+E-value: 0.02248
+Alignment Length: 117
+Percentage Identity: 0.162
+
+=== A0A1I1B4A9 ===
+DE   SubName: Full=PD-(D/E)XK nuclease superfamily protein {ECO:0000313|EMBL:SFB43393.1};
+Bit Score: 75.0
+E-value: 0.02248
+Alignment Length: 92
+Percentage Identity: 0.13
+
+=== C5A8Y6 ===
+DE   RecName: Full=UPF0102 protein bglu_1g02140 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 71.0
+E-value: 0.02248
+Alignment Length: 123
+Percentage Identity: 0.146
+
+=== A0A367EYQ4 ===
+DE   SubName: Full=Restriction endonuclease {ECO:0000313|EMBL:RCG22752.1};
+Bit Score: 82.0
+E-value: 0.02398
+Alignment Length: 94
+Percentage Identity: 0.159
+
+=== A0A451BI18 ===
+DE   SubName: Full=PD-(D/E)XK nuclease superfamily protein {ECO:0000313|EMBL:VFK77933.1};
+Bit Score: 78.0
+E-value: 0.02398
+Alignment Length: 107
+Percentage Identity: 0.177
+
+=== A0A1J5QCL0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OIQ75227.1};
+Bit Score: 78.0
+E-value: 0.02398
+Alignment Length: 114
+Percentage Identity: 0.166
+
+=== A0A1V5GX76 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OPZ24121.1};
+Bit Score: 76.0
+E-value: 0.02398
+Alignment Length: 139
+Percentage Identity: 0.122
+
+=== A0A0D6QQ19 ===
+DE   SubName: Full=Restriction endonuclease {ECO:0000313|EMBL:GAO05131.1};
+Bit Score: 70.0
+E-value: 0.02398
+Alignment Length: 110
+Percentage Identity: 0.145
+
+=== A0A7C5W050 ===
+DE   RecName: Full=UPF0102 protein ENM23_03170 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 65.0
+E-value: 0.02398
+Alignment Length: 107
+Percentage Identity: 0.158
+
+=== A0A1C6F655 ===
+DE   SubName: Full=Archaeal ATPase {ECO:0000313|EMBL:SCJ28368.1};
+Bit Score: 59.0
+E-value: 0.02398
+Alignment Length: 117
+Percentage Identity: 0.111
+
+=== A0A661X8B3 ===
+DE   RecName: Full=UPF0102 protein DRI36_06555 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 80.0
+E-value: 0.02557
+Alignment Length: 111
+Percentage Identity: 0.153
+
+=== A0A0M4GMJ3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ALC98359.1};
+Bit Score: 80.0
+E-value: 0.02557
+Alignment Length: 152
+Percentage Identity: 0.118
+
+=== A0A1N7RJ83 ===
+DE   RecName: Full=UPF0102 protein BN2475_40031 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 75.0
+E-value: 0.02557
+Alignment Length: 119
+Percentage Identity: 0.159
+
+=== A0A857J1U5 ===
+DE   RecName: Full=UPF0102 protein GT347_07605 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 75.0
+E-value: 0.02557
+Alignment Length: 117
+Percentage Identity: 0.145
+
+=== A0A7X9X8B6 ===
+DE   RecName: Full=UPF0102 protein HHL14_21305 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 72.0
+E-value: 0.02557
+Alignment Length: 126
+Percentage Identity: 0.142
+
+=== A0A7V8FKL9 ===
+DE   RecName: Full=UPF0102 protein GAK30_03787 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 69.0
+E-value: 0.02557
+Alignment Length: 116
+Percentage Identity: 0.129
+
+=== A0A0F9MZN9 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 90.0
+E-value: 0.02727
+Alignment Length: 111
+Percentage Identity: 0.153
+
+=== A0A060M1E5 ===
+DE   SubName: Full=Sugar fermentation stimulation protein {ECO:0000313|EMBL:AIC93894.1};
+Bit Score: 85.0
+E-value: 0.02727
+Alignment Length: 103
+Percentage Identity: 0.174
+
+=== A0A2R6LW57 ===
+DE   RecName: Full=Restriction endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 76.0
+E-value: 0.02727
+Alignment Length: 121
+Percentage Identity: 0.132
+
+=== A0A7V4UHZ9 ===
+DE   RecName: Full=UPF0102 protein ENS02_01765 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 70.0
+E-value: 0.02727
+Alignment Length: 98
+Percentage Identity: 0.244
+
+=== A0A6N2STL2 ===
+DE   RecName: Full=PD-(D/E)XK nuclease superfamily protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 64.0
+E-value: 0.02727
+Alignment Length: 110
+Percentage Identity: 0.172
+
+=== A0A7C7DXZ7 ===
+DE   RecName: Full=site-specific DNA-methyltransferase (adenine-specific) {ECO:0000256|ARBA:ARBA00011900};
+DE            EC=2.1.1.72 {ECO:0000256|ARBA:ARBA00011900};
+DE   Flags: Fragment;
+Bit Score: 63.0
+E-value: 0.02727
+Alignment Length: 154
+Percentage Identity: 0.116
+
+=== A0A3C0TE09 ===
+DE   RecName: Full=UPF0102 protein DCP06_00230 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 81.0
+E-value: 0.02908
+Alignment Length: 116
+Percentage Identity: 0.129
+
+=== A0A258DHX3 ===
+DE   RecName: Full=UPF0102 protein B7Z05_03590 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 74.0
+E-value: 0.02908
+Alignment Length: 122
+Percentage Identity: 0.155
+
+=== A0A2M8FGV2 ===
+DE   RecName: Full=site-specific DNA-methyltransferase (adenine-specific) {ECO:0000256|ARBA:ARBA00011900};
+DE            EC=2.1.1.72 {ECO:0000256|ARBA:ARBA00011900};
+Bit Score: 67.0
+E-value: 0.02908
+Alignment Length: 149
+Percentage Identity: 0.127
+
+=== A0A1Y2D6A6 ===
+DE   RecName: Full=Protein NO VEIN C-terminal domain-containing protein {ECO:0000259|Pfam:PF13020};
+Bit Score: 66.0
+E-value: 0.02908
+Alignment Length: 150
+Percentage Identity: 0.126
+
+=== A0A7H9ARJ2 ===
+DE   RecName: Full=DUF4365 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 92.0
+E-value: 0.03101
+Alignment Length: 102
+Percentage Identity: 0.078
+
+=== Q9RT88 ===
+DE   RecName: Full=Restriction endonuclease type IV Mrr domain-containing protein {ECO:0000259|Pfam:PF04471};
+Bit Score: 84.0
+E-value: 0.03101
+Alignment Length: 92
+Percentage Identity: 0.152
+
+=== A0A6J4N8A6 ===
+DE   RecName: Full=DUF4365 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 76.0
+E-value: 0.03101
+Alignment Length: 157
+Percentage Identity: 0.101
+
+=== A0A848SX40 ===
+DE   RecName: Full=UPF0102 protein HKN92_02440 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 68.0
+E-value: 0.03101
+Alignment Length: 109
+Percentage Identity: 0.146
+
+=== A0A6S4QNC3 ===
+DE   RecName: Full=UPF0102 protein COTS27_00616 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 55.0
+E-value: 0.03101
+Alignment Length: 153
+Percentage Identity: 0.117
+
+=== A0A7W8H8W6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB5264036.1};
+Bit Score: 74.0
+E-value: 0.03308
+Alignment Length: 93
+Percentage Identity: 0.096
+
+=== A0A6J7A2J5 ===
+DE   SubName: Full=Unannotated protein {ECO:0000313|EMBL:CAB4827032.1};
+Bit Score: 72.0
+E-value: 0.03308
+Alignment Length: 99
+Percentage Identity: 0.141
+
+=== A0A7C5A9D4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HGY75601.1};
+Bit Score: 70.0
+E-value: 0.03308
+Alignment Length: 119
+Percentage Identity: 0.117
+
+=== A0A1I0H7Q2 ===
+DE   SubName: Full=PD-(D/E)XK nuclease superfamily protein {ECO:0000313|EMBL:SET78903.1};
+DE   Flags: Fragment;
+Bit Score: 65.0
+E-value: 0.03308
+Alignment Length: 106
+Percentage Identity: 0.15
+
+=== A0A2W4K006 ===
+DE   RecName: Full=UPF0102 protein DKT66_27880 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 55.0
+E-value: 0.03308
+Alignment Length: 130
+Percentage Identity: 0.146
+
+=== A0A4Q7RCM6 ===
+DE   RecName: Full=UPF0102 protein EV147_4830 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 83.0
+E-value: 0.03527
+Alignment Length: 112
+Percentage Identity: 0.142
+
+=== A0A8B0SPF7 ===
+DE   SubName: Full=DUF4143 domain-containing protein {ECO:0000313|EMBL:QTX13095.1};
+Bit Score: 82.0
+E-value: 0.03527
+Alignment Length: 89
+Percentage Identity: 0.157
+
+=== A0A7Z2GEL8 ===
+DE   RecName: Full=UPF0102 protein FAZ98_00560 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 76.0
+E-value: 0.03527
+Alignment Length: 127
+Percentage Identity: 0.181
+
+=== A0A7U9R917 ===
+DE   RecName: Full=PD-(D/E)XK nuclease superfamily protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 73.0
+E-value: 0.03527
+Alignment Length: 126
+Percentage Identity: 0.142
+
+=== A0A7T0KD92 ===
+DE   RecName: Full=UPF0102 protein G7Y31_07555 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 70.0
+E-value: 0.03527
+Alignment Length: 107
+Percentage Identity: 0.149
+
+=== A0A845L369 ===
+DE   RecName: Full=Helicase C-terminal domain-containing protein {ECO:0000259|PROSITE:PS51194};
+Bit Score: 63.0
+E-value: 0.03527
+Alignment Length: 149
+Percentage Identity: 0.134
+
+=== A0A2M8BXZ3 ===
+DE   RecName: Full=Restriction endonuclease {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 62.0
+E-value: 0.03527
+Alignment Length: 165
+Percentage Identity: 0.127
+
+=== A0A5B0HIX1 ===
+DE   RecName: Full=UPF0102 protein FVF58_04210 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 81.0
+E-value: 0.03762
+Alignment Length: 115
+Percentage Identity: 0.139
+
+=== A0A3M7KEB7 ===
+DE   SubName: Full=DUF3883 domain-containing protein {ECO:0000313|EMBL:RMZ48963.1};
+Bit Score: 81.0
+E-value: 0.03762
+Alignment Length: 139
+Percentage Identity: 0.115
+
+=== A0A7W7WW38 ===
+DE   SubName: Full=Restriction system protein {ECO:0000313|EMBL:MBB4965567.1};
+Bit Score: 68.0
+E-value: 0.03762
+Alignment Length: 138
+Percentage Identity: 0.115
+
+=== A0A3M1TVT1 ===
+DE   SubName: Full=AAA family ATPase {ECO:0000313|EMBL:RMG20383.1};
+Bit Score: 66.0
+E-value: 0.03762
+Alignment Length: 94
+Percentage Identity: 0.159
+
+=== A0A7C4RCZ4 ===
+DE   RecName: Full=DUF3883 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 65.0
+E-value: 0.03762
+Alignment Length: 134
+Percentage Identity: 0.194
+
+=== A0A374G0T7 ===
+DE   SubName: Full=Restriction endonuclease {ECO:0000313|EMBL:RGH88316.1};
+Bit Score: 64.0
+E-value: 0.03762
+Alignment Length: 111
+Percentage Identity: 0.09
+
+=== A0A2V2N8G3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PWR72567.1};
+Bit Score: 79.0
+E-value: 0.04012
+Alignment Length: 101
+Percentage Identity: 0.148
+
+=== A0A7T4N5C9 ===
+DE   RecName: Full=UPF0102 protein I6I06_10665 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 75.0
+E-value: 0.04012
+Alignment Length: 117
+Percentage Identity: 0.136
+
+=== W1UDL0 ===
+DE   RecName: Full=AAA-ATPase-like domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 74.0
+E-value: 0.04012
+Alignment Length: 89
+Percentage Identity: 0.146
+
+=== A0A554KR69 ===
+DE   RecName: Full=UPF0102 protein G01um101420_21 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 73.0
+E-value: 0.04012
+Alignment Length: 108
+Percentage Identity: 0.166
+
+=== A0A6B3D0M7 ===
+DE   SubName: Full=Restriction endonuclease {ECO:0000313|EMBL:NED09008.1};
+DE   Flags: Fragment;
+Bit Score: 72.0
+E-value: 0.04012
+Alignment Length: 94
+Percentage Identity: 0.138
+
+=== A0A496RWT1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RKY39902.1};
+DE   Flags: Fragment;
+Bit Score: 68.0
+E-value: 0.04012
+Alignment Length: 128
+Percentage Identity: 0.125
+
+=== A0A450YV75 ===
+DE   SubName: Full=PD-(D/E)XK nuclease superfamily protein {ECO:0000313|EMBL:VFK45447.1};
+Bit Score: 67.0
+E-value: 0.04012
+Alignment Length: 104
+Percentage Identity: 0.163
+
+=== S4XR38 ===
+DE   RecName: Full=PD-(D/E)XK nuclease superfamily protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 56.0
+E-value: 0.04012
+Alignment Length: 156
+Percentage Identity: 0.134
+
+=== A0A841R794 ===
+DE   RecName: Full=Sugar fermentation stimulation protein homolog {ECO:0000256|HAMAP-Rule:MF_00095};
+Bit Score: 83.0
+E-value: 0.04279
+Alignment Length: 97
+Percentage Identity: 0.206
+
+=== A0A0J1GDB4 ===
+DE   RecName: Full=PD(D/E)XK endonuclease domain-containing protein {ECO:0000259|Pfam:PF11645};
+Bit Score: 81.0
+E-value: 0.04279
+Alignment Length: 144
+Percentage Identity: 0.097
+
+=== A0A2E6KFI8 ===
+DE   RecName: Full=PD(D/E)XK endonuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 80.0
+E-value: 0.04279
+Alignment Length: 113
+Percentage Identity: 0.106
+
+=== A0A7X8ZNY3 ===
+DE   RecName: Full=AAA family ATPase {ECO:0008006|Google:ProtNLM};
+Bit Score: 77.0
+E-value: 0.04279
+Alignment Length: 102
+Percentage Identity: 0.166
+
+=== R6DUD5 ===
+DE   RecName: Full=AAA-ATPase-like domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 74.0
+E-value: 0.04279
+Alignment Length: 90
+Percentage Identity: 0.133
+
+=== A0A7U9SP06 ===
+DE   RecName: Full=AAA-ATPase-like domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 73.0
+E-value: 0.04279
+Alignment Length: 111
+Percentage Identity: 0.162
+
+=== A0A0F0CPQ0 ===
+DE   SubName: Full=Protein containing DUF1703 {ECO:0000313|EMBL:KJJ83999.1};
+Bit Score: 69.0
+E-value: 0.04279
+Alignment Length: 114
+Percentage Identity: 0.166
+
+=== A0A017SZ31 ===
+DE   SubName: Full=Protein with a weak D-galactarate dehydratase/altronate hydrolase domain protein {ECO:0000313|EMBL:EYF01875.1};
+Bit Score: 69.0
+E-value: 0.04279
+Alignment Length: 93
+Percentage Identity: 0.139
+
+=== A0A7W0FUA4 ===
+DE   SubName: Full=AAA family ATPase {ECO:0000313|EMBL:MBA3237428.1};
+Bit Score: 64.0
+E-value: 0.04279
+Alignment Length: 118
+Percentage Identity: 0.161
+
+=== A0A7V9VJV0 ===
+DE   SubName: Full=Restriction endonuclease {ECO:0000313|EMBL:MBA2760244.1};
+Bit Score: 77.0
+E-value: 0.04563
+Alignment Length: 96
+Percentage Identity: 0.135
+
+=== A0A5Q2MYH7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QGG46429.1};
+Bit Score: 76.0
+E-value: 0.04563
+Alignment Length: 90
+Percentage Identity: 0.144
+
+=== A0E8K8 ===
+DE   SubName: Full=Chromosome undetermined scaffold_83, whole genome shotgun sequence {ECO:0000313|EMBL:CAK91625.1};
+Bit Score: 75.0
+E-value: 0.04563
+Alignment Length: 89
+Percentage Identity: 0.134
+
+=== A0A6N0BYH4 ===
+DE   RecName: Full=UPF0102 protein HTY51_15335 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 74.0
+E-value: 0.04563
+Alignment Length: 115
+Percentage Identity: 0.139
+
+=== A0A6B9TAA9 ===
+DE   RecName: Full=DUF91 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 73.0
+E-value: 0.04563
+Alignment Length: 105
+Percentage Identity: 0.114
+
+=== A0A1G2Y4Z6 ===
+DE   RecName: Full=UPF0102 protein A2Y10_06775 {ECO:0000256|HAMAP-Rule:MF_00048};
+Bit Score: 71.0
+E-value: 0.04563
+Alignment Length: 110
+Percentage Identity: 0.127
+
+=== A0A5E9AKH2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RWD69247.1};
+Bit Score: 68.0
+E-value: 0.04563
+Alignment Length: 91
+Percentage Identity: 0.186
+
+=== A0A6I7YQG6 ===
+DE   SubName: Full=Restriction endonuclease {ECO:0000313|EMBL:TXS66131.1};
+Bit Score: 61.0
+E-value: 0.04563
+Alignment Length: 160
+Percentage Identity: 0.112
+
+=== A0A2E2VD92 ===
+DE   RecName: Full=Protein NO VEIN C-terminal domain-containing protein {ECO:0000259|Pfam:PF13020};
+Bit Score: 85.0
+E-value: 0.04866
+Alignment Length: 135
+Percentage Identity: 0.118
+
+=== A0A1S8T7Q4 ===
+DE   RecName: Full=PD-(D/E)XK nuclease superfamily protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 73.0
+E-value: 0.04866
+Alignment Length: 112
+Percentage Identity: 0.178
+
+=== A0A2H4VB14 ===
+DE   RecName: Full=site-specific DNA-methyltransferase (adenine-specific) {ECO:0000256|ARBA:ARBA00011900};
+DE            EC=2.1.1.72 {ECO:0000256|ARBA:ARBA00011900};
+Bit Score: 61.0
+E-value: 0.04866
+Alignment Length: 140
+Percentage Identity: 0.15
+

@@ -1,0 +1,7 @@
+=== K1YBP5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EKD22669.1};
+Bit Score: 198.0
+E-value: 0.0008164
+Alignment Length: 147
+Percentage Identity: 0.224
+

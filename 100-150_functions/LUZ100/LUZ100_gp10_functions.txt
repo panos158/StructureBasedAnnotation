@@ -1,0 +1,6180 @@
+=== A0A136QBG2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KXK68010.1};
+Bit Score: 496.0
+E-value: 1.145e-13
+Alignment Length: 111
+Percentage Identity: 0.873
+
+=== A0A1H2I6R5 ===
+DE   SubName: Full=Winged helix-turn-helix DNA-binding {ECO:0000313|EMBL:SDU39817.1};
+Bit Score: 413.0
+E-value: 2.666e-11
+Alignment Length: 111
+Percentage Identity: 0.567
+
+=== A0A833IRX0 ===
+DE   SubName: Full=Winged helix DNA-binding protein {ECO:0000313|EMBL:KAB7627695.1};
+Bit Score: 431.0
+E-value: 7.633e-10
+Alignment Length: 86
+Percentage Identity: 0.604
+
+=== A0A1H7QD21 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SEL45197.1};
+Bit Score: 332.0
+E-value: 9.447e-09
+Alignment Length: 106
+Percentage Identity: 0.471
+
+=== A0A212JFH5 ===
+DE   SubName: Full=Transcriptional regulator, MarR family protein {ECO:0000313|EMBL:SBV98186.1};
+Bit Score: 340.0
+E-value: 1.437e-08
+Alignment Length: 103
+Percentage Identity: 0.427
+
+=== A0A291P595 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|Pfam:PF12802};
+Bit Score: 327.0
+E-value: 1.72e-08
+Alignment Length: 105
+Percentage Identity: 0.476
+
+=== A0A0S9P881 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 368.0
+E-value: 1.938e-08
+Alignment Length: 86
+Percentage Identity: 0.441
+
+=== A0A023WQW2 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 325.0
+E-value: 2.058e-08
+Alignment Length: 104
+Percentage Identity: 0.538
+
+=== A0A0F9DAI0 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 322.0
+E-value: 2.32e-08
+Alignment Length: 103
+Percentage Identity: 0.417
+
+=== W7PYV4 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 319.0
+E-value: 2.463e-08
+Alignment Length: 105
+Percentage Identity: 0.476
+
+=== A0A0P7Y3D0 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|Pfam:PF12802};
+Bit Score: 314.0
+E-value: 2.777e-08
+Alignment Length: 107
+Percentage Identity: 0.42
+
+=== A0A2A6LS07 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PDT45331.1};
+Bit Score: 311.0
+E-value: 4.761e-08
+Alignment Length: 110
+Percentage Identity: 0.4
+
+=== A0A1V3NHB4 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 299.0
+E-value: 4.761e-08
+Alignment Length: 107
+Percentage Identity: 0.42
+
+=== A0A0F3IT94 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KJV08814.1};
+Bit Score: 322.0
+E-value: 6.049e-08
+Alignment Length: 100
+Percentage Identity: 0.46
+
+=== A0A369ACH4 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:RCX07060.1};
+Bit Score: 319.0
+E-value: 6.423e-08
+Alignment Length: 97
+Percentage Identity: 0.412
+
+=== A0A1P8R8D9 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|Pfam:PF12802};
+Bit Score: 313.0
+E-value: 6.819e-08
+Alignment Length: 101
+Percentage Identity: 0.415
+
+=== A0A0K2GCI3 ===
+DE   SubName: Full=Putative transcriptional regulator, MarR family {ECO:0000313|EMBL:ALA58671.1};
+Bit Score: 316.0
+E-value: 7.24e-08
+Alignment Length: 105
+Percentage Identity: 0.39
+
+=== A0A858RAB7 ===
+DE   SubName: Full=Winged helix DNA-binding protein {ECO:0000313|EMBL:QJE74619.1};
+Bit Score: 306.0
+E-value: 8.666e-08
+Alignment Length: 103
+Percentage Identity: 0.466
+
+=== A0A2E3D992 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBA58527.1};
+Bit Score: 304.0
+E-value: 9.201e-08
+Alignment Length: 105
+Percentage Identity: 0.38
+
+=== A0A7Y4H6A8 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NOJ48431.1};
+Bit Score: 293.0
+E-value: 1.318e-07
+Alignment Length: 111
+Percentage Identity: 0.405
+
+=== A0A1Z8SNZ4 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 293.0
+E-value: 1.486e-07
+Alignment Length: 107
+Percentage Identity: 0.383
+
+=== A0A2E7H1U8 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MBN30033.1};
+Bit Score: 268.0
+E-value: 1.486e-07
+Alignment Length: 110
+Percentage Identity: 0.372
+
+=== A0A2D7NAF6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAJ43893.1};
+Bit Score: 278.0
+E-value: 1.577e-07
+Alignment Length: 111
+Percentage Identity: 0.351
+
+=== A0A1M3KRZ7 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|Pfam:PF12802};
+Bit Score: 286.0
+E-value: 1.675e-07
+Alignment Length: 110
+Percentage Identity: 0.409
+
+=== A0A2E6X3T3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MBM08132.1};
+Bit Score: 273.0
+E-value: 2.26e-07
+Alignment Length: 102
+Percentage Identity: 0.392
+
+=== A0A6N9ZPV6 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NEH94965.1};
+Bit Score: 282.0
+E-value: 2.704e-07
+Alignment Length: 102
+Percentage Identity: 0.421
+
+=== A0A2W4RB21 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PZN80413.1};
+Bit Score: 326.0
+E-value: 3.049e-07
+Alignment Length: 86
+Percentage Identity: 0.383
+
+=== A0A521RQ38 ===
+DE   SubName: Full=Winged helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:TAJ97173.1};
+Bit Score: 277.0
+E-value: 3.049e-07
+Alignment Length: 104
+Percentage Identity: 0.384
+
+=== A0A4R3I1A6 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:TCS38375.1};
+Bit Score: 291.0
+E-value: 3.649e-07
+Alignment Length: 105
+Percentage Identity: 0.323
+
+=== A0A1X7KP20 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SMG42968.1};
+Bit Score: 273.0
+E-value: 3.874e-07
+Alignment Length: 114
+Percentage Identity: 0.307
+
+=== A0A7T0WCW8 ===
+DE   SubName: Full=Winged helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:QPL44983.1};
+Bit Score: 269.0
+E-value: 3.874e-07
+Alignment Length: 107
+Percentage Identity: 0.364
+
+=== A0A1Y6C430 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SMF41940.1};
+Bit Score: 278.0
+E-value: 4.367e-07
+Alignment Length: 100
+Percentage Identity: 0.42
+
+=== A0A537MWX9 ===
+DE   SubName: Full=Winged helix DNA-binding protein {ECO:0000313|EMBL:TMJ24770.1};
+Bit Score: 277.0
+E-value: 5.227e-07
+Alignment Length: 101
+Percentage Identity: 0.356
+
+=== A0A4V6QRU0 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TGQ31847.1};
+Bit Score: 270.0
+E-value: 5.227e-07
+Alignment Length: 106
+Percentage Identity: 0.367
+
+=== A0A846QLY9 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:NJB67233.1};
+Bit Score: 274.0
+E-value: 5.892e-07
+Alignment Length: 109
+Percentage Identity: 0.366
+
+=== A0A1Y6C869 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SMF41917.1};
+Bit Score: 274.0
+E-value: 7.052e-07
+Alignment Length: 108
+Percentage Identity: 0.435
+
+=== A0A2E6KN98 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MBK67973.1};
+Bit Score: 272.0
+E-value: 7.052e-07
+Alignment Length: 108
+Percentage Identity: 0.351
+
+=== A0A0Q6W0T5 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 269.0
+E-value: 7.949e-07
+Alignment Length: 106
+Percentage Identity: 0.339
+
+=== A0A424IXS1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RPF97883.1};
+Bit Score: 242.0
+E-value: 7.949e-07
+Alignment Length: 110
+Percentage Identity: 0.372
+
+=== A0A4R3X163 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:TCV62284.1};
+Bit Score: 270.0
+E-value: 8.44e-07
+Alignment Length: 108
+Percentage Identity: 0.324
+
+=== A0A1L3ZSC0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:API58510.1};
+Bit Score: 258.0
+E-value: 8.961e-07
+Alignment Length: 108
+Percentage Identity: 0.277
+
+=== A0A858R500 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|SMART:SM00347};
+Bit Score: 262.0
+E-value: 1.072e-06
+Alignment Length: 109
+Percentage Identity: 0.33
+
+=== Q31A88 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 271.0
+E-value: 1.209e-06
+Alignment Length: 107
+Percentage Identity: 0.373
+
+=== A0A2K8UD41 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 267.0
+E-value: 1.209e-06
+Alignment Length: 113
+Percentage Identity: 0.327
+
+=== A0A6N7NXT9 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 250.0
+E-value: 1.631e-06
+Alignment Length: 114
+Percentage Identity: 0.298
+
+=== A2BYD0 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 260.0
+E-value: 1.952e-06
+Alignment Length: 103
+Percentage Identity: 0.359
+
+=== A0A6I6CXK7 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:QGT78919.1};
+Bit Score: 245.0
+E-value: 2.073e-06
+Alignment Length: 113
+Percentage Identity: 0.318
+
+=== A0A0J8B1F8 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KMS60220.1};
+Bit Score: 260.0
+E-value: 2.201e-06
+Alignment Length: 108
+Percentage Identity: 0.287
+
+=== A0A1H2VP41 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SDW69744.1};
+Bit Score: 260.0
+E-value: 2.481e-06
+Alignment Length: 107
+Percentage Identity: 0.327
+
+=== A0A853J7B9 ===
+DE   SubName: Full=Winged helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:NZA24775.1};
+Bit Score: 247.0
+E-value: 2.481e-06
+Alignment Length: 110
+Percentage Identity: 0.318
+
+=== A0A7W6C1K6 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:MBB3944097.1};
+Bit Score: 245.0
+E-value: 2.634e-06
+Alignment Length: 106
+Percentage Identity: 0.32
+
+=== A0A2A2HZM0 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:PVY79190.1};
+Bit Score: 244.0
+E-value: 2.634e-06
+Alignment Length: 110
+Percentage Identity: 0.3
+
+=== A0A4Q2J027 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 239.0
+E-value: 2.796e-06
+Alignment Length: 113
+Percentage Identity: 0.274
+
+=== A0A2E3HPY5 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 249.0
+E-value: 2.969e-06
+Alignment Length: 111
+Percentage Identity: 0.261
+
+=== A0A178I4G0 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 243.0
+E-value: 2.969e-06
+Alignment Length: 109
+Percentage Identity: 0.302
+
+=== A0A6H0ZIB8 ===
+DE   SubName: Full=Winged helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:QIX20575.1};
+Bit Score: 246.0
+E-value: 3.554e-06
+Alignment Length: 109
+Percentage Identity: 0.284
+
+=== A0A2E0NDX4 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MAS63996.1};
+Bit Score: 251.0
+E-value: 3.773e-06
+Alignment Length: 104
+Percentage Identity: 0.317
+
+=== A0A3C0FMU2 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 247.0
+E-value: 3.773e-06
+Alignment Length: 110
+Percentage Identity: 0.281
+
+=== A0A679JXK6 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 241.0
+E-value: 4.006e-06
+Alignment Length: 111
+Percentage Identity: 0.261
+
+=== A0A845Q8F9 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NBG94520.1};
+Bit Score: 241.0
+E-value: 4.253e-06
+Alignment Length: 104
+Percentage Identity: 0.336
+
+=== A0A351MCB5 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 250.0
+E-value: 4.516e-06
+Alignment Length: 101
+Percentage Identity: 0.297
+
+=== A0A0L6CQL8 ===
+DE   RecName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0008006|Google:ProtNLM};
+Bit Score: 244.0
+E-value: 4.516e-06
+Alignment Length: 105
+Percentage Identity: 0.304
+
+=== A0A494T8A1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:AYJ85547.1};
+Bit Score: 240.0
+E-value: 4.516e-06
+Alignment Length: 108
+Percentage Identity: 0.231
+
+=== A0A2D8LZ92 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MAM34011.1};
+Bit Score: 238.0
+E-value: 4.516e-06
+Alignment Length: 108
+Percentage Identity: 0.324
+
+=== A0A076HM54 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 247.0
+E-value: 5.09e-06
+Alignment Length: 109
+Percentage Identity: 0.256
+
+=== A0A357G1V1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HBR69996.1};
+Bit Score: 238.0
+E-value: 5.405e-06
+Alignment Length: 103
+Percentage Identity: 0.3
+
+=== A0A4Y9ERB5 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 247.0
+E-value: 5.738e-06
+Alignment Length: 111
+Percentage Identity: 0.252
+
+=== A0A1W6SQ90 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 239.0
+E-value: 5.738e-06
+Alignment Length: 107
+Percentage Identity: 0.261
+
+=== A0A2E1R9Z3 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|Pfam:PF12802};
+Bit Score: 236.0
+E-value: 5.738e-06
+Alignment Length: 108
+Percentage Identity: 0.277
+
+=== A0A258UY47 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 233.0
+E-value: 5.738e-06
+Alignment Length: 109
+Percentage Identity: 0.256
+
+=== A0A4P5VG25 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 246.0
+E-value: 6.092e-06
+Alignment Length: 102
+Percentage Identity: 0.343
+
+=== A0A6N7ZPU1 ===
+DE   SubName: Full=ArsR family transcriptional regulator {ECO:0000313|EMBL:MTH94865.1};
+Bit Score: 237.0
+E-value: 6.092e-06
+Alignment Length: 108
+Percentage Identity: 0.259
+
+=== A0A4P6L7F6 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:QBE66862.1};
+Bit Score: 228.0
+E-value: 6.469e-06
+Alignment Length: 106
+Percentage Identity: 0.386
+
+=== A0A258L8M3 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 235.0
+E-value: 6.868e-06
+Alignment Length: 109
+Percentage Identity: 0.284
+
+=== A0A1I0FUM6 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 225.0
+E-value: 6.868e-06
+Alignment Length: 111
+Percentage Identity: 0.306
+
+=== A0A1H1G790 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SDR09013.1};
+Bit Score: 244.0
+E-value: 7.292e-06
+Alignment Length: 108
+Percentage Identity: 0.222
+
+=== A0A1Y2JLY0 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 225.0
+E-value: 7.292e-06
+Alignment Length: 112
+Percentage Identity: 0.214
+
+=== A0A1M5IX73 ===
+DE   RecName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0008006|Google:ProtNLM};
+Bit Score: 243.0
+E-value: 8.22e-06
+Alignment Length: 106
+Percentage Identity: 0.32
+
+=== A0A1H1I2R1 ===
+DE   RecName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0008006|Google:ProtNLM};
+Bit Score: 230.0
+E-value: 8.22e-06
+Alignment Length: 108
+Percentage Identity: 0.25
+
+=== A0A1H7RWB8 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SEL64543.1};
+Bit Score: 203.0
+E-value: 8.22e-06
+Alignment Length: 112
+Percentage Identity: 0.312
+
+=== A0A529XJ48 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 238.0
+E-value: 8.727e-06
+Alignment Length: 117
+Percentage Identity: 0.23
+
+=== A0A520XC23 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 232.0
+E-value: 8.727e-06
+Alignment Length: 110
+Percentage Identity: 0.263
+
+=== A0A382EDW5 ===
+DE   RecName: Full=Winged helix DNA-binding domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 233.0
+E-value: 9.266e-06
+Alignment Length: 113
+Percentage Identity: 0.327
+
+=== A0A442SFY1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RWN95113.1};
+Bit Score: 228.0
+E-value: 9.266e-06
+Alignment Length: 114
+Percentage Identity: 0.263
+
+=== A0A1H4K9C3 ===
+DE   SubName: Full=Regulatory protein, arsR family {ECO:0000313|EMBL:SEB54542.1};
+Bit Score: 246.0
+E-value: 9.838e-06
+Alignment Length: 97
+Percentage Identity: 0.288
+
+=== A0A1Q2YZM5 ===
+DE   RecName: Full=MarR family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 273.0
+E-value: 1.045e-05
+Alignment Length: 82
+Percentage Identity: 0.28
+
+=== A0A0A2A7S5 ===
+DE   SubName: Full=Gp07 {ECO:0000313|EMBL:KGF97962.1};
+Bit Score: 269.0
+E-value: 1.045e-05
+Alignment Length: 86
+Percentage Identity: 0.36
+
+=== E6VL21 ===
+DE   RecName: Full=Transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 241.0
+E-value: 1.109e-05
+Alignment Length: 108
+Percentage Identity: 0.231
+
+=== A0A7K0A4S8 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 228.0
+E-value: 1.109e-05
+Alignment Length: 110
+Percentage Identity: 0.245
+
+=== A0A7W2QZX8 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 217.0
+E-value: 1.109e-05
+Alignment Length: 102
+Percentage Identity: 0.254
+
+=== A0A7G8G6E7 ===
+DE   SubName: Full=Transcriptional regulator/ MarR family {ECO:0000313|EMBL:QNI89392.1};
+Bit Score: 223.0
+E-value: 1.25e-05
+Alignment Length: 113
+Percentage Identity: 0.283
+
+=== A0A2K0YA30 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 227.0
+E-value: 1.327e-05
+Alignment Length: 109
+Percentage Identity: 0.247
+
+=== A0A1M7IZZ8 ===
+DE   RecName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0008006|Google:ProtNLM};
+Bit Score: 214.0
+E-value: 1.327e-05
+Alignment Length: 104
+Percentage Identity: 0.288
+
+=== A0A0D7PZI0 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 239.0
+E-value: 1.409e-05
+Alignment Length: 108
+Percentage Identity: 0.25
+
+=== A0A5E9AU41 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 227.0
+E-value: 1.409e-05
+Alignment Length: 111
+Percentage Identity: 0.279
+
+=== W3RRP8 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 218.0
+E-value: 1.409e-05
+Alignment Length: 105
+Percentage Identity: 0.266
+
+=== A0A2D6FCQ4 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|SMART:SM00347};
+Bit Score: 217.0
+E-value: 1.409e-05
+Alignment Length: 103
+Percentage Identity: 0.233
+
+=== A0A1G5SUI4 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 228.0
+E-value: 1.496e-05
+Alignment Length: 111
+Percentage Identity: 0.252
+
+=== A0A7Y1TYM0 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 221.0
+E-value: 1.589e-05
+Alignment Length: 114
+Percentage Identity: 0.254
+
+=== A0A2D6K2Y1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MAF98235.1};
+Bit Score: 229.0
+E-value: 1.687e-05
+Alignment Length: 106
+Percentage Identity: 0.283
+
+=== A0A7H4GJD1 ===
+DE   SubName: Full=Winged helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:QOC21493.1};
+Bit Score: 219.0
+E-value: 1.687e-05
+Alignment Length: 107
+Percentage Identity: 0.224
+
+=== M4TUT5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AGH76582.1};
+Bit Score: 216.0
+E-value: 1.687e-05
+Alignment Length: 111
+Percentage Identity: 0.261
+
+=== A0A3N5VZM0 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 207.0
+E-value: 1.687e-05
+Alignment Length: 111
+Percentage Identity: 0.234
+
+=== A0A2E8HT44 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 225.0
+E-value: 2.019e-05
+Alignment Length: 107
+Percentage Identity: 0.261
+
+=== A0A3M1E2V5 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RME39344.1};
+Bit Score: 219.0
+E-value: 2.019e-05
+Alignment Length: 116
+Percentage Identity: 0.258
+
+=== A0A1A9T4K5 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 212.0
+E-value: 2.143e-05
+Alignment Length: 116
+Percentage Identity: 0.258
+
+=== A0A7G6UQU3 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 196.0
+E-value: 2.143e-05
+Alignment Length: 111
+Percentage Identity: 0.306
+
+=== A0A0Q6XGU6 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|SMART:SM00347};
+Bit Score: 211.0
+E-value: 2.276e-05
+Alignment Length: 110
+Percentage Identity: 0.272
+
+=== A0A562FMW9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TWH35616.1};
+Bit Score: 202.0
+E-value: 2.276e-05
+Alignment Length: 110
+Percentage Identity: 0.3
+
+=== A0A2K9NKI1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AUN33136.1};
+Bit Score: 223.0
+E-value: 2.416e-05
+Alignment Length: 111
+Percentage Identity: 0.225
+
+=== A0A1Q5RG03 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 215.0
+E-value: 2.416e-05
+Alignment Length: 110
+Percentage Identity: 0.218
+
+=== A0A1M5SF18 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SHH37202.1};
+Bit Score: 210.0
+E-value: 2.565e-05
+Alignment Length: 106
+Percentage Identity: 0.301
+
+=== A0A1F2Z300 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 224.0
+E-value: 2.724e-05
+Alignment Length: 90
+Percentage Identity: 0.333
+
+=== A0A1I1GEP9 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 217.0
+E-value: 2.892e-05
+Alignment Length: 95
+Percentage Identity: 0.305
+
+=== A0A1G0NHA0 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 214.0
+E-value: 2.892e-05
+Alignment Length: 109
+Percentage Identity: 0.302
+
+=== A0A5D0RLP3 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 205.0
+E-value: 3.26e-05
+Alignment Length: 111
+Percentage Identity: 0.243
+
+=== A0A1Z8SBK1 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 207.0
+E-value: 3.461e-05
+Alignment Length: 114
+Percentage Identity: 0.245
+
+=== A0A7Y3CKQ0 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 233.0
+E-value: 3.675e-05
+Alignment Length: 84
+Percentage Identity: 0.321
+
+=== A0A7Y4LZM9 ===
+DE   RecName: Full=Transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 222.0
+E-value: 3.675e-05
+Alignment Length: 109
+Percentage Identity: 0.247
+
+=== A0A3N7A5C8 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|SMART:SM00347};
+Bit Score: 219.0
+E-value: 3.675e-05
+Alignment Length: 105
+Percentage Identity: 0.295
+
+=== A0A1M6L834 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SHJ67336.1};
+Bit Score: 206.0
+E-value: 3.675e-05
+Alignment Length: 108
+Percentage Identity: 0.296
+
+=== A0A2E0M319 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 214.0
+E-value: 3.901e-05
+Alignment Length: 103
+Percentage Identity: 0.32
+
+=== A0A7W6N748 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:MBB4039090.1};
+Bit Score: 221.0
+E-value: 4.142e-05
+Alignment Length: 89
+Percentage Identity: 0.325
+
+=== A0A7W6N6K7 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 208.0
+E-value: 4.142e-05
+Alignment Length: 108
+Percentage Identity: 0.277
+
+=== A0A7C7SVQ7 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HIF25925.1};
+Bit Score: 216.0
+E-value: 4.398e-05
+Alignment Length: 107
+Percentage Identity: 0.299
+
+=== A0A1F2Z9A6 ===
+DE   RecName: Full=HTH iclR-type domain-containing protein {ECO:0000259|Pfam:PF09339};
+Bit Score: 222.0
+E-value: 4.669e-05
+Alignment Length: 100
+Percentage Identity: 0.24
+
+=== A0A0A0DBB4 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 202.0
+E-value: 4.669e-05
+Alignment Length: 116
+Percentage Identity: 0.215
+
+=== A0A1M5XXX6 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SHI04677.1};
+Bit Score: 199.0
+E-value: 4.669e-05
+Alignment Length: 117
+Percentage Identity: 0.188
+
+=== A0A5B8LQ52 ===
+DE   SubName: Full=Winged helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:QDZ10418.1};
+Bit Score: 198.0
+E-value: 4.669e-05
+Alignment Length: 109
+Percentage Identity: 0.275
+
+=== A0A3D5EGZ5 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|Pfam:PF12802};
+Bit Score: 242.0
+E-value: 5.264e-05
+Alignment Length: 86
+Percentage Identity: 0.29
+
+=== A0A0M6Y3U8 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|Pfam:PF12802};
+Bit Score: 234.0
+E-value: 5.934e-05
+Alignment Length: 80
+Percentage Identity: 0.287
+
+=== A0A0Q6LRB0 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 208.0
+E-value: 5.934e-05
+Alignment Length: 114
+Percentage Identity: 0.192
+
+=== A0A7C2N7J4 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HET20439.1};
+Bit Score: 194.0
+E-value: 5.934e-05
+Alignment Length: 109
+Percentage Identity: 0.247
+
+=== A0A099PBD9 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 217.0
+E-value: 6.3e-05
+Alignment Length: 107
+Percentage Identity: 0.186
+
+=== A0A165TL70 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 203.0
+E-value: 6.3e-05
+Alignment Length: 101
+Percentage Identity: 0.237
+
+=== A0A2A4Z6Y1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PCJ02722.1};
+Bit Score: 202.0
+E-value: 6.689e-05
+Alignment Length: 108
+Percentage Identity: 0.268
+
+=== A0A7R7TA20 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 200.0
+E-value: 6.689e-05
+Alignment Length: 120
+Percentage Identity: 0.216
+
+=== A0A0Q8FDY7 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 197.0
+E-value: 7.102e-05
+Alignment Length: 105
+Percentage Identity: 0.238
+
+=== A0A2D6HM47 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MAF68253.1};
+Bit Score: 234.0
+E-value: 7.54e-05
+Alignment Length: 83
+Percentage Identity: 0.301
+
+=== A0A323UN50 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|Pfam:PF12802};
+Bit Score: 225.0
+E-value: 8.006e-05
+Alignment Length: 80
+Percentage Identity: 0.275
+
+=== A0A1M4LAJ5 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 204.0
+E-value: 8.006e-05
+Alignment Length: 115
+Percentage Identity: 0.252
+
+=== A0A2E7V5G9 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 192.0
+E-value: 8.006e-05
+Alignment Length: 117
+Percentage Identity: 0.239
+
+=== A0A517YPR9 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 181.0
+E-value: 8.006e-05
+Alignment Length: 112
+Percentage Identity: 0.25
+
+=== Q6N5L1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:WCL93135.1};
+Bit Score: 209.0
+E-value: 8.5e-05
+Alignment Length: 106
+Percentage Identity: 0.216
+
+=== M4VKA3 ===
+DE   RecName: Full=HTH iclR-type domain-containing protein {ECO:0000259|Pfam:PF09339};
+Bit Score: 207.0
+E-value: 8.5e-05
+Alignment Length: 104
+Percentage Identity: 0.269
+
+=== A0A2E6KLQ8 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 194.0
+E-value: 8.5e-05
+Alignment Length: 110
+Percentage Identity: 0.218
+
+=== A0A7X5YKQ4 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:NJC41703.1};
+Bit Score: 188.0
+E-value: 9.024e-05
+Alignment Length: 107
+Percentage Identity: 0.233
+
+=== A0A6B3UJX0 ===
+DE   SubName: Full=Winged helix DNA-binding protein {ECO:0000313|EMBL:NEX92813.1};
+Bit Score: 200.0
+E-value: 9.581e-05
+Alignment Length: 109
+Percentage Identity: 0.247
+
+=== A0A539DD66 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 203.0
+E-value: 0.0001017
+Alignment Length: 107
+Percentage Identity: 0.261
+
+=== A0A1M7SSU7 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SHN61595.1};
+Bit Score: 184.0
+E-value: 0.0001017
+Alignment Length: 104
+Percentage Identity: 0.201
+
+=== A0A248JU91 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 224.0
+E-value: 0.0001218
+Alignment Length: 86
+Percentage Identity: 0.279
+
+=== A0A0M3AJA3 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|SMART:SM00347};
+Bit Score: 155.0
+E-value: 0.0001218
+Alignment Length: 113
+Percentage Identity: 0.221
+
+=== A0A2D7KSS0 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 234.0
+E-value: 0.0001293
+Alignment Length: 80
+Percentage Identity: 0.3
+
+=== A0A1I7BT37 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SFT90358.1};
+Bit Score: 181.0
+E-value: 0.0001293
+Alignment Length: 114
+Percentage Identity: 0.192
+
+=== A0A7D7VJI6 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 190.0
+E-value: 0.0001373
+Alignment Length: 117
+Percentage Identity: 0.188
+
+=== A0A1M4VAD9 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 228.0
+E-value: 0.0001457
+Alignment Length: 85
+Percentage Identity: 0.317
+
+=== A0A853IL13 ===
+DE   SubName: Full=Winged helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:NYZ70037.1};
+Bit Score: 217.0
+E-value: 0.0001457
+Alignment Length: 83
+Percentage Identity: 0.253
+
+=== A0A0Q7SXX4 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 191.0
+E-value: 0.0001457
+Alignment Length: 110
+Percentage Identity: 0.236
+
+=== A0A0N0JKB9 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 178.0
+E-value: 0.0001457
+Alignment Length: 110
+Percentage Identity: 0.254
+
+=== A0A3D2AN27 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 190.0
+E-value: 0.0001547
+Alignment Length: 105
+Percentage Identity: 0.209
+
+=== A0A258V1M7 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 167.0
+E-value: 0.0001547
+Alignment Length: 116
+Percentage Identity: 0.198
+
+=== A0A196QLC7 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 200.0
+E-value: 0.0001643
+Alignment Length: 107
+Percentage Identity: 0.242
+
+=== A0A2D7I6L1 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 180.0
+E-value: 0.0001643
+Alignment Length: 109
+Percentage Identity: 0.284
+
+=== A0A7X8YNN3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NLV17075.1};
+Bit Score: 177.0
+E-value: 0.0001643
+Alignment Length: 104
+Percentage Identity: 0.23
+
+=== W9H246 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:EWY40109.1};
+Bit Score: 175.0
+E-value: 0.0001643
+Alignment Length: 109
+Percentage Identity: 0.192
+
+=== A0A1H7AFG4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SEJ60792.1};
+Bit Score: 173.0
+E-value: 0.0001643
+Alignment Length: 116
+Percentage Identity: 0.206
+
+=== A0A2A4CRK0 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|Pfam:PF13463};
+Bit Score: 219.0
+E-value: 0.0001744
+Alignment Length: 85
+Percentage Identity: 0.27
+
+=== A0A2W5BNS1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PZO84851.1};
+Bit Score: 193.0
+E-value: 0.0001744
+Alignment Length: 98
+Percentage Identity: 0.336
+
+=== A0A2T2WVS4 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 178.0
+E-value: 0.0001744
+Alignment Length: 100
+Percentage Identity: 0.26
+
+=== A0A268BQT8 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 173.0
+E-value: 0.0001744
+Alignment Length: 105
+Percentage Identity: 0.228
+
+=== A0A081NB78 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 192.0
+E-value: 0.0001852
+Alignment Length: 96
+Percentage Identity: 0.239
+
+=== A0A1J4RGJ5 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|Pfam:PF12802};
+Bit Score: 187.0
+E-value: 0.0002087
+Alignment Length: 105
+Percentage Identity: 0.238
+
+=== R3KK23 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:EOK14010.1};
+Bit Score: 179.0
+E-value: 0.0002087
+Alignment Length: 112
+Percentage Identity: 0.232
+
+=== A0A2T1A1X7 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:PRZ42593.1};
+Bit Score: 159.0
+E-value: 0.0002087
+Alignment Length: 107
+Percentage Identity: 0.252
+
+=== A0A170W9I4 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:GAT80901.1};
+Bit Score: 179.0
+E-value: 0.0002216
+Alignment Length: 108
+Percentage Identity: 0.222
+
+=== A0A242DGU8 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 153.0
+E-value: 0.0002216
+Alignment Length: 109
+Percentage Identity: 0.22
+
+=== A0A089P7C5 ===
+DE   SubName: Full=Gp07 {ECO:0000313|EMBL:AIQ94780.1};
+Bit Score: 196.0
+E-value: 0.0002353
+Alignment Length: 66
+Percentage Identity: 0.439
+
+=== A0A0R1UTV0 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 168.0
+E-value: 0.0002353
+Alignment Length: 108
+Percentage Identity: 0.259
+
+=== A0A3S3E5Y6 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 168.0
+E-value: 0.0002353
+Alignment Length: 119
+Percentage Identity: 0.184
+
+=== A0A348XFN0 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 176.0
+E-value: 0.0002498
+Alignment Length: 106
+Percentage Identity: 0.207
+
+=== A0A1C4VE43 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SCE82212.1};
+Bit Score: 169.0
+E-value: 0.0002653
+Alignment Length: 112
+Percentage Identity: 0.232
+
+=== A0A401JGY8 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 189.0
+E-value: 0.0002816
+Alignment Length: 67
+Percentage Identity: 0.492
+
+=== A0A853IAV8 ===
+DE   SubName: Full=Winged helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:NYZ70079.1};
+Bit Score: 184.0
+E-value: 0.0002816
+Alignment Length: 103
+Percentage Identity: 0.223
+
+=== A0A2D9CFI7 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 180.0
+E-value: 0.0002816
+Alignment Length: 102
+Percentage Identity: 0.196
+
+=== A0A0Q9HEL8 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 187.0
+E-value: 0.000299
+Alignment Length: 104
+Percentage Identity: 0.278
+
+=== A0A525JN52 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:THD62433.1};
+Bit Score: 184.0
+E-value: 0.000299
+Alignment Length: 106
+Percentage Identity: 0.216
+
+=== A0A7K2MAN1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MYS46879.1};
+DE   Flags: Fragment;
+Bit Score: 173.0
+E-value: 0.000299
+Alignment Length: 105
+Percentage Identity: 0.219
+
+=== A0A1Q4ECU2 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|Pfam:PF13463};
+Bit Score: 171.0
+E-value: 0.000299
+Alignment Length: 117
+Percentage Identity: 0.196
+
+=== A0A081N9G3 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 173.0
+E-value: 0.0003175
+Alignment Length: 109
+Percentage Identity: 0.22
+
+=== A0A1V6A9T0 ===
+DE   SubName: Full=Multiple antibiotic resistance protein MarR {ECO:0000313|EMBL:OQB49200.1};
+Bit Score: 171.0
+E-value: 0.0003175
+Alignment Length: 108
+Percentage Identity: 0.212
+
+=== F4CK11 ===
+DE   SubName: Full=Regulatory protein MarR {ECO:0000313|EMBL:AEA28117.1};
+Bit Score: 167.0
+E-value: 0.0003175
+Alignment Length: 105
+Percentage Identity: 0.2
+
+=== A0A556AUA9 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TSH96532.1};
+Bit Score: 150.0
+E-value: 0.0003175
+Alignment Length: 111
+Percentage Identity: 0.225
+
+=== A0A0J1HD82 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 172.0
+E-value: 0.0003371
+Alignment Length: 108
+Percentage Identity: 0.222
+
+=== A0A7V9MGK2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MBA2580279.1};
+Bit Score: 163.0
+E-value: 0.0003371
+Alignment Length: 106
+Percentage Identity: 0.264
+
+=== A0A3B9BSU5 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 209.0
+E-value: 0.0003579
+Alignment Length: 78
+Percentage Identity: 0.243
+
+=== A0A2N3B4S1 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|Pfam:PF13463};
+Bit Score: 163.0
+E-value: 0.0003579
+Alignment Length: 117
+Percentage Identity: 0.17
+
+=== A0A844J9E9 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MTK08236.1};
+Bit Score: 145.0
+E-value: 0.0003579
+Alignment Length: 117
+Percentage Identity: 0.222
+
+=== A0A7X0AXZ8 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:MBB6252184.1};
+Bit Score: 182.0
+E-value: 0.00038
+Alignment Length: 106
+Percentage Identity: 0.235
+
+=== A0A4R6VD44 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TDQ60203.1};
+Bit Score: 181.0
+E-value: 0.00038
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A853F9A3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NYT36378.1};
+Bit Score: 167.0
+E-value: 0.00038
+Alignment Length: 109
+Percentage Identity: 0.22
+
+=== A0A327JQD9 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 166.0
+E-value: 0.00038
+Alignment Length: 108
+Percentage Identity: 0.212
+
+=== A0A7C4G9P6 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HGK27390.1};
+Bit Score: 165.0
+E-value: 0.00038
+Alignment Length: 102
+Percentage Identity: 0.225
+
+=== A0A523LL85 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TDJ34340.1};
+Bit Score: 164.0
+E-value: 0.00038
+Alignment Length: 109
+Percentage Identity: 0.165
+
+=== A0A4V1SX59 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RYE10131.1};
+Bit Score: 153.0
+E-value: 0.00038
+Alignment Length: 113
+Percentage Identity: 0.23
+
+=== A0A848AWM7 ===
+DE   RecName: Full=Winged helix DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 178.0
+E-value: 0.0004034
+Alignment Length: 99
+Percentage Identity: 0.202
+
+=== A0A0Q8W9Q8 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 167.0
+E-value: 0.0004034
+Alignment Length: 108
+Percentage Identity: 0.231
+
+=== A0A0M7D940 ===
+DE   SubName: Full=Salmolysin {ECO:0000313|EMBL:CUI50235.1};
+Bit Score: 162.0
+E-value: 0.0004034
+Alignment Length: 104
+Percentage Identity: 0.201
+
+=== A0A0C1Z8M0 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 168.0
+E-value: 0.0004283
+Alignment Length: 106
+Percentage Identity: 0.283
+
+=== A4Z1A8 ===
+DE   SubName: Full=Putative transcriptional regulatory protein, MarR family {ECO:0000313|EMBL:CAL79934.1};
+Bit Score: 167.0
+E-value: 0.0004283
+Alignment Length: 108
+Percentage Identity: 0.194
+
+=== A0A4R4SSL0 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TDC67020.1};
+Bit Score: 161.0
+E-value: 0.0004283
+Alignment Length: 113
+Percentage Identity: 0.221
+
+=== A0A542F619 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:TQJ23073.1};
+Bit Score: 160.0
+E-value: 0.0004548
+Alignment Length: 111
+Percentage Identity: 0.225
+
+=== A0A849TNP4 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NOU06125.1};
+Bit Score: 156.0
+E-value: 0.0004548
+Alignment Length: 110
+Percentage Identity: 0.227
+
+=== A0A0R2FUZ5 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 156.0
+E-value: 0.0004548
+Alignment Length: 105
+Percentage Identity: 0.161
+
+=== A0A1C5I7I4 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SCG54157.1};
+Bit Score: 167.0
+E-value: 0.0004828
+Alignment Length: 108
+Percentage Identity: 0.203
+
+=== A0A841C015 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:MBB5872382.1};
+Bit Score: 166.0
+E-value: 0.0004828
+Alignment Length: 108
+Percentage Identity: 0.203
+
+=== A0A3A8A8L1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RKF06642.1};
+Bit Score: 155.0
+E-value: 0.0004828
+Alignment Length: 112
+Percentage Identity: 0.187
+
+=== A0A2K2FU42 ===
+DE   RecName: Full=Transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 166.0
+E-value: 0.0005127
+Alignment Length: 116
+Percentage Identity: 0.155
+
+=== A0A7G8BKQ8 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:QNI33128.1};
+Bit Score: 159.0
+E-value: 0.0005127
+Alignment Length: 107
+Percentage Identity: 0.186
+
+=== A0A0M8YZE4 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KOX46764.1};
+Bit Score: 157.0
+E-value: 0.0005127
+Alignment Length: 106
+Percentage Identity: 0.216
+
+=== A0A3M1NW80 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RMF59726.1};
+DE   Flags: Fragment;
+Bit Score: 137.0
+E-value: 0.0005127
+Alignment Length: 117
+Percentage Identity: 0.239
+
+=== A0A255Z299 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 172.0
+E-value: 0.0005443
+Alignment Length: 107
+Percentage Identity: 0.308
+
+=== A0A1Y1RE55 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 172.0
+E-value: 0.0005443
+Alignment Length: 102
+Percentage Identity: 0.205
+
+=== A0A560HBE4 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:TWB43677.1};
+Bit Score: 158.0
+E-value: 0.0005443
+Alignment Length: 110
+Percentage Identity: 0.218
+
+=== A0A554SPA9 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TSD68184.1};
+Bit Score: 153.0
+E-value: 0.0005443
+Alignment Length: 111
+Percentage Identity: 0.252
+
+=== A0A4U9TAS2 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:VTR12371.1};
+Bit Score: 135.0
+E-value: 0.0005443
+Alignment Length: 113
+Percentage Identity: 0.185
+
+=== A0A3C0FF11 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HAI22113.1};
+Bit Score: 166.0
+E-value: 0.0005779
+Alignment Length: 103
+Percentage Identity: 0.242
+
+=== A0A0N9XA21 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:ALI25353.1};
+Bit Score: 163.0
+E-value: 0.0005779
+Alignment Length: 108
+Percentage Identity: 0.24
+
+=== A0A848KXS1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NMO03544.1};
+Bit Score: 163.0
+E-value: 0.0005779
+Alignment Length: 107
+Percentage Identity: 0.205
+
+=== A0A532UW13 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 161.0
+E-value: 0.0005779
+Alignment Length: 105
+Percentage Identity: 0.209
+
+=== Q5DZQ7 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 158.0
+E-value: 0.0005779
+Alignment Length: 104
+Percentage Identity: 0.278
+
+=== A0A6N6KW69 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KAA3644837.1};
+Bit Score: 158.0
+E-value: 0.0005779
+Alignment Length: 109
+Percentage Identity: 0.192
+
+=== A0A7C3T1L3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HGB87679.1};
+Bit Score: 181.0
+E-value: 0.0006136
+Alignment Length: 85
+Percentage Identity: 0.247
+
+=== A0A839FGJ4 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:MBA8903176.1};
+Bit Score: 167.0
+E-value: 0.0006136
+Alignment Length: 113
+Percentage Identity: 0.221
+
+=== A0A7Z0ITM3 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:NYI79101.1};
+Bit Score: 167.0
+E-value: 0.0006136
+Alignment Length: 106
+Percentage Identity: 0.188
+
+=== A0A1Y4VB69 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 164.0
+E-value: 0.0006136
+Alignment Length: 106
+Percentage Identity: 0.207
+
+=== A0A1S9ZW86 ===
+DE   SubName: Full=MarR family {ECO:0000313|EMBL:STZ10558.1};
+Bit Score: 161.0
+E-value: 0.0006136
+Alignment Length: 111
+Percentage Identity: 0.171
+
+=== C7N114 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:ACV23236.1};
+Bit Score: 186.0
+E-value: 0.0006514
+Alignment Length: 90
+Percentage Identity: 0.188
+
+=== A0A0K8PR52 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:GAP50341.1};
+Bit Score: 165.0
+E-value: 0.0006514
+Alignment Length: 107
+Percentage Identity: 0.177
+
+=== A0A165TNM8 ===
+DE   RecName: Full=Phage antirepressor protein KilAC domain protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 164.0
+E-value: 0.0006514
+Alignment Length: 114
+Percentage Identity: 0.201
+
+=== A0A4R2J6F7 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:TCO53112.1};
+Bit Score: 162.0
+E-value: 0.0006514
+Alignment Length: 106
+Percentage Identity: 0.198
+
+=== A0A838L536 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MBA2933569.1};
+Bit Score: 162.0
+E-value: 0.0006514
+Alignment Length: 106
+Percentage Identity: 0.179
+
+=== A0A1T4NIX2 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:SJZ79202.1};
+Bit Score: 160.0
+E-value: 0.0006514
+Alignment Length: 111
+Percentage Identity: 0.171
+
+=== A0A0F2RER5 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KJS35787.1};
+Bit Score: 136.0
+E-value: 0.0006514
+Alignment Length: 113
+Percentage Identity: 0.176
+
+=== A0A3L8PIB0 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RLV54981.1};
+Bit Score: 187.0
+E-value: 0.0006917
+Alignment Length: 86
+Percentage Identity: 0.279
+
+=== A0A4D4LXA8 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:GDY62837.1};
+Bit Score: 173.0
+E-value: 0.0006917
+Alignment Length: 101
+Percentage Identity: 0.198
+
+=== A0A4Q7WR50 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:RZU12742.1};
+Bit Score: 171.0
+E-value: 0.0006917
+Alignment Length: 101
+Percentage Identity: 0.207
+
+=== A0A1W6UCI1 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 167.0
+E-value: 0.0006917
+Alignment Length: 110
+Percentage Identity: 0.209
+
+=== A0A0T5ZI28 ===
+DE   SubName: Full=MarR DNA-binding transcription regulator {ECO:0000313|EMBL:KRT62448.1};
+Bit Score: 165.0
+E-value: 0.0006917
+Alignment Length: 108
+Percentage Identity: 0.222
+
+=== A0A2A3MVL3 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|SMART:SM00347};
+Bit Score: 156.0
+E-value: 0.0006917
+Alignment Length: 115
+Percentage Identity: 0.147
+
+=== A0A2W2C9C3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PZF88568.1};
+DE   Flags: Fragment;
+Bit Score: 155.0
+E-value: 0.0006917
+Alignment Length: 113
+Percentage Identity: 0.212
+
+=== A0A7W7B3S2 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:MBB4633374.1};
+Bit Score: 155.0
+E-value: 0.0006917
+Alignment Length: 106
+Percentage Identity: 0.179
+
+=== A0A0Q5JR24 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KQR25687.1};
+Bit Score: 145.0
+E-value: 0.0006917
+Alignment Length: 110
+Percentage Identity: 0.209
+
+=== A0A3G8JLV8 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 143.0
+E-value: 0.0006917
+Alignment Length: 114
+Percentage Identity: 0.228
+
+=== A0A0R2CRH5 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 191.0
+E-value: 0.0007344
+Alignment Length: 85
+Percentage Identity: 0.211
+
+=== A0A562GZG7 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:TWH51842.1};
+Bit Score: 178.0
+E-value: 0.0007344
+Alignment Length: 85
+Percentage Identity: 0.247
+
+=== A0A7K2HSW8 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MYR06979.1};
+Bit Score: 166.0
+E-value: 0.0007344
+Alignment Length: 112
+Percentage Identity: 0.214
+
+=== A0A2D1KQ91 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:ATO44315.1};
+Bit Score: 162.0
+E-value: 0.0007344
+Alignment Length: 110
+Percentage Identity: 0.236
+
+=== A0A3P1SSR7 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RRD00222.1};
+Bit Score: 154.0
+E-value: 0.0007344
+Alignment Length: 110
+Percentage Identity: 0.181
+
+=== A0A2V4NU14 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PYC67822.1};
+Bit Score: 152.0
+E-value: 0.0007344
+Alignment Length: 106
+Percentage Identity: 0.207
+
+=== A0A1Q9LL48 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 171.0
+E-value: 0.0007797
+Alignment Length: 102
+Percentage Identity: 0.186
+
+=== A0A1E4G1N0 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 167.0
+E-value: 0.0007797
+Alignment Length: 113
+Percentage Identity: 0.185
+
+=== K2MBA6 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:EKF18125.1};
+Bit Score: 162.0
+E-value: 0.0007797
+Alignment Length: 103
+Percentage Identity: 0.213
+
+=== A0A2U3MU65 ===
+DE   SubName: Full=MarR family protein {ECO:0000313|EMBL:SPL68961.1};
+Bit Score: 159.0
+E-value: 0.0007797
+Alignment Length: 108
+Percentage Identity: 0.129
+
+=== A0A1I5UN27 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SFP96599.1};
+Bit Score: 156.0
+E-value: 0.0007797
+Alignment Length: 107
+Percentage Identity: 0.205
+
+=== A0A2W2ALY2 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 182.0
+E-value: 0.0008278
+Alignment Length: 86
+Percentage Identity: 0.197
+
+=== A0A3D1Q668 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+DE   Flags: Fragment;
+Bit Score: 176.0
+E-value: 0.0008278
+Alignment Length: 85
+Percentage Identity: 0.247
+
+=== A0A060IDF3 ===
+DE   SubName: Full=MarR family transcriptional regulator protein {ECO:0000313|EMBL:AIC29741.1};
+Bit Score: 167.0
+E-value: 0.0008278
+Alignment Length: 89
+Percentage Identity: 0.235
+
+=== A0A225D0P1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:OWJ81212.1};
+Bit Score: 165.0
+E-value: 0.0008278
+Alignment Length: 81
+Percentage Identity: 0.246
+
+=== A0A3S9SZY0 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 162.0
+E-value: 0.0008278
+Alignment Length: 104
+Percentage Identity: 0.211
+
+=== A0A2S8EUQ0 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PQO23354.1};
+Bit Score: 154.0
+E-value: 0.0008278
+Alignment Length: 105
+Percentage Identity: 0.2
+
+=== A0A7Y0JKU2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NMO51741.1};
+Bit Score: 154.0
+E-value: 0.0008278
+Alignment Length: 112
+Percentage Identity: 0.196
+
+=== A0A4R4RLG5 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TDC50390.1};
+Bit Score: 153.0
+E-value: 0.0008278
+Alignment Length: 109
+Percentage Identity: 0.266
+
+=== A0A3M0ZIQ5 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RMD82751.1};
+Bit Score: 152.0
+E-value: 0.0008278
+Alignment Length: 105
+Percentage Identity: 0.228
+
+=== A0A2W4CTV5 ===
+DE   SubName: Full=AsnC family transcriptional regulator {ECO:0000313|EMBL:PZM16087.1};
+Bit Score: 152.0
+E-value: 0.0008278
+Alignment Length: 108
+Percentage Identity: 0.212
+
+=== A0A7U4DGW5 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:ACJ41658.1};
+Bit Score: 150.0
+E-value: 0.0008278
+Alignment Length: 108
+Percentage Identity: 0.194
+
+=== A0A261RQE7 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:OZI27294.1};
+Bit Score: 146.0
+E-value: 0.0008278
+Alignment Length: 111
+Percentage Identity: 0.207
+
+=== A0A2L0I3W1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:AUX89268.1};
+Bit Score: 145.0
+E-value: 0.0008278
+Alignment Length: 108
+Percentage Identity: 0.203
+
+=== A0A4Y9QNC2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TFV92305.1};
+Bit Score: 163.0
+E-value: 0.0008789
+Alignment Length: 106
+Percentage Identity: 0.188
+
+=== A0A363SKY1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PWB42045.1};
+Bit Score: 159.0
+E-value: 0.0008789
+Alignment Length: 109
+Percentage Identity: 0.201
+
+=== A0A2V3UI08 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:PXW64663.1};
+Bit Score: 156.0
+E-value: 0.0008789
+Alignment Length: 105
+Percentage Identity: 0.18
+
+=== A0A2D5H787 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MAC56791.1};
+Bit Score: 155.0
+E-value: 0.0008789
+Alignment Length: 116
+Percentage Identity: 0.146
+
+=== A0A848DG85 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NMH91672.1};
+Bit Score: 152.0
+E-value: 0.0008789
+Alignment Length: 111
+Percentage Identity: 0.18
+
+=== X6HKN7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ESZ33833.1};
+Bit Score: 151.0
+E-value: 0.0008789
+Alignment Length: 102
+Percentage Identity: 0.215
+
+=== A0A2U2CBB6 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 150.0
+E-value: 0.0008789
+Alignment Length: 103
+Percentage Identity: 0.184
+
+=== A0A0Q4E9W4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KQM47224.1};
+Bit Score: 149.0
+E-value: 0.0008789
+Alignment Length: 115
+Percentage Identity: 0.182
+
+=== A0A6N4T3Y8 ===
+DE   RecName: Full=Sulfur carrier protein FdhD {ECO:0000256|HAMAP-Rule:MF_00187};
+Bit Score: 175.0
+E-value: 0.0009332
+Alignment Length: 82
+Percentage Identity: 0.195
+
+=== A0A1R4FGT5 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 170.0
+E-value: 0.0009332
+Alignment Length: 106
+Percentage Identity: 0.235
+
+=== A0A420ELL2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RKF21579.1};
+Bit Score: 160.0
+E-value: 0.0009332
+Alignment Length: 105
+Percentage Identity: 0.228
+
+=== A0A371YM57 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RFC82530.1};
+Bit Score: 147.0
+E-value: 0.0009332
+Alignment Length: 109
+Percentage Identity: 0.247
+
+=== A0A5N6AAV1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KAB8164618.1};
+Bit Score: 175.0
+E-value: 0.0009908
+Alignment Length: 85
+Percentage Identity: 0.235
+
+=== A0A1C3WJT7 ===
+DE   RecName: Full=HTH iclR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 160.0
+E-value: 0.0009908
+Alignment Length: 92
+Percentage Identity: 0.217
+
+=== A0A285HQ31 ===
+DE   SubName: Full=MarR family transcriptional regulator, transcriptional regulator for hemolysin {ECO:0000313|EMBL:SNY37860.1};
+Bit Score: 158.0
+E-value: 0.0009908
+Alignment Length: 112
+Percentage Identity: 0.187
+
+=== A0A7Y0B3I7 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NML78498.1};
+Bit Score: 178.0
+E-value: 0.001052
+Alignment Length: 86
+Percentage Identity: 0.232
+
+=== A0A5N3QTX3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KAB0285654.1};
+Bit Score: 177.0
+E-value: 0.001052
+Alignment Length: 72
+Percentage Identity: 0.305
+
+=== A0A7V7QWX6 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 163.0
+E-value: 0.001052
+Alignment Length: 112
+Percentage Identity: 0.214
+
+=== A0A6J4VS90 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 158.0
+E-value: 0.001052
+Alignment Length: 112
+Percentage Identity: 0.232
+
+=== A0A6I4P6W7 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MWB99434.1};
+Bit Score: 158.0
+E-value: 0.001052
+Alignment Length: 105
+Percentage Identity: 0.2
+
+=== A0A327JSU1 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 153.0
+E-value: 0.001052
+Alignment Length: 109
+Percentage Identity: 0.183
+
+=== A0A7W3T4N9 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MBB0230731.1};
+Bit Score: 143.0
+E-value: 0.001052
+Alignment Length: 110
+Percentage Identity: 0.209
+
+=== A0A1Q7W133 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:OLE24433.1};
+Bit Score: 141.0
+E-value: 0.001052
+Alignment Length: 109
+Percentage Identity: 0.247
+
+=== A0A1W1W9E3 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SMC02832.1};
+Bit Score: 139.0
+E-value: 0.001052
+Alignment Length: 107
+Percentage Identity: 0.224
+
+=== A0A7Y5RCR3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NUQ28288.1};
+Bit Score: 125.0
+E-value: 0.001052
+Alignment Length: 114
+Percentage Identity: 0.228
+
+=== A0A0A1DS26 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:AIY20221.1};
+Bit Score: 166.0
+E-value: 0.001117
+Alignment Length: 99
+Percentage Identity: 0.212
+
+=== A0A6G4U557 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NGN66341.1};
+Bit Score: 160.0
+E-value: 0.001117
+Alignment Length: 105
+Percentage Identity: 0.219
+
+=== A0A535ER53 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TMC11459.1};
+Bit Score: 160.0
+E-value: 0.001117
+Alignment Length: 105
+Percentage Identity: 0.171
+
+=== A0A6L3ATC4 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KAA0678679.1};
+Bit Score: 154.0
+E-value: 0.001117
+Alignment Length: 112
+Percentage Identity: 0.214
+
+=== A0A2V7UDG7 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 151.0
+E-value: 0.001117
+Alignment Length: 107
+Percentage Identity: 0.271
+
+=== A0A328MV83 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 148.0
+E-value: 0.001117
+Alignment Length: 107
+Percentage Identity: 0.205
+
+=== A0A2E2WP55 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MAZ78054.1};
+Bit Score: 131.0
+E-value: 0.001117
+Alignment Length: 110
+Percentage Identity: 0.209
+
+=== A0A7W7VM89 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:MBB4915373.1};
+Bit Score: 158.0
+E-value: 0.001186
+Alignment Length: 104
+Percentage Identity: 0.201
+
+=== A0A0M8YHG8 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:KOX27628.1};
+Bit Score: 154.0
+E-value: 0.001186
+Alignment Length: 105
+Percentage Identity: 0.161
+
+=== A0A4Y4G7C1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NKY67745.1};
+Bit Score: 153.0
+E-value: 0.001186
+Alignment Length: 107
+Percentage Identity: 0.242
+
+=== A0A124DZD6 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:GAS86985.1};
+Bit Score: 152.0
+E-value: 0.001186
+Alignment Length: 108
+Percentage Identity: 0.203
+
+=== A0A345WT62 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|Pfam:PF13463};
+Bit Score: 151.0
+E-value: 0.001186
+Alignment Length: 115
+Percentage Identity: 0.173
+
+=== D5WI46 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:ADG18141.1};
+Bit Score: 149.0
+E-value: 0.001186
+Alignment Length: 105
+Percentage Identity: 0.2
+
+=== A0A345WMK0 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:AXJ94902.1};
+Bit Score: 146.0
+E-value: 0.001186
+Alignment Length: 114
+Percentage Identity: 0.192
+
+=== A0A0F3RTH4 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 144.0
+E-value: 0.001186
+Alignment Length: 107
+Percentage Identity: 0.196
+
+=== A0A1X3PAF9 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 142.0
+E-value: 0.001186
+Alignment Length: 111
+Percentage Identity: 0.216
+
+=== A0A4Q7NMR1 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:RZS86268.1};
+Bit Score: 141.0
+E-value: 0.001186
+Alignment Length: 111
+Percentage Identity: 0.207
+
+=== A0A5B9E5J2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:QEE26844.1};
+Bit Score: 134.0
+E-value: 0.001186
+Alignment Length: 111
+Percentage Identity: 0.216
+
+=== A0A7X1KQ30 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MBC2669344.1};
+Bit Score: 167.0
+E-value: 0.001259
+Alignment Length: 115
+Percentage Identity: 0.147
+
+=== A0A1H4K6U3 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:SEB54241.1};
+Bit Score: 156.0
+E-value: 0.001259
+Alignment Length: 104
+Percentage Identity: 0.182
+
+=== A4SMW9 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:ABO90241.1};
+Bit Score: 154.0
+E-value: 0.001259
+Alignment Length: 107
+Percentage Identity: 0.168
+
+=== A0A5P3MR18 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:QEY24042.1};
+Bit Score: 153.0
+E-value: 0.001259
+Alignment Length: 105
+Percentage Identity: 0.171
+
+=== A0A496Q114 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RKX34129.1};
+Bit Score: 150.0
+E-value: 0.001259
+Alignment Length: 109
+Percentage Identity: 0.183
+
+=== A0A1W1ZB76 ===
+DE   RecName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0008006|Google:ProtNLM};
+Bit Score: 149.0
+E-value: 0.001259
+Alignment Length: 115
+Percentage Identity: 0.139
+
+=== A0A7W5AIF7 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:MBB3096872.1};
+Bit Score: 144.0
+E-value: 0.001259
+Alignment Length: 98
+Percentage Identity: 0.214
+
+=== A0A1C3HML8 ===
+DE   SubName: Full=Transcriptional regulator HosA {ECO:0000313|EMBL:SAY46289.1};
+Bit Score: 138.0
+E-value: 0.001259
+Alignment Length: 109
+Percentage Identity: 0.22
+
+=== A0A1T5KVN0 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SKC67852.1};
+Bit Score: 169.0
+E-value: 0.001337
+Alignment Length: 85
+Percentage Identity: 0.235
+
+=== A0A0C6FCB3 ===
+DE   SubName: Full=Transcriptional regulators {ECO:0000313|EMBL:BAQ50316.1};
+Bit Score: 165.0
+E-value: 0.001337
+Alignment Length: 85
+Percentage Identity: 0.294
+
+=== A0A2D9K5J1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MAP17971.1};
+Bit Score: 163.0
+E-value: 0.001337
+Alignment Length: 88
+Percentage Identity: 0.193
+
+=== A0A7M3SAF1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:BCK01569.1};
+Bit Score: 158.0
+E-value: 0.001337
+Alignment Length: 110
+Percentage Identity: 0.2
+
+=== A0A0D9A745 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KJH76863.1};
+Bit Score: 155.0
+E-value: 0.001337
+Alignment Length: 111
+Percentage Identity: 0.162
+
+=== A0A239CK99 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SNS20369.1};
+Bit Score: 152.0
+E-value: 0.001337
+Alignment Length: 107
+Percentage Identity: 0.196
+
+=== A0A365YTQ3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RBM06230.1};
+Bit Score: 149.0
+E-value: 0.001337
+Alignment Length: 112
+Percentage Identity: 0.187
+
+=== A0A3L9M3R3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RLZ07645.1};
+Bit Score: 148.0
+E-value: 0.001337
+Alignment Length: 108
+Percentage Identity: 0.222
+
+=== A0A3M8DC26 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RNB85680.1};
+Bit Score: 140.0
+E-value: 0.001337
+Alignment Length: 110
+Percentage Identity: 0.181
+
+=== A0A367B8F6 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RBY96086.1};
+Bit Score: 177.0
+E-value: 0.001419
+Alignment Length: 85
+Percentage Identity: 0.247
+
+=== A0A7W7VMC8 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:MBB4915344.1};
+Bit Score: 168.0
+E-value: 0.001419
+Alignment Length: 85
+Percentage Identity: 0.247
+
+=== A0A099FJQ1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:REF68782.1};
+Bit Score: 161.0
+E-value: 0.001419
+Alignment Length: 85
+Percentage Identity: 0.235
+
+=== A0A1I1ZAE9 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SFE27493.1};
+Bit Score: 154.0
+E-value: 0.001419
+Alignment Length: 105
+Percentage Identity: 0.171
+
+=== A0A2M9LAA5 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PJN28297.1};
+Bit Score: 148.0
+E-value: 0.001419
+Alignment Length: 107
+Percentage Identity: 0.196
+
+=== A0A853I8U0 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 148.0
+E-value: 0.001419
+Alignment Length: 106
+Percentage Identity: 0.169
+
+=== A0A430A7F3 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 147.0
+E-value: 0.001419
+Alignment Length: 102
+Percentage Identity: 0.176
+
+=== A0A840UQZ1 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:MBB5337138.1};
+Bit Score: 143.0
+E-value: 0.001419
+Alignment Length: 101
+Percentage Identity: 0.158
+
+=== A0A2N3WUG2 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:PKV97516.1};
+Bit Score: 140.0
+E-value: 0.001419
+Alignment Length: 110
+Percentage Identity: 0.254
+
+=== A0A1N7AC41 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SIR36740.1};
+Bit Score: 137.0
+E-value: 0.001419
+Alignment Length: 112
+Percentage Identity: 0.232
+
+=== A0A242GZS6 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 134.0
+E-value: 0.001419
+Alignment Length: 110
+Percentage Identity: 0.154
+
+=== A0A447I869 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 161.0
+E-value: 0.001507
+Alignment Length: 113
+Percentage Identity: 0.203
+
+=== A0A2U8TJG4 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:AWM89627.1};
+Bit Score: 158.0
+E-value: 0.001507
+Alignment Length: 106
+Percentage Identity: 0.16
+
+=== A0A3M1Y718 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RMG72842.1};
+Bit Score: 154.0
+E-value: 0.001507
+Alignment Length: 108
+Percentage Identity: 0.222
+
+=== A0A7W1WYS7 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MBA4502696.1};
+Bit Score: 152.0
+E-value: 0.001507
+Alignment Length: 108
+Percentage Identity: 0.231
+
+=== A0A7W1Q8Q3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MBA3734772.1};
+Bit Score: 152.0
+E-value: 0.001507
+Alignment Length: 105
+Percentage Identity: 0.19
+
+=== A0A4Q8UKU0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TAP41628.1};
+Bit Score: 152.0
+E-value: 0.001507
+Alignment Length: 105
+Percentage Identity: 0.152
+
+=== A0A0X3UT53 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:KUL35690.1};
+Bit Score: 149.0
+E-value: 0.001507
+Alignment Length: 106
+Percentage Identity: 0.169
+
+=== A0A0Q1CKR7 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KQC38807.1};
+Bit Score: 145.0
+E-value: 0.001507
+Alignment Length: 113
+Percentage Identity: 0.194
+
+=== A0A1F7RDL3 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 145.0
+E-value: 0.001507
+Alignment Length: 105
+Percentage Identity: 0.19
+
+=== A0A1I1YFS5 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SFE18426.1};
+Bit Score: 174.0
+E-value: 0.0016
+Alignment Length: 86
+Percentage Identity: 0.197
+
+=== A0A1H5UJA5 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SEF75122.1};
+Bit Score: 166.0
+E-value: 0.0016
+Alignment Length: 98
+Percentage Identity: 0.142
+
+=== A0A160IMP5 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 164.0
+E-value: 0.0016
+Alignment Length: 86
+Percentage Identity: 0.209
+
+=== A0A0A7LIG9 ===
+DE   SubName: Full=SlyA protein {ECO:0000313|EMBL:AIZ57306.1};
+Bit Score: 155.0
+E-value: 0.0016
+Alignment Length: 85
+Percentage Identity: 0.235
+
+=== A0A285HP41 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SNY37353.1};
+Bit Score: 148.0
+E-value: 0.0016
+Alignment Length: 105
+Percentage Identity: 0.19
+
+=== A0A1W9V3P1 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 144.0
+E-value: 0.0016
+Alignment Length: 108
+Percentage Identity: 0.222
+
+=== A0A7X9CM75 ===
+DE   SubName: Full=Winged helix DNA-binding protein {ECO:0000313|EMBL:NMB07660.1};
+Bit Score: 143.0
+E-value: 0.0016
+Alignment Length: 104
+Percentage Identity: 0.182
+
+=== A0A3C1GUK1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HAM62235.1};
+Bit Score: 142.0
+E-value: 0.0016
+Alignment Length: 105
+Percentage Identity: 0.219
+
+=== A0A3S0QPP7 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RUM24570.1};
+Bit Score: 153.0
+E-value: 0.001699
+Alignment Length: 103
+Percentage Identity: 0.165
+
+=== A0A4Y9LIB9 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TFV43095.1};
+Bit Score: 151.0
+E-value: 0.001699
+Alignment Length: 108
+Percentage Identity: 0.194
+
+=== A0A387BVA1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:AYG04797.1};
+Bit Score: 149.0
+E-value: 0.001699
+Alignment Length: 105
+Percentage Identity: 0.18
+
+=== A0A841D5L4 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:MBB5963648.1};
+Bit Score: 146.0
+E-value: 0.001699
+Alignment Length: 111
+Percentage Identity: 0.189
+
+=== A0A7W7AGF2 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 142.0
+E-value: 0.001699
+Alignment Length: 116
+Percentage Identity: 0.206
+
+=== A0A3Q9I977 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:AZS15560.1};
+Bit Score: 129.0
+E-value: 0.001699
+Alignment Length: 113
+Percentage Identity: 0.194
+
+=== A0A7Y8F478 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NWE52777.1};
+Bit Score: 157.0
+E-value: 0.001803
+Alignment Length: 85
+Percentage Identity: 0.247
+
+=== A0A539D9R5 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 154.0
+E-value: 0.001803
+Alignment Length: 89
+Percentage Identity: 0.191
+
+=== H5X2Q0 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:EHR50989.1};
+Bit Score: 153.0
+E-value: 0.001803
+Alignment Length: 105
+Percentage Identity: 0.2
+
+=== C7QGI6 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:ACU74866.1};
+Bit Score: 153.0
+E-value: 0.001803
+Alignment Length: 107
+Percentage Identity: 0.158
+
+=== A0A848K3Q7 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:NMN60559.1};
+Bit Score: 151.0
+E-value: 0.001803
+Alignment Length: 107
+Percentage Identity: 0.224
+
+=== A0A1X7DI85 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AKO93385.1};
+Bit Score: 150.0
+E-value: 0.001803
+Alignment Length: 103
+Percentage Identity: 0.194
+
+=== A0A562ULT9 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:TWJ06546.1};
+Bit Score: 150.0
+E-value: 0.001803
+Alignment Length: 115
+Percentage Identity: 0.191
+
+=== A0A0H3D9N9 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:ADJ47017.1};
+Bit Score: 149.0
+E-value: 0.001803
+Alignment Length: 105
+Percentage Identity: 0.18
+
+=== A0A653IZY5 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:VWX51424.1};
+Bit Score: 145.0
+E-value: 0.001803
+Alignment Length: 116
+Percentage Identity: 0.146
+
+=== A0A117MQY0 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 144.0
+E-value: 0.001803
+Alignment Length: 103
+Percentage Identity: 0.223
+
+=== A0A5M6I1Z5 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KAA5602226.1};
+Bit Score: 143.0
+E-value: 0.001803
+Alignment Length: 104
+Percentage Identity: 0.269
+
+=== A0A7C7WT49 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HIF33052.1};
+Bit Score: 141.0
+E-value: 0.001803
+Alignment Length: 112
+Percentage Identity: 0.187
+
+=== A0A2M7T6B0 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 134.0
+E-value: 0.001803
+Alignment Length: 113
+Percentage Identity: 0.123
+
+=== A0A227J580 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:OXE30058.1};
+DE   Flags: Fragment;
+Bit Score: 161.0
+E-value: 0.001915
+Alignment Length: 94
+Percentage Identity: 0.159
+
+=== A0A1Q4D6S9 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:OJY39936.1};
+Bit Score: 156.0
+E-value: 0.001915
+Alignment Length: 105
+Percentage Identity: 0.171
+
+=== A0A1L3SS33 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 143.0
+E-value: 0.001915
+Alignment Length: 104
+Percentage Identity: 0.182
+
+=== A0A2N3GGN3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PKQ31876.1};
+Bit Score: 141.0
+E-value: 0.001915
+Alignment Length: 116
+Percentage Identity: 0.215
+
+=== F8B6N2 ===
+DE   SubName: Full=Regulatory protein MarR {ECO:0000313|EMBL:AEH10242.1};
+Bit Score: 139.0
+E-value: 0.001915
+Alignment Length: 104
+Percentage Identity: 0.134
+
+=== A0A6B3GG22 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NEE37053.1};
+DE   Flags: Fragment;
+Bit Score: 137.0
+E-value: 0.001915
+Alignment Length: 110
+Percentage Identity: 0.227
+
+=== A0A1Q9B197 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:OLP61773.1};
+Bit Score: 123.0
+E-value: 0.001915
+Alignment Length: 112
+Percentage Identity: 0.214
+
+=== A0A850GKM1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NVB41092.1};
+Bit Score: 170.0
+E-value: 0.002033
+Alignment Length: 85
+Percentage Identity: 0.235
+
+=== A0A3A4P488 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RJP27742.1};
+Bit Score: 166.0
+E-value: 0.002033
+Alignment Length: 85
+Percentage Identity: 0.235
+
+=== A0A6P1BNV6 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NEU99320.1};
+Bit Score: 163.0
+E-value: 0.002033
+Alignment Length: 85
+Percentage Identity: 0.2
+
+=== A0A3N0AWV9 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 151.0
+E-value: 0.002033
+Alignment Length: 105
+Percentage Identity: 0.19
+
+=== A0A2H1L3F2 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SMY11432.1};
+Bit Score: 151.0
+E-value: 0.002033
+Alignment Length: 100
+Percentage Identity: 0.13
+
+=== A0A3S0AZI8 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RSZ43576.1};
+Bit Score: 149.0
+E-value: 0.002033
+Alignment Length: 109
+Percentage Identity: 0.155
+
+=== A0A6J4HQS0 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 148.0
+E-value: 0.002033
+Alignment Length: 103
+Percentage Identity: 0.223
+
+=== A0A257TD59 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 148.0
+E-value: 0.002033
+Alignment Length: 107
+Percentage Identity: 0.205
+
+=== A0A0F6RCM3 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 147.0
+E-value: 0.002033
+Alignment Length: 108
+Percentage Identity: 0.203
+
+=== A0A398BNW6 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RID92215.1};
+Bit Score: 145.0
+E-value: 0.002033
+Alignment Length: 104
+Percentage Identity: 0.201
+
+=== A0A7G9B443 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:QNL44324.1};
+Bit Score: 131.0
+E-value: 0.002033
+Alignment Length: 110
+Percentage Identity: 0.19
+
+=== A0A7X5VMJ0 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NIM61562.1};
+Bit Score: 169.0
+E-value: 0.002159
+Alignment Length: 85
+Percentage Identity: 0.223
+
+=== A0A1T5J882 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SKC47526.1};
+Bit Score: 155.0
+E-value: 0.002159
+Alignment Length: 98
+Percentage Identity: 0.224
+
+=== A0A5N5RLW3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KAB5608287.1};
+Bit Score: 147.0
+E-value: 0.002159
+Alignment Length: 106
+Percentage Identity: 0.15
+
+=== A0A5E7YUI6 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:VVT08083.1};
+Bit Score: 142.0
+E-value: 0.002159
+Alignment Length: 105
+Percentage Identity: 0.228
+
+=== A0A7C3P745 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HFM57729.1};
+Bit Score: 142.0
+E-value: 0.002159
+Alignment Length: 107
+Percentage Identity: 0.168
+
+=== A0A6I2LYR7 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MRX48993.1};
+Bit Score: 139.0
+E-value: 0.002159
+Alignment Length: 109
+Percentage Identity: 0.211
+
+=== A0A2A5RK00 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PCR99483.1};
+Bit Score: 137.0
+E-value: 0.002159
+Alignment Length: 102
+Percentage Identity: 0.176
+
+=== A0A4S5EQ60 ===
+DE   SubName: Full=Winged helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:THJ74140.1};
+Bit Score: 134.0
+E-value: 0.002159
+Alignment Length: 110
+Percentage Identity: 0.2
+
+=== A0A248TIZ3 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 134.0
+E-value: 0.002159
+Alignment Length: 109
+Percentage Identity: 0.174
+
+=== A0A367EZI7 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RCG23556.1};
+Bit Score: 130.0
+E-value: 0.002159
+Alignment Length: 106
+Percentage Identity: 0.188
+
+=== A0A120JTK5 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 123.0
+E-value: 0.002159
+Alignment Length: 111
+Percentage Identity: 0.189
+
+=== A0A4V3DUI1 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:TDR73248.1};
+Bit Score: 169.0
+E-value: 0.002292
+Alignment Length: 85
+Percentage Identity: 0.188
+
+=== A0A255ZGI4 ===
+DE   RecName: Full=HTH iclR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 164.0
+E-value: 0.002292
+Alignment Length: 82
+Percentage Identity: 0.134
+
+=== A0A5A7WHY4 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KAA0078960.1};
+Bit Score: 144.0
+E-value: 0.002292
+Alignment Length: 107
+Percentage Identity: 0.224
+
+=== A0A259MK02 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OZB24223.1};
+Bit Score: 141.0
+E-value: 0.002292
+Alignment Length: 124
+Percentage Identity: 0.225
+
+=== A0A840P569 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:MBB5133676.1};
+Bit Score: 138.0
+E-value: 0.002292
+Alignment Length: 108
+Percentage Identity: 0.194
+
+=== A0A0S4QSP6 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:CUU58110.1};
+Bit Score: 138.0
+E-value: 0.002292
+Alignment Length: 104
+Percentage Identity: 0.192
+
+=== A0A838J5M2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MBA2678774.1};
+Bit Score: 138.0
+E-value: 0.002292
+Alignment Length: 110
+Percentage Identity: 0.163
+
+=== I3UC90 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:AFK62628.1};
+Bit Score: 130.0
+E-value: 0.002292
+Alignment Length: 111
+Percentage Identity: 0.216
+
+=== A0A4R2PDN1 ===
+DE   SubName: Full=PAS domain S-box-containing protein {ECO:0000313|EMBL:TCP33319.1};
+Bit Score: 163.0
+E-value: 0.002433
+Alignment Length: 117
+Percentage Identity: 0.188
+
+=== A0A0R3E2M6 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|Pfam:PF12802};
+Bit Score: 149.0
+E-value: 0.002433
+Alignment Length: 105
+Percentage Identity: 0.238
+
+=== A0A833HE10 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KAB2956745.1};
+Bit Score: 148.0
+E-value: 0.002433
+Alignment Length: 109
+Percentage Identity: 0.165
+
+=== A0A4R1QPY3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TCL54415.1};
+Bit Score: 148.0
+E-value: 0.002433
+Alignment Length: 105
+Percentage Identity: 0.161
+
+=== A0A2W5Z794 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 147.0
+E-value: 0.002433
+Alignment Length: 106
+Percentage Identity: 0.179
+
+=== A0A7W8WKQ4 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:MBB5497615.1};
+Bit Score: 147.0
+E-value: 0.002433
+Alignment Length: 108
+Percentage Identity: 0.175
+
+=== A0A443YI58 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RWU03420.1};
+Bit Score: 147.0
+E-value: 0.002433
+Alignment Length: 106
+Percentage Identity: 0.16
+
+=== A0A538DYD5 ===
+DE   SubName: Full=Winged helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:TML20880.1};
+Bit Score: 146.0
+E-value: 0.002433
+Alignment Length: 111
+Percentage Identity: 0.198
+
+=== A0A847HDS2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NLF91466.1};
+DE   Flags: Fragment;
+Bit Score: 144.0
+E-value: 0.002433
+Alignment Length: 107
+Percentage Identity: 0.186
+
+=== A0A7K2HSK9 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MYR06796.1};
+Bit Score: 143.0
+E-value: 0.002433
+Alignment Length: 107
+Percentage Identity: 0.186
+
+=== A0A0H5BFG3 ===
+DE   SubName: Full=HTH-type transcriptional regulator PetP {ECO:0000313|EMBL:BAR99849.1};
+DE   SubName: Full=Homoprotocatechuate degradation operon regulator, HpaR {ECO:0000313|EMBL:CUU42883.1};
+Bit Score: 140.0
+E-value: 0.002433
+Alignment Length: 104
+Percentage Identity: 0.25
+
+=== A0A5R8QAC3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TLG72817.1};
+Bit Score: 140.0
+E-value: 0.002433
+Alignment Length: 105
+Percentage Identity: 0.228
+
+=== A0A2T7TX48 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PVE22604.1};
+Bit Score: 140.0
+E-value: 0.002433
+Alignment Length: 105
+Percentage Identity: 0.219
+
+=== A0A291GJU4 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 137.0
+E-value: 0.002433
+Alignment Length: 111
+Percentage Identity: 0.216
+
+=== A0A545AJ78 ===
+DE   SubName: Full=Winged helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:TQS41371.1};
+Bit Score: 134.0
+E-value: 0.002433
+Alignment Length: 110
+Percentage Identity: 0.236
+
+=== A0A255GLH6 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 128.0
+E-value: 0.002433
+Alignment Length: 113
+Percentage Identity: 0.194
+
+=== A0A6G9H375 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:QIQ04955.1};
+Bit Score: 124.0
+E-value: 0.002433
+Alignment Length: 111
+Percentage Identity: 0.207
+
+=== A0A161UAE7 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 167.0
+E-value: 0.002583
+Alignment Length: 86
+Percentage Identity: 0.162
+
+=== A0A5Q4E6A6 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TVQ09106.1};
+Bit Score: 165.0
+E-value: 0.002583
+Alignment Length: 85
+Percentage Identity: 0.211
+
+=== A0A0W1DUE9 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|Pfam:PF13463};
+Bit Score: 152.0
+E-value: 0.002583
+Alignment Length: 116
+Percentage Identity: 0.163
+
+=== T0LFM9 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:EQB66807.1};
+Bit Score: 148.0
+E-value: 0.002583
+Alignment Length: 106
+Percentage Identity: 0.198
+
+=== A0A7K0DLP8 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 147.0
+E-value: 0.002583
+Alignment Length: 103
+Percentage Identity: 0.174
+
+=== A0A7W7INT2 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:MBB4797769.1};
+Bit Score: 146.0
+E-value: 0.002583
+Alignment Length: 105
+Percentage Identity: 0.2
+
+=== A0A653YVC8 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:VXC46445.1};
+Bit Score: 145.0
+E-value: 0.002583
+Alignment Length: 106
+Percentage Identity: 0.216
+
+=== A0A429IS83 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RSO30001.1};
+DE   Flags: Fragment;
+Bit Score: 145.0
+E-value: 0.002583
+Alignment Length: 106
+Percentage Identity: 0.179
+
+=== A0A5C6WJH7 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TXC98883.1};
+Bit Score: 145.0
+E-value: 0.002583
+Alignment Length: 104
+Percentage Identity: 0.153
+
+=== A0A3S0ICK9 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RTQ32978.1};
+Bit Score: 144.0
+E-value: 0.002583
+Alignment Length: 107
+Percentage Identity: 0.196
+
+=== A0A0P7JR10 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 142.0
+E-value: 0.002583
+Alignment Length: 116
+Percentage Identity: 0.137
+
+=== A0A0B0IK63 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 139.0
+E-value: 0.002583
+Alignment Length: 109
+Percentage Identity: 0.174
+
+=== A0A6B8M8B3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:QGM98808.1};
+Bit Score: 135.0
+E-value: 0.002583
+Alignment Length: 105
+Percentage Identity: 0.238
+
+=== A0A7W9MGH9 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:MBB5819449.1};
+Bit Score: 132.0
+E-value: 0.002583
+Alignment Length: 114
+Percentage Identity: 0.219
+
+=== A0A3T0Q372 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:AZY94436.1};
+Bit Score: 131.0
+E-value: 0.002583
+Alignment Length: 111
+Percentage Identity: 0.207
+
+=== A0A838U7C6 ===
+DE   SubName: Full=Winged helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:MBA3788876.1};
+Bit Score: 131.0
+E-value: 0.002583
+Alignment Length: 108
+Percentage Identity: 0.157
+
+=== A0A6H1KNM1 ===
+DE   SubName: Full=Winged helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:QIY60622.1};
+Bit Score: 122.0
+E-value: 0.002583
+Alignment Length: 110
+Percentage Identity: 0.172
+
+=== A0A0D4CMV7 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 163.0
+E-value: 0.002743
+Alignment Length: 84
+Percentage Identity: 0.19
+
+=== A0A0P7XWE6 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:KPQ21808.1};
+Bit Score: 148.0
+E-value: 0.002743
+Alignment Length: 88
+Percentage Identity: 0.159
+
+=== A0A1Q5LQK1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:OKK04232.1};
+Bit Score: 145.0
+E-value: 0.002743
+Alignment Length: 105
+Percentage Identity: 0.161
+
+=== A0A7C6ZPW9 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HHY47645.1};
+Bit Score: 144.0
+E-value: 0.002743
+Alignment Length: 110
+Percentage Identity: 0.236
+
+=== A0A6G6X702 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:QIG53246.1};
+Bit Score: 143.0
+E-value: 0.002743
+Alignment Length: 103
+Percentage Identity: 0.165
+
+=== A0A7W3IZ37 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:MBA8803282.1};
+Bit Score: 140.0
+E-value: 0.002743
+Alignment Length: 113
+Percentage Identity: 0.168
+
+=== A0A6L3V4U2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KAB2336129.1};
+Bit Score: 135.0
+E-value: 0.002743
+Alignment Length: 114
+Percentage Identity: 0.184
+
+=== A0A1R1BM32 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 134.0
+E-value: 0.002743
+Alignment Length: 106
+Percentage Identity: 0.216
+
+=== A0A4R8HMM7 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TDX63435.1};
+Bit Score: 133.0
+E-value: 0.002743
+Alignment Length: 105
+Percentage Identity: 0.219
+
+=== A0A6N4UXN2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:BBX28182.1};
+Bit Score: 132.0
+E-value: 0.002743
+Alignment Length: 107
+Percentage Identity: 0.214
+
+=== A0A410RWU3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:QAT86387.1};
+Bit Score: 171.0
+E-value: 0.002912
+Alignment Length: 85
+Percentage Identity: 0.188
+
+=== A0A3C0M8W9 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HAJ45680.1};
+Bit Score: 158.0
+E-value: 0.002912
+Alignment Length: 81
+Percentage Identity: 0.259
+
+=== A0A7C9TN16 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NDY93664.1};
+Bit Score: 146.0
+E-value: 0.002912
+Alignment Length: 108
+Percentage Identity: 0.148
+
+=== A0A7X8ZJH9 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NLZ62878.1};
+Bit Score: 144.0
+E-value: 0.002912
+Alignment Length: 107
+Percentage Identity: 0.168
+
+=== A0A3S9B2U2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:AZN71224.1};
+Bit Score: 143.0
+E-value: 0.002912
+Alignment Length: 103
+Percentage Identity: 0.213
+
+=== A0A367VHL7 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RCK23961.1};
+Bit Score: 142.0
+E-value: 0.002912
+Alignment Length: 83
+Percentage Identity: 0.204
+
+=== A0A263DLN2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:OZM79482.1};
+Bit Score: 141.0
+E-value: 0.002912
+Alignment Length: 110
+Percentage Identity: 0.209
+
+=== A0A3T1B5A8 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 141.0
+E-value: 0.002912
+Alignment Length: 107
+Percentage Identity: 0.168
+
+=== A0A261S1C8 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 141.0
+E-value: 0.002912
+Alignment Length: 104
+Percentage Identity: 0.115
+
+=== A0A660LG70 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:RKQ92823.1};
+Bit Score: 137.0
+E-value: 0.002912
+Alignment Length: 106
+Percentage Identity: 0.198
+
+=== A0A562QR57 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:TWI59185.1};
+Bit Score: 137.0
+E-value: 0.002912
+Alignment Length: 109
+Percentage Identity: 0.155
+
+=== A0A2T2WR23 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 168.0
+E-value: 0.003092
+Alignment Length: 85
+Percentage Identity: 0.247
+
+=== A0A1V9GIR8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OQP70561.1};
+Bit Score: 152.0
+E-value: 0.003092
+Alignment Length: 89
+Percentage Identity: 0.224
+
+=== A0A7C1FTQ7 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HDX33080.1};
+Bit Score: 145.0
+E-value: 0.003092
+Alignment Length: 105
+Percentage Identity: 0.18
+
+=== A0A087D742 ===
+DE   SubName: Full=Regulatory protein {ECO:0000313|EMBL:KFI91342.1};
+Bit Score: 143.0
+E-value: 0.003092
+Alignment Length: 106
+Percentage Identity: 0.15
+
+=== A0A7K2Z122 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MYW05094.1};
+Bit Score: 140.0
+E-value: 0.003092
+Alignment Length: 88
+Percentage Identity: 0.193
+
+=== A0A369W034 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RDE07918.1};
+Bit Score: 140.0
+E-value: 0.003092
+Alignment Length: 103
+Percentage Identity: 0.165
+
+=== A0A2N4WVA1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PLK24223.1};
+Bit Score: 138.0
+E-value: 0.003092
+Alignment Length: 115
+Percentage Identity: 0.156
+
+=== A0A0Q7M5R0 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KQY21055.1};
+Bit Score: 135.0
+E-value: 0.003092
+Alignment Length: 108
+Percentage Identity: 0.185
+
+=== A0A3P1T448 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RRD04149.1};
+Bit Score: 129.0
+E-value: 0.003092
+Alignment Length: 110
+Percentage Identity: 0.227
+
+=== A0A3N9NQH0 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RQV95495.1};
+Bit Score: 124.0
+E-value: 0.003092
+Alignment Length: 104
+Percentage Identity: 0.163
+
+=== A0A6I5MYP7 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NEG69748.1};
+Bit Score: 169.0
+E-value: 0.003283
+Alignment Length: 85
+Percentage Identity: 0.188
+
+=== A0A2S6ZAC7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PPT78985.1};
+Bit Score: 162.0
+E-value: 0.003283
+Alignment Length: 79
+Percentage Identity: 0.24
+
+=== A0A2V3UUT2 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:PXW71677.1};
+Bit Score: 161.0
+E-value: 0.003283
+Alignment Length: 85
+Percentage Identity: 0.235
+
+=== A0A7C5KQU6 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HHJ06803.1};
+Bit Score: 155.0
+E-value: 0.003283
+Alignment Length: 87
+Percentage Identity: 0.229
+
+=== A0A2V5UNH8 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 150.0
+E-value: 0.003283
+Alignment Length: 108
+Percentage Identity: 0.185
+
+=== A0A1P8MVQ0 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 149.0
+E-value: 0.003283
+Alignment Length: 85
+Percentage Identity: 0.176
+
+=== A0A1V4W5K3 ===
+DE   SubName: Full=HTH-type transcriptional regulator MhqR {ECO:0000313|EMBL:OPX92214.1};
+Bit Score: 145.0
+E-value: 0.003283
+Alignment Length: 105
+Percentage Identity: 0.161
+
+=== A0A410P390 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 145.0
+E-value: 0.003283
+Alignment Length: 102
+Percentage Identity: 0.137
+
+=== A0A1H6CCK5 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:SEG70365.1};
+Bit Score: 144.0
+E-value: 0.003283
+Alignment Length: 105
+Percentage Identity: 0.19
+
+=== A0A017HLY2 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:EYD74789.1};
+Bit Score: 143.0
+E-value: 0.003283
+Alignment Length: 107
+Percentage Identity: 0.196
+
+=== A0A1L9BU14 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:OJH45786.1};
+Bit Score: 142.0
+E-value: 0.003283
+Alignment Length: 108
+Percentage Identity: 0.212
+
+=== A0A291DLL4 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:ATF71770.1};
+Bit Score: 142.0
+E-value: 0.003283
+Alignment Length: 103
+Percentage Identity: 0.155
+
+=== A0A2V9YP69 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PYX75294.1};
+Bit Score: 141.0
+E-value: 0.003283
+Alignment Length: 103
+Percentage Identity: 0.242
+
+=== A0A4R1N030 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:TCK95813.1};
+Bit Score: 141.0
+E-value: 0.003283
+Alignment Length: 103
+Percentage Identity: 0.242
+
+=== A0A2D8LB58 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MAM25913.1};
+Bit Score: 141.0
+E-value: 0.003283
+Alignment Length: 105
+Percentage Identity: 0.219
+
+=== A0A1T4RR65 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 140.0
+E-value: 0.003283
+Alignment Length: 117
+Percentage Identity: 0.256
+
+=== A0A4R3M2M2 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:TCT07252.1};
+Bit Score: 140.0
+E-value: 0.003283
+Alignment Length: 105
+Percentage Identity: 0.2
+
+=== A0A4Y8UJQ4 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TFH69036.1};
+Bit Score: 140.0
+E-value: 0.003283
+Alignment Length: 108
+Percentage Identity: 0.157
+
+=== A0A847CXF3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NLD17931.1};
+Bit Score: 137.0
+E-value: 0.003283
+Alignment Length: 107
+Percentage Identity: 0.196
+
+=== A0A7R7DLX3 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 135.0
+E-value: 0.003283
+Alignment Length: 107
+Percentage Identity: 0.205
+
+=== A0A2R7MMZ6 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 134.0
+E-value: 0.003283
+Alignment Length: 111
+Percentage Identity: 0.153
+
+=== A0A1C6AKV6 ===
+DE   SubName: Full=Transcriptional repressor MprA {ECO:0000313|EMBL:SCI72497.1};
+Bit Score: 134.0
+E-value: 0.003283
+Alignment Length: 96
+Percentage Identity: 0.125
+
+=== A0A7W6X7Y3 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:MBB4383255.1};
+Bit Score: 131.0
+E-value: 0.003283
+Alignment Length: 107
+Percentage Identity: 0.205
+
+=== A0A1N6WDJ0 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SIQ88217.1};
+Bit Score: 127.0
+E-value: 0.003283
+Alignment Length: 110
+Percentage Identity: 0.209
+
+=== A0A0M9EJG1 ===
+DE   SubName: Full=Multiple antibiotic resistance protein MarR {ECO:0000313|EMBL:KPA22976.1};
+Bit Score: 123.0
+E-value: 0.003283
+Alignment Length: 107
+Percentage Identity: 0.168
+
+=== A0A419FHG9 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RJQ07815.1};
+Bit Score: 170.0
+E-value: 0.003486
+Alignment Length: 86
+Percentage Identity: 0.162
+
+=== A0A1I6IUI5 ===
+DE   RecName: Full=FdhD protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 160.0
+E-value: 0.003486
+Alignment Length: 80
+Percentage Identity: 0.2
+
+=== A0A4V6NB54 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TCJ20492.1};
+Bit Score: 148.0
+E-value: 0.003486
+Alignment Length: 86
+Percentage Identity: 0.232
+
+=== A0A832IP20 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HHD65626.1};
+Bit Score: 146.0
+E-value: 0.003486
+Alignment Length: 102
+Percentage Identity: 0.205
+
+=== A0A2N0XZX5 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PKF81487.1};
+Bit Score: 144.0
+E-value: 0.003486
+Alignment Length: 104
+Percentage Identity: 0.144
+
+=== A0A0C1UD38 ===
+DE   SubName: Full=MarR family protein {ECO:0000313|EMBL:KIE45405.1};
+Bit Score: 138.0
+E-value: 0.003486
+Alignment Length: 110
+Percentage Identity: 0.19
+
+=== A0A501PGQ5 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TPD59212.1};
+Bit Score: 137.0
+E-value: 0.003486
+Alignment Length: 108
+Percentage Identity: 0.25
+
+=== A0A538II34 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TML77122.1};
+Bit Score: 137.0
+E-value: 0.003486
+Alignment Length: 111
+Percentage Identity: 0.171
+
+=== A0A3N1X8D1 ===
+DE   RecName: Full=DNA-binding MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 132.0
+E-value: 0.003486
+Alignment Length: 107
+Percentage Identity: 0.186
+
+=== A0A369W4T9 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RDE08885.1};
+Bit Score: 131.0
+E-value: 0.003486
+Alignment Length: 105
+Percentage Identity: 0.257
+
+=== A0A2E5PWD7 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MBI13481.1};
+Bit Score: 124.0
+E-value: 0.003486
+Alignment Length: 109
+Percentage Identity: 0.201
+
+=== A0A7X0JXG8 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:MBB6523211.1};
+Bit Score: 123.0
+E-value: 0.003486
+Alignment Length: 107
+Percentage Identity: 0.233
+
+=== A0A0R1K0Z7 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 122.0
+E-value: 0.003486
+Alignment Length: 122
+Percentage Identity: 0.188
+
+=== A0A167B8L5 ===
+DE   RecName: Full=Response regulatory domain-containing protein {ECO:0000259|PROSITE:PS50110};
+Bit Score: 121.0
+E-value: 0.003486
+Alignment Length: 114
+Percentage Identity: 0.228
+
+=== A0A5B8XNJ5 ===
+DE   SubName: Full=Winged helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:QED26697.1};
+Bit Score: 154.0
+E-value: 0.003701
+Alignment Length: 86
+Percentage Identity: 0.244
+
+=== A0A1I5BYC2 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SFN79670.1};
+Bit Score: 146.0
+E-value: 0.003701
+Alignment Length: 100
+Percentage Identity: 0.18
+
+=== A0A316F6N6 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:PWK40882.1};
+Bit Score: 144.0
+E-value: 0.003701
+Alignment Length: 105
+Percentage Identity: 0.161
+
+=== A0A7W0V3U1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MBA3443106.1};
+Bit Score: 137.0
+E-value: 0.003701
+Alignment Length: 105
+Percentage Identity: 0.171
+
+=== A0A5N6S1W2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KAE8127157.1};
+Bit Score: 135.0
+E-value: 0.003701
+Alignment Length: 106
+Percentage Identity: 0.207
+
+=== A0A1H5BD21 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:SED52503.1};
+Bit Score: 131.0
+E-value: 0.003701
+Alignment Length: 105
+Percentage Identity: 0.266
+
+=== A0A537YLN5 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TMK55884.1};
+Bit Score: 124.0
+E-value: 0.003701
+Alignment Length: 108
+Percentage Identity: 0.24
+
+=== A0A840SAK6 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:MBB5219739.1};
+Bit Score: 118.0
+E-value: 0.003701
+Alignment Length: 113
+Percentage Identity: 0.194
+
+=== A0A1K1VNQ2 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SFX26730.1};
+Bit Score: 163.0
+E-value: 0.003929
+Alignment Length: 86
+Percentage Identity: 0.197
+
+=== D1CHN0 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:ACZ43251.1};
+Bit Score: 142.0
+E-value: 0.003929
+Alignment Length: 89
+Percentage Identity: 0.235
+
+=== A0A238W0S8 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SNR40098.1};
+Bit Score: 138.0
+E-value: 0.003929
+Alignment Length: 108
+Percentage Identity: 0.166
+
+=== A0A520JPW4 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RZM36880.1};
+Bit Score: 137.0
+E-value: 0.003929
+Alignment Length: 105
+Percentage Identity: 0.2
+
+=== A0A5B2VBP4 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KAA2236158.1};
+Bit Score: 134.0
+E-value: 0.003929
+Alignment Length: 103
+Percentage Identity: 0.203
+
+=== A0A512BU39 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 133.0
+E-value: 0.003929
+Alignment Length: 101
+Percentage Identity: 0.227
+
+=== A0A7Y9ATY2 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:NYD21691.1};
+Bit Score: 133.0
+E-value: 0.003929
+Alignment Length: 109
+Percentage Identity: 0.165
+
+=== A0A0G3HE85 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:AKK09477.1};
+Bit Score: 132.0
+E-value: 0.003929
+Alignment Length: 108
+Percentage Identity: 0.185
+
+=== A0A1Q9W190 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:OLT56032.1};
+Bit Score: 132.0
+E-value: 0.003929
+Alignment Length: 108
+Percentage Identity: 0.185
+
+=== A0A2P5NRY3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PPD45412.1};
+Bit Score: 131.0
+E-value: 0.003929
+Alignment Length: 105
+Percentage Identity: 0.228
+
+=== H5TIM5 ===
+DE   SubName: Full=Putative MarR family transcriptional regulator {ECO:0000313|EMBL:GAB33333.1};
+Bit Score: 131.0
+E-value: 0.003929
+Alignment Length: 108
+Percentage Identity: 0.166
+
+=== F2J0G5 ===
+DE   SubName: Full=Probable transcriptional regulator {ECO:0000313|EMBL:ADZ69633.1};
+Bit Score: 130.0
+E-value: 0.003929
+Alignment Length: 105
+Percentage Identity: 0.219
+
+=== A0A7X9B9Q8 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NMA49650.1};
+Bit Score: 121.0
+E-value: 0.003929
+Alignment Length: 111
+Percentage Identity: 0.225
+
+=== A0A2N3W1V5 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PKV87844.1};
+Bit Score: 148.0
+E-value: 0.004172
+Alignment Length: 101
+Percentage Identity: 0.198
+
+=== A0A847N6X2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NLK12929.1};
+Bit Score: 144.0
+E-value: 0.004172
+Alignment Length: 106
+Percentage Identity: 0.15
+
+=== A0A0R1TUG1 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|SMART:SM00347};
+Bit Score: 140.0
+E-value: 0.004172
+Alignment Length: 85
+Percentage Identity: 0.235
+
+=== W5Y3Z6 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 138.0
+E-value: 0.004172
+Alignment Length: 108
+Percentage Identity: 0.194
+
+=== A0A254TJM6 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 133.0
+E-value: 0.004172
+Alignment Length: 108
+Percentage Identity: 0.231
+
+=== A0A6M5JFX4 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:QJU59341.1};
+Bit Score: 131.0
+E-value: 0.004172
+Alignment Length: 115
+Percentage Identity: 0.147
+
+=== A0A512IN59 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:GEO99144.1};
+Bit Score: 130.0
+E-value: 0.004172
+Alignment Length: 103
+Percentage Identity: 0.184
+
+=== Q7ABA6 ===
+DE   RecName: Full=Transcriptional regulator HosA;
+Bit Score: 127.0
+E-value: 0.004172
+Alignment Length: 108
+Percentage Identity: 0.185
+
+=== B8FDX6 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:ACL06757.1};
+Bit Score: 126.0
+E-value: 0.004172
+Alignment Length: 113
+Percentage Identity: 0.132
+
+=== A0A7Y5L7N3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NUM75735.1};
+Bit Score: 150.0
+E-value: 0.004429
+Alignment Length: 85
+Percentage Identity: 0.223
+
+=== A0A0R2CHT9 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|SMART:SM00347};
+Bit Score: 139.0
+E-value: 0.004429
+Alignment Length: 85
+Percentage Identity: 0.223
+
+=== A0A2H3NL31 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PEN05080.1};
+Bit Score: 139.0
+E-value: 0.004429
+Alignment Length: 107
+Percentage Identity: 0.168
+
+=== A0A1Q4H817 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:OJZ63699.1};
+Bit Score: 138.0
+E-value: 0.004429
+Alignment Length: 107
+Percentage Identity: 0.186
+
+=== A0A0R1JK98 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 135.0
+E-value: 0.004429
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== A0A7C3QXI2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HFT94128.1};
+Bit Score: 135.0
+E-value: 0.004429
+Alignment Length: 105
+Percentage Identity: 0.209
+
+=== A0A4R5KRP4 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TDF98296.1};
+Bit Score: 132.0
+E-value: 0.004429
+Alignment Length: 112
+Percentage Identity: 0.187
+
+=== A3XAA7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EAQ45244.1};
+Bit Score: 127.0
+E-value: 0.004429
+Alignment Length: 113
+Percentage Identity: 0.159
+
+=== A0A2Z2PBC5 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|Pfam:PF01047};
+Bit Score: 125.0
+E-value: 0.004429
+Alignment Length: 108
+Percentage Identity: 0.157
+
+=== A0A1M3HLS8 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 121.0
+E-value: 0.004429
+Alignment Length: 108
+Percentage Identity: 0.175
+
+=== A0A534ZIP5 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TMB48591.1};
+Bit Score: 159.0
+E-value: 0.004703
+Alignment Length: 85
+Percentage Identity: 0.188
+
+=== A0A1C4RJT1 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:SCE35202.1};
+Bit Score: 148.0
+E-value: 0.004703
+Alignment Length: 101
+Percentage Identity: 0.178
+
+=== A0A7T2S3R8 ===
+DE   RecName: Full=FdhD protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 143.0
+E-value: 0.004703
+Alignment Length: 89
+Percentage Identity: 0.179
+
+=== A0A1Z9IWK5 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 142.0
+E-value: 0.004703
+Alignment Length: 106
+Percentage Identity: 0.132
+
+=== A0A1G7ACJ4 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SDE11586.1};
+Bit Score: 140.0
+E-value: 0.004703
+Alignment Length: 105
+Percentage Identity: 0.219
+
+=== A0A545TT26 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TQV80379.1};
+Bit Score: 136.0
+E-value: 0.004703
+Alignment Length: 105
+Percentage Identity: 0.133
+
+=== A0A1Q3V2Y4 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:OJW26840.1};
+Bit Score: 135.0
+E-value: 0.004703
+Alignment Length: 107
+Percentage Identity: 0.233
+
+=== A0A7Y1UJ47 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NNC87413.1};
+Bit Score: 135.0
+E-value: 0.004703
+Alignment Length: 105
+Percentage Identity: 0.2
+
+=== A0A177S9X2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:OAI82821.1};
+Bit Score: 135.0
+E-value: 0.004703
+Alignment Length: 102
+Percentage Identity: 0.176
+
+=== A0A0M8VQZ2 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 131.0
+E-value: 0.004703
+Alignment Length: 106
+Percentage Identity: 0.179
+
+=== A8TND9 ===
+DE   SubName: Full=Transcriptional regulatory protein {ECO:0000313|EMBL:EDP65326.1};
+Bit Score: 131.0
+E-value: 0.004703
+Alignment Length: 110
+Percentage Identity: 0.163
+
+=== A0A3R9SR02 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RSS06624.1};
+Bit Score: 130.0
+E-value: 0.004703
+Alignment Length: 111
+Percentage Identity: 0.171
+
+=== A0A1X1R842 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:ORV01156.1};
+Bit Score: 130.0
+E-value: 0.004703
+Alignment Length: 107
+Percentage Identity: 0.158
+
+=== A0A1V0P1L7 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:ARE20580.1};
+Bit Score: 129.0
+E-value: 0.004703
+Alignment Length: 98
+Percentage Identity: 0.142
+
+=== A0A3R6VUL4 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RHU43245.1};
+Bit Score: 127.0
+E-value: 0.004703
+Alignment Length: 97
+Percentage Identity: 0.206
+
+=== A0A1Q2CWY1 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 122.0
+E-value: 0.004703
+Alignment Length: 113
+Percentage Identity: 0.203
+
+=== A0A2W2D3D0 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PZG06582.1};
+Bit Score: 121.0
+E-value: 0.004703
+Alignment Length: 108
+Percentage Identity: 0.203
+
+=== A0A7W2HK60 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MBA4866821.1};
+Bit Score: 119.0
+E-value: 0.004703
+Alignment Length: 113
+Percentage Identity: 0.194
+
+=== A0A6N7VFQ5 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MSS78278.1};
+Bit Score: 118.0
+E-value: 0.004703
+Alignment Length: 113
+Percentage Identity: 0.176
+
+=== A0A7W0TZ79 ===
+DE   SubName: Full=Winged helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:MBA3416721.1};
+Bit Score: 161.0
+E-value: 0.004993
+Alignment Length: 86
+Percentage Identity: 0.197
+
+=== A0A1S7R337 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CUX45946.1};
+Bit Score: 159.0
+E-value: 0.004993
+Alignment Length: 59
+Percentage Identity: 0.338
+
+=== F4CRG9 ===
+DE   SubName: Full=Regulatory protein MarR {ECO:0000313|EMBL:AEA26177.1};
+Bit Score: 158.0
+E-value: 0.004993
+Alignment Length: 85
+Percentage Identity: 0.2
+
+=== A0A2E8LBJ8 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MBQ88796.1};
+Bit Score: 157.0
+E-value: 0.004993
+Alignment Length: 85
+Percentage Identity: 0.152
+
+=== A0A3Q9NU39 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:AZT95159.1};
+Bit Score: 149.0
+E-value: 0.004993
+Alignment Length: 88
+Percentage Identity: 0.204
+
+=== A0A1W7M8L9 ===
+DE   SubName: Full=Transcriptional regulators {ECO:0000313|EMBL:GAO53957.1};
+Bit Score: 149.0
+E-value: 0.004993
+Alignment Length: 115
+Percentage Identity: 0.13
+
+=== A0A7V8GCB4 ===
+DE   RecName: Full=FdhD protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 142.0
+E-value: 0.004993
+Alignment Length: 86
+Percentage Identity: 0.174
+
+=== A0A1V4VTU7 ===
+DE   SubName: Full=HTH-type transcriptional regulator MhqR {ECO:0000313|EMBL:OPX88487.1};
+Bit Score: 137.0
+E-value: 0.004993
+Alignment Length: 102
+Percentage Identity: 0.176
+
+=== A0A1C6W0B8 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SCL71998.1};
+Bit Score: 136.0
+E-value: 0.004993
+Alignment Length: 107
+Percentage Identity: 0.168
+
+=== A0A1H4V6A6 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SEC76158.1};
+Bit Score: 136.0
+E-value: 0.004993
+Alignment Length: 104
+Percentage Identity: 0.153
+
+=== A0A535LG57 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TMC94620.1};
+Bit Score: 136.0
+E-value: 0.004993
+Alignment Length: 114
+Percentage Identity: 0.14
+
+=== A0A438BBP7 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RVW08424.1};
+Bit Score: 135.0
+E-value: 0.004993
+Alignment Length: 111
+Percentage Identity: 0.18
+
+=== A0A5N0UUU4 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KAA9155293.1};
+Bit Score: 135.0
+E-value: 0.004993
+Alignment Length: 106
+Percentage Identity: 0.169
+
+=== A0A254QK05 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 133.0
+E-value: 0.004993
+Alignment Length: 104
+Percentage Identity: 0.192
+
+=== A0A423PPS4 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:ROO27609.1};
+Bit Score: 132.0
+E-value: 0.004993
+Alignment Length: 108
+Percentage Identity: 0.157
+
+=== A0A6M4APS3 ===
+DE   SubName: Full=Response regulator {ECO:0000313|EMBL:QJQ31055.1};
+Bit Score: 130.0
+E-value: 0.004993
+Alignment Length: 116
+Percentage Identity: 0.137
+
+=== A0A2T4UTB1 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 129.0
+E-value: 0.004993
+Alignment Length: 116
+Percentage Identity: 0.137
+
+=== A0A351GN33 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 127.0
+E-value: 0.004993
+Alignment Length: 109
+Percentage Identity: 0.137
+
+=== A0A6N9QGI4 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NBI63921.1};
+Bit Score: 114.0
+E-value: 0.004993
+Alignment Length: 114
+Percentage Identity: 0.149
+
+=== A0A351X2W3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HBA91044.1};
+Bit Score: 151.0
+E-value: 0.005301
+Alignment Length: 85
+Percentage Identity: 0.211
+
+=== A0A1Q7QBZ7 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 143.0
+E-value: 0.005301
+Alignment Length: 107
+Percentage Identity: 0.14
+
+=== A0A2B0QIF0 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PES37279.1};
+Bit Score: 134.0
+E-value: 0.005301
+Alignment Length: 103
+Percentage Identity: 0.174
+
+=== A0A327LSI8 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RAI53749.1};
+Bit Score: 131.0
+E-value: 0.005301
+Alignment Length: 107
+Percentage Identity: 0.224
+
+=== A0A519QVF9 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RZK02652.1};
+Bit Score: 128.0
+E-value: 0.005301
+Alignment Length: 105
+Percentage Identity: 0.18
+
+=== A0A519JMC9 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RZJ25876.1};
+Bit Score: 128.0
+E-value: 0.005301
+Alignment Length: 103
+Percentage Identity: 0.135
+
+=== A0A562UV48 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:TWJ09428.1};
+Bit Score: 110.0
+E-value: 0.005301
+Alignment Length: 111
+Percentage Identity: 0.162
+
+=== A0A6P1E5Z6 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:QHB51105.1};
+Bit Score: 157.0
+E-value: 0.005628
+Alignment Length: 85
+Percentage Identity: 0.223
+
+=== A0A1M6YB14 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 154.0
+E-value: 0.005628
+Alignment Length: 66
+Percentage Identity: 0.409
+
+=== A0A853IAC6 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 153.0
+E-value: 0.005628
+Alignment Length: 90
+Percentage Identity: 0.133
+
+=== A0A7W8EMX8 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:MBB5084878.1};
+Bit Score: 146.0
+E-value: 0.005628
+Alignment Length: 85
+Percentage Identity: 0.141
+
+=== A0A832W6B3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HIH93094.1};
+Bit Score: 140.0
+E-value: 0.005628
+Alignment Length: 86
+Percentage Identity: 0.255
+
+=== A0A0F9BHT6 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 139.0
+E-value: 0.005628
+Alignment Length: 94
+Percentage Identity: 0.223
+
+=== A0A844XBJ1 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 138.0
+E-value: 0.005628
+Alignment Length: 116
+Percentage Identity: 0.12
+
+=== A0A318HJY4 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:PXX02236.1};
+Bit Score: 137.0
+E-value: 0.005628
+Alignment Length: 107
+Percentage Identity: 0.177
+
+=== A0A5J6MF24 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:QEX15681.1};
+Bit Score: 133.0
+E-value: 0.005628
+Alignment Length: 105
+Percentage Identity: 0.238
+
+=== A0A5C7FGP1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TXF83933.1};
+Bit Score: 127.0
+E-value: 0.005628
+Alignment Length: 111
+Percentage Identity: 0.171
+
+=== A0A5N8V4Z1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MPY30360.1};
+Bit Score: 127.0
+E-value: 0.005628
+Alignment Length: 110
+Percentage Identity: 0.163
+
+=== A0A4Y3R3P3 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:GEB51527.1};
+Bit Score: 120.0
+E-value: 0.005628
+Alignment Length: 107
+Percentage Identity: 0.168
+
+=== A0A7C6NZE8 ===
+DE   SubName: Full=Winged helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:HHV11969.1};
+Bit Score: 118.0
+E-value: 0.005628
+Alignment Length: 117
+Percentage Identity: 0.179
+
+=== A0A806KAM9 ===
+DE   SubName: Full=Transcriptional regulator MarR family {ECO:0000313|EMBL:AGS51614.1};
+Bit Score: 116.0
+E-value: 0.005628
+Alignment Length: 112
+Percentage Identity: 0.169
+
+=== A0A660M6G7 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RKW00174.1};
+Bit Score: 115.0
+E-value: 0.005628
+Alignment Length: 111
+Percentage Identity: 0.189
+
+=== A0A3B8R7L7 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 156.0
+E-value: 0.005976
+Alignment Length: 85
+Percentage Identity: 0.188
+
+=== A0A5B8VPA0 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:QEC72506.1};
+Bit Score: 155.0
+E-value: 0.005976
+Alignment Length: 80
+Percentage Identity: 0.187
+
+=== A0A5C6ZAS6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TXD84663.1};
+Bit Score: 152.0
+E-value: 0.005976
+Alignment Length: 76
+Percentage Identity: 0.21
+
+=== A0A839ZAW8 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:MBB3771879.1};
+Bit Score: 138.0
+E-value: 0.005976
+Alignment Length: 105
+Percentage Identity: 0.2
+
+=== A0A5C4QNM5 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TNH28652.1};
+Bit Score: 137.0
+E-value: 0.005976
+Alignment Length: 108
+Percentage Identity: 0.166
+
+=== A0A425VYB2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RRF90514.1};
+Bit Score: 135.0
+E-value: 0.005976
+Alignment Length: 103
+Percentage Identity: 0.233
+
+=== R9LTT0 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 135.0
+E-value: 0.005976
+Alignment Length: 97
+Percentage Identity: 0.154
+
+=== A0A2V3U1N3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PXW55702.1};
+Bit Score: 131.0
+E-value: 0.005976
+Alignment Length: 103
+Percentage Identity: 0.213
+
+=== A0A560ITF0 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TWB73916.1};
+Bit Score: 131.0
+E-value: 0.005976
+Alignment Length: 111
+Percentage Identity: 0.198
+
+=== A0A4Y9SEY8 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TFW21919.1};
+Bit Score: 129.0
+E-value: 0.005976
+Alignment Length: 108
+Percentage Identity: 0.194
+
+=== A0A0S3PTN0 ===
+DE   SubName: Full=MarR family protein {ECO:0000313|EMBL:BAT59236.1};
+Bit Score: 126.0
+E-value: 0.005976
+Alignment Length: 105
+Percentage Identity: 0.257
+
+=== A0A3S4FG30 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 126.0
+E-value: 0.005976
+Alignment Length: 105
+Percentage Identity: 0.219
+
+=== A0A3N1D3N2 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:ROO88132.1};
+Bit Score: 123.0
+E-value: 0.005976
+Alignment Length: 105
+Percentage Identity: 0.18
+
+=== A0A0R1F9E5 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:KRK18328.1};
+Bit Score: 119.0
+E-value: 0.005976
+Alignment Length: 113
+Percentage Identity: 0.194
+
+=== A0A6N3H7T3 ===
+DE   SubName: Full=Multiple antibiotic resistance protein MarR {ECO:0000313|EMBL:VYU72220.1};
+Bit Score: 146.0
+E-value: 0.006345
+Alignment Length: 93
+Percentage Identity: 0.182
+
+=== A0A7K2PGE2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MYT04061.1};
+Bit Score: 145.0
+E-value: 0.006345
+Alignment Length: 82
+Percentage Identity: 0.207
+
+=== A0A371B8Z9 ===
+DE   SubName: Full=Response regulator {ECO:0000313|EMBL:RDV04012.1};
+Bit Score: 140.0
+E-value: 0.006345
+Alignment Length: 114
+Percentage Identity: 0.184
+
+=== A0A2S5J095 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 139.0
+E-value: 0.006345
+Alignment Length: 100
+Percentage Identity: 0.2
+
+=== A0A850HA17 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NVE93736.1};
+Bit Score: 138.0
+E-value: 0.006345
+Alignment Length: 116
+Percentage Identity: 0.103
+
+=== A0A2V5L502 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PYI65224.1};
+Bit Score: 135.0
+E-value: 0.006345
+Alignment Length: 108
+Percentage Identity: 0.101
+
+=== A0A1Y3QLY3 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 131.0
+E-value: 0.006345
+Alignment Length: 89
+Percentage Identity: 0.191
+
+=== A0A2E3EUU8 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MBA77983.1};
+Bit Score: 130.0
+E-value: 0.006345
+Alignment Length: 113
+Percentage Identity: 0.212
+
+=== G9ZVM9 ===
+DE   SubName: Full=Transcriptional regulator SlyA family protein {ECO:0000313|EMBL:EHM02992.1};
+Bit Score: 130.0
+E-value: 0.006345
+Alignment Length: 104
+Percentage Identity: 0.182
+
+=== C7N4J5 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:ACV21830.1};
+Bit Score: 129.0
+E-value: 0.006345
+Alignment Length: 106
+Percentage Identity: 0.169
+
+=== A0A196P6G3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:OAN75602.1};
+Bit Score: 125.0
+E-value: 0.006345
+Alignment Length: 109
+Percentage Identity: 0.211
+
+=== A0A6N2D9S6 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TVR04239.1};
+Bit Score: 125.0
+E-value: 0.006345
+Alignment Length: 91
+Percentage Identity: 0.186
+
+=== A0A2S0MQK1 ===
+DE   SubName: Full=Winged helix DNA-binding protein {ECO:0000313|EMBL:AVO38165.1};
+Bit Score: 122.0
+E-value: 0.006345
+Alignment Length: 108
+Percentage Identity: 0.157
+
+=== A0A7J5BZ41 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KAB1659628.1};
+Bit Score: 113.0
+E-value: 0.006345
+Alignment Length: 112
+Percentage Identity: 0.178
+
+=== A0A4R5TTZ2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TDK24493.1};
+Bit Score: 147.0
+E-value: 0.006736
+Alignment Length: 85
+Percentage Identity: 0.188
+
+=== A0A4Y8JV15 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TFD29685.1};
+Bit Score: 144.0
+E-value: 0.006736
+Alignment Length: 90
+Percentage Identity: 0.155
+
+=== A0A069JXR9 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KDQ69466.1};
+Bit Score: 143.0
+E-value: 0.006736
+Alignment Length: 101
+Percentage Identity: 0.188
+
+=== A0A7W1NNZ5 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MBA3870113.1};
+Bit Score: 141.0
+E-value: 0.006736
+Alignment Length: 103
+Percentage Identity: 0.165
+
+=== A0A845DVQ5 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MYL21763.1};
+Bit Score: 140.0
+E-value: 0.006736
+Alignment Length: 85
+Percentage Identity: 0.211
+
+=== A0A3D1QA81 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HCF49655.1};
+Bit Score: 136.0
+E-value: 0.006736
+Alignment Length: 105
+Percentage Identity: 0.171
+
+=== A0A3B8I4M2 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 133.0
+E-value: 0.006736
+Alignment Length: 106
+Percentage Identity: 0.16
+
+=== A0A3D5K2J9 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HCW00376.1};
+Bit Score: 131.0
+E-value: 0.006736
+Alignment Length: 105
+Percentage Identity: 0.18
+
+=== A0A3M0XQP2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RMD61476.1};
+DE   Flags: Fragment;
+Bit Score: 130.0
+E-value: 0.006736
+Alignment Length: 104
+Percentage Identity: 0.201
+
+=== A0A2D7ACV4 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MAH85519.1};
+Bit Score: 129.0
+E-value: 0.006736
+Alignment Length: 113
+Percentage Identity: 0.23
+
+=== A0A250VVA4 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:GAX58198.1};
+Bit Score: 129.0
+E-value: 0.006736
+Alignment Length: 109
+Percentage Identity: 0.155
+
+=== A0A2E5MVX0 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MBH88914.1};
+Bit Score: 128.0
+E-value: 0.006736
+Alignment Length: 105
+Percentage Identity: 0.228
+
+=== A0A1W6ZMC6 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:ARP97924.1};
+Bit Score: 125.0
+E-value: 0.006736
+Alignment Length: 105
+Percentage Identity: 0.228
+
+=== A0A2E7XGC8 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MBP18882.1};
+Bit Score: 124.0
+E-value: 0.006736
+Alignment Length: 97
+Percentage Identity: 0.164
+
+=== A0A0R2FUZ8 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 124.0
+E-value: 0.006736
+Alignment Length: 109
+Percentage Identity: 0.146
+
+=== A0A7K2FHB1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MYQ44998.1};
+Bit Score: 123.0
+E-value: 0.006736
+Alignment Length: 109
+Percentage Identity: 0.174
+
+=== V1CKF4 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:ESE30572.1};
+Bit Score: 115.0
+E-value: 0.006736
+Alignment Length: 112
+Percentage Identity: 0.142
+
+=== A0A1H7TIA0 ===
+DE   RecName: Full=IclR helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 153.0
+E-value: 0.007152
+Alignment Length: 79
+Percentage Identity: 0.202
+
+=== R7K9E3 ===
+DE   SubName: Full=Transcriptional regulator MarR family {ECO:0000313|EMBL:CDE71682.1};
+Bit Score: 139.0
+E-value: 0.007152
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== D2B1M9 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 133.0
+E-value: 0.007152
+Alignment Length: 103
+Percentage Identity: 0.155
+
+=== A0A161LLI0 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:GAT70384.1};
+Bit Score: 132.0
+E-value: 0.007152
+Alignment Length: 111
+Percentage Identity: 0.189
+
+=== A0A2E4SSZ4 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 131.0
+E-value: 0.007152
+Alignment Length: 105
+Percentage Identity: 0.18
+
+=== A0A4Z0RAT5 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TGE39389.1};
+Bit Score: 131.0
+E-value: 0.007152
+Alignment Length: 109
+Percentage Identity: 0.165
+
+=== A0A2T4Z063 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:PTM52861.1};
+Bit Score: 129.0
+E-value: 0.007152
+Alignment Length: 111
+Percentage Identity: 0.135
+
+=== A0A522GG99 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TAL77454.1};
+Bit Score: 121.0
+E-value: 0.007152
+Alignment Length: 105
+Percentage Identity: 0.219
+
+=== A0A0Q9TBC4 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 154.0
+E-value: 0.007594
+Alignment Length: 83
+Percentage Identity: 0.18
+
+=== A0A5B7ZUQ9 ===
+DE   RecName: Full=Transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 143.0
+E-value: 0.007594
+Alignment Length: 87
+Percentage Identity: 0.149
+
+=== A0A4P6TRM2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:QBJ89262.1};
+Bit Score: 139.0
+E-value: 0.007594
+Alignment Length: 89
+Percentage Identity: 0.224
+
+=== A0A7X7ZQN6 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NLH92048.1};
+Bit Score: 137.0
+E-value: 0.007594
+Alignment Length: 85
+Percentage Identity: 0.164
+
+=== A0A143BN58 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 132.0
+E-value: 0.007594
+Alignment Length: 107
+Percentage Identity: 0.158
+
+=== A0A0P1H3P4 ===
+DE   SubName: Full=Transcriptional regulator SlyA {ECO:0000313|EMBL:CUH89484.1};
+Bit Score: 129.0
+E-value: 0.007594
+Alignment Length: 108
+Percentage Identity: 0.148
+
+=== A0A1Y4HIV7 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 127.0
+E-value: 0.007594
+Alignment Length: 99
+Percentage Identity: 0.141
+
+=== Q2BWY7 ===
+DE   SubName: Full=Hypothetical transcriptional regulator {ECO:0000313|EMBL:EAR53295.1};
+Bit Score: 127.0
+E-value: 0.007594
+Alignment Length: 105
+Percentage Identity: 0.114
+
+=== A0A357ZET2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HBT95768.1};
+Bit Score: 126.0
+E-value: 0.007594
+Alignment Length: 107
+Percentage Identity: 0.093
+
+=== A0A2T1HYZ5 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PSC06834.1};
+Bit Score: 124.0
+E-value: 0.007594
+Alignment Length: 105
+Percentage Identity: 0.2
+
+=== A0A519QV74 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 120.0
+E-value: 0.007594
+Alignment Length: 117
+Percentage Identity: 0.179
+
+=== A0A3R8K6A1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RRJ95409.1};
+Bit Score: 119.0
+E-value: 0.007594
+Alignment Length: 105
+Percentage Identity: 0.133
+
+=== A0A317H980 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PWT75978.1};
+Bit Score: 117.0
+E-value: 0.007594
+Alignment Length: 106
+Percentage Identity: 0.15
+
+=== A0A0U3MAH7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ALV05289.1};
+Bit Score: 152.0
+E-value: 0.008062
+Alignment Length: 79
+Percentage Identity: 0.189
+
+=== A0A1I0SM45 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SFA39836.1};
+Bit Score: 126.0
+E-value: 0.008062
+Alignment Length: 105
+Percentage Identity: 0.18
+
+=== A0A3D3Z6D0 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HCP64864.1};
+Bit Score: 126.0
+E-value: 0.008062
+Alignment Length: 108
+Percentage Identity: 0.148
+
+=== A0A7Z0EPJ3 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:NYJ35592.1};
+Bit Score: 124.0
+E-value: 0.008062
+Alignment Length: 108
+Percentage Identity: 0.129
+
+=== A0A2T2WZD4 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 118.0
+E-value: 0.008062
+Alignment Length: 107
+Percentage Identity: 0.121
+
+=== A0A4Y3HSV2 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 115.0
+E-value: 0.008062
+Alignment Length: 110
+Percentage Identity: 0.19
+
+=== A0A2H6AZP5 ===
+DE   SubName: Full=Putative HTH-type transcriptional regulator {ECO:0000313|EMBL:GBD43409.1};
+Bit Score: 113.0
+E-value: 0.008062
+Alignment Length: 113
+Percentage Identity: 0.256
+
+=== A0A537UZ04 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TMK11344.1};
+Bit Score: 110.0
+E-value: 0.008062
+Alignment Length: 112
+Percentage Identity: 0.187
+
+=== A0A2G9CCF8 ===
+DE   RecName: Full=HTH iclR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 148.0
+E-value: 0.00856
+Alignment Length: 78
+Percentage Identity: 0.179
+
+=== A0A176J5U8 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 147.0
+E-value: 0.00856
+Alignment Length: 85
+Percentage Identity: 0.141
+
+=== A0A7C7W4Y0 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HIE67446.1};
+Bit Score: 145.0
+E-value: 0.00856
+Alignment Length: 88
+Percentage Identity: 0.215
+
+=== A0A378X2Z6 ===
+DE   SubName: Full=Uncharacterized HTH-type transcriptional regulator yusO {ECO:0000313|EMBL:SUA47104.1};
+Bit Score: 132.0
+E-value: 0.00856
+Alignment Length: 108
+Percentage Identity: 0.129
+
+=== A0A2P5P9L0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PPD58970.1};
+Bit Score: 121.0
+E-value: 0.00856
+Alignment Length: 108
+Percentage Identity: 0.203
+
+=== A0A4Y8WCB1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TFH89921.1};
+Bit Score: 111.0
+E-value: 0.00856
+Alignment Length: 110
+Percentage Identity: 0.181
+
+=== A0A166CK16 ===
+DE   SubName: Full=Transcriptional regulator HosA {ECO:0000313|EMBL:KZL23787.1};
+Bit Score: 105.0
+E-value: 0.00856
+Alignment Length: 107
+Percentage Identity: 0.177
+
+=== A0A7Y2PY85 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NNH03056.1};
+Bit Score: 147.0
+E-value: 0.009088
+Alignment Length: 86
+Percentage Identity: 0.197
+
+=== A0A165UAW7 ===
+DE   SubName: Full=Organic hydroperoxide resistance transcriptional regulator {ECO:0000313|EMBL:KZL10825.1};
+Bit Score: 146.0
+E-value: 0.009088
+Alignment Length: 81
+Percentage Identity: 0.185
+
+=== A0A1Q6DT61 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:OKY77554.1};
+Bit Score: 136.0
+E-value: 0.009088
+Alignment Length: 93
+Percentage Identity: 0.15
+
+=== A0A1B9YJX9 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 132.0
+E-value: 0.009088
+Alignment Length: 109
+Percentage Identity: 0.183
+
+=== A0A7Y3PDP0 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NNN09764.1};
+Bit Score: 130.0
+E-value: 0.009088
+Alignment Length: 106
+Percentage Identity: 0.179
+
+=== A0A519IB88 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 128.0
+E-value: 0.009088
+Alignment Length: 84
+Percentage Identity: 0.154
+
+=== A0A2V7PXW6 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PYP43367.1};
+Bit Score: 125.0
+E-value: 0.009088
+Alignment Length: 107
+Percentage Identity: 0.14
+
+=== A0A3A4U1P3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RJQ08379.1};
+Bit Score: 124.0
+E-value: 0.009088
+Alignment Length: 123
+Percentage Identity: 0.154
+
+=== A0A3C0ETK4 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 123.0
+E-value: 0.009088
+Alignment Length: 110
+Percentage Identity: 0.2
+
+=== A0A558D3Z9 ===
+DE   SubName: Full=Winged helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:TVT55732.1};
+Bit Score: 112.0
+E-value: 0.009088
+Alignment Length: 105
+Percentage Identity: 0.209
+
+=== A0A523G1N9 ===
+DE   RecName: Full=HTH iclR-type domain-containing protein {ECO:0000259|Pfam:PF09339};
+Bit Score: 112.0
+E-value: 0.009088
+Alignment Length: 117
+Percentage Identity: 0.162
+
+=== R6CC08 ===
+DE   SubName: Full=Transcription regulator {ECO:0000313|EMBL:CDA73130.1};
+Bit Score: 104.0
+E-value: 0.009088
+Alignment Length: 115
+Percentage Identity: 0.156
+
+=== A0A4U8VC66 ===
+DE   SubName: Full=Winged helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:TMS57402.1};
+Bit Score: 148.0
+E-value: 0.00965
+Alignment Length: 85
+Percentage Identity: 0.176
+
+=== A0A1Z3LYB3 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 141.0
+E-value: 0.00965
+Alignment Length: 109
+Percentage Identity: 0.22
+
+=== A0A1B3W8E5 ===
+DE   RecName: Full=Transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 141.0
+E-value: 0.00965
+Alignment Length: 78
+Percentage Identity: 0.179
+
+=== E3J8X1 ===
+DE   SubName: Full=GCN5-related N-acetyltransferase {ECO:0000313|EMBL:ADP79704.1};
+Bit Score: 137.0
+E-value: 0.00965
+Alignment Length: 85
+Percentage Identity: 0.27
+
+=== A0A1P8JTJ7 ===
+DE   RecName: Full=HTH iclR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.00965
+Alignment Length: 79
+Percentage Identity: 0.189
+
+=== A0A314VRX4 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PQM57385.1};
+Bit Score: 126.0
+E-value: 0.00965
+Alignment Length: 111
+Percentage Identity: 0.162
+
+=== A0A329QK08 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RAW12603.1};
+Bit Score: 125.0
+E-value: 0.00965
+Alignment Length: 111
+Percentage Identity: 0.153
+
+=== A0A0Q4WF92 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KQO86583.1};
+Bit Score: 122.0
+E-value: 0.00965
+Alignment Length: 115
+Percentage Identity: 0.182
+
+=== A0A0A1Q0S2 ===
+DE   SubName: Full=MarR family protein {ECO:0000313|EMBL:CEJ14436.1};
+Bit Score: 121.0
+E-value: 0.00965
+Alignment Length: 105
+Percentage Identity: 0.228
+
+=== A0A6M8HSU3 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|SMART:SM00347};
+Bit Score: 109.0
+E-value: 0.00965
+Alignment Length: 113
+Percentage Identity: 0.203
+
+=== A0A1F8VB54 ===
+DE   RecName: Full=HTH iclR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 147.0
+E-value: 0.01025
+Alignment Length: 86
+Percentage Identity: 0.127
+
+=== A0A4V2WLY3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TCZ65347.1};
+Bit Score: 137.0
+E-value: 0.01025
+Alignment Length: 74
+Percentage Identity: 0.324
+
+=== A0A2A5EWX0 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PCJ72361.1};
+Bit Score: 126.0
+E-value: 0.01025
+Alignment Length: 103
+Percentage Identity: 0.116
+
+=== A0A318BHZ1 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 125.0
+E-value: 0.01025
+Alignment Length: 92
+Percentage Identity: 0.217
+
+=== A0A0R2CKI7 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 125.0
+E-value: 0.01025
+Alignment Length: 110
+Percentage Identity: 0.181
+
+=== A0A524QSA1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TFH59113.1};
+Bit Score: 122.0
+E-value: 0.01025
+Alignment Length: 107
+Percentage Identity: 0.168
+
+=== A0A7C7D8U8 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HHY31458.1};
+Bit Score: 121.0
+E-value: 0.01025
+Alignment Length: 108
+Percentage Identity: 0.166
+
+=== A0A7Y8BQ37 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NWB83778.1};
+Bit Score: 119.0
+E-value: 0.01025
+Alignment Length: 107
+Percentage Identity: 0.186
+
+=== W7T2Q9 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:EWM15029.1};
+Bit Score: 119.0
+E-value: 0.01025
+Alignment Length: 106
+Percentage Identity: 0.179
+
+=== A0A4R6K6L3 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:TDO45173.1};
+Bit Score: 114.0
+E-value: 0.01025
+Alignment Length: 107
+Percentage Identity: 0.121
+
+=== A0A2U1CKZ2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PVY61662.1};
+Bit Score: 138.0
+E-value: 0.01088
+Alignment Length: 104
+Percentage Identity: 0.153
+
+=== A0A4R6N4V6 ===
+DE   RecName: Full=IclR-like helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 132.0
+E-value: 0.01088
+Alignment Length: 83
+Percentage Identity: 0.168
+
+=== A0A1C6GB68 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 129.0
+E-value: 0.01088
+Alignment Length: 85
+Percentage Identity: 0.141
+
+=== A0A166F9U0 ===
+DE   SubName: Full=Transcriptional regulator SlyA {ECO:0000313|EMBL:KZL28955.1};
+Bit Score: 128.0
+E-value: 0.01088
+Alignment Length: 104
+Percentage Identity: 0.173
+
+=== E8RQQ1 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:ADU13279.1};
+Bit Score: 128.0
+E-value: 0.01088
+Alignment Length: 108
+Percentage Identity: 0.138
+
+=== A0A0P6YHM5 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 127.0
+E-value: 0.01088
+Alignment Length: 103
+Percentage Identity: 0.135
+
+=== A0A389MBR2 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 126.0
+E-value: 0.01088
+Alignment Length: 108
+Percentage Identity: 0.166
+
+=== I7JXP1 ===
+DE   SubName: Full=Putative transcriptional regulator {ECO:0000313|EMBL:CCI84840.1};
+Bit Score: 126.0
+E-value: 0.01088
+Alignment Length: 105
+Percentage Identity: 0.152
+
+=== A0A1S8CC65 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 124.0
+E-value: 0.01088
+Alignment Length: 108
+Percentage Identity: 0.175
+
+=== A0A4R5TZ07 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TDK26497.1};
+Bit Score: 122.0
+E-value: 0.01088
+Alignment Length: 109
+Percentage Identity: 0.201
+
+=== A0A365GYP8 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RAY11959.1};
+Bit Score: 120.0
+E-value: 0.01088
+Alignment Length: 110
+Percentage Identity: 0.227
+
+=== A0A506R899 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TPV54299.1};
+Bit Score: 120.0
+E-value: 0.01088
+Alignment Length: 109
+Percentage Identity: 0.165
+
+=== A0A7V0RKP6 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:HDO52572.1};
+Bit Score: 120.0
+E-value: 0.01088
+Alignment Length: 103
+Percentage Identity: 0.165
+
+=== A0A4P8QK73 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.01088
+Alignment Length: 120
+Percentage Identity: 0.191
+
+=== A0A1H1U6E9 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:SDS68090.1};
+Bit Score: 107.0
+E-value: 0.01088
+Alignment Length: 112
+Percentage Identity: 0.187
+
+=== A0A510TDI7 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:GEJ98860.1};
+Bit Score: 138.0
+E-value: 0.01155
+Alignment Length: 86
+Percentage Identity: 0.174
+
+=== A0A1V3G9P1 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 130.0
+E-value: 0.01155
+Alignment Length: 96
+Percentage Identity: 0.135
+
+=== A0A2U8VYG2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:AWN38817.1};
+Bit Score: 128.0
+E-value: 0.01155
+Alignment Length: 107
+Percentage Identity: 0.186
+
+=== A0A1Y5TIX3 ===
+DE   SubName: Full=MarR family protein {ECO:0000313|EMBL:SLN65165.1};
+Bit Score: 125.0
+E-value: 0.01155
+Alignment Length: 105
+Percentage Identity: 0.133
+
+=== A0A7G6YDT0 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:QNE36645.1};
+Bit Score: 109.0
+E-value: 0.01155
+Alignment Length: 108
+Percentage Identity: 0.185
+
+=== A0A0Q7T5A3 ===
+DE   RecName: Full=HTH iclR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 130.0
+E-value: 0.01226
+Alignment Length: 73
+Percentage Identity: 0.246
+
+=== A0A1A9J1Q7 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 119.0
+E-value: 0.01226
+Alignment Length: 108
+Percentage Identity: 0.157
+
+=== A0A4Q3XSG7 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.01226
+Alignment Length: 108
+Percentage Identity: 0.203
+
+=== A0A2N1PED2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PKK86648.1};
+DE   Flags: Fragment;
+Bit Score: 140.0
+E-value: 0.01302
+Alignment Length: 85
+Percentage Identity: 0.2
+
+=== A0A258I218 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:OYX62944.1};
+Bit Score: 122.0
+E-value: 0.01302
+Alignment Length: 105
+Percentage Identity: 0.2
+
+=== A0A6C1PG98 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TVQ20218.1};
+Bit Score: 118.0
+E-value: 0.01302
+Alignment Length: 107
+Percentage Identity: 0.205
+
+=== A0A1I4Y9X7 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SFN34877.1};
+Bit Score: 107.0
+E-value: 0.01302
+Alignment Length: 111
+Percentage Identity: 0.234
+
+=== A0A0B1Q380 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:KHJ53362.1};
+Bit Score: 130.0
+E-value: 0.01382
+Alignment Length: 74
+Percentage Identity: 0.162
+
+=== A0A4S8P4Q4 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 123.0
+E-value: 0.01382
+Alignment Length: 71
+Percentage Identity: 0.394
+
+=== I4B8R9 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:AFM13676.1};
+Bit Score: 122.0
+E-value: 0.01382
+Alignment Length: 107
+Percentage Identity: 0.177
+
+=== A0A6J4NB61 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:CAA9382911.1};
+Bit Score: 117.0
+E-value: 0.01382
+Alignment Length: 111
+Percentage Identity: 0.171
+
+=== A0A1M7Y3G7 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SHO46731.1};
+Bit Score: 113.0
+E-value: 0.01382
+Alignment Length: 108
+Percentage Identity: 0.194
+
+=== A0A1Z9J168 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 110.0
+E-value: 0.01382
+Alignment Length: 106
+Percentage Identity: 0.16
+
+=== A0A6G2RV85 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MYT30027.1};
+Bit Score: 130.0
+E-value: 0.01468
+Alignment Length: 85
+Percentage Identity: 0.176
+
+=== A0A1E3W206 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:ODR99783.1};
+Bit Score: 114.0
+E-value: 0.01468
+Alignment Length: 109
+Percentage Identity: 0.183
+
+=== A0A1Q6DVG0 ===
+DE   SubName: Full=DNA-binding transcriptional regulator HxlR family {ECO:0000313|EMBL:OKY78359.1};
+Bit Score: 129.0
+E-value: 0.01558
+Alignment Length: 93
+Percentage Identity: 0.161
+
+=== A0A1G8D0X7 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:SDH51468.1};
+Bit Score: 123.0
+E-value: 0.01558
+Alignment Length: 104
+Percentage Identity: 0.182
+
+=== K2I2V1 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 119.0
+E-value: 0.01558
+Alignment Length: 109
+Percentage Identity: 0.22
+
+=== A0A1R0KV16 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:OLZ52489.1};
+Bit Score: 117.0
+E-value: 0.01558
+Alignment Length: 110
+Percentage Identity: 0.172
+
+=== A0A1J4NN57 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 111.0
+E-value: 0.01558
+Alignment Length: 116
+Percentage Identity: 0.172
+
+=== A0A7V7PSL3 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:KAB0682058.1};
+Bit Score: 111.0
+E-value: 0.01558
+Alignment Length: 113
+Percentage Identity: 0.123
+
+=== A0A151EJ83 ===
+DE   RecName: Full=Transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 97.0
+E-value: 0.01558
+Alignment Length: 110
+Percentage Identity: 0.163
+
+=== A0A1G0ICM3 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 116.0
+E-value: 0.01654
+Alignment Length: 89
+Percentage Identity: 0.202
+
+=== A0A0N0JYE9 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 116.0
+E-value: 0.01654
+Alignment Length: 87
+Percentage Identity: 0.172
+
+=== A0A1Z3U4F9 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.01654
+Alignment Length: 118
+Percentage Identity: 0.194
+
+=== A0A3N5JQ95 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RPH98960.1};
+Bit Score: 111.0
+E-value: 0.01654
+Alignment Length: 102
+Percentage Identity: 0.166
+
+=== A0A1N7DUS2 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SIR79563.1};
+Bit Score: 102.0
+E-value: 0.01654
+Alignment Length: 110
+Percentage Identity: 0.209
+
+=== A0A437M0S2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RVT91291.1};
+Bit Score: 126.0
+E-value: 0.01756
+Alignment Length: 113
+Percentage Identity: 0.212
+
+=== A0A1H9Q2E5 ===
+DE   SubName: Full=MarR family protein {ECO:0000313|EMBL:SER54631.1};
+Bit Score: 126.0
+E-value: 0.01756
+Alignment Length: 106
+Percentage Identity: 0.122
+
+=== A0A2N3EDS6 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|SMART:SM00347};
+Bit Score: 123.0
+E-value: 0.01756
+Alignment Length: 115
+Percentage Identity: 0.139
+
+=== A0A0Q6TN58 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KQV50269.1};
+Bit Score: 121.0
+E-value: 0.01756
+Alignment Length: 73
+Percentage Identity: 0.205
+
+=== A0A254NIH1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OWR04703.1};
+Bit Score: 119.0
+E-value: 0.01756
+Alignment Length: 73
+Percentage Identity: 0.205
+
+=== A0A4R3LX29 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:TCT03245.1};
+Bit Score: 118.0
+E-value: 0.01756
+Alignment Length: 105
+Percentage Identity: 0.209
+
+=== D1YGW7 ===
+DE   RecName: Full=Transcriptional regulator, MarR family {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.01756
+Alignment Length: 106
+Percentage Identity: 0.15
+
+=== A0A1G6XBR2 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:SDD75620.1};
+Bit Score: 115.0
+E-value: 0.01756
+Alignment Length: 105
+Percentage Identity: 0.238
+
+=== A0A3A9XS48 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RKN27948.1};
+Bit Score: 110.0
+E-value: 0.01756
+Alignment Length: 106
+Percentage Identity: 0.226
+
+=== A0A7Y7TIW8 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NVN93996.1};
+Bit Score: 137.0
+E-value: 0.01865
+Alignment Length: 85
+Percentage Identity: 0.176
+
+=== A0A2P7SLE1 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 134.0
+E-value: 0.01865
+Alignment Length: 86
+Percentage Identity: 0.162
+
+=== A0A7S9CCI9 ===
+DE   RecName: Full=FdhD protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.01865
+Alignment Length: 78
+Percentage Identity: 0.192
+
+=== A0A257CTQ5 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:OYT92745.1};
+Bit Score: 130.0
+E-value: 0.01865
+Alignment Length: 81
+Percentage Identity: 0.209
+
+=== A0A3M8DU96 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RNB90931.1};
+Bit Score: 124.0
+E-value: 0.01865
+Alignment Length: 108
+Percentage Identity: 0.129
+
+=== A0A7Y7DC21 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NVK46773.1};
+Bit Score: 116.0
+E-value: 0.01865
+Alignment Length: 107
+Percentage Identity: 0.13
+
+=== B1ZWU2 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:ACB74219.1};
+Bit Score: 115.0
+E-value: 0.01865
+Alignment Length: 86
+Percentage Identity: 0.209
+
+=== A0A5A7RZT2 ===
+DE   RecName: Full=ArnR1-like winged helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 94.0
+E-value: 0.01865
+Alignment Length: 108
+Percentage Identity: 0.138
+
+=== A0A430F7Z0 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|SMART:SM00347};
+Bit Score: 138.0
+E-value: 0.0198
+Alignment Length: 85
+Percentage Identity: 0.152
+
+=== A0A0Q9EWF1 ===
+DE   RecName: Full=FdhD protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 127.0
+E-value: 0.0198
+Alignment Length: 86
+Percentage Identity: 0.197
+
+=== A0A6B9G1R6 ===
+DE   SubName: Full=Winged helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:QGY05875.1};
+Bit Score: 126.0
+E-value: 0.0198
+Alignment Length: 106
+Percentage Identity: 0.15
+
+=== A0A0R2MW14 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 122.0
+E-value: 0.0198
+Alignment Length: 85
+Percentage Identity: 0.176
+
+=== A0A1M3P600 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|SMART:SM00347};
+Bit Score: 119.0
+E-value: 0.0198
+Alignment Length: 86
+Percentage Identity: 0.151
+
+=== A0A385SN17 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 117.0
+E-value: 0.0198
+Alignment Length: 106
+Percentage Identity: 0.141
+
+=== A0A6J4NGE4 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:CAA9387137.1};
+Bit Score: 116.0
+E-value: 0.0198
+Alignment Length: 108
+Percentage Identity: 0.231
+
+=== A0A0X3X3T9 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|Pfam:PF12802};
+Bit Score: 116.0
+E-value: 0.0198
+Alignment Length: 102
+Percentage Identity: 0.205
+
+=== A0A4V1KWB4 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RXG95731.1};
+Bit Score: 114.0
+E-value: 0.0198
+Alignment Length: 108
+Percentage Identity: 0.083
+
+=== A0A7W0EX82 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MBA3028760.1};
+Bit Score: 111.0
+E-value: 0.0198
+Alignment Length: 107
+Percentage Identity: 0.158
+
+=== A0A6V7R318 ===
+DE   SubName: Full=HTH-type transcriptional regulator MhqR {ECO:0000313|EMBL:CAD2071413.1};
+Bit Score: 110.0
+E-value: 0.0198
+Alignment Length: 108
+Percentage Identity: 0.175
+
+=== A0A1J5NAJ5 ===
+DE   SubName: Full=HTH-type transcriptional regulator MhqR {ECO:0000313|EMBL:OIQ09594.1};
+Bit Score: 105.0
+E-value: 0.0198
+Alignment Length: 118
+Percentage Identity: 0.186
+
+=== A9AVB6 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:ABX04607.1};
+Bit Score: 105.0
+E-value: 0.0198
+Alignment Length: 111
+Percentage Identity: 0.18
+
+=== A0A372LW11 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RFU82570.1};
+Bit Score: 131.0
+E-value: 0.02102
+Alignment Length: 85
+Percentage Identity: 0.117
+
+=== A0A257PVE2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:OYV40425.1};
+Bit Score: 130.0
+E-value: 0.02102
+Alignment Length: 74
+Percentage Identity: 0.202
+
+=== A0A258SKG4 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 122.0
+E-value: 0.02102
+Alignment Length: 86
+Percentage Identity: 0.186
+
+=== A0A2R7TBW0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PTT92030.1};
+Bit Score: 122.0
+E-value: 0.02102
+Alignment Length: 80
+Percentage Identity: 0.15
+
+=== A0A3N5BYE0 ===
+DE   SubName: Full=MarR family 2-MHQ and catechol resistance regulon transcriptional repressor {ECO:0000313|EMBL:RPF54828.1};
+Bit Score: 121.0
+E-value: 0.02102
+Alignment Length: 107
+Percentage Identity: 0.102
+
+=== A0A1S1BQE2 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 117.0
+E-value: 0.02102
+Alignment Length: 106
+Percentage Identity: 0.179
+
+=== A0A431JQ32 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.02102
+Alignment Length: 90
+Percentage Identity: 0.2
+
+=== A0A6H9HLL9 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 136.0
+E-value: 0.02232
+Alignment Length: 84
+Percentage Identity: 0.166
+
+=== C7Q9L3 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:ACU76182.1};
+Bit Score: 119.0
+E-value: 0.02232
+Alignment Length: 107
+Percentage Identity: 0.149
+
+=== A0A191WCC0 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 118.0
+E-value: 0.02232
+Alignment Length: 87
+Percentage Identity: 0.183
+
+=== A0A849IKC7 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NNM74393.1};
+Bit Score: 111.0
+E-value: 0.02232
+Alignment Length: 105
+Percentage Identity: 0.209
+
+=== A0A3N4SKH9 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:RPE46176.1};
+Bit Score: 111.0
+E-value: 0.02232
+Alignment Length: 111
+Percentage Identity: 0.171
+
+=== A0A202FCS1 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|SMART:SM00347};
+Bit Score: 111.0
+E-value: 0.02232
+Alignment Length: 105
+Percentage Identity: 0.133
+
+=== G5ZZD6 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:EHI47821.1};
+Bit Score: 110.0
+E-value: 0.02232
+Alignment Length: 113
+Percentage Identity: 0.238
+
+=== G1V7V5 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 106.0
+E-value: 0.02232
+Alignment Length: 105
+Percentage Identity: 0.152
+
+=== A0A2E1CVK7 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MAU41189.1};
+Bit Score: 101.0
+E-value: 0.02232
+Alignment Length: 108
+Percentage Identity: 0.259
+
+=== A0A318SHZ9 ===
+DE   RecName: Full=FdhD protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 131.0
+E-value: 0.0237
+Alignment Length: 85
+Percentage Identity: 0.152
+
+=== A0A0Q6WEL5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KQV85735.1};
+Bit Score: 126.0
+E-value: 0.0237
+Alignment Length: 65
+Percentage Identity: 0.2
+
+=== A0A4Y3W7K5 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:GEC14568.1};
+Bit Score: 117.0
+E-value: 0.0237
+Alignment Length: 105
+Percentage Identity: 0.219
+
+=== A0A1H9AK94 ===
+DE   SubName: Full=Transcriptional regulator, MarR family {ECO:0000313|EMBL:SEP77079.1};
+Bit Score: 116.0
+E-value: 0.0237
+Alignment Length: 107
+Percentage Identity: 0.177
+
+=== A0A1N7LWZ1 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SIS78221.1};
+Bit Score: 114.0
+E-value: 0.0237
+Alignment Length: 107
+Percentage Identity: 0.13
+
+=== A0A4R2HEB0 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:TCO26377.1};
+Bit Score: 114.0
+E-value: 0.0237
+Alignment Length: 107
+Percentage Identity: 0.112
+
+=== A0A2S5W7V9 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PPF90129.1};
+Bit Score: 102.0
+E-value: 0.0237
+Alignment Length: 114
+Percentage Identity: 0.192
+
+=== A0A3M1WU99 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RMG57096.1};
+Bit Score: 123.0
+E-value: 0.02516
+Alignment Length: 96
+Percentage Identity: 0.187
+
+=== A0A257GY14 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 107.0
+E-value: 0.02516
+Alignment Length: 111
+Percentage Identity: 0.162
+
+=== A0A1M6GZ22 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SHJ15180.1};
+Bit Score: 127.0
+E-value: 0.02671
+Alignment Length: 74
+Percentage Identity: 0.27
+
+=== A0A351M0R1 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+DE   Flags: Fragment;
+Bit Score: 116.0
+E-value: 0.02671
+Alignment Length: 86
+Percentage Identity: 0.22
+
+=== A0A6I7Y8V2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TXS03746.1};
+Bit Score: 109.0
+E-value: 0.02671
+Alignment Length: 108
+Percentage Identity: 0.231
+
+=== A0A6G2MEU2 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MYQ80064.1};
+Bit Score: 121.0
+E-value: 0.02836
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== A0A0G3XAT7 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 115.0
+E-value: 0.02836
+Alignment Length: 84
+Percentage Identity: 0.142
+
+=== A0A5R8YDG4 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TLP48328.1};
+Bit Score: 111.0
+E-value: 0.02836
+Alignment Length: 105
+Percentage Identity: 0.18
+
+=== A0A1H5NSX6 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SEF04695.1};
+Bit Score: 109.0
+E-value: 0.02836
+Alignment Length: 108
+Percentage Identity: 0.212
+
+=== A0A6I5I6Q1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MYY06255.1};
+Bit Score: 120.0
+E-value: 0.03011
+Alignment Length: 89
+Percentage Identity: 0.235
+
+=== A0A0Q8GMF0 ===
+DE   RecName: Full=DprA winged helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.03011
+Alignment Length: 74
+Percentage Identity: 0.202
+
+=== A0A239YID6 ===
+DE   SubName: Full=Accessory regulator R {ECO:0000313|EMBL:SNV58472.1};
+Bit Score: 111.0
+E-value: 0.03011
+Alignment Length: 105
+Percentage Identity: 0.142
+
+=== A0A4R8GYU0 ===
+DE   RecName: Full=Winged helix DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 110.0
+E-value: 0.03011
+Alignment Length: 91
+Percentage Identity: 0.175
+
+=== A0A285R8K4 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SOB90088.1};
+Bit Score: 109.0
+E-value: 0.03011
+Alignment Length: 105
+Percentage Identity: 0.219
+
+=== A0A3S3VQ96 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RWX79395.1};
+Bit Score: 103.0
+E-value: 0.03011
+Alignment Length: 113
+Percentage Identity: 0.203
+
+=== A0A2D4VI00 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 100.0
+E-value: 0.03011
+Alignment Length: 104
+Percentage Identity: 0.211
+
+=== A0A378NP58 ===
+DE   SubName: Full=Organic hydroperoxide resistance transcriptional regulator {ECO:0000313|EMBL:STY70141.1};
+Bit Score: 129.0
+E-value: 0.03197
+Alignment Length: 85
+Percentage Identity: 0.117
+
+=== A0A4Q6VG57 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RZF04423.1};
+Bit Score: 119.0
+E-value: 0.03197
+Alignment Length: 89
+Percentage Identity: 0.235
+
+=== A0A258LH79 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:OYY04299.1};
+Bit Score: 115.0
+E-value: 0.03197
+Alignment Length: 105
+Percentage Identity: 0.161
+
+=== A0A1M5UR72 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SHH65562.1};
+Bit Score: 126.0
+E-value: 0.03395
+Alignment Length: 86
+Percentage Identity: 0.162
+
+=== A0A317FHE3 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|SMART:SM00347};
+Bit Score: 126.0
+E-value: 0.03395
+Alignment Length: 121
+Percentage Identity: 0.148
+
+=== O34949 ===
+DE   RecName: Full=Uncharacterized HTH-type transcriptional regulator YkoM;
+Bit Score: 113.0
+E-value: 0.03395
+Alignment Length: 107
+Percentage Identity: 0.112
+
+=== K6XQQ4 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 109.0
+E-value: 0.03395
+Alignment Length: 112
+Percentage Identity: 0.178
+
+=== A0A841FIW9 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:MBB6033778.1};
+Bit Score: 102.0
+E-value: 0.03395
+Alignment Length: 115
+Percentage Identity: 0.2
+
+=== A0A1F9YN17 ===
+DE   RecName: Full=Transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 90.0
+E-value: 0.03395
+Alignment Length: 110
+Percentage Identity: 0.127
+
+=== A0A846UH28 ===
+DE   RecName: Full=HTH iclR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.03604
+Alignment Length: 81
+Percentage Identity: 0.135
+
+=== A0A6M5J490 ===
+DE   SubName: Full=Winged helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:QJU54006.1};
+Bit Score: 121.0
+E-value: 0.03604
+Alignment Length: 106
+Percentage Identity: 0.141
+
+=== A0A535MU37 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:TMD11360.1};
+DE   Flags: Fragment;
+Bit Score: 111.0
+E-value: 0.03604
+Alignment Length: 104
+Percentage Identity: 0.173
+
+=== A0A2E5A0Q1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:MBG31355.1};
+Bit Score: 110.0
+E-value: 0.03604
+Alignment Length: 109
+Percentage Identity: 0.128
+
+=== A0A358IW56 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.03604
+Alignment Length: 124
+Percentage Identity: 0.185
+
+=== A0A1C6L8N8 ===
+DE   SubName: Full=MarR family {ECO:0000313|EMBL:SCK02980.1};
+Bit Score: 107.0
+E-value: 0.03604
+Alignment Length: 102
+Percentage Identity: 0.107
+
+=== A0A2V7QI16 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PYP49503.1};
+Bit Score: 111.0
+E-value: 0.03827
+Alignment Length: 107
+Percentage Identity: 0.14
+
+=== A0A285PHH2 ===
+DE   SubName: Full=DNA-binding transcriptional regulator, MarR family {ECO:0000313|EMBL:SNZ20868.1};
+Bit Score: 107.0
+E-value: 0.03827
+Alignment Length: 104
+Percentage Identity: 0.192
+
+=== A0A177QL06 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:OAI47755.1};
+Bit Score: 100.0
+E-value: 0.03827
+Alignment Length: 109
+Percentage Identity: 0.183
+
+=== A0A543CF82 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:TQL95765.1};
+Bit Score: 111.0
+E-value: 0.04063
+Alignment Length: 104
+Percentage Identity: 0.163
+
+=== Q0W464 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAJ36829.1};
+Bit Score: 88.0
+E-value: 0.04063
+Alignment Length: 107
+Percentage Identity: 0.149
+
+=== A0A848EHA1 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:NMJ42758.1};
+Bit Score: 129.0
+E-value: 0.04314
+Alignment Length: 85
+Percentage Identity: 0.223
+
+=== A0A2V7R7D6 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:PYP59056.1};
+Bit Score: 110.0
+E-value: 0.04314
+Alignment Length: 107
+Percentage Identity: 0.149
+
+=== A0A3A4ACB0 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RJL24417.1};
+Bit Score: 105.0
+E-value: 0.04314
+Alignment Length: 109
+Percentage Identity: 0.22
+
+=== A0A3D9HFP2 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:RED48309.1};
+Bit Score: 100.0
+E-value: 0.04314
+Alignment Length: 112
+Percentage Identity: 0.142
+
+=== A0A2V5YRH7 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|PROSITE:PS50995};
+Bit Score: 113.0
+E-value: 0.0458
+Alignment Length: 105
+Percentage Identity: 0.18
+
+=== A0A0A8K6F4 ===
+DE   SubName: Full=HTH-type transcriptional regulator PetP {ECO:0000313|EMBL:BAQ18122.1};
+Bit Score: 105.0
+E-value: 0.0458
+Alignment Length: 103
+Percentage Identity: 0.155
+
+=== A0A1Z3U5T1 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 97.0
+E-value: 0.04863
+Alignment Length: 118
+Percentage Identity: 0.177
+

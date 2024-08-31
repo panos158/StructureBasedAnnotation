@@ -1,0 +1,56 @@
+=== A0A3A4ZYL7 ===
+DE   SubName: Full=YihY family inner membrane protein {ECO:0000313|EMBL:RJR34354.1};
+Bit Score: 61.0
+E-value: 0.01364
+Alignment Length: 161
+Percentage Identity: 0.118
+
+=== A0A2P6FF02 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PQM32012.1};
+Bit Score: 73.0
+E-value: 0.01787
+Alignment Length: 116
+Percentage Identity: 0.112
+
+=== A0A3B8PP34 ===
+DE   RecName: Full=Pectate lyase superfamily protein domain-containing protein {ECO:0000259|Pfam:PF12708};
+Bit Score: 80.0
+E-value: 0.0222
+Alignment Length: 143
+Percentage Identity: 0.153
+
+=== A0A354IBX0 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 73.0
+E-value: 0.03242
+Alignment Length: 126
+Percentage Identity: 0.126
+
+=== A0A1F8QCE8 ===
+DE   RecName: Full=ABC transporter domain-containing protein {ECO:0000259|PROSITE:PS50893};
+Bit Score: 72.0
+E-value: 0.03613
+Alignment Length: 154
+Percentage Identity: 0.123
+
+=== X0SQ21 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAF77952.1};
+Bit Score: 91.0
+E-value: 0.03814
+Alignment Length: 119
+Percentage Identity: 0.1
+
+=== A0A2W4JZ64 ===
+DE   RecName: Full=PPC domain-containing protein {ECO:0000259|PROSITE:PS51742};
+Bit Score: 55.0
+E-value: 0.0425
+Alignment Length: 152
+Percentage Identity: 0.105
+
+=== A0A5R8YAQ3 ===
+DE   SubName: Full=AraC family transcriptional regulator {ECO:0000313|EMBL:TLP45597.1};
+Bit Score: 57.0
+E-value: 0.04999
+Alignment Length: 152
+Percentage Identity: 0.111
+

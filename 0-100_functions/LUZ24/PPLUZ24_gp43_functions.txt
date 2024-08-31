@@ -1,0 +1,78 @@
+=== A0A1Z9SBB1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OUX26032.1};
+Bit Score: 237.0
+E-value: 1.694e-05
+Alignment Length: 51
+Percentage Identity: 0.529
+
+=== A0A2D7LJR2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAJ22653.1};
+Bit Score: 222.0
+E-value: 5.035e-05
+Alignment Length: 57
+Percentage Identity: 0.508
+
+=== A0A2D8XAZ1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAN60608.1};
+Bit Score: 219.0
+E-value: 6.611e-05
+Alignment Length: 60
+Percentage Identity: 0.4
+
+=== A0A2D9C8L5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAO21020.1};
+Bit Score: 205.0
+E-value: 7.077e-05
+Alignment Length: 59
+Percentage Identity: 0.44
+
+=== A0A351GEV9 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 169.0
+E-value: 0.0008793
+Alignment Length: 55
+Percentage Identity: 0.472
+
+=== A0A2E0BGH5 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 165.0
+E-value: 0.001155
+Alignment Length: 56
+Percentage Identity: 0.482
+
+=== A0A2D9C5X0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAO20080.1};
+Bit Score: 145.0
+E-value: 0.001416
+Alignment Length: 64
+Percentage Identity: 0.437
+
+=== A0A382SWI9 ===
+DE   RecName: Full=PD(D/E)XK endonuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 143.0
+E-value: 0.001737
+Alignment Length: 65
+Percentage Identity: 0.43
+
+=== A0A7C7GU37 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 165.0
+E-value: 0.00186
+Alignment Length: 55
+Percentage Identity: 0.472
+
+=== A0A3C0GL13 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 159.0
+E-value: 0.002131
+Alignment Length: 56
+Percentage Identity: 0.482
+
+=== A0A2E7C0F3 ===
+DE   RecName: Full=Endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.0134
+Alignment Length: 51
+Percentage Identity: 0.431
+

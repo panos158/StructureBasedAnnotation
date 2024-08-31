@@ -1,0 +1,197 @@
+=== A0A136QBI2 ===
+DE   RecName: Full=WYL domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 563.0
+E-value: 1.312e-12
+Alignment Length: 94
+Percentage Identity: 0.734
+
+=== A0A523XKW4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TET79943.1};
+Bit Score: 206.0
+E-value: 0.0005052
+Alignment Length: 82
+Percentage Identity: 0.292
+
+=== A0A2D5H4A7 ===
+DE   RecName: Full=50S ribosomal protein L32 {ECO:0008006|Google:ProtNLM};
+Bit Score: 183.0
+E-value: 0.0005946
+Alignment Length: 95
+Percentage Identity: 0.231
+
+=== A0A382DG14 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SVB36557.1};
+Bit Score: 188.0
+E-value: 0.0006278
+Alignment Length: 83
+Percentage Identity: 0.265
+
+=== A0A3M2BKJ6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RMH15097.1};
+Bit Score: 184.0
+E-value: 0.0006998
+Alignment Length: 94
+Percentage Identity: 0.276
+
+=== A0A350I8K6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HAW04123.1};
+Bit Score: 178.0
+E-value: 0.0009182
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== A0A2G2MLX2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PHS36014.1};
+Bit Score: 192.0
+E-value: 0.001023
+Alignment Length: 82
+Percentage Identity: 0.256
+
+=== A0A2D6XA57 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAH47762.1};
+Bit Score: 192.0
+E-value: 0.001081
+Alignment Length: 82
+Percentage Identity: 0.268
+
+=== A0A1I0EI40 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SET44104.1};
+Bit Score: 166.0
+E-value: 0.00186
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A1Z9PW43 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OUW96257.1};
+Bit Score: 174.0
+E-value: 0.002189
+Alignment Length: 86
+Percentage Identity: 0.22
+
+=== A0A382GCE7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SVB72542.1};
+Bit Score: 178.0
+E-value: 0.003033
+Alignment Length: 88
+Percentage Identity: 0.215
+
+=== A0A2D6XKG1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAH51406.1};
+Bit Score: 154.0
+E-value: 0.006487
+Alignment Length: 85
+Percentage Identity: 0.247
+
+=== A0A382ECL4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SVB47713.1};
+DE   Flags: Fragment;
+Bit Score: 141.0
+E-value: 0.008061
+Alignment Length: 104
+Percentage Identity: 0.23
+
+=== A0A3E0QIF3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:REK50341.1};
+Bit Score: 150.0
+E-value: 0.00851
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== A0A7G2RQP6 ===
+DE   RecName: Full=WYL domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.01117
+Alignment Length: 83
+Percentage Identity: 0.216
+
+=== A0A432FL92 ===
+DE   SubName: Full=Transcriptional antiterminator, Rof {ECO:0000313|EMBL:RTZ71934.1};
+Bit Score: 142.0
+E-value: 0.01245
+Alignment Length: 78
+Percentage Identity: 0.115
+
+=== A0A7J2R554 ===
+DE   SubName: Full=WYL domain-containing protein {ECO:0000313|EMBL:HEA06967.1};
+Bit Score: 130.0
+E-value: 0.01724
+Alignment Length: 87
+Percentage Identity: 0.103
+
+=== A0A7C5WTG4 ===
+DE   RecName: Full=Transcriptional antiterminator, Rof {ECO:0008006|Google:ProtNLM};
+Bit Score: 149.0
+E-value: 0.01922
+Alignment Length: 80
+Percentage Identity: 0.062
+
+=== A0A3C0G2V3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HAI38402.1};
+Bit Score: 127.0
+E-value: 0.02662
+Alignment Length: 83
+Percentage Identity: 0.18
+
+=== A0A838T415 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBA3647394.1};
+Bit Score: 117.0
+E-value: 0.02662
+Alignment Length: 96
+Percentage Identity: 0.125
+
+=== A0A1V4TZ00 ===
+DE   RecName: Full=SnRNP Sm-like protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 118.0
+E-value: 0.02811
+Alignment Length: 78
+Percentage Identity: 0.089
+
+=== A0A6C0GHJ0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QHT67152.1};
+Bit Score: 126.0
+E-value: 0.02968
+Alignment Length: 78
+Percentage Identity: 0.102
+
+=== A0A3M8DS59 ===
+DE   RecName: Full=DUF2642 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 115.0
+E-value: 0.02968
+Alignment Length: 86
+Percentage Identity: 0.139
+
+=== A0A5E4KNU8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VVB90880.1};
+Bit Score: 88.0
+E-value: 0.03308
+Alignment Length: 75
+Percentage Identity: 0.173
+
+=== A0A661YXN1 ===
+DE   RecName: Full=YolD-like family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.03894
+Alignment Length: 87
+Percentage Identity: 0.091
+
+=== A0A2T6KFF7 ===
+DE   RecName: Full=Transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 97.0
+E-value: 0.03894
+Alignment Length: 91
+Percentage Identity: 0.153
+
+=== A0A0R1VPD8 ===
+DE   RecName: Full=YolD-like protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.04341
+Alignment Length: 82
+Percentage Identity: 0.158
+
+=== A0A512L6N6 ===
+DE   RecName: Full=Transcriptional antiterminator, Rof {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.04839
+Alignment Length: 90
+Percentage Identity: 0.055
+

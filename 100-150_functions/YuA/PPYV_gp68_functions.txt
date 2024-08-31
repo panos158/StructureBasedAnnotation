@@ -1,0 +1,1351 @@
+=== A0A3N7HX71 ===
+DE   RecName: Full=Virion structural protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 876.0
+E-value: 1.3220000000000002e-20
+Alignment Length: 148
+Percentage Identity: 0.844
+
+=== A0A833P4K7 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 557.0
+E-value: 1.175e-12
+Alignment Length: 144
+Percentage Identity: 0.395
+
+=== A0A286ABV4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SOD19379.1};
+Bit Score: 508.0
+E-value: 3.01e-11
+Alignment Length: 144
+Percentage Identity: 0.375
+
+=== A0A2D9SMB6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAQ09579.1};
+Bit Score: 486.0
+E-value: 6.391e-11
+Alignment Length: 140
+Percentage Identity: 0.385
+
+=== A0A2A4T3I2 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 455.0
+E-value: 2.422e-10
+Alignment Length: 135
+Percentage Identity: 0.311
+
+=== A0A2E0EKP7 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 405.0
+E-value: 4.079e-10
+Alignment Length: 144
+Percentage Identity: 0.375
+
+=== A0A0F9QUC8 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 394.0
+E-value: 1.638e-09
+Alignment Length: 146
+Percentage Identity: 0.308
+
+=== A0A0F8W0H6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKK50142.1};
+Bit Score: 411.0
+E-value: 3.097e-09
+Alignment Length: 142
+Percentage Identity: 0.38
+
+=== A0A844X1T2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MWP63112.1};
+Bit Score: 386.0
+E-value: 5.526e-09
+Alignment Length: 135
+Percentage Identity: 0.281
+
+=== A0A3S0DQ86 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 378.0
+E-value: 9.307e-09
+Alignment Length: 113
+Percentage Identity: 0.451
+
+=== A0A496UXG6 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:RKZ20194.1};
+Bit Score: 381.0
+E-value: 9.862e-09
+Alignment Length: 140
+Percentage Identity: 0.328
+
+=== A0A2G2GBC4 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 342.0
+E-value: 1.045e-08
+Alignment Length: 140
+Percentage Identity: 0.378
+
+=== A0A660M2P1 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 366.0
+E-value: 1.76e-08
+Alignment Length: 138
+Percentage Identity: 0.347
+
+=== G2KMV8 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 346.0
+E-value: 1.76e-08
+Alignment Length: 140
+Percentage Identity: 0.342
+
+=== A0A2E9CUY7 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 391.0
+E-value: 2.219e-08
+Alignment Length: 139
+Percentage Identity: 0.258
+
+=== A0A660NYS9 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 352.0
+E-value: 2.491e-08
+Alignment Length: 137
+Percentage Identity: 0.306
+
+=== A0A2P4V652 ===
+DE   RecName: Full=Putative DnaT-like domain-containing protein {ECO:0000259|Pfam:PF20557};
+Bit Score: 271.0
+E-value: 3.084e-08
+Alignment Length: 121
+Percentage Identity: 0.256
+
+=== A0A2A4V8H8 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 317.0
+E-value: 3.96e-08
+Alignment Length: 129
+Percentage Identity: 0.364
+
+=== A0A0F8ZWR8 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 355.0
+E-value: 4.992e-08
+Alignment Length: 140
+Percentage Identity: 0.307
+
+=== A0A1E4ZI70 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 315.0
+E-value: 1.261e-07
+Alignment Length: 139
+Percentage Identity: 0.309
+
+=== A0A836PJY3 ===
+DE   RecName: Full=Virion structural protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 298.0
+E-value: 1.261e-07
+Alignment Length: 147
+Percentage Identity: 0.285
+
+=== A0A4D4JU15 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 315.0
+E-value: 1.336e-07
+Alignment Length: 137
+Percentage Identity: 0.277
+
+=== T0J0I9 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 320.0
+E-value: 2.124e-07
+Alignment Length: 136
+Percentage Identity: 0.272
+
+=== A0A2P8FP24 ===
+DE   RecName: Full=Neck protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 282.0
+E-value: 2.251e-07
+Alignment Length: 152
+Percentage Identity: 0.315
+
+=== A0A5C7PGL4 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:TXH45681.1};
+Bit Score: 286.0
+E-value: 3.577e-07
+Alignment Length: 146
+Percentage Identity: 0.253
+
+=== A0A3A8HBT7 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:RKG68642.1};
+Bit Score: 293.0
+E-value: 4.016e-07
+Alignment Length: 135
+Percentage Identity: 0.311
+
+=== A0A0L6J7I5 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 300.0
+E-value: 4.51e-07
+Alignment Length: 135
+Percentage Identity: 0.333
+
+=== A0A538PSL0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TMQ06618.1};
+Bit Score: 260.0
+E-value: 6.024e-07
+Alignment Length: 138
+Percentage Identity: 0.311
+
+=== A0A662E695 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 277.0
+E-value: 6.764e-07
+Alignment Length: 137
+Percentage Identity: 0.313
+
+=== A0A2W5MXZ1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PZQ46171.1};
+Bit Score: 279.0
+E-value: 7.168e-07
+Alignment Length: 143
+Percentage Identity: 0.335
+
+=== A0A3N5WEB0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RPJ39861.1};
+Bit Score: 284.0
+E-value: 7.595e-07
+Alignment Length: 141
+Percentage Identity: 0.297
+
+=== A0A2D5P5G6 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 275.0
+E-value: 9.036e-07
+Alignment Length: 135
+Percentage Identity: 0.303
+
+=== A0A660UXB2 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:RKY09814.1};
+Bit Score: 296.0
+E-value: 9.575e-07
+Alignment Length: 131
+Percentage Identity: 0.328
+
+=== A0A662ECA2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RLE28260.1};
+Bit Score: 277.0
+E-value: 1.139e-06
+Alignment Length: 148
+Percentage Identity: 0.317
+
+=== A0A0F9AWJ7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKK82799.1};
+DE   Flags: Fragment;
+Bit Score: 259.0
+E-value: 1.207e-06
+Alignment Length: 129
+Percentage Identity: 0.263
+
+=== A0A1V5QWP1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OQA34300.1};
+Bit Score: 261.0
+E-value: 1.613e-06
+Alignment Length: 153
+Percentage Identity: 0.267
+
+=== A0A2D6ZZQ8 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 243.0
+E-value: 2.033e-06
+Alignment Length: 141
+Percentage Identity: 0.297
+
+=== A0A2D6FM54 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 261.0
+E-value: 2.154e-06
+Alignment Length: 139
+Percentage Identity: 0.258
+
+=== A0A0M6Y7W6 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 270.0
+E-value: 2.419e-06
+Alignment Length: 134
+Percentage Identity: 0.313
+
+=== A0A2D9KYL9 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 263.0
+E-value: 2.563e-06
+Alignment Length: 139
+Percentage Identity: 0.223
+
+=== A0A2D9FUD1 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 245.0
+E-value: 2.878e-06
+Alignment Length: 137
+Percentage Identity: 0.306
+
+=== A0A7W8PHF7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB5411907.1};
+Bit Score: 233.0
+E-value: 2.878e-06
+Alignment Length: 146
+Percentage Identity: 0.26
+
+=== A0A2E0X3A9 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 261.0
+E-value: 3.049e-06
+Alignment Length: 137
+Percentage Identity: 0.27
+
+=== W0RN81 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AHG92196.1};
+Bit Score: 221.0
+E-value: 3.049e-06
+Alignment Length: 160
+Percentage Identity: 0.275
+
+=== A0A2T6GBB0 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 274.0
+E-value: 4.074e-06
+Alignment Length: 137
+Percentage Identity: 0.226
+
+=== A0A5M7CIV8 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:KAA5841992.1};
+Bit Score: 236.0
+E-value: 4.074e-06
+Alignment Length: 138
+Percentage Identity: 0.268
+
+=== A0A2D8P5Z8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAM60861.1};
+Bit Score: 264.0
+E-value: 4.317e-06
+Alignment Length: 114
+Percentage Identity: 0.394
+
+=== F5RC43 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 263.0
+E-value: 4.574e-06
+Alignment Length: 136
+Percentage Identity: 0.323
+
+=== A0A496LNV4 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:RKV94065.1};
+Bit Score: 261.0
+E-value: 4.574e-06
+Alignment Length: 136
+Percentage Identity: 0.257
+
+=== A0A239AYB0 ===
+DE   RecName: Full=Bacteriophage HK97-gp10, tail-component {ECO:0008006|Google:ProtNLM};
+Bit Score: 257.0
+E-value: 4.574e-06
+Alignment Length: 143
+Percentage Identity: 0.279
+
+=== A0A1V5R015 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 253.0
+E-value: 4.847e-06
+Alignment Length: 138
+Percentage Identity: 0.297
+
+=== A0A423PJ11 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 252.0
+E-value: 7.703e-06
+Alignment Length: 136
+Percentage Identity: 0.264
+
+=== A0A6M3JNS9 ===
+DE   SubName: Full=Putative tail protein {ECO:0000313|EMBL:QJA70682.1};
+Bit Score: 243.0
+E-value: 8.649e-06
+Alignment Length: 149
+Percentage Identity: 0.281
+
+=== A0A800GIR0 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:HIF54729.1};
+Bit Score: 241.0
+E-value: 8.649e-06
+Alignment Length: 136
+Percentage Identity: 0.22
+
+=== A0A0X8JJF0 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 232.0
+E-value: 1.029e-05
+Alignment Length: 156
+Percentage Identity: 0.256
+
+=== A0A1H9EP10 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 241.0
+E-value: 1.09e-05
+Alignment Length: 134
+Percentage Identity: 0.276
+
+=== A0A212L1R3 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 217.0
+E-value: 1.09e-05
+Alignment Length: 145
+Percentage Identity: 0.262
+
+=== A0A562Q890 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 255.0
+E-value: 1.155e-05
+Alignment Length: 137
+Percentage Identity: 0.218
+
+=== A0A3D6C5W2 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 212.0
+E-value: 1.224e-05
+Alignment Length: 137
+Percentage Identity: 0.277
+
+=== A0A653E672 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 247.0
+E-value: 1.297e-05
+Alignment Length: 133
+Percentage Identity: 0.27
+
+=== A0A3N5H0C2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RPH64989.1};
+Bit Score: 204.0
+E-value: 1.297e-05
+Alignment Length: 139
+Percentage Identity: 0.309
+
+=== A0A4P2WZF4 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 238.0
+E-value: 1.375e-05
+Alignment Length: 138
+Percentage Identity: 0.246
+
+=== A0A853IGJ7 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:NYZ69111.1};
+Bit Score: 235.0
+E-value: 1.457e-05
+Alignment Length: 139
+Percentage Identity: 0.266
+
+=== A0A371YII0 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 239.0
+E-value: 1.544e-05
+Alignment Length: 134
+Percentage Identity: 0.261
+
+=== A0A2E5ES77 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 238.0
+E-value: 1.544e-05
+Alignment Length: 134
+Percentage Identity: 0.246
+
+=== A0A4Z0P1L4 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 220.0
+E-value: 1.544e-05
+Alignment Length: 138
+Percentage Identity: 0.253
+
+=== A0A5C7LH19 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TXH09719.1};
+Bit Score: 217.0
+E-value: 1.636e-05
+Alignment Length: 153
+Percentage Identity: 0.281
+
+=== A0A5C7M8X0 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:TXH18076.1};
+Bit Score: 210.0
+E-value: 1.836e-05
+Alignment Length: 142
+Percentage Identity: 0.302
+
+=== N9MS59 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 193.0
+E-value: 2.185e-05
+Alignment Length: 132
+Percentage Identity: 0.287
+
+=== A0A1I0D9M2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SET28223.1};
+Bit Score: 236.0
+E-value: 2.315e-05
+Alignment Length: 124
+Percentage Identity: 0.266
+
+=== A0A1U7DF71 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:APX88647.1};
+Bit Score: 234.0
+E-value: 2.315e-05
+Alignment Length: 138
+Percentage Identity: 0.289
+
+=== A0A846QS61 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 226.0
+E-value: 2.315e-05
+Alignment Length: 123
+Percentage Identity: 0.325
+
+=== A0A560FKK1 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 219.0
+E-value: 2.6e-05
+Alignment Length: 133
+Percentage Identity: 0.308
+
+=== A0A0G3BLI4 ===
+DE   SubName: Full=Phage protein {ECO:0000313|EMBL:AKJ28838.1};
+Bit Score: 218.0
+E-value: 2.755e-05
+Alignment Length: 137
+Percentage Identity: 0.27
+
+=== B3Q056 ===
+DE   SubName: Full=Hypothetical conserved protein {ECO:0000313|EMBL:ACE89488.1};
+Bit Score: 232.0
+E-value: 2.919e-05
+Alignment Length: 137
+Percentage Identity: 0.262
+
+=== A0A2E3MWI5 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 236.0
+E-value: 3.093e-05
+Alignment Length: 135
+Percentage Identity: 0.274
+
+=== A0A1G8SYG7 ===
+DE   SubName: Full=Bacteriophage HK97-gp10, putative tail-component {ECO:0000313|EMBL:SDJ34278.1};
+Bit Score: 231.0
+E-value: 3.277e-05
+Alignment Length: 136
+Percentage Identity: 0.279
+
+=== A0A1B2LZ51 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 225.0
+E-value: 3.277e-05
+Alignment Length: 134
+Percentage Identity: 0.231
+
+=== A0A848NC06 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:NMU88410.1};
+Bit Score: 223.0
+E-value: 3.473e-05
+Alignment Length: 139
+Percentage Identity: 0.258
+
+=== A0A7U7G942 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 222.0
+E-value: 3.68e-05
+Alignment Length: 136
+Percentage Identity: 0.257
+
+=== A0A7C7GUB5 ===
+DE   RecName: Full=Neck protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 199.0
+E-value: 3.68e-05
+Alignment Length: 166
+Percentage Identity: 0.228
+
+=== A0A1Y5S4W5 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 205.0
+E-value: 3.899e-05
+Alignment Length: 140
+Percentage Identity: 0.278
+
+=== A0A4S1CMR8 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:TGU75107.1};
+Bit Score: 222.0
+E-value: 4.132e-05
+Alignment Length: 141
+Percentage Identity: 0.269
+
+=== A0A142JHW8 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 240.0
+E-value: 4.378e-05
+Alignment Length: 139
+Percentage Identity: 0.251
+
+=== A0A756I3U8 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:HAG0016127.1};
+Bit Score: 209.0
+E-value: 4.378e-05
+Alignment Length: 151
+Percentage Identity: 0.238
+
+=== A0A4R3ULS0 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 223.0
+E-value: 5.209e-05
+Alignment Length: 158
+Percentage Identity: 0.259
+
+=== A0A7T4AY62 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:QQB32217.1};
+Bit Score: 218.0
+E-value: 5.209e-05
+Alignment Length: 139
+Percentage Identity: 0.258
+
+=== A0A2D9CID7 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 215.0
+E-value: 5.52e-05
+Alignment Length: 160
+Percentage Identity: 0.156
+
+=== A0A6L5HZ24 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:MQU08609.1};
+Bit Score: 211.0
+E-value: 5.52e-05
+Alignment Length: 139
+Percentage Identity: 0.251
+
+=== A9BW67 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 209.0
+E-value: 5.52e-05
+Alignment Length: 192
+Percentage Identity: 0.187
+
+=== A0A845MTD7 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:MZR63860.1};
+Bit Score: 211.0
+E-value: 5.849e-05
+Alignment Length: 139
+Percentage Identity: 0.244
+
+=== A0A357XX66 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HBT77107.1};
+Bit Score: 228.0
+E-value: 6.567e-05
+Alignment Length: 141
+Percentage Identity: 0.234
+
+=== A0A836PN56 ===
+DE   RecName: Full=Neck protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 185.0
+E-value: 6.567e-05
+Alignment Length: 166
+Percentage Identity: 0.222
+
+=== A0A3D9EV19 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 225.0
+E-value: 6.959e-05
+Alignment Length: 135
+Percentage Identity: 0.207
+
+=== A0A7Z0NF62 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:NYT81434.1};
+Bit Score: 200.0
+E-value: 7.374e-05
+Alignment Length: 148
+Percentage Identity: 0.222
+
+=== A0A848WCP2 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 193.0
+E-value: 7.374e-05
+Alignment Length: 135
+Percentage Identity: 0.281
+
+=== X0SX68 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAF80487.1};
+Bit Score: 188.0
+E-value: 7.813e-05
+Alignment Length: 174
+Percentage Identity: 0.172
+
+=== A0A4R7FI24 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 201.0
+E-value: 0.0001106
+Alignment Length: 194
+Percentage Identity: 0.201
+
+=== A0A4S1E419 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 218.0
+E-value: 0.0001172
+Alignment Length: 125
+Percentage Identity: 0.288
+
+=== A0A836UUW8 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:HHZ69082.1};
+Bit Score: 197.0
+E-value: 0.0001242
+Alignment Length: 131
+Percentage Identity: 0.251
+
+=== A0A6X7CD21 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:HAB1162240.1};
+Bit Score: 193.0
+E-value: 0.0001316
+Alignment Length: 133
+Percentage Identity: 0.248
+
+=== A0A1X0TBY5 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 169.0
+E-value: 0.0001316
+Alignment Length: 165
+Percentage Identity: 0.23
+
+=== A0A3N4N5G6 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:RPD89407.1};
+Bit Score: 215.0
+E-value: 0.0001394
+Alignment Length: 121
+Percentage Identity: 0.264
+
+=== A0A061JLS4 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 168.0
+E-value: 0.0001477
+Alignment Length: 158
+Percentage Identity: 0.265
+
+=== A0A376RKW0 ===
+DE   SubName: Full=Phage protein {ECO:0000313|EMBL:STI17995.1};
+Bit Score: 198.0
+E-value: 0.0001566
+Alignment Length: 133
+Percentage Identity: 0.27
+
+=== A0A432YXE3 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 188.0
+E-value: 0.0001566
+Alignment Length: 127
+Percentage Identity: 0.275
+
+=== A0A2E8DZI9 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 160.0
+E-value: 0.0001758
+Alignment Length: 139
+Percentage Identity: 0.273
+
+=== A0A4D8PY88 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:QCO00426.1};
+Bit Score: 191.0
+E-value: 0.0001863
+Alignment Length: 152
+Percentage Identity: 0.302
+
+=== A0A0G1U3Y2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKU52400.1};
+Bit Score: 187.0
+E-value: 0.0001863
+Alignment Length: 145
+Percentage Identity: 0.186
+
+=== A0A377K7L6 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 223.0
+E-value: 0.0001974
+Alignment Length: 111
+Percentage Identity: 0.288
+
+=== A0A2U1CS06 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PVY68649.1};
+Bit Score: 184.0
+E-value: 0.0001974
+Alignment Length: 139
+Percentage Identity: 0.237
+
+=== A0A2V4DNJ8 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 195.0
+E-value: 0.0002091
+Alignment Length: 154
+Percentage Identity: 0.259
+
+=== X0TVR0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAF97668.1};
+DE   Flags: Fragment;
+Bit Score: 170.0
+E-value: 0.0002216
+Alignment Length: 136
+Percentage Identity: 0.25
+
+=== A0A6B2PVN5 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:NDX16588.1};
+DE   Flags: Fragment;
+Bit Score: 216.0
+E-value: 0.0002348
+Alignment Length: 112
+Percentage Identity: 0.241
+
+=== A0A1H8DRD8 ===
+DE   RecName: Full=Phage virion morphogenesis (Putative tail completion) protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 156.0
+E-value: 0.0002637
+Alignment Length: 194
+Percentage Identity: 0.195
+
+=== A0A6N7BUX5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAF0567425.1};
+Bit Score: 185.0
+E-value: 0.0002794
+Alignment Length: 136
+Percentage Identity: 0.235
+
+=== A0A7S7QR13 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 178.0
+E-value: 0.0003137
+Alignment Length: 121
+Percentage Identity: 0.223
+
+=== C6XE92 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 174.0
+E-value: 0.0003137
+Alignment Length: 145
+Percentage Identity: 0.255
+
+=== A0A0F9VBQ2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKN70976.1};
+Bit Score: 195.0
+E-value: 0.0003324
+Alignment Length: 140
+Percentage Identity: 0.257
+
+=== A0A661PQU8 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 194.0
+E-value: 0.0003324
+Alignment Length: 118
+Percentage Identity: 0.262
+
+=== A0A5R9A7S5 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 176.0
+E-value: 0.0003522
+Alignment Length: 196
+Percentage Identity: 0.198
+
+=== A0A1E7W687 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OEZ91459.1};
+Bit Score: 182.0
+E-value: 0.0003732
+Alignment Length: 152
+Percentage Identity: 0.25
+
+=== A0A522TNN9 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:TAN27274.1};
+Bit Score: 165.0
+E-value: 0.0004986
+Alignment Length: 139
+Percentage Identity: 0.223
+
+=== A0A433KF00 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:RUR26842.1};
+Bit Score: 180.0
+E-value: 0.0005598
+Alignment Length: 138
+Percentage Identity: 0.202
+
+=== A0A1U9JXM7 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 187.0
+E-value: 0.0005932
+Alignment Length: 134
+Percentage Identity: 0.223
+
+=== A0A2S9GY78 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PRC92674.1};
+Bit Score: 190.0
+E-value: 0.0006661
+Alignment Length: 151
+Percentage Identity: 0.218
+
+=== A0A1L3ZR39 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 160.0
+E-value: 0.0007058
+Alignment Length: 156
+Percentage Identity: 0.205
+
+=== A0A085JGV3 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 179.0
+E-value: 0.0008397
+Alignment Length: 148
+Percentage Identity: 0.209
+
+=== A0A752A8M2 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:HAF7305456.1};
+Bit Score: 173.0
+E-value: 0.0008397
+Alignment Length: 136
+Percentage Identity: 0.198
+
+=== G1V4Y3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EGW44640.1};
+Bit Score: 170.0
+E-value: 0.0008397
+Alignment Length: 119
+Percentage Identity: 0.31
+
+=== E5Y9S9 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 155.0
+E-value: 0.0009429
+Alignment Length: 148
+Percentage Identity: 0.277
+
+=== A0A2A2B7B6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PAT63932.1};
+Bit Score: 168.0
+E-value: 0.0009991
+Alignment Length: 140
+Percentage Identity: 0.192
+
+=== A0A1H8C9K6 ===
+DE   RecName: Full=Phage protein, HK97 gp10 family {ECO:0008006|Google:ProtNLM};
+Bit Score: 153.0
+E-value: 0.001059
+Alignment Length: 152
+Percentage Identity: 0.236
+
+=== A0A4Y9S7F3 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 168.0
+E-value: 0.001122
+Alignment Length: 191
+Percentage Identity: 0.204
+
+=== A0A7W0U8J7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBA3421654.1};
+Bit Score: 145.0
+E-value: 0.001122
+Alignment Length: 148
+Percentage Identity: 0.263
+
+=== A0A2N2UI97 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 184.0
+E-value: 0.001189
+Alignment Length: 138
+Percentage Identity: 0.26
+
+=== A0A1S9ZUU6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OOR87282.1};
+Bit Score: 174.0
+E-value: 0.00126
+Alignment Length: 129
+Percentage Identity: 0.255
+
+=== A0A7X5AQ24 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:NAW34999.1};
+Bit Score: 161.0
+E-value: 0.001335
+Alignment Length: 141
+Percentage Identity: 0.269
+
+=== A0A5P9HA67 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 157.0
+E-value: 0.001414
+Alignment Length: 143
+Percentage Identity: 0.188
+
+=== A0A0P7DG01 ===
+DE   RecName: Full=Prophage PssSM-02 {ECO:0008006|Google:ProtNLM};
+Bit Score: 175.0
+E-value: 0.001499
+Alignment Length: 212
+Percentage Identity: 0.155
+
+=== A0A3A9LB77 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 169.0
+E-value: 0.001499
+Alignment Length: 119
+Percentage Identity: 0.285
+
+=== A0A1B8PKV5 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 166.0
+E-value: 0.001499
+Alignment Length: 136
+Percentage Identity: 0.264
+
+=== A0A6B2PZC2 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:NDX16621.1};
+DE   Flags: Fragment;
+Bit Score: 165.0
+E-value: 0.001499
+Alignment Length: 106
+Percentage Identity: 0.226
+
+=== A0A4S8PPJ1 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 154.0
+E-value: 0.001499
+Alignment Length: 157
+Percentage Identity: 0.184
+
+=== S3NK05 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 148.0
+E-value: 0.001499
+Alignment Length: 160
+Percentage Identity: 0.206
+
+=== A0A1B8P3Y3 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 170.0
+E-value: 0.001588
+Alignment Length: 134
+Percentage Identity: 0.246
+
+=== A0A661DUK4 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.001588
+Alignment Length: 175
+Percentage Identity: 0.177
+
+=== A0A2D7YQS2 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 170.0
+E-value: 0.001683
+Alignment Length: 163
+Percentage Identity: 0.208
+
+=== A0A661PRR7 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 143.0
+E-value: 0.001783
+Alignment Length: 168
+Percentage Identity: 0.22
+
+=== S3MXH0 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 132.0
+E-value: 0.001783
+Alignment Length: 167
+Percentage Identity: 0.197
+
+=== A0A352Q0V5 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 154.0
+E-value: 0.001889
+Alignment Length: 131
+Percentage Identity: 0.229
+
+=== A0A2R2ISF6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KZE84993.1};
+Bit Score: 107.0
+E-value: 0.002002
+Alignment Length: 188
+Percentage Identity: 0.186
+
+=== A0A366DJI6 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 156.0
+E-value: 0.002121
+Alignment Length: 142
+Percentage Identity: 0.154
+
+=== A0A3D1MAY7 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.002382
+Alignment Length: 147
+Percentage Identity: 0.197
+
+=== A0A2U8WPK3 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.002524
+Alignment Length: 150
+Percentage Identity: 0.2
+
+=== A0A3S9XDL0 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.002674
+Alignment Length: 154
+Percentage Identity: 0.194
+
+=== A0A2X1ULL5 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.003003
+Alignment Length: 167
+Percentage Identity: 0.167
+
+=== A0A506TVC7 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:TPW26032.1};
+Bit Score: 133.0
+E-value: 0.003003
+Alignment Length: 155
+Percentage Identity: 0.187
+
+=== A0A2E5W4I4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBI89980.1};
+Bit Score: 140.0
+E-value: 0.003182
+Alignment Length: 145
+Percentage Identity: 0.206
+
+=== A0A1H9AUQ5 ===
+DE   SubName: Full=Bacteriophage HK97-gp10, putative tail-component {ECO:0000313|EMBL:SEP80143.1};
+Bit Score: 140.0
+E-value: 0.003372
+Alignment Length: 133
+Percentage Identity: 0.27
+
+=== A0A3B8U060 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HAB90421.1};
+Bit Score: 139.0
+E-value: 0.004251
+Alignment Length: 146
+Percentage Identity: 0.246
+
+=== A0A6I5RMW5 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 153.0
+E-value: 0.004504
+Alignment Length: 189
+Percentage Identity: 0.174
+
+=== A0A4R0FIE0 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 146.0
+E-value: 0.004504
+Alignment Length: 138
+Percentage Identity: 0.188
+
+=== A0A2U3MUN6 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 138.0
+E-value: 0.004504
+Alignment Length: 160
+Percentage Identity: 0.143
+
+=== A0A2D9VUX1 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 149.0
+E-value: 0.004773
+Alignment Length: 126
+Percentage Identity: 0.214
+
+=== A0A662DUT1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RLE19820.1};
+Bit Score: 113.0
+E-value: 0.004773
+Alignment Length: 136
+Percentage Identity: 0.25
+
+=== A0A2D7LK31 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 131.0
+E-value: 0.005359
+Alignment Length: 132
+Percentage Identity: 0.303
+
+=== A0A2R4MEN2 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 135.0
+E-value: 0.006017
+Alignment Length: 156
+Percentage Identity: 0.217
+
+=== A0A3E0QQY5 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:REK53037.1};
+Bit Score: 126.0
+E-value: 0.008517
+Alignment Length: 145
+Percentage Identity: 0.2
+
+=== A0A7W3A6X0 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 139.0
+E-value: 0.009025
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A013XPT3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EXS68395.1};
+Bit Score: 137.0
+E-value: 0.01074
+Alignment Length: 132
+Percentage Identity: 0.242
+
+=== A0A2D7VZT8 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.01074
+Alignment Length: 145
+Percentage Identity: 0.131
+
+=== A0A525HGQ0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:THD35710.1};
+Bit Score: 128.0
+E-value: 0.01074
+Alignment Length: 137
+Percentage Identity: 0.233
+
+=== A0A7Y3WWV1 ===
+DE   SubName: Full=HK97 gp10 family phage protein {ECO:0000313|EMBL:NNV20533.1};
+Bit Score: 125.0
+E-value: 0.01074
+Alignment Length: 142
+Percentage Identity: 0.161
+
+=== B8INT7 ===
+DE   RecName: Full=Bacteriophage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 129.0
+E-value: 0.01278
+Alignment Length: 149
+Percentage Identity: 0.187
+
+=== A0A4Z0F7Y9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TFZ81590.1};
+Bit Score: 121.0
+E-value: 0.01278
+Alignment Length: 155
+Percentage Identity: 0.174
+
+=== A0A420WGZ8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RKQ70205.1};
+Bit Score: 127.0
+E-value: 0.01354
+Alignment Length: 135
+Percentage Identity: 0.237
+
+=== A0A0F9CLH4 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 120.0
+E-value: 0.01354
+Alignment Length: 125
+Percentage Identity: 0.232
+
+=== A0A354U9R1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HBJ97013.1};
+DE   Flags: Fragment;
+Bit Score: 113.0
+E-value: 0.01434
+Alignment Length: 89
+Percentage Identity: 0.292
+
+=== A0A2P7SE02 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 126.0
+E-value: 0.0152
+Alignment Length: 142
+Percentage Identity: 0.176
+
+=== A0A1I6PPZ5 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.01611
+Alignment Length: 151
+Percentage Identity: 0.172
+
+=== A0A150IS22 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 100.0
+E-value: 0.01707
+Alignment Length: 152
+Percentage Identity: 0.177
+
+=== A0A7Y1M839 ===
+DE   RecName: Full=Prophage PssSM-02 {ECO:0008006|Google:ProtNLM};
+Bit Score: 142.0
+E-value: 0.01808
+Alignment Length: 214
+Percentage Identity: 0.172
+
+=== A0A853GHH1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NYT78236.1};
+Bit Score: 141.0
+E-value: 0.02416
+Alignment Length: 105
+Percentage Identity: 0.238
+
+=== A0A7W5SDL3 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.02713
+Alignment Length: 135
+Percentage Identity: 0.155
+
+=== W1Y129 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ETJ35365.1};
+DE   Flags: Fragment;
+Bit Score: 136.0
+E-value: 0.02874
+Alignment Length: 104
+Percentage Identity: 0.25
+
+=== A0A3L7AGB6 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.03046
+Alignment Length: 163
+Percentage Identity: 0.184
+
+=== A0A845A190 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 98.0
+E-value: 0.03227
+Alignment Length: 128
+Percentage Identity: 0.234
+
+=== A0A7H4MIJ6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:STS90146.1};
+Bit Score: 110.0
+E-value: 0.03624
+Alignment Length: 94
+Percentage Identity: 0.244
+
+=== A0A2W5X2T3 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.0384
+Alignment Length: 142
+Percentage Identity: 0.183
+
+=== A0A316C4F1 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 99.0
+E-value: 0.04311
+Alignment Length: 145
+Percentage Identity: 0.193
+
+=== A0A0S8AS87 ===
+DE   RecName: Full=HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.04568
+Alignment Length: 143
+Percentage Identity: 0.153
+

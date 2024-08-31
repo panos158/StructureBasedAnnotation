@@ -1,0 +1,42 @@
+=== A0A7S3BUW6 ===
+DE   RecName: Full=PH domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 111.0
+E-value: 0.0241
+Alignment Length: 65
+Percentage Identity: 0.107
+
+=== A0A024G7X3 ===
+DE   RecName: Full=PH domain-containing protein {ECO:0000259|SMART:SM00233};
+Bit Score: 117.0
+E-value: 0.0257
+Alignment Length: 64
+Percentage Identity: 0.187
+
+=== A0A3P7LUY2 ===
+DE   RecName: Full=FERM domain-containing protein {ECO:0000259|PROSITE:PS50057};
+Bit Score: 111.0
+E-value: 0.0378
+Alignment Length: 66
+Percentage Identity: 0.136
+
+=== A0A7C3XZW1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HGD75326.1};
+Bit Score: 85.0
+E-value: 0.0378
+Alignment Length: 60
+Percentage Identity: 0.183
+
+=== A0A1B9B2Y9 ===
+DE   RecName: Full=Bacterial Pleckstrin homology domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 116.0
+E-value: 0.04585
+Alignment Length: 62
+Percentage Identity: 0.129
+
+=== A0A7S3PIE2 ===
+DE   RecName: Full=Cyclic nucleotide-binding domain-containing protein {ECO:0000259|PROSITE:PS50042};
+Bit Score: 105.0
+E-value: 0.04889
+Alignment Length: 69
+Percentage Identity: 0.043
+

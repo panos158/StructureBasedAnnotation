@@ -1,0 +1,77 @@
+=== A0A241XDU9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OTI50093.1};
+Bit Score: 493.0
+E-value: 2.35e-12
+Alignment Length: 80
+Percentage Identity: 0.637
+
+=== A0A6I1NFM8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MPQ69303.1};
+Bit Score: 348.0
+E-value: 5.471e-09
+Alignment Length: 76
+Percentage Identity: 0.46
+
+=== B2TH22 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ACD21571.1};
+Bit Score: 329.0
+E-value: 1.229e-08
+Alignment Length: 74
+Percentage Identity: 0.513
+
+=== A0A7V8E9T8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAF0250918.1};
+Bit Score: 314.0
+E-value: 9.286e-08
+Alignment Length: 78
+Percentage Identity: 0.423
+
+=== A0A7W7P395 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB4865340.1};
+Bit Score: 271.0
+E-value: 3.826e-07
+Alignment Length: 82
+Percentage Identity: 0.353
+
+=== A0A2T4MUH3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PTH78229.1};
+Bit Score: 292.0
+E-value: 4.092e-07
+Alignment Length: 77
+Percentage Identity: 0.35
+
+=== A0A0U1QTP3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ABS45752.1};
+Bit Score: 227.0
+E-value: 3.539e-06
+Alignment Length: 80
+Percentage Identity: 0.387
+
+=== A0A1C3HND4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SAY46541.1};
+Bit Score: 214.0
+E-value: 2.675e-05
+Alignment Length: 76
+Percentage Identity: 0.315
+
+=== A0A5M9J5K6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAA8563252.1};
+Bit Score: 175.0
+E-value: 3.061e-05
+Alignment Length: 75
+Percentage Identity: 0.413
+
+=== A0A6C7D3V6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AXC84969.1};
+Bit Score: 153.0
+E-value: 0.0003708
+Alignment Length: 79
+Percentage Identity: 0.278
+
+=== A0A5U9VI32 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EBS4545436.1};
+Bit Score: 120.0
+E-value: 0.007202
+Alignment Length: 76
+Percentage Identity: 0.276
+

@@ -1,0 +1,3478 @@
+=== A0A7G2RWW4 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 396.0
+E-value: 6.969e-09
+Alignment Length: 147
+Percentage Identity: 0.408
+
+=== A0A2M8CXB6 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 366.0
+E-value: 7.802e-09
+Alignment Length: 134
+Percentage Identity: 0.417
+
+=== A0A2D5Y2H1 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 366.0
+E-value: 1.225e-08
+Alignment Length: 135
+Percentage Identity: 0.385
+
+=== A0A1Q3H907 ===
+DE   RecName: Full=LysM domain-containing protein {ECO:0000259|PROSITE:PS51782};
+Bit Score: 359.0
+E-value: 4.485e-08
+Alignment Length: 126
+Percentage Identity: 0.396
+
+=== A0A7C7SUJ7 ===
+DE   SubName: Full=CHAP domain-containing protein {ECO:0000313|EMBL:HIF24733.1};
+Bit Score: 335.0
+E-value: 5.947e-08
+Alignment Length: 130
+Percentage Identity: 0.423
+
+=== A0A848UM62 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 312.0
+E-value: 1.238e-07
+Alignment Length: 126
+Percentage Identity: 0.317
+
+=== A0A7C5IPG4 ===
+DE   RecName: Full=Peptidase M15A C-terminal domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 317.0
+E-value: 3.419e-07
+Alignment Length: 131
+Percentage Identity: 0.381
+
+=== E3FM35 ===
+DE   SubName: Full=Phage lysozyme {ECO:0000313|EMBL:ADO68039.1};
+Bit Score: 334.0
+E-value: 4.049e-07
+Alignment Length: 129
+Percentage Identity: 0.395
+
+=== A0A2D8BQA6 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 274.0
+E-value: 7.119e-07
+Alignment Length: 127
+Percentage Identity: 0.314
+
+=== A0A328AJ59 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 318.0
+E-value: 7.532e-07
+Alignment Length: 127
+Percentage Identity: 0.377
+
+=== A0A2D5GX32 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 274.0
+E-value: 1.965e-06
+Alignment Length: 161
+Percentage Identity: 0.329
+
+=== A0A2E5P519 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 271.0
+E-value: 4.093e-06
+Alignment Length: 125
+Percentage Identity: 0.312
+
+=== A0A3D4UY40 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 250.0
+E-value: 4.33e-06
+Alignment Length: 137
+Percentage Identity: 0.313
+
+=== A0A2D8ESF5 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 276.0
+E-value: 4.582e-06
+Alignment Length: 125
+Percentage Identity: 0.312
+
+=== A0A7C7BU73 ===
+DE   RecName: Full=Phage tail lysozyme domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 287.0
+E-value: 5.427e-06
+Alignment Length: 133
+Percentage Identity: 0.3
+
+=== A0A1V4XEH2 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 254.0
+E-value: 7.195e-06
+Alignment Length: 125
+Percentage Identity: 0.296
+
+=== A0A1V4Y1E5 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 243.0
+E-value: 9.017e-06
+Alignment Length: 134
+Percentage Identity: 0.276
+
+=== A0A1Z9G719 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 221.0
+E-value: 9.017e-06
+Alignment Length: 118
+Percentage Identity: 0.33
+
+=== A0A362XB50 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 252.0
+E-value: 1.196e-05
+Alignment Length: 128
+Percentage Identity: 0.312
+
+=== A0A1V5ZNN2 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 245.0
+E-value: 1.265e-05
+Alignment Length: 140
+Percentage Identity: 0.314
+
+=== A0A7C0UQ01 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 202.0
+E-value: 1.416e-05
+Alignment Length: 125
+Percentage Identity: 0.344
+
+=== A0A2E5DRY3 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 259.0
+E-value: 1.585e-05
+Alignment Length: 130
+Percentage Identity: 0.261
+
+=== A0A2E7V4H4 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 242.0
+E-value: 1.585e-05
+Alignment Length: 130
+Percentage Identity: 0.315
+
+=== A0A6M3KYB2 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 233.0
+E-value: 1.987e-05
+Alignment Length: 128
+Percentage Identity: 0.304
+
+=== A0A497EY17 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 205.0
+E-value: 2.102e-05
+Alignment Length: 121
+Percentage Identity: 0.297
+
+=== A0A0F9BQJ8 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 202.0
+E-value: 2.102e-05
+Alignment Length: 124
+Percentage Identity: 0.338
+
+=== A0A381ZKW8 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 225.0
+E-value: 2.353e-05
+Alignment Length: 138
+Percentage Identity: 0.253
+
+=== A0A0A2W020 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 198.0
+E-value: 2.353e-05
+Alignment Length: 130
+Percentage Identity: 0.3
+
+=== A0A2S6SGJ7 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 251.0
+E-value: 2.489e-05
+Alignment Length: 126
+Percentage Identity: 0.293
+
+=== A0A366I5P1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 187.0
+E-value: 2.489e-05
+Alignment Length: 129
+Percentage Identity: 0.31
+
+=== A0A381VSI5 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+DE   Flags: Fragment;
+Bit Score: 234.0
+E-value: 2.634e-05
+Alignment Length: 129
+Percentage Identity: 0.279
+
+=== A0A7M5WWG7 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 181.0
+E-value: 2.949e-05
+Alignment Length: 130
+Percentage Identity: 0.253
+
+=== A0A497G6G1 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 246.0
+E-value: 3.12e-05
+Alignment Length: 135
+Percentage Identity: 0.251
+
+=== A0A2S6SN19 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 244.0
+E-value: 3.301e-05
+Alignment Length: 125
+Percentage Identity: 0.28
+
+=== A0A0F9I8S5 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 243.0
+E-value: 3.301e-05
+Alignment Length: 131
+Percentage Identity: 0.267
+
+=== A0A2T9USE2 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 235.0
+E-value: 3.301e-05
+Alignment Length: 115
+Percentage Identity: 0.356
+
+=== A0A4R5HG51 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 214.0
+E-value: 3.301e-05
+Alignment Length: 150
+Percentage Identity: 0.186
+
+=== A0A2D8XH42 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 199.0
+E-value: 3.301e-05
+Alignment Length: 120
+Percentage Identity: 0.341
+
+=== A0A7W4I269 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 217.0
+E-value: 3.695e-05
+Alignment Length: 131
+Percentage Identity: 0.297
+
+=== I0Z6C2 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 229.0
+E-value: 3.91e-05
+Alignment Length: 123
+Percentage Identity: 0.284
+
+=== A0A1S1N6I4 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 180.0
+E-value: 4.136e-05
+Alignment Length: 125
+Percentage Identity: 0.264
+
+=== A0A7G2RQZ1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 226.0
+E-value: 4.377e-05
+Alignment Length: 136
+Percentage Identity: 0.242
+
+=== A0A2D6ZZM6 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 194.0
+E-value: 4.377e-05
+Alignment Length: 119
+Percentage Identity: 0.336
+
+=== A0A2D5TJK6 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 195.0
+E-value: 4.631e-05
+Alignment Length: 131
+Percentage Identity: 0.297
+
+=== A0A6M3XRR4 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 177.0
+E-value: 4.899e-05
+Alignment Length: 128
+Percentage Identity: 0.273
+
+=== A0A1N7TAW1 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+DE   Flags: Fragment;
+Bit Score: 231.0
+E-value: 5.184e-05
+Alignment Length: 131
+Percentage Identity: 0.259
+
+=== A0A6M3Y0X3 ===
+DE   SubName: Full=Putative lysozyme {ECO:0000313|EMBL:QJI02136.1};
+Bit Score: 199.0
+E-value: 5.184e-05
+Alignment Length: 125
+Percentage Identity: 0.264
+
+=== A0A6M3IK07 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 195.0
+E-value: 5.184e-05
+Alignment Length: 118
+Percentage Identity: 0.305
+
+=== D6PL76 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 239.0
+E-value: 5.803e-05
+Alignment Length: 127
+Percentage Identity: 0.267
+
+=== A0A7X3XJR6 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 196.0
+E-value: 5.803e-05
+Alignment Length: 155
+Percentage Identity: 0.251
+
+=== A0A350KNR5 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 203.0
+E-value: 6.14e-05
+Alignment Length: 129
+Percentage Identity: 0.248
+
+=== A0A1Q6T4A9 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 207.0
+E-value: 6.873e-05
+Alignment Length: 138
+Percentage Identity: 0.26
+
+=== A0A239A7G6 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 188.0
+E-value: 6.873e-05
+Alignment Length: 124
+Percentage Identity: 0.29
+
+=== A0A0M2KIE0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 183.0
+E-value: 7.272e-05
+Alignment Length: 135
+Percentage Identity: 0.318
+
+=== A0A7W5C0N3 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 176.0
+E-value: 7.272e-05
+Alignment Length: 126
+Percentage Identity: 0.269
+
+=== A0A1C2FYJ6 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 214.0
+E-value: 7.694e-05
+Alignment Length: 123
+Percentage Identity: 0.268
+
+=== A0A661HQS1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 217.0
+E-value: 8.141e-05
+Alignment Length: 130
+Percentage Identity: 0.261
+
+=== A0A2H0V0D3 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 204.0
+E-value: 8.141e-05
+Alignment Length: 132
+Percentage Identity: 0.25
+
+=== A0A2D8HTN2 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:MAL83027.1};
+Bit Score: 226.0
+E-value: 9.113e-05
+Alignment Length: 127
+Percentage Identity: 0.267
+
+=== D5BPL0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 192.0
+E-value: 9.113e-05
+Alignment Length: 118
+Percentage Identity: 0.245
+
+=== A0A6Y2X0E4 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE   Flags: Fragment;
+Bit Score: 176.0
+E-value: 9.113e-05
+Alignment Length: 133
+Percentage Identity: 0.27
+
+=== A0A2D7X0F1 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 220.0
+E-value: 0.000102
+Alignment Length: 132
+Percentage Identity: 0.265
+
+=== S3JZ44 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 181.0
+E-value: 0.000102
+Alignment Length: 127
+Percentage Identity: 0.267
+
+=== A0A7S3IJR1 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 206.0
+E-value: 0.0001079
+Alignment Length: 142
+Percentage Identity: 0.204
+
+=== A0A6M3JD88 ===
+DE   RecName: Full=Glycoside hydrolase {ECO:0008006|Google:ProtNLM};
+Bit Score: 197.0
+E-value: 0.0001079
+Alignment Length: 134
+Percentage Identity: 0.291
+
+=== A0A348VD28 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:HAR40190.1};
+Bit Score: 184.0
+E-value: 0.0001079
+Alignment Length: 121
+Percentage Identity: 0.272
+
+=== A0A3B9L692 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 183.0
+E-value: 0.0001079
+Alignment Length: 141
+Percentage Identity: 0.262
+
+=== A0A2E3DAG5 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 225.0
+E-value: 0.0001142
+Alignment Length: 135
+Percentage Identity: 0.266
+
+=== A0A849W8W0 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 187.0
+E-value: 0.0001142
+Alignment Length: 139
+Percentage Identity: 0.287
+
+=== A0A2N7VBE1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 189.0
+E-value: 0.0001208
+Alignment Length: 129
+Percentage Identity: 0.302
+
+=== A0A0F9L8I7 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 183.0
+E-value: 0.0001208
+Alignment Length: 121
+Percentage Identity: 0.289
+
+=== A0A350P6I1 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:HAW76898.1};
+Bit Score: 182.0
+E-value: 0.0001278
+Alignment Length: 122
+Percentage Identity: 0.295
+
+=== A0A261URU4 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 172.0
+E-value: 0.0001278
+Alignment Length: 125
+Percentage Identity: 0.272
+
+=== A0A5B9EK46 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 194.0
+E-value: 0.0001353
+Alignment Length: 158
+Percentage Identity: 0.221
+
+=== Q556F2 ===
+DE   RecName: Full=Probable T4-type lysozyme 1;
+DE            EC=3.2.1.17;
+DE   AltName: Full=Muramidase;
+Bit Score: 191.0
+E-value: 0.0001353
+Alignment Length: 154
+Percentage Identity: 0.24
+
+=== A0A7C5CUX2 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 184.0
+E-value: 0.0001353
+Alignment Length: 122
+Percentage Identity: 0.311
+
+=== A0A2E7LPD5 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 183.0
+E-value: 0.0001353
+Alignment Length: 123
+Percentage Identity: 0.276
+
+=== Q31Q81 ===
+DE   SubName: Full=Chain A, D20c mutant of T4 lysozyme {ECO:0000313|EMBL:ABB56788.1};
+Bit Score: 182.0
+E-value: 0.0001353
+Alignment Length: 121
+Percentage Identity: 0.289
+
+=== A0A2E0ELT0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 181.0
+E-value: 0.0001353
+Alignment Length: 128
+Percentage Identity: 0.234
+
+=== K1JIE7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 178.0
+E-value: 0.0001353
+Alignment Length: 130
+Percentage Identity: 0.276
+
+=== A0A0F9HUZ1 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+DE   Flags: Fragment;
+Bit Score: 205.0
+E-value: 0.0001431
+Alignment Length: 129
+Percentage Identity: 0.286
+
+=== A0A382V6S4 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 201.0
+E-value: 0.0001431
+Alignment Length: 133
+Percentage Identity: 0.248
+
+=== A0A4R5HDS3 ===
+DE   SubName: Full=Glycoside hydrolase {ECO:0000313|EMBL:TDF41574.1};
+Bit Score: 177.0
+E-value: 0.0001431
+Alignment Length: 121
+Percentage Identity: 0.314
+
+=== A0A1E3X2P6 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 177.0
+E-value: 0.0001431
+Alignment Length: 118
+Percentage Identity: 0.271
+
+=== A0A1F3AG95 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE   Flags: Fragment;
+Bit Score: 183.0
+E-value: 0.0001514
+Alignment Length: 119
+Percentage Identity: 0.319
+
+=== A0A496Y6N3 ===
+DE   SubName: Full=Glycoside hydrolase {ECO:0000313|EMBL:RLB13534.1};
+Bit Score: 162.0
+E-value: 0.0001514
+Alignment Length: 130
+Percentage Identity: 0.3
+
+=== A0A6H1ZVV7 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 209.0
+E-value: 0.0001602
+Alignment Length: 132
+Percentage Identity: 0.265
+
+=== A0A329E946 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 185.0
+E-value: 0.0001602
+Alignment Length: 131
+Percentage Identity: 0.274
+
+=== A0A0F9I7M9 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 181.0
+E-value: 0.0001794
+Alignment Length: 122
+Percentage Identity: 0.278
+
+=== A0A350PA17 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 219.0
+E-value: 0.0001898
+Alignment Length: 132
+Percentage Identity: 0.196
+
+=== A0A356FYC9 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 201.0
+E-value: 0.0001898
+Alignment Length: 130
+Percentage Identity: 0.246
+
+=== A0A1F6G645 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 180.0
+E-value: 0.0001898
+Alignment Length: 131
+Percentage Identity: 0.29
+
+=== A0A5C7QC42 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 171.0
+E-value: 0.0001898
+Alignment Length: 131
+Percentage Identity: 0.29
+
+=== A0A0G3BMQ4 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 195.0
+E-value: 0.0002008
+Alignment Length: 125
+Percentage Identity: 0.248
+
+=== A0A1V5IMM1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 185.0
+E-value: 0.0002008
+Alignment Length: 142
+Percentage Identity: 0.253
+
+=== A0A6M3JLV6 ===
+DE   RecName: Full=Glycoside hydrolase {ECO:0008006|Google:ProtNLM};
+Bit Score: 159.0
+E-value: 0.0002124
+Alignment Length: 130
+Percentage Identity: 0.184
+
+=== A0A1N7TAU5 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 209.0
+E-value: 0.0002248
+Alignment Length: 132
+Percentage Identity: 0.242
+
+=== A0A7L5Y684 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 196.0
+E-value: 0.0002248
+Alignment Length: 125
+Percentage Identity: 0.232
+
+=== A0A6M3JI63 ===
+DE   SubName: Full=Putative structural protein {ECO:0000313|EMBL:QJA69516.1};
+Bit Score: 181.0
+E-value: 0.0002248
+Alignment Length: 121
+Percentage Identity: 0.239
+
+=== A0A4S3LZ40 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 168.0
+E-value: 0.0002248
+Alignment Length: 126
+Percentage Identity: 0.269
+
+=== A0A645BK91 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 168.0
+E-value: 0.0002248
+Alignment Length: 137
+Percentage Identity: 0.218
+
+=== A0A1F8VEC3 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 167.0
+E-value: 0.0002248
+Alignment Length: 124
+Percentage Identity: 0.282
+
+=== A0A2E9U7H4 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 153.0
+E-value: 0.0002248
+Alignment Length: 129
+Percentage Identity: 0.294
+
+=== A0A7V7T1X1 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 192.0
+E-value: 0.0002378
+Alignment Length: 132
+Percentage Identity: 0.25
+
+=== A0A060NVJ0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 184.0
+E-value: 0.0002662
+Alignment Length: 133
+Percentage Identity: 0.24
+
+=== A0A640WAD0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 175.0
+E-value: 0.0002662
+Alignment Length: 124
+Percentage Identity: 0.225
+
+=== A0A1V2N9M7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 185.0
+E-value: 0.0002817
+Alignment Length: 127
+Percentage Identity: 0.228
+
+=== A0A2E1P370 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 174.0
+E-value: 0.0002817
+Alignment Length: 128
+Percentage Identity: 0.257
+
+=== A0A6M3KSR6 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 199.0
+E-value: 0.000298
+Alignment Length: 135
+Percentage Identity: 0.214
+
+=== A0A355T917 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 168.0
+E-value: 0.000298
+Alignment Length: 126
+Percentage Identity: 0.277
+
+=== A0A2D4YYV8 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 193.0
+E-value: 0.0003153
+Alignment Length: 129
+Percentage Identity: 0.263
+
+=== A0A7J0ADD2 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 175.0
+E-value: 0.0003153
+Alignment Length: 129
+Percentage Identity: 0.217
+
+=== A0A1M3KZA5 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 159.0
+E-value: 0.0003153
+Alignment Length: 125
+Percentage Identity: 0.28
+
+=== A0A2A4Z0X3 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 150.0
+E-value: 0.0003153
+Alignment Length: 134
+Percentage Identity: 0.261
+
+=== A0A1N7TAV9 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 208.0
+E-value: 0.0003336
+Alignment Length: 132
+Percentage Identity: 0.242
+
+=== A0A0F9GRW1 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 191.0
+E-value: 0.0003336
+Alignment Length: 135
+Percentage Identity: 0.259
+
+=== A0A7S1FB58 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 181.0
+E-value: 0.0003336
+Alignment Length: 138
+Percentage Identity: 0.166
+
+=== A0A2D3VVB8 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:DAB29344.1};
+Bit Score: 169.0
+E-value: 0.0003336
+Alignment Length: 121
+Percentage Identity: 0.272
+
+=== A0A2D6M892 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 160.0
+E-value: 0.0003336
+Alignment Length: 123
+Percentage Identity: 0.3
+
+=== A7S7F4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EDO40413.1};
+Bit Score: 126.0
+E-value: 0.0003336
+Alignment Length: 142
+Percentage Identity: 0.288
+
+=== A0A381YNK3 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 189.0
+E-value: 0.000353
+Alignment Length: 140
+Percentage Identity: 0.25
+
+=== A0A3M6TNX9 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 187.0
+E-value: 0.000353
+Alignment Length: 173
+Percentage Identity: 0.19
+
+=== A0A2E7V2U6 ===
+DE   SubName: Full=Glycoside hydrolase {ECO:0000313|EMBL:MBO88953.1};
+Bit Score: 167.0
+E-value: 0.000353
+Alignment Length: 121
+Percentage Identity: 0.239
+
+=== A0A1N7TAT9 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 208.0
+E-value: 0.0003735
+Alignment Length: 129
+Percentage Identity: 0.255
+
+=== A0A3J8TAN0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 176.0
+E-value: 0.0003735
+Alignment Length: 135
+Percentage Identity: 0.259
+
+=== A0A3D6C177 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 168.0
+E-value: 0.0003735
+Alignment Length: 122
+Percentage Identity: 0.27
+
+=== A8T9J0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 168.0
+E-value: 0.0003735
+Alignment Length: 137
+Percentage Identity: 0.255
+
+=== A0A2E9II91 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:MBT60438.1};
+Bit Score: 166.0
+E-value: 0.0003735
+Alignment Length: 133
+Percentage Identity: 0.278
+
+=== A0A7S3D792 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 191.0
+E-value: 0.0003951
+Alignment Length: 137
+Percentage Identity: 0.204
+
+=== A0A1F8V9X5 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 158.0
+E-value: 0.0003951
+Alignment Length: 125
+Percentage Identity: 0.304
+
+=== A0A368HDJ6 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 182.0
+E-value: 0.0004181
+Alignment Length: 135
+Percentage Identity: 0.266
+
+=== A0A0F9VFE2 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 174.0
+E-value: 0.0004181
+Alignment Length: 119
+Percentage Identity: 0.26
+
+=== A0A843GEC6 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 169.0
+E-value: 0.0004181
+Alignment Length: 126
+Percentage Identity: 0.23
+
+=== A0A364NVF5 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 168.0
+E-value: 0.0004181
+Alignment Length: 124
+Percentage Identity: 0.25
+
+=== A0A3A4WDP1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 162.0
+E-value: 0.0004181
+Alignment Length: 131
+Percentage Identity: 0.267
+
+=== A0A2E0IZ12 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 167.0
+E-value: 0.0004423
+Alignment Length: 118
+Percentage Identity: 0.228
+
+=== A0A419W5J2 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:RKD90717.1};
+Bit Score: 165.0
+E-value: 0.0004423
+Alignment Length: 122
+Percentage Identity: 0.254
+
+=== A0A7S3CRD6 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 193.0
+E-value: 0.000468
+Alignment Length: 142
+Percentage Identity: 0.204
+
+=== A0A654CCD8 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 189.0
+E-value: 0.000468
+Alignment Length: 137
+Percentage Identity: 0.24
+
+=== A0A7J4G382 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 160.0
+E-value: 0.000468
+Alignment Length: 129
+Percentage Identity: 0.302
+
+=== A0A843HMV4 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 156.0
+E-value: 0.000468
+Alignment Length: 125
+Percentage Identity: 0.28
+
+=== A0A0S7XVK3 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 190.0
+E-value: 0.0004952
+Alignment Length: 139
+Percentage Identity: 0.237
+
+=== A0A1N7TAV1 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 187.0
+E-value: 0.0004952
+Alignment Length: 126
+Percentage Identity: 0.277
+
+=== A0A1M7YJN3 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 180.0
+E-value: 0.0004952
+Alignment Length: 126
+Percentage Identity: 0.238
+
+=== A0A099KGY8 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 179.0
+E-value: 0.0004952
+Alignment Length: 138
+Percentage Identity: 0.217
+
+=== A0A7V4U4L1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 176.0
+E-value: 0.0004952
+Alignment Length: 134
+Percentage Identity: 0.186
+
+=== A0A4R3JY04 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 175.0
+E-value: 0.0004952
+Alignment Length: 124
+Percentage Identity: 0.241
+
+=== A0A3S2Y6L9 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:RVU39793.1};
+Bit Score: 167.0
+E-value: 0.0005239
+Alignment Length: 121
+Percentage Identity: 0.272
+
+=== A0A3R7SLD4 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:RPG49477.1};
+Bit Score: 165.0
+E-value: 0.0005239
+Alignment Length: 119
+Percentage Identity: 0.277
+
+=== A0A5C7JKV7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 182.0
+E-value: 0.0005543
+Alignment Length: 150
+Percentage Identity: 0.2
+
+=== A0A2V2RWK9 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:PWU07239.1};
+Bit Score: 155.0
+E-value: 0.0005543
+Alignment Length: 123
+Percentage Identity: 0.211
+
+=== E8X0S4 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 137.0
+E-value: 0.0005543
+Alignment Length: 133
+Percentage Identity: 0.278
+
+=== A0A2G9NTZ7 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 195.0
+E-value: 0.0005865
+Alignment Length: 149
+Percentage Identity: 0.255
+
+=== A0A2Z4G8T1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 190.0
+E-value: 0.0005865
+Alignment Length: 146
+Percentage Identity: 0.205
+
+=== A0A4R1M900 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 177.0
+E-value: 0.0005865
+Alignment Length: 131
+Percentage Identity: 0.221
+
+=== A0A5C6ULW6 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 170.0
+E-value: 0.0005865
+Alignment Length: 153
+Percentage Identity: 0.254
+
+=== A0A401JF78 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 168.0
+E-value: 0.0005865
+Alignment Length: 130
+Percentage Identity: 0.207
+
+=== A0A3N2DQF3 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 162.0
+E-value: 0.0005865
+Alignment Length: 121
+Percentage Identity: 0.264
+
+=== A0A7C4MN17 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 190.0
+E-value: 0.0006205
+Alignment Length: 145
+Percentage Identity: 0.186
+
+=== A0A1M7T7V4 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 170.0
+E-value: 0.0006205
+Alignment Length: 137
+Percentage Identity: 0.255
+
+=== A0A0K8MB38 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 169.0
+E-value: 0.0006205
+Alignment Length: 126
+Percentage Identity: 0.269
+
+=== A0A1Y6D0R4 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 164.0
+E-value: 0.0006205
+Alignment Length: 135
+Percentage Identity: 0.244
+
+=== Q0B7R2 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 162.0
+E-value: 0.0006205
+Alignment Length: 130
+Percentage Identity: 0.292
+
+=== A0A7Y0THK9 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 153.0
+E-value: 0.0006205
+Alignment Length: 142
+Percentage Identity: 0.246
+
+=== A0A843HJI5 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 135.0
+E-value: 0.0006205
+Alignment Length: 131
+Percentage Identity: 0.259
+
+=== A0A268TNZ3 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 179.0
+E-value: 0.0006566
+Alignment Length: 133
+Percentage Identity: 0.255
+
+=== A0A1N6M5L0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 167.0
+E-value: 0.0006566
+Alignment Length: 137
+Percentage Identity: 0.24
+
+=== A0A2E3N1H8 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 161.0
+E-value: 0.0006566
+Alignment Length: 121
+Percentage Identity: 0.272
+
+=== A0A6H2A2K2 ===
+DE   SubName: Full=Putative structural protein {ECO:0000313|EMBL:QJA53881.1};
+Bit Score: 143.0
+E-value: 0.0006566
+Alignment Length: 134
+Percentage Identity: 0.238
+
+=== A0A2A5A0C5 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 169.0
+E-value: 0.0006947
+Alignment Length: 149
+Percentage Identity: 0.241
+
+=== A0A2D9C8H7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 163.0
+E-value: 0.0006947
+Alignment Length: 123
+Percentage Identity: 0.26
+
+=== A0A6P0UJS3 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 158.0
+E-value: 0.0006947
+Alignment Length: 132
+Percentage Identity: 0.219
+
+=== A0A0R2JFT7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 150.0
+E-value: 0.0006947
+Alignment Length: 128
+Percentage Identity: 0.25
+
+=== A0A3N0V5X1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 150.0
+E-value: 0.0006947
+Alignment Length: 125
+Percentage Identity: 0.224
+
+=== A0A1H6ESU9 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 179.0
+E-value: 0.000735
+Alignment Length: 142
+Percentage Identity: 0.225
+
+=== A9V884 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 179.0
+E-value: 0.000735
+Alignment Length: 147
+Percentage Identity: 0.204
+
+=== A0A1N7TAW3 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+DE   Flags: Fragment;
+Bit Score: 177.0
+E-value: 0.000735
+Alignment Length: 128
+Percentage Identity: 0.257
+
+=== A0A3S0J7U7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 172.0
+E-value: 0.000735
+Alignment Length: 131
+Percentage Identity: 0.274
+
+=== A0A2E3JR79 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 168.0
+E-value: 0.000735
+Alignment Length: 138
+Percentage Identity: 0.246
+
+=== G1UXF8 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 160.0
+E-value: 0.000735
+Alignment Length: 134
+Percentage Identity: 0.253
+
+=== A0A4U0YH08 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 154.0
+E-value: 0.000735
+Alignment Length: 131
+Percentage Identity: 0.267
+
+=== W6M7Y1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 149.0
+E-value: 0.000735
+Alignment Length: 131
+Percentage Identity: 0.213
+
+=== A0A4Z0P380 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 144.0
+E-value: 0.000735
+Alignment Length: 132
+Percentage Identity: 0.242
+
+=== A0A6M3J1E5 ===
+DE   RecName: Full=Glycoside hydrolase {ECO:0008006|Google:ProtNLM};
+Bit Score: 138.0
+E-value: 0.000735
+Alignment Length: 138
+Percentage Identity: 0.195
+
+=== A0A3B0JDC7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 164.0
+E-value: 0.0007776
+Alignment Length: 130
+Percentage Identity: 0.176
+
+=== A0A7R9VQJ0 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 163.0
+E-value: 0.0007776
+Alignment Length: 143
+Percentage Identity: 0.181
+
+=== U3TZ86 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 162.0
+E-value: 0.0007776
+Alignment Length: 131
+Percentage Identity: 0.221
+
+=== A0A839W1G4 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 158.0
+E-value: 0.0007776
+Alignment Length: 132
+Percentage Identity: 0.234
+
+=== A0A432YXE4 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 157.0
+E-value: 0.0007776
+Alignment Length: 119
+Percentage Identity: 0.277
+
+=== F2K1S2 ===
+DE   SubName: Full=Glycoside hydrolase family 24 {ECO:0000313|EMBL:ADZ93406.1};
+Bit Score: 157.0
+E-value: 0.0007776
+Alignment Length: 121
+Percentage Identity: 0.272
+
+=== A0A2E8E9B3 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 153.0
+E-value: 0.0007776
+Alignment Length: 124
+Percentage Identity: 0.241
+
+=== A0A269PKC5 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 151.0
+E-value: 0.0007776
+Alignment Length: 123
+Percentage Identity: 0.276
+
+=== A0A840HXK4 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 150.0
+E-value: 0.0007776
+Alignment Length: 127
+Percentage Identity: 0.299
+
+=== A0A496C4S7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 145.0
+E-value: 0.0007776
+Alignment Length: 131
+Percentage Identity: 0.229
+
+=== A0A060C089 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE   Flags: Fragment;
+Bit Score: 168.0
+E-value: 0.0008228
+Alignment Length: 131
+Percentage Identity: 0.183
+
+=== A0A1N7LGS6 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 160.0
+E-value: 0.0008228
+Alignment Length: 120
+Percentage Identity: 0.25
+
+=== A0A2Z6EWM8 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:BBE09788.1};
+Bit Score: 160.0
+E-value: 0.0008228
+Alignment Length: 121
+Percentage Identity: 0.247
+
+=== A0A371R7Q5 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 157.0
+E-value: 0.0008228
+Alignment Length: 136
+Percentage Identity: 0.213
+
+=== A0A3A9DYF7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE   Flags: Fragment;
+Bit Score: 140.0
+E-value: 0.0008228
+Alignment Length: 127
+Percentage Identity: 0.259
+
+=== A0A1J4T5M9 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 160.0
+E-value: 0.0008705
+Alignment Length: 124
+Percentage Identity: 0.266
+
+=== A0A3Q9W1W2 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 148.0
+E-value: 0.0008705
+Alignment Length: 123
+Percentage Identity: 0.268
+
+=== A0A6G9YUS1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 143.0
+E-value: 0.0008705
+Alignment Length: 127
+Percentage Identity: 0.251
+
+=== A0A4R1NGQ1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 142.0
+E-value: 0.0008705
+Alignment Length: 144
+Percentage Identity: 0.222
+
+=== A0A1F2Z7P5 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 165.0
+E-value: 0.0009211
+Alignment Length: 128
+Percentage Identity: 0.218
+
+=== A0A7S1CHF0 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 164.0
+E-value: 0.0009211
+Alignment Length: 142
+Percentage Identity: 0.211
+
+=== A0A6H1ZKH1 ===
+DE   SubName: Full=Putative structural protein {ECO:0000313|EMBL:QJA48426.1};
+Bit Score: 155.0
+E-value: 0.0009211
+Alignment Length: 128
+Percentage Identity: 0.234
+
+=== A0A0F9VM21 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 154.0
+E-value: 0.0009211
+Alignment Length: 121
+Percentage Identity: 0.289
+
+=== A0A2X0S8V7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 146.0
+E-value: 0.0009211
+Alignment Length: 130
+Percentage Identity: 0.261
+
+=== A0A1C3MX32 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 178.0
+E-value: 0.0009745
+Alignment Length: 138
+Percentage Identity: 0.231
+
+=== A0A2W5VCZ6 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 169.0
+E-value: 0.0009745
+Alignment Length: 143
+Percentage Identity: 0.209
+
+=== A0A2E0UL36 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 157.0
+E-value: 0.0009745
+Alignment Length: 128
+Percentage Identity: 0.273
+
+=== A0A843S177 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:MPZ20124.1};
+Bit Score: 153.0
+E-value: 0.0009745
+Alignment Length: 119
+Percentage Identity: 0.26
+
+=== A0A5C7J3G1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 139.0
+E-value: 0.0009745
+Alignment Length: 126
+Percentage Identity: 0.277
+
+=== A0A349X3N5 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 182.0
+E-value: 0.001031
+Alignment Length: 144
+Percentage Identity: 0.243
+
+=== A0A0A2X3S0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 162.0
+E-value: 0.001031
+Alignment Length: 126
+Percentage Identity: 0.19
+
+=== A0A4P5ZKT6 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 152.0
+E-value: 0.001031
+Alignment Length: 126
+Percentage Identity: 0.285
+
+=== A0A7R9QUH5 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 149.0
+E-value: 0.001031
+Alignment Length: 131
+Percentage Identity: 0.259
+
+=== A0A383AJT6 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 143.0
+E-value: 0.001031
+Alignment Length: 123
+Percentage Identity: 0.292
+
+=== A0A3D2IIP4 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE   Flags: Fragment;
+Bit Score: 162.0
+E-value: 0.001091
+Alignment Length: 114
+Percentage Identity: 0.359
+
+=== A0A2N9LSD0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 160.0
+E-value: 0.001091
+Alignment Length: 131
+Percentage Identity: 0.259
+
+=== A0A2T6NCJ9 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 151.0
+E-value: 0.001091
+Alignment Length: 123
+Percentage Identity: 0.276
+
+=== A0A3T0L2M8 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 148.0
+E-value: 0.001091
+Alignment Length: 121
+Percentage Identity: 0.347
+
+=== A0A1Y3MSK5 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 141.0
+E-value: 0.001091
+Alignment Length: 142
+Percentage Identity: 0.197
+
+=== F7QNB1 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 166.0
+E-value: 0.001154
+Alignment Length: 108
+Percentage Identity: 0.268
+
+=== A0A7S1CF53 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 160.0
+E-value: 0.001154
+Alignment Length: 142
+Percentage Identity: 0.211
+
+=== A0A7S1CHU8 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 160.0
+E-value: 0.001154
+Alignment Length: 142
+Percentage Identity: 0.211
+
+=== A0A2D4XPD0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 155.0
+E-value: 0.001154
+Alignment Length: 124
+Percentage Identity: 0.266
+
+=== A0A1H6ZQF9 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:SEJ55723.1};
+Bit Score: 151.0
+E-value: 0.001154
+Alignment Length: 134
+Percentage Identity: 0.253
+
+=== A0A1M7CNB5 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 149.0
+E-value: 0.001154
+Alignment Length: 126
+Percentage Identity: 0.238
+
+=== A0A5E4NVC9 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 156.0
+E-value: 0.001221
+Alignment Length: 128
+Percentage Identity: 0.273
+
+=== E5YB66 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 150.0
+E-value: 0.001221
+Alignment Length: 129
+Percentage Identity: 0.217
+
+=== A0A2D6VSD9 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 145.0
+E-value: 0.001221
+Alignment Length: 132
+Percentage Identity: 0.212
+
+=== A0A815BH32 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+DE   Flags: Fragment;
+Bit Score: 171.0
+E-value: 0.001292
+Alignment Length: 146
+Percentage Identity: 0.191
+
+=== A0A0F2RQI5 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 158.0
+E-value: 0.001292
+Alignment Length: 120
+Percentage Identity: 0.25
+
+=== A0A1E4ZVU3 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 157.0
+E-value: 0.001292
+Alignment Length: 122
+Percentage Identity: 0.229
+
+=== A0A715LSR0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE   Flags: Fragment;
+Bit Score: 148.0
+E-value: 0.001292
+Alignment Length: 130
+Percentage Identity: 0.223
+
+=== A0A258LKT3 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.001292
+Alignment Length: 144
+Percentage Identity: 0.187
+
+=== A0A1N7TAW2 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 174.0
+E-value: 0.001367
+Alignment Length: 132
+Percentage Identity: 0.272
+
+=== M1N4J0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 150.0
+E-value: 0.001367
+Alignment Length: 126
+Percentage Identity: 0.246
+
+=== A0A433J7K8 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 147.0
+E-value: 0.001367
+Alignment Length: 132
+Percentage Identity: 0.25
+
+=== A0A0L0DJ41 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 148.0
+E-value: 0.001446
+Alignment Length: 159
+Percentage Identity: 0.188
+
+=== A0A6N3H7R7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 140.0
+E-value: 0.001446
+Alignment Length: 128
+Percentage Identity: 0.257
+
+=== A0A1Z9I5C9 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 172.0
+E-value: 0.00153
+Alignment Length: 139
+Percentage Identity: 0.237
+
+=== A0A3M6TNQ9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RMX42941.1};
+Bit Score: 161.0
+E-value: 0.00153
+Alignment Length: 156
+Percentage Identity: 0.153
+
+=== A0A3E0N6K4 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:REJ67705.1};
+Bit Score: 149.0
+E-value: 0.00153
+Alignment Length: 123
+Percentage Identity: 0.235
+
+=== A0A7V8DKX2 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 145.0
+E-value: 0.00153
+Alignment Length: 130
+Percentage Identity: 0.246
+
+=== Q28PX4 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 142.0
+E-value: 0.00153
+Alignment Length: 135
+Percentage Identity: 0.244
+
+=== A0A7S3DI38 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 175.0
+E-value: 0.001619
+Alignment Length: 143
+Percentage Identity: 0.195
+
+=== A0A2W4QAT5 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 150.0
+E-value: 0.001619
+Alignment Length: 121
+Percentage Identity: 0.256
+
+=== A0A5M6I5G4 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 146.0
+E-value: 0.001619
+Alignment Length: 136
+Percentage Identity: 0.242
+
+=== A0A380T3T6 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 160.0
+E-value: 0.001713
+Alignment Length: 148
+Percentage Identity: 0.236
+
+=== A0A2D8XAB4 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 149.0
+E-value: 0.001713
+Alignment Length: 127
+Percentage Identity: 0.188
+
+=== A0A553JK98 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:TRY12866.1};
+Bit Score: 140.0
+E-value: 0.001713
+Alignment Length: 124
+Percentage Identity: 0.258
+
+=== A0A850T1I2 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE   Flags: Fragment;
+Bit Score: 138.0
+E-value: 0.001713
+Alignment Length: 131
+Percentage Identity: 0.251
+
+=== A0A6L8F1C7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 158.0
+E-value: 0.001813
+Alignment Length: 143
+Percentage Identity: 0.237
+
+=== A0A7S9LKT4 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 143.0
+E-value: 0.001813
+Alignment Length: 126
+Percentage Identity: 0.222
+
+=== A0A078KPY1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 152.0
+E-value: 0.001918
+Alignment Length: 133
+Percentage Identity: 0.248
+
+=== A0A1V5R0F2 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 150.0
+E-value: 0.001918
+Alignment Length: 142
+Percentage Identity: 0.197
+
+=== L7U523 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 138.0
+E-value: 0.001918
+Alignment Length: 130
+Percentage Identity: 0.253
+
+=== A0A2N6DJC2 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:PLX71815.1};
+Bit Score: 164.0
+E-value: 0.002029
+Alignment Length: 136
+Percentage Identity: 0.235
+
+=== A0A225M2C7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 155.0
+E-value: 0.002029
+Alignment Length: 129
+Percentage Identity: 0.178
+
+=== A0A1G5SFW3 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 154.0
+E-value: 0.002029
+Alignment Length: 124
+Percentage Identity: 0.225
+
+=== A0A1H0UV03 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 152.0
+E-value: 0.002029
+Alignment Length: 120
+Percentage Identity: 0.283
+
+=== A9KG49 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 144.0
+E-value: 0.002029
+Alignment Length: 125
+Percentage Identity: 0.264
+
+=== A0A6M3LU93 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 144.0
+E-value: 0.002029
+Alignment Length: 126
+Percentage Identity: 0.19
+
+=== A0A1Y3MZJ7 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 133.0
+E-value: 0.002029
+Alignment Length: 141
+Percentage Identity: 0.241
+
+=== A0A0F9JK28 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 141.0
+E-value: 0.002147
+Alignment Length: 123
+Percentage Identity: 0.252
+
+=== C3L4H1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 136.0
+E-value: 0.002147
+Alignment Length: 137
+Percentage Identity: 0.262
+
+=== A0A1L1ZYP8 ===
+DE   RecName: Full=N-acetylmuramoyl-L-alanine amidase {ECO:0000256|ARBA:ARBA00011901};
+DE            EC=3.5.1.28 {ECO:0000256|ARBA:ARBA00011901};
+Bit Score: 165.0
+E-value: 0.002272
+Alignment Length: 132
+Percentage Identity: 0.272
+
+=== A0A167H9M7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 158.0
+E-value: 0.002272
+Alignment Length: 155
+Percentage Identity: 0.251
+
+=== A0A2S5CGH3 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 158.0
+E-value: 0.002272
+Alignment Length: 133
+Percentage Identity: 0.195
+
+=== A0A2E6GL05 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 166.0
+E-value: 0.002403
+Alignment Length: 143
+Percentage Identity: 0.223
+
+=== A0A1J4TYZ9 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.002403
+Alignment Length: 121
+Percentage Identity: 0.289
+
+=== S0FT43 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:EMS77870.1};
+DE            EC=3.2.1.17 {ECO:0000313|EMBL:EMS77870.1};
+Bit Score: 138.0
+E-value: 0.002403
+Alignment Length: 127
+Percentage Identity: 0.275
+
+=== A0A7X0EDR4 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:MBB6253048.1};
+DE            EC=3.2.1.17 {ECO:0000313|EMBL:MBB6253048.1};
+Bit Score: 161.0
+E-value: 0.002543
+Alignment Length: 141
+Percentage Identity: 0.283
+
+=== A0A212JI40 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 160.0
+E-value: 0.002543
+Alignment Length: 128
+Percentage Identity: 0.273
+
+=== A0A443VZ59 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 148.0
+E-value: 0.002543
+Alignment Length: 167
+Percentage Identity: 0.185
+
+=== A0A2D9KP11 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 146.0
+E-value: 0.002543
+Alignment Length: 140
+Percentage Identity: 0.257
+
+=== A0A7S3NUM3 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 158.0
+E-value: 0.002691
+Alignment Length: 142
+Percentage Identity: 0.183
+
+=== A0A3D5V8C7 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 152.0
+E-value: 0.002691
+Alignment Length: 116
+Percentage Identity: 0.241
+
+=== A0A2F0P4T0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 156.0
+E-value: 0.002847
+Alignment Length: 125
+Percentage Identity: 0.176
+
+=== A0A2D5MVP0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 146.0
+E-value: 0.002847
+Alignment Length: 121
+Percentage Identity: 0.264
+
+=== A0A3D4QHB3 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:HCS70073.1};
+Bit Score: 145.0
+E-value: 0.002847
+Alignment Length: 121
+Percentage Identity: 0.289
+
+=== A0A0H5Q1T3 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 130.0
+E-value: 0.003012
+Alignment Length: 134
+Percentage Identity: 0.246
+
+=== A0A4Q4GWB6 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 124.0
+E-value: 0.003012
+Alignment Length: 130
+Percentage Identity: 0.246
+
+=== A0A377A078 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 139.0
+E-value: 0.003187
+Alignment Length: 126
+Percentage Identity: 0.206
+
+=== A0A819Y5I8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAF4147395.1};
+DE   Flags: Fragment;
+Bit Score: 161.0
+E-value: 0.003372
+Alignment Length: 146
+Percentage Identity: 0.212
+
+=== A0A7V6I552 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 151.0
+E-value: 0.003372
+Alignment Length: 113
+Percentage Identity: 0.274
+
+=== A0A2E6H811 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 146.0
+E-value: 0.003372
+Alignment Length: 120
+Percentage Identity: 0.266
+
+=== A0A521YLX8 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 144.0
+E-value: 0.003372
+Alignment Length: 126
+Percentage Identity: 0.246
+
+=== A0A4Q3S555 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE   Flags: Fragment;
+Bit Score: 128.0
+E-value: 0.003372
+Alignment Length: 134
+Percentage Identity: 0.223
+
+=== A0A7Z2GQS0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 155.0
+E-value: 0.003567
+Alignment Length: 131
+Percentage Identity: 0.221
+
+=== A0A451A1H6 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 141.0
+E-value: 0.003567
+Alignment Length: 127
+Percentage Identity: 0.228
+
+=== A0A3D4KA79 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 139.0
+E-value: 0.003567
+Alignment Length: 121
+Percentage Identity: 0.256
+
+=== A0A2D9VUZ3 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 128.0
+E-value: 0.003567
+Alignment Length: 128
+Percentage Identity: 0.226
+
+=== A0A366MQ48 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 160.0
+E-value: 0.003774
+Alignment Length: 140
+Percentage Identity: 0.214
+
+=== A0A5C7ZEJ8 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 148.0
+E-value: 0.003774
+Alignment Length: 132
+Percentage Identity: 0.227
+
+=== K1KHD9 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 144.0
+E-value: 0.003774
+Alignment Length: 130
+Percentage Identity: 0.238
+
+=== A0A1E4GWM4 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 144.0
+E-value: 0.003774
+Alignment Length: 134
+Percentage Identity: 0.156
+
+=== A0A1V5WW45 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 140.0
+E-value: 0.003774
+Alignment Length: 126
+Percentage Identity: 0.214
+
+=== A0A1S2UDK3 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 134.0
+E-value: 0.003774
+Alignment Length: 146
+Percentage Identity: 0.171
+
+=== A0A2S2D0Q4 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 133.0
+E-value: 0.003774
+Alignment Length: 151
+Percentage Identity: 0.251
+
+=== A0A0F9VRR1 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 126.0
+E-value: 0.003774
+Alignment Length: 123
+Percentage Identity: 0.26
+
+=== A0A1Y1I8X5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAQ87434.1};
+Bit Score: 152.0
+E-value: 0.003994
+Alignment Length: 147
+Percentage Identity: 0.19
+
+=== A0A1V1WSP4 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 147.0
+E-value: 0.003994
+Alignment Length: 121
+Percentage Identity: 0.231
+
+=== A0A3A1YD39 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 137.0
+E-value: 0.003994
+Alignment Length: 129
+Percentage Identity: 0.201
+
+=== G9ZXI2 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 130.0
+E-value: 0.003994
+Alignment Length: 137
+Percentage Identity: 0.24
+
+=== A0A3P2RCD3 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 130.0
+E-value: 0.003994
+Alignment Length: 128
+Percentage Identity: 0.226
+
+=== A0A3M0WFY7 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 167.0
+E-value: 0.004225
+Alignment Length: 141
+Percentage Identity: 0.212
+
+=== A0A7H8XGC0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 163.0
+E-value: 0.004225
+Alignment Length: 141
+Percentage Identity: 0.219
+
+=== A0A268TX53 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 154.0
+E-value: 0.004225
+Alignment Length: 131
+Percentage Identity: 0.213
+
+=== A0A1G3M4E2 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 137.0
+E-value: 0.004225
+Alignment Length: 151
+Percentage Identity: 0.211
+
+=== R9JLH4 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 120.0
+E-value: 0.004225
+Alignment Length: 133
+Percentage Identity: 0.255
+
+=== A0A6M3JSE5 ===
+DE   RecName: Full=Glycoside hydrolase {ECO:0008006|Google:ProtNLM};
+Bit Score: 153.0
+E-value: 0.004471
+Alignment Length: 146
+Percentage Identity: 0.178
+
+=== A0A562XLT7 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:TWO22633.1};
+Bit Score: 151.0
+E-value: 0.004471
+Alignment Length: 134
+Percentage Identity: 0.261
+
+=== A0A1A9WZ64 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 148.0
+E-value: 0.004471
+Alignment Length: 127
+Percentage Identity: 0.165
+
+=== A0A6M3L2N4 ===
+DE   RecName: Full=Glycoside hydrolase {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.004471
+Alignment Length: 145
+Percentage Identity: 0.179
+
+=== A0A2E7MUP5 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:MBO00982.1};
+Bit Score: 132.0
+E-value: 0.004471
+Alignment Length: 121
+Percentage Identity: 0.28
+
+=== A0A7V4STE1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 130.0
+E-value: 0.004471
+Alignment Length: 120
+Percentage Identity: 0.266
+
+=== A0A1M7LW81 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 127.0
+E-value: 0.004471
+Alignment Length: 125
+Percentage Identity: 0.272
+
+=== A0A819NHG9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAF3998282.1};
+Bit Score: 152.0
+E-value: 0.00473
+Alignment Length: 170
+Percentage Identity: 0.194
+
+=== A0A5M8SN91 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 151.0
+E-value: 0.00473
+Alignment Length: 156
+Percentage Identity: 0.192
+
+=== A0A3B9BW49 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 128.0
+E-value: 0.00473
+Alignment Length: 134
+Percentage Identity: 0.201
+
+=== A0A6M3JII4 ===
+DE   RecName: Full=Glycoside hydrolase {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.005005
+Alignment Length: 121
+Percentage Identity: 0.19
+
+=== A0A2T1DR14 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 138.0
+E-value: 0.005005
+Alignment Length: 126
+Percentage Identity: 0.253
+
+=== I2Q041 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 149.0
+E-value: 0.005295
+Alignment Length: 131
+Percentage Identity: 0.282
+
+=== A0A348V6Y8 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 129.0
+E-value: 0.005295
+Alignment Length: 126
+Percentage Identity: 0.23
+
+=== A0A317GWZ0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 126.0
+E-value: 0.005295
+Alignment Length: 138
+Percentage Identity: 0.202
+
+=== A0A2G4FLC1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 146.0
+E-value: 0.005602
+Alignment Length: 152
+Percentage Identity: 0.243
+
+=== A0A380A443 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 136.0
+E-value: 0.005602
+Alignment Length: 138
+Percentage Identity: 0.173
+
+=== A0A3T0EDP8 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 131.0
+E-value: 0.005602
+Alignment Length: 132
+Percentage Identity: 0.181
+
+=== A0A066ZM01 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 129.0
+E-value: 0.005602
+Alignment Length: 122
+Percentage Identity: 0.245
+
+=== A0A3M3YCV8 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 140.0
+E-value: 0.005928
+Alignment Length: 135
+Percentage Identity: 0.148
+
+=== A0A1Z8LH42 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 126.0
+E-value: 0.005928
+Alignment Length: 107
+Percentage Identity: 0.186
+
+=== A0A702GFV6 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE   Flags: Fragment;
+Bit Score: 137.0
+E-value: 0.006272
+Alignment Length: 104
+Percentage Identity: 0.25
+
+=== A0A5J4T6G6 ===
+DE   SubName: Full=Putative lysozyme {ECO:0000313|EMBL:KAA6353383.1};
+DE   Flags: Fragment;
+Bit Score: 130.0
+E-value: 0.006272
+Alignment Length: 123
+Percentage Identity: 0.219
+
+=== A0A1H8XMW8 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 120.0
+E-value: 0.006272
+Alignment Length: 140
+Percentage Identity: 0.214
+
+=== A0A7W6GDH2 ===
+DE   SubName: Full=GH24 family phage-related lysozyme (Muramidase) {ECO:0000313|EMBL:MBB3971821.1};
+Bit Score: 156.0
+E-value: 0.006636
+Alignment Length: 137
+Percentage Identity: 0.197
+
+=== A0A316MU83 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 143.0
+E-value: 0.006636
+Alignment Length: 128
+Percentage Identity: 0.242
+
+=== A0A268U400 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 142.0
+E-value: 0.006636
+Alignment Length: 133
+Percentage Identity: 0.24
+
+=== A0A345CWD3 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 131.0
+E-value: 0.006636
+Alignment Length: 125
+Percentage Identity: 0.184
+
+=== A0A7D9M2X0 ===
+DE   SubName: Full=Probable T4-type lysozyme 2 {ECO:0000313|EMBL:CAB4041042.1};
+Bit Score: 148.0
+E-value: 0.007021
+Alignment Length: 154
+Percentage Identity: 0.123
+
+=== A0A7C2ADC1 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.007021
+Alignment Length: 122
+Percentage Identity: 0.213
+
+=== A0A1Y6C2N0 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 142.0
+E-value: 0.007021
+Alignment Length: 143
+Percentage Identity: 0.209
+
+=== L1M7X0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 136.0
+E-value: 0.007021
+Alignment Length: 131
+Percentage Identity: 0.229
+
+=== A0A2G6GNA8 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 126.0
+E-value: 0.007021
+Alignment Length: 132
+Percentage Identity: 0.219
+
+=== A0A2N2VYR5 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 122.0
+E-value: 0.007021
+Alignment Length: 135
+Percentage Identity: 0.229
+
+=== A0A843GVL0 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 115.0
+E-value: 0.007021
+Alignment Length: 129
+Percentage Identity: 0.224
+
+=== A0A7R7DMN1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 151.0
+E-value: 0.007428
+Alignment Length: 142
+Percentage Identity: 0.197
+
+=== A0A381Y0Y6 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 137.0
+E-value: 0.007428
+Alignment Length: 118
+Percentage Identity: 0.322
+
+=== A0A7X9C6K7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 143.0
+E-value: 0.00786
+Alignment Length: 151
+Percentage Identity: 0.165
+
+=== A0A1V2N8E9 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE   Flags: Fragment;
+Bit Score: 143.0
+E-value: 0.008316
+Alignment Length: 122
+Percentage Identity: 0.172
+
+=== Q9P9P8 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 126.0
+E-value: 0.008316
+Alignment Length: 129
+Percentage Identity: 0.232
+
+=== A0A7X9JNE0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 124.0
+E-value: 0.008316
+Alignment Length: 135
+Percentage Identity: 0.177
+
+=== A0A2S7CGZ6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PPU60804.1};
+Bit Score: 111.0
+E-value: 0.008316
+Alignment Length: 129
+Percentage Identity: 0.162
+
+=== A0A2W6PP38 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 153.0
+E-value: 0.008798
+Alignment Length: 132
+Percentage Identity: 0.242
+
+=== D4H7B1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 141.0
+E-value: 0.008798
+Alignment Length: 134
+Percentage Identity: 0.231
+
+=== A0A246PZI7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 137.0
+E-value: 0.008798
+Alignment Length: 138
+Percentage Identity: 0.159
+
+=== A0A1S3HEY6 ===
+DE   SubName: Full=Uncharacterized protein LOC106154686 {ECO:0000313|RefSeq:XP_013384585.1};
+Bit Score: 151.0
+E-value: 0.009309
+Alignment Length: 154
+Percentage Identity: 0.175
+
+=== A0A381XMS6 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.009309
+Alignment Length: 109
+Percentage Identity: 0.211
+
+=== A0A5T6BNR2 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE   Flags: Fragment;
+Bit Score: 125.0
+E-value: 0.009309
+Alignment Length: 137
+Percentage Identity: 0.153
+
+=== A0A369Q5N9 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 119.0
+E-value: 0.009309
+Alignment Length: 160
+Percentage Identity: 0.225
+
+=== A0A7H8XEL7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 140.0
+E-value: 0.009849
+Alignment Length: 143
+Percentage Identity: 0.202
+
+=== A0A4U8UBC7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 149.0
+E-value: 0.01042
+Alignment Length: 97
+Percentage Identity: 0.247
+
+=== A0A0Q7DQU4 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 142.0
+E-value: 0.01042
+Alignment Length: 130
+Percentage Identity: 0.238
+
+=== A0A350PK38 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:HAW81655.1};
+DE   Flags: Fragment;
+Bit Score: 135.0
+E-value: 0.01042
+Alignment Length: 110
+Percentage Identity: 0.254
+
+=== A0A4S4AN30 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 120.0
+E-value: 0.01042
+Alignment Length: 125
+Percentage Identity: 0.2
+
+=== I9UUA1 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:EJB85391.1};
+DE            EC=3.2.1.17 {ECO:0000313|EMBL:EJB85391.1};
+Bit Score: 156.0
+E-value: 0.01103
+Alignment Length: 124
+Percentage Identity: 0.177
+
+=== A0A1Z8S189 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 137.0
+E-value: 0.01103
+Alignment Length: 143
+Percentage Identity: 0.223
+
+=== A0A7U0N3R0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 130.0
+E-value: 0.01103
+Alignment Length: 124
+Percentage Identity: 0.185
+
+=== A0A2D9CKF8 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 122.0
+E-value: 0.01167
+Alignment Length: 128
+Percentage Identity: 0.226
+
+=== A0A0N1L9V2 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 121.0
+E-value: 0.01167
+Alignment Length: 127
+Percentage Identity: 0.212
+
+=== A0A090V1M7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 120.0
+E-value: 0.01167
+Alignment Length: 126
+Percentage Identity: 0.182
+
+=== A0A1S3H545 ===
+DE   SubName: Full=Uncharacterized protein LOC106152131 {ECO:0000313|RefSeq:XP_013381080.1, ECO:0000313|RefSeq:XP_013381087.1};
+Bit Score: 152.0
+E-value: 0.01234
+Alignment Length: 154
+Percentage Identity: 0.168
+
+=== A0A5C7PF01 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 130.0
+E-value: 0.01234
+Alignment Length: 126
+Percentage Identity: 0.174
+
+=== A0A7J0AFK5 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 124.0
+E-value: 0.01234
+Alignment Length: 132
+Percentage Identity: 0.227
+
+=== A0A7D9M3P2 ===
+DE   SubName: Full=Probable T4-type lysozyme 2 {ECO:0000313|EMBL:CAB4041043.1};
+Bit Score: 144.0
+E-value: 0.01306
+Alignment Length: 153
+Percentage Identity: 0.13
+
+=== A0A497PPW7 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 139.0
+E-value: 0.01306
+Alignment Length: 132
+Percentage Identity: 0.204
+
+=== A0A2E5C6W5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBG57993.1};
+Bit Score: 112.0
+E-value: 0.01306
+Alignment Length: 118
+Percentage Identity: 0.194
+
+=== A0A1J4W2R7 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 140.0
+E-value: 0.01382
+Alignment Length: 142
+Percentage Identity: 0.19
+
+=== A0A822C7M0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAF5037666.1};
+Bit Score: 138.0
+E-value: 0.01382
+Alignment Length: 101
+Percentage Identity: 0.217
+
+=== J2HCF9 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 123.0
+E-value: 0.01382
+Alignment Length: 129
+Percentage Identity: 0.209
+
+=== A0A1H6F4K0 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 141.0
+E-value: 0.01462
+Alignment Length: 143
+Percentage Identity: 0.181
+
+=== A0A2S9GZE1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 124.0
+E-value: 0.01462
+Alignment Length: 127
+Percentage Identity: 0.157
+
+=== A0A358B152 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 117.0
+E-value: 0.01462
+Alignment Length: 124
+Percentage Identity: 0.153
+
+=== A0A0F9L134 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 112.0
+E-value: 0.01462
+Alignment Length: 128
+Percentage Identity: 0.234
+
+=== E1Q599 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 155.0
+E-value: 0.01547
+Alignment Length: 126
+Percentage Identity: 0.198
+
+=== A0A2K9LEQ0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 140.0
+E-value: 0.01547
+Alignment Length: 98
+Percentage Identity: 0.275
+
+=== A0A2G2J894 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 125.0
+E-value: 0.01637
+Alignment Length: 130
+Percentage Identity: 0.215
+
+=== J9HSS3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EJY69127.1};
+Bit Score: 120.0
+E-value: 0.01637
+Alignment Length: 156
+Percentage Identity: 0.179
+
+=== A0A4P6GWD7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 119.0
+E-value: 0.01637
+Alignment Length: 125
+Percentage Identity: 0.184
+
+=== A0A6A8A260 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 109.0
+E-value: 0.01637
+Alignment Length: 108
+Percentage Identity: 0.212
+
+=== A0A1Z9PM59 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 123.0
+E-value: 0.01732
+Alignment Length: 119
+Percentage Identity: 0.218
+
+=== A0A1C7W772 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 121.0
+E-value: 0.01732
+Alignment Length: 135
+Percentage Identity: 0.155
+
+=== A0A2S6T0A2 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE   Flags: Fragment;
+Bit Score: 143.0
+E-value: 0.01832
+Alignment Length: 98
+Percentage Identity: 0.255
+
+=== Q2NSC9 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 113.0
+E-value: 0.01832
+Alignment Length: 132
+Percentage Identity: 0.151
+
+=== A0A7C7C544 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.01938
+Alignment Length: 143
+Percentage Identity: 0.181
+
+=== A0A0F4VLV0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 132.0
+E-value: 0.01938
+Alignment Length: 101
+Percentage Identity: 0.237
+
+=== A0A0C5VV51 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 130.0
+E-value: 0.01938
+Alignment Length: 161
+Percentage Identity: 0.229
+
+=== A0A212KM50 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 127.0
+E-value: 0.01938
+Alignment Length: 133
+Percentage Identity: 0.248
+
+=== A0A3C0GBR9 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 113.0
+E-value: 0.01938
+Alignment Length: 123
+Percentage Identity: 0.227
+
+=== A0A1Y4IX13 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 101.0
+E-value: 0.02051
+Alignment Length: 129
+Percentage Identity: 0.232
+
+=== A0A6S7FM44 ===
+DE   SubName: Full=Probable T4-type lysozyme 1 {ECO:0000313|EMBL:CAB3977016.1};
+Bit Score: 136.0
+E-value: 0.0217
+Alignment Length: 149
+Percentage Identity: 0.127
+
+=== A0A6M3J136 ===
+DE   SubName: Full=Putative glycoside hydrolase {ECO:0000313|EMBL:QJA63045.1};
+Bit Score: 133.0
+E-value: 0.0217
+Alignment Length: 117
+Percentage Identity: 0.273
+
+=== A0A2E5KWR7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 105.0
+E-value: 0.0217
+Alignment Length: 131
+Percentage Identity: 0.267
+
+=== A0A2S8IY52 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 128.0
+E-value: 0.02296
+Alignment Length: 148
+Percentage Identity: 0.168
+
+=== A0A800CXR2 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 122.0
+E-value: 0.02296
+Alignment Length: 118
+Percentage Identity: 0.211
+
+=== A0A644UAI3 ===
+DE   RecName: Full=Peptidase M15B domain-containing protein {ECO:0000259|Pfam:PF02557};
+Bit Score: 119.0
+E-value: 0.02296
+Alignment Length: 162
+Percentage Identity: 0.16
+
+=== A0A2S6UF56 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.02296
+Alignment Length: 206
+Percentage Identity: 0.135
+
+=== A0A5C7JS74 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.02429
+Alignment Length: 151
+Percentage Identity: 0.172
+
+=== A0A142JHX9 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 117.0
+E-value: 0.02429
+Alignment Length: 136
+Percentage Identity: 0.205
+
+=== A0A317J5Y4 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 130.0
+E-value: 0.0257
+Alignment Length: 172
+Percentage Identity: 0.162
+
+=== A0A2E9SWV3 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 129.0
+E-value: 0.0257
+Alignment Length: 132
+Percentage Identity: 0.196
+
+=== A0A0B5DZ45 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 121.0
+E-value: 0.0257
+Alignment Length: 129
+Percentage Identity: 0.17
+
+=== A0A330M3W1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 124.0
+E-value: 0.02719
+Alignment Length: 135
+Percentage Identity: 0.185
+
+=== A0A0D0JR24 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KIP87470.1};
+Bit Score: 108.0
+E-value: 0.02719
+Alignment Length: 133
+Percentage Identity: 0.142
+
+=== A0A347U8E3 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:RXI29009.1};
+Bit Score: 103.0
+E-value: 0.02719
+Alignment Length: 134
+Percentage Identity: 0.179
+
+=== C3Y552 ===
+DE   RecName: Full=Granulins domain-containing protein {ECO:0000259|Pfam:PF00396};
+Bit Score: 124.0
+E-value: 0.02877
+Alignment Length: 157
+Percentage Identity: 0.133
+
+=== A0A2E7W3M0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 115.0
+E-value: 0.02877
+Alignment Length: 127
+Percentage Identity: 0.188
+
+=== A0A2D3TE31 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 132.0
+E-value: 0.03044
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== F3QSN7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 112.0
+E-value: 0.03044
+Alignment Length: 134
+Percentage Identity: 0.201
+
+=== A0A1I0EC53 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 105.0
+E-value: 0.03044
+Alignment Length: 115
+Percentage Identity: 0.191
+
+=== A0A7S3I1K0 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 144.0
+E-value: 0.03221
+Alignment Length: 91
+Percentage Identity: 0.186
+
+=== Q22T26 ===
+DE   SubName: Full=Transmembrane protein, putative {ECO:0000313|EMBL:EAR88612.1};
+Bit Score: 129.0
+E-value: 0.03221
+Alignment Length: 153
+Percentage Identity: 0.124
+
+=== A0A3P5XF32 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 126.0
+E-value: 0.03221
+Alignment Length: 171
+Percentage Identity: 0.122
+
+=== A4WPP1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE   Flags: Precursor;
+Bit Score: 122.0
+E-value: 0.03221
+Alignment Length: 129
+Percentage Identity: 0.186
+
+=== A0A2G2MTD8 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 114.0
+E-value: 0.03221
+Alignment Length: 129
+Percentage Identity: 0.209
+
+=== C3X1U7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 114.0
+E-value: 0.03606
+Alignment Length: 133
+Percentage Identity: 0.233
+
+=== A0A0C1GCU4 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 107.0
+E-value: 0.03606
+Alignment Length: 124
+Percentage Identity: 0.169
+
+=== A0A2E4ID87 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:MBE27515.1};
+Bit Score: 106.0
+E-value: 0.03606
+Alignment Length: 126
+Percentage Identity: 0.23
+
+=== A0A6M3LA12 ===
+DE   RecName: Full=Glycoside hydrolase {ECO:0008006|Google:ProtNLM};
+Bit Score: 128.0
+E-value: 0.03815
+Alignment Length: 110
+Percentage Identity: 0.218
+
+=== A0A1L3I5D1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 107.0
+E-value: 0.03815
+Alignment Length: 124
+Percentage Identity: 0.193
+
+=== A0A7V5Q0A1 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.04036
+Alignment Length: 141
+Percentage Identity: 0.163
+
+=== A0A7Y5UKL2 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.04036
+Alignment Length: 168
+Percentage Identity: 0.148
+
+=== A0A3R9ZAC7 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 116.0
+E-value: 0.04036
+Alignment Length: 134
+Percentage Identity: 0.149
+
+=== A0A127T3X0 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 110.0
+E-value: 0.04036
+Alignment Length: 119
+Percentage Identity: 0.218
+
+=== A0A1Y3P0S9 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+Bit Score: 109.0
+E-value: 0.04036
+Alignment Length: 133
+Percentage Identity: 0.225
+
+=== A0A7W7AKQ6 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 104.0
+E-value: 0.04036
+Alignment Length: 126
+Percentage Identity: 0.19
+
+=== A0A0V0PWS0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 97.0
+E-value: 0.04036
+Alignment Length: 148
+Percentage Identity: 0.141
+
+=== A0A1I7J3V8 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 113.0
+E-value: 0.04271
+Alignment Length: 134
+Percentage Identity: 0.179
+
+=== A0A259NPH4 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 109.0
+E-value: 0.04271
+Alignment Length: 117
+Percentage Identity: 0.213
+
+=== A0A5C7S8Y1 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 100.0
+E-value: 0.04271
+Alignment Length: 131
+Percentage Identity: 0.19
+
+=== A0A6S7FCR5 ===
+DE   SubName: Full=Phage-related lysozyme (Muramidase), GH24 family {ECO:0000313|EMBL:CAB3977015.1};
+Bit Score: 135.0
+E-value: 0.04518
+Alignment Length: 152
+Percentage Identity: 0.111
+
+=== A0A3E2N5A0 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 92.0
+E-value: 0.04518
+Alignment Length: 130
+Percentage Identity: 0.223
+
+=== A0A1J4SV39 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 126.0
+E-value: 0.04781
+Alignment Length: 95
+Percentage Identity: 0.305
+
+=== A0A7X3UGX2 ===
+DE   RecName: Full=Lysozyme {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.04781
+Alignment Length: 167
+Percentage Identity: 0.179
+
+=== A0A146KDH7 ===
+DE   RecName: Full=lysozyme {ECO:0000256|ARBA:ARBA00012732};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732};
+DE   Flags: Fragment;
+Bit Score: 112.0
+E-value: 0.04781
+Alignment Length: 102
+Percentage Identity: 0.245
+

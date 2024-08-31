@@ -1,0 +1,42 @@
+=== A0A7C1QL50 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HEC51751.1};
+Bit Score: 239.0
+E-value: 4.555e-07
+Alignment Length: 121
+Percentage Identity: 0.314
+
+=== A2SMV1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ABM96890.1};
+Bit Score: 209.0
+E-value: 6.923e-06
+Alignment Length: 114
+Percentage Identity: 0.289
+
+=== A0A7X3HR39 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MWL91792.1};
+Bit Score: 231.0
+E-value: 1.65e-05
+Alignment Length: 91
+Percentage Identity: 0.34
+
+=== A0A2G2GAZ4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PHR58751.1};
+Bit Score: 180.0
+E-value: 2.622e-05
+Alignment Length: 145
+Percentage Identity: 0.241
+
+=== A0A7V5R7H9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HHL35190.1};
+Bit Score: 178.0
+E-value: 2.944e-05
+Alignment Length: 136
+Percentage Identity: 0.308
+
+=== A0A6L5HKM9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MQU03011.1};
+Bit Score: 127.0
+E-value: 0.02729
+Alignment Length: 71
+Percentage Identity: 0.225
+

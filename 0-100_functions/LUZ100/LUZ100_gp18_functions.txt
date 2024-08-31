@@ -1,0 +1,3018 @@
+=== A0A1H2I729 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:SDU39746.1};
+Bit Score: 391.0
+E-value: 1.114e-09
+Alignment Length: 76
+Percentage Identity: 0.763
+
+=== A0A7X3HD70 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 351.0
+E-value: 5.812e-09
+Alignment Length: 80
+Percentage Identity: 0.725
+
+=== A0A1Y3KBA2 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 364.0
+E-value: 6.193e-09
+Alignment Length: 80
+Percentage Identity: 0.6
+
+=== A0A228QWZ9 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 240.0
+E-value: 1.659e-06
+Alignment Length: 94
+Percentage Identity: 0.297
+
+=== A0A1B7WW99 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 271.0
+E-value: 2.758e-06
+Alignment Length: 80
+Percentage Identity: 0.312
+
+=== A0A433WU13 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 224.0
+E-value: 3.555e-06
+Alignment Length: 98
+Percentage Identity: 0.306
+
+=== A0A0Q6XNQ2 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 251.0
+E-value: 4.037e-06
+Alignment Length: 78
+Percentage Identity: 0.358
+
+=== A0A1X0TCX6 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 281.0
+E-value: 4.584e-06
+Alignment Length: 65
+Percentage Identity: 0.43
+
+=== G4CG74 ===
+DE   RecName: Full=Helix-turn-helix domain protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 257.0
+E-value: 5.205e-06
+Alignment Length: 74
+Percentage Identity: 0.351
+
+=== A0A1W6PS61 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:ARO29924.1};
+Bit Score: 244.0
+E-value: 5.205e-06
+Alignment Length: 86
+Percentage Identity: 0.279
+
+=== A0A6M3JYZ5 ===
+DE   SubName: Full=Putative DNA binding, helix-turn-helix domain containing protein {ECO:0000313|EMBL:QJA75303.1};
+Bit Score: 217.0
+E-value: 5.205e-06
+Alignment Length: 105
+Percentage Identity: 0.295
+
+=== A0A1M3KSX9 ===
+DE   RecName: Full=DUF4314 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 243.0
+E-value: 5.547e-06
+Alignment Length: 82
+Percentage Identity: 0.329
+
+=== A0A3S0SIG1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RUL98557.1};
+Bit Score: 241.0
+E-value: 5.91e-06
+Alignment Length: 84
+Percentage Identity: 0.297
+
+=== A0A2D9GM00 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 209.0
+E-value: 5.91e-06
+Alignment Length: 107
+Percentage Identity: 0.317
+
+=== A0A2V4DZK9 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 247.0
+E-value: 6.711e-06
+Alignment Length: 74
+Percentage Identity: 0.418
+
+=== A0A259PNG0 ===
+DE   RecName: Full=Helix-turn-helix type 11 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 273.0
+E-value: 7.151e-06
+Alignment Length: 65
+Percentage Identity: 0.415
+
+=== A0A843HJE4 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:MBO7731847.1};
+Bit Score: 272.0
+E-value: 8.12e-06
+Alignment Length: 63
+Percentage Identity: 0.412
+
+=== A0A258Q2R1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OYY49051.1};
+Bit Score: 268.0
+E-value: 8.12e-06
+Alignment Length: 65
+Percentage Identity: 0.461
+
+=== A0A1A9T4G5 ===
+DE   RecName: Full=Transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 243.0
+E-value: 9.22e-06
+Alignment Length: 74
+Percentage Identity: 0.445
+
+=== A0A2D6P7N4 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 260.0
+E-value: 9.825e-06
+Alignment Length: 73
+Percentage Identity: 0.369
+
+=== A0A2E6KFE9 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 204.0
+E-value: 9.825e-06
+Alignment Length: 94
+Percentage Identity: 0.265
+
+=== A0A3N4NBB5 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 273.0
+E-value: 1.116e-05
+Alignment Length: 66
+Percentage Identity: 0.393
+
+=== A0A6L9LZE2 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 253.0
+E-value: 1.116e-05
+Alignment Length: 76
+Percentage Identity: 0.355
+
+=== A0A512H7X2 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 219.0
+E-value: 1.116e-05
+Alignment Length: 100
+Percentage Identity: 0.25
+
+=== A0A6N7D9L9 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 249.0
+E-value: 1.189e-05
+Alignment Length: 74
+Percentage Identity: 0.351
+
+=== A0A3M2BV60 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 229.0
+E-value: 1.189e-05
+Alignment Length: 80
+Percentage Identity: 0.375
+
+=== A0A142JMW7 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 237.0
+E-value: 1.267e-05
+Alignment Length: 77
+Percentage Identity: 0.389
+
+=== A0A2V4DPE1 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 243.0
+E-value: 1.35e-05
+Alignment Length: 78
+Percentage Identity: 0.384
+
+=== A0A494TK67 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AYJ85515.1};
+Bit Score: 261.0
+E-value: 1.438e-05
+Alignment Length: 66
+Percentage Identity: 0.393
+
+=== A0A2E7EDY9 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 203.0
+E-value: 1.438e-05
+Alignment Length: 93
+Percentage Identity: 0.301
+
+=== A6VNN3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ABR74580.1};
+Bit Score: 219.0
+E-value: 1.74e-05
+Alignment Length: 94
+Percentage Identity: 0.319
+
+=== F2BBL2 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 199.0
+E-value: 1.855e-05
+Alignment Length: 91
+Percentage Identity: 0.34
+
+=== A0A6H2A1V5 ===
+DE   SubName: Full=Putative DNA binding, helix-turn-helix domain containing protein {ECO:0000313|EMBL:QJA53692.1};
+Bit Score: 232.0
+E-value: 1.976e-05
+Alignment Length: 72
+Percentage Identity: 0.361
+
+=== A0A162J2Z1 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 252.0
+E-value: 2.106e-05
+Alignment Length: 68
+Percentage Identity: 0.397
+
+=== X0SND1 ===
+DE   RecName: Full=Helix-turn-helix type 11 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 202.0
+E-value: 2.106e-05
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A523X4Z6 ===
+DE   SubName: Full=DNA-binding protein {ECO:0000313|EMBL:TET74377.1};
+Bit Score: 243.0
+E-value: 2.244e-05
+Alignment Length: 74
+Percentage Identity: 0.364
+
+=== A0A646HQ92 ===
+DE   SubName: Full=DNA-binding protein {ECO:0000313|EMBL:MQN88580.1};
+Bit Score: 222.0
+E-value: 2.391e-05
+Alignment Length: 78
+Percentage Identity: 0.41
+
+=== A0A1G4T7K9 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:SCW77177.1};
+Bit Score: 219.0
+E-value: 2.391e-05
+Alignment Length: 87
+Percentage Identity: 0.264
+
+=== A0A3D2VCP2 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 260.0
+E-value: 2.548e-05
+Alignment Length: 64
+Percentage Identity: 0.406
+
+=== A0A496NDY7 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 247.0
+E-value: 2.548e-05
+Alignment Length: 70
+Percentage Identity: 0.314
+
+=== A0A5E8GZ53 ===
+DE   RecName: Full=Helix-turn-helix protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 243.0
+E-value: 2.548e-05
+Alignment Length: 65
+Percentage Identity: 0.384
+
+=== A0A077DIZ7 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 249.0
+E-value: 2.715e-05
+Alignment Length: 64
+Percentage Identity: 0.406
+
+=== A0A562FNJ6 ===
+DE   SubName: Full=Helix-turn-helix protein {ECO:0000313|EMBL:TWH35573.1};
+Bit Score: 233.0
+E-value: 2.715e-05
+Alignment Length: 69
+Percentage Identity: 0.376
+
+=== H1XTF8 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:APF16971.1};
+Bit Score: 245.0
+E-value: 2.893e-05
+Alignment Length: 70
+Percentage Identity: 0.4
+
+=== A0A0S8E046 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 218.0
+E-value: 3.083e-05
+Alignment Length: 76
+Percentage Identity: 0.368
+
+=== A0A442WFQ3 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 217.0
+E-value: 3.285e-05
+Alignment Length: 76
+Percentage Identity: 0.342
+
+=== A0A557SQ75 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 182.0
+E-value: 3.285e-05
+Alignment Length: 99
+Percentage Identity: 0.252
+
+=== A0A4R6Y5R2 ===
+DE   SubName: Full=Helix-turn-helix protein {ECO:0000313|EMBL:TDR30662.1};
+Bit Score: 233.0
+E-value: 3.5e-05
+Alignment Length: 73
+Percentage Identity: 0.356
+
+=== A0A2N3IGB6 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 230.0
+E-value: 3.5e-05
+Alignment Length: 77
+Percentage Identity: 0.337
+
+=== A0A355IR67 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 238.0
+E-value: 3.975e-05
+Alignment Length: 71
+Percentage Identity: 0.338
+
+=== A0A3B9K1N2 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 227.0
+E-value: 3.975e-05
+Alignment Length: 71
+Percentage Identity: 0.352
+
+=== A0A6M4P7N3 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 227.0
+E-value: 3.975e-05
+Alignment Length: 73
+Percentage Identity: 0.342
+
+=== A0A1W9GIF2 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 192.0
+E-value: 3.975e-05
+Alignment Length: 92
+Percentage Identity: 0.271
+
+=== E3CUW1 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 244.0
+E-value: 4.235e-05
+Alignment Length: 65
+Percentage Identity: 0.415
+
+=== X6HMT3 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 228.0
+E-value: 4.235e-05
+Alignment Length: 67
+Percentage Identity: 0.432
+
+=== A0A2L0PQ69 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 212.0
+E-value: 4.235e-05
+Alignment Length: 80
+Percentage Identity: 0.325
+
+=== A0A323ULG9 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 188.0
+E-value: 4.235e-05
+Alignment Length: 87
+Percentage Identity: 0.321
+
+=== A0A377QWP9 ===
+DE   RecName: Full=Helix-turn-helix domain {ECO:0008006|Google:ProtNLM};
+Bit Score: 218.0
+E-value: 4.513e-05
+Alignment Length: 73
+Percentage Identity: 0.369
+
+=== A0A1W1YSW9 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:SMC39310.1};
+Bit Score: 182.0
+E-value: 4.513e-05
+Alignment Length: 86
+Percentage Identity: 0.313
+
+=== A0A3D3QLA0 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 182.0
+E-value: 4.513e-05
+Alignment Length: 106
+Percentage Identity: 0.264
+
+=== A0A0Q6XSI5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KQW02232.1};
+Bit Score: 246.0
+E-value: 4.809e-05
+Alignment Length: 66
+Percentage Identity: 0.287
+
+=== A0A2D6X643 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 243.0
+E-value: 4.809e-05
+Alignment Length: 62
+Percentage Identity: 0.322
+
+=== A0A1G6IE56 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:SDC04832.1};
+Bit Score: 241.0
+E-value: 5.125e-05
+Alignment Length: 65
+Percentage Identity: 0.353
+
+=== A0A1A9RV80 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 239.0
+E-value: 5.125e-05
+Alignment Length: 70
+Percentage Identity: 0.371
+
+=== A0A4Q2IZK9 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 187.0
+E-value: 5.125e-05
+Alignment Length: 106
+Percentage Identity: 0.245
+
+=== A0A6G1WUK9 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 198.0
+E-value: 5.461e-05
+Alignment Length: 95
+Percentage Identity: 0.284
+
+=== A0A375J295 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 176.0
+E-value: 5.461e-05
+Alignment Length: 103
+Percentage Identity: 0.252
+
+=== A0A6M3J0Q0 ===
+DE   SubName: Full=Putative DNA binding, helix-turn-helix domain containing protein {ECO:0000313|EMBL:QJA63178.1};
+Bit Score: 236.0
+E-value: 5.819e-05
+Alignment Length: 71
+Percentage Identity: 0.394
+
+=== A0A845Q7C3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NBG94483.1};
+Bit Score: 220.0
+E-value: 5.819e-05
+Alignment Length: 75
+Percentage Identity: 0.4
+
+=== A5EUX7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ABQ13598.1};
+Bit Score: 190.0
+E-value: 5.819e-05
+Alignment Length: 86
+Percentage Identity: 0.267
+
+=== A0A6H1ZN67 ===
+DE   SubName: Full=Putative DNA binding, helix-turn-helix domain containing protein {ECO:0000313|EMBL:QJA49004.1};
+Bit Score: 235.0
+E-value: 6.201e-05
+Alignment Length: 71
+Percentage Identity: 0.281
+
+=== A0A3C2D9E2 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 224.0
+E-value: 6.201e-05
+Alignment Length: 71
+Percentage Identity: 0.366
+
+=== A0A2V4UWH2 ===
+DE   SubName: Full=Helix-turn-helix protein {ECO:0000313|EMBL:PYE38102.1};
+Bit Score: 218.0
+E-value: 6.201e-05
+Alignment Length: 80
+Percentage Identity: 0.25
+
+=== A0A353XVI8 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 219.0
+E-value: 6.607e-05
+Alignment Length: 75
+Percentage Identity: 0.32
+
+=== A0A496WM66 ===
+DE   SubName: Full=DNA-binding protein {ECO:0000313|EMBL:RLA39797.1};
+Bit Score: 213.0
+E-value: 6.607e-05
+Alignment Length: 69
+Percentage Identity: 0.391
+
+=== N8XGF4 ===
+DE   RecName: Full=Helix-turn-helix type 11 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 228.0
+E-value: 7.041e-05
+Alignment Length: 67
+Percentage Identity: 0.373
+
+=== A0A2D6X0L5 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 197.0
+E-value: 7.041e-05
+Alignment Length: 85
+Percentage Identity: 0.27
+
+=== A0A1S9ZHF4 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 238.0
+E-value: 7.503e-05
+Alignment Length: 67
+Percentage Identity: 0.388
+
+=== A0A7X0ALY2 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 237.0
+E-value: 7.503e-05
+Alignment Length: 67
+Percentage Identity: 0.373
+
+=== A0A1T0CL96 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 235.0
+E-value: 7.503e-05
+Alignment Length: 64
+Percentage Identity: 0.359
+
+=== A0A522YZQ5 ===
+DE   SubName: Full=DNA-binding protein {ECO:0000313|EMBL:TAJ97128.1};
+Bit Score: 220.0
+E-value: 7.503e-05
+Alignment Length: 72
+Percentage Identity: 0.291
+
+=== A0A1X7KQ45 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:SMG43513.1};
+Bit Score: 209.0
+E-value: 7.503e-05
+Alignment Length: 76
+Percentage Identity: 0.289
+
+=== A0A2E8DZ35 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 216.0
+E-value: 7.995e-05
+Alignment Length: 65
+Percentage Identity: 0.4
+
+=== A0A6H0ZIY2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QIX20609.1};
+Bit Score: 215.0
+E-value: 7.995e-05
+Alignment Length: 77
+Percentage Identity: 0.298
+
+=== A0A1Y3S9A3 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 196.0
+E-value: 7.995e-05
+Alignment Length: 81
+Percentage Identity: 0.345
+
+=== A0A1K2HTR1 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:SFZ81699.1};
+Bit Score: 233.0
+E-value: 8.519e-05
+Alignment Length: 66
+Percentage Identity: 0.439
+
+=== A0A3D2IRT0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HCI74844.1};
+Bit Score: 183.0
+E-value: 8.519e-05
+Alignment Length: 100
+Percentage Identity: 0.26
+
+=== A0A833FM03 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 237.0
+E-value: 9.078e-05
+Alignment Length: 67
+Percentage Identity: 0.313
+
+=== A0A378QG50 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 234.0
+E-value: 9.078e-05
+Alignment Length: 67
+Percentage Identity: 0.388
+
+=== A0A441BSB4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RWI06795.1};
+Bit Score: 210.0
+E-value: 9.078e-05
+Alignment Length: 82
+Percentage Identity: 0.28
+
+=== A0A0Q9ZN77 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KRG34219.1};
+Bit Score: 211.0
+E-value: 0.0001031
+Alignment Length: 75
+Percentage Identity: 0.28
+
+=== A0A1M3CYN9 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 206.0
+E-value: 0.0001031
+Alignment Length: 74
+Percentage Identity: 0.337
+
+=== A0A843H197 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 203.0
+E-value: 0.0001031
+Alignment Length: 74
+Percentage Identity: 0.337
+
+=== A0A2A2B9G5 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 192.0
+E-value: 0.0001031
+Alignment Length: 96
+Percentage Identity: 0.27
+
+=== A0A1T0CR82 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 234.0
+E-value: 0.0001098
+Alignment Length: 66
+Percentage Identity: 0.378
+
+=== A0A4R2NAH6 ===
+DE   SubName: Full=Helix-turn-helix protein {ECO:0000313|EMBL:TCP18083.1};
+Bit Score: 231.0
+E-value: 0.0001098
+Alignment Length: 64
+Percentage Identity: 0.328
+
+=== A0A644VG76 ===
+DE   RecName: Full=Helix-turn-helix type 11 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 229.0
+E-value: 0.0001098
+Alignment Length: 64
+Percentage Identity: 0.406
+
+=== A0A345PAP8 ===
+DE   SubName: Full=DNA-binding protein {ECO:0000313|EMBL:AXI04357.1};
+Bit Score: 226.0
+E-value: 0.0001098
+Alignment Length: 71
+Percentage Identity: 0.338
+
+=== A8IFC1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:BAF89598.1};
+Bit Score: 219.0
+E-value: 0.0001098
+Alignment Length: 73
+Percentage Identity: 0.342
+
+=== A0A6P1KKJ8 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 202.0
+E-value: 0.0001098
+Alignment Length: 73
+Percentage Identity: 0.301
+
+=== A0A419X3R0 ===
+DE   SubName: Full=Helix-turn-helix protein {ECO:0000313|EMBL:RKE02333.1};
+Bit Score: 227.0
+E-value: 0.000117
+Alignment Length: 64
+Percentage Identity: 0.343
+
+=== A0A3N5L1L0 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 230.0
+E-value: 0.0001247
+Alignment Length: 67
+Percentage Identity: 0.373
+
+=== A0A7C9LCV7 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 183.0
+E-value: 0.0001416
+Alignment Length: 73
+Percentage Identity: 0.328
+
+=== A0A2D7XCT0 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 178.0
+E-value: 0.0001416
+Alignment Length: 78
+Percentage Identity: 0.32
+
+=== A0A382XA27 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SVD67833.1};
+Bit Score: 174.0
+E-value: 0.0001416
+Alignment Length: 97
+Percentage Identity: 0.257
+
+=== A0A1J5QM38 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 166.0
+E-value: 0.0001416
+Alignment Length: 98
+Percentage Identity: 0.255
+
+=== A0A843H3G4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBO7713985.1};
+Bit Score: 181.0
+E-value: 0.0001509
+Alignment Length: 78
+Percentage Identity: 0.294
+
+=== A0A1D9D231 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AOY44876.1};
+Bit Score: 179.0
+E-value: 0.0001509
+Alignment Length: 95
+Percentage Identity: 0.273
+
+=== A0A3B9L7K1 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 168.0
+E-value: 0.0001509
+Alignment Length: 98
+Percentage Identity: 0.265
+
+=== A0A2D6WVC8 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 208.0
+E-value: 0.0001608
+Alignment Length: 66
+Percentage Identity: 0.348
+
+=== A0A1A9S7J0 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 170.0
+E-value: 0.0001608
+Alignment Length: 101
+Percentage Identity: 0.267
+
+=== A0A315BMW4 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 217.0
+E-value: 0.0001713
+Alignment Length: 71
+Percentage Identity: 0.323
+
+=== A0A2D6MET5 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 210.0
+E-value: 0.0001713
+Alignment Length: 72
+Percentage Identity: 0.333
+
+=== A0A1I3LGD7 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:SFI83823.1};
+Bit Score: 196.0
+E-value: 0.0001713
+Alignment Length: 76
+Percentage Identity: 0.368
+
+=== A0A3A6P6B3 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 196.0
+E-value: 0.0001713
+Alignment Length: 80
+Percentage Identity: 0.35
+
+=== D1Y3Q8 ===
+DE   RecName: Full=DNA primase/polymerase bifunctional N-terminal domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 194.0
+E-value: 0.0001713
+Alignment Length: 75
+Percentage Identity: 0.32
+
+=== A0A239C9D6 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:SNS16278.1};
+Bit Score: 191.0
+E-value: 0.0001713
+Alignment Length: 73
+Percentage Identity: 0.383
+
+=== C7MM81 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ACU94021.1};
+Bit Score: 184.0
+E-value: 0.0001713
+Alignment Length: 76
+Percentage Identity: 0.328
+
+=== A0A843HYT1 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 223.0
+E-value: 0.0001826
+Alignment Length: 64
+Percentage Identity: 0.39
+
+=== A0A3D6BSS8 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 223.0
+E-value: 0.0001826
+Alignment Length: 66
+Percentage Identity: 0.303
+
+=== D2Z4A1 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 201.0
+E-value: 0.0001826
+Alignment Length: 71
+Percentage Identity: 0.295
+
+=== A0A146G671 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:GAT33259.1};
+Bit Score: 198.0
+E-value: 0.0001826
+Alignment Length: 78
+Percentage Identity: 0.346
+
+=== A0A7Y4T1I3 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 218.0
+E-value: 0.0001946
+Alignment Length: 62
+Percentage Identity: 0.29
+
+=== A0A839YDQ0 ===
+DE   SubName: Full=DNA-binding MarR family transcriptional regulator {ECO:0000313|EMBL:MBB3693050.1};
+Bit Score: 212.0
+E-value: 0.0001946
+Alignment Length: 70
+Percentage Identity: 0.314
+
+=== A0A2A5DQ99 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 199.0
+E-value: 0.0001946
+Alignment Length: 80
+Percentage Identity: 0.262
+
+=== A0A315EKB4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PUE58340.1};
+Bit Score: 195.0
+E-value: 0.0001946
+Alignment Length: 85
+Percentage Identity: 0.235
+
+=== A0A2J0SRA9 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 173.0
+E-value: 0.0001946
+Alignment Length: 98
+Percentage Identity: 0.244
+
+=== A0A0Q7Q139 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 171.0
+E-value: 0.0001946
+Alignment Length: 102
+Percentage Identity: 0.264
+
+=== A0A1F3M1D8 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 224.0
+E-value: 0.0002073
+Alignment Length: 62
+Percentage Identity: 0.403
+
+=== A0A117LKZ9 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 199.0
+E-value: 0.0002073
+Alignment Length: 74
+Percentage Identity: 0.324
+
+=== E6VL71 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ADU44566.1};
+DE   Flags: Precursor;
+Bit Score: 212.0
+E-value: 0.0002209
+Alignment Length: 68
+Percentage Identity: 0.294
+
+=== A0A1Y4LYQ4 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 196.0
+E-value: 0.0002209
+Alignment Length: 71
+Percentage Identity: 0.352
+
+=== A0A843H7H2 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 205.0
+E-value: 0.0002354
+Alignment Length: 69
+Percentage Identity: 0.347
+
+=== A0A0Q9ZZU5 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 196.0
+E-value: 0.0002354
+Alignment Length: 80
+Percentage Identity: 0.262
+
+=== A0A2D9CAF5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAO21662.1};
+Bit Score: 188.0
+E-value: 0.0002354
+Alignment Length: 69
+Percentage Identity: 0.362
+
+=== D7DHJ8 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 158.0
+E-value: 0.0002354
+Alignment Length: 100
+Percentage Identity: 0.26
+
+=== A0A847H6M7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NLF84078.1};
+Bit Score: 146.0
+E-value: 0.0002354
+Alignment Length: 106
+Percentage Identity: 0.254
+
+=== A0A242PEY4 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 213.0
+E-value: 0.0002508
+Alignment Length: 58
+Percentage Identity: 0.396
+
+=== A0A2D6X0N1 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 211.0
+E-value: 0.0002508
+Alignment Length: 66
+Percentage Identity: 0.409
+
+=== A0A198X9W8 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 194.0
+E-value: 0.0002508
+Alignment Length: 81
+Percentage Identity: 0.246
+
+=== X1NKB4 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 188.0
+E-value: 0.0002508
+Alignment Length: 81
+Percentage Identity: 0.296
+
+=== D4XNJ4 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 188.0
+E-value: 0.0002508
+Alignment Length: 94
+Percentage Identity: 0.244
+
+=== A0A1C6D5U5 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 184.0
+E-value: 0.0002508
+Alignment Length: 69
+Percentage Identity: 0.405
+
+=== A0A1X3DAI1 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 216.0
+E-value: 0.0002673
+Alignment Length: 62
+Percentage Identity: 0.37
+
+=== A0A3D5QAW8 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 207.0
+E-value: 0.0002673
+Alignment Length: 65
+Percentage Identity: 0.338
+
+=== A0A378T6Q1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:STZ55555.1};
+Bit Score: 188.0
+E-value: 0.0002673
+Alignment Length: 77
+Percentage Identity: 0.311
+
+=== A0A1T4RNV5 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:SKA17557.1};
+Bit Score: 205.0
+E-value: 0.0002848
+Alignment Length: 72
+Percentage Identity: 0.375
+
+=== A0A0F9TP47 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 205.0
+E-value: 0.0002848
+Alignment Length: 69
+Percentage Identity: 0.304
+
+=== A0A1V5T7L9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OQA62766.1};
+Bit Score: 200.0
+E-value: 0.0002848
+Alignment Length: 63
+Percentage Identity: 0.38
+
+=== A0A2E6PVT1 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 193.0
+E-value: 0.0002848
+Alignment Length: 66
+Percentage Identity: 0.303
+
+=== A0A2D7XCQ6 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 189.0
+E-value: 0.0002848
+Alignment Length: 75
+Percentage Identity: 0.28
+
+=== X0T676 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAF71575.1};
+DE   Flags: Fragment;
+Bit Score: 162.0
+E-value: 0.0002848
+Alignment Length: 89
+Percentage Identity: 0.292
+
+=== A0A1G0VAN0 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 207.0
+E-value: 0.0003035
+Alignment Length: 70
+Percentage Identity: 0.285
+
+=== A0A1I0GJT3 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:SET70309.1};
+Bit Score: 162.0
+E-value: 0.0003035
+Alignment Length: 94
+Percentage Identity: 0.244
+
+=== A0A0G0NIQ1 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 208.0
+E-value: 0.0003234
+Alignment Length: 67
+Percentage Identity: 0.298
+
+=== A0A1V5RTJ3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OQA45560.1};
+Bit Score: 194.0
+E-value: 0.0003234
+Alignment Length: 77
+Percentage Identity: 0.259
+
+=== A0A7U6KLW4 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 180.0
+E-value: 0.0003234
+Alignment Length: 96
+Percentage Identity: 0.26
+
+=== N9NZL3 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 209.0
+E-value: 0.0003446
+Alignment Length: 62
+Percentage Identity: 0.435
+
+=== A0A4R4G4A5 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 198.0
+E-value: 0.0003446
+Alignment Length: 77
+Percentage Identity: 0.272
+
+=== A0A256C0K3 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 193.0
+E-value: 0.0003446
+Alignment Length: 77
+Percentage Identity: 0.311
+
+=== A0A502LHZ0 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 207.0
+E-value: 0.0003672
+Alignment Length: 57
+Percentage Identity: 0.385
+
+=== A0A348Y7A6 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 200.0
+E-value: 0.0003672
+Alignment Length: 70
+Percentage Identity: 0.242
+
+=== A0A0F9HCW0 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 189.0
+E-value: 0.0003672
+Alignment Length: 70
+Percentage Identity: 0.371
+
+=== A0A136Q8E7 ===
+DE   RecName: Full=Helix-turn-helix type 11 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 176.0
+E-value: 0.0003672
+Alignment Length: 71
+Percentage Identity: 0.338
+
+=== A0A5C7TP11 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 156.0
+E-value: 0.0003672
+Alignment Length: 101
+Percentage Identity: 0.267
+
+=== C3X4R6 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 158.0
+E-value: 0.0003913
+Alignment Length: 97
+Percentage Identity: 0.226
+
+=== A0A0F9VM96 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 211.0
+E-value: 0.000417
+Alignment Length: 64
+Percentage Identity: 0.296
+
+=== A0A0S7XYQ0 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 167.0
+E-value: 0.000417
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== A0A1J5S3C0 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 167.0
+E-value: 0.000417
+Alignment Length: 98
+Percentage Identity: 0.204
+
+=== A0A078BKV5 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 158.0
+E-value: 0.0004443
+Alignment Length: 99
+Percentage Identity: 0.212
+
+=== A0A2S5CQC6 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 151.0
+E-value: 0.0004443
+Alignment Length: 101
+Percentage Identity: 0.207
+
+=== A0A5B6U7C5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAA3452747.1};
+Bit Score: 208.0
+E-value: 0.0004735
+Alignment Length: 65
+Percentage Identity: 0.338
+
+=== A0A1C0B7I5 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 196.0
+E-value: 0.0004735
+Alignment Length: 77
+Percentage Identity: 0.246
+
+=== A0A143XM50 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CVI68055.1};
+Bit Score: 195.0
+E-value: 0.0004735
+Alignment Length: 65
+Percentage Identity: 0.292
+
+=== A0A3S3L787 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 165.0
+E-value: 0.0004735
+Alignment Length: 78
+Percentage Identity: 0.256
+
+=== A0A1M5F3U9 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:SHF86048.1};
+Bit Score: 156.0
+E-value: 0.0004735
+Alignment Length: 103
+Percentage Identity: 0.252
+
+=== A0A6L8G9F1 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 153.0
+E-value: 0.0004735
+Alignment Length: 102
+Percentage Identity: 0.186
+
+=== A0A644X3U5 ===
+DE   RecName: Full=DNA primase/polymerase bifunctional N-terminal domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 210.0
+E-value: 0.0005045
+Alignment Length: 64
+Percentage Identity: 0.343
+
+=== A0A7S6VZL2 ===
+DE   SubName: Full=DNA-binding protein {ECO:0000313|EMBL:QOW47787.1};
+Bit Score: 208.0
+E-value: 0.0005045
+Alignment Length: 65
+Percentage Identity: 0.323
+
+=== A0A349DE52 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 173.0
+E-value: 0.0005376
+Alignment Length: 74
+Percentage Identity: 0.324
+
+=== A0A431IBR4 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 175.0
+E-value: 0.0005729
+Alignment Length: 74
+Percentage Identity: 0.351
+
+=== A0A2E8A977 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 189.0
+E-value: 0.0006105
+Alignment Length: 66
+Percentage Identity: 0.318
+
+=== A0A2A4Z145 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PCJ00611.1};
+Bit Score: 168.0
+E-value: 0.0006105
+Alignment Length: 87
+Percentage Identity: 0.275
+
+=== A0A2D9CGY2 ===
+DE   RecName: Full=Transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 187.0
+E-value: 0.0006505
+Alignment Length: 71
+Percentage Identity: 0.253
+
+=== K2CPL5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EKD87972.1};
+Bit Score: 173.0
+E-value: 0.0006505
+Alignment Length: 82
+Percentage Identity: 0.268
+
+=== A0A3E1DG75 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:RFC36294.1};
+Bit Score: 143.0
+E-value: 0.0006505
+Alignment Length: 110
+Percentage Identity: 0.227
+
+=== A0A7K0UNA4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MSX98234.1};
+Bit Score: 192.0
+E-value: 0.0006932
+Alignment Length: 67
+Percentage Identity: 0.268
+
+=== A0A382X507 ===
+DE   RecName: Full=Helix-turn-helix type 11 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 176.0
+E-value: 0.0006932
+Alignment Length: 74
+Percentage Identity: 0.216
+
+=== A0A0F9GSS5 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 160.0
+E-value: 0.0006932
+Alignment Length: 89
+Percentage Identity: 0.292
+
+=== A0A3L6LXM8 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 149.0
+E-value: 0.0006932
+Alignment Length: 105
+Percentage Identity: 0.219
+
+=== A0A1B2Z912 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AOE13321.1};
+Bit Score: 197.0
+E-value: 0.0007386
+Alignment Length: 69
+Percentage Identity: 0.188
+
+=== A0A5C6ZZX4 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 185.0
+E-value: 0.0007386
+Alignment Length: 76
+Percentage Identity: 0.276
+
+=== A0A3D5Q4D4 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 149.0
+E-value: 0.0007386
+Alignment Length: 101
+Percentage Identity: 0.237
+
+=== A0A843HRJ5 ===
+DE   RecName: Full=Transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 196.0
+E-value: 0.0007871
+Alignment Length: 67
+Percentage Identity: 0.358
+
+=== A0A843HW26 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 188.0
+E-value: 0.0007871
+Alignment Length: 72
+Percentage Identity: 0.319
+
+=== A0A7H1RNH8 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 167.0
+E-value: 0.0007871
+Alignment Length: 71
+Percentage Identity: 0.281
+
+=== F5S6S4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EGK09243.1};
+Bit Score: 152.0
+E-value: 0.0007871
+Alignment Length: 97
+Percentage Identity: 0.185
+
+=== A0A3N5YQA1 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 137.0
+E-value: 0.0007871
+Alignment Length: 103
+Percentage Identity: 0.203
+
+=== Q2RVM1 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 161.0
+E-value: 0.0008387
+Alignment Length: 82
+Percentage Identity: 0.28
+
+=== A0A2M9EF73 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 151.0
+E-value: 0.0008387
+Alignment Length: 100
+Percentage Identity: 0.22
+
+=== A0A4R4BU03 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 146.0
+E-value: 0.0008387
+Alignment Length: 96
+Percentage Identity: 0.218
+
+=== A0A3R6RL03 ===
+DE   SubName: Full=DNA-binding protein {ECO:0000313|EMBL:RHO99272.1};
+Bit Score: 181.0
+E-value: 0.0008937
+Alignment Length: 69
+Percentage Identity: 0.347
+
+=== A0A2S6HIL5 ===
+DE   SubName: Full=Helix-turn-helix protein {ECO:0000313|EMBL:PPK77297.1};
+Bit Score: 165.0
+E-value: 0.0008937
+Alignment Length: 81
+Percentage Identity: 0.259
+
+=== A0A4R3FIW8 ===
+DE   SubName: Full=Helix-turn-helix protein {ECO:0000313|EMBL:TCR85512.1};
+Bit Score: 158.0
+E-value: 0.0008937
+Alignment Length: 96
+Percentage Identity: 0.27
+
+=== A0A1P8UGF1 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 152.0
+E-value: 0.0008937
+Alignment Length: 97
+Percentage Identity: 0.144
+
+=== A0A6B1AQB4 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 180.0
+E-value: 0.0009524
+Alignment Length: 77
+Percentage Identity: 0.181
+
+=== A0A6N1YF09 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 173.0
+E-value: 0.0009524
+Alignment Length: 74
+Percentage Identity: 0.297
+
+=== A0A644TY70 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 166.0
+E-value: 0.0009524
+Alignment Length: 87
+Percentage Identity: 0.252
+
+=== A0A1H9F3F4 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 152.0
+E-value: 0.0009524
+Alignment Length: 98
+Percentage Identity: 0.193
+
+=== A0A154QDK2 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 143.0
+E-value: 0.0009524
+Alignment Length: 97
+Percentage Identity: 0.268
+
+=== A0A1I5XB94 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:SFQ28917.1};
+Bit Score: 143.0
+E-value: 0.0009524
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== D9SHV0 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 135.0
+E-value: 0.0009524
+Alignment Length: 100
+Percentage Identity: 0.19
+
+=== A0A1B7WZS9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OBQ42604.1};
+Bit Score: 190.0
+E-value: 0.001015
+Alignment Length: 71
+Percentage Identity: 0.267
+
+=== A0A6C2CMT8 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 162.0
+E-value: 0.001015
+Alignment Length: 79
+Percentage Identity: 0.215
+
+=== A0A843HKE0 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 161.0
+E-value: 0.001015
+Alignment Length: 66
+Percentage Identity: 0.287
+
+=== A0A1B3LLA0 ===
+DE   SubName: Full=Helix-turn-helix domain protein {ECO:0000313|EMBL:AOF81629.1};
+Bit Score: 147.0
+E-value: 0.001081
+Alignment Length: 107
+Percentage Identity: 0.224
+
+=== A0A3M3RI54 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 131.0
+E-value: 0.001081
+Alignment Length: 109
+Percentage Identity: 0.192
+
+=== A0A0F9TCQ3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKN76959.1};
+Bit Score: 187.0
+E-value: 0.001152
+Alignment Length: 66
+Percentage Identity: 0.348
+
+=== A0A4P7CPX9 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 161.0
+E-value: 0.001152
+Alignment Length: 74
+Percentage Identity: 0.283
+
+=== A0A1Z9B7X1 ===
+DE   RecName: Full=Helix-turn-helix type 11 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 158.0
+E-value: 0.001152
+Alignment Length: 86
+Percentage Identity: 0.22
+
+=== D6CLC1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAZ89349.1};
+Bit Score: 151.0
+E-value: 0.001152
+Alignment Length: 103
+Percentage Identity: 0.184
+
+=== G2IWZ7 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 145.0
+E-value: 0.001152
+Alignment Length: 99
+Percentage Identity: 0.222
+
+=== A0A5C7NFR5 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 142.0
+E-value: 0.001152
+Alignment Length: 100
+Percentage Identity: 0.17
+
+=== A0A2G2LVG1 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 158.0
+E-value: 0.001228
+Alignment Length: 84
+Percentage Identity: 0.25
+
+=== A0A387BL44 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 157.0
+E-value: 0.001228
+Alignment Length: 74
+Percentage Identity: 0.256
+
+=== A0A2G6MZM9 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 139.0
+E-value: 0.001228
+Alignment Length: 96
+Percentage Identity: 0.229
+
+=== A0A1V3J7V8 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 178.0
+E-value: 0.001308
+Alignment Length: 58
+Percentage Identity: 0.362
+
+=== A0A7Z0UXX7 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 178.0
+E-value: 0.001308
+Alignment Length: 75
+Percentage Identity: 0.28
+
+=== A0A2A5D696 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 151.0
+E-value: 0.001308
+Alignment Length: 90
+Percentage Identity: 0.233
+
+=== L0GU16 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 150.0
+E-value: 0.001308
+Alignment Length: 90
+Percentage Identity: 0.255
+
+=== A0A512HC79 ===
+DE   RecName: Full=Helix-turn-helix type 11 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 163.0
+E-value: 0.001394
+Alignment Length: 73
+Percentage Identity: 0.369
+
+=== A0A7X8EFA8 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 157.0
+E-value: 0.001394
+Alignment Length: 100
+Percentage Identity: 0.21
+
+=== A0A1V5Z083 ===
+DE   RecName: Full=Helix-turn-helix type 11 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 174.0
+E-value: 0.001486
+Alignment Length: 62
+Percentage Identity: 0.354
+
+=== A0A6N4H392 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 153.0
+E-value: 0.001486
+Alignment Length: 108
+Percentage Identity: 0.138
+
+=== A0A7W2RYB1 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:MBA6311361.1};
+Bit Score: 146.0
+E-value: 0.001486
+Alignment Length: 96
+Percentage Identity: 0.26
+
+=== A0A1H5SHR8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:APR04782.1};
+Bit Score: 170.0
+E-value: 0.001583
+Alignment Length: 72
+Percentage Identity: 0.236
+
+=== A0A843HU13 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 155.0
+E-value: 0.001583
+Alignment Length: 76
+Percentage Identity: 0.21
+
+=== A0A2G2QBD9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PHS69130.1};
+Bit Score: 144.0
+E-value: 0.001583
+Alignment Length: 82
+Percentage Identity: 0.243
+
+=== A0A2R4BR58 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AVR89770.1};
+Bit Score: 144.0
+E-value: 0.001583
+Alignment Length: 114
+Percentage Identity: 0.21
+
+=== A0A2U1CZH3 ===
+DE   RecName: Full=Helix-turn-helix protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 139.0
+E-value: 0.001583
+Alignment Length: 101
+Percentage Identity: 0.267
+
+=== A0A1M3D5E4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OJV23106.1};
+Bit Score: 174.0
+E-value: 0.001687
+Alignment Length: 72
+Percentage Identity: 0.333
+
+=== A0A3C0NT87 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 167.0
+E-value: 0.001687
+Alignment Length: 67
+Percentage Identity: 0.328
+
+=== A0A7Y5DSC4 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 167.0
+E-value: 0.001798
+Alignment Length: 76
+Percentage Identity: 0.25
+
+=== A0A2G1YBS2 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 159.0
+E-value: 0.001798
+Alignment Length: 73
+Percentage Identity: 0.273
+
+=== A0A5C7NU90 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 143.0
+E-value: 0.001798
+Alignment Length: 83
+Percentage Identity: 0.253
+
+=== A0A843J931 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBP5475452.1};
+Bit Score: 138.0
+E-value: 0.001798
+Alignment Length: 82
+Percentage Identity: 0.268
+
+=== A0A3M2WMS1 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 132.0
+E-value: 0.001798
+Alignment Length: 93
+Percentage Identity: 0.236
+
+=== A0A843GZ90 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 171.0
+E-value: 0.001916
+Alignment Length: 69
+Percentage Identity: 0.26
+
+=== A0A840GC34 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 146.0
+E-value: 0.001916
+Alignment Length: 90
+Percentage Identity: 0.211
+
+=== A0A1M4VIT1 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:SHE68894.1};
+Bit Score: 155.0
+E-value: 0.002041
+Alignment Length: 96
+Percentage Identity: 0.166
+
+=== A0A1R4EGX5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SJM37765.1};
+Bit Score: 146.0
+E-value: 0.002041
+Alignment Length: 79
+Percentage Identity: 0.202
+
+=== A0A4R9MC22 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 139.0
+E-value: 0.002041
+Alignment Length: 96
+Percentage Identity: 0.208
+
+=== A0A7U8CA04 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EAR62904.1};
+Bit Score: 144.0
+E-value: 0.002175
+Alignment Length: 99
+Percentage Identity: 0.232
+
+=== A0A1W9KPX6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OQW86214.1};
+Bit Score: 141.0
+E-value: 0.002175
+Alignment Length: 96
+Percentage Identity: 0.218
+
+=== A0Q4W4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ABK89279.1};
+Bit Score: 140.0
+E-value: 0.002175
+Alignment Length: 70
+Percentage Identity: 0.271
+
+=== A0A4R5MED4 ===
+DE   RecName: Full=Helix-turn-helix protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 140.0
+E-value: 0.002175
+Alignment Length: 95
+Percentage Identity: 0.221
+
+=== H1G521 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EHQ52908.1};
+Bit Score: 134.0
+E-value: 0.002175
+Alignment Length: 99
+Percentage Identity: 0.181
+
+=== A0A3D4CBC5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HCQ27185.1};
+Bit Score: 160.0
+E-value: 0.002318
+Alignment Length: 67
+Percentage Identity: 0.313
+
+=== A0A837V1V0 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 143.0
+E-value: 0.002318
+Alignment Length: 87
+Percentage Identity: 0.241
+
+=== A0A158EX59 ===
+DE   RecName: Full=Helix-turn-helix protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 139.0
+E-value: 0.002318
+Alignment Length: 99
+Percentage Identity: 0.202
+
+=== A0A2E7UJ51 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 137.0
+E-value: 0.002318
+Alignment Length: 103
+Percentage Identity: 0.184
+
+=== A0A378K1E5 ===
+DE   RecName: Full=Helix-turn-helix domain {ECO:0008006|Google:ProtNLM};
+Bit Score: 136.0
+E-value: 0.002318
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== K0IB84 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AFU46526.1};
+Bit Score: 135.0
+E-value: 0.002318
+Alignment Length: 105
+Percentage Identity: 0.171
+
+=== A0A679GGB7 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.002318
+Alignment Length: 99
+Percentage Identity: 0.212
+
+=== A0A7X0EEI3 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 173.0
+E-value: 0.00247
+Alignment Length: 65
+Percentage Identity: 0.307
+
+=== A0A7X3Y8B5 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 157.0
+E-value: 0.00247
+Alignment Length: 75
+Percentage Identity: 0.293
+
+=== A0A378VZ08 ===
+DE   SubName: Full=Phage associated protein {ECO:0000313|EMBL:SUA24133.1};
+Bit Score: 156.0
+E-value: 0.00247
+Alignment Length: 74
+Percentage Identity: 0.27
+
+=== A0A5C1DJ16 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 140.0
+E-value: 0.00247
+Alignment Length: 90
+Percentage Identity: 0.211
+
+=== A0A0A1Z610 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 139.0
+E-value: 0.00247
+Alignment Length: 93
+Percentage Identity: 0.236
+
+=== A0A378PM20 ===
+DE   RecName: Full=Helix-turn-helix domain {ECO:0008006|Google:ProtNLM};
+Bit Score: 168.0
+E-value: 0.002632
+Alignment Length: 75
+Percentage Identity: 0.24
+
+=== A0A1H3JFU8 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:SDY38094.1};
+Bit Score: 165.0
+E-value: 0.002632
+Alignment Length: 65
+Percentage Identity: 0.261
+
+=== A0A3M1PVT7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RMF71564.1};
+DE   Flags: Fragment;
+Bit Score: 135.0
+E-value: 0.002632
+Alignment Length: 90
+Percentage Identity: 0.266
+
+=== A0A7W0EKD6 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.002632
+Alignment Length: 114
+Percentage Identity: 0.184
+
+=== A0A172Z808 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 127.0
+E-value: 0.002632
+Alignment Length: 101
+Percentage Identity: 0.227
+
+=== A0A3C1Y9X9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HAP30178.1};
+Bit Score: 165.0
+E-value: 0.002804
+Alignment Length: 72
+Percentage Identity: 0.18
+
+=== A0A7X4DQX9 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MYH58077.1};
+Bit Score: 132.0
+E-value: 0.002804
+Alignment Length: 102
+Percentage Identity: 0.186
+
+=== A0A1Y0G5B6 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 130.0
+E-value: 0.002804
+Alignment Length: 109
+Percentage Identity: 0.201
+
+=== A0A522KJF0 ===
+DE   RecName: Full=Nuclear transport factor 2 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 130.0
+E-value: 0.002804
+Alignment Length: 100
+Percentage Identity: 0.19
+
+=== A0A843GIN7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBO7692427.1};
+Bit Score: 154.0
+E-value: 0.002988
+Alignment Length: 70
+Percentage Identity: 0.228
+
+=== X1B7I6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAG67946.1};
+Bit Score: 134.0
+E-value: 0.002988
+Alignment Length: 81
+Percentage Identity: 0.259
+
+=== A0A0C2BQZ1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KIF82484.1};
+Bit Score: 131.0
+E-value: 0.002988
+Alignment Length: 98
+Percentage Identity: 0.183
+
+=== A0A2E4YCS8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBG11070.1};
+Bit Score: 127.0
+E-value: 0.003184
+Alignment Length: 99
+Percentage Identity: 0.222
+
+=== A0A0F2NT18 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KJS04335.1};
+Bit Score: 117.0
+E-value: 0.003184
+Alignment Length: 114
+Percentage Identity: 0.184
+
+=== A0A849V909 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 142.0
+E-value: 0.003393
+Alignment Length: 86
+Percentage Identity: 0.244
+
+=== Q3SHD0 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 139.0
+E-value: 0.003393
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== A0A849TD84 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.003393
+Alignment Length: 110
+Percentage Identity: 0.236
+
+=== A0A7Y6ZU05 ===
+DE   RecName: Full=Antirepressor protein C-terminal domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 118.0
+E-value: 0.003393
+Alignment Length: 100
+Percentage Identity: 0.21
+
+=== A0A843H4U3 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 164.0
+E-value: 0.003616
+Alignment Length: 63
+Percentage Identity: 0.301
+
+=== H6SQL6 ===
+DE   RecName: Full=Helix-turn-helix type 11 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.003616
+Alignment Length: 84
+Percentage Identity: 0.309
+
+=== D8A398 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 139.0
+E-value: 0.003616
+Alignment Length: 79
+Percentage Identity: 0.215
+
+=== A0A5E7V8B2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VVQ18716.1};
+Bit Score: 134.0
+E-value: 0.003616
+Alignment Length: 104
+Percentage Identity: 0.192
+
+=== A0A7J5VRG3 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 156.0
+E-value: 0.003853
+Alignment Length: 73
+Percentage Identity: 0.232
+
+=== A0A350LXC6 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 150.0
+E-value: 0.003853
+Alignment Length: 74
+Percentage Identity: 0.283
+
+=== A0A240U5K7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ART52658.1};
+Bit Score: 137.0
+E-value: 0.003853
+Alignment Length: 104
+Percentage Identity: 0.144
+
+=== A0A2R5EPB6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GBG03808.1};
+Bit Score: 127.0
+E-value: 0.003853
+Alignment Length: 100
+Percentage Identity: 0.15
+
+=== A0A839HNH1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB1160970.1};
+Bit Score: 128.0
+E-value: 0.004105
+Alignment Length: 107
+Percentage Identity: 0.177
+
+=== A0A5B0V8N0 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.004105
+Alignment Length: 95
+Percentage Identity: 0.2
+
+=== C1D7T1 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.004105
+Alignment Length: 98
+Percentage Identity: 0.193
+
+=== A0A379LQP9 ===
+DE   RecName: Full=Helix-turn-helix domain {ECO:0008006|Google:ProtNLM};
+Bit Score: 167.0
+E-value: 0.004375
+Alignment Length: 66
+Percentage Identity: 0.227
+
+=== A0A4Q1ANW5 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 155.0
+E-value: 0.004375
+Alignment Length: 64
+Percentage Identity: 0.25
+
+=== A0A0S7XXW5 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 151.0
+E-value: 0.004375
+Alignment Length: 72
+Percentage Identity: 0.222
+
+=== A0A3D1KDZ4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HCE47158.1};
+Bit Score: 122.0
+E-value: 0.004375
+Alignment Length: 115
+Percentage Identity: 0.208
+
+=== A0A5C7RAS6 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.004375
+Alignment Length: 99
+Percentage Identity: 0.181
+
+=== A0A2A5D7C0 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 157.0
+E-value: 0.004662
+Alignment Length: 75
+Percentage Identity: 0.226
+
+=== A0A063Y6P2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KDE41364.1};
+Bit Score: 146.0
+E-value: 0.004662
+Alignment Length: 78
+Percentage Identity: 0.205
+
+=== A0A522SD27 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.004662
+Alignment Length: 97
+Percentage Identity: 0.206
+
+=== A0A4S4AY40 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:THF64248.1};
+Bit Score: 165.0
+E-value: 0.004967
+Alignment Length: 67
+Percentage Identity: 0.208
+
+=== A0A6L8ENQ6 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 156.0
+E-value: 0.004967
+Alignment Length: 71
+Percentage Identity: 0.225
+
+=== A0A2S5L4Z9 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 150.0
+E-value: 0.004967
+Alignment Length: 78
+Percentage Identity: 0.269
+
+=== A0A843GZK4 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 155.0
+E-value: 0.005293
+Alignment Length: 70
+Percentage Identity: 0.285
+
+=== A0A843HM15 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:MBO7732797.1};
+Bit Score: 145.0
+E-value: 0.005293
+Alignment Length: 69
+Percentage Identity: 0.26
+
+=== A0A543LJM9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TQN07557.1};
+Bit Score: 125.0
+E-value: 0.005293
+Alignment Length: 92
+Percentage Identity: 0.173
+
+=== G7Q5Z1 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.005293
+Alignment Length: 101
+Percentage Identity: 0.178
+
+=== A0A843H2E4 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 173.0
+E-value: 0.00564
+Alignment Length: 64
+Percentage Identity: 0.312
+
+=== A0A2D7ZHC1 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 157.0
+E-value: 0.00564
+Alignment Length: 67
+Percentage Identity: 0.298
+
+=== A0A4Y7WK68 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TES48760.1};
+Bit Score: 153.0
+E-value: 0.00564
+Alignment Length: 65
+Percentage Identity: 0.23
+
+=== A0A1B8QBQ7 ===
+DE   RecName: Full=Pyocin activator protein PrtN {ECO:0008006|Google:ProtNLM};
+Bit Score: 152.0
+E-value: 0.00564
+Alignment Length: 76
+Percentage Identity: 0.223
+
+=== R4YKC1 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 139.0
+E-value: 0.00564
+Alignment Length: 72
+Percentage Identity: 0.25
+
+=== A0A1F3C246 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 129.0
+E-value: 0.00564
+Alignment Length: 84
+Percentage Identity: 0.166
+
+=== A0A248LKV0 ===
+DE   SubName: Full=HTH_39 domain containing protein {ECO:0000313|EMBL:ASJ25368.1};
+Bit Score: 123.0
+E-value: 0.00564
+Alignment Length: 105
+Percentage Identity: 0.209
+
+=== A0A317RCZ7 ===
+DE   SubName: Full=Helix-turn-helix protein {ECO:0000313|EMBL:PWW47734.1};
+Bit Score: 119.0
+E-value: 0.00564
+Alignment Length: 100
+Percentage Identity: 0.24
+
+=== H8L3L7 ===
+DE   SubName: Full=KilA-N domain-containing protein {ECO:0000313|EMBL:AFC87386.1};
+Bit Score: 116.0
+E-value: 0.00564
+Alignment Length: 120
+Percentage Identity: 0.216
+
+=== R5LQW7 ===
+DE   RecName: Full=Transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 162.0
+E-value: 0.00601
+Alignment Length: 62
+Percentage Identity: 0.241
+
+=== A0A2U0SFR7 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:PVX30222.1};
+Bit Score: 153.0
+E-value: 0.00601
+Alignment Length: 64
+Percentage Identity: 0.218
+
+=== A0A1I1U9D4 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:SFD67294.1};
+Bit Score: 148.0
+E-value: 0.00601
+Alignment Length: 66
+Percentage Identity: 0.257
+
+=== A0A3G9DPU0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:BBD45323.1};
+Bit Score: 128.0
+E-value: 0.00601
+Alignment Length: 103
+Percentage Identity: 0.145
+
+=== A0A2E2W2E8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAZ70399.1};
+Bit Score: 105.0
+E-value: 0.00601
+Alignment Length: 100
+Percentage Identity: 0.16
+
+=== A0A2N9YC87 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 148.0
+E-value: 0.006405
+Alignment Length: 66
+Percentage Identity: 0.212
+
+=== A0A4R1BFY3 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 127.0
+E-value: 0.006405
+Alignment Length: 86
+Percentage Identity: 0.209
+
+=== A0A011P5I5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EXI90208.1};
+Bit Score: 116.0
+E-value: 0.006405
+Alignment Length: 99
+Percentage Identity: 0.191
+
+=== A0A842I529 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 145.0
+E-value: 0.006825
+Alignment Length: 74
+Percentage Identity: 0.256
+
+=== A0A2H0JCT5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PIQ56054.1};
+Bit Score: 128.0
+E-value: 0.006825
+Alignment Length: 95
+Percentage Identity: 0.221
+
+=== A0A6I6D5P5 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 128.0
+E-value: 0.006825
+Alignment Length: 87
+Percentage Identity: 0.206
+
+=== A0A836MHR3 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.006825
+Alignment Length: 90
+Percentage Identity: 0.177
+
+=== A0A5C8YHA3 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.006825
+Alignment Length: 90
+Percentage Identity: 0.166
+
+=== A0A6G8NKG2 ===
+DE   RecName: Full=Helix-turn-helix domain protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 118.0
+E-value: 0.006825
+Alignment Length: 107
+Percentage Identity: 0.205
+
+=== A0A8B0SI15 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.006825
+Alignment Length: 101
+Percentage Identity: 0.188
+
+=== A0A1J5EVJ4 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 140.0
+E-value: 0.007272
+Alignment Length: 82
+Percentage Identity: 0.219
+
+=== A0A3D1NN36 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 128.0
+E-value: 0.007272
+Alignment Length: 101
+Percentage Identity: 0.158
+
+=== A0A4R3Y3E2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TCV85871.1};
+Bit Score: 121.0
+E-value: 0.007272
+Alignment Length: 102
+Percentage Identity: 0.205
+
+=== A0A5R9QKQ2 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.007272
+Alignment Length: 100
+Percentage Identity: 0.19
+
+=== A0A173QVS8 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 132.0
+E-value: 0.007749
+Alignment Length: 67
+Percentage Identity: 0.208
+
+=== A0A352JEQ3 ===
+DE   SubName: Full=Iron-sulfur cluster biosynthesis transcriptional regulator SufR {ECO:0000313|EMBL:HBC42186.1};
+Bit Score: 115.0
+E-value: 0.007749
+Alignment Length: 97
+Percentage Identity: 0.185
+
+=== A0A1H2EQW4 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:SDT97517.1};
+Bit Score: 112.0
+E-value: 0.007749
+Alignment Length: 112
+Percentage Identity: 0.178
+
+=== A0A6F8T035 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 116.0
+E-value: 0.008258
+Alignment Length: 103
+Percentage Identity: 0.174
+
+=== A0A2N1VNV9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PKL86155.1};
+Bit Score: 113.0
+E-value: 0.008258
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A2T2WMU6 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:PSR23565.1};
+Bit Score: 144.0
+E-value: 0.008799
+Alignment Length: 67
+Percentage Identity: 0.223
+
+=== A0A1Q8QR83 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.008799
+Alignment Length: 102
+Percentage Identity: 0.196
+
+=== M5RGI9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EMI18508.1};
+Bit Score: 116.0
+E-value: 0.008799
+Alignment Length: 97
+Percentage Identity: 0.195
+
+=== A0A2D5VN70 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.009376
+Alignment Length: 99
+Percentage Identity: 0.232
+
+=== A0A2N8SNC7 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.009376
+Alignment Length: 90
+Percentage Identity: 0.188
+
+=== K6YBW7 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 98.0
+E-value: 0.009376
+Alignment Length: 98
+Percentage Identity: 0.193
+
+=== A0A1J0WH31 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:APE43623.1};
+Bit Score: 138.0
+E-value: 0.009991
+Alignment Length: 75
+Percentage Identity: 0.266
+
+=== A0A3M1PR40 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:RMF69944.1};
+Bit Score: 135.0
+E-value: 0.009991
+Alignment Length: 76
+Percentage Identity: 0.236
+
+=== A0A2E5Y8N4 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.009991
+Alignment Length: 103
+Percentage Identity: 0.213
+
+=== A0A4R6TWE3 ===
+DE   SubName: Full=Helix-turn-helix protein {ECO:0000313|EMBL:TDQ37566.1};
+Bit Score: 119.0
+E-value: 0.01065
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A5S5BAI1 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 131.0
+E-value: 0.01134
+Alignment Length: 96
+Percentage Identity: 0.187
+
+=== A0A846T0R2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NJM12620.1};
+Bit Score: 122.0
+E-value: 0.01134
+Alignment Length: 83
+Percentage Identity: 0.18
+
+=== A0A1H5AR72 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:SED44194.1};
+Bit Score: 118.0
+E-value: 0.01134
+Alignment Length: 99
+Percentage Identity: 0.202
+
+=== A0A3A6W4V1 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 113.0
+E-value: 0.01134
+Alignment Length: 93
+Percentage Identity: 0.161
+
+=== A0A0W0VF22 ===
+DE   RecName: Full=Helix-turn-helix domain protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.01134
+Alignment Length: 97
+Percentage Identity: 0.185
+
+=== A0A387BBJ6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AYF99777.1};
+Bit Score: 159.0
+E-value: 0.01209
+Alignment Length: 66
+Percentage Identity: 0.287
+
+=== N6Y9Q9 ===
+DE   RecName: Full=HTH arsR-type domain-containing protein {ECO:0000259|Pfam:PF01022};
+Bit Score: 117.0
+E-value: 0.01209
+Alignment Length: 102
+Percentage Identity: 0.127
+
+=== T1C6P7 ===
+DE   SubName: Full=Transcriptional regulator, ArsR family {ECO:0000313|EMBL:EQD60979.1};
+Bit Score: 112.0
+E-value: 0.01209
+Alignment Length: 103
+Percentage Identity: 0.174
+
+=== A0A3B9R6T8 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 125.0
+E-value: 0.01288
+Alignment Length: 83
+Percentage Identity: 0.216
+
+=== A0A6N7LXL8 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 118.0
+E-value: 0.01288
+Alignment Length: 101
+Percentage Identity: 0.207
+
+=== A0A507WHJ4 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.01288
+Alignment Length: 97
+Percentage Identity: 0.175
+
+=== A0A828NZU1 ===
+DE   SubName: Full=DNA-binding protein {ECO:0000313|EMBL:EFM8157538.1};
+Bit Score: 122.0
+E-value: 0.01373
+Alignment Length: 71
+Percentage Identity: 0.253
+
+=== A0A7Y0GXU9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NMM27215.1};
+Bit Score: 121.0
+E-value: 0.01373
+Alignment Length: 100
+Percentage Identity: 0.17
+
+=== A0A3D2JE20 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HCI82825.1};
+Bit Score: 114.0
+E-value: 0.01373
+Alignment Length: 98
+Percentage Identity: 0.193
+
+=== A0A401LZY6 ===
+DE   RecName: Full=AbrB family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.01373
+Alignment Length: 100
+Percentage Identity: 0.16
+
+=== A0A5J4R3M5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAA6327950.1};
+Bit Score: 108.0
+E-value: 0.01373
+Alignment Length: 100
+Percentage Identity: 0.13
+
+=== I9TGN6 ===
+DE   RecName: Full=HU domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 103.0
+E-value: 0.01373
+Alignment Length: 94
+Percentage Identity: 0.159
+
+=== A0A5P9HFT8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QFT86816.1};
+Bit Score: 122.0
+E-value: 0.01463
+Alignment Length: 67
+Percentage Identity: 0.268
+
+=== A0A231RL91 ===
+DE   SubName: Full=ArsR family transcriptional regulator {ECO:0000313|EMBL:OXS59960.1};
+Bit Score: 109.0
+E-value: 0.01463
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== A0A3S0KF22 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RTL22974.1};
+Bit Score: 121.0
+E-value: 0.01559
+Alignment Length: 101
+Percentage Identity: 0.148
+
+=== A0A3E0QCJ2 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 147.0
+E-value: 0.01661
+Alignment Length: 62
+Percentage Identity: 0.29
+
+=== A0A653AJF1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VBB48197.1};
+Bit Score: 143.0
+E-value: 0.0177
+Alignment Length: 66
+Percentage Identity: 0.181
+
+=== A0A2S7JSG2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PQA83204.1};
+Bit Score: 116.0
+E-value: 0.0177
+Alignment Length: 97
+Percentage Identity: 0.175
+
+=== A0A212JWH2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SBW03801.1};
+Bit Score: 113.0
+E-value: 0.0177
+Alignment Length: 95
+Percentage Identity: 0.147
+
+=== A0A1G2ZR25 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:OHB72818.1};
+DE   Flags: Fragment;
+Bit Score: 109.0
+E-value: 0.0177
+Alignment Length: 96
+Percentage Identity: 0.145
+
+=== A0A2D5FBK3 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.0177
+Alignment Length: 99
+Percentage Identity: 0.171
+
+=== A0A3M1VKI0 ===
+DE   SubName: Full=Winged helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:RMG41363.1};
+Bit Score: 101.0
+E-value: 0.0177
+Alignment Length: 98
+Percentage Identity: 0.275
+
+=== A0A068YIG3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CDS49424.1};
+Bit Score: 116.0
+E-value: 0.01886
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A5C6EGD5 ===
+DE   RecName: Full=MarR family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.01886
+Alignment Length: 97
+Percentage Identity: 0.185
+
+=== A0A7Y7P425 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:NVO10779.1};
+Bit Score: 134.0
+E-value: 0.0201
+Alignment Length: 66
+Percentage Identity: 0.181
+
+=== A0A345Y5W8 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.0201
+Alignment Length: 96
+Percentage Identity: 0.145
+
+=== A0A4P7R8V8 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.0201
+Alignment Length: 101
+Percentage Identity: 0.207
+
+=== A0A1Z4QKD7 ===
+DE   RecName: Full=Helix-turn-helix type 11 domain-containing protein {ECO:0000259|Pfam:PF08279};
+Bit Score: 103.0
+E-value: 0.0201
+Alignment Length: 104
+Percentage Identity: 0.201
+
+=== A0A1Z4QYP5 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 132.0
+E-value: 0.02141
+Alignment Length: 69
+Percentage Identity: 0.173
+
+=== A0A3C1SFS4 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HAO22511.1};
+DE   Flags: Fragment;
+Bit Score: 132.0
+E-value: 0.02141
+Alignment Length: 67
+Percentage Identity: 0.149
+
+=== A0A5E7LEW5 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 116.0
+E-value: 0.02141
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== A0A2E5ZRK1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBJ34105.1};
+Bit Score: 110.0
+E-value: 0.02141
+Alignment Length: 95
+Percentage Identity: 0.2
+
+=== A0A1Y2SSK7 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 137.0
+E-value: 0.02282
+Alignment Length: 66
+Percentage Identity: 0.242
+
+=== A0A2E6MRI4 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 137.0
+E-value: 0.02282
+Alignment Length: 69
+Percentage Identity: 0.231
+
+=== A0A6L7X9S0 ===
+DE   RecName: Full=ArsR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.02282
+Alignment Length: 74
+Percentage Identity: 0.189
+
+=== A0A1Z9T9X9 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 127.0
+E-value: 0.02282
+Alignment Length: 77
+Percentage Identity: 0.194
+
+=== A4A0V9 ===
+DE   RecName: Full=HTH marR-type domain-containing protein {ECO:0000259|Pfam:PF12802};
+Bit Score: 106.0
+E-value: 0.02282
+Alignment Length: 95
+Percentage Identity: 0.157
+
+=== A0A1U7NUF7 ===
+DE   SubName: Full=Transcriptional regulator, MerR family {ECO:0000313|EMBL:OLV16546.1};
+Bit Score: 102.0
+E-value: 0.02282
+Alignment Length: 100
+Percentage Identity: 0.18
+
+=== A0A1G8FVS9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SDH86227.1};
+Bit Score: 100.0
+E-value: 0.02282
+Alignment Length: 101
+Percentage Identity: 0.178
+
+=== A0A0C5V114 ===
+DE   SubName: Full=Putative transcriptional regulator {ECO:0000313|EMBL:AJQ93200.1};
+Bit Score: 99.0
+E-value: 0.02282
+Alignment Length: 97
+Percentage Identity: 0.195
+
+=== N6Z3B4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ENO98370.1};
+Bit Score: 133.0
+E-value: 0.02432
+Alignment Length: 64
+Percentage Identity: 0.234
+
+=== A0A2N1ANP3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PKG50353.1};
+Bit Score: 116.0
+E-value: 0.02432
+Alignment Length: 67
+Percentage Identity: 0.194
+
+=== A0A7Z0MXT0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NYT61451.1};
+Bit Score: 105.0
+E-value: 0.02432
+Alignment Length: 99
+Percentage Identity: 0.181
+
+=== A0A0C1Y664 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 132.0
+E-value: 0.02591
+Alignment Length: 72
+Percentage Identity: 0.25
+
+=== A0A7K0I5P2 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 125.0
+E-value: 0.02591
+Alignment Length: 98
+Percentage Identity: 0.173
+
+=== A0A126NVT8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AMJ61100.1};
+Bit Score: 109.0
+E-value: 0.02761
+Alignment Length: 102
+Percentage Identity: 0.137
+
+=== A0A1V0PSR1 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 129.0
+E-value: 0.02942
+Alignment Length: 74
+Percentage Identity: 0.243
+
+=== A0A4Q0HRT0 ===
+DE   RecName: Full=Transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.02942
+Alignment Length: 108
+Percentage Identity: 0.222
+
+=== A0A550H941 ===
+DE   RecName: Full=Transcription regulator TrmB N-terminal domain-containing protein {ECO:0000259|Pfam:PF01978};
+Bit Score: 106.0
+E-value: 0.02942
+Alignment Length: 97
+Percentage Identity: 0.164
+
+=== A0A126NVT0 ===
+DE   RecName: Full=DUF3489 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.03341
+Alignment Length: 104
+Percentage Identity: 0.144
+
+=== A0A0F5JPI6 ===
+DE   RecName: Full=HU domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.0356
+Alignment Length: 84
+Percentage Identity: 0.154
+
+=== A0A3D0D229 ===
+DE   SubName: Full=ArsR family transcriptional regulator {ECO:0000313|EMBL:HBY96215.1};
+Bit Score: 107.0
+E-value: 0.0356
+Alignment Length: 97
+Percentage Identity: 0.113
+
+=== A0A2U3CKK6 ===
+DE   RecName: Full=Transcription regulator TrmB N-terminal domain-containing protein {ECO:0000259|Pfam:PF01978};
+Bit Score: 101.0
+E-value: 0.0356
+Alignment Length: 95
+Percentage Identity: 0.157
+
+=== A0A4Y7XFY7 ===
+DE   RecName: Full=Transposase {ECO:0008006|Google:ProtNLM};
+Bit Score: 98.0
+E-value: 0.0356
+Alignment Length: 119
+Percentage Identity: 0.168
+
+=== A0A2W6BS47 ===
+DE   RecName: Full=HTH arsR-type domain-containing protein {ECO:0000259|SMART:SM00418};
+Bit Score: 103.0
+E-value: 0.03793
+Alignment Length: 97
+Percentage Identity: 0.175
+
+=== A0A3N5PFS7 ===
+DE   SubName: Full=ArsR family transcriptional regulator {ECO:0000313|EMBL:RPI51783.1};
+Bit Score: 94.0
+E-value: 0.03793
+Alignment Length: 98
+Percentage Identity: 0.183
+
+=== A0A382X8X4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SVD67636.1};
+Bit Score: 126.0
+E-value: 0.04042
+Alignment Length: 70
+Percentage Identity: 0.2
+
+=== A0A6S6T3Z3 ===
+DE   RecName: Full=Helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 128.0
+E-value: 0.04307
+Alignment Length: 68
+Percentage Identity: 0.235
+
+=== A0A2G3J4K9 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.04307
+Alignment Length: 67
+Percentage Identity: 0.179
+
+=== A0A2N2VZ28 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PKO97166.1};
+Bit Score: 108.0
+E-value: 0.04307
+Alignment Length: 97
+Percentage Identity: 0.164
+
+=== A0A1Y3X150 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.04307
+Alignment Length: 98
+Percentage Identity: 0.153
+
+=== A0A4Q2SLL5 ===
+DE   SubName: Full=ROK family transcriptional regulator {ECO:0000313|EMBL:RYC05901.1};
+Bit Score: 101.0
+E-value: 0.04307
+Alignment Length: 95
+Percentage Identity: 0.21
+
+=== A0A2D6ZBK9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAH72802.1};
+Bit Score: 91.0
+E-value: 0.04307
+Alignment Length: 96
+Percentage Identity: 0.145
+
+=== A0A385H7P2 ===
+DE   RecName: Full=Transposase {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.0459
+Alignment Length: 77
+Percentage Identity: 0.181
+
+=== D1C5Z4 ===
+DE   SubName: Full=Putative transcriptional regulator {ECO:0000313|EMBL:ACZ39546.1};
+Bit Score: 101.0
+E-value: 0.0459
+Alignment Length: 98
+Percentage Identity: 0.153
+
+=== A0A2N5J0N1 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PLS27762.1};
+Bit Score: 98.0
+E-value: 0.0459
+Alignment Length: 97
+Percentage Identity: 0.175
+
+=== A0A7X7QHT6 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:NLF08632.1};
+Bit Score: 123.0
+E-value: 0.04891
+Alignment Length: 66
+Percentage Identity: 0.166
+
+=== A0A1C2I7J0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OCX71965.1};
+Bit Score: 99.0
+E-value: 0.04891
+Alignment Length: 100
+Percentage Identity: 0.15
+
+=== A0A3L7S1P0 ===
+DE   SubName: Full=Winged helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:RLS75718.1};
+Bit Score: 93.0
+E-value: 0.04891
+Alignment Length: 102
+Percentage Identity: 0.176
+

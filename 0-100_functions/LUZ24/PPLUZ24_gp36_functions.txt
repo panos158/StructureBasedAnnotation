@@ -1,0 +1,5516 @@
+=== A0A1Z9GST7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 361.0
+E-value: 1.333e-08
+Alignment Length: 91
+Percentage Identity: 0.417
+
+=== A0A0F8ZGU2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 325.0
+E-value: 8.709e-08
+Alignment Length: 97
+Percentage Identity: 0.391
+
+=== A0A2D4TT25 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 328.0
+E-value: 9.959e-08
+Alignment Length: 91
+Percentage Identity: 0.351
+
+=== A0A2D7ZHC0 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 313.0
+E-value: 2.545e-07
+Alignment Length: 91
+Percentage Identity: 0.307
+
+=== A0A383F1N2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 272.0
+E-value: 1.112e-06
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A3B8VCZ7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HAC10706.1};
+DE   Flags: Fragment;
+Bit Score: 269.0
+E-value: 1.36e-06
+Alignment Length: 91
+Percentage Identity: 0.285
+
+=== A0A3D5I213 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HCV57398.1};
+DE   Flags: Fragment;
+Bit Score: 262.0
+E-value: 2.033e-06
+Alignment Length: 92
+Percentage Identity: 0.282
+
+=== A0A3D5CRS0 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HCU82286.1};
+DE   Flags: Fragment;
+Bit Score: 261.0
+E-value: 2.658e-06
+Alignment Length: 91
+Percentage Identity: 0.318
+
+=== R6V6W5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 262.0
+E-value: 2.843e-06
+Alignment Length: 87
+Percentage Identity: 0.275
+
+=== A0A3D0VY70 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HCB65623.1};
+DE   Flags: Fragment;
+Bit Score: 258.0
+E-value: 3.04e-06
+Alignment Length: 89
+Percentage Identity: 0.303
+
+=== A0A257S1X9 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:OYV67187.1};
+DE   Flags: Fragment;
+Bit Score: 255.0
+E-value: 3.476e-06
+Alignment Length: 91
+Percentage Identity: 0.274
+
+=== A0A0M1J933 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:KOR29362.1};
+DE   Flags: Fragment;
+Bit Score: 250.0
+E-value: 3.476e-06
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A3M0ZLK7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RMD84992.1};
+DE   Flags: Fragment;
+Bit Score: 260.0
+E-value: 3.717e-06
+Alignment Length: 87
+Percentage Identity: 0.321
+
+=== A0A350YLG8 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HAX92386.1};
+DE   Flags: Fragment;
+Bit Score: 250.0
+E-value: 3.717e-06
+Alignment Length: 89
+Percentage Identity: 0.325
+
+=== A0A3N5EV68 ===
+DE   SubName: Full=DNA polymerase {ECO:0000313|EMBL:RPH38699.1};
+DE   Flags: Fragment;
+Bit Score: 261.0
+E-value: 4.25e-06
+Alignment Length: 93
+Percentage Identity: 0.344
+
+=== A0A7C5NUV7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HHH76515.1};
+Bit Score: 247.0
+E-value: 4.25e-06
+Alignment Length: 89
+Percentage Identity: 0.337
+
+=== A0A1Y5ME40 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 258.0
+E-value: 4.545e-06
+Alignment Length: 94
+Percentage Identity: 0.351
+
+=== A0A7Y2ZKS5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 251.0
+E-value: 4.545e-06
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A149U6F3 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 250.0
+E-value: 4.545e-06
+Alignment Length: 91
+Percentage Identity: 0.285
+
+=== A0A3D1YNL1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HCG95905.1};
+DE   Flags: Fragment;
+Bit Score: 250.0
+E-value: 4.545e-06
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A258CWS8 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 247.0
+E-value: 4.545e-06
+Alignment Length: 92
+Percentage Identity: 0.271
+
+=== G5LW77 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:EHC29961.1};
+Bit Score: 246.0
+E-value: 4.545e-06
+Alignment Length: 83
+Percentage Identity: 0.24
+
+=== A0A3M1TQE9 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RMG18939.1};
+DE   Flags: Fragment;
+Bit Score: 252.0
+E-value: 5.197e-06
+Alignment Length: 91
+Percentage Identity: 0.307
+
+=== A0A1F3SDU9 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 250.0
+E-value: 5.197e-06
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A7Y1T1V5 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NNC45881.1};
+Bit Score: 249.0
+E-value: 5.197e-06
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A7C2BDA2 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HEE18579.1};
+Bit Score: 248.0
+E-value: 5.197e-06
+Alignment Length: 89
+Percentage Identity: 0.337
+
+=== A0A497AM02 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RLC74901.1};
+DE   Flags: Fragment;
+Bit Score: 244.0
+E-value: 5.197e-06
+Alignment Length: 89
+Percentage Identity: 0.292
+
+=== A0A7X9E4D9 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NMB82751.1};
+Bit Score: 245.0
+E-value: 5.557e-06
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== A0A377LSB0 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:STQ08240.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:STQ08240.1};
+Bit Score: 243.0
+E-value: 5.557e-06
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A4Q6FEY1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RZA16777.1};
+DE   Flags: Fragment;
+Bit Score: 250.0
+E-value: 5.942e-06
+Alignment Length: 84
+Percentage Identity: 0.261
+
+=== A0A352F1C0 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HBB88502.1};
+DE   Flags: Fragment;
+Bit Score: 249.0
+E-value: 5.942e-06
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== A0A349PSP4 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HAT78058.1};
+DE   Flags: Fragment;
+Bit Score: 248.0
+E-value: 5.942e-06
+Alignment Length: 89
+Percentage Identity: 0.314
+
+=== A0A7Y2TTM6 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NNJ65854.1};
+Bit Score: 248.0
+E-value: 5.942e-06
+Alignment Length: 84
+Percentage Identity: 0.285
+
+=== A0A7V1H6I8 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HEB32583.1};
+Bit Score: 247.0
+E-value: 5.942e-06
+Alignment Length: 89
+Percentage Identity: 0.28
+
+=== A0A800C5T8 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HID29479.1};
+Bit Score: 247.0
+E-value: 5.942e-06
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A2D6XFA9 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 262.0
+E-value: 6.354e-06
+Alignment Length: 95
+Percentage Identity: 0.242
+
+=== A0A2D5D942 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 251.0
+E-value: 6.354e-06
+Alignment Length: 92
+Percentage Identity: 0.195
+
+=== A0A2G4HJN8 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:PHX86462.1};
+DE   Flags: Fragment;
+Bit Score: 248.0
+E-value: 6.354e-06
+Alignment Length: 91
+Percentage Identity: 0.296
+
+=== A0A353HCW3 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HBF44848.1};
+DE   Flags: Fragment;
+Bit Score: 247.0
+E-value: 6.354e-06
+Alignment Length: 89
+Percentage Identity: 0.337
+
+=== C0DC03 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 251.0
+E-value: 6.795e-06
+Alignment Length: 89
+Percentage Identity: 0.292
+
+=== A0A3C0X6C1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HAL22070.1};
+DE   Flags: Fragment;
+Bit Score: 246.0
+E-value: 6.795e-06
+Alignment Length: 89
+Percentage Identity: 0.28
+
+=== A0A7V9ZQB7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 246.0
+E-value: 7.266e-06
+Alignment Length: 82
+Percentage Identity: 0.256
+
+=== A0A3N6BM02 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RPJ86294.1};
+DE   Flags: Fragment;
+Bit Score: 244.0
+E-value: 7.266e-06
+Alignment Length: 89
+Percentage Identity: 0.314
+
+=== A0A2T2TW86 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:PSQ85373.1};
+DE   Flags: Fragment;
+Bit Score: 241.0
+E-value: 7.266e-06
+Alignment Length: 89
+Percentage Identity: 0.314
+
+=== A0A3B9J6K0 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HAE55548.1};
+DE   Flags: Fragment;
+Bit Score: 245.0
+E-value: 7.77e-06
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A849FF99 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NNK75431.1};
+Bit Score: 241.0
+E-value: 7.77e-06
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A7C5PRQ5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 240.0
+E-value: 7.77e-06
+Alignment Length: 89
+Percentage Identity: 0.292
+
+=== A0A4Q4BXI3 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RYI22858.1};
+DE   Flags: Fragment;
+Bit Score: 239.0
+E-value: 7.77e-06
+Alignment Length: 92
+Percentage Identity: 0.271
+
+=== A0A7C5DB05 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HHD78265.1};
+Bit Score: 239.0
+E-value: 7.77e-06
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A3D1DF93 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HCC99702.1};
+DE   Flags: Fragment;
+Bit Score: 237.0
+E-value: 7.77e-06
+Alignment Length: 88
+Percentage Identity: 0.329
+
+=== A0A257T945 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 248.0
+E-value: 8.884e-06
+Alignment Length: 91
+Percentage Identity: 0.296
+
+=== A0A3M1YA09 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RMG73651.1};
+DE   Flags: Fragment;
+Bit Score: 240.0
+E-value: 8.884e-06
+Alignment Length: 91
+Percentage Identity: 0.285
+
+=== A0A7C0VYG9 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HDK17020.1};
+Bit Score: 243.0
+E-value: 9.5e-06
+Alignment Length: 89
+Percentage Identity: 0.269
+
+=== A0A2D9DGG3 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:MAO36014.1};
+Bit Score: 242.0
+E-value: 9.5e-06
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A3N5Y977 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RPJ61361.1};
+DE   Flags: Fragment;
+Bit Score: 240.0
+E-value: 9.5e-06
+Alignment Length: 89
+Percentage Identity: 0.314
+
+=== A0A3D5L2X2 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HCW24032.1};
+DE   Flags: Fragment;
+Bit Score: 244.0
+E-value: 1.016e-05
+Alignment Length: 87
+Percentage Identity: 0.287
+
+=== A0A3D1LDS7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 243.0
+E-value: 1.016e-05
+Alignment Length: 83
+Percentage Identity: 0.289
+
+=== A0A661P5A5 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RLB61195.1};
+DE   Flags: Fragment;
+Bit Score: 241.0
+E-value: 1.016e-05
+Alignment Length: 89
+Percentage Identity: 0.303
+
+=== A0A6J7IQ19 ===
+DE   SubName: Full=Unannotated protein {ECO:0000313|EMBL:CAB4932766.1};
+Bit Score: 240.0
+E-value: 1.016e-05
+Alignment Length: 93
+Percentage Identity: 0.268
+
+=== A0A2N1VET7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:PKL82910.1};
+DE   Flags: Fragment;
+Bit Score: 237.0
+E-value: 1.016e-05
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A257SIF5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 244.0
+E-value: 1.086e-05
+Alignment Length: 89
+Percentage Identity: 0.258
+
+=== A0A3N5M3C6 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RPI31916.1};
+DE   Flags: Fragment;
+Bit Score: 243.0
+E-value: 1.086e-05
+Alignment Length: 89
+Percentage Identity: 0.28
+
+=== A0A3N9NPT2 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RQW05357.1};
+DE   Flags: Fragment;
+Bit Score: 239.0
+E-value: 1.086e-05
+Alignment Length: 90
+Percentage Identity: 0.233
+
+=== A0A7Y5MSZ7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NUO01247.1};
+Bit Score: 236.0
+E-value: 1.086e-05
+Alignment Length: 89
+Percentage Identity: 0.28
+
+=== A0A7V4UX01 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 241.0
+E-value: 1.162e-05
+Alignment Length: 84
+Percentage Identity: 0.25
+
+=== X1CLP1 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 239.0
+E-value: 1.162e-05
+Alignment Length: 89
+Percentage Identity: 0.28
+
+=== X1T1W1 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 234.0
+E-value: 1.162e-05
+Alignment Length: 91
+Percentage Identity: 0.274
+
+=== A0A3D3ZUN1 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 234.0
+E-value: 1.162e-05
+Alignment Length: 90
+Percentage Identity: 0.266
+
+=== A0A3B8N8M6 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HAA83841.1};
+DE   Flags: Fragment;
+Bit Score: 226.0
+E-value: 1.162e-05
+Alignment Length: 93
+Percentage Identity: 0.268
+
+=== A0A3D1E8Y7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HCD23556.1};
+DE   Flags: Fragment;
+Bit Score: 239.0
+E-value: 1.242e-05
+Alignment Length: 89
+Percentage Identity: 0.258
+
+=== K1RTE5 ===
+DE   SubName: Full=DNA polymerase I (POL I) {ECO:0000313|EMBL:EKC48663.1};
+Bit Score: 239.0
+E-value: 1.242e-05
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== A0A7C1DLX0 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HDR06144.1};
+Bit Score: 238.0
+E-value: 1.242e-05
+Alignment Length: 91
+Percentage Identity: 0.307
+
+=== A0A6P0LN71 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NEO74473.1};
+DE   Flags: Fragment;
+Bit Score: 227.0
+E-value: 1.242e-05
+Alignment Length: 92
+Percentage Identity: 0.26
+
+=== A0A6M3XXB3 ===
+DE   SubName: Full=Putative DNA polymerase {ECO:0000313|EMBL:QJI00926.1};
+DE   Flags: Fragment;
+Bit Score: 246.0
+E-value: 1.328e-05
+Alignment Length: 98
+Percentage Identity: 0.285
+
+=== A0A7C7LJS5 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HIA38711.1};
+Bit Score: 238.0
+E-value: 1.328e-05
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A353R4L5 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HBG52201.1};
+DE   Flags: Fragment;
+Bit Score: 235.0
+E-value: 1.328e-05
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== A0A699VEK7 ===
+DE   SubName: Full=Helicase and polymerase-containing protein TEBICHI isoform X1 {ECO:0000313|EMBL:GFD33855.1};
+DE   Flags: Fragment;
+Bit Score: 231.0
+E-value: 1.328e-05
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A848WBE8 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NNE84620.1};
+Bit Score: 239.0
+E-value: 1.42e-05
+Alignment Length: 92
+Percentage Identity: 0.282
+
+=== A0A2A4MTM1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:PCH62926.1};
+DE   Flags: Fragment;
+Bit Score: 236.0
+E-value: 1.42e-05
+Alignment Length: 89
+Percentage Identity: 0.325
+
+=== A0A352NHL3 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HBC92196.1};
+DE   Flags: Fragment;
+Bit Score: 236.0
+E-value: 1.42e-05
+Alignment Length: 91
+Percentage Identity: 0.285
+
+=== A0A2M8NNS5 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:PJF26992.1};
+DE   Flags: Fragment;
+Bit Score: 233.0
+E-value: 1.42e-05
+Alignment Length: 91
+Percentage Identity: 0.285
+
+=== A0A645FTW1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:MPN17917.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:MPN17917.1};
+Bit Score: 229.0
+E-value: 1.42e-05
+Alignment Length: 98
+Percentage Identity: 0.275
+
+=== A0A7C3R777 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HFU75180.1};
+Bit Score: 229.0
+E-value: 1.42e-05
+Alignment Length: 92
+Percentage Identity: 0.25
+
+=== A0A351IXE4 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 237.0
+E-value: 1.519e-05
+Alignment Length: 83
+Percentage Identity: 0.24
+
+=== A0A3N5TMK6 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RPJ12440.1};
+DE   Flags: Fragment;
+Bit Score: 236.0
+E-value: 1.519e-05
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A7Y8JC68 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NWG31920.1};
+Bit Score: 235.0
+E-value: 1.519e-05
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A257TIZ0 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 234.0
+E-value: 1.519e-05
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A6J7HSM7 ===
+DE   SubName: Full=Unannotated protein {ECO:0000313|EMBL:CAB4921426.1};
+Bit Score: 236.0
+E-value: 1.624e-05
+Alignment Length: 89
+Percentage Identity: 0.28
+
+=== A0A7C1WAP6 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HED39020.1};
+Bit Score: 234.0
+E-value: 1.624e-05
+Alignment Length: 89
+Percentage Identity: 0.258
+
+=== A0A538QVA4 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 234.0
+E-value: 1.624e-05
+Alignment Length: 85
+Percentage Identity: 0.247
+
+=== A0A383DDN3 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 231.0
+E-value: 1.624e-05
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A1V5PLZ4 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:OQA18683.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:OQA18683.1};
+Bit Score: 236.0
+E-value: 1.737e-05
+Alignment Length: 89
+Percentage Identity: 0.269
+
+=== A0A838UN87 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:MBA3823540.1};
+Bit Score: 234.0
+E-value: 1.737e-05
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A7W1W9P8 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:MBA4186096.1};
+Bit Score: 233.0
+E-value: 1.737e-05
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A7C5SF45 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HHN67841.1};
+Bit Score: 232.0
+E-value: 1.737e-05
+Alignment Length: 90
+Percentage Identity: 0.255
+
+=== A0A7K0NVI9 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:MSW40914.1};
+Bit Score: 236.0
+E-value: 1.857e-05
+Alignment Length: 90
+Percentage Identity: 0.266
+
+=== A0A538CMN9 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:TML05314.1};
+DE   Flags: Fragment;
+Bit Score: 233.0
+E-value: 1.857e-05
+Alignment Length: 89
+Percentage Identity: 0.314
+
+=== A0A2V7VC61 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 230.0
+E-value: 1.857e-05
+Alignment Length: 91
+Percentage Identity: 0.285
+
+=== A0A6H9RNC8 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 230.0
+E-value: 1.857e-05
+Alignment Length: 79
+Percentage Identity: 0.265
+
+=== A0A533BF21 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:TKS62025.1};
+Bit Score: 239.0
+E-value: 1.986e-05
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A381V2C1 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 238.0
+E-value: 1.986e-05
+Alignment Length: 83
+Percentage Identity: 0.253
+
+=== A0A658NKD2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 237.0
+E-value: 1.986e-05
+Alignment Length: 83
+Percentage Identity: 0.265
+
+=== A0A534T7J6 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:TMA71007.1};
+DE   Flags: Fragment;
+Bit Score: 234.0
+E-value: 1.986e-05
+Alignment Length: 91
+Percentage Identity: 0.285
+
+=== A0A6I2A0Y6 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:MQY73242.1};
+DE   Flags: Fragment;
+Bit Score: 231.0
+E-value: 1.986e-05
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A2T2UB38 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:PSQ90576.1};
+DE   Flags: Fragment;
+Bit Score: 226.0
+E-value: 1.986e-05
+Alignment Length: 89
+Percentage Identity: 0.258
+
+=== A0A645BIJ9 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:MPM65102.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:MPM65102.1};
+Bit Score: 234.0
+E-value: 2.124e-05
+Alignment Length: 89
+Percentage Identity: 0.258
+
+=== A0A1B6H4E5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 232.0
+E-value: 2.124e-05
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== D9PK14 ===
+DE   SubName: Full=Protein containing DNA-directed DNA polymerase, family A domain {ECO:0000313|EMBL:EFK96103.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:EFK96103.1};
+Bit Score: 222.0
+E-value: 2.124e-05
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== A0A533RQW9 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 207.0
+E-value: 2.124e-05
+Alignment Length: 91
+Percentage Identity: 0.274
+
+=== A0A2M7BDJ4 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:PIV01173.1};
+DE   Flags: Fragment;
+Bit Score: 231.0
+E-value: 2.271e-05
+Alignment Length: 89
+Percentage Identity: 0.292
+
+=== A0A3C0NAJ1 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 230.0
+E-value: 2.271e-05
+Alignment Length: 93
+Percentage Identity: 0.301
+
+=== A0A7V5UJC3 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HHK41053.1};
+Bit Score: 229.0
+E-value: 2.271e-05
+Alignment Length: 89
+Percentage Identity: 0.314
+
+=== A0A4Q3RYZ4 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RYF91251.1};
+DE   Flags: Fragment;
+Bit Score: 229.0
+E-value: 2.271e-05
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A521S5Y3 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 227.0
+E-value: 2.271e-05
+Alignment Length: 87
+Percentage Identity: 0.275
+
+=== A0A534SA02 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 232.0
+E-value: 2.428e-05
+Alignment Length: 87
+Percentage Identity: 0.264
+
+=== A0A1V5RAL9 ===
+DE   SubName: Full=DNA polymerase I, thermostable {ECO:0000313|EMBL:OQA39288.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:OQA39288.1};
+Bit Score: 230.0
+E-value: 2.428e-05
+Alignment Length: 85
+Percentage Identity: 0.27
+
+=== A0A3B1DZL6 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:VAX34567.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:VAX34567.1};
+DE   Flags: Fragment;
+Bit Score: 230.0
+E-value: 2.428e-05
+Alignment Length: 89
+Percentage Identity: 0.269
+
+=== M5JJE8 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:ELT46223.1};
+Bit Score: 228.0
+E-value: 2.428e-05
+Alignment Length: 92
+Percentage Identity: 0.228
+
+=== A0A7V7WTS2 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:KAB2867983.1};
+Bit Score: 228.0
+E-value: 2.428e-05
+Alignment Length: 91
+Percentage Identity: 0.197
+
+=== A0A350V3N1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HAX49399.1};
+DE   Flags: Fragment;
+Bit Score: 227.0
+E-value: 2.428e-05
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== A0A3N5VM57 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RPJ34725.1};
+DE   Flags: Fragment;
+Bit Score: 220.0
+E-value: 2.428e-05
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A645H0I2 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:MPN29824.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:MPN29824.1};
+Bit Score: 232.0
+E-value: 2.596e-05
+Alignment Length: 90
+Percentage Identity: 0.244
+
+=== A0A645INC1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:MPN51909.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:MPN51909.1};
+Bit Score: 229.0
+E-value: 2.596e-05
+Alignment Length: 89
+Percentage Identity: 0.28
+
+=== A0A101FYR8 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:KUK46844.1};
+DE   Flags: Fragment;
+Bit Score: 229.0
+E-value: 2.596e-05
+Alignment Length: 90
+Percentage Identity: 0.266
+
+=== A0A434CT33 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RUU11740.1};
+DE   Flags: Fragment;
+Bit Score: 228.0
+E-value: 2.596e-05
+Alignment Length: 92
+Percentage Identity: 0.25
+
+=== A0A382URJ1 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 227.0
+E-value: 2.596e-05
+Alignment Length: 90
+Percentage Identity: 0.255
+
+=== A0A1V5J4N0 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:OPZ51452.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:OPZ51452.1};
+Bit Score: 227.0
+E-value: 2.596e-05
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A7C7FPH0 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HHZ65467.1};
+Bit Score: 221.0
+E-value: 2.596e-05
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A455UD22 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 215.0
+E-value: 2.596e-05
+Alignment Length: 83
+Percentage Identity: 0.277
+
+=== A0A0D2M3N0 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 213.0
+E-value: 2.596e-05
+Alignment Length: 98
+Percentage Identity: 0.224
+
+=== X0WC34 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 231.0
+E-value: 2.776e-05
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A7C6ZYM5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 230.0
+E-value: 2.776e-05
+Alignment Length: 81
+Percentage Identity: 0.271
+
+=== A0A257PMQ8 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 226.0
+E-value: 2.776e-05
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A3B9TTX3 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HAG23662.1};
+DE   Flags: Fragment;
+Bit Score: 226.0
+E-value: 2.776e-05
+Alignment Length: 92
+Percentage Identity: 0.26
+
+=== A0A353RDJ1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HBG55327.1};
+DE   Flags: Fragment;
+Bit Score: 226.0
+E-value: 2.776e-05
+Alignment Length: 87
+Percentage Identity: 0.241
+
+=== A0A6S6SX25 ===
+DE   SubName: Full=DNA polymerase I (EC) {ECO:0000313|EMBL:CAA6810674.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:CAA6810674.1};
+DE   Flags: Fragment;
+Bit Score: 225.0
+E-value: 2.776e-05
+Alignment Length: 90
+Percentage Identity: 0.222
+
+=== A0A519RVX9 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RZK15463.1};
+DE   Flags: Fragment;
+Bit Score: 222.0
+E-value: 2.776e-05
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A376NYI2 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:STH71022.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:STH71022.1};
+Bit Score: 221.0
+E-value: 2.776e-05
+Alignment Length: 84
+Percentage Identity: 0.238
+
+=== A0A524P3X4 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:TFH30416.1};
+DE   Flags: Fragment;
+Bit Score: 229.0
+E-value: 2.969e-05
+Alignment Length: 87
+Percentage Identity: 0.275
+
+=== A0A7V2EYZ5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 227.0
+E-value: 2.969e-05
+Alignment Length: 83
+Percentage Identity: 0.289
+
+=== A0A7X3R1Z5 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:MXY73051.1};
+Bit Score: 227.0
+E-value: 2.969e-05
+Alignment Length: 82
+Percentage Identity: 0.256
+
+=== A0A496T5B2 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RKY75584.1};
+DE   Flags: Fragment;
+Bit Score: 229.0
+E-value: 3.175e-05
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A509LIS2 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RLC23661.1};
+DE   Flags: Fragment;
+Bit Score: 228.0
+E-value: 3.175e-05
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== W1WCE5 ===
+DE   SubName: Full=DNA polymerase {ECO:0000313|EMBL:ETJ15808.1};
+Bit Score: 227.0
+E-value: 3.175e-05
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A519VYQ7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RZK64866.1};
+DE   Flags: Fragment;
+Bit Score: 226.0
+E-value: 3.175e-05
+Alignment Length: 89
+Percentage Identity: 0.202
+
+=== A0A536QGQ6 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:TMG49773.1};
+DE   Flags: Fragment;
+Bit Score: 223.0
+E-value: 3.175e-05
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== A0A357T1X6 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 227.0
+E-value: 3.395e-05
+Alignment Length: 84
+Percentage Identity: 0.285
+
+=== A0A7C1NT81 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HEB14085.1};
+Bit Score: 225.0
+E-value: 3.395e-05
+Alignment Length: 83
+Percentage Identity: 0.265
+
+=== A0A7Y8H918 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NWF52705.1};
+Bit Score: 224.0
+E-value: 3.395e-05
+Alignment Length: 89
+Percentage Identity: 0.258
+
+=== A0A1G1J9Y4 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 224.0
+E-value: 3.395e-05
+Alignment Length: 88
+Percentage Identity: 0.238
+
+=== A0A662ESV2 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RLE36983.1};
+DE   Flags: Fragment;
+Bit Score: 221.0
+E-value: 3.395e-05
+Alignment Length: 89
+Percentage Identity: 0.269
+
+=== A0A356Z6M2 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HBQ85970.1};
+DE   Flags: Fragment;
+Bit Score: 218.0
+E-value: 3.395e-05
+Alignment Length: 92
+Percentage Identity: 0.304
+
+=== A0A356AR45 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HBN82682.1};
+DE   Flags: Fragment;
+Bit Score: 217.0
+E-value: 3.395e-05
+Alignment Length: 91
+Percentage Identity: 0.296
+
+=== X0W4E1 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 216.0
+E-value: 3.395e-05
+Alignment Length: 92
+Percentage Identity: 0.326
+
+=== A0A3D5VB62 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HCX73224.1};
+DE   Flags: Fragment;
+Bit Score: 205.0
+E-value: 3.395e-05
+Alignment Length: 91
+Percentage Identity: 0.274
+
+=== A0A521IRY5 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:TAH58430.1};
+DE   Flags: Fragment;
+Bit Score: 226.0
+E-value: 3.63e-05
+Alignment Length: 89
+Percentage Identity: 0.269
+
+=== A0A3E2DBD7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 223.0
+E-value: 3.63e-05
+Alignment Length: 82
+Percentage Identity: 0.243
+
+=== A0A7V0YVL7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HDX77644.1};
+Bit Score: 228.0
+E-value: 3.882e-05
+Alignment Length: 88
+Percentage Identity: 0.25
+
+=== A0A3N5FQR8 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RPH53805.1};
+DE   Flags: Fragment;
+Bit Score: 225.0
+E-value: 3.882e-05
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A0G1A5B9 ===
+DE   SubName: Full=DNA-directed DNA polymerase, DNA polymerase I {ECO:0000313|EMBL:KKS20583.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:KKS20583.1};
+Bit Score: 223.0
+E-value: 3.882e-05
+Alignment Length: 79
+Percentage Identity: 0.278
+
+=== A0A1F8TZX7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 221.0
+E-value: 3.882e-05
+Alignment Length: 91
+Percentage Identity: 0.285
+
+=== A0A1G3C2D2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 221.0
+E-value: 3.882e-05
+Alignment Length: 89
+Percentage Identity: 0.269
+
+=== A0A3D6DNK9 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HCZ10058.1};
+DE   Flags: Fragment;
+Bit Score: 221.0
+E-value: 3.882e-05
+Alignment Length: 89
+Percentage Identity: 0.224
+
+=== A0A1F8QSB4 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 220.0
+E-value: 3.882e-05
+Alignment Length: 90
+Percentage Identity: 0.266
+
+=== A0A382B2Y0 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 212.0
+E-value: 3.882e-05
+Alignment Length: 85
+Percentage Identity: 0.27
+
+=== A0A657AG73 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 228.0
+E-value: 4.151e-05
+Alignment Length: 89
+Percentage Identity: 0.224
+
+=== A0A7X8ZB03 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NLZ54480.1};
+Bit Score: 226.0
+E-value: 4.151e-05
+Alignment Length: 81
+Percentage Identity: 0.259
+
+=== A0A3B8URG1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HAC02682.1};
+DE   Flags: Fragment;
+Bit Score: 223.0
+E-value: 4.151e-05
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== X1M0S7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 219.0
+E-value: 4.151e-05
+Alignment Length: 89
+Percentage Identity: 0.28
+
+=== A0A7K0S1Q3 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:MSX12479.1};
+Bit Score: 214.0
+E-value: 4.151e-05
+Alignment Length: 90
+Percentage Identity: 0.344
+
+=== A0A7C6EHH1 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 213.0
+E-value: 4.151e-05
+Alignment Length: 91
+Percentage Identity: 0.274
+
+=== A0A7Y3G2Y0 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NNL48693.1};
+Bit Score: 226.0
+E-value: 4.439e-05
+Alignment Length: 90
+Percentage Identity: 0.288
+
+=== X1Q2Z9 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 218.0
+E-value: 4.439e-05
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A848TKZ3 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NND21638.1};
+Bit Score: 217.0
+E-value: 4.439e-05
+Alignment Length: 93
+Percentage Identity: 0.279
+
+=== A0A3D3EYH7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HCM15084.1};
+DE   Flags: Fragment;
+Bit Score: 204.0
+E-value: 4.439e-05
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A7C6DWU2 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HHS31161.1};
+Bit Score: 226.0
+E-value: 4.747e-05
+Alignment Length: 91
+Percentage Identity: 0.186
+
+=== A0A355SEB7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HBM79464.1};
+DE   Flags: Fragment;
+Bit Score: 225.0
+E-value: 4.747e-05
+Alignment Length: 89
+Percentage Identity: 0.28
+
+=== A0A7W0L330 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:MBA3291179.1};
+Bit Score: 223.0
+E-value: 4.747e-05
+Alignment Length: 90
+Percentage Identity: 0.277
+
+=== A0A3C0HMI9 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HAI63728.1};
+DE   Flags: Fragment;
+Bit Score: 220.0
+E-value: 4.747e-05
+Alignment Length: 88
+Percentage Identity: 0.284
+
+=== A0A436W4S8 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RVD33882.1};
+DE   Flags: Fragment;
+Bit Score: 217.0
+E-value: 4.747e-05
+Alignment Length: 89
+Percentage Identity: 0.28
+
+=== A0A661VIE7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RLC69967.1};
+DE   Flags: Fragment;
+Bit Score: 217.0
+E-value: 4.747e-05
+Alignment Length: 91
+Percentage Identity: 0.274
+
+=== A0A7V9KA59 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 217.0
+E-value: 4.747e-05
+Alignment Length: 87
+Percentage Identity: 0.252
+
+=== A0A3D2SET5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 216.0
+E-value: 4.747e-05
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== J4V4X8 ===
+DE   SubName: Full=DNA-directed DNA polymerase {ECO:0000313|EMBL:EJP73552.1};
+Bit Score: 216.0
+E-value: 4.747e-05
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A3E2CPB1 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 218.0
+E-value: 5.076e-05
+Alignment Length: 90
+Percentage Identity: 0.255
+
+=== A0A6L4A5J2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 214.0
+E-value: 5.076e-05
+Alignment Length: 83
+Percentage Identity: 0.24
+
+=== A0A4Q6DZX8 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RYZ96875.1};
+DE   Flags: Fragment;
+Bit Score: 225.0
+E-value: 5.428e-05
+Alignment Length: 88
+Percentage Identity: 0.238
+
+=== A0A831Z2S8 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 222.0
+E-value: 5.428e-05
+Alignment Length: 83
+Percentage Identity: 0.265
+
+=== A0A3D5HJ79 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HCV48538.1};
+DE   Flags: Fragment;
+Bit Score: 215.0
+E-value: 5.428e-05
+Alignment Length: 90
+Percentage Identity: 0.222
+
+=== A0A835XY31 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 205.0
+E-value: 5.428e-05
+Alignment Length: 98
+Percentage Identity: 0.336
+
+=== X0WYX6 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 219.0
+E-value: 5.804e-05
+Alignment Length: 85
+Percentage Identity: 0.258
+
+=== A0A6G0AHF1 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 215.0
+E-value: 5.804e-05
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A838JIX7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:MBA2689546.1};
+Bit Score: 215.0
+E-value: 5.804e-05
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A7V5NVF5 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HHI87828.1};
+Bit Score: 198.0
+E-value: 5.804e-05
+Alignment Length: 93
+Percentage Identity: 0.225
+
+=== A0A4Q6DYD6 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RYZ96421.1};
+DE   Flags: Fragment;
+Bit Score: 223.0
+E-value: 6.206e-05
+Alignment Length: 88
+Percentage Identity: 0.238
+
+=== A0A7C7AIB4 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 217.0
+E-value: 6.206e-05
+Alignment Length: 89
+Percentage Identity: 0.292
+
+=== A0A538SWZ5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 215.0
+E-value: 6.206e-05
+Alignment Length: 87
+Percentage Identity: 0.275
+
+=== A0A6L7XA22 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:MYE06815.1};
+DE   Flags: Fragment;
+Bit Score: 213.0
+E-value: 6.206e-05
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A7S0L5J0 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 194.0
+E-value: 6.206e-05
+Alignment Length: 97
+Percentage Identity: 0.268
+
+=== A0A847MZ94 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NLK04864.1};
+Bit Score: 219.0
+E-value: 6.636e-05
+Alignment Length: 89
+Percentage Identity: 0.258
+
+=== A0A2S6SC78 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 218.0
+E-value: 6.636e-05
+Alignment Length: 90
+Percentage Identity: 0.244
+
+=== A0A7X6PPW4 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NLA56895.1};
+Bit Score: 217.0
+E-value: 6.636e-05
+Alignment Length: 88
+Percentage Identity: 0.306
+
+=== A0A2N3YNG5 ===
+DE   SubName: Full=DNA polymerase-1 {ECO:0000313|EMBL:PKW28400.1};
+DE   Flags: Fragment;
+Bit Score: 217.0
+E-value: 6.636e-05
+Alignment Length: 90
+Percentage Identity: 0.255
+
+=== A0A655XST5 ===
+DE   SubName: Full=DNA primase/helicase {ECO:0000313|EMBL:CSC22327.1};
+Bit Score: 215.0
+E-value: 6.636e-05
+Alignment Length: 90
+Percentage Identity: 0.244
+
+=== A0A7V1MIC7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HEE71776.1};
+Bit Score: 209.0
+E-value: 6.636e-05
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== A0A357K4H2 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HBS19825.1};
+DE   Flags: Fragment;
+Bit Score: 208.0
+E-value: 6.636e-05
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A1D2A4D5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 198.0
+E-value: 6.636e-05
+Alignment Length: 94
+Percentage Identity: 0.287
+
+=== A0A1Z9Q583 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 232.0
+E-value: 7.097e-05
+Alignment Length: 94
+Percentage Identity: 0.372
+
+=== K1TK34 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:EKC70113.1};
+DE   Flags: Fragment;
+Bit Score: 218.0
+E-value: 7.097e-05
+Alignment Length: 89
+Percentage Identity: 0.258
+
+=== X1FZ58 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 214.0
+E-value: 7.097e-05
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A442WFG8 ===
+DE   SubName: Full=DNA polymerase {ECO:0000313|EMBL:RWO57043.1};
+Bit Score: 231.0
+E-value: 7.589e-05
+Alignment Length: 97
+Percentage Identity: 0.412
+
+=== K1XTW8 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 214.0
+E-value: 7.589e-05
+Alignment Length: 85
+Percentage Identity: 0.282
+
+=== A0A2G6J056 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:PIE16813.1};
+DE   Flags: Fragment;
+Bit Score: 211.0
+E-value: 7.589e-05
+Alignment Length: 91
+Percentage Identity: 0.307
+
+=== A0A832C314 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HGO27585.1};
+Bit Score: 210.0
+E-value: 7.589e-05
+Alignment Length: 90
+Percentage Identity: 0.266
+
+=== A0A257NGZ8 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:OYV23230.1};
+Bit Score: 209.0
+E-value: 7.589e-05
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A3D6D0L5 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HCZ02993.1};
+DE   Flags: Fragment;
+Bit Score: 209.0
+E-value: 7.589e-05
+Alignment Length: 91
+Percentage Identity: 0.208
+
+=== A0A1F2TJ34 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 204.0
+E-value: 7.589e-05
+Alignment Length: 92
+Percentage Identity: 0.228
+
+=== A0A3D4IK86 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HCR52762.1};
+DE   Flags: Fragment;
+Bit Score: 196.0
+E-value: 7.589e-05
+Alignment Length: 95
+Percentage Identity: 0.252
+
+=== A8IFA9 ===
+DE   SubName: Full=DNA polymerase {ECO:0000313|EMBL:BAF89595.1};
+Bit Score: 227.0
+E-value: 8.115e-05
+Alignment Length: 95
+Percentage Identity: 0.41
+
+=== A0A355YLR2 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HBN56552.1};
+DE   Flags: Fragment;
+Bit Score: 217.0
+E-value: 8.115e-05
+Alignment Length: 89
+Percentage Identity: 0.269
+
+=== X1QRL0 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 214.0
+E-value: 8.115e-05
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A3C1KAW3 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HAN23648.1};
+DE   Flags: Fragment;
+Bit Score: 213.0
+E-value: 8.115e-05
+Alignment Length: 90
+Percentage Identity: 0.277
+
+=== A0A538CHQ1 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 212.0
+E-value: 8.115e-05
+Alignment Length: 85
+Percentage Identity: 0.282
+
+=== X1HNV3 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 211.0
+E-value: 8.115e-05
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A357QZ96 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HBS90995.1};
+DE   Flags: Fragment;
+Bit Score: 210.0
+E-value: 8.115e-05
+Alignment Length: 91
+Percentage Identity: 0.208
+
+=== A0A7C1FAK7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HDW62019.1};
+Bit Score: 212.0
+E-value: 8.677e-05
+Alignment Length: 89
+Percentage Identity: 0.28
+
+=== A0A6M1YNX4 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NGX33571.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:NGX33571.1};
+DE   Flags: Fragment;
+Bit Score: 212.0
+E-value: 8.677e-05
+Alignment Length: 86
+Percentage Identity: 0.244
+
+=== X1CJW2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 211.0
+E-value: 8.677e-05
+Alignment Length: 90
+Percentage Identity: 0.266
+
+=== A0A258EKL9 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:OYX20811.1};
+DE   Flags: Fragment;
+Bit Score: 208.0
+E-value: 8.677e-05
+Alignment Length: 90
+Percentage Identity: 0.255
+
+=== A0A7C4T2N9 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HGV49833.1};
+Bit Score: 202.0
+E-value: 8.677e-05
+Alignment Length: 85
+Percentage Identity: 0.282
+
+=== A0A660UYT2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 198.0
+E-value: 8.677e-05
+Alignment Length: 79
+Percentage Identity: 0.24
+
+=== A0A5C7QWK4 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:TXH63118.1};
+DE   Flags: Fragment;
+Bit Score: 215.0
+E-value: 9.279e-05
+Alignment Length: 91
+Percentage Identity: 0.208
+
+=== A0A2W1B427 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 210.0
+E-value: 9.279e-05
+Alignment Length: 85
+Percentage Identity: 0.258
+
+=== A0A6M3XUM5 ===
+DE   SubName: Full=Putative DNA polymerase {ECO:0000313|EMBL:QJI01537.1};
+DE   Flags: Fragment;
+Bit Score: 207.0
+E-value: 9.279e-05
+Alignment Length: 93
+Percentage Identity: 0.182
+
+=== R6XVA4 ===
+DE   SubName: Full=DNA polymerase {ECO:0000313|EMBL:CDD27673.1};
+Bit Score: 206.0
+E-value: 9.279e-05
+Alignment Length: 83
+Percentage Identity: 0.289
+
+=== A0A3B8TZ04 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HAB93467.1};
+DE   Flags: Fragment;
+Bit Score: 206.0
+E-value: 9.279e-05
+Alignment Length: 85
+Percentage Identity: 0.27
+
+=== A0A381PQT1 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 203.0
+E-value: 9.279e-05
+Alignment Length: 93
+Percentage Identity: 0.236
+
+=== C3Y3L8 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 199.0
+E-value: 9.279e-05
+Alignment Length: 94
+Percentage Identity: 0.255
+
+=== A0A2E9NSV2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 217.0
+E-value: 9.922e-05
+Alignment Length: 96
+Percentage Identity: 0.406
+
+=== A0A1B6KKU5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 211.0
+E-value: 9.922e-05
+Alignment Length: 90
+Percentage Identity: 0.266
+
+=== A0A0F8XY22 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 209.0
+E-value: 9.922e-05
+Alignment Length: 89
+Percentage Identity: 0.202
+
+=== A0A7X6TQ54 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 207.0
+E-value: 9.922e-05
+Alignment Length: 84
+Percentage Identity: 0.273
+
+=== A0A7C5FYH0 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HHA69361.1};
+Bit Score: 205.0
+E-value: 9.922e-05
+Alignment Length: 77
+Percentage Identity: 0.298
+
+=== A0A1F6WPU8 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 203.0
+E-value: 9.922e-05
+Alignment Length: 97
+Percentage Identity: 0.237
+
+=== A0A2N2DXL0 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 202.0
+E-value: 9.922e-05
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A7W0N805 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:MBA3334988.1};
+Bit Score: 210.0
+E-value: 0.0001061
+Alignment Length: 90
+Percentage Identity: 0.222
+
+=== A0A7C6Z1J3 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 203.0
+E-value: 0.0001061
+Alignment Length: 90
+Percentage Identity: 0.3
+
+=== A0A3C0QFD1 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 203.0
+E-value: 0.0001061
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A6I9MX65 ===
+DE   SubName: Full=DNA polymerase nu-like {ECO:0000313|RefSeq:XP_010766170.1};
+Bit Score: 191.0
+E-value: 0.0001061
+Alignment Length: 97
+Percentage Identity: 0.237
+
+=== A0A444J065 ===
+DE   SubName: Full=DNA polymerase family A {ECO:0000313|EMBL:RWX46486.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:RWX46486.1};
+DE   Flags: Fragment;
+Bit Score: 210.0
+E-value: 0.0001135
+Alignment Length: 87
+Percentage Identity: 0.229
+
+=== A0A349U2X5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 208.0
+E-value: 0.0001135
+Alignment Length: 87
+Percentage Identity: 0.252
+
+=== A0A645IE74 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:MPN48749.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:MPN48749.1};
+Bit Score: 207.0
+E-value: 0.0001135
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A2N1PVI5 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:PKK92354.1};
+DE   Flags: Fragment;
+Bit Score: 205.0
+E-value: 0.0001135
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A535CL61 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:TMB85419.1};
+DE   Flags: Fragment;
+Bit Score: 203.0
+E-value: 0.0001135
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A2E2W6D0 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311};
+Bit Score: 221.0
+E-value: 0.0001297
+Alignment Length: 94
+Percentage Identity: 0.34
+
+=== A0A7C3XAD4 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 201.0
+E-value: 0.0001297
+Alignment Length: 75
+Percentage Identity: 0.28
+
+=== A0A660QSR1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RKX41941.1};
+DE   Flags: Fragment;
+Bit Score: 207.0
+E-value: 0.0001387
+Alignment Length: 83
+Percentage Identity: 0.265
+
+=== A0A6L7RVJ5 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:MYA60011.1};
+DE   Flags: Fragment;
+Bit Score: 206.0
+E-value: 0.0001387
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== A0A7V9WPA4 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:MBA2794564.1};
+Bit Score: 205.0
+E-value: 0.0001387
+Alignment Length: 89
+Percentage Identity: 0.28
+
+=== A0A847B3J2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 205.0
+E-value: 0.0001387
+Alignment Length: 83
+Percentage Identity: 0.24
+
+=== A0A3C0G6S3 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 203.0
+E-value: 0.0001387
+Alignment Length: 75
+Percentage Identity: 0.28
+
+=== A0A539DIF7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:TPW07461.1};
+Bit Score: 203.0
+E-value: 0.0001387
+Alignment Length: 90
+Percentage Identity: 0.255
+
+=== A0A1G1MQM4 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 203.0
+E-value: 0.0001387
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A3M1HQJ1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RME82880.1};
+DE   Flags: Fragment;
+Bit Score: 194.0
+E-value: 0.0001387
+Alignment Length: 91
+Percentage Identity: 0.329
+
+=== A0A6M3L908 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 193.0
+E-value: 0.0001387
+Alignment Length: 92
+Percentage Identity: 0.163
+
+=== A0A2M6ZYP6 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:PIU57527.1};
+DE   Flags: Fragment;
+Bit Score: 208.0
+E-value: 0.0001483
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A7J7IS69 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 205.0
+E-value: 0.0001483
+Alignment Length: 90
+Percentage Identity: 0.277
+
+=== A0A6J6HRG9 ===
+DE   SubName: Full=Unannotated protein {ECO:0000313|EMBL:CAB4614095.1};
+Bit Score: 204.0
+E-value: 0.0001483
+Alignment Length: 87
+Percentage Identity: 0.275
+
+=== A0A0S8ENP2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 204.0
+E-value: 0.0001483
+Alignment Length: 88
+Percentage Identity: 0.204
+
+=== A0A350J757 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 203.0
+E-value: 0.0001483
+Alignment Length: 80
+Percentage Identity: 0.275
+
+=== A0A2V7K653 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:PYO85131.1};
+DE   Flags: Fragment;
+Bit Score: 207.0
+E-value: 0.0001586
+Alignment Length: 85
+Percentage Identity: 0.235
+
+=== A0A7C7U9Q5 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HID13202.1};
+Bit Score: 202.0
+E-value: 0.0001586
+Alignment Length: 90
+Percentage Identity: 0.266
+
+=== A0A357MR78 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 202.0
+E-value: 0.0001586
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A496UBZ8 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 198.0
+E-value: 0.0001586
+Alignment Length: 85
+Percentage Identity: 0.247
+
+=== A0A2D9CKP8 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 216.0
+E-value: 0.0001696
+Alignment Length: 92
+Percentage Identity: 0.445
+
+=== A0A4Q6ABJ7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RYZ46630.1};
+DE   Flags: Fragment;
+Bit Score: 197.0
+E-value: 0.0001696
+Alignment Length: 93
+Percentage Identity: 0.215
+
+=== A0A0T6AY64 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 180.0
+E-value: 0.0001696
+Alignment Length: 90
+Percentage Identity: 0.244
+
+=== A0A0D6E1L2 ===
+DE   SubName: Full=Putative DNA polymerase I {ECO:0000313|EMBL:CEO91114.1};
+Bit Score: 175.0
+E-value: 0.0001696
+Alignment Length: 97
+Percentage Identity: 0.247
+
+=== A0A5C7M032 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 225.0
+E-value: 0.0001814
+Alignment Length: 91
+Percentage Identity: 0.45
+
+=== A0A2V6PKZ3 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 197.0
+E-value: 0.0001814
+Alignment Length: 73
+Percentage Identity: 0.26
+
+=== A0A7C5QNU6 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HHL42521.1};
+Bit Score: 192.0
+E-value: 0.0001814
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A1W1DDV1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:SFV79350.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:SFV79350.1};
+Bit Score: 191.0
+E-value: 0.0001814
+Alignment Length: 83
+Percentage Identity: 0.216
+
+=== A0A3D5U6K6 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HCX59417.1};
+DE   Flags: Fragment;
+Bit Score: 187.0
+E-value: 0.0001814
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A1T4RNR6 ===
+DE   SubName: Full=DNA polymerase I-3'-5' exonuclease and polymerase domains {ECO:0000313|EMBL:SKA17619.1};
+Bit Score: 208.0
+E-value: 0.000194
+Alignment Length: 94
+Percentage Identity: 0.404
+
+=== A0A7V4BKS5 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HGO81118.1};
+Bit Score: 205.0
+E-value: 0.000194
+Alignment Length: 83
+Percentage Identity: 0.216
+
+=== A0A3C1V6B2 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HAO72748.1};
+DE   Flags: Fragment;
+Bit Score: 204.0
+E-value: 0.000194
+Alignment Length: 88
+Percentage Identity: 0.261
+
+=== A0A6J6KRI6 ===
+DE   SubName: Full=Unannotated protein {ECO:0000313|EMBL:CAB4650725.1};
+Bit Score: 201.0
+E-value: 0.000194
+Alignment Length: 85
+Percentage Identity: 0.258
+
+=== A0A7C7Y2X5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 194.0
+E-value: 0.000194
+Alignment Length: 87
+Percentage Identity: 0.264
+
+=== A0A7C5PE96 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HHI47497.1};
+Bit Score: 193.0
+E-value: 0.000194
+Alignment Length: 89
+Percentage Identity: 0.202
+
+=== A0A834BM36 ===
+DE   SubName: Full=DNA polymerase nu {ECO:0000313|EMBL:KAF6132173.1};
+Bit Score: 190.0
+E-value: 0.000194
+Alignment Length: 97
+Percentage Identity: 0.247
+
+=== A0A2M7FCX0 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:PIV87106.1};
+DE   Flags: Fragment;
+Bit Score: 179.0
+E-value: 0.000194
+Alignment Length: 95
+Percentage Identity: 0.221
+
+=== A0A2H0CA39 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 196.0
+E-value: 0.0002074
+Alignment Length: 87
+Percentage Identity: 0.206
+
+=== A0A7C6S6N4 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 181.0
+E-value: 0.0002074
+Alignment Length: 83
+Percentage Identity: 0.265
+
+=== A0A1V6C1J6 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:OQB70721.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:OQB70721.1};
+Bit Score: 199.0
+E-value: 0.0002218
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A359F706 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HBX78429.1};
+DE   Flags: Fragment;
+Bit Score: 198.0
+E-value: 0.0002218
+Alignment Length: 89
+Percentage Identity: 0.269
+
+=== A0A523G8J2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 196.0
+E-value: 0.0002218
+Alignment Length: 77
+Percentage Identity: 0.233
+
+=== A0A7W1J2V7 ===
+DE   SubName: Full=Bifunctional 3'-5' exonuclease/DNA polymerase {ECO:0000313|EMBL:MBA3703324.1};
+Bit Score: 197.0
+E-value: 0.0002372
+Alignment Length: 79
+Percentage Identity: 0.265
+
+=== A0A1E5IM73 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 194.0
+E-value: 0.0002372
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== E1ZGS2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 187.0
+E-value: 0.0002372
+Alignment Length: 92
+Percentage Identity: 0.271
+
+=== A0A7C2GEA1 ===
+DE   RecName: Full=DNA polymerase I, thermostable {ECO:0000256|ARBA:ARBA00021109};
+Bit Score: 187.0
+E-value: 0.0002372
+Alignment Length: 89
+Percentage Identity: 0.235
+
+=== A0A831XNR7 ===
+DE   RecName: Full=DNA polymerase I, thermostable {ECO:0000256|ARBA:ARBA00021109};
+Bit Score: 187.0
+E-value: 0.0002372
+Alignment Length: 89
+Percentage Identity: 0.235
+
+=== A0A7G8EGP2 ===
+DE   SubName: Full=DNA/RNA polymerases family protein {ECO:0000313|EMBL:QNI68481.1};
+Bit Score: 182.0
+E-value: 0.0002372
+Alignment Length: 87
+Percentage Identity: 0.275
+
+=== A0A7U6KLQ4 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 180.0
+E-value: 0.0002372
+Alignment Length: 97
+Percentage Identity: 0.247
+
+=== A0A202DQX1 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 196.0
+E-value: 0.0002536
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== A0A800A8P8 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HIE21549.1};
+Bit Score: 194.0
+E-value: 0.0002536
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== A0A2N1PET6 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:PKK86853.1};
+DE   Flags: Fragment;
+Bit Score: 198.0
+E-value: 0.0002712
+Alignment Length: 84
+Percentage Identity: 0.202
+
+=== A0A7C2W9D5 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HEX69651.1};
+Bit Score: 195.0
+E-value: 0.0002712
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A6L3EPS4 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 191.0
+E-value: 0.0002712
+Alignment Length: 83
+Percentage Identity: 0.204
+
+=== A0A1U7RPY0 ===
+DE   SubName: Full=DNA polymerase nu-like {ECO:0000313|RefSeq:XP_006023881.2};
+Bit Score: 175.0
+E-value: 0.0002712
+Alignment Length: 96
+Percentage Identity: 0.218
+
+=== A0A2D8XAY4 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 205.0
+E-value: 0.00029
+Alignment Length: 92
+Percentage Identity: 0.347
+
+=== A0A7Y2KKN1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NNG47814.1};
+Bit Score: 198.0
+E-value: 0.00029
+Alignment Length: 89
+Percentage Identity: 0.269
+
+=== A0A7C8EJX8 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 196.0
+E-value: 0.00029
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A383B8M3 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 186.0
+E-value: 0.00029
+Alignment Length: 88
+Percentage Identity: 0.25
+
+=== G3Q5Y7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 175.0
+E-value: 0.00029
+Alignment Length: 96
+Percentage Identity: 0.229
+
+=== X1GL73 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 192.0
+E-value: 0.0003101
+Alignment Length: 81
+Percentage Identity: 0.222
+
+=== A0A7S3E2S0 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 190.0
+E-value: 0.0003101
+Alignment Length: 93
+Percentage Identity: 0.311
+
+=== A0A3C1ETJ0 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HAM37348.1};
+DE   Flags: Fragment;
+Bit Score: 190.0
+E-value: 0.0003101
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A7S0FJ97 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 185.0
+E-value: 0.0003101
+Alignment Length: 90
+Percentage Identity: 0.233
+
+=== X1S5P5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 183.0
+E-value: 0.0003101
+Alignment Length: 77
+Percentage Identity: 0.246
+
+=== A0A7C4BQ41 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 192.0
+E-value: 0.0003316
+Alignment Length: 89
+Percentage Identity: 0.258
+
+=== A0A358M5J4 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 191.0
+E-value: 0.0003316
+Alignment Length: 73
+Percentage Identity: 0.26
+
+=== A0A519UBS0 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 189.0
+E-value: 0.0003316
+Alignment Length: 75
+Percentage Identity: 0.266
+
+=== A0A524LZX8 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 182.0
+E-value: 0.0003316
+Alignment Length: 100
+Percentage Identity: 0.24
+
+=== A0A7J2R394 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 180.0
+E-value: 0.0003316
+Alignment Length: 88
+Percentage Identity: 0.227
+
+=== A0A7C9AXA2 ===
+DE   SubName: Full=DNA-directed DNA polymerase {ECO:0000313|EMBL:MBA4676733.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:MBA4676733.1};
+Bit Score: 177.0
+E-value: 0.0003316
+Alignment Length: 96
+Percentage Identity: 0.239
+
+=== A0A7S4NVF8 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 167.0
+E-value: 0.0003316
+Alignment Length: 94
+Percentage Identity: 0.202
+
+=== A0A849H3Y2 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NNM05799.1};
+Bit Score: 193.0
+E-value: 0.0003546
+Alignment Length: 86
+Percentage Identity: 0.279
+
+=== A0A352UMW7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 183.0
+E-value: 0.0003546
+Alignment Length: 71
+Percentage Identity: 0.253
+
+=== A0A838RSG1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:MBA3551176.1};
+Bit Score: 182.0
+E-value: 0.0003546
+Alignment Length: 95
+Percentage Identity: 0.242
+
+=== A0A453RWI5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 180.0
+E-value: 0.0003546
+Alignment Length: 87
+Percentage Identity: 0.264
+
+=== A0A1F6EKI2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 180.0
+E-value: 0.0003546
+Alignment Length: 93
+Percentage Identity: 0.225
+
+=== A0A401Q2N4 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 179.0
+E-value: 0.0003546
+Alignment Length: 97
+Percentage Identity: 0.268
+
+=== A0A7S1RMC7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 171.0
+E-value: 0.0003546
+Alignment Length: 90
+Percentage Identity: 0.255
+
+=== A0A539E4J6 ===
+DE   SubName: Full=PolA {ECO:0000313|EMBL:TPW14857.1};
+Bit Score: 193.0
+E-value: 0.0003792
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A4Q3YRB3 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RYG97915.1};
+DE   Flags: Fragment;
+Bit Score: 192.0
+E-value: 0.0003792
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== X1F2P7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 187.0
+E-value: 0.0003792
+Alignment Length: 79
+Percentage Identity: 0.253
+
+=== A0A452ZHE0 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 181.0
+E-value: 0.0003792
+Alignment Length: 109
+Percentage Identity: 0.192
+
+=== A0A847PHY6 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NLL37852.1};
+Bit Score: 180.0
+E-value: 0.0003792
+Alignment Length: 85
+Percentage Identity: 0.27
+
+=== A0A7C0YK21 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HDH03912.1};
+Bit Score: 191.0
+E-value: 0.0004054
+Alignment Length: 95
+Percentage Identity: 0.21
+
+=== A0A3C0TY91 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 187.0
+E-value: 0.0004054
+Alignment Length: 78
+Percentage Identity: 0.269
+
+=== A0A6L4ZNU4 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:KAF0249039.1};
+DE   Flags: Fragment;
+Bit Score: 187.0
+E-value: 0.0004054
+Alignment Length: 77
+Percentage Identity: 0.259
+
+=== A0A352KZJ0 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HBC61373.1};
+DE   Flags: Fragment;
+Bit Score: 186.0
+E-value: 0.0004054
+Alignment Length: 90
+Percentage Identity: 0.288
+
+=== A0A7C7MSG3 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 185.0
+E-value: 0.0004054
+Alignment Length: 89
+Percentage Identity: 0.258
+
+=== A0A7S2SQ26 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 178.0
+E-value: 0.0004054
+Alignment Length: 96
+Percentage Identity: 0.25
+
+=== A0A851GY27 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 171.0
+E-value: 0.0004054
+Alignment Length: 77
+Percentage Identity: 0.194
+
+=== A0A1U7I2P7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 186.0
+E-value: 0.0004335
+Alignment Length: 89
+Percentage Identity: 0.269
+
+=== A0A2E2QN73 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 201.0
+E-value: 0.0004636
+Alignment Length: 92
+Percentage Identity: 0.38
+
+=== A0A699ZU85 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:GFH26447.1};
+DE   Flags: Fragment;
+Bit Score: 192.0
+E-value: 0.0004636
+Alignment Length: 79
+Percentage Identity: 0.265
+
+=== A0A7C2DD47 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 185.0
+E-value: 0.0004636
+Alignment Length: 75
+Percentage Identity: 0.24
+
+=== A0A1V4RJV9 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 184.0
+E-value: 0.0004636
+Alignment Length: 85
+Percentage Identity: 0.247
+
+=== A0A7J7ELH2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 179.0
+E-value: 0.0004636
+Alignment Length: 96
+Percentage Identity: 0.25
+
+=== A0A0E0ARF5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 174.0
+E-value: 0.0004636
+Alignment Length: 87
+Percentage Identity: 0.252
+
+=== A0A430RFY9 ===
+DE   RecName: Full=DNA polymerase I, thermostable {ECO:0000256|ARBA:ARBA00021109};
+Bit Score: 159.0
+E-value: 0.0004636
+Alignment Length: 97
+Percentage Identity: 0.257
+
+=== X0XMX5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 191.0
+E-value: 0.0004957
+Alignment Length: 79
+Percentage Identity: 0.215
+
+=== M5RQQ2 ===
+DE   SubName: Full=DNA-directed DNA polymerase, family A domain protein {ECO:0000313|EMBL:EMI21668.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:EMI21668.1};
+Bit Score: 188.0
+E-value: 0.0004957
+Alignment Length: 76
+Percentage Identity: 0.21
+
+=== A0A0G1TT36 ===
+DE   SubName: Full=DNA-directed DNA polymerase I {ECO:0000313|EMBL:KKU84971.1};
+Bit Score: 186.0
+E-value: 0.0004957
+Alignment Length: 90
+Percentage Identity: 0.222
+
+=== A0A645GW35 ===
+DE   SubName: Full=DNA polymerase I, thermostable {ECO:0000313|EMBL:MPN27863.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:MPN27863.1};
+Bit Score: 183.0
+E-value: 0.0004957
+Alignment Length: 84
+Percentage Identity: 0.226
+
+=== A0A7Y3FQM8 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NNL31467.1};
+Bit Score: 193.0
+E-value: 0.0005301
+Alignment Length: 86
+Percentage Identity: 0.255
+
+=== A0A3D4UQ77 ===
+DE   SubName: Full=DNA polymerase {ECO:0000313|EMBL:HCT50986.1};
+DE   Flags: Fragment;
+Bit Score: 181.0
+E-value: 0.0005301
+Alignment Length: 90
+Percentage Identity: 0.133
+
+=== A0A7W0WUT0 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 178.0
+E-value: 0.0005301
+Alignment Length: 78
+Percentage Identity: 0.205
+
+=== A0A847NXB5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 171.0
+E-value: 0.0005301
+Alignment Length: 91
+Percentage Identity: 0.274
+
+=== A0A4Q3MGH7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RYF29931.1};
+DE   Flags: Fragment;
+Bit Score: 185.0
+E-value: 0.0005669
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A2P9H1U7 ===
+DE   SubName: Full=DNA polymerase {ECO:0000313|EMBL:SPJ16325.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:SPJ16325.1};
+Bit Score: 185.0
+E-value: 0.0005669
+Alignment Length: 85
+Percentage Identity: 0.235
+
+=== A0A4D9DC34 ===
+DE   SubName: Full=Aspartate carbamoyltransferase {ECO:0000313|EMBL:TFJ95156.1};
+Bit Score: 183.0
+E-value: 0.0005669
+Alignment Length: 90
+Percentage Identity: 0.222
+
+=== A0A6L5F0R6 ===
+DE   SubName: Full=Bifunctional 3'-5' exonuclease/DNA polymerase {ECO:0000313|EMBL:MPY85941.1};
+DE   Flags: Fragment;
+Bit Score: 166.0
+E-value: 0.0005669
+Alignment Length: 87
+Percentage Identity: 0.287
+
+=== A0A3C0KBI9 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 185.0
+E-value: 0.0006062
+Alignment Length: 84
+Percentage Identity: 0.19
+
+=== A0A2P9H068 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 178.0
+E-value: 0.0006062
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A7W0NCF8 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 174.0
+E-value: 0.0006482
+Alignment Length: 78
+Percentage Identity: 0.282
+
+=== A0A6J6KN97 ===
+DE   SubName: Full=Unannotated protein {ECO:0000313|EMBL:CAB4649983.1};
+Bit Score: 184.0
+E-value: 0.0006931
+Alignment Length: 87
+Percentage Identity: 0.241
+
+=== X0WNM9 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 179.0
+E-value: 0.0006931
+Alignment Length: 84
+Percentage Identity: 0.273
+
+=== A0A0F8W0K2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 167.0
+E-value: 0.0006931
+Alignment Length: 92
+Percentage Identity: 0.228
+
+=== A0A3P7ENH6 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 167.0
+E-value: 0.0007412
+Alignment Length: 95
+Percentage Identity: 0.221
+
+=== A0A4Y8CBU7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:TEY18740.1};
+DE   Flags: Fragment;
+Bit Score: 167.0
+E-value: 0.0007412
+Alignment Length: 91
+Percentage Identity: 0.208
+
+=== R7MG08 ===
+DE   SubName: Full=DNA polymerase {ECO:0000313|EMBL:CDF00034.1};
+Bit Score: 183.0
+E-value: 0.0007926
+Alignment Length: 81
+Percentage Identity: 0.222
+
+=== A0A534HH51 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:TLZ39736.1};
+DE   Flags: Fragment;
+Bit Score: 179.0
+E-value: 0.0007926
+Alignment Length: 91
+Percentage Identity: 0.274
+
+=== A0A3N5MF18 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 177.0
+E-value: 0.0007926
+Alignment Length: 75
+Percentage Identity: 0.28
+
+=== A0A846PYK7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NIQ18236.1};
+DE   Flags: Fragment;
+Bit Score: 173.0
+E-value: 0.0007926
+Alignment Length: 77
+Percentage Identity: 0.233
+
+=== A0A520I8Y0 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RZM18860.1};
+DE   Flags: Fragment;
+Bit Score: 181.0
+E-value: 0.0008475
+Alignment Length: 92
+Percentage Identity: 0.26
+
+=== X1NDP6 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 174.0
+E-value: 0.0008475
+Alignment Length: 77
+Percentage Identity: 0.22
+
+=== A0A7C0WUY3 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 174.0
+E-value: 0.0008475
+Alignment Length: 89
+Percentage Identity: 0.157
+
+=== A0A0F9HB29 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 171.0
+E-value: 0.0008475
+Alignment Length: 96
+Percentage Identity: 0.27
+
+=== R1DLW8 ===
+DE   SubName: Full=DNA polymerase v {ECO:0000313|EMBL:EOD35962.1};
+Bit Score: 170.0
+E-value: 0.0008475
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A1A8BN81 ===
+DE   SubName: Full=Polymerase (DNA directed) nu {ECO:0000313|EMBL:SBP68634.1};
+DE   Flags: Fragment;
+Bit Score: 167.0
+E-value: 0.0008475
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A1V4JFA1 ===
+DE   SubName: Full=DNA polymerase nu isoform A {ECO:0000313|EMBL:OPJ70829.1};
+Bit Score: 163.0
+E-value: 0.0008475
+Alignment Length: 95
+Percentage Identity: 0.221
+
+=== A0A0F8YDT0 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 161.0
+E-value: 0.0008475
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== A0A353LYI8 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 179.0
+E-value: 0.0009063
+Alignment Length: 83
+Percentage Identity: 0.228
+
+=== A0A7W0Q582 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 173.0
+E-value: 0.0009063
+Alignment Length: 84
+Percentage Identity: 0.178
+
+=== A0A5J9SV14 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 166.0
+E-value: 0.0009063
+Alignment Length: 75
+Percentage Identity: 0.226
+
+=== A0A397CKE5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 165.0
+E-value: 0.0009063
+Alignment Length: 93
+Percentage Identity: 0.268
+
+=== A0A7C3X1J7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HGB39795.1};
+Bit Score: 161.0
+E-value: 0.0009063
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A392PR63 ===
+DE   SubName: Full=DNA polymerase {ECO:0000313|EMBL:MCI13989.1};
+DE   Flags: Fragment;
+Bit Score: 160.0
+E-value: 0.0009063
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== A0A0D6APJ5 ===
+DE   SubName: Full=Type I restriction-modification system {ECO:0000313|EMBL:BAQ64610.1};
+Bit Score: 176.0
+E-value: 0.0009691
+Alignment Length: 85
+Percentage Identity: 0.235
+
+=== A0A061QZ48 ===
+DE   SubName: Full=DNA polymerase theta {ECO:0000313|EMBL:JAC63566.1};
+DE   Flags: Fragment;
+Bit Score: 173.0
+E-value: 0.0009691
+Alignment Length: 95
+Percentage Identity: 0.263
+
+=== A0A1S4DH29 ===
+DE   SubName: Full=DNA polymerase I A, chloroplastic-like {ECO:0000313|RefSeq:XP_016512787.1};
+Bit Score: 171.0
+E-value: 0.0009691
+Alignment Length: 95
+Percentage Identity: 0.242
+
+=== A0A376TZI9 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:STI82442.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:STI82442.1};
+Bit Score: 170.0
+E-value: 0.0009691
+Alignment Length: 90
+Percentage Identity: 0.222
+
+=== A0A2S9YJ69 ===
+DE   SubName: Full=DNA polymerase I, thermostable {ECO:0000313|EMBL:PRQ05149.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:PRQ05149.1};
+Bit Score: 169.0
+E-value: 0.0009691
+Alignment Length: 73
+Percentage Identity: 0.246
+
+=== A0A7J3D5T6 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 162.0
+E-value: 0.0009691
+Alignment Length: 98
+Percentage Identity: 0.204
+
+=== A0A349YL93 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 171.0
+E-value: 0.001036
+Alignment Length: 90
+Percentage Identity: 0.211
+
+=== A0A432T5D5 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RUM72820.1};
+DE   Flags: Fragment;
+Bit Score: 169.0
+E-value: 0.001036
+Alignment Length: 91
+Percentage Identity: 0.296
+
+=== X1G2P3 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 178.0
+E-value: 0.001108
+Alignment Length: 90
+Percentage Identity: 0.244
+
+=== A0A1G3L8C8 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 184.0
+E-value: 0.001185
+Alignment Length: 87
+Percentage Identity: 0.218
+
+=== A0A524LC96 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TFG96086.1};
+Bit Score: 178.0
+E-value: 0.001185
+Alignment Length: 79
+Percentage Identity: 0.227
+
+=== A0A0F9FBH7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 172.0
+E-value: 0.001185
+Alignment Length: 92
+Percentage Identity: 0.195
+
+=== A0A151E2P4 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 170.0
+E-value: 0.001185
+Alignment Length: 83
+Percentage Identity: 0.216
+
+=== A0A3B8XHL7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HAC56235.1};
+DE   Flags: Fragment;
+Bit Score: 167.0
+E-value: 0.001185
+Alignment Length: 81
+Percentage Identity: 0.259
+
+=== A0A7S2P520 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 159.0
+E-value: 0.001185
+Alignment Length: 92
+Percentage Identity: 0.195
+
+=== A0A136Q9C7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 190.0
+E-value: 0.001267
+Alignment Length: 95
+Percentage Identity: 0.305
+
+=== A0A1J5PAN3 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:OIQ68689.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:OIQ68689.1};
+Bit Score: 167.0
+E-value: 0.001267
+Alignment Length: 90
+Percentage Identity: 0.244
+
+=== A0A7C9A180 ===
+DE   SubName: Full=DNA-directed DNA polymerase {ECO:0000313|EMBL:MBA4655510.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:MBA4655510.1};
+Bit Score: 163.0
+E-value: 0.001267
+Alignment Length: 94
+Percentage Identity: 0.244
+
+=== A0A7S1SCU4 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 159.0
+E-value: 0.001267
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A3C0QL51 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 156.0
+E-value: 0.001267
+Alignment Length: 69
+Percentage Identity: 0.26
+
+=== N6TW16 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 161.0
+E-value: 0.001355
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A3E0MNL6 ===
+DE   SubName: Full=DNA polymerase {ECO:0000313|EMBL:REJ61409.1};
+Bit Score: 192.0
+E-value: 0.001449
+Alignment Length: 95
+Percentage Identity: 0.336
+
+=== A0A2D9C516 ===
+DE   SubName: Full=DNA polymerase {ECO:0000313|EMBL:MAO19767.1};
+Bit Score: 187.0
+E-value: 0.001449
+Alignment Length: 91
+Percentage Identity: 0.351
+
+=== A0A497CZN0 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 187.0
+E-value: 0.001449
+Alignment Length: 85
+Percentage Identity: 0.282
+
+=== A0A2E0M2C2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 181.0
+E-value: 0.001449
+Alignment Length: 92
+Percentage Identity: 0.315
+
+=== A0A350I9S6 ===
+DE   SubName: Full=DNA polymerase {ECO:0000313|EMBL:HAW04543.1};
+DE   Flags: Fragment;
+Bit Score: 163.0
+E-value: 0.001449
+Alignment Length: 91
+Percentage Identity: 0.175
+
+=== A0A7C7W0W8 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HIE47628.1};
+Bit Score: 169.0
+E-value: 0.001549
+Alignment Length: 88
+Percentage Identity: 0.272
+
+=== A0A4P0XH46 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:VTM48740.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:VTM48740.1};
+Bit Score: 169.0
+E-value: 0.001549
+Alignment Length: 87
+Percentage Identity: 0.241
+
+=== A0A1W9VLM8 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 169.0
+E-value: 0.001549
+Alignment Length: 75
+Percentage Identity: 0.24
+
+=== A0A3D2ARP3 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HCH34403.1};
+DE   Flags: Fragment;
+Bit Score: 166.0
+E-value: 0.001549
+Alignment Length: 89
+Percentage Identity: 0.224
+
+=== A0A6M3L476 ===
+DE   SubName: Full=Putative DNA polymerase {ECO:0000313|EMBL:QJA89310.1};
+DE   Flags: Fragment;
+Bit Score: 157.0
+E-value: 0.001549
+Alignment Length: 92
+Percentage Identity: 0.163
+
+=== A0A7S4NRD2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 142.0
+E-value: 0.001549
+Alignment Length: 91
+Percentage Identity: 0.175
+
+=== A0A4Y3FYW8 ===
+DE   SubName: Full=DNA-directed DNA polymerase {ECO:0000313|EMBL:GCE65716.1};
+Bit Score: 191.0
+E-value: 0.001657
+Alignment Length: 80
+Percentage Identity: 0.325
+
+=== A0A433IHM3 ===
+DE   SubName: Full=Bifunctional 3'-5' exonuclease/DNA polymerase {ECO:0000313|EMBL:RUQ40467.1};
+DE   Flags: Fragment;
+Bit Score: 177.0
+E-value: 0.001657
+Alignment Length: 87
+Percentage Identity: 0.206
+
+=== A0A7V0QPX2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 163.0
+E-value: 0.001657
+Alignment Length: 77
+Percentage Identity: 0.259
+
+=== A0A0F9BUH4 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 158.0
+E-value: 0.001657
+Alignment Length: 92
+Percentage Identity: 0.195
+
+=== A0A7S1D2I8 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 157.0
+E-value: 0.001657
+Alignment Length: 97
+Percentage Identity: 0.247
+
+=== A0A7S0T662 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 152.0
+E-value: 0.001657
+Alignment Length: 97
+Percentage Identity: 0.237
+
+=== A0A1Z8SNT3 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 180.0
+E-value: 0.001772
+Alignment Length: 92
+Percentage Identity: 0.326
+
+=== A0A7C1IGZ1 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 157.0
+E-value: 0.001772
+Alignment Length: 81
+Percentage Identity: 0.246
+
+=== A0A2V6Y3X2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 175.0
+E-value: 0.001894
+Alignment Length: 89
+Percentage Identity: 0.269
+
+=== J4KT92 ===
+DE   SubName: Full=DNA-directed DNA polymerase {ECO:0000313|EMBL:EJP74049.1};
+Bit Score: 166.0
+E-value: 0.001894
+Alignment Length: 89
+Percentage Identity: 0.235
+
+=== A0A7J7KG15 ===
+DE   SubName: Full=POLN {ECO:0000313|EMBL:KAF6037143.1};
+Bit Score: 154.0
+E-value: 0.001894
+Alignment Length: 95
+Percentage Identity: 0.21
+
+=== A0A0F9CB37 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 153.0
+E-value: 0.001894
+Alignment Length: 93
+Percentage Identity: 0.182
+
+=== A0A7C4EIM4 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HGG92908.1};
+Bit Score: 151.0
+E-value: 0.001894
+Alignment Length: 94
+Percentage Identity: 0.244
+
+=== Q4D1U3 ===
+DE   SubName: Full=Mitochondrial DNA polymerase I protein D, putative {ECO:0000313|EMBL:EAN86491.1};
+Bit Score: 144.0
+E-value: 0.001894
+Alignment Length: 98
+Percentage Identity: 0.183
+
+=== A0A1G4T8M5 ===
+DE   SubName: Full=DNA polymerase I-3'-5' exonuclease and polymerase domains {ECO:0000313|EMBL:SCW77155.1};
+Bit Score: 180.0
+E-value: 0.002026
+Alignment Length: 95
+Percentage Identity: 0.357
+
+=== A0A1Z8W5Z4 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 176.0
+E-value: 0.002026
+Alignment Length: 90
+Percentage Identity: 0.344
+
+=== A0A0R0J0Q9 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 153.0
+E-value: 0.002026
+Alignment Length: 95
+Percentage Identity: 0.221
+
+=== A0A7Y5BM58 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NUM43041.1};
+Bit Score: 172.0
+E-value: 0.002166
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== A0A536S0R2 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:TMG68822.1};
+DE   Flags: Fragment;
+Bit Score: 167.0
+E-value: 0.002166
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A7C5U278 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 162.0
+E-value: 0.002166
+Alignment Length: 70
+Percentage Identity: 0.228
+
+=== D5BQS0 ===
+DE   SubName: Full=DNA polymerase {ECO:0000313|EMBL:ADE38634.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:ADE38634.1};
+Bit Score: 186.0
+E-value: 0.002316
+Alignment Length: 84
+Percentage Identity: 0.273
+
+=== A0A1Y4N5J7 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311};
+Bit Score: 159.0
+E-value: 0.002316
+Alignment Length: 89
+Percentage Identity: 0.235
+
+=== A0A7X8JKE0 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 149.0
+E-value: 0.002316
+Alignment Length: 67
+Percentage Identity: 0.268
+
+=== A0A0G1URY5 ===
+DE   SubName: Full=Polymerase I protein {ECO:0000313|EMBL:KKU96934.1};
+Bit Score: 147.0
+E-value: 0.002316
+Alignment Length: 87
+Percentage Identity: 0.206
+
+=== A0A0F9MHI7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 159.0
+E-value: 0.002477
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A3D1H757 ===
+DE   SubName: Full=DNA polymerase {ECO:0000313|EMBL:HCD68600.1};
+DE   Flags: Fragment;
+Bit Score: 157.0
+E-value: 0.002477
+Alignment Length: 88
+Percentage Identity: 0.204
+
+=== A0A0F9A0D0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKK99578.1};
+DE   Flags: Fragment;
+Bit Score: 139.0
+E-value: 0.002477
+Alignment Length: 97
+Percentage Identity: 0.206
+
+=== A0A3M0WG24 ===
+DE   SubName: Full=Bifunctional 3'-5' exonuclease/DNA polymerase {ECO:0000313|EMBL:RMD46349.1};
+DE   Flags: Fragment;
+Bit Score: 165.0
+E-value: 0.002649
+Alignment Length: 82
+Percentage Identity: 0.256
+
+=== A0A380TFL7 ===
+DE   SubName: Full=Fused DNA polymerase I 5'->3' exonuclease 3'->5' polymerase 3'->5' exonuclease {ECO:0000313|EMBL:SUS06469.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:SUS06469.1};
+Bit Score: 160.0
+E-value: 0.002649
+Alignment Length: 90
+Percentage Identity: 0.255
+
+=== A0A1V5QIJ0 ===
+DE   SubName: Full=DNA polymerase I, thermostable {ECO:0000313|EMBL:OQA29713.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:OQA29713.1};
+Bit Score: 177.0
+E-value: 0.002832
+Alignment Length: 89
+Percentage Identity: 0.325
+
+=== A0A7Y5UCU9 ===
+DE   SubName: Full=Bifunctional 3'-5' exonuclease/DNA polymerase {ECO:0000313|EMBL:NUP32228.1};
+Bit Score: 173.0
+E-value: 0.002832
+Alignment Length: 89
+Percentage Identity: 0.157
+
+=== A0A850LZR9 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NVM05141.1};
+Bit Score: 163.0
+E-value: 0.002832
+Alignment Length: 90
+Percentage Identity: 0.222
+
+=== A0A354YVV1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HBK53470.1};
+DE   Flags: Fragment;
+Bit Score: 154.0
+E-value: 0.002832
+Alignment Length: 94
+Percentage Identity: 0.319
+
+=== A0A2D6X1T7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 173.0
+E-value: 0.003029
+Alignment Length: 98
+Percentage Identity: 0.285
+
+=== A0A497QCB0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RLI62444.1};
+Bit Score: 166.0
+E-value: 0.003029
+Alignment Length: 79
+Percentage Identity: 0.24
+
+=== A0A1T4WLJ6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SKA78226.1};
+Bit Score: 153.0
+E-value: 0.003029
+Alignment Length: 62
+Percentage Identity: 0.274
+
+=== X0U7H9 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 169.0
+E-value: 0.003239
+Alignment Length: 84
+Percentage Identity: 0.392
+
+=== A0A2D9IWZ8 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:MAP02734.1};
+DE   Flags: Fragment;
+Bit Score: 166.0
+E-value: 0.003239
+Alignment Length: 83
+Percentage Identity: 0.289
+
+=== A0A7C4MRM7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 158.0
+E-value: 0.003239
+Alignment Length: 90
+Percentage Identity: 0.266
+
+=== A0A7S3D745 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 156.0
+E-value: 0.003239
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A353VYE7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HBH11284.1};
+DE   Flags: Fragment;
+Bit Score: 145.0
+E-value: 0.003239
+Alignment Length: 75
+Percentage Identity: 0.28
+
+=== A0A842ULM7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 145.0
+E-value: 0.003239
+Alignment Length: 98
+Percentage Identity: 0.224
+
+=== A0A1Q7CPA5 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311};
+Bit Score: 166.0
+E-value: 0.003463
+Alignment Length: 89
+Percentage Identity: 0.269
+
+=== A0A2S9GNU1 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 160.0
+E-value: 0.003463
+Alignment Length: 67
+Percentage Identity: 0.268
+
+=== X0UEG0 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 159.0
+E-value: 0.003463
+Alignment Length: 59
+Percentage Identity: 0.254
+
+=== A0A2V8R7U5 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:PYS83242.1};
+DE   Flags: Fragment;
+Bit Score: 155.0
+E-value: 0.003463
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A4Q0AVP7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 152.0
+E-value: 0.003463
+Alignment Length: 87
+Percentage Identity: 0.195
+
+=== A0A0C2D2Z2 ===
+DE   SubName: Full=DNA-directed DNA polymerase {ECO:0000313|EMBL:KIH56377.1};
+DE   Flags: Fragment;
+Bit Score: 142.0
+E-value: 0.003463
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A2M7IN93 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 145.0
+E-value: 0.003703
+Alignment Length: 86
+Percentage Identity: 0.186
+
+=== A0A644ZAM9 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:MPM34954.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:MPM34954.1};
+Bit Score: 141.0
+E-value: 0.003703
+Alignment Length: 94
+Percentage Identity: 0.276
+
+=== A0A0G0HVB3 ===
+DE   SubName: Full=Polymerase protein {ECO:0000313|EMBL:KKQ07821.1};
+DE   Flags: Fragment;
+Bit Score: 156.0
+E-value: 0.00396
+Alignment Length: 90
+Percentage Identity: 0.244
+
+=== A0A0F9VQD1 ===
+DE   RecName: Full=DNA polymerase I {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 154.0
+E-value: 0.00396
+Alignment Length: 83
+Percentage Identity: 0.204
+
+=== A0A162CZA9 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 142.0
+E-value: 0.00396
+Alignment Length: 77
+Percentage Identity: 0.168
+
+=== A0A7S0NPX5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 141.0
+E-value: 0.00396
+Alignment Length: 83
+Percentage Identity: 0.253
+
+=== A0A358DSV8 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 162.0
+E-value: 0.004234
+Alignment Length: 76
+Percentage Identity: 0.328
+
+=== A0A1V6I105 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:OQC44079.1};
+Bit Score: 157.0
+E-value: 0.004234
+Alignment Length: 71
+Percentage Identity: 0.183
+
+=== A0A7Z9PUW2 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HIB66697.1};
+Bit Score: 149.0
+E-value: 0.004234
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A353N294 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HBG14630.1};
+DE   Flags: Fragment;
+Bit Score: 156.0
+E-value: 0.004528
+Alignment Length: 88
+Percentage Identity: 0.261
+
+=== A0A804KIY6 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 151.0
+E-value: 0.004528
+Alignment Length: 92
+Percentage Identity: 0.26
+
+=== A0A353C956 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 149.0
+E-value: 0.004528
+Alignment Length: 80
+Percentage Identity: 0.287
+
+=== A0A5C7P8F3 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 169.0
+E-value: 0.004842
+Alignment Length: 92
+Percentage Identity: 0.315
+
+=== X0SNG6 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 160.0
+E-value: 0.004842
+Alignment Length: 90
+Percentage Identity: 0.222
+
+=== A0A524Q271 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 154.0
+E-value: 0.004842
+Alignment Length: 80
+Percentage Identity: 0.25
+
+=== L9KJ35 ===
+DE   SubName: Full=HAUS augmin-like complex subunit 3 {ECO:0000313|EMBL:ELW62756.1};
+Bit Score: 148.0
+E-value: 0.004842
+Alignment Length: 92
+Percentage Identity: 0.206
+
+=== A0A7S2U225 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 143.0
+E-value: 0.004842
+Alignment Length: 79
+Percentage Identity: 0.253
+
+=== A0A2N6AVL1 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE   Flags: Fragment;
+Bit Score: 157.0
+E-value: 0.005178
+Alignment Length: 91
+Percentage Identity: 0.318
+
+=== A0A3C1DND4 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HAM23281.1};
+DE   Flags: Fragment;
+Bit Score: 145.0
+E-value: 0.005178
+Alignment Length: 90
+Percentage Identity: 0.211
+
+=== A0A645E0Q3 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 130.0
+E-value: 0.005178
+Alignment Length: 81
+Percentage Identity: 0.172
+
+=== A0A212FF85 ===
+DE   SubName: Full=DNA polymerase nu like protein {ECO:0000313|EMBL:OWR52383.1};
+Bit Score: 160.0
+E-value: 0.005537
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A520PC59 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RZO43296.1};
+DE   Flags: Fragment;
+Bit Score: 153.0
+E-value: 0.005537
+Alignment Length: 90
+Percentage Identity: 0.255
+
+=== A0A397CYS1 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 140.0
+E-value: 0.005537
+Alignment Length: 75
+Percentage Identity: 0.253
+
+=== A0A7S3H904 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 136.0
+E-value: 0.005537
+Alignment Length: 82
+Percentage Identity: 0.256
+
+=== A0A2M7PT11 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:PIY33770.1};
+DE   Flags: Fragment;
+Bit Score: 151.0
+E-value: 0.00592
+Alignment Length: 84
+Percentage Identity: 0.25
+
+=== Q50391 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:AAC44593.1};
+DE   Flags: Fragment;
+Bit Score: 139.0
+E-value: 0.00592
+Alignment Length: 94
+Percentage Identity: 0.255
+
+=== R6HVX6 ===
+DE   SubName: Full=DNA polymerase {ECO:0000313|EMBL:CDB29952.1};
+Bit Score: 160.0
+E-value: 0.006331
+Alignment Length: 89
+Percentage Identity: 0.337
+
+=== A0A2M7RNE5 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311};
+Bit Score: 150.0
+E-value: 0.006331
+Alignment Length: 56
+Percentage Identity: 0.303
+
+=== A0A0C2GPT8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KIH58971.1};
+Bit Score: 123.0
+E-value: 0.006331
+Alignment Length: 94
+Percentage Identity: 0.223
+
+=== A9WTG2 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:ABY24483.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:ABY24483.1};
+Bit Score: 152.0
+E-value: 0.00677
+Alignment Length: 88
+Percentage Identity: 0.193
+
+=== X6MVA4 ===
+DE   SubName: Full=Polymerase gamma 2 {ECO:0000313|EMBL:ETO17581.1};
+Bit Score: 142.0
+E-value: 0.00677
+Alignment Length: 90
+Percentage Identity: 0.222
+
+=== A0A382JVS6 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 136.0
+E-value: 0.007239
+Alignment Length: 68
+Percentage Identity: 0.264
+
+=== A0A535FR87 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 142.0
+E-value: 0.007741
+Alignment Length: 80
+Percentage Identity: 0.237
+
+=== X1FHJ6 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 141.0
+E-value: 0.007741
+Alignment Length: 67
+Percentage Identity: 0.238
+
+=== A0A3D5T2P0 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 138.0
+E-value: 0.007741
+Alignment Length: 92
+Percentage Identity: 0.217
+
+=== A0A800ADH1 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 135.0
+E-value: 0.007741
+Alignment Length: 84
+Percentage Identity: 0.214
+
+=== A0A3B9K849 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HAE81300.1};
+DE   Flags: Fragment;
+Bit Score: 134.0
+E-value: 0.007741
+Alignment Length: 86
+Percentage Identity: 0.29
+
+=== E6VL64 ===
+DE   SubName: Full=DNA-directed DNA polymerase {ECO:0000313|EMBL:ADU44559.1};
+Bit Score: 161.0
+E-value: 0.008278
+Alignment Length: 96
+Percentage Identity: 0.281
+
+=== A0A7C3HFE9 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HFE52201.1};
+Bit Score: 148.0
+E-value: 0.008278
+Alignment Length: 90
+Percentage Identity: 0.266
+
+=== A0A2D7LN48 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 142.0
+E-value: 0.008278
+Alignment Length: 94
+Percentage Identity: 0.18
+
+=== A0A444DHH4 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 136.0
+E-value: 0.008278
+Alignment Length: 76
+Percentage Identity: 0.223
+
+=== A0A843GUV7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 132.0
+E-value: 0.008278
+Alignment Length: 75
+Percentage Identity: 0.266
+
+=== A0A386AXD6 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 131.0
+E-value: 0.008278
+Alignment Length: 99
+Percentage Identity: 0.171
+
+=== A0A3D0JEI1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HBZ89643.1};
+DE   Flags: Fragment;
+Bit Score: 150.0
+E-value: 0.008852
+Alignment Length: 56
+Percentage Identity: 0.303
+
+=== A0A522FR85 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 146.0
+E-value: 0.008852
+Alignment Length: 84
+Percentage Identity: 0.297
+
+=== A0A836WWA2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 143.0
+E-value: 0.008852
+Alignment Length: 85
+Percentage Identity: 0.247
+
+=== A0A382IU31 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 132.0
+E-value: 0.008852
+Alignment Length: 92
+Percentage Identity: 0.26
+
+=== W2TXX2 ===
+DE   RecName: Full=Mitochondrial DNA polymerase catalytic subunit {ECO:0000256|ARBA:ARBA00031966};
+Bit Score: 128.0
+E-value: 0.008852
+Alignment Length: 95
+Percentage Identity: 0.21
+
+=== A0A317T4U8 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 152.0
+E-value: 0.009465
+Alignment Length: 91
+Percentage Identity: 0.285
+
+=== A0A520F1M9 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 148.0
+E-value: 0.009465
+Alignment Length: 85
+Percentage Identity: 0.211
+
+=== A0A2T4DBM5 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:PTB91203.1};
+DE   Flags: Fragment;
+Bit Score: 144.0
+E-value: 0.009465
+Alignment Length: 59
+Percentage Identity: 0.237
+
+=== A0A7Y2DUR0 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 141.0
+E-value: 0.009465
+Alignment Length: 71
+Percentage Identity: 0.253
+
+=== A0A0E0I7R8 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 133.0
+E-value: 0.009465
+Alignment Length: 85
+Percentage Identity: 0.247
+
+=== A0A0F9KSN0 ===
+DE   RecName: Full=Glycerophosphodiester phosphodiesterase {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 131.0
+E-value: 0.009465
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A7S0WSF9 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 130.0
+E-value: 0.009465
+Alignment Length: 70
+Percentage Identity: 0.3
+
+=== A0A6I0E1G1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:KAB2819170.1};
+DE   Flags: Fragment;
+Bit Score: 150.0
+E-value: 0.01012
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A356KHM6 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 148.0
+E-value: 0.01012
+Alignment Length: 65
+Percentage Identity: 0.353
+
+=== A0A7W0UYE7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:MBA3440349.1};
+Bit Score: 148.0
+E-value: 0.01012
+Alignment Length: 66
+Percentage Identity: 0.318
+
+=== A0A2V6UM24 ===
+DE   RecName: Full=Intein C-terminal splicing domain-containing protein {ECO:0000259|PROSITE:PS50818};
+Bit Score: 147.0
+E-value: 0.01012
+Alignment Length: 59
+Percentage Identity: 0.305
+
+=== A0A7V3RPU5 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+Bit Score: 144.0
+E-value: 0.01012
+Alignment Length: 85
+Percentage Identity: 0.329
+
+=== A0A7C2R1U7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 133.0
+E-value: 0.01012
+Alignment Length: 67
+Percentage Identity: 0.238
+
+=== A0A7J9WGB8 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 127.0
+E-value: 0.01012
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A3C1XCY7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HAP15217.1};
+DE   Flags: Fragment;
+Bit Score: 153.0
+E-value: 0.01082
+Alignment Length: 83
+Percentage Identity: 0.301
+
+=== A0A7C6CF81 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HHT41175.1};
+Bit Score: 148.0
+E-value: 0.01082
+Alignment Length: 66
+Percentage Identity: 0.287
+
+=== A0A1F4VSD4 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311};
+Bit Score: 148.0
+E-value: 0.01082
+Alignment Length: 70
+Percentage Identity: 0.285
+
+=== U2RVN9 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 145.0
+E-value: 0.01082
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== A0A661YB22 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RLD31661.1};
+DE   Flags: Fragment;
+Bit Score: 144.0
+E-value: 0.01082
+Alignment Length: 88
+Percentage Identity: 0.25
+
+=== A0A0A9YWL5 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:JAG36011.1};
+Bit Score: 134.0
+E-value: 0.01082
+Alignment Length: 93
+Percentage Identity: 0.182
+
+=== A0A354UG35 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE   Flags: Fragment;
+Bit Score: 124.0
+E-value: 0.01082
+Alignment Length: 89
+Percentage Identity: 0.28
+
+=== A0A415T3C1 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 144.0
+E-value: 0.01157
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A7S1WWK7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 133.0
+E-value: 0.01157
+Alignment Length: 73
+Percentage Identity: 0.26
+
+=== A0A7C1JRH0 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HDX37994.1};
+Bit Score: 148.0
+E-value: 0.01238
+Alignment Length: 66
+Percentage Identity: 0.303
+
+=== A0A3C1BSP3 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 140.0
+E-value: 0.01238
+Alignment Length: 65
+Percentage Identity: 0.276
+
+=== A0A183JVP6 ===
+DE   RecName: Full=Mitochondrial DNA polymerase catalytic subunit {ECO:0000256|ARBA:ARBA00031966};
+Bit Score: 140.0
+E-value: 0.01238
+Alignment Length: 59
+Percentage Identity: 0.169
+
+=== A0A659YRE6 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 137.0
+E-value: 0.01238
+Alignment Length: 90
+Percentage Identity: 0.155
+
+=== A0A6I4YX00 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 127.0
+E-value: 0.01238
+Alignment Length: 97
+Percentage Identity: 0.319
+
+=== A0A7C1VRR8 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 127.0
+E-value: 0.01238
+Alignment Length: 82
+Percentage Identity: 0.158
+
+=== X0YBM2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 126.0
+E-value: 0.01238
+Alignment Length: 98
+Percentage Identity: 0.142
+
+=== A0A0F9IAR5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 118.0
+E-value: 0.01238
+Alignment Length: 88
+Percentage Identity: 0.25
+
+=== A0A2D9C9G9 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 157.0
+E-value: 0.01323
+Alignment Length: 89
+Percentage Identity: 0.325
+
+=== A0A2E0AGV6 ===
+DE   SubName: Full=DNA polymerase {ECO:0000313|EMBL:MAR05673.1};
+Bit Score: 151.0
+E-value: 0.01323
+Alignment Length: 96
+Percentage Identity: 0.27
+
+=== A0A1I7GB41 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+Bit Score: 149.0
+E-value: 0.01323
+Alignment Length: 89
+Percentage Identity: 0.325
+
+=== A0A3M1C996 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RME17135.1};
+DE   Flags: Fragment;
+Bit Score: 143.0
+E-value: 0.01323
+Alignment Length: 90
+Percentage Identity: 0.266
+
+=== A0A382T5J2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 136.0
+E-value: 0.01323
+Alignment Length: 86
+Percentage Identity: 0.127
+
+=== A0A2A9D1C2 ===
+DE   SubName: Full=DNA polymerase-1 {ECO:0000313|EMBL:PFG20443.1};
+Bit Score: 134.0
+E-value: 0.01323
+Alignment Length: 88
+Percentage Identity: 0.227
+
+=== A0A7V2TC08 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HFD17053.1};
+Bit Score: 144.0
+E-value: 0.01415
+Alignment Length: 91
+Percentage Identity: 0.274
+
+=== A0A1L8D190 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+Bit Score: 143.0
+E-value: 0.01415
+Alignment Length: 91
+Percentage Identity: 0.285
+
+=== A0A7Y9KBC3 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NYE12787.1};
+Bit Score: 139.0
+E-value: 0.01415
+Alignment Length: 84
+Percentage Identity: 0.297
+
+=== A0A6M3XPR8 ===
+DE   SubName: Full=Putative DNA polymerase {ECO:0000313|EMBL:QJH99809.1};
+DE   Flags: Fragment;
+Bit Score: 138.0
+E-value: 0.01415
+Alignment Length: 92
+Percentage Identity: 0.163
+
+=== A0A7S1BFW0 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 131.0
+E-value: 0.01415
+Alignment Length: 93
+Percentage Identity: 0.236
+
+=== A0A7C1PPP1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HDY17774.1};
+Bit Score: 129.0
+E-value: 0.01415
+Alignment Length: 94
+Percentage Identity: 0.244
+
+=== A0A7V9KXS6 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:MBA2536234.1};
+Bit Score: 144.0
+E-value: 0.01513
+Alignment Length: 59
+Percentage Identity: 0.305
+
+=== A0A323V4F2 ===
+DE   SubName: Full=Bifunctional 3'-5' exonuclease/DNA polymerase {ECO:0000313|EMBL:PZA19612.1};
+DE   Flags: Fragment;
+Bit Score: 139.0
+E-value: 0.01513
+Alignment Length: 96
+Percentage Identity: 0.239
+
+=== A0A377XIB7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:STT82912.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:STT82912.1};
+Bit Score: 137.0
+E-value: 0.01513
+Alignment Length: 85
+Percentage Identity: 0.247
+
+=== A0A836U757 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HIG16550.1};
+Bit Score: 137.0
+E-value: 0.01513
+Alignment Length: 84
+Percentage Identity: 0.202
+
+=== A0A7X7B766 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NLC68970.1};
+Bit Score: 144.0
+E-value: 0.01618
+Alignment Length: 85
+Percentage Identity: 0.294
+
+=== A0A538GDS1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:TML51228.1};
+DE   Flags: Fragment;
+Bit Score: 143.0
+E-value: 0.01618
+Alignment Length: 89
+Percentage Identity: 0.337
+
+=== A0A0S7XPH3 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:KPJ64131.1};
+DE   Flags: Fragment;
+Bit Score: 142.0
+E-value: 0.01618
+Alignment Length: 66
+Percentage Identity: 0.287
+
+=== A0A0G0HZJ1 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 141.0
+E-value: 0.01618
+Alignment Length: 90
+Percentage Identity: 0.3
+
+=== K1XTQ6 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 140.0
+E-value: 0.01618
+Alignment Length: 66
+Percentage Identity: 0.272
+
+=== A0A7C1NAA2 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 139.0
+E-value: 0.01618
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== D3DCE4 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 136.0
+E-value: 0.01618
+Alignment Length: 90
+Percentage Identity: 0.166
+
+=== A0A497PB18 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RLI48273.1};
+DE   Flags: Fragment;
+Bit Score: 132.0
+E-value: 0.01618
+Alignment Length: 93
+Percentage Identity: 0.268
+
+=== A0A4Q6A8G9 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RYZ45465.1};
+DE   Flags: Fragment;
+Bit Score: 131.0
+E-value: 0.01618
+Alignment Length: 88
+Percentage Identity: 0.215
+
+=== A0A6N2E8Q3 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 139.0
+E-value: 0.0173
+Alignment Length: 76
+Percentage Identity: 0.302
+
+=== A0A3P7MXR6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VDN34674.1};
+Bit Score: 137.0
+E-value: 0.0173
+Alignment Length: 63
+Percentage Identity: 0.174
+
+=== A0A0S7FPA1 ===
+DE   SubName: Full=DPOG1 {ECO:0000313|EMBL:JAO15690.1};
+DE   Flags: Fragment;
+Bit Score: 124.0
+E-value: 0.0173
+Alignment Length: 97
+Percentage Identity: 0.154
+
+=== A0A496XIZ5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 119.0
+E-value: 0.0173
+Alignment Length: 93
+Percentage Identity: 0.182
+
+=== A0A3B9BRJ5 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HAD28089.1};
+DE   Flags: Fragment;
+Bit Score: 112.0
+E-value: 0.0173
+Alignment Length: 81
+Percentage Identity: 0.209
+
+=== A0A0S8DRR5 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE   Flags: Fragment;
+Bit Score: 140.0
+E-value: 0.0185
+Alignment Length: 66
+Percentage Identity: 0.242
+
+=== A0A3D1Z0Z7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 139.0
+E-value: 0.0185
+Alignment Length: 60
+Percentage Identity: 0.316
+
+=== A0A2T5GCE4 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 139.0
+E-value: 0.0185
+Alignment Length: 90
+Percentage Identity: 0.3
+
+=== A0A535WNI1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:TME19865.1};
+DE   Flags: Fragment;
+Bit Score: 135.0
+E-value: 0.0185
+Alignment Length: 84
+Percentage Identity: 0.285
+
+=== A0A6J4KBL3 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:CAA9301472.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:CAA9301472.1};
+Bit Score: 135.0
+E-value: 0.0185
+Alignment Length: 95
+Percentage Identity: 0.273
+
+=== A0A5R8MWM6 ===
+DE   SubName: Full=Bifunctional 3'-5' exonuclease/DNA polymerase {ECO:0000313|EMBL:TLF61916.1};
+DE   Flags: Fragment;
+Bit Score: 130.0
+E-value: 0.0185
+Alignment Length: 91
+Percentage Identity: 0.208
+
+=== A0A2N2BLR1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:PKM58895.1};
+DE   Flags: Fragment;
+Bit Score: 146.0
+E-value: 0.01979
+Alignment Length: 89
+Percentage Identity: 0.292
+
+=== A0A497SFN7 ===
+DE   RecName: Full=DNA-directed DNA polymerase {ECO:0000256|ARBA:ARBA00012417};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417};
+Bit Score: 145.0
+E-value: 0.01979
+Alignment Length: 82
+Percentage Identity: 0.304
+
+=== I4C6R5 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 144.0
+E-value: 0.01979
+Alignment Length: 90
+Percentage Identity: 0.255
+
+=== S2RB74 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE   Flags: Fragment;
+Bit Score: 143.0
+E-value: 0.01979
+Alignment Length: 89
+Percentage Identity: 0.269
+
+=== A0A7X6X574 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+Bit Score: 139.0
+E-value: 0.01979
+Alignment Length: 53
+Percentage Identity: 0.283
+
+=== A0A7V6ZDR3 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HHZ03896.1};
+Bit Score: 138.0
+E-value: 0.01979
+Alignment Length: 65
+Percentage Identity: 0.353
+
+=== X1UU23 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 137.0
+E-value: 0.01979
+Alignment Length: 66
+Percentage Identity: 0.242
+
+=== A0A431EAF5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RTJ78354.1};
+Bit Score: 135.0
+E-value: 0.01979
+Alignment Length: 86
+Percentage Identity: 0.151
+
+=== A0A852VGE9 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+Bit Score: 134.0
+E-value: 0.01979
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A7X7LL23 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NLF44582.1};
+Bit Score: 128.0
+E-value: 0.01979
+Alignment Length: 92
+Percentage Identity: 0.271
+
+=== A0A2T4V3F9 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 120.0
+E-value: 0.01979
+Alignment Length: 80
+Percentage Identity: 0.212
+
+=== A0A4Y9XPJ9 ===
+DE   RecName: Full=Mitochondrial DNA polymerase catalytic subunit {ECO:0000256|ARBA:ARBA00031966};
+Bit Score: 118.0
+E-value: 0.01979
+Alignment Length: 91
+Percentage Identity: 0.153
+
+=== A0A431ICW2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 139.0
+E-value: 0.02116
+Alignment Length: 80
+Percentage Identity: 0.225
+
+=== K1ZBD1 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 138.0
+E-value: 0.02116
+Alignment Length: 63
+Percentage Identity: 0.253
+
+=== A0A352DUA6 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HBB73788.1};
+DE   Flags: Fragment;
+Bit Score: 137.0
+E-value: 0.02116
+Alignment Length: 84
+Percentage Identity: 0.309
+
+=== A0A7C2UGD4 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HEU48706.1};
+DE   Flags: Fragment;
+Bit Score: 137.0
+E-value: 0.02116
+Alignment Length: 59
+Percentage Identity: 0.305
+
+=== D4JCC4 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+Bit Score: 137.0
+E-value: 0.02116
+Alignment Length: 84
+Percentage Identity: 0.273
+
+=== A0A4Q6C9A6 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311};
+DE   Flags: Fragment;
+Bit Score: 137.0
+E-value: 0.02116
+Alignment Length: 69
+Percentage Identity: 0.26
+
+=== A0A847VXY2 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+Bit Score: 135.0
+E-value: 0.02116
+Alignment Length: 92
+Percentage Identity: 0.293
+
+=== A0A1J4XRA6 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 134.0
+E-value: 0.02116
+Alignment Length: 84
+Percentage Identity: 0.273
+
+=== A0A0F9M7F3 ===
+DE   RecName: Full=DNA-directed DNA polymerase {ECO:0008006|Google:ProtNLM};
+Bit Score: 142.0
+E-value: 0.02262
+Alignment Length: 57
+Percentage Identity: 0.35
+
+=== A0A7V6TLA8 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+Bit Score: 139.0
+E-value: 0.02262
+Alignment Length: 59
+Percentage Identity: 0.338
+
+=== X0T283 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 128.0
+E-value: 0.02262
+Alignment Length: 93
+Percentage Identity: 0.129
+
+=== A0A0F9HQX0 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 124.0
+E-value: 0.02262
+Alignment Length: 81
+Percentage Identity: 0.222
+
+=== I2CP17 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:AFJ68650.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:AFJ68650.1};
+Bit Score: 120.0
+E-value: 0.02262
+Alignment Length: 93
+Percentage Identity: 0.258
+
+=== A0A2T2TQK2 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:PSQ83357.1};
+DE   Flags: Fragment;
+Bit Score: 119.0
+E-value: 0.02262
+Alignment Length: 88
+Percentage Identity: 0.25
+
+=== A0A2D4MU22 ===
+DE   RecName: Full=DNA polymerase subunit gamma-1 {ECO:0000256|ARBA:ARBA00015350};
+DE   AltName: Full=Mitochondrial DNA polymerase catalytic subunit {ECO:0000256|ARBA:ARBA00031966};
+DE   Flags: Fragment;
+Bit Score: 116.0
+E-value: 0.02262
+Alignment Length: 92
+Percentage Identity: 0.141
+
+=== A0A3N5ELP9 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RPH35709.1};
+DE   Flags: Fragment;
+Bit Score: 114.0
+E-value: 0.02262
+Alignment Length: 95
+Percentage Identity: 0.221
+
+=== A0A352J3E8 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HBC38231.1};
+DE   Flags: Fragment;
+Bit Score: 143.0
+E-value: 0.02419
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== A0A3M1Q899 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 141.0
+E-value: 0.02419
+Alignment Length: 90
+Percentage Identity: 0.344
+
+=== A0A350IHE3 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HAW07210.1};
+DE   Flags: Fragment;
+Bit Score: 136.0
+E-value: 0.02419
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A497QND2 ===
+DE   RecName: Full=DNA-directed DNA polymerase {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.02419
+Alignment Length: 60
+Percentage Identity: 0.25
+
+=== A0A259E4I1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:OZA21162.1};
+DE   Flags: Fragment;
+Bit Score: 133.0
+E-value: 0.02419
+Alignment Length: 90
+Percentage Identity: 0.244
+
+=== A0A2G6R0W2 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:PIF02725.1};
+DE   Flags: Fragment;
+Bit Score: 132.0
+E-value: 0.02419
+Alignment Length: 62
+Percentage Identity: 0.209
+
+=== A0A7C0UM93 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HDH34277.1};
+Bit Score: 131.0
+E-value: 0.02419
+Alignment Length: 81
+Percentage Identity: 0.234
+
+=== A0A6M3MDW8 ===
+DE   SubName: Full=Putative DNA polymerase {ECO:0000313|EMBL:QJB02902.1};
+DE   Flags: Fragment;
+Bit Score: 121.0
+E-value: 0.02419
+Alignment Length: 88
+Percentage Identity: 0.215
+
+=== A0A7C7H379 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HIA32313.1};
+Bit Score: 120.0
+E-value: 0.02419
+Alignment Length: 87
+Percentage Identity: 0.229
+
+=== W6KPZ1 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 116.0
+E-value: 0.02419
+Alignment Length: 89
+Percentage Identity: 0.191
+
+=== A0A6B2FZR2 ===
+DE   RecName: Full=Mitochondrial DNA polymerase catalytic subunit {ECO:0000256|ARBA:ARBA00031966};
+DE   Flags: Fragment;
+Bit Score: 114.0
+E-value: 0.02419
+Alignment Length: 77
+Percentage Identity: 0.194
+
+=== A0A2G9U2Q5 ===
+DE   RecName: Full=Mitochondrial DNA polymerase catalytic subunit {ECO:0000256|ARBA:ARBA00031966};
+Bit Score: 112.0
+E-value: 0.02419
+Alignment Length: 80
+Percentage Identity: 0.262
+
+=== A0A357D6B3 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 141.0
+E-value: 0.02587
+Alignment Length: 59
+Percentage Identity: 0.288
+
+=== A0A7V5ZCJ5 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+Bit Score: 135.0
+E-value: 0.02587
+Alignment Length: 60
+Percentage Identity: 0.366
+
+=== A0A1V4M2R3 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+Bit Score: 135.0
+E-value: 0.02587
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A257NKN6 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+Bit Score: 133.0
+E-value: 0.02587
+Alignment Length: 91
+Percentage Identity: 0.274
+
+=== A0A7K2XFF0 ===
+DE   SubName: Full=Bifunctional 3'-5' exonuclease/DNA polymerase {ECO:0000313|EMBL:MYV69289.1};
+Bit Score: 133.0
+E-value: 0.02587
+Alignment Length: 89
+Percentage Identity: 0.179
+
+=== A0A3B9X101 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 131.0
+E-value: 0.02587
+Alignment Length: 62
+Percentage Identity: 0.225
+
+=== A0A7T8GSN8 ===
+DE   RecName: Full=Mitochondrial DNA polymerase catalytic subunit {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.02587
+Alignment Length: 100
+Percentage Identity: 0.19
+
+=== A0A2V6SPP1 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 134.0
+E-value: 0.02766
+Alignment Length: 59
+Percentage Identity: 0.254
+
+=== A0A3M1SGS5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 131.0
+E-value: 0.02766
+Alignment Length: 80
+Percentage Identity: 0.162
+
+=== A0A345ZYA1 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 124.0
+E-value: 0.02766
+Alignment Length: 64
+Percentage Identity: 0.218
+
+=== A0A4R4N7S9 ===
+DE   SubName: Full=Bifunctional 3'-5' exonuclease/DNA polymerase {ECO:0000313|EMBL:TDC03210.1};
+DE   Flags: Fragment;
+Bit Score: 124.0
+E-value: 0.02766
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== A0A3D2W4S2 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HCK87731.1};
+DE   Flags: Fragment;
+Bit Score: 124.0
+E-value: 0.02766
+Alignment Length: 84
+Percentage Identity: 0.19
+
+=== A0A7S1N9E6 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 123.0
+E-value: 0.02766
+Alignment Length: 92
+Percentage Identity: 0.271
+
+=== A0A7C1K1K0 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 120.0
+E-value: 0.02766
+Alignment Length: 87
+Percentage Identity: 0.195
+
+=== A0A2D5TX47 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 119.0
+E-value: 0.02766
+Alignment Length: 82
+Percentage Identity: 0.17
+
+=== A0A2S8SS69 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 136.0
+E-value: 0.02958
+Alignment Length: 73
+Percentage Identity: 0.232
+
+=== A0A3D4KVD6 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HCR99580.1};
+DE   Flags: Fragment;
+Bit Score: 135.0
+E-value: 0.02958
+Alignment Length: 59
+Percentage Identity: 0.288
+
+=== A0A7C3VRQ1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HGG14796.1};
+Bit Score: 135.0
+E-value: 0.02958
+Alignment Length: 59
+Percentage Identity: 0.288
+
+=== A0A7C2KI60 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 134.0
+E-value: 0.02958
+Alignment Length: 90
+Percentage Identity: 0.255
+
+=== A0A197SU17 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 133.0
+E-value: 0.02958
+Alignment Length: 77
+Percentage Identity: 0.194
+
+=== A0A534VIR4 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:TMA99542.1};
+DE   Flags: Fragment;
+Bit Score: 130.0
+E-value: 0.02958
+Alignment Length: 59
+Percentage Identity: 0.186
+
+=== A0A538EEX7 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:TML27065.1};
+DE   Flags: Fragment;
+Bit Score: 126.0
+E-value: 0.02958
+Alignment Length: 87
+Percentage Identity: 0.264
+
+=== A0A7C9JFJ7 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+Bit Score: 121.0
+E-value: 0.02958
+Alignment Length: 93
+Percentage Identity: 0.29
+
+=== A0A0F9IKB5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.02958
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A4Q6E9C8 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RZA00168.1};
+DE   Flags: Fragment;
+Bit Score: 136.0
+E-value: 0.03163
+Alignment Length: 67
+Percentage Identity: 0.268
+
+=== A0A7Y1VDB1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NND11317.1};
+Bit Score: 135.0
+E-value: 0.03163
+Alignment Length: 80
+Percentage Identity: 0.225
+
+=== F0H3F8 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 134.0
+E-value: 0.03163
+Alignment Length: 91
+Percentage Identity: 0.34
+
+=== A0A3D2CIT1 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+Bit Score: 134.0
+E-value: 0.03163
+Alignment Length: 91
+Percentage Identity: 0.285
+
+=== X1CK36 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 131.0
+E-value: 0.03163
+Alignment Length: 65
+Percentage Identity: 0.307
+
+=== A0A7Y2C5V4 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+Bit Score: 130.0
+E-value: 0.03163
+Alignment Length: 84
+Percentage Identity: 0.285
+
+=== A0A4V2WEH2 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 130.0
+E-value: 0.03163
+Alignment Length: 65
+Percentage Identity: 0.276
+
+=== A0A3N7GMN1 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 130.0
+E-value: 0.03163
+Alignment Length: 78
+Percentage Identity: 0.256
+
+=== A0A538ET80 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:TML31725.1};
+DE   Flags: Fragment;
+Bit Score: 129.0
+E-value: 0.03163
+Alignment Length: 92
+Percentage Identity: 0.282
+
+=== A0A2H5XX79 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 129.0
+E-value: 0.03163
+Alignment Length: 81
+Percentage Identity: 0.259
+
+=== A0A7V2WM51 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HFC03986.1};
+Bit Score: 126.0
+E-value: 0.03163
+Alignment Length: 66
+Percentage Identity: 0.287
+
+=== A0A6L8C829 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 119.0
+E-value: 0.03163
+Alignment Length: 83
+Percentage Identity: 0.192
+
+=== A0A848VN55 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+Bit Score: 118.0
+E-value: 0.03163
+Alignment Length: 83
+Percentage Identity: 0.24
+
+=== A0A5N9EK33 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+Bit Score: 115.0
+E-value: 0.03163
+Alignment Length: 83
+Percentage Identity: 0.24
+
+=== A0A0F9CIR1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKL49173.1};
+DE   Flags: Fragment;
+Bit Score: 109.0
+E-value: 0.03163
+Alignment Length: 78
+Percentage Identity: 0.205
+
+=== A0A256W7R8 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 137.0
+E-value: 0.03382
+Alignment Length: 89
+Percentage Identity: 0.292
+
+=== A0A845CRB6 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 133.0
+E-value: 0.03382
+Alignment Length: 59
+Percentage Identity: 0.254
+
+=== A0A6J5Z990 ===
+DE   SubName: Full=Unannotated protein {ECO:0000313|EMBL:CAB4339134.1};
+Bit Score: 133.0
+E-value: 0.03382
+Alignment Length: 59
+Percentage Identity: 0.186
+
+=== A0A399QKJ6 ===
+DE   SubName: Full=Bifunctional 3'-5' exonuclease/DNA polymerase {ECO:0000313|EMBL:RIJ18695.1};
+DE   Flags: Fragment;
+Bit Score: 133.0
+E-value: 0.03382
+Alignment Length: 94
+Percentage Identity: 0.148
+
+=== A0A6L9QRN5 ===
+DE   SubName: Full=Bifunctional 3'-5' exonuclease/DNA polymerase {ECO:0000313|EMBL:NEA27778.1};
+DE   Flags: Fragment;
+Bit Score: 132.0
+E-value: 0.03382
+Alignment Length: 91
+Percentage Identity: 0.153
+
+=== W1WMZ4 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE   Flags: Fragment;
+Bit Score: 130.0
+E-value: 0.03382
+Alignment Length: 66
+Percentage Identity: 0.257
+
+=== A0A1V5K3J3 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+Bit Score: 129.0
+E-value: 0.03382
+Alignment Length: 77
+Percentage Identity: 0.324
+
+=== A0A2A4MC18 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:PCH57388.1};
+DE   Flags: Fragment;
+Bit Score: 129.0
+E-value: 0.03382
+Alignment Length: 90
+Percentage Identity: 0.244
+
+=== A0A1V5VHJ4 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 125.0
+E-value: 0.03382
+Alignment Length: 88
+Percentage Identity: 0.25
+
+=== A0A835E608 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 122.0
+E-value: 0.03382
+Alignment Length: 87
+Percentage Identity: 0.229
+
+=== A0A3S5AKH8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VEL39212.1};
+Bit Score: 113.0
+E-value: 0.03382
+Alignment Length: 85
+Percentage Identity: 0.164
+
+=== T1HRC7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 111.0
+E-value: 0.03382
+Alignment Length: 90
+Percentage Identity: 0.2
+
+=== A0A4P9Y288 ===
+DE   RecName: Full=Mitochondrial DNA polymerase catalytic subunit {ECO:0000256|ARBA:ARBA00031966};
+DE   Flags: Fragment;
+Bit Score: 102.0
+E-value: 0.03382
+Alignment Length: 85
+Percentage Identity: 0.176
+
+=== A0A3D4DUR9 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 95.0
+E-value: 0.03382
+Alignment Length: 82
+Percentage Identity: 0.231
+
+=== F1LA13 ===
+DE   SubName: Full=DNA polymerase subunit gamma-1 {ECO:0000313|EMBL:ADY46967.1};
+Bit Score: 92.0
+E-value: 0.03382
+Alignment Length: 81
+Percentage Identity: 0.172
+
+=== A0A2S6Q5S7 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 136.0
+E-value: 0.03617
+Alignment Length: 90
+Percentage Identity: 0.288
+
+=== A0A2E4WYJ8 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 135.0
+E-value: 0.03617
+Alignment Length: 76
+Percentage Identity: 0.315
+
+=== A0A3M1TLB7 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311};
+Bit Score: 135.0
+E-value: 0.03617
+Alignment Length: 70
+Percentage Identity: 0.285
+
+=== A0A2N2LTE1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:PKN84998.1};
+DE   Flags: Fragment;
+Bit Score: 134.0
+E-value: 0.03617
+Alignment Length: 90
+Percentage Identity: 0.233
+
+=== A0A0F9IPT3 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 132.0
+E-value: 0.03617
+Alignment Length: 65
+Percentage Identity: 0.23
+
+=== A0A356DX76 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:HBO34577.1};
+DE   Flags: Fragment;
+Bit Score: 127.0
+E-value: 0.03617
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A843GRC2 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 121.0
+E-value: 0.03617
+Alignment Length: 82
+Percentage Identity: 0.243
+
+=== A0A1G4V4I5 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+Bit Score: 116.0
+E-value: 0.03617
+Alignment Length: 88
+Percentage Identity: 0.238
+
+=== A0A2Z4M9R5 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 108.0
+E-value: 0.03617
+Alignment Length: 93
+Percentage Identity: 0.139
+
+=== A0A2S0KML2 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+Bit Score: 131.0
+E-value: 0.03868
+Alignment Length: 84
+Percentage Identity: 0.273
+
+=== A0A355US66 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 130.0
+E-value: 0.03868
+Alignment Length: 65
+Percentage Identity: 0.307
+
+=== A0A7C4IFY4 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 128.0
+E-value: 0.03868
+Alignment Length: 65
+Percentage Identity: 0.261
+
+=== A0A4Q3DFZ2 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RYE04687.1};
+DE   Flags: Fragment;
+Bit Score: 127.0
+E-value: 0.03868
+Alignment Length: 84
+Percentage Identity: 0.19
+
+=== A0A7S1JSZ9 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 126.0
+E-value: 0.03868
+Alignment Length: 93
+Percentage Identity: 0.268
+
+=== A0A7C8EJQ7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 126.0
+E-value: 0.03868
+Alignment Length: 74
+Percentage Identity: 0.229
+
+=== A0A7X6T0B9 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:NLA78205.1};
+Bit Score: 123.0
+E-value: 0.03868
+Alignment Length: 86
+Percentage Identity: 0.267
+
+=== A0A0F9HUN0 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 122.0
+E-value: 0.03868
+Alignment Length: 94
+Percentage Identity: 0.18
+
+=== A0A351L298 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.03868
+Alignment Length: 85
+Percentage Identity: 0.141
+
+=== A0A016SCL5 ===
+DE   RecName: Full=Mitochondrial DNA polymerase catalytic subunit {ECO:0000256|ARBA:ARBA00031966};
+Bit Score: 109.0
+E-value: 0.03868
+Alignment Length: 91
+Percentage Identity: 0.197
+
+=== A0A800J8R9 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.03868
+Alignment Length: 91
+Percentage Identity: 0.153
+
+=== O67779 ===
+DE   RecName: Full=DNA polymerase I;
+DE            Short=POL I;
+DE            EC=2.7.7.7;
+Bit Score: 135.0
+E-value: 0.04136
+Alignment Length: 79
+Percentage Identity: 0.278
+
+=== A0A6I7PKX6 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 131.0
+E-value: 0.04136
+Alignment Length: 66
+Percentage Identity: 0.287
+
+=== A0A662BG36 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+DE   Flags: Fragment;
+Bit Score: 130.0
+E-value: 0.04136
+Alignment Length: 73
+Percentage Identity: 0.273
+
+=== L1MKL3 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 128.0
+E-value: 0.04136
+Alignment Length: 53
+Percentage Identity: 0.301
+
+=== A0A372DXK7 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 127.0
+E-value: 0.04136
+Alignment Length: 62
+Percentage Identity: 0.177
+
+=== A0A0F9EXC0 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 93.0
+E-value: 0.04136
+Alignment Length: 90
+Percentage Identity: 0.155
+
+=== A0A0G0WWU4 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311};
+Bit Score: 133.0
+E-value: 0.04423
+Alignment Length: 79
+Percentage Identity: 0.278
+
+=== A0A4R4UPH8 ===
+DE   SubName: Full=Bifunctional 3'-5' exonuclease/DNA polymerase {ECO:0000313|EMBL:TDC90994.1};
+DE   Flags: Fragment;
+Bit Score: 129.0
+E-value: 0.04423
+Alignment Length: 87
+Percentage Identity: 0.195
+
+=== A0A7K0TIH2 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+Bit Score: 128.0
+E-value: 0.04423
+Alignment Length: 91
+Percentage Identity: 0.296
+
+=== A0A3M1ST51 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 128.0
+E-value: 0.04423
+Alignment Length: 53
+Percentage Identity: 0.207
+
+=== A0A847P641 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+Bit Score: 126.0
+E-value: 0.04423
+Alignment Length: 78
+Percentage Identity: 0.256
+
+=== A0A3L7VTS1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:RLT21742.1};
+DE   Flags: Fragment;
+Bit Score: 125.0
+E-value: 0.04423
+Alignment Length: 57
+Percentage Identity: 0.298
+
+=== A0A354MC23 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 125.0
+E-value: 0.04423
+Alignment Length: 92
+Percentage Identity: 0.282
+
+=== A0A0S8GXZ2 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:KPK76748.1};
+DE   Flags: Fragment;
+Bit Score: 124.0
+E-value: 0.04423
+Alignment Length: 66
+Percentage Identity: 0.257
+
+=== A0A7X8GXE3 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 124.0
+E-value: 0.04423
+Alignment Length: 84
+Percentage Identity: 0.226
+
+=== S7QAL3 ===
+DE   RecName: Full=DNA polymerase subunit gamma-1 {ECO:0000256|ARBA:ARBA00015350};
+DE   AltName: Full=Mitochondrial DNA polymerase catalytic subunit {ECO:0000256|ARBA:ARBA00031966};
+Bit Score: 109.0
+E-value: 0.04423
+Alignment Length: 91
+Percentage Identity: 0.164
+
+=== A0A7J6QK92 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+Bit Score: 94.0
+E-value: 0.04423
+Alignment Length: 80
+Percentage Identity: 0.262
+
+=== A0A5J4PZM0 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:KAA6314064.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:KAA6314064.1};
+DE   Flags: Fragment;
+Bit Score: 133.0
+E-value: 0.04729
+Alignment Length: 83
+Percentage Identity: 0.289
+
+=== A0A5R8L6Z1 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:TLF30622.1};
+DE   Flags: Fragment;
+Bit Score: 128.0
+E-value: 0.04729
+Alignment Length: 66
+Percentage Identity: 0.303
+
+=== A0A651DVB1 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 127.0
+E-value: 0.04729
+Alignment Length: 53
+Percentage Identity: 0.283
+
+=== A0A522E612 ===
+DE   SubName: Full=DNA polymerase I {ECO:0000313|EMBL:TAL49877.1};
+DE   Flags: Fragment;
+Bit Score: 125.0
+E-value: 0.04729
+Alignment Length: 59
+Percentage Identity: 0.203
+
+=== A0A7V4HAP5 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+Bit Score: 122.0
+E-value: 0.04729
+Alignment Length: 78
+Percentage Identity: 0.256
+
+=== U2KYX3 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482};
+Bit Score: 121.0
+E-value: 0.04729
+Alignment Length: 77
+Percentage Identity: 0.181
+
+=== A3ZQQ0 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+Bit Score: 120.0
+E-value: 0.04729
+Alignment Length: 93
+Percentage Identity: 0.29
+
+=== A0A496RH31 ===
+DE   RecName: Full=DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|Pfam:PF00476};
+DE   Flags: Fragment;
+Bit Score: 117.0
+E-value: 0.04729
+Alignment Length: 74
+Percentage Identity: 0.216
+
+=== A0A3C0IL58 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|ARBA:ARBA00020311, ECO:0000256|NCBIfam:TIGR00593};
+DE            EC=2.7.7.7 {ECO:0000256|ARBA:ARBA00012417, ECO:0000256|NCBIfam:TIGR00593};
+DE   Flags: Fragment;
+Bit Score: 114.0
+E-value: 0.04729
+Alignment Length: 82
+Percentage Identity: 0.231
+
+=== A0A1G1PAG8 ===
+DE   RecName: Full=DNA polymerase I {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+DE            EC=2.7.7.7 {ECO:0000256|NCBIfam:TIGR00593, ECO:0000256|RuleBase:RU004460};
+Bit Score: 112.0
+E-value: 0.04729
+Alignment Length: 85
+Percentage Identity: 0.27
+
+=== A0A0B1SSY0 ===
+DE   RecName: Full=Mitochondrial DNA polymerase catalytic subunit {ECO:0000256|ARBA:ARBA00031966};
+DE   Flags: Fragment;
+Bit Score: 112.0
+E-value: 0.04729
+Alignment Length: 81
+Percentage Identity: 0.209
+

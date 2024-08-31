@@ -1,0 +1,8 @@
+=== A0A7S2PCV0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAD9589576.1};
+DE   Flags: Fragment;
+Bit Score: 122.0
+E-value: 0.009202
+Alignment Length: 87
+Percentage Identity: 0.149
+

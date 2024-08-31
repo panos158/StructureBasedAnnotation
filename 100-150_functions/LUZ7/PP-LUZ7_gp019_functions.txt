@@ -1,0 +1,3569 @@
+=== A0A533I3U7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TKW65197.1};
+Bit Score: 594.0
+E-value: 2.374e-16
+Alignment Length: 144
+Percentage Identity: 0.333
+
+=== A0A2E0ZJU1 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 598.0
+E-value: 4.006e-16
+Alignment Length: 154
+Percentage Identity: 0.285
+
+=== A0A0F9JZI8 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 480.0
+E-value: 3.613e-13
+Alignment Length: 145
+Percentage Identity: 0.275
+
+=== A0A7C3J9H4 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 467.0
+E-value: 6.098e-13
+Alignment Length: 170
+Percentage Identity: 0.276
+
+=== K9RWF4 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 385.0
+E-value: 2.087e-11
+Alignment Length: 148
+Percentage Identity: 0.222
+
+=== A0A3N5RN57 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RPI87728.1};
+Bit Score: 379.0
+E-value: 5.216e-11
+Alignment Length: 156
+Percentage Identity: 0.205
+
+=== A0A7Z9Y6V0 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 397.0
+E-value: 5.945e-11
+Alignment Length: 136
+Percentage Identity: 0.257
+
+=== A0A359IMS7 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 377.0
+E-value: 2.508e-10
+Alignment Length: 147
+Percentage Identity: 0.19
+
+=== A0A0F9M039 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 343.0
+E-value: 3.965e-10
+Alignment Length: 148
+Percentage Identity: 0.243
+
+=== A0A0F9NRK3 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 356.0
+E-value: 5.151e-10
+Alignment Length: 146
+Percentage Identity: 0.232
+
+=== A0A0F9TQ59 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 315.0
+E-value: 1.206e-09
+Alignment Length: 151
+Percentage Identity: 0.251
+
+=== E4UAV2 ===
+DE   RecName: Full=Appr-1-p processing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 343.0
+E-value: 1.374e-09
+Alignment Length: 157
+Percentage Identity: 0.178
+
+=== A0A5C1MFJ6 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:QEM68397.1};
+Bit Score: 341.0
+E-value: 1.566e-09
+Alignment Length: 149
+Percentage Identity: 0.234
+
+=== A0A0F8YJN6 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 307.0
+E-value: 2.476e-09
+Alignment Length: 157
+Percentage Identity: 0.165
+
+=== A0A0F9P224 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 321.0
+E-value: 3.435e-09
+Alignment Length: 166
+Percentage Identity: 0.15
+
+=== A0A2E8RHS9 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 311.0
+E-value: 3.667e-09
+Alignment Length: 159
+Percentage Identity: 0.201
+
+=== A0A1L3GPB3 ===
+DE   SubName: Full=ADP-ribose-binding protein {ECO:0000313|EMBL:APG27754.1};
+Bit Score: 304.0
+E-value: 6.189e-09
+Alignment Length: 150
+Percentage Identity: 0.206
+
+=== A0A5E4HI38 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 299.0
+E-value: 6.189e-09
+Alignment Length: 153
+Percentage Identity: 0.215
+
+=== A0A143B2B8 ===
+DE   SubName: Full=ADP-ribosyl-(Nitrogenase)-activating glycohydrolase {ECO:0000313|EMBL:AMV70508.1};
+Bit Score: 311.0
+E-value: 6.607e-09
+Alignment Length: 149
+Percentage Identity: 0.228
+
+=== A0A7Y4YJT0 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 289.0
+E-value: 7.531e-09
+Alignment Length: 151
+Percentage Identity: 0.192
+
+=== L0L2S6 ===
+DE   RecName: Full=Phosphatase, C-terminal domain of histone macro H2A1 like protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 311.0
+E-value: 8.04e-09
+Alignment Length: 148
+Percentage Identity: 0.25
+
+=== A0A2T1CDV3 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 274.0
+E-value: 9.164e-09
+Alignment Length: 159
+Percentage Identity: 0.201
+
+=== A0A6M3L1U0 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 288.0
+E-value: 9.784e-09
+Alignment Length: 155
+Percentage Identity: 0.206
+
+=== A0A0K2GES7 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|Pfam:PF01661};
+Bit Score: 286.0
+E-value: 1.271e-08
+Alignment Length: 146
+Percentage Identity: 0.191
+
+=== A0A3N5SND7 ===
+DE   SubName: Full=ADP-ribose-binding protein {ECO:0000313|EMBL:RPJ00480.1};
+Bit Score: 289.0
+E-value: 1.449e-08
+Alignment Length: 152
+Percentage Identity: 0.177
+
+=== A0A525CJW1 ===
+DE   SubName: Full=ADP-ribose-binding protein {ECO:0000313|EMBL:THB70828.1};
+Bit Score: 305.0
+E-value: 1.547e-08
+Alignment Length: 147
+Percentage Identity: 0.197
+
+=== A0A0F9U4V6 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 276.0
+E-value: 1.651e-08
+Alignment Length: 155
+Percentage Identity: 0.212
+
+=== A0A0F9C487 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 285.0
+E-value: 1.763e-08
+Alignment Length: 155
+Percentage Identity: 0.18
+
+=== A0A5C9EW89 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 287.0
+E-value: 2.145e-08
+Alignment Length: 156
+Percentage Identity: 0.166
+
+=== A0A662AZC8 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 295.0
+E-value: 2.975e-08
+Alignment Length: 155
+Percentage Identity: 0.187
+
+=== A0A0F9WB02 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 291.0
+E-value: 2.975e-08
+Alignment Length: 157
+Percentage Identity: 0.222
+
+=== A0A849S0V3 ===
+DE   SubName: Full=ADP-ribose-binding protein {ECO:0000313|EMBL:NOS80010.1};
+Bit Score: 283.0
+E-value: 3.391e-08
+Alignment Length: 150
+Percentage Identity: 0.2
+
+=== A0A7C1VJ05 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HEC65124.1};
+Bit Score: 285.0
+E-value: 3.865e-08
+Alignment Length: 168
+Percentage Identity: 0.196
+
+=== A0A0F9BSC1 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|Pfam:PF01661};
+Bit Score: 273.0
+E-value: 4.406e-08
+Alignment Length: 155
+Percentage Identity: 0.206
+
+=== A0A1G6X8A6 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 269.0
+E-value: 4.406e-08
+Alignment Length: 148
+Percentage Identity: 0.189
+
+=== A0A6H2A0X8 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 261.0
+E-value: 5.022e-08
+Alignment Length: 174
+Percentage Identity: 0.206
+
+=== A0A0S7X5B0 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 281.0
+E-value: 5.361e-08
+Alignment Length: 163
+Percentage Identity: 0.177
+
+=== A0A822IVL9 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 283.0
+E-value: 5.724e-08
+Alignment Length: 148
+Percentage Identity: 0.195
+
+=== A0A3P4ATS7 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 269.0
+E-value: 6.111e-08
+Alignment Length: 157
+Percentage Identity: 0.21
+
+=== A0A3S0DUT9 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 255.0
+E-value: 6.965e-08
+Alignment Length: 156
+Percentage Identity: 0.198
+
+=== A0A0F9TR27 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 274.0
+E-value: 7.436e-08
+Alignment Length: 167
+Percentage Identity: 0.203
+
+=== A0A2E7DMX3 ===
+DE   SubName: Full=ADP-ribose-binding protein {ECO:0000313|EMBL:MBM88259.1};
+Bit Score: 255.0
+E-value: 1.176e-07
+Alignment Length: 181
+Percentage Identity: 0.187
+
+=== A0A4R1KDV7 ===
+DE   RecName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III) {ECO:0008006|Google:ProtNLM};
+Bit Score: 270.0
+E-value: 1.34e-07
+Alignment Length: 149
+Percentage Identity: 0.167
+
+=== A0A430UEV5 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 269.0
+E-value: 1.34e-07
+Alignment Length: 156
+Percentage Identity: 0.198
+
+=== A0A497AXW5 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 248.0
+E-value: 1.34e-07
+Alignment Length: 186
+Percentage Identity: 0.172
+
+=== A0A062V6T3 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 257.0
+E-value: 1.858e-07
+Alignment Length: 164
+Percentage Identity: 0.189
+
+=== A0A410JWZ6 ===
+DE   SubName: Full=ADP-ribose-binding protein {ECO:0000313|EMBL:QAR32555.1};
+Bit Score: 261.0
+E-value: 1.984e-07
+Alignment Length: 148
+Percentage Identity: 0.182
+
+=== A0A1V6HZY5 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 258.0
+E-value: 2.261e-07
+Alignment Length: 173
+Percentage Identity: 0.161
+
+=== A0A661JMK6 ===
+DE   SubName: Full=ADP-ribose-binding protein {ECO:0000313|EMBL:RLA96352.1};
+Bit Score: 235.0
+E-value: 2.261e-07
+Alignment Length: 179
+Percentage Identity: 0.195
+
+=== A0A6J4M940 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|Pfam:PF01661};
+Bit Score: 245.0
+E-value: 3.575e-07
+Alignment Length: 151
+Percentage Identity: 0.198
+
+=== A0A1Y2CKK4 ===
+DE   RecName: Full=ADP-ribose 1''-phosphate phosphatase {ECO:0000256|ARBA:ARBA00019744};
+DE            EC=3.1.3.84 {ECO:0000256|ARBA:ARBA00012983};
+Bit Score: 233.0
+E-value: 4.35e-07
+Alignment Length: 152
+Percentage Identity: 0.21
+
+=== A0A0F9H3G9 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 226.0
+E-value: 1.087e-06
+Alignment Length: 159
+Percentage Identity: 0.125
+
+=== A0A0F9CYD5 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 212.0
+E-value: 1.087e-06
+Alignment Length: 192
+Percentage Identity: 0.135
+
+=== A0A7Y5KTN7 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:NUP06247.1};
+Bit Score: 201.0
+E-value: 1.087e-06
+Alignment Length: 154
+Percentage Identity: 0.142
+
+=== A0A0F9NZK2 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 219.0
+E-value: 1.239e-06
+Alignment Length: 164
+Percentage Identity: 0.182
+
+=== A0A0F9RCU5 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 240.0
+E-value: 2.092e-06
+Alignment Length: 157
+Percentage Identity: 0.178
+
+=== A0A497QFT4 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 213.0
+E-value: 2.092e-06
+Alignment Length: 177
+Percentage Identity: 0.158
+
+=== A0A1G7SXC8 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III), contains Macro domain {ECO:0000313|EMBL:SDG27608.1};
+Bit Score: 190.0
+E-value: 2.233e-06
+Alignment Length: 156
+Percentage Identity: 0.16
+
+=== K1HCG0 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+DE   Flags: Fragment;
+Bit Score: 186.0
+E-value: 3.097e-06
+Alignment Length: 157
+Percentage Identity: 0.178
+
+=== A0A0K6IM59 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III), contains Macro domain {ECO:0000313|EMBL:CUB04178.1};
+Bit Score: 178.0
+E-value: 3.097e-06
+Alignment Length: 157
+Percentage Identity: 0.178
+
+=== A0A354WKK5 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:HBK24427.1};
+Bit Score: 186.0
+E-value: 4.024e-06
+Alignment Length: 156
+Percentage Identity: 0.179
+
+=== A0A0K1Q862 ===
+DE   SubName: Full=ADP-ribose 1'-phosphate phophatase related protein {ECO:0000313|EMBL:AKV01595.1};
+Bit Score: 184.0
+E-value: 4.024e-06
+Alignment Length: 156
+Percentage Identity: 0.166
+
+=== A0A7L8V664 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:QOG12067.1};
+Bit Score: 176.0
+E-value: 4.896e-06
+Alignment Length: 157
+Percentage Identity: 0.165
+
+=== A0A7Y4ZU20 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:NOU33615.1};
+Bit Score: 174.0
+E-value: 4.896e-06
+Alignment Length: 158
+Percentage Identity: 0.139
+
+=== A0A7V5GYV0 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:HHE52552.1};
+Bit Score: 189.0
+E-value: 6.791e-06
+Alignment Length: 157
+Percentage Identity: 0.152
+
+=== A0A7M7HPY1 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 163.0
+E-value: 6.791e-06
+Alignment Length: 158
+Percentage Identity: 0.17
+
+=== A0A2T5ILE8 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III) {ECO:0000313|EMBL:PTQ84633.1};
+Bit Score: 168.0
+E-value: 7.741e-06
+Alignment Length: 168
+Percentage Identity: 0.16
+
+=== A0A5J4PKW0 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 174.0
+E-value: 8.264e-06
+Alignment Length: 156
+Percentage Identity: 0.16
+
+=== A0A1F3VDN5 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 172.0
+E-value: 8.823e-06
+Alignment Length: 158
+Percentage Identity: 0.183
+
+=== A0A6P8H590 ===
+DE   SubName: Full=Sarcoplasmic reticulum histidine-rich calcium-binding protein-like {ECO:0000313|RefSeq:XP_031550631.1};
+Bit Score: 173.0
+E-value: 1.006e-05
+Alignment Length: 155
+Percentage Identity: 0.148
+
+=== X0YDG2 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 187.0
+E-value: 1.224e-05
+Alignment Length: 164
+Percentage Identity: 0.158
+
+=== A0A7C2WA54 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:HEX69983.1};
+DE   Flags: Fragment;
+Bit Score: 180.0
+E-value: 1.224e-05
+Alignment Length: 158
+Percentage Identity: 0.132
+
+=== A0A150PAJ5 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 175.0
+E-value: 1.306e-05
+Alignment Length: 154
+Percentage Identity: 0.149
+
+=== A0A1I2KAF7 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III), contains Macro domain {ECO:0000313|EMBL:SFF64092.1};
+Bit Score: 173.0
+E-value: 1.306e-05
+Alignment Length: 159
+Percentage Identity: 0.182
+
+=== A0A521XVD7 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:TAK72579.1};
+Bit Score: 172.0
+E-value: 1.306e-05
+Alignment Length: 164
+Percentage Identity: 0.164
+
+=== A0A2C6BQT5 ===
+DE   SubName: Full=Appr-1-p processing domain-containing protein {ECO:0000313|EMBL:PHI06583.1};
+Bit Score: 158.0
+E-value: 1.306e-05
+Alignment Length: 161
+Percentage Identity: 0.186
+
+=== L7UM24 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 179.0
+E-value: 1.395e-05
+Alignment Length: 156
+Percentage Identity: 0.166
+
+=== A0A842Y1Q0 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:MBE0522357.1};
+Bit Score: 177.0
+E-value: 1.395e-05
+Alignment Length: 158
+Percentage Identity: 0.145
+
+=== A0A3M1II33 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:RME93010.1};
+DE   Flags: Fragment;
+Bit Score: 176.0
+E-value: 1.489e-05
+Alignment Length: 155
+Percentage Identity: 0.141
+
+=== A0A7V4QRY9 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:HGW58765.1};
+Bit Score: 171.0
+E-value: 1.489e-05
+Alignment Length: 159
+Percentage Identity: 0.157
+
+=== A0A2P8D309 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III) {ECO:0000313|EMBL:PSK91585.1};
+Bit Score: 168.0
+E-value: 1.489e-05
+Alignment Length: 155
+Percentage Identity: 0.174
+
+=== A0A7W7WSZ8 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III) {ECO:0000313|EMBL:MBB4962675.1};
+Bit Score: 176.0
+E-value: 1.697e-05
+Alignment Length: 159
+Percentage Identity: 0.182
+
+=== A0A662MD95 ===
+DE   SubName: Full=ADP-ribose-binding protein {ECO:0000313|EMBL:RLF67580.1};
+Bit Score: 170.0
+E-value: 1.697e-05
+Alignment Length: 162
+Percentage Identity: 0.172
+
+=== J1QGF9 ===
+DE   SubName: Full=Appr-1-p processing domain-containing protein {ECO:0000313|EMBL:EJI84591.1};
+Bit Score: 166.0
+E-value: 1.697e-05
+Alignment Length: 160
+Percentage Identity: 0.168
+
+=== A0A6M8VH16 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:QKK00954.1};
+Bit Score: 177.0
+E-value: 1.812e-05
+Alignment Length: 155
+Percentage Identity: 0.129
+
+=== A0A6F8Y5E2 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 170.0
+E-value: 1.812e-05
+Alignment Length: 154
+Percentage Identity: 0.149
+
+=== A0A1M7EBP5 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III), contains Macro domain {ECO:0000313|EMBL:SHL89211.1};
+Bit Score: 173.0
+E-value: 1.935e-05
+Alignment Length: 158
+Percentage Identity: 0.183
+
+=== A0A1Z5J072 ===
+DE   SubName: Full=Macro domain protein {ECO:0000313|EMBL:GAX07121.1};
+Bit Score: 164.0
+E-value: 1.935e-05
+Alignment Length: 159
+Percentage Identity: 0.113
+
+=== A0A1C5GEF5 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III), contains Macro domain {ECO:0000313|EMBL:SCG18201.1};
+Bit Score: 157.0
+E-value: 1.935e-05
+Alignment Length: 164
+Percentage Identity: 0.146
+
+=== A0A0G0MI32 ===
+DE   SubName: Full=Appr-1-p processing domain protein {ECO:0000313|EMBL:KKR00036.1};
+Bit Score: 165.0
+E-value: 2.065e-05
+Alignment Length: 155
+Percentage Identity: 0.193
+
+=== A0A494VQC9 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 160.0
+E-value: 2.065e-05
+Alignment Length: 164
+Percentage Identity: 0.176
+
+=== A0A3M7QMJ5 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase 1 {ECO:0000313|EMBL:RNA12503.1};
+Bit Score: 173.0
+E-value: 2.205e-05
+Alignment Length: 156
+Percentage Identity: 0.141
+
+=== A0A4R4TJ46 ===
+DE   SubName: Full=Phosphatase {ECO:0000313|EMBL:TDC77737.1};
+Bit Score: 175.0
+E-value: 2.354e-05
+Alignment Length: 156
+Percentage Identity: 0.153
+
+=== A0A1D8RT48 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 174.0
+E-value: 2.354e-05
+Alignment Length: 165
+Percentage Identity: 0.163
+
+=== A0A850GKS9 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:NVB41152.1};
+Bit Score: 162.0
+E-value: 2.354e-05
+Alignment Length: 157
+Percentage Identity: 0.178
+
+=== A0A2D8C9Y6 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:MAL15250.1};
+Bit Score: 170.0
+E-value: 2.513e-05
+Alignment Length: 154
+Percentage Identity: 0.149
+
+=== A0A4Q5Q1I3 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:RYY00686.1};
+Bit Score: 164.0
+E-value: 2.513e-05
+Alignment Length: 158
+Percentage Identity: 0.177
+
+=== A0A210Q7K8 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase 1 {ECO:0000313|EMBL:OWF44723.1};
+Bit Score: 160.0
+E-value: 2.513e-05
+Alignment Length: 157
+Percentage Identity: 0.152
+
+=== A0A2K1NV68 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 159.0
+E-value: 2.513e-05
+Alignment Length: 151
+Percentage Identity: 0.198
+
+=== A0A3Q3JX14 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 150.0
+E-value: 2.513e-05
+Alignment Length: 160
+Percentage Identity: 0.143
+
+=== A6WGB8 ===
+DE   SubName: Full=Appr-1-p processing domain protein {ECO:0000313|EMBL:ABS05857.1};
+Bit Score: 163.0
+E-value: 2.865e-05
+Alignment Length: 157
+Percentage Identity: 0.159
+
+=== A0A838EV47 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:MBA2397014.1};
+Bit Score: 172.0
+E-value: 3.058e-05
+Alignment Length: 154
+Percentage Identity: 0.175
+
+=== A0A1J0VPL5 ===
+DE   SubName: Full=Appr-1-p processing domain-containing protein {ECO:0000313|EMBL:APE33980.1};
+Bit Score: 170.0
+E-value: 3.058e-05
+Alignment Length: 160
+Percentage Identity: 0.156
+
+=== A0A150RH96 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+DE   Flags: Fragment;
+Bit Score: 169.0
+E-value: 3.058e-05
+Alignment Length: 154
+Percentage Identity: 0.149
+
+=== A0A3M1U9Y2 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:RMG25826.1};
+DE   Flags: Fragment;
+Bit Score: 168.0
+E-value: 3.265e-05
+Alignment Length: 154
+Percentage Identity: 0.162
+
+=== A0A1Z4RWU8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:BAZ46940.1};
+Bit Score: 160.0
+E-value: 3.265e-05
+Alignment Length: 123
+Percentage Identity: 0.243
+
+=== A0A3M1ZH22 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 157.0
+E-value: 3.265e-05
+Alignment Length: 157
+Percentage Identity: 0.184
+
+=== A0A814UZP7 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 155.0
+E-value: 3.265e-05
+Alignment Length: 153
+Percentage Identity: 0.169
+
+=== E3CXP4 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 175.0
+E-value: 3.486e-05
+Alignment Length: 178
+Percentage Identity: 0.162
+
+=== F8C9I7 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 170.0
+E-value: 3.486e-05
+Alignment Length: 158
+Percentage Identity: 0.139
+
+=== A0A5C7JN10 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 170.0
+E-value: 3.486e-05
+Alignment Length: 156
+Percentage Identity: 0.128
+
+=== A0A4Q1D5M6 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 152.0
+E-value: 3.486e-05
+Alignment Length: 161
+Percentage Identity: 0.186
+
+=== A0A7L5DZ67 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:QJD96390.1};
+Bit Score: 174.0
+E-value: 3.721e-05
+Alignment Length: 162
+Percentage Identity: 0.197
+
+=== U2SSB9 ===
+DE   SubName: Full=Macro domain protein {ECO:0000313|EMBL:ERL03704.1};
+Bit Score: 173.0
+E-value: 3.721e-05
+Alignment Length: 160
+Percentage Identity: 0.175
+
+=== A0A4Y8SNG4 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 160.0
+E-value: 3.721e-05
+Alignment Length: 167
+Percentage Identity: 0.173
+
+=== R6CW52 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 157.0
+E-value: 3.721e-05
+Alignment Length: 159
+Percentage Identity: 0.194
+
+=== A0A1Y4B0K6 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 166.0
+E-value: 3.973e-05
+Alignment Length: 156
+Percentage Identity: 0.185
+
+=== F9ERA7 ===
+DE   SubName: Full=Appr-1-p processing enzyme family protein {ECO:0000313|EMBL:EGQ77833.1};
+Bit Score: 155.0
+E-value: 3.973e-05
+Alignment Length: 158
+Percentage Identity: 0.158
+
+=== A0A674MKJ9 ===
+DE   SubName: Full=O-acyl-ADP-ribose deacylase 1 {ECO:0000313|Ensembl:ENSTRUP00000061653.1};
+Bit Score: 149.0
+E-value: 3.973e-05
+Alignment Length: 158
+Percentage Identity: 0.139
+
+=== A0A6B1FUF3 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:MYH60209.1};
+Bit Score: 147.0
+E-value: 3.973e-05
+Alignment Length: 158
+Percentage Identity: 0.132
+
+=== A0A4W5PIX1 ===
+DE   SubName: Full=O-acyl-ADP-ribose deacylase 1 {ECO:0000313|Ensembl:ENSHHUP00000062123.1};
+Bit Score: 143.0
+E-value: 3.973e-05
+Alignment Length: 161
+Percentage Identity: 0.136
+
+=== A0A2T2UCX2 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 163.0
+E-value: 4.242e-05
+Alignment Length: 165
+Percentage Identity: 0.145
+
+=== A0A397IM67 ===
+DE   RecName: Full=ADP-ribose 1''-phosphate phosphatase {ECO:0000256|ARBA:ARBA00019744};
+DE            EC=3.1.3.84 {ECO:0000256|ARBA:ARBA00012983};
+Bit Score: 158.0
+E-value: 4.242e-05
+Alignment Length: 162
+Percentage Identity: 0.185
+
+=== A0A355ICD4 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:HBL68678.1};
+DE   Flags: Fragment;
+Bit Score: 170.0
+E-value: 4.529e-05
+Alignment Length: 158
+Percentage Identity: 0.196
+
+=== A0A0N0ZMJ3 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:KPD25446.1};
+Bit Score: 161.0
+E-value: 4.529e-05
+Alignment Length: 161
+Percentage Identity: 0.192
+
+=== A0A2U2ASX5 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:PWD87757.1};
+Bit Score: 155.0
+E-value: 4.529e-05
+Alignment Length: 163
+Percentage Identity: 0.171
+
+=== A0A6P8U7B4 ===
+DE   SubName: Full=ADP-ribose glycohydrolase OARD1 {ECO:0000313|RefSeq:XP_034067040.1};
+Bit Score: 146.0
+E-value: 4.529e-05
+Alignment Length: 157
+Percentage Identity: 0.159
+
+=== A0A521TLE8 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:TAK20437.1};
+Bit Score: 164.0
+E-value: 4.835e-05
+Alignment Length: 158
+Percentage Identity: 0.158
+
+=== A0A6M4GS23 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 154.0
+E-value: 5.162e-05
+Alignment Length: 155
+Percentage Identity: 0.167
+
+=== A0A2S2N731 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase {ECO:0000313|EMBL:MBY12742.1};
+Bit Score: 152.0
+E-value: 5.162e-05
+Alignment Length: 155
+Percentage Identity: 0.148
+
+=== A0A0F9CJA5 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 164.0
+E-value: 5.511e-05
+Alignment Length: 145
+Percentage Identity: 0.186
+
+=== A0A1G0NI01 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 163.0
+E-value: 5.511e-05
+Alignment Length: 172
+Percentage Identity: 0.174
+
+=== U2GWF4 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 160.0
+E-value: 5.511e-05
+Alignment Length: 159
+Percentage Identity: 0.163
+
+=== A0A1H1BHP7 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III), contains Macro domain {ECO:0000313|EMBL:SDQ51544.1};
+Bit Score: 153.0
+E-value: 5.511e-05
+Alignment Length: 162
+Percentage Identity: 0.172
+
+=== R9KYR0 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 165.0
+E-value: 5.883e-05
+Alignment Length: 160
+Percentage Identity: 0.156
+
+=== A0A075H7C7 ===
+DE   SubName: Full=Putative macroH2A1-like phosphatase {ECO:0000313|EMBL:AIF10970.1};
+Bit Score: 164.0
+E-value: 5.883e-05
+Alignment Length: 166
+Percentage Identity: 0.156
+
+=== A0A5E4MFH1 ===
+DE   RecName: Full=RNA-directed DNA polymerase {ECO:0000256|ARBA:ARBA00012493};
+DE            EC=2.7.7.49 {ECO:0000256|ARBA:ARBA00012493};
+DE   Flags: Fragment;
+Bit Score: 157.0
+E-value: 5.883e-05
+Alignment Length: 154
+Percentage Identity: 0.129
+
+=== A0A2E3J975 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:MBB32008.1};
+Bit Score: 149.0
+E-value: 5.883e-05
+Alignment Length: 162
+Percentage Identity: 0.191
+
+=== A0A5C7M5F4 ===
+DE   SubName: Full=Appr-1-p processing domain-containing protein {ECO:0000313|EMBL:TXH17105.1};
+Bit Score: 149.0
+E-value: 5.883e-05
+Alignment Length: 157
+Percentage Identity: 0.165
+
+=== A0A563VJ93 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 146.0
+E-value: 5.883e-05
+Alignment Length: 162
+Percentage Identity: 0.166
+
+=== A1ZG40 ===
+DE   SubName: Full=Appr-1-p processing enzyme family {ECO:0000313|EMBL:EAY30457.1};
+Bit Score: 143.0
+E-value: 5.883e-05
+Alignment Length: 160
+Percentage Identity: 0.193
+
+=== A0A8B6CTQ7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VDI08670.1};
+DE   Flags: Fragment;
+Bit Score: 139.0
+E-value: 5.883e-05
+Alignment Length: 155
+Percentage Identity: 0.187
+
+=== A0A674N8S6 ===
+DE   SubName: Full=O-acyl-ADP-ribose deacylase 1 {ECO:0000313|Ensembl:ENSTRUP00000069576.1};
+Bit Score: 138.0
+E-value: 5.883e-05
+Alignment Length: 161
+Percentage Identity: 0.142
+
+=== A0A2S6R9S0 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+DE   Flags: Fragment;
+Bit Score: 159.0
+E-value: 6.281e-05
+Alignment Length: 159
+Percentage Identity: 0.182
+
+=== A0A6L6GNG5 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:QGU88758.1};
+Bit Score: 159.0
+E-value: 6.281e-05
+Alignment Length: 157
+Percentage Identity: 0.146
+
+=== A0A2P8VGT7 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 157.0
+E-value: 6.281e-05
+Alignment Length: 155
+Percentage Identity: 0.129
+
+=== A0A4R7Z9H7 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III) {ECO:0000313|EMBL:TDW06482.1};
+Bit Score: 153.0
+E-value: 6.281e-05
+Alignment Length: 157
+Percentage Identity: 0.171
+
+=== A0A813Z8P4 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 152.0
+E-value: 6.281e-05
+Alignment Length: 156
+Percentage Identity: 0.108
+
+=== A0A6N7DX34 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:MPQ76661.1};
+Bit Score: 150.0
+E-value: 6.281e-05
+Alignment Length: 168
+Percentage Identity: 0.196
+
+=== A0A7S8IEX2 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:QPC82288.1};
+Bit Score: 147.0
+E-value: 6.281e-05
+Alignment Length: 159
+Percentage Identity: 0.157
+
+=== A0A7N4PTM8 ===
+DE   SubName: Full=O-acyl-ADP-ribose deacylase 1 {ECO:0000313|Ensembl:ENSSHAP00000041816.1};
+Bit Score: 143.0
+E-value: 6.281e-05
+Alignment Length: 154
+Percentage Identity: 0.136
+
+=== A0A7I8DCJ7 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 142.0
+E-value: 6.281e-05
+Alignment Length: 158
+Percentage Identity: 0.158
+
+=== A0A2I1RLA6 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:PKZ69904.1};
+Bit Score: 166.0
+E-value: 6.706e-05
+Alignment Length: 157
+Percentage Identity: 0.146
+
+=== A0A4P6K3E7 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:QBD82433.1};
+Bit Score: 160.0
+E-value: 6.706e-05
+Alignment Length: 155
+Percentage Identity: 0.154
+
+=== A0A2W6SVS6 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 159.0
+E-value: 6.706e-05
+Alignment Length: 155
+Percentage Identity: 0.148
+
+=== A0A0S9KD62 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 157.0
+E-value: 6.706e-05
+Alignment Length: 154
+Percentage Identity: 0.142
+
+=== A0A231GSS1 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 152.0
+E-value: 6.706e-05
+Alignment Length: 164
+Percentage Identity: 0.182
+
+=== A9AYL7 ===
+DE   SubName: Full=Appr-1-p processing domain protein {ECO:0000313|EMBL:ABX04995.1};
+Bit Score: 149.0
+E-value: 6.706e-05
+Alignment Length: 167
+Percentage Identity: 0.167
+
+=== A0A6L7LRN0 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:MXX91108.1};
+Bit Score: 149.0
+E-value: 6.706e-05
+Alignment Length: 163
+Percentage Identity: 0.147
+
+=== A0A2S2NVT5 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase {ECO:0000313|EMBL:MBY21290.1};
+Bit Score: 147.0
+E-value: 6.706e-05
+Alignment Length: 169
+Percentage Identity: 0.153
+
+=== A0A4R7ZAI4 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III) {ECO:0000313|EMBL:TDW11826.1};
+Bit Score: 160.0
+E-value: 7.159e-05
+Alignment Length: 154
+Percentage Identity: 0.149
+
+=== A0A2M8P0C8 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 147.0
+E-value: 7.159e-05
+Alignment Length: 155
+Percentage Identity: 0.129
+
+=== A0A399XFW9 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:RIK03122.1};
+Bit Score: 146.0
+E-value: 7.159e-05
+Alignment Length: 164
+Percentage Identity: 0.164
+
+=== A0A5C5VBH6 ===
+DE   SubName: Full=Macro domain protein {ECO:0000313|EMBL:TWT34955.1};
+Bit Score: 159.0
+E-value: 7.643e-05
+Alignment Length: 156
+Percentage Identity: 0.166
+
+=== A0A2X4ULR0 ===
+DE   SubName: Full=Macro domain {ECO:0000313|EMBL:SQI39631.1};
+Bit Score: 148.0
+E-value: 7.643e-05
+Alignment Length: 160
+Percentage Identity: 0.131
+
+=== A0A0F9J853 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 146.0
+E-value: 7.643e-05
+Alignment Length: 157
+Percentage Identity: 0.133
+
+=== A0A2M7FVH5 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:PIW09922.1};
+DE   Flags: Fragment;
+Bit Score: 168.0
+E-value: 8.16e-05
+Alignment Length: 159
+Percentage Identity: 0.163
+
+=== A0A1B6LBK4 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+DE   Flags: Fragment;
+Bit Score: 150.0
+E-value: 8.16e-05
+Alignment Length: 152
+Percentage Identity: 0.138
+
+=== A0A7X9FZY6 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:NMA34658.1};
+Bit Score: 148.0
+E-value: 8.16e-05
+Alignment Length: 156
+Percentage Identity: 0.173
+
+=== A0A837JI45 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 143.0
+E-value: 8.16e-05
+Alignment Length: 159
+Percentage Identity: 0.182
+
+=== A0A7Y7LBR9 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III) {ECO:0000313|EMBL:NVM64889.1};
+Bit Score: 142.0
+E-value: 8.16e-05
+Alignment Length: 158
+Percentage Identity: 0.145
+
+=== A0A2D4VFW6 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 156.0
+E-value: 8.712e-05
+Alignment Length: 156
+Percentage Identity: 0.185
+
+=== A0A7W3WSY1 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:MBB1257941.1};
+Bit Score: 148.0
+E-value: 8.712e-05
+Alignment Length: 157
+Percentage Identity: 0.165
+
+=== I4AJ12 ===
+DE   SubName: Full=Putative phosphatase, C-terminal domain of histone macro H2A1 like protein {ECO:0000313|EMBL:AFM03947.1};
+Bit Score: 140.0
+E-value: 8.712e-05
+Alignment Length: 160
+Percentage Identity: 0.156
+
+=== A0A2T3FZ41 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:PST40584.1};
+Bit Score: 158.0
+E-value: 9.301e-05
+Alignment Length: 155
+Percentage Identity: 0.148
+
+=== A0A7V2NGA6 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 156.0
+E-value: 9.301e-05
+Alignment Length: 157
+Percentage Identity: 0.165
+
+=== A0A3M1BKJ3 ===
+DE   SubName: Full=Appr-1-p processing domain-containing protein {ECO:0000313|EMBL:RME09033.1};
+Bit Score: 149.0
+E-value: 9.301e-05
+Alignment Length: 160
+Percentage Identity: 0.162
+
+=== A0A6M0SUV9 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 147.0
+E-value: 9.301e-05
+Alignment Length: 159
+Percentage Identity: 0.163
+
+=== A0A2E1GUJ1 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:MAU89851.1};
+Bit Score: 149.0
+E-value: 9.93e-05
+Alignment Length: 163
+Percentage Identity: 0.177
+
+=== A0A5C7RJV6 ===
+DE   SubName: Full=Appr-1-p processing domain-containing protein {ECO:0000313|EMBL:TXH71299.1};
+Bit Score: 147.0
+E-value: 9.93e-05
+Alignment Length: 158
+Percentage Identity: 0.189
+
+=== A0A7X9B3U1 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:NMA46559.1};
+Bit Score: 144.0
+E-value: 9.93e-05
+Alignment Length: 156
+Percentage Identity: 0.16
+
+=== D5WX77 ===
+DE   SubName: Full=Appr-1-p processing domain protein {ECO:0000313|EMBL:ADG07858.1};
+Bit Score: 139.0
+E-value: 9.93e-05
+Alignment Length: 156
+Percentage Identity: 0.134
+
+=== A0A7H8K6J9 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:QKW12491.1};
+Bit Score: 153.0
+E-value: 0.000106
+Alignment Length: 161
+Percentage Identity: 0.192
+
+=== A0A2S9YUT5 ===
+DE   SubName: Full=Macro domain protein {ECO:0000313|EMBL:PRQ08875.1};
+Bit Score: 153.0
+E-value: 0.000106
+Alignment Length: 155
+Percentage Identity: 0.167
+
+=== K0XJF6 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 151.0
+E-value: 0.000106
+Alignment Length: 158
+Percentage Identity: 0.151
+
+=== A0A839H1Q3 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III)/uncharacterized protein YwgA {ECO:0000313|EMBL:MBA9079811.1};
+Bit Score: 147.0
+E-value: 0.000106
+Alignment Length: 159
+Percentage Identity: 0.144
+
+=== A0A6F9EGV0 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 143.0
+E-value: 0.000106
+Alignment Length: 155
+Percentage Identity: 0.122
+
+=== A0A401VTS9 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 142.0
+E-value: 0.000106
+Alignment Length: 164
+Percentage Identity: 0.14
+
+=== A0A356ITM9 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:HBO94843.1};
+DE   Flags: Fragment;
+Bit Score: 148.0
+E-value: 0.0001132
+Alignment Length: 162
+Percentage Identity: 0.203
+
+=== V9L100 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase-like protein {ECO:0000313|EMBL:AFP04551.1};
+DE   Flags: Fragment;
+Bit Score: 136.0
+E-value: 0.0001132
+Alignment Length: 157
+Percentage Identity: 0.152
+
+=== A0A2V7Y3A4 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 157.0
+E-value: 0.0001208
+Alignment Length: 160
+Percentage Identity: 0.15
+
+=== A0A848C2R4 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 156.0
+E-value: 0.0001208
+Alignment Length: 155
+Percentage Identity: 0.116
+
+=== A0A2Z6SHG6 ===
+DE   RecName: Full=ADP-ribose 1''-phosphate phosphatase {ECO:0000256|ARBA:ARBA00019744};
+DE            EC=3.1.3.84 {ECO:0000256|ARBA:ARBA00012983};
+Bit Score: 154.0
+E-value: 0.0001208
+Alignment Length: 155
+Percentage Identity: 0.167
+
+=== A0A7V3HUH2 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 143.0
+E-value: 0.0001208
+Alignment Length: 158
+Percentage Identity: 0.145
+
+=== A0A397I2A4 ===
+DE   RecName: Full=ADP-ribose 1''-phosphate phosphatase {ECO:0000256|ARBA:ARBA00019744};
+DE            EC=3.1.3.84 {ECO:0000256|ARBA:ARBA00012983};
+Bit Score: 141.0
+E-value: 0.0001208
+Alignment Length: 157
+Percentage Identity: 0.133
+
+=== A0A0G4HD65 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 136.0
+E-value: 0.0001208
+Alignment Length: 154
+Percentage Identity: 0.123
+
+=== K7RFJ4 ===
+DE   SubName: Full=Putative phosphatase, C-terminal domain of histone macro H2A1 like protein {ECO:0000313|EMBL:AFV75312.1};
+Bit Score: 130.0
+E-value: 0.0001208
+Alignment Length: 164
+Percentage Identity: 0.17
+
+=== A0A7C7ETQ1 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:HHZ05211.1};
+Bit Score: 161.0
+E-value: 0.0001377
+Alignment Length: 155
+Percentage Identity: 0.141
+
+=== A0A1R3FN49 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:OMO36534.1};
+Bit Score: 155.0
+E-value: 0.0001377
+Alignment Length: 162
+Percentage Identity: 0.172
+
+=== A0A015L9B9 ===
+DE   RecName: Full=ADP-ribose 1''-phosphate phosphatase {ECO:0000256|ARBA:ARBA00019744};
+DE            EC=3.1.3.84 {ECO:0000256|ARBA:ARBA00012983};
+Bit Score: 149.0
+E-value: 0.0001377
+Alignment Length: 155
+Percentage Identity: 0.18
+
+=== A0A7Y2SRD1 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:NNJ12959.1};
+Bit Score: 146.0
+E-value: 0.0001377
+Alignment Length: 162
+Percentage Identity: 0.172
+
+=== A0A7R8XBF7 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 145.0
+E-value: 0.0001377
+Alignment Length: 156
+Percentage Identity: 0.153
+
+=== A0A6P8Y663 ===
+DE   SubName: Full=ADP-ribose glycohydrolase OARD1-like {ECO:0000313|RefSeq:XP_034231471.1};
+Bit Score: 144.0
+E-value: 0.0001377
+Alignment Length: 156
+Percentage Identity: 0.16
+
+=== A0A433P4Q5 ===
+DE   RecName: Full=ADP-ribose 1''-phosphate phosphatase {ECO:0000256|ARBA:ARBA00019744};
+DE            EC=3.1.3.84 {ECO:0000256|ARBA:ARBA00012983};
+Bit Score: 144.0
+E-value: 0.0001377
+Alignment Length: 164
+Percentage Identity: 0.134
+
+=== A0A673M2G8 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase 1-like {ECO:0000313|Ensembl:ENSSRHP00000084247.1};
+Bit Score: 144.0
+E-value: 0.0001377
+Alignment Length: 154
+Percentage Identity: 0.116
+
+=== A0A8B6CSY7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VDI08669.1};
+DE   Flags: Fragment;
+Bit Score: 141.0
+E-value: 0.0001377
+Alignment Length: 157
+Percentage Identity: 0.152
+
+=== K1Y813 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 140.0
+E-value: 0.0001377
+Alignment Length: 162
+Percentage Identity: 0.16
+
+=== A0A7S1LVT5 ===
+DE   RecName: Full=CCHC-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.0001377
+Alignment Length: 156
+Percentage Identity: 0.198
+
+=== A0A267FHB4 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 153.0
+E-value: 0.000147
+Alignment Length: 160
+Percentage Identity: 0.181
+
+=== A0A402B7I9 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 147.0
+E-value: 0.000147
+Alignment Length: 157
+Percentage Identity: 0.146
+
+=== A0A6L4AEE0 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:KAB2867397.1};
+Bit Score: 151.0
+E-value: 0.000157
+Alignment Length: 157
+Percentage Identity: 0.146
+
+=== A0A0Q1DSK0 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:KQC47681.1};
+Bit Score: 150.0
+E-value: 0.000157
+Alignment Length: 164
+Percentage Identity: 0.164
+
+=== A0A6P8ZA65 ===
+DE   SubName: Full=Serine/arginine repetitive matrix protein 2-like {ECO:0000313|RefSeq:XP_034247461.1};
+Bit Score: 146.0
+E-value: 0.000157
+Alignment Length: 156
+Percentage Identity: 0.134
+
+=== A0A015JVI8 ===
+DE   RecName: Full=ADP-ribose 1''-phosphate phosphatase {ECO:0000256|ARBA:ARBA00019744};
+DE            EC=3.1.3.84 {ECO:0000256|ARBA:ARBA00012983};
+Bit Score: 145.0
+E-value: 0.000157
+Alignment Length: 155
+Percentage Identity: 0.109
+
+=== A0A1X7UWM0 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 129.0
+E-value: 0.000157
+Alignment Length: 156
+Percentage Identity: 0.108
+
+=== A0A4V6Q6I9 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III) {ECO:0000313|EMBL:TDV40741.1};
+Bit Score: 157.0
+E-value: 0.0001676
+Alignment Length: 159
+Percentage Identity: 0.169
+
+=== A0A845X196 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:NEO84017.1};
+Bit Score: 148.0
+E-value: 0.0001676
+Alignment Length: 165
+Percentage Identity: 0.151
+
+=== A0A7S1VS50 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 144.0
+E-value: 0.0001676
+Alignment Length: 157
+Percentage Identity: 0.178
+
+=== A0A1S3DQH8 ===
+DE   SubName: Full=Uncharacterized protein LOC103522163 {ECO:0000313|RefSeq:XP_008485485.3};
+Bit Score: 140.0
+E-value: 0.0001676
+Alignment Length: 153
+Percentage Identity: 0.137
+
+=== D6TYC9 ===
+DE   SubName: Full=Appr-1-p processing domain protein {ECO:0000313|EMBL:EFH83209.1};
+Bit Score: 130.0
+E-value: 0.0001676
+Alignment Length: 160
+Percentage Identity: 0.15
+
+=== A0A1R2CA94 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 151.0
+E-value: 0.0001789
+Alignment Length: 156
+Percentage Identity: 0.141
+
+=== A0A6G0SVM5 ===
+DE   RecName: Full=Gypsy retrotransposon integrase-like protein 1 {ECO:0000256|ARBA:ARBA00039658};
+Bit Score: 146.0
+E-value: 0.0001789
+Alignment Length: 156
+Percentage Identity: 0.173
+
+=== A0A0K8QWE1 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III), contains Macro domain {ECO:0000313|EMBL:GAP69268.1};
+Bit Score: 144.0
+E-value: 0.0001789
+Alignment Length: 156
+Percentage Identity: 0.153
+
+=== A0A2C9K2G3 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 142.0
+E-value: 0.0001789
+Alignment Length: 154
+Percentage Identity: 0.11
+
+=== A0A1V5PPR0 ===
+DE   SubName: Full=Macro domain protein {ECO:0000313|EMBL:OQA19714.1};
+Bit Score: 156.0
+E-value: 0.000191
+Alignment Length: 155
+Percentage Identity: 0.135
+
+=== A0A1I3EVX0 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 154.0
+E-value: 0.000191
+Alignment Length: 156
+Percentage Identity: 0.128
+
+=== A0A5C7JEG1 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 145.0
+E-value: 0.000191
+Alignment Length: 158
+Percentage Identity: 0.158
+
+=== A0A3B4CAV3 ===
+DE   SubName: Full=O-acyl-ADP-ribose deacylase 1 {ECO:0000313|Ensembl:ENSPNAP00000008011.1};
+Bit Score: 141.0
+E-value: 0.000191
+Alignment Length: 153
+Percentage Identity: 0.117
+
+=== C1BK61 ===
+DE   SubName: Full=C6orf130 {ECO:0000313|EMBL:ACO09414.1};
+Bit Score: 135.0
+E-value: 0.000191
+Alignment Length: 159
+Percentage Identity: 0.125
+
+=== A0A316N0W0 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 124.0
+E-value: 0.000191
+Alignment Length: 164
+Percentage Identity: 0.134
+
+=== A0A515KKA1 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:QDM32241.1};
+Bit Score: 143.0
+E-value: 0.0002039
+Alignment Length: 160
+Percentage Identity: 0.156
+
+=== A0A1W4XWH2 ===
+DE   SubName: Full=Uncharacterized protein LOC108745172 isoform X1 {ECO:0000313|RefSeq:XP_018336779.1, ECO:0000313|RefSeq:XP_025836630.1};
+Bit Score: 141.0
+E-value: 0.0002039
+Alignment Length: 155
+Percentage Identity: 0.135
+
+=== A0A5U8XQ26 ===
+DE   RecName: Full=Appr-1-p processing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 138.0
+E-value: 0.0002039
+Alignment Length: 170
+Percentage Identity: 0.135
+
+=== W7T4H9 ===
+DE   SubName: Full=Appr-1-p processing enzyme {ECO:0000313|EMBL:EWM14881.1};
+Bit Score: 133.0
+E-value: 0.0002039
+Alignment Length: 160
+Percentage Identity: 0.181
+
+=== A0A669ELJ5 ===
+DE   SubName: Full=O-acyl-ADP-ribose deacylase 1 {ECO:0000313|Ensembl:ENSONIP00000071956.1};
+Bit Score: 127.0
+E-value: 0.0002039
+Alignment Length: 160
+Percentage Identity: 0.143
+
+=== A0A248YL10 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 156.0
+E-value: 0.0002177
+Alignment Length: 161
+Percentage Identity: 0.192
+
+=== A0A6G4D9E5 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:NFD87520.1};
+Bit Score: 150.0
+E-value: 0.0002177
+Alignment Length: 157
+Percentage Identity: 0.146
+
+=== A0A817R090 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 136.0
+E-value: 0.0002177
+Alignment Length: 151
+Percentage Identity: 0.172
+
+=== A0A1G3PYX5 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 129.0
+E-value: 0.0002177
+Alignment Length: 165
+Percentage Identity: 0.169
+
+=== A0A831XNU4 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:HEP31950.1};
+Bit Score: 150.0
+E-value: 0.0002324
+Alignment Length: 163
+Percentage Identity: 0.177
+
+=== A0A1H6ACM0 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III), contains Macro domain {ECO:0000313|EMBL:SEG46221.1};
+Bit Score: 149.0
+E-value: 0.0002324
+Alignment Length: 159
+Percentage Identity: 0.188
+
+=== A0A842W4Q7 ===
+DE   SubName: Full=Phosphatase {ECO:0000313|EMBL:MBD3355306.1};
+Bit Score: 149.0
+E-value: 0.0002324
+Alignment Length: 156
+Percentage Identity: 0.134
+
+=== A0A7R7HZA4 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 146.0
+E-value: 0.0002324
+Alignment Length: 161
+Percentage Identity: 0.161
+
+=== A0A1W2E9Z5 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III), contains Macro domain {ECO:0000313|EMBL:SMD06561.1};
+Bit Score: 143.0
+E-value: 0.0002324
+Alignment Length: 163
+Percentage Identity: 0.165
+
+=== A0A1S2L2Y3 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 143.0
+E-value: 0.0002324
+Alignment Length: 151
+Percentage Identity: 0.145
+
+=== A0A662P6X2 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:RLF92787.1};
+Bit Score: 131.0
+E-value: 0.0002324
+Alignment Length: 155
+Percentage Identity: 0.135
+
+=== A0A402A7B8 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 156.0
+E-value: 0.0002482
+Alignment Length: 157
+Percentage Identity: 0.146
+
+=== A0A1E7X7T6 ===
+DE   SubName: Full=RNase III inhibitor {ECO:0000313|EMBL:OFA09012.1};
+Bit Score: 147.0
+E-value: 0.0002482
+Alignment Length: 166
+Percentage Identity: 0.156
+
+=== A0A6G0TCN6 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 145.0
+E-value: 0.0002482
+Alignment Length: 156
+Percentage Identity: 0.173
+
+=== A0A444U970 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase 1 {ECO:0000313|EMBL:RXM31679.1};
+Bit Score: 144.0
+E-value: 0.0002482
+Alignment Length: 153
+Percentage Identity: 0.13
+
+=== A0A0K1EAY8 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:AKT38046.1};
+Bit Score: 143.0
+E-value: 0.0002482
+Alignment Length: 160
+Percentage Identity: 0.193
+
+=== G2LK39 ===
+DE   SubName: Full=Putative phosphatase, C-terminal domain of histone macroH2A1 like protein {ECO:0000313|EMBL:AEP13206.1};
+Bit Score: 141.0
+E-value: 0.0002482
+Alignment Length: 158
+Percentage Identity: 0.139
+
+=== A0A3B6VH20 ===
+DE   SubName: Full=Appr-1-p processing enzyme family protein {ECO:0000313|EMBL:ACN83798.1};
+Bit Score: 135.0
+E-value: 0.0002482
+Alignment Length: 157
+Percentage Identity: 0.146
+
+=== A0A7C2WTB9 ===
+DE   SubName: Full=DUF4433 domain-containing protein {ECO:0000313|EMBL:HEY42098.1};
+Bit Score: 134.0
+E-value: 0.0002482
+Alignment Length: 174
+Percentage Identity: 0.12
+
+=== Q503C5 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase 1 {ECO:0000313|RefSeq:NP_001018591.1};
+DE   SubName: Full=O-acyl-ADP-ribose deacylase 1 {ECO:0000313|Ensembl:ENSDARP00000074549};
+DE   SubName: Full=Zgc:110708 {ECO:0000313|EMBL:AAH95381.1};
+Bit Score: 132.0
+E-value: 0.0002482
+Alignment Length: 155
+Percentage Identity: 0.135
+
+=== A0A484D4V4 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 125.0
+E-value: 0.0002482
+Alignment Length: 160
+Percentage Identity: 0.143
+
+=== A0A3B3V7N6 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 144.0
+E-value: 0.0002649
+Alignment Length: 157
+Percentage Identity: 0.133
+
+=== A0A1I8M674 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase 1 isoform X4 {ECO:0000313|RefSeq:XP_005188759.1};
+Bit Score: 140.0
+E-value: 0.0002649
+Alignment Length: 159
+Percentage Identity: 0.144
+
+=== A0A3B3V7L6 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 138.0
+E-value: 0.0002649
+Alignment Length: 159
+Percentage Identity: 0.125
+
+=== A0A4R4QJJ9 ===
+DE   SubName: Full=Appr-1-p processing domain-containing protein {ECO:0000313|EMBL:TDC35830.1};
+Bit Score: 135.0
+E-value: 0.0002649
+Alignment Length: 162
+Percentage Identity: 0.166
+
+=== A0A7G9LN79 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:QNM90078.1};
+Bit Score: 132.0
+E-value: 0.0002649
+Alignment Length: 160
+Percentage Identity: 0.162
+
+=== A0A7M6DLL5 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 141.0
+E-value: 0.0002829
+Alignment Length: 154
+Percentage Identity: 0.155
+
+=== A0A2P6NZ16 ===
+DE   SubName: Full=Polynucleotide kinase 3-phosphatase {ECO:0000313|EMBL:PRP89190.1};
+Bit Score: 141.0
+E-value: 0.000302
+Alignment Length: 160
+Percentage Identity: 0.168
+
+=== A0A6P8ZZM2 ===
+DE   SubName: Full=ADP-ribose glycohydrolase OARD1-like {ECO:0000313|RefSeq:XP_034250539.1};
+Bit Score: 134.0
+E-value: 0.000302
+Alignment Length: 154
+Percentage Identity: 0.149
+
+=== A0A3M1QP40 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 153.0
+E-value: 0.0003224
+Alignment Length: 151
+Percentage Identity: 0.125
+
+=== A0A2E1AHX2 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|Pfam:PF01661};
+Bit Score: 126.0
+E-value: 0.0003224
+Alignment Length: 159
+Percentage Identity: 0.138
+
+=== A0A7C2A0M8 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 147.0
+E-value: 0.0003442
+Alignment Length: 158
+Percentage Identity: 0.126
+
+=== A0A480AZA4 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 144.0
+E-value: 0.0003442
+Alignment Length: 156
+Percentage Identity: 0.128
+
+=== A0A5C8AZI1 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:TXI92271.1};
+Bit Score: 140.0
+E-value: 0.0003442
+Alignment Length: 163
+Percentage Identity: 0.141
+
+=== W8AS47 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase 1 {ECO:0000313|EMBL:JAB91680.1};
+Bit Score: 137.0
+E-value: 0.0003442
+Alignment Length: 152
+Percentage Identity: 0.125
+
+=== A0A2T0RU88 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III) {ECO:0000313|EMBL:PRY24633.1};
+Bit Score: 134.0
+E-value: 0.0003442
+Alignment Length: 163
+Percentage Identity: 0.177
+
+=== A0A6I7PTN5 ===
+DE   SubName: Full=Appr-1-p processing domain-containing protein {ECO:0000313|EMBL:TVQ80874.1};
+Bit Score: 134.0
+E-value: 0.0003442
+Alignment Length: 152
+Percentage Identity: 0.171
+
+=== B6ELL4 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 133.0
+E-value: 0.0003442
+Alignment Length: 164
+Percentage Identity: 0.146
+
+=== A0A5D4GTU2 ===
+DE   SubName: Full=DUF4433 domain-containing protein {ECO:0000313|EMBL:TYR31758.1};
+Bit Score: 130.0
+E-value: 0.0003442
+Alignment Length: 162
+Percentage Identity: 0.172
+
+=== A0A6B1E9G5 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:MYF33433.1};
+Bit Score: 143.0
+E-value: 0.0003675
+Alignment Length: 162
+Percentage Identity: 0.166
+
+=== A0A7R9GC74 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 143.0
+E-value: 0.0003675
+Alignment Length: 154
+Percentage Identity: 0.149
+
+=== A0A2E4W2R4 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 139.0
+E-value: 0.0003675
+Alignment Length: 156
+Percentage Identity: 0.153
+
+=== A0A2S2NNU8 ===
+DE   RecName: Full=Gypsy retrotransposon integrase-like protein 1 {ECO:0000256|ARBA:ARBA00039658};
+DE   Flags: Fragment;
+Bit Score: 134.0
+E-value: 0.0003675
+Alignment Length: 151
+Percentage Identity: 0.119
+
+=== A0A3B3TNM6 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 133.0
+E-value: 0.0003675
+Alignment Length: 158
+Percentage Identity: 0.126
+
+=== A0A1C5ZNY5 ===
+DE   SubName: Full=Macro domain {ECO:0000313|EMBL:SCI61369.1};
+Bit Score: 131.0
+E-value: 0.0003675
+Alignment Length: 160
+Percentage Identity: 0.15
+
+=== A0A3Q2XX76 ===
+DE   SubName: Full=O-acyl-ADP-ribose deacylase 1 {ECO:0000313|Ensembl:ENSHCOP00000009555.1};
+Bit Score: 127.0
+E-value: 0.0003675
+Alignment Length: 160
+Percentage Identity: 0.168
+
+=== A0A421CDB6 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:RLL84464.1};
+Bit Score: 153.0
+E-value: 0.0003923
+Alignment Length: 160
+Percentage Identity: 0.125
+
+=== U7QAJ7 ===
+DE   SubName: Full=Macro domain protein {ECO:0000313|EMBL:ERT04848.1};
+Bit Score: 127.0
+E-value: 0.0003923
+Alignment Length: 157
+Percentage Identity: 0.159
+
+=== A0A7Y7B3G5 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:NVK78307.1};
+Bit Score: 139.0
+E-value: 0.0004188
+Alignment Length: 138
+Percentage Identity: 0.152
+
+=== A0A0R1E7Z5 ===
+DE   SubName: Full=Uncharacterized protein, isoform B {ECO:0000313|EMBL:KRK05193.1};
+Bit Score: 139.0
+E-value: 0.0004188
+Alignment Length: 155
+Percentage Identity: 0.116
+
+=== A0A6L4YI32 ===
+DE   SubName: Full=Appr-1-p processing domain-containing protein {ECO:0000313|EMBL:KAF0164290.1};
+Bit Score: 136.0
+E-value: 0.0004188
+Alignment Length: 160
+Percentage Identity: 0.137
+
+=== A0A6M0S0J7 ===
+DE   SubName: Full=DUF4433 domain-containing protein {ECO:0000313|EMBL:NEZ61977.1};
+Bit Score: 134.0
+E-value: 0.0004188
+Alignment Length: 183
+Percentage Identity: 0.125
+
+=== A0A1B0ABA9 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EnsemblMetazoa:GPAI040068-PA};
+Bit Score: 144.0
+E-value: 0.0004472
+Alignment Length: 155
+Percentage Identity: 0.141
+
+=== A0A3T1B9N0 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 135.0
+E-value: 0.0004472
+Alignment Length: 156
+Percentage Identity: 0.128
+
+=== A0A2H0XVM7 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 134.0
+E-value: 0.0004472
+Alignment Length: 155
+Percentage Identity: 0.135
+
+=== A0A1F2RHZ1 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 128.0
+E-value: 0.0004472
+Alignment Length: 161
+Percentage Identity: 0.167
+
+=== A0A518WC07 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:QDY06721.1};
+Bit Score: 141.0
+E-value: 0.0004774
+Alignment Length: 160
+Percentage Identity: 0.175
+
+=== A0A660E629 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 132.0
+E-value: 0.0004774
+Alignment Length: 158
+Percentage Identity: 0.12
+
+=== A0A5F0MEG1 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 135.0
+E-value: 0.0005097
+Alignment Length: 157
+Percentage Identity: 0.165
+
+=== A0A7X8UBD7 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:NLV23133.1};
+Bit Score: 135.0
+E-value: 0.0005097
+Alignment Length: 156
+Percentage Identity: 0.16
+
+=== A0A7L5DKY7 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 135.0
+E-value: 0.0005097
+Alignment Length: 161
+Percentage Identity: 0.149
+
+=== A0A450V2H1 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III), contains Macro domain {ECO:0000313|EMBL:VFJ98998.1};
+Bit Score: 145.0
+E-value: 0.0005441
+Alignment Length: 160
+Percentage Identity: 0.15
+
+=== A0A6P2ABD1 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 134.0
+E-value: 0.0005441
+Alignment Length: 161
+Percentage Identity: 0.161
+
+=== A0A3D0IBN8 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+DE   Flags: Fragment;
+Bit Score: 127.0
+E-value: 0.0005441
+Alignment Length: 160
+Percentage Identity: 0.193
+
+=== A0A7C2VWQ3 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:HEX29131.1};
+Bit Score: 127.0
+E-value: 0.0005441
+Alignment Length: 157
+Percentage Identity: 0.165
+
+=== A0A5C0DSY2 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 127.0
+E-value: 0.0005441
+Alignment Length: 157
+Percentage Identity: 0.14
+
+=== A0A6G0X628 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAF0735453.1};
+DE   Flags: Fragment;
+Bit Score: 123.0
+E-value: 0.0005441
+Alignment Length: 161
+Percentage Identity: 0.118
+
+=== X0ZRH0 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 152.0
+E-value: 0.0005809
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A1Y1LH43 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 136.0
+E-value: 0.0005809
+Alignment Length: 156
+Percentage Identity: 0.128
+
+=== A0A6A5CA69 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 129.0
+E-value: 0.0005809
+Alignment Length: 159
+Percentage Identity: 0.106
+
+=== A0A369T518 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:RDD53721.1};
+Bit Score: 124.0
+E-value: 0.0005809
+Alignment Length: 162
+Percentage Identity: 0.135
+
+=== A0A1G5FHU0 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III), contains Macro domain {ECO:0000313|EMBL:SCY38826.1};
+Bit Score: 141.0
+E-value: 0.0006202
+Alignment Length: 153
+Percentage Identity: 0.124
+
+=== A0A7K4CGH0 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:NMB84706.1};
+DE   Flags: Fragment;
+Bit Score: 140.0
+E-value: 0.0006202
+Alignment Length: 160
+Percentage Identity: 0.162
+
+=== A0A219B915 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 139.0
+E-value: 0.0006202
+Alignment Length: 155
+Percentage Identity: 0.135
+
+=== A0A6J1S6A2 ===
+DE   SubName: Full=Uncharacterized protein LOC113203974 isoform X1 {ECO:0000313|RefSeq:XP_026274740.1, ECO:0000313|RefSeq:XP_026274741.1};
+Bit Score: 135.0
+E-value: 0.0006202
+Alignment Length: 159
+Percentage Identity: 0.132
+
+=== A0A0G4FY59 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 135.0
+E-value: 0.0006621
+Alignment Length: 164
+Percentage Identity: 0.103
+
+=== A0A519Q747 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+DE   Flags: Fragment;
+Bit Score: 134.0
+E-value: 0.0006621
+Alignment Length: 162
+Percentage Identity: 0.191
+
+=== A0A6N2DCQ9 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:TVR04735.1};
+Bit Score: 131.0
+E-value: 0.0006621
+Alignment Length: 161
+Percentage Identity: 0.155
+
+=== A0A0R1SE78 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:KRL66878.1};
+Bit Score: 130.0
+E-value: 0.0006621
+Alignment Length: 158
+Percentage Identity: 0.12
+
+=== A0A2D5QID8 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 129.0
+E-value: 0.0006621
+Alignment Length: 159
+Percentage Identity: 0.119
+
+=== A0A0B5AXM2 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 132.0
+E-value: 0.0007069
+Alignment Length: 160
+Percentage Identity: 0.125
+
+=== A0A2S2NKC5 ===
+DE   SubName: Full=Retrovirus-related Pol polyprotein {ECO:0000313|EMBL:MBY17625.1};
+DE   Flags: Fragment;
+Bit Score: 130.0
+E-value: 0.0007069
+Alignment Length: 152
+Percentage Identity: 0.157
+
+=== H1YZI7 ===
+DE   SubName: Full=Appr-1-p processing domain protein {ECO:0000313|EMBL:EHQ36096.1};
+Bit Score: 123.0
+E-value: 0.0007069
+Alignment Length: 162
+Percentage Identity: 0.123
+
+=== A0A0B7N6A4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CEP10599.1};
+Bit Score: 120.0
+E-value: 0.0007069
+Alignment Length: 156
+Percentage Identity: 0.108
+
+=== A0A1V6IPX6 ===
+DE   SubName: Full=Macro domain protein {ECO:0000313|EMBL:OQC52438.1};
+Bit Score: 146.0
+E-value: 0.0007547
+Alignment Length: 152
+Percentage Identity: 0.085
+
+=== A0A6G0VKE1 ===
+DE   SubName: Full=Putative serine/threonine-protein kinase clkA {ECO:0000313|EMBL:KAF0692757.1};
+DE   Flags: Fragment;
+Bit Score: 132.0
+E-value: 0.0007547
+Alignment Length: 153
+Percentage Identity: 0.163
+
+=== A0A3B3BE85 ===
+DE   SubName: Full=O-acyl-ADP-ribose deacylase 1 {ECO:0000313|Ensembl:ENSOMEP00000003785.1};
+Bit Score: 126.0
+E-value: 0.0007547
+Alignment Length: 158
+Percentage Identity: 0.158
+
+=== A0A2Z3HAZ6 ===
+DE   SubName: Full=Phosphatase {ECO:0000313|EMBL:AWM38380.1};
+Bit Score: 124.0
+E-value: 0.0007547
+Alignment Length: 161
+Percentage Identity: 0.124
+
+=== A0A2J4JPN9 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:PLK29836.1};
+Bit Score: 118.0
+E-value: 0.0007547
+Alignment Length: 162
+Percentage Identity: 0.123
+
+=== A0A232EG80 ===
+DE   RecName: Full=Gypsy retrotransposon integrase-like protein 1 {ECO:0000256|ARBA:ARBA00039658};
+Bit Score: 115.0
+E-value: 0.0007547
+Alignment Length: 155
+Percentage Identity: 0.141
+
+=== A0A7X3VJZ8 ===
+DE   SubName: Full=DUF4433 domain-containing protein {ECO:0000313|EMBL:MYA98694.1};
+Bit Score: 113.0
+E-value: 0.0007547
+Alignment Length: 183
+Percentage Identity: 0.158
+
+=== A0A6L9IGW3 ===
+DE   RecName: Full=GNAT family N-acetyltransferase {ECO:0008006|Google:ProtNLM};
+Bit Score: 141.0
+E-value: 0.0008057
+Alignment Length: 151
+Percentage Identity: 0.125
+
+=== A0A397W581 ===
+DE   RecName: Full=ADP-ribose 1''-phosphate phosphatase {ECO:0000256|ARBA:ARBA00019744};
+DE            EC=3.1.3.84 {ECO:0000256|ARBA:ARBA00012983};
+Bit Score: 129.0
+E-value: 0.0008057
+Alignment Length: 148
+Percentage Identity: 0.175
+
+=== A0A094M9U9 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:KFZ44318.1};
+Bit Score: 129.0
+E-value: 0.0008057
+Alignment Length: 157
+Percentage Identity: 0.14
+
+=== A0A2S2PFD8 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase {ECO:0000313|EMBL:MBY28163.1};
+DE   Flags: Fragment;
+Bit Score: 129.0
+E-value: 0.0008057
+Alignment Length: 157
+Percentage Identity: 0.14
+
+=== A0A522U7H6 ===
+DE   SubName: Full=ImmA/IrrE family metallo-endopeptidase {ECO:0000313|EMBL:TAN34130.1};
+Bit Score: 124.0
+E-value: 0.0008057
+Alignment Length: 165
+Percentage Identity: 0.139
+
+=== A0A482ZWZ5 ===
+DE   SubName: Full=ADP-ribose 1''-phosphate phophatase related protein {ECO:0000313|EMBL:SMN10900.1};
+Bit Score: 132.0
+E-value: 0.0008602
+Alignment Length: 174
+Percentage Identity: 0.143
+
+=== A0A1G6N3L6 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III), contains Macro domain {ECO:0000313|EMBL:SDC61735.1};
+Bit Score: 119.0
+E-value: 0.0008602
+Alignment Length: 165
+Percentage Identity: 0.127
+
+=== A0A2E3BYV5 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 132.0
+E-value: 0.0009184
+Alignment Length: 156
+Percentage Identity: 0.115
+
+=== W5JUF1 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 128.0
+E-value: 0.0009184
+Alignment Length: 161
+Percentage Identity: 0.136
+
+=== A0A2B4RC13 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase 1 {ECO:0000313|EMBL:PFX13928.1};
+Bit Score: 115.0
+E-value: 0.0009184
+Alignment Length: 166
+Percentage Identity: 0.162
+
+=== A0A3R5YUY2 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 137.0
+E-value: 0.0009805
+Alignment Length: 154
+Percentage Identity: 0.149
+
+=== A0A6B8RKA6 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 137.0
+E-value: 0.001047
+Alignment Length: 155
+Percentage Identity: 0.116
+
+=== A0A0F9F6T4 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 134.0
+E-value: 0.001047
+Alignment Length: 112
+Percentage Identity: 0.196
+
+=== X0S465 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 129.0
+E-value: 0.001047
+Alignment Length: 167
+Percentage Identity: 0.149
+
+=== Q8IPU1 ===
+DE   SubName: Full=AT19489p {ECO:0000313|EMBL:ACO72855.1};
+DE   SubName: Full=GEO13066p1 {ECO:0000313|EMBL:ANY27211.1};
+Bit Score: 124.0
+E-value: 0.001047
+Alignment Length: 150
+Percentage Identity: 0.126
+
+=== A0A1B6DPA3 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+DE   Flags: Fragment;
+Bit Score: 131.0
+E-value: 0.001118
+Alignment Length: 152
+Percentage Identity: 0.105
+
+=== A0A1Y1LBA8 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 125.0
+E-value: 0.001118
+Alignment Length: 157
+Percentage Identity: 0.133
+
+=== A0A235B981 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 122.0
+E-value: 0.001193
+Alignment Length: 165
+Percentage Identity: 0.133
+
+=== A0A2N1W1M0 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 105.0
+E-value: 0.001193
+Alignment Length: 165
+Percentage Identity: 0.181
+
+=== A0A124E4A8 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 130.0
+E-value: 0.001274
+Alignment Length: 160
+Percentage Identity: 0.162
+
+=== A1BH56 ===
+DE   SubName: Full=Appr-1-p processing domain protein {ECO:0000313|EMBL:ABL65733.1};
+Bit Score: 120.0
+E-value: 0.001274
+Alignment Length: 151
+Percentage Identity: 0.172
+
+=== A0A6G0SW93 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAE9521971.1};
+Bit Score: 119.0
+E-value: 0.001274
+Alignment Length: 157
+Percentage Identity: 0.108
+
+=== E9IIA8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EFZ19695.1};
+DE   Flags: Fragment;
+Bit Score: 117.0
+E-value: 0.001274
+Alignment Length: 155
+Percentage Identity: 0.122
+
+=== K9YIR0 ===
+DE   RecName: Full=DarT domain-containing protein {ECO:0000259|PROSITE:PS52018};
+Bit Score: 102.0
+E-value: 0.001274
+Alignment Length: 161
+Percentage Identity: 0.161
+
+=== A0A3B8T825 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 98.0
+E-value: 0.001274
+Alignment Length: 164
+Percentage Identity: 0.115
+
+=== G5HE65 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 135.0
+E-value: 0.00136
+Alignment Length: 155
+Percentage Identity: 0.154
+
+=== A0A2J7RJD3 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase 1 {ECO:0000313|EMBL:PNF40941.1};
+Bit Score: 126.0
+E-value: 0.00136
+Alignment Length: 154
+Percentage Identity: 0.129
+
+=== A0A3N5WSQ8 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 118.0
+E-value: 0.00136
+Alignment Length: 157
+Percentage Identity: 0.152
+
+=== A0A3E4YKL3 ===
+DE   SubName: Full=DUF1273 family protein {ECO:0000313|EMBL:RGM75288.1};
+Bit Score: 127.0
+E-value: 0.001452
+Alignment Length: 155
+Percentage Identity: 0.122
+
+=== A0A645AR13 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 108.0
+E-value: 0.001452
+Alignment Length: 137
+Percentage Identity: 0.116
+
+=== A0A2M8NRV8 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 131.0
+E-value: 0.00155
+Alignment Length: 152
+Percentage Identity: 0.125
+
+=== A0A369KT78 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|Pfam:PF01661};
+Bit Score: 117.0
+E-value: 0.00155
+Alignment Length: 158
+Percentage Identity: 0.082
+
+=== A0A2H8TVW1 ===
+DE   RecName: Full=RNA-directed DNA polymerase {ECO:0000256|ARBA:ARBA00012493};
+DE            EC=2.7.7.49 {ECO:0000256|ARBA:ARBA00012493};
+Bit Score: 119.0
+E-value: 0.001655
+Alignment Length: 153
+Percentage Identity: 0.156
+
+=== A0A1B6KY07 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 111.0
+E-value: 0.001655
+Alignment Length: 166
+Percentage Identity: 0.144
+
+=== A0A6V7J4V0 ===
+DE   RecName: Full=Gypsy retrotransposon integrase-like protein 1 {ECO:0000256|ARBA:ARBA00039658};
+DE   Flags: Fragment;
+Bit Score: 109.0
+E-value: 0.001655
+Alignment Length: 154
+Percentage Identity: 0.129
+
+=== A0A151IQ05 ===
+DE   RecName: Full=Integrase zinc-binding domain-containing protein {ECO:0000259|Pfam:PF17921};
+Bit Score: 103.0
+E-value: 0.001655
+Alignment Length: 151
+Percentage Identity: 0.139
+
+=== A0A6G0T4I5 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 120.0
+E-value: 0.001767
+Alignment Length: 153
+Percentage Identity: 0.124
+
+=== A0A6J1TEX4 ===
+DE   SubName: Full=ADP-ribose glycohydrolase OARD1-like {ECO:0000313|RefSeq:XP_026291818.2};
+Bit Score: 118.0
+E-value: 0.001767
+Alignment Length: 155
+Percentage Identity: 0.148
+
+=== U4TVH3 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase {ECO:0000313|EMBL:ERL65833.1};
+Bit Score: 126.0
+E-value: 0.001886
+Alignment Length: 160
+Percentage Identity: 0.15
+
+=== A0A6G0YBJ6 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase {ECO:0000313|EMBL:KAF0752543.1};
+DE   Flags: Fragment;
+Bit Score: 119.0
+E-value: 0.001886
+Alignment Length: 152
+Percentage Identity: 0.144
+
+=== A0A3D1FBS4 ===
+DE   SubName: Full=Appr-1-p processing protein {ECO:0000313|EMBL:HCD38293.1};
+Bit Score: 115.0
+E-value: 0.001886
+Alignment Length: 157
+Percentage Identity: 0.133
+
+=== A0A1B6IJQ7 ===
+DE   RecName: Full=SGNH hydrolase-type esterase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.001886
+Alignment Length: 169
+Percentage Identity: 0.147
+
+=== A0A232EHN7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OXU17853.1};
+Bit Score: 98.0
+E-value: 0.002014
+Alignment Length: 153
+Percentage Identity: 0.13
+
+=== A0A0F8YKY2 ===
+DE   RecName: Full=DUF5678 domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 130.0
+E-value: 0.00215
+Alignment Length: 83
+Percentage Identity: 0.253
+
+=== A0A497G472 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:RLF00948.1};
+Bit Score: 104.0
+E-value: 0.00215
+Alignment Length: 164
+Percentage Identity: 0.158
+
+=== A0A7Y7EDK3 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:NVK84841.1};
+Bit Score: 129.0
+E-value: 0.002295
+Alignment Length: 163
+Percentage Identity: 0.134
+
+=== A0A6G0VVL3 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:KAF0709813.1};
+Bit Score: 122.0
+E-value: 0.002295
+Alignment Length: 154
+Percentage Identity: 0.09
+
+=== A0A3M1AI25 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:RMD95466.1};
+Bit Score: 109.0
+E-value: 0.002295
+Alignment Length: 162
+Percentage Identity: 0.16
+
+=== O67112 ===
+DE   RecName: Full=Uncharacterized protein aq_987;
+Bit Score: 105.0
+E-value: 0.002295
+Alignment Length: 163
+Percentage Identity: 0.153
+
+=== A0A843GN99 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.00245
+Alignment Length: 174
+Percentage Identity: 0.109
+
+=== A0A4W6DEK9 ===
+DE   SubName: Full=O-acyl-ADP-ribose deacylase 1 {ECO:0000313|Ensembl:ENSLCAP00010023162.1};
+Bit Score: 103.0
+E-value: 0.00245
+Alignment Length: 162
+Percentage Identity: 0.117
+
+=== A0A2N2GNA5 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 101.0
+E-value: 0.00245
+Alignment Length: 165
+Percentage Identity: 0.127
+
+=== A0A151IPH0 ===
+DE   RecName: Full=Integrase zinc-binding domain-containing protein {ECO:0000259|Pfam:PF17921};
+Bit Score: 93.0
+E-value: 0.00245
+Alignment Length: 164
+Percentage Identity: 0.14
+
+=== A0A430R796 ===
+DE   RecName: Full=Appr-1-p processing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 125.0
+E-value: 0.002616
+Alignment Length: 122
+Percentage Identity: 0.188
+
+=== A0A0C9M7D6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAN06006.1};
+Bit Score: 117.0
+E-value: 0.002616
+Alignment Length: 154
+Percentage Identity: 0.097
+
+=== A0A7S8IEF4 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 126.0
+E-value: 0.002793
+Alignment Length: 151
+Percentage Identity: 0.152
+
+=== A0A2E8I6S1 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 122.0
+E-value: 0.002793
+Alignment Length: 158
+Percentage Identity: 0.126
+
+=== A0A7J3PN41 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:HGU72520.1};
+Bit Score: 111.0
+E-value: 0.002982
+Alignment Length: 165
+Percentage Identity: 0.145
+
+=== A0A2S2PUB9 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase {ECO:0000313|EMBL:MBY33081.1};
+DE   Flags: Fragment;
+Bit Score: 105.0
+E-value: 0.002982
+Alignment Length: 139
+Percentage Identity: 0.122
+
+=== A0A1B6KU83 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 111.0
+E-value: 0.003183
+Alignment Length: 166
+Percentage Identity: 0.138
+
+=== A0A2S2NEC9 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase {ECO:0000313|EMBL:MBY15543.1};
+DE   Flags: Fragment;
+Bit Score: 114.0
+E-value: 0.003628
+Alignment Length: 154
+Percentage Identity: 0.123
+
+=== A0A1Y3GFL7 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III) containing Macro domain {ECO:0000313|EMBL:OUJ19093.1};
+Bit Score: 112.0
+E-value: 0.003628
+Alignment Length: 166
+Percentage Identity: 0.15
+
+=== A0A1B6M7F4 ===
+DE   RecName: Full=SGNH hydrolase-type esterase domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 109.0
+E-value: 0.003628
+Alignment Length: 161
+Percentage Identity: 0.111
+
+=== A0A2G4SMS7 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.003628
+Alignment Length: 156
+Percentage Identity: 0.147
+
+=== A0A1B6LJZ9 ===
+DE   RecName: Full=Ubiquitin-like protease family profile domain-containing protein {ECO:0000259|PROSITE:PS50600};
+DE   Flags: Fragment;
+Bit Score: 107.0
+E-value: 0.003628
+Alignment Length: 158
+Percentage Identity: 0.158
+
+=== A0A2S2R4H6 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase {ECO:0000313|EMBL:MBY84937.1};
+Bit Score: 115.0
+E-value: 0.003874
+Alignment Length: 155
+Percentage Identity: 0.122
+
+=== A0A397HGZ8 ===
+DE   RecName: Full=ADP-ribose 1''-phosphate phosphatase {ECO:0000256|ARBA:ARBA00019744};
+DE            EC=3.1.3.84 {ECO:0000256|ARBA:ARBA00012983};
+Bit Score: 107.0
+E-value: 0.003874
+Alignment Length: 166
+Percentage Identity: 0.12
+
+=== A0A5C7LWV3 ===
+DE   RecName: Full=DUF4265 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.003874
+Alignment Length: 167
+Percentage Identity: 0.125
+
+=== A0A1B6LAN3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:JAT20726.1};
+DE   Flags: Fragment;
+Bit Score: 106.0
+E-value: 0.004136
+Alignment Length: 163
+Percentage Identity: 0.128
+
+=== A0A6H5IF59 ===
+DE   RecName: Full=Reverse transcriptase/retrotransposon-derived protein RNase H-like domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 106.0
+E-value: 0.004136
+Alignment Length: 153
+Percentage Identity: 0.098
+
+=== A0A0R1EDI3 ===
+DE   SubName: Full=Uncharacterized protein, isoform B {ECO:0000313|EMBL:KRK05194.1};
+Bit Score: 102.0
+E-value: 0.004136
+Alignment Length: 159
+Percentage Identity: 0.125
+
+=== A0A2S2QM51 ===
+DE   RecName: Full=RNA-directed DNA polymerase {ECO:0000256|ARBA:ARBA00012493};
+DE            EC=2.7.7.49 {ECO:0000256|ARBA:ARBA00012493};
+DE   Flags: Fragment;
+Bit Score: 111.0
+E-value: 0.004415
+Alignment Length: 158
+Percentage Identity: 0.113
+
+=== A0A6P7FLL8 ===
+DE   SubName: Full=Uncharacterized protein LOC114330619 {ECO:0000313|RefSeq:XP_028135817.1};
+Bit Score: 111.0
+E-value: 0.004415
+Alignment Length: 155
+Percentage Identity: 0.109
+
+=== A0A168PCV6 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase {ECO:0000313|EMBL:OAA87591.1};
+Bit Score: 91.0
+E-value: 0.004415
+Alignment Length: 178
+Percentage Identity: 0.123
+
+=== D5U1E5 ===
+DE   SubName: Full=Appr-1-p processing domain protein {ECO:0000313|EMBL:ADG90945.1};
+Bit Score: 111.0
+E-value: 0.004714
+Alignment Length: 160
+Percentage Identity: 0.137
+
+=== A0A7C2XMW0 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:HET80191.1};
+Bit Score: 103.0
+E-value: 0.004714
+Alignment Length: 162
+Percentage Identity: 0.148
+
+=== A0A6P7GRJ7 ===
+DE   SubName: Full=Probable serine/threonine-protein kinase DDB_G0272092 {ECO:0000313|RefSeq:XP_028152481.1};
+Bit Score: 101.0
+E-value: 0.004714
+Alignment Length: 153
+Percentage Identity: 0.098
+
+=== A0A6P8YNF3 ===
+DE   SubName: Full=Uncharacterized protein LOC117643545 isoform X2 {ECO:0000313|RefSeq:XP_034238375.1, ECO:0000313|RefSeq:XP_034238376.1};
+Bit Score: 119.0
+E-value: 0.005033
+Alignment Length: 156
+Percentage Identity: 0.134
+
+=== A0A6L2Q6S2 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 114.0
+E-value: 0.005033
+Alignment Length: 154
+Percentage Identity: 0.11
+
+=== A0A653CC87 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.005033
+Alignment Length: 149
+Percentage Identity: 0.107
+
+=== A0A1C6EKX3 ===
+DE   SubName: Full=RNase III inhibitor {ECO:0000313|EMBL:SCJ21207.1};
+Bit Score: 96.0
+E-value: 0.005033
+Alignment Length: 172
+Percentage Identity: 0.116
+
+=== A0A2H8THY5 ===
+DE   RecName: Full=RNA-directed DNA polymerase {ECO:0000256|ARBA:ARBA00012493};
+DE            EC=2.7.7.49 {ECO:0000256|ARBA:ARBA00012493};
+Bit Score: 116.0
+E-value: 0.005373
+Alignment Length: 153
+Percentage Identity: 0.143
+
+=== A0A6G0U9B6 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 112.0
+E-value: 0.005736
+Alignment Length: 153
+Percentage Identity: 0.111
+
+=== A0A5E4NGK7 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 106.0
+E-value: 0.005736
+Alignment Length: 156
+Percentage Identity: 0.141
+
+=== A0A7C4MUW3 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.005736
+Alignment Length: 129
+Percentage Identity: 0.17
+
+=== A0A1B6L986 ===
+DE   RecName: Full=SGNH hydrolase-type esterase domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 101.0
+E-value: 0.005736
+Alignment Length: 167
+Percentage Identity: 0.113
+
+=== A0A2E0L6B5 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.006124
+Alignment Length: 152
+Percentage Identity: 0.105
+
+=== X1M359 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.006124
+Alignment Length: 162
+Percentage Identity: 0.135
+
+=== U7P9H4 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+DE   Flags: Fragment;
+Bit Score: 103.0
+E-value: 0.006124
+Alignment Length: 146
+Percentage Identity: 0.184
+
+=== A0A2S2PRC4 ===
+DE   RecName: Full=Gypsy retrotransposon integrase-like protein 1 {ECO:0000256|ARBA:ARBA00039658};
+DE   Flags: Fragment;
+Bit Score: 104.0
+E-value: 0.006538
+Alignment Length: 147
+Percentage Identity: 0.081
+
+=== A0A1B6HIV0 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 102.0
+E-value: 0.006538
+Alignment Length: 163
+Percentage Identity: 0.147
+
+=== A0A7C3Y7L0 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:HGE05082.1};
+Bit Score: 101.0
+E-value: 0.006538
+Alignment Length: 159
+Percentage Identity: 0.138
+
+=== A0A6G0U588 ===
+DE   RecName: Full=O-acetyl-ADP-ribose deacetylase {ECO:0008006|Google:ProtNLM};
+Bit Score: 100.0
+E-value: 0.006538
+Alignment Length: 153
+Percentage Identity: 0.143
+
+=== A0A5E4NK47 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 104.0
+E-value: 0.00698
+Alignment Length: 156
+Percentage Identity: 0.141
+
+=== A0A6G0WN75 ===
+DE   SubName: Full=Putative serine/threonine-protein kinase isoform X3 {ECO:0000313|EMBL:KAF0728771.1};
+DE   Flags: Fragment;
+Bit Score: 111.0
+E-value: 0.007452
+Alignment Length: 154
+Percentage Identity: 0.142
+
+=== A0A1B6LAY9 ===
+DE   RecName: Full=DRBM domain-containing protein {ECO:0000259|PROSITE:PS50137};
+Bit Score: 98.0
+E-value: 0.007452
+Alignment Length: 165
+Percentage Identity: 0.145
+
+=== A0A1B6KF88 ===
+DE   RecName: Full=PHD-type domain-containing protein {ECO:0000259|PROSITE:PS50016};
+Bit Score: 91.0
+E-value: 0.007452
+Alignment Length: 167
+Percentage Identity: 0.131
+
+=== A0A6G0T3N9 ===
+DE   RecName: Full=Retrotransposon gag domain-containing protein {ECO:0000259|Pfam:PF03732};
+Bit Score: 105.0
+E-value: 0.007956
+Alignment Length: 154
+Percentage Identity: 0.129
+
+=== A0A1I2H7I4 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase (Regulator of RNase III), contains Macro domain {ECO:0000313|EMBL:SFF25642.1};
+Bit Score: 99.0
+E-value: 0.007956
+Alignment Length: 163
+Percentage Identity: 0.134
+
+=== A0A6G0TZ00 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 105.0
+E-value: 0.008494
+Alignment Length: 155
+Percentage Identity: 0.148
+
+=== A0A1B6HI91 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 102.0
+E-value: 0.008494
+Alignment Length: 162
+Percentage Identity: 0.123
+
+=== A0A1B6FVK7 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 102.0
+E-value: 0.009068
+Alignment Length: 164
+Percentage Identity: 0.14
+
+=== A0A1B6MHS0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:JAT35464.1};
+DE   Flags: Fragment;
+Bit Score: 99.0
+E-value: 0.009068
+Alignment Length: 159
+Percentage Identity: 0.106
+
+=== A0A3Q1GHI1 ===
+DE   SubName: Full=O-acyl-ADP-ribose deacylase 1 {ECO:0000313|Ensembl:ENSAPOP00000029858.1};
+Bit Score: 98.0
+E-value: 0.009068
+Alignment Length: 206
+Percentage Identity: 0.121
+
+=== A0A2P8HBL8 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 96.0
+E-value: 0.009068
+Alignment Length: 158
+Percentage Identity: 0.12
+
+=== A0A3A0AZQ4 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 94.0
+E-value: 0.009068
+Alignment Length: 174
+Percentage Identity: 0.114
+
+=== A0A7J3P500 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:HGU39362.1};
+Bit Score: 104.0
+E-value: 0.009681
+Alignment Length: 164
+Percentage Identity: 0.134
+
+=== A0A1B6KED1 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 95.0
+E-value: 0.009681
+Alignment Length: 162
+Percentage Identity: 0.111
+
+=== A0A6J3LCC9 ===
+DE   RecName: Full=RNA-directed DNA polymerase {ECO:0000256|ARBA:ARBA00012493};
+DE            EC=2.7.7.49 {ECO:0000256|ARBA:ARBA00012493};
+Bit Score: 88.0
+E-value: 0.009681
+Alignment Length: 154
+Percentage Identity: 0.103
+
+=== A0A1P8FA90 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 111.0
+E-value: 0.01034
+Alignment Length: 145
+Percentage Identity: 0.165
+
+=== A0A6G0WCQ1 ===
+DE   SubName: Full=Retrovirus-related Pol polyprotein {ECO:0000313|EMBL:KAF0725088.1};
+Bit Score: 104.0
+E-value: 0.01034
+Alignment Length: 151
+Percentage Identity: 0.112
+
+=== A0A1B6MK86 ===
+DE   RecName: Full=SGNH hydrolase-type esterase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 97.0
+E-value: 0.01034
+Alignment Length: 161
+Percentage Identity: 0.161
+
+=== A0A3M1PAY2 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:RMF63910.1};
+Bit Score: 84.0
+E-value: 0.01034
+Alignment Length: 165
+Percentage Identity: 0.181
+
+=== A0A417AIU8 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 110.0
+E-value: 0.01103
+Alignment Length: 162
+Percentage Identity: 0.123
+
+=== Q9YBE9 ===
+DE   RecName: Full=Uncharacterized protein APE_1648.1;
+Bit Score: 96.0
+E-value: 0.01103
+Alignment Length: 163
+Percentage Identity: 0.11
+
+=== N6UT60 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+DE   Flags: Fragment;
+Bit Score: 104.0
+E-value: 0.01178
+Alignment Length: 155
+Percentage Identity: 0.122
+
+=== A0A1B6KS90 ===
+DE   RecName: Full=Caspase family p20 domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 96.0
+E-value: 0.01178
+Alignment Length: 159
+Percentage Identity: 0.1
+
+=== A0A6H5HWL6 ===
+DE   RecName: Full=RNA-directed DNA polymerase {ECO:0000256|ARBA:ARBA00012493};
+DE            EC=2.7.7.49 {ECO:0000256|ARBA:ARBA00012493};
+Bit Score: 93.0
+E-value: 0.01178
+Alignment Length: 154
+Percentage Identity: 0.09
+
+=== D6WDE9 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 89.0
+E-value: 0.01178
+Alignment Length: 156
+Percentage Identity: 0.134
+
+=== A0A263BTP2 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 94.0
+E-value: 0.01258
+Alignment Length: 137
+Percentage Identity: 0.167
+
+=== A0A3A4ZRG5 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:RJR29116.1};
+Bit Score: 94.0
+E-value: 0.01258
+Alignment Length: 150
+Percentage Identity: 0.166
+
+=== A0A2S2QY84 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase {ECO:0000313|EMBL:MBY82460.1};
+DE   Flags: Fragment;
+Bit Score: 91.0
+E-value: 0.01258
+Alignment Length: 159
+Percentage Identity: 0.132
+
+=== A0A7I6N6I7 ===
+DE   SubName: Full=Putative Appr-1-p processing enzyme family protein {ECO:0000313|EMBL:BBB39316.1};
+Bit Score: 88.0
+E-value: 0.01258
+Alignment Length: 181
+Percentage Identity: 0.121
+
+=== A0A6V7IK48 ===
+DE   RecName: Full=RNA-directed DNA polymerase {ECO:0000256|ARBA:ARBA00012493};
+DE            EC=2.7.7.49 {ECO:0000256|ARBA:ARBA00012493};
+DE   Flags: Fragment;
+Bit Score: 86.0
+E-value: 0.01258
+Alignment Length: 157
+Percentage Identity: 0.108
+
+=== A0A7J2ZH94 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:HFZ38713.1};
+Bit Score: 96.0
+E-value: 0.01343
+Alignment Length: 164
+Percentage Identity: 0.164
+
+=== A0A6G0YBY7 ===
+DE   RecName: Full=Ubiquitin-like protease family profile domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 98.0
+E-value: 0.01434
+Alignment Length: 156
+Percentage Identity: 0.096
+
+=== A0A6G0Y0J7 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:KAF0746774.1};
+DE   Flags: Fragment;
+Bit Score: 104.0
+E-value: 0.01634
+Alignment Length: 155
+Percentage Identity: 0.116
+
+=== A0A7J2M3A5 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:HDM92830.1};
+Bit Score: 97.0
+E-value: 0.01634
+Alignment Length: 167
+Percentage Identity: 0.137
+
+=== A0A0D0SLB9 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|Pfam:PF01661};
+Bit Score: 94.0
+E-value: 0.01634
+Alignment Length: 148
+Percentage Identity: 0.135
+
+=== A0A6H5J4K1 ===
+DE   RecName: Full=RNA-directed DNA polymerase {ECO:0000256|ARBA:ARBA00012493};
+DE            EC=2.7.7.49 {ECO:0000256|ARBA:ARBA00012493};
+Bit Score: 87.0
+E-value: 0.01634
+Alignment Length: 158
+Percentage Identity: 0.094
+
+=== A0A5B8XQ00 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 85.0
+E-value: 0.01634
+Alignment Length: 169
+Percentage Identity: 0.106
+
+=== A0A662UKZ1 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:RLG78907.1};
+Bit Score: 80.0
+E-value: 0.01634
+Alignment Length: 148
+Percentage Identity: 0.141
+
+=== A0A6G0TPH6 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 97.0
+E-value: 0.01745
+Alignment Length: 156
+Percentage Identity: 0.16
+
+=== A0A2J6XLA9 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase {ECO:0000313|EMBL:PMP91764.1};
+Bit Score: 97.0
+E-value: 0.01862
+Alignment Length: 164
+Percentage Identity: 0.14
+
+=== A0A662GXM2 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:RLE77343.1};
+Bit Score: 92.0
+E-value: 0.01862
+Alignment Length: 167
+Percentage Identity: 0.125
+
+=== E8R8K9 ===
+DE   SubName: Full=Appr-1-p processing domain protein {ECO:0000313|EMBL:ADV64835.1};
+DE   Flags: Precursor;
+Bit Score: 90.0
+E-value: 0.01862
+Alignment Length: 160
+Percentage Identity: 0.131
+
+=== A0A1B6K9K7 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 88.0
+E-value: 0.01862
+Alignment Length: 160
+Percentage Identity: 0.125
+
+=== A0A1B6JW58 ===
+DE   RecName: Full=OSK domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 94.0
+E-value: 0.01988
+Alignment Length: 157
+Percentage Identity: 0.14
+
+=== A0A7V4G1C9 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:HGR91354.1};
+Bit Score: 91.0
+E-value: 0.01988
+Alignment Length: 165
+Percentage Identity: 0.121
+
+=== A0A1B6MDA0 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 90.0
+E-value: 0.01988
+Alignment Length: 165
+Percentage Identity: 0.115
+
+=== H3SNE2 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 87.0
+E-value: 0.01988
+Alignment Length: 139
+Percentage Identity: 0.165
+
+=== A0A7X3YSV9 ===
+DE   SubName: Full=MBL fold metallo-hydrolase {ECO:0000313|EMBL:MYF24036.1};
+DE   Flags: Fragment;
+Bit Score: 90.0
+E-value: 0.02123
+Alignment Length: 165
+Percentage Identity: 0.151
+
+=== A0A6H5I6J4 ===
+DE   RecName: Full=RNA-directed DNA polymerase {ECO:0000256|ARBA:ARBA00012493};
+DE            EC=2.7.7.49 {ECO:0000256|ARBA:ARBA00012493};
+Bit Score: 90.0
+E-value: 0.02123
+Alignment Length: 155
+Percentage Identity: 0.116
+
+=== A0A6G1WY85 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:MQY68230.1};
+Bit Score: 88.0
+E-value: 0.02123
+Alignment Length: 179
+Percentage Identity: 0.122
+
+=== A0A2H8U190 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase C6orf130 {ECO:0000313|EMBL:MBW19811.1};
+Bit Score: 99.0
+E-value: 0.02266
+Alignment Length: 156
+Percentage Identity: 0.147
+
+=== J9CL19 ===
+DE   SubName: Full=Protein containing Appr-1-p processing domain protein {ECO:0000313|EMBL:EJX00771.1};
+DE   Flags: Fragment;
+Bit Score: 92.0
+E-value: 0.02266
+Alignment Length: 114
+Percentage Identity: 0.14
+
+=== B5Y6U5 ===
+DE   SubName: Full=Appr-1-p processing enzyme family protein {ECO:0000313|EMBL:ACI18171.1};
+Bit Score: 84.0
+E-value: 0.02266
+Alignment Length: 161
+Percentage Identity: 0.155
+
+=== A0A843I3S7 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:MBP1449368.1};
+Bit Score: 94.0
+E-value: 0.0242
+Alignment Length: 162
+Percentage Identity: 0.135
+
+=== A0A1B6KDU3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:JAT09628.1};
+Bit Score: 100.0
+E-value: 0.02583
+Alignment Length: 163
+Percentage Identity: 0.098
+
+=== A0A1B6MP35 ===
+DE   RecName: Full=SGNH hydrolase-type esterase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 96.0
+E-value: 0.02758
+Alignment Length: 163
+Percentage Identity: 0.122
+
+=== A0A6G0XR24 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:KAF0742801.1};
+DE   Flags: Fragment;
+Bit Score: 92.0
+E-value: 0.02758
+Alignment Length: 136
+Percentage Identity: 0.11
+
+=== A0A0F9UZD9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKN66646.1};
+Bit Score: 88.0
+E-value: 0.02758
+Alignment Length: 157
+Percentage Identity: 0.133
+
+=== A0A4Q5Z8F9 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 72.0
+E-value: 0.03143
+Alignment Length: 142
+Percentage Identity: 0.14
+
+=== A0A2S2QPU6 ===
+DE   RecName: Full=RNA-directed DNA polymerase {ECO:0000256|ARBA:ARBA00012493};
+DE            EC=2.7.7.49 {ECO:0000256|ARBA:ARBA00012493};
+Bit Score: 91.0
+E-value: 0.03356
+Alignment Length: 158
+Percentage Identity: 0.12
+
+=== A0A367J6Q5 ===
+DE   RecName: Full=Peptidase M24 domain-containing protein {ECO:0000259|Pfam:PF00557};
+Bit Score: 90.0
+E-value: 0.03356
+Alignment Length: 156
+Percentage Identity: 0.115
+
+=== A0A6P7GU85 ===
+DE   SubName: Full=Uncharacterized protein LOC114346539 {ECO:0000313|RefSeq:XP_028153079.1};
+Bit Score: 81.0
+E-value: 0.03356
+Alignment Length: 166
+Percentage Identity: 0.15
+
+=== A0A653C4Y8 ===
+DE   RecName: Full=RNA-directed DNA polymerase {ECO:0000256|ARBA:ARBA00012493};
+DE            EC=2.7.7.49 {ECO:0000256|ARBA:ARBA00012493};
+Bit Score: 96.0
+E-value: 0.03583
+Alignment Length: 152
+Percentage Identity: 0.125
+
+=== A0A7J3NL23 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:HGU08714.1};
+Bit Score: 79.0
+E-value: 0.03583
+Alignment Length: 172
+Percentage Identity: 0.104
+
+=== A0A2S2PCR1 ===
+DE   SubName: Full=O-acetyl-ADP-ribose deacetylase {ECO:0000313|EMBL:MBY26726.1};
+DE   Flags: Fragment;
+Bit Score: 92.0
+E-value: 0.03825
+Alignment Length: 157
+Percentage Identity: 0.127
+
+=== A0A662GYW9 ===
+DE   SubName: Full=Macro domain-containing protein {ECO:0000313|EMBL:RLE77496.1};
+Bit Score: 82.0
+E-value: 0.03825
+Alignment Length: 166
+Percentage Identity: 0.132
+
+=== A0A6V7IIQ6 ===
+DE   RecName: Full=Integrase zinc-binding domain-containing protein {ECO:0000259|Pfam:PF17921};
+DE   Flags: Fragment;
+Bit Score: 76.0
+E-value: 0.03825
+Alignment Length: 152
+Percentage Identity: 0.138
+
+=== A0A7V7XD95 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 94.0
+E-value: 0.04084
+Alignment Length: 155
+Percentage Identity: 0.122
+
+=== A0A1B6L7N4 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+DE   Flags: Fragment;
+Bit Score: 92.0
+E-value: 0.04084
+Alignment Length: 139
+Percentage Identity: 0.115
+
+=== A0A2G6D3S1 ===
+DE   RecName: Full=Cytosol aminopeptidase domain-containing protein {ECO:0000259|Pfam:PF00883};
+Bit Score: 75.0
+E-value: 0.04084
+Alignment Length: 193
+Percentage Identity: 0.134
+
+=== A0A6G0Y9X5 ===
+DE   RecName: Full=Integrase zinc-binding domain-containing protein {ECO:0000259|Pfam:PF17921};
+Bit Score: 96.0
+E-value: 0.0436
+Alignment Length: 157
+Percentage Identity: 0.121
+
+=== A0A7G1KC43 ===
+DE   RecName: Full=Macro domain-containing protein {ECO:0000259|PROSITE:PS51154};
+Bit Score: 99.0
+E-value: 0.04655
+Alignment Length: 159
+Percentage Identity: 0.163
+
+=== A0A1B6M2G8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:JAT30125.1};
+DE   Flags: Fragment;
+Bit Score: 83.0
+E-value: 0.04655
+Alignment Length: 165
+Percentage Identity: 0.133
+
+=== A0A1B6KJT4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:JAT11713.1};
+DE   Flags: Fragment;
+Bit Score: 81.0
+E-value: 0.04655
+Alignment Length: 161
+Percentage Identity: 0.124
+
+=== A0A0J7KDX8 ===
+DE   RecName: Full=Gypsy retrotransposon integrase-like protein 1 {ECO:0000256|ARBA:ARBA00039658};
+Bit Score: 78.0
+E-value: 0.04655
+Alignment Length: 151
+Percentage Identity: 0.092
+
+=== A0A5C6E3V1 ===
+DE   RecName: Full=ribonuclease H {ECO:0000256|ARBA:ARBA00012180};
+DE            EC=3.1.26.4 {ECO:0000256|ARBA:ARBA00012180};
+Bit Score: 86.0
+E-value: 0.04969
+Alignment Length: 161
+Percentage Identity: 0.118
+
+=== G0EEG4 ===
+DE   SubName: Full=Appr-1-p processing domain protein {ECO:0000313|EMBL:AEM38005.1};
+Bit Score: 78.0
+E-value: 0.04969
+Alignment Length: 165
+Percentage Identity: 0.121
+

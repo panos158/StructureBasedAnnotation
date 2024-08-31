@@ -1,0 +1,28 @@
+=== A0A5C7JNX2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TXG83285.1};
+Bit Score: 164.0
+E-value: 0.0002204
+Alignment Length: 145
+Percentage Identity: 0.151
+
+=== A0A3Z4X5X2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EAC0255614.1};
+Bit Score: 141.0
+E-value: 0.001764
+Alignment Length: 157
+Percentage Identity: 0.114
+
+=== A0A256YFM1 ===
+DE   RecName: Full=Cytotoxic translational repressor of toxin-antitoxin stability system {ECO:0008006|Google:ProtNLM};
+Bit Score: 68.0
+E-value: 0.03205
+Alignment Length: 107
+Percentage Identity: 0.121
+
+=== A0A7C4VCN5 ===
+DE   RecName: Full=TubC N-terminal docking domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 65.0
+E-value: 0.03413
+Alignment Length: 134
+Percentage Identity: 0.111
+

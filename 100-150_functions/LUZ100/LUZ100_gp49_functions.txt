@@ -1,0 +1,1120 @@
+=== A0A0U1PR60 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 331.0
+E-value: 1.156e-09
+Alignment Length: 134
+Percentage Identity: 0.328
+
+=== A0A0N9WN70 ===
+DE   RecName: Full=Tail fiber assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 321.0
+E-value: 1.486e-09
+Alignment Length: 138
+Percentage Identity: 0.362
+
+=== A0A399PZJ5 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 311.0
+E-value: 2.165e-09
+Alignment Length: 135
+Percentage Identity: 0.37
+
+=== A0A023WVR1 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:AHY43815.1};
+Bit Score: 249.0
+E-value: 2.662e-08
+Alignment Length: 136
+Percentage Identity: 0.352
+
+=== A0A6L5HJG2 ===
+DE   RecName: Full=Tail assembly chaperone {ECO:0008006|Google:ProtNLM};
+Bit Score: 256.0
+E-value: 1.2e-07
+Alignment Length: 159
+Percentage Identity: 0.276
+
+=== A0A2S8PTN0 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:PQQ22112.1};
+Bit Score: 234.0
+E-value: 2.11e-07
+Alignment Length: 142
+Percentage Identity: 0.218
+
+=== A0A5D4YFI5 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:TYT35719.1};
+Bit Score: 260.0
+E-value: 2.392e-07
+Alignment Length: 140
+Percentage Identity: 0.257
+
+=== A0A085JCX8 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:KFD18324.1};
+Bit Score: 225.0
+E-value: 2.547e-07
+Alignment Length: 140
+Percentage Identity: 0.257
+
+=== A0A0J1N7J0 ===
+DE   RecName: Full=Phage tail fiber assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 227.0
+E-value: 3.273e-07
+Alignment Length: 140
+Percentage Identity: 0.207
+
+=== A0A3G2I9A2 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:AYN25787.1};
+Bit Score: 226.0
+E-value: 4.479e-07
+Alignment Length: 141
+Percentage Identity: 0.191
+
+=== A0A6L9JIU7 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:NDL39238.1};
+Bit Score: 233.0
+E-value: 4.769e-07
+Alignment Length: 145
+Percentage Identity: 0.227
+
+=== A0A1H9W380 ===
+DE   RecName: Full=DUF4376 domain-containing protein {ECO:0000259|Pfam:PF14301};
+Bit Score: 197.0
+E-value: 4.769e-07
+Alignment Length: 161
+Percentage Identity: 0.223
+
+=== A0A807LDM0 ===
+DE   RecName: Full=Tail fiber assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 208.0
+E-value: 5.407e-07
+Alignment Length: 148
+Percentage Identity: 0.243
+
+=== A0A741M1S9 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:HAF0810140.1};
+Bit Score: 251.0
+E-value: 5.757e-07
+Alignment Length: 141
+Percentage Identity: 0.269
+
+=== A0A0A3ZBR4 ===
+DE   RecName: Full=Tail fiber assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 212.0
+E-value: 9.509e-07
+Alignment Length: 140
+Percentage Identity: 0.192
+
+=== A0A6N8NTV2 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:MWR93323.1};
+DE   Flags: Fragment;
+Bit Score: 208.0
+E-value: 9.509e-07
+Alignment Length: 127
+Percentage Identity: 0.251
+
+=== A0A6B2FQM4 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:NDJ58055.1};
+Bit Score: 198.0
+E-value: 9.509e-07
+Alignment Length: 142
+Percentage Identity: 0.197
+
+=== A0A857EZE8 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:QHB31889.1};
+Bit Score: 232.0
+E-value: 1.013e-06
+Alignment Length: 140
+Percentage Identity: 0.221
+
+=== A0A5V3MS23 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:EBT9664563.1};
+Bit Score: 222.0
+E-value: 1.222e-06
+Alignment Length: 144
+Percentage Identity: 0.222
+
+=== A0A0H0RZ18 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:NAG17980.1};
+Bit Score: 187.0
+E-value: 1.301e-06
+Alignment Length: 128
+Percentage Identity: 0.242
+
+=== A0A8B3UIH1 ===
+DE   SubName: Full=Tail assembly chaperone gp38 {ECO:0000313|EMBL:SAA32311.1};
+Bit Score: 190.0
+E-value: 1.386e-06
+Alignment Length: 151
+Percentage Identity: 0.245
+
+=== A0A068Z8F6 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:QLH63165.1};
+Bit Score: 186.0
+E-value: 1.386e-06
+Alignment Length: 149
+Percentage Identity: 0.194
+
+=== A0A5M7L6C3 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:KAA5945707.1};
+Bit Score: 216.0
+E-value: 1.475e-06
+Alignment Length: 148
+Percentage Identity: 0.25
+
+=== A0A4V2X8Y2 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:TDB61655.1};
+Bit Score: 214.0
+E-value: 1.475e-06
+Alignment Length: 145
+Percentage Identity: 0.2
+
+=== U3U6G6 ===
+DE   RecName: Full=Tail fiber assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 217.0
+E-value: 1.571e-06
+Alignment Length: 142
+Percentage Identity: 0.19
+
+=== A0A077NV63 ===
+DE   RecName: Full=Tail fiber assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 216.0
+E-value: 1.781e-06
+Alignment Length: 144
+Percentage Identity: 0.201
+
+=== A0A411WII7 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:QBH96003.1};
+Bit Score: 215.0
+E-value: 1.781e-06
+Alignment Length: 142
+Percentage Identity: 0.176
+
+=== A0A212I9D1 ===
+DE   RecName: Full=Tail fiber assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 203.0
+E-value: 1.896e-06
+Alignment Length: 142
+Percentage Identity: 0.232
+
+=== A0A077QBZ2 ===
+DE   RecName: Full=Tail fiber assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 214.0
+E-value: 2.019e-06
+Alignment Length: 144
+Percentage Identity: 0.201
+
+=== A0A2A2HLN3 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:PAV10399.1};
+Bit Score: 212.0
+E-value: 2.019e-06
+Alignment Length: 150
+Percentage Identity: 0.16
+
+=== A0A5D4YD83 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:TYT34939.1};
+Bit Score: 199.0
+E-value: 2.437e-06
+Alignment Length: 142
+Percentage Identity: 0.239
+
+=== A0A1I7J4J1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SFU80106.1};
+Bit Score: 178.0
+E-value: 2.437e-06
+Alignment Length: 168
+Percentage Identity: 0.208
+
+=== A0A433ZQC5 ===
+DE   RecName: Full=Tail fiber assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 205.0
+E-value: 2.595e-06
+Alignment Length: 142
+Percentage Identity: 0.197
+
+=== A0A2Y9TWM4 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:AWH88012.1};
+Bit Score: 196.0
+E-value: 2.763e-06
+Alignment Length: 128
+Percentage Identity: 0.242
+
+=== A0A643FMC7 ===
+DE   SubName: Full=Phage tail assembly chaperone {ECO:0000313|EMBL:QOT74847.1};
+Bit Score: 191.0
+E-value: 2.763e-06
+Alignment Length: 143
+Percentage Identity: 0.3
+
+=== A0A411WM32 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:QBH97283.1};
+Bit Score: 192.0
+E-value: 3.132e-06
+Alignment Length: 152
+Percentage Identity: 0.203
+
+=== W0HMV2 ===
+DE   RecName: Full=Tail fiber assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 190.0
+E-value: 3.335e-06
+Alignment Length: 140
+Percentage Identity: 0.185
+
+=== A0A1I6E7B8 ===
+DE   SubName: Full=Virus tail fibre assembly protein, lambda gpK {ECO:0000313|EMBL:SFR13633.1};
+Bit Score: 206.0
+E-value: 3.55e-06
+Alignment Length: 145
+Percentage Identity: 0.213
+
+=== A0A1I3WQ77 ===
+DE   SubName: Full=Virus tail fibre assembly protein, lambda gpK {ECO:0000313|EMBL:SFK09612.1};
+Bit Score: 208.0
+E-value: 3.78e-06
+Alignment Length: 140
+Percentage Identity: 0.178
+
+=== A0A5Z5REI7 ===
+DE   SubName: Full=Tail assembly chaperone {ECO:0000313|EMBL:ECT1564547.1};
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:ECS2542540.1};
+Bit Score: 183.0
+E-value: 3.78e-06
+Alignment Length: 149
+Percentage Identity: 0.174
+
+=== A0A7U2JL75 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:MBA7722386.1};
+Bit Score: 180.0
+E-value: 3.78e-06
+Alignment Length: 148
+Percentage Identity: 0.216
+
+=== A0A5B0K5E4 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:KAA1047291.1};
+Bit Score: 172.0
+E-value: 3.78e-06
+Alignment Length: 147
+Percentage Identity: 0.17
+
+=== A0A411WHE0 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:QBH95454.1};
+Bit Score: 183.0
+E-value: 4.025e-06
+Alignment Length: 149
+Percentage Identity: 0.208
+
+=== A0A2T4Y153 ===
+DE   RecName: Full=Tail fiber assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 203.0
+E-value: 4.286e-06
+Alignment Length: 136
+Percentage Identity: 0.183
+
+=== A0A1I2QMV9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SFG29300.1};
+Bit Score: 157.0
+E-value: 4.563e-06
+Alignment Length: 162
+Percentage Identity: 0.209
+
+=== A0A2U3F166 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:PWI80486.1};
+Bit Score: 209.0
+E-value: 4.859e-06
+Alignment Length: 142
+Percentage Identity: 0.288
+
+=== A0A7Y7YPN7 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:NWC62911.1};
+Bit Score: 186.0
+E-value: 4.859e-06
+Alignment Length: 147
+Percentage Identity: 0.224
+
+=== A0A1G7SVK8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SDG27095.1};
+Bit Score: 166.0
+E-value: 5.508e-06
+Alignment Length: 158
+Percentage Identity: 0.24
+
+=== A0A3S5G566 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:AUZ67790.1};
+Bit Score: 200.0
+E-value: 5.865e-06
+Alignment Length: 141
+Percentage Identity: 0.177
+
+=== A0A2D0LEZ5 ===
+DE   SubName: Full=Phage tail fiber assembly {ECO:0000313|EMBL:PHM74284.1};
+Bit Score: 175.0
+E-value: 5.865e-06
+Alignment Length: 146
+Percentage Identity: 0.205
+
+=== A0A3Q8DJE8 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:AUZ65913.1};
+Bit Score: 187.0
+E-value: 6.244e-06
+Alignment Length: 141
+Percentage Identity: 0.198
+
+=== A0A7J0BMD4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GFM34194.1};
+Bit Score: 167.0
+E-value: 6.649e-06
+Alignment Length: 139
+Percentage Identity: 0.287
+
+=== A0A2I0FUR0 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:PKH22301.1};
+Bit Score: 172.0
+E-value: 7.079e-06
+Alignment Length: 141
+Percentage Identity: 0.212
+
+=== A0A4R7NR00 ===
+DE   SubName: Full=Uncharacterized protein DUF4376 {ECO:0000313|EMBL:TDU23092.1};
+Bit Score: 168.0
+E-value: 8.025e-06
+Alignment Length: 162
+Percentage Identity: 0.203
+
+=== A0A4R4JDX7 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:TDB52270.1};
+Bit Score: 202.0
+E-value: 9.098e-06
+Alignment Length: 140
+Percentage Identity: 0.185
+
+=== A0A1Y0KR81 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 169.0
+E-value: 1.031e-05
+Alignment Length: 157
+Percentage Identity: 0.216
+
+=== A0A1C4G0U3 ===
+DE   SubName: Full=Virus tail fibre assembly protein, lambda gpK {ECO:0000313|EMBL:SCC61837.1};
+Bit Score: 160.0
+E-value: 1.098e-05
+Alignment Length: 148
+Percentage Identity: 0.236
+
+=== A0A1N7AMA7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SIR40165.1};
+Bit Score: 211.0
+E-value: 1.169e-05
+Alignment Length: 108
+Percentage Identity: 0.333
+
+=== G3XD08 ===
+DE   RecName: Full=Phage tail assembly chaperone-like domain-containing protein {ECO:0000259|Pfam:PF16778};
+Bit Score: 208.0
+E-value: 1.169e-05
+Alignment Length: 137
+Percentage Identity: 0.24
+
+=== A0A0H3FAT1 ===
+DE   SubName: Full=Tail assembly chaperone gp38 {ECO:0000313|EMBL:ADW74128.1};
+Bit Score: 191.0
+E-value: 1.245e-05
+Alignment Length: 147
+Percentage Identity: 0.183
+
+=== A0A6I6DJ31 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:QGU14883.1};
+Bit Score: 172.0
+E-value: 1.245e-05
+Alignment Length: 149
+Percentage Identity: 0.221
+
+=== A0A345CNV0 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:AXF75117.1};
+Bit Score: 198.0
+E-value: 1.326e-05
+Alignment Length: 148
+Percentage Identity: 0.236
+
+=== R8ANC1 ===
+DE   SubName: Full=Putative tail fiber assembly protein {ECO:0000313|EMBL:EON87810.1};
+Bit Score: 200.0
+E-value: 1.411e-05
+Alignment Length: 146
+Percentage Identity: 0.198
+
+=== A0A1X3I4W0 ===
+DE   SubName: Full=Caudovirales tail fiber assembly protein {ECO:0000313|EMBL:OSK23328.1};
+Bit Score: 165.0
+E-value: 1.503e-05
+Alignment Length: 149
+Percentage Identity: 0.194
+
+=== A0A432UNX0 ===
+DE   RecName: Full=Tail fiber assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 152.0
+E-value: 1.503e-05
+Alignment Length: 152
+Percentage Identity: 0.21
+
+=== A0A7U5TH15 ===
+DE   RecName: Full=Tail fiber assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 187.0
+E-value: 1.704e-05
+Alignment Length: 148
+Percentage Identity: 0.175
+
+=== A0A3P5HII9 ===
+DE   SubName: Full=Prophage tail fiber assembly protein TfaE {ECO:0000313|EMBL:VCZ29288.1};
+Bit Score: 163.0
+E-value: 1.704e-05
+Alignment Length: 149
+Percentage Identity: 0.187
+
+=== A0A732IA80 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:HAE5070066.1};
+Bit Score: 159.0
+E-value: 1.704e-05
+Alignment Length: 151
+Percentage Identity: 0.211
+
+=== A0A4P7KSD4 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:QBY42556.1, ECO:0000313|EMBL:WGM11603.1};
+Bit Score: 180.0
+E-value: 1.931e-05
+Alignment Length: 144
+Percentage Identity: 0.159
+
+=== A0A0J7J7Q7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KMQ73989.1};
+Bit Score: 153.0
+E-value: 2.056e-05
+Alignment Length: 161
+Percentage Identity: 0.204
+
+=== A0A743U4J6 ===
+DE   SubName: Full=Tail assembly chaperone {ECO:0000313|EMBL:HAF2211631.1};
+Bit Score: 152.0
+E-value: 2.19e-05
+Alignment Length: 137
+Percentage Identity: 0.175
+
+=== A0A2X4V2H3 ===
+DE   SubName: Full=Caudovirales tail fibre assembly protein {ECO:0000313|EMBL:SQI42308.1};
+Bit Score: 190.0
+E-value: 2.482e-05
+Alignment Length: 143
+Percentage Identity: 0.146
+
+=== A0A1R0Q9D4 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:OMB03460.1};
+Bit Score: 178.0
+E-value: 2.482e-05
+Alignment Length: 138
+Percentage Identity: 0.166
+
+=== D2TYN1 ===
+DE   SubName: Full=Caudovirales tail fiber assembly protein, lambda gpK {ECO:0000313|EMBL:QBY43962.1};
+DE   SubName: Full=Phage tail assembly protein {ECO:0000313|EMBL:CBA72529.1};
+DE   SubName: Full=Tail assembly chaperone {ECO:0000313|EMBL:WGM03854.1};
+Bit Score: 156.0
+E-value: 2.643e-05
+Alignment Length: 154
+Percentage Identity: 0.207
+
+=== G5QY84 ===
+DE   RecName: Full=Tail fiber assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 242.0
+E-value: 2.814e-05
+Alignment Length: 72
+Percentage Identity: 0.402
+
+=== A0A7Y0ZWM6 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:NMX99360.1};
+Bit Score: 162.0
+E-value: 2.814e-05
+Alignment Length: 142
+Percentage Identity: 0.239
+
+=== A0A495AL45 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:RKQ40732.1};
+Bit Score: 167.0
+E-value: 2.996e-05
+Alignment Length: 143
+Percentage Identity: 0.181
+
+=== A0A763CKN9 ===
+DE   SubName: Full=DUF4376 domain-containing protein {ECO:0000313|EMBL:HAG4159555.1};
+Bit Score: 159.0
+E-value: 2.996e-05
+Alignment Length: 181
+Percentage Identity: 0.16
+
+=== A0A826JA78 ===
+DE   SubName: Full=Tail assembly chaperone {ECO:0000313|EMBL:EFA4421330.1};
+Bit Score: 154.0
+E-value: 3.617e-05
+Alignment Length: 150
+Percentage Identity: 0.193
+
+=== A0A0H2V5L4 ===
+DE   RecName: Full=Tail fiber assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 163.0
+E-value: 3.851e-05
+Alignment Length: 148
+Percentage Identity: 0.121
+
+=== A0A2N5DU56 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:PLR30288.1};
+Bit Score: 155.0
+E-value: 3.851e-05
+Alignment Length: 143
+Percentage Identity: 0.23
+
+=== A0A344S5G9 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:MLW01576.1};
+Bit Score: 178.0
+E-value: 4.1e-05
+Alignment Length: 146
+Percentage Identity: 0.178
+
+=== A0A0H5HS46 ===
+DE   SubName: Full=Putative tail fiber assembly protein {ECO:0000313|EMBL:CFQ76933.1};
+Bit Score: 153.0
+E-value: 4.1e-05
+Alignment Length: 150
+Percentage Identity: 0.213
+
+=== A0A420WVJ7 ===
+DE   RecName: Full=Tail assembly chaperone {ECO:0008006|Google:ProtNLM};
+Bit Score: 145.0
+E-value: 4.1e-05
+Alignment Length: 180
+Percentage Identity: 0.177
+
+=== A0A377QEM3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:STQ93493.1};
+Bit Score: 137.0
+E-value: 4.1e-05
+Alignment Length: 157
+Percentage Identity: 0.235
+
+=== H2IRJ1 ===
+DE   SubName: Full=Caudovirales tail fiber assembly protein {ECO:0000313|EMBL:AEX51427.1};
+Bit Score: 156.0
+E-value: 4.366e-05
+Alignment Length: 149
+Percentage Identity: 0.241
+
+=== A0A3N6SH38 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:RQM36856.1};
+Bit Score: 167.0
+E-value: 4.949e-05
+Alignment Length: 144
+Percentage Identity: 0.194
+
+=== D2U4A6 ===
+DE   SubName: Full=Phage tail assembly protein {ECO:0000313|EMBL:CBA76387.1};
+DE   Flags: Fragment;
+Bit Score: 187.0
+E-value: 5.27e-05
+Alignment Length: 126
+Percentage Identity: 0.166
+
+=== A0A5V6PU83 ===
+DE   RecName: Full=Tail fiber assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 157.0
+E-value: 5.611e-05
+Alignment Length: 140
+Percentage Identity: 0.178
+
+=== E0LV13 ===
+DE   SubName: Full=Tail assembly chaperone gp38 {ECO:0000313|EMBL:EFM20599.1};
+Bit Score: 146.0
+E-value: 5.611e-05
+Alignment Length: 142
+Percentage Identity: 0.232
+
+=== A0A1U9Q763 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 156.0
+E-value: 5.974e-05
+Alignment Length: 141
+Percentage Identity: 0.219
+
+=== A0A5C5DE35 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:TNV22485.1};
+Bit Score: 169.0
+E-value: 6.361e-05
+Alignment Length: 145
+Percentage Identity: 0.137
+
+=== A0A4V2A488 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RYY51369.1};
+Bit Score: 165.0
+E-value: 6.361e-05
+Alignment Length: 142
+Percentage Identity: 0.267
+
+=== A0A701UP36 ===
+DE   SubName: Full=Tail assembly chaperone {ECO:0000313|EMBL:HAC6517138.1};
+Bit Score: 148.0
+E-value: 6.361e-05
+Alignment Length: 148
+Percentage Identity: 0.175
+
+=== A0A7W4P415 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB2176786.1};
+Bit Score: 138.0
+E-value: 7.678e-05
+Alignment Length: 146
+Percentage Identity: 0.178
+
+=== A0A1N6MWN0 ===
+DE   RecName: Full=Tail fiber assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 182.0
+E-value: 8.704e-05
+Alignment Length: 115
+Percentage Identity: 0.234
+
+=== A0A7H9BG12 ===
+DE   RecName: Full=Tail fiber assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 163.0
+E-value: 9.268e-05
+Alignment Length: 129
+Percentage Identity: 0.186
+
+=== A0A1Q6B0D0 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:OKU28711.1};
+Bit Score: 166.0
+E-value: 9.868e-05
+Alignment Length: 141
+Percentage Identity: 0.177
+
+=== A0A424WAM4 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:RPJ90363.1};
+Bit Score: 165.0
+E-value: 9.868e-05
+Alignment Length: 143
+Percentage Identity: 0.181
+
+=== A0A5P0JJ43 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:MQK28287.1};
+DE   Flags: Fragment;
+Bit Score: 164.0
+E-value: 9.868e-05
+Alignment Length: 128
+Percentage Identity: 0.179
+
+=== A0A0A8VIE2 ===
+DE   SubName: Full=Tail fiber assembly protein p37 {ECO:0000313|EMBL:CEK28138.1};
+Bit Score: 155.0
+E-value: 9.868e-05
+Alignment Length: 143
+Percentage Identity: 0.125
+
+=== A0A1S8CP93 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 183.0
+E-value: 0.0001119
+Alignment Length: 128
+Percentage Identity: 0.218
+
+=== A0A1Y0N4F4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ARV17416.1};
+Bit Score: 130.0
+E-value: 0.0001119
+Alignment Length: 147
+Percentage Identity: 0.251
+
+=== A0A7I8EBT6 ===
+DE   RecName: Full=DUF4376 domain-containing protein {ECO:0000259|Pfam:PF14301};
+Bit Score: 125.0
+E-value: 0.0001268
+Alignment Length: 172
+Percentage Identity: 0.168
+
+=== A0A2R8CKR9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SPJ33433.1};
+Bit Score: 123.0
+E-value: 0.0001268
+Alignment Length: 159
+Percentage Identity: 0.194
+
+=== A0A5B0C0W6 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:KAA0948063.1};
+Bit Score: 146.0
+E-value: 0.000135
+Alignment Length: 131
+Percentage Identity: 0.221
+
+=== A0A2V2BI76 ===
+DE   SubName: Full=Virus tail fiber assembly protein lambda gpK {ECO:0000313|EMBL:PWK98438.1};
+Bit Score: 137.0
+E-value: 0.000135
+Alignment Length: 150
+Percentage Identity: 0.193
+
+=== A0A2U3F206 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:PWI80799.1};
+Bit Score: 147.0
+E-value: 0.0001438
+Alignment Length: 139
+Percentage Identity: 0.201
+
+=== Q8ZNJ2 ===
+DE   SubName: Full=Cytoplasmic protein {ECO:0000313|EMBL:AAL21135.1};
+Bit Score: 153.0
+E-value: 0.000163
+Alignment Length: 129
+Percentage Identity: 0.155
+
+=== A0A379QMG1 ===
+DE   SubName: Full=Caudovirales tail fibre assembly protein {ECO:0000313|EMBL:SUF57501.1};
+Bit Score: 153.0
+E-value: 0.0001736
+Alignment Length: 132
+Percentage Identity: 0.189
+
+=== A0A087KXL6 ===
+DE   RecName: Full=Tail fiber assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 162.0
+E-value: 0.0001848
+Alignment Length: 140
+Percentage Identity: 0.185
+
+=== A0A446AZQ3 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 153.0
+E-value: 0.0001967
+Alignment Length: 140
+Percentage Identity: 0.257
+
+=== A0A482PI23 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:QBY27542.1};
+Bit Score: 119.0
+E-value: 0.0002231
+Alignment Length: 150
+Percentage Identity: 0.193
+
+=== A0A376YI45 ===
+DE   SubName: Full=CPS-53 (KpLE1) prophage protein {ECO:0000313|EMBL:STJ83351.1};
+Bit Score: 162.0
+E-value: 0.0003052
+Alignment Length: 128
+Percentage Identity: 0.218
+
+=== A0A1G5QUE3 ===
+DE   SubName: Full=Virus tail fibre assembly protein, lambda gpK {ECO:0000313|EMBL:SCZ65190.1};
+Bit Score: 183.0
+E-value: 0.000325
+Alignment Length: 84
+Percentage Identity: 0.273
+
+=== Q2NWF3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:BAE73522.1};
+Bit Score: 147.0
+E-value: 0.000325
+Alignment Length: 123
+Percentage Identity: 0.219
+
+=== A0A8B2Y1X9 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:RGD15450.1};
+Bit Score: 158.0
+E-value: 0.0003923
+Alignment Length: 141
+Percentage Identity: 0.212
+
+=== A0A7L6CIZ9 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:QLR42797.1};
+Bit Score: 138.0
+E-value: 0.0003923
+Alignment Length: 149
+Percentage Identity: 0.147
+
+=== A0A376WQ73 ===
+DE   SubName: Full=CPS-53 (KpLE1) prophage protein {ECO:0000313|EMBL:STJ52188.1};
+Bit Score: 178.0
+E-value: 0.0004177
+Alignment Length: 69
+Percentage Identity: 0.333
+
+=== A0A618PKJ7 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:ECX4918095.1};
+DE   Flags: Fragment;
+Bit Score: 152.0
+E-value: 0.0004177
+Alignment Length: 118
+Percentage Identity: 0.271
+
+=== A0A4Q9VGP2 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.0004447
+Alignment Length: 150
+Percentage Identity: 0.226
+
+=== A0A1S2UEC1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OIN44500.1};
+Bit Score: 155.0
+E-value: 0.0004735
+Alignment Length: 132
+Percentage Identity: 0.25
+
+=== A0A1C7W7E1 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 178.0
+E-value: 0.0005368
+Alignment Length: 71
+Percentage Identity: 0.253
+
+=== A0A0M0T628 ===
+DE   RecName: Full=Tail fiber assembly protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 129.0
+E-value: 0.0005368
+Alignment Length: 130
+Percentage Identity: 0.153
+
+=== A0A376FB91 ===
+DE   SubName: Full=Phage tail assembly chaperone gp38 {ECO:0000313|EMBL:STD22362.1};
+Bit Score: 192.0
+E-value: 0.0005716
+Alignment Length: 67
+Percentage Identity: 0.253
+
+=== A0A193FV97 ===
+DE   RecName: Full=DUF4376 domain-containing protein {ECO:0000259|Pfam:PF14301};
+Bit Score: 115.0
+E-value: 0.0005716
+Alignment Length: 186
+Percentage Identity: 0.155
+
+=== A0A5Y3W528 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:ECJ4379178.1};
+DE   Flags: Fragment;
+Bit Score: 157.0
+E-value: 0.0006086
+Alignment Length: 95
+Percentage Identity: 0.273
+
+=== A0A2D0KV06 ===
+DE   SubName: Full=Tail assembly chaperone {ECO:0000313|EMBL:PHM67231.1};
+Bit Score: 124.0
+E-value: 0.000648
+Alignment Length: 146
+Percentage Identity: 0.164
+
+=== A0A427DLX8 ===
+DE   RecName: Full=Phage tail assembly chaperone-like domain-containing protein {ECO:0000259|Pfam:PF16778};
+Bit Score: 105.0
+E-value: 0.000648
+Alignment Length: 145
+Percentage Identity: 0.22
+
+=== A0A1E8PKI1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OFJ46387.1};
+Bit Score: 102.0
+E-value: 0.000648
+Alignment Length: 140
+Percentage Identity: 0.228
+
+=== A0A847KVC2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NLI28395.1};
+Bit Score: 185.0
+E-value: 0.0006899
+Alignment Length: 67
+Percentage Identity: 0.238
+
+=== A0A379QQG2 ===
+DE   SubName: Full=Phage tail fiber assembly {ECO:0000313|EMBL:SUF59289.1};
+Bit Score: 115.0
+E-value: 0.0006899
+Alignment Length: 171
+Percentage Identity: 0.175
+
+=== A0A5Q2VF37 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QGH64147.1};
+Bit Score: 187.0
+E-value: 0.0008867
+Alignment Length: 68
+Percentage Identity: 0.25
+
+=== A0A2G8MZ68 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.0009441
+Alignment Length: 145
+Percentage Identity: 0.193
+
+=== A0A0L1KFJ7 ===
+DE   SubName: Full=Putative tail fiber assembly protein {ECO:0000313|EMBL:KNH02617.1};
+Bit Score: 122.0
+E-value: 0.001005
+Alignment Length: 146
+Percentage Identity: 0.191
+
+=== A0A1A9WSI7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EnsemblMetazoa:GBRI030435-PA};
+Bit Score: 154.0
+E-value: 0.00107
+Alignment Length: 89
+Percentage Identity: 0.292
+
+=== A0A6S7EC07 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAB3906003.1};
+Bit Score: 118.0
+E-value: 0.00107
+Alignment Length: 151
+Percentage Identity: 0.225
+
+=== A0A6I2IQI1 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:MRS91328.1};
+Bit Score: 132.0
+E-value: 0.001376
+Alignment Length: 127
+Percentage Identity: 0.165
+
+=== A0A5S4UJ67 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:TYL41955.1};
+Bit Score: 127.0
+E-value: 0.001376
+Alignment Length: 140
+Percentage Identity: 0.221
+
+=== A0A1N7AZU4 ===
+DE   SubName: Full=Phage tail assembly chaperone protein {ECO:0000313|EMBL:SIR44639.1};
+Bit Score: 111.0
+E-value: 0.001376
+Alignment Length: 147
+Percentage Identity: 0.149
+
+=== A0A5N3CRX4 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:KAB0120999.1};
+Bit Score: 177.0
+E-value: 0.001559
+Alignment Length: 68
+Percentage Identity: 0.279
+
+=== A0A827R0P6 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:EFH3511036.1};
+DE   Flags: Fragment;
+Bit Score: 163.0
+E-value: 0.00166
+Alignment Length: 82
+Percentage Identity: 0.231
+
+=== A0A377ALH1 ===
+DE   SubName: Full=CPS-53 (KpLE1) prophage protein {ECO:0000313|EMBL:STL19566.1};
+Bit Score: 113.0
+E-value: 0.001768
+Alignment Length: 111
+Percentage Identity: 0.216
+
+=== A0A402TSN0 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:MIT94023.1};
+DE   Flags: Fragment;
+Bit Score: 168.0
+E-value: 0.002576
+Alignment Length: 69
+Percentage Identity: 0.26
+
+=== A0A377AI92 ===
+DE   SubName: Full=CPS-53 (KpLE1) prophage protein {ECO:0000313|EMBL:STL15706.1};
+Bit Score: 96.0
+E-value: 0.003996
+Alignment Length: 139
+Percentage Identity: 0.179
+
+=== A0A1K1QLQ9 ===
+DE   RecName: Full=Phage tail assembly chaperone-like domain-containing protein {ECO:0000259|Pfam:PF16778};
+Bit Score: 119.0
+E-value: 0.005468
+Alignment Length: 139
+Percentage Identity: 0.172
+
+=== A0A0H3AZJ6 ===
+DE   RecName: Full=Tail assembly chaperone gp38 {ECO:0008006|Google:ProtNLM};
+Bit Score: 105.0
+E-value: 0.005468
+Alignment Length: 148
+Percentage Identity: 0.168
+
+=== A0A5U1N744 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:EBO7629135.1};
+Bit Score: 104.0
+E-value: 0.006199
+Alignment Length: 149
+Percentage Identity: 0.154
+
+=== A0A1D8UTE2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AOX16910.1};
+Bit Score: 154.0
+E-value: 0.006601
+Alignment Length: 65
+Percentage Identity: 0.261
+
+=== A0A731EUV7 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:HAE4420796.1};
+DE   Flags: Fragment;
+Bit Score: 123.0
+E-value: 0.007028
+Alignment Length: 108
+Percentage Identity: 0.203
+
+=== A0A380SAU4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SUQ37343.1};
+Bit Score: 141.0
+E-value: 0.01691
+Alignment Length: 68
+Percentage Identity: 0.161
+
+=== A0A0T9UVT2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CNL76494.1};
+Bit Score: 101.0
+E-value: 0.02315
+Alignment Length: 113
+Percentage Identity: 0.168
+
+=== A0A763SYU9 ===
+DE   SubName: Full=Tail assembly chaperone {ECO:0000313|EMBL:HAG4529260.1};
+DE   Flags: Fragment;
+Bit Score: 128.0
+E-value: 0.02464
+Alignment Length: 68
+Percentage Identity: 0.191
+
+=== A0A3S5G4T8 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:AUZ66617.1};
+Bit Score: 90.0
+E-value: 0.02624
+Alignment Length: 131
+Percentage Identity: 0.16
+
+=== A0A2G5MA36 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 83.0
+E-value: 0.02975
+Alignment Length: 128
+Percentage Identity: 0.179
+
+=== A0A4D0B479 ===
+DE   SubName: Full=Phage tail fiber assembly protein {ECO:0000313|EMBL:GDH25405.1};
+Bit Score: 100.0
+E-value: 0.03372
+Alignment Length: 103
+Percentage Identity: 0.155
+
+=== A0A223W0F0 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 86.0
+E-value: 0.03823
+Alignment Length: 140
+Percentage Identity: 0.178
+
+=== A0A793IKX6 ===
+DE   SubName: Full=Tail fiber assembly protein {ECO:0000313|EMBL:HAI2807964.1};
+DE   Flags: Fragment;
+Bit Score: 121.0
+E-value: 0.04615
+Alignment Length: 64
+Percentage Identity: 0.218
+

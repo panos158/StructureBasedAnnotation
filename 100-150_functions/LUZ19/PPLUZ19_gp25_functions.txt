@@ -1,0 +1,1051 @@
+=== A0A351BKY3 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 224.0
+E-value: 9.316e-05
+Alignment Length: 105
+Percentage Identity: 0.276
+
+=== A0A7M2QN88 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 209.0
+E-value: 9.852e-05
+Alignment Length: 126
+Percentage Identity: 0.253
+
+=== A0A228IJK8 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 225.0
+E-value: 0.0002157
+Alignment Length: 106
+Percentage Identity: 0.264
+
+=== A0A2S9X7Y0 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 206.0
+E-value: 0.0002412
+Alignment Length: 107
+Percentage Identity: 0.299
+
+=== A0A5R2ATM3 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 202.0
+E-value: 0.0004464
+Alignment Length: 107
+Percentage Identity: 0.252
+
+=== A0A496XFC3 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 203.0
+E-value: 0.000472
+Alignment Length: 107
+Percentage Identity: 0.242
+
+=== A0A661CT69 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 201.0
+E-value: 0.0005905
+Alignment Length: 107
+Percentage Identity: 0.252
+
+=== A0A1H8IJU3 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 189.0
+E-value: 0.0005905
+Alignment Length: 106
+Percentage Identity: 0.235
+
+=== J9FCF1 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 157.0
+E-value: 0.0006604
+Alignment Length: 123
+Percentage Identity: 0.26
+
+=== A0A2A4ZM05 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 192.0
+E-value: 0.0007386
+Alignment Length: 102
+Percentage Identity: 0.264
+
+=== A0A7S8C7P1 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 178.0
+E-value: 0.0007386
+Alignment Length: 111
+Percentage Identity: 0.234
+
+=== A0A1M6T7X1 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 188.0
+E-value: 0.000977
+Alignment Length: 106
+Percentage Identity: 0.216
+
+=== A0A081RW01 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 167.0
+E-value: 0.001033
+Alignment Length: 108
+Percentage Identity: 0.268
+
+=== J9GIW1 ===
+DE   SubName: Full=Phage-related protein {ECO:0000313|EMBL:EJX07542.1};
+Bit Score: 176.0
+E-value: 0.001292
+Alignment Length: 110
+Percentage Identity: 0.254
+
+=== A0A1H0LUW2 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 173.0
+E-value: 0.001292
+Alignment Length: 116
+Percentage Identity: 0.232
+
+=== A0A4R8FVF8 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 181.0
+E-value: 0.001445
+Alignment Length: 109
+Percentage Identity: 0.229
+
+=== A0A0F9BVH6 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 171.0
+E-value: 0.001617
+Alignment Length: 100
+Percentage Identity: 0.28
+
+=== A0A0F9D0C8 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 156.0
+E-value: 0.001617
+Alignment Length: 108
+Percentage Identity: 0.231
+
+=== A0A0F9RZW1 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 143.0
+E-value: 0.001617
+Alignment Length: 126
+Percentage Identity: 0.238
+
+=== A0A7X7VGD2 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 175.0
+E-value: 0.001808
+Alignment Length: 106
+Percentage Identity: 0.216
+
+=== A0A7X8ZTZ8 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 162.0
+E-value: 0.001808
+Alignment Length: 106
+Percentage Identity: 0.245
+
+=== A0A836PQL7 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 175.0
+E-value: 0.001912
+Alignment Length: 103
+Percentage Identity: 0.262
+
+=== J9FNN3 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+DE   Flags: Fragment;
+Bit Score: 161.0
+E-value: 0.002139
+Alignment Length: 117
+Percentage Identity: 0.264
+
+=== A0A0F9HZI3 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 156.0
+E-value: 0.002139
+Alignment Length: 121
+Percentage Identity: 0.231
+
+=== A0A3A0D5T3 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 148.0
+E-value: 0.002262
+Alignment Length: 113
+Percentage Identity: 0.256
+
+=== A0A1C6IRL8 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 167.0
+E-value: 0.002992
+Alignment Length: 108
+Percentage Identity: 0.231
+
+=== A0A7C3Z2A0 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 163.0
+E-value: 0.003164
+Alignment Length: 104
+Percentage Identity: 0.24
+
+=== J0PXR5 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+DE   Flags: Fragment;
+Bit Score: 160.0
+E-value: 0.003539
+Alignment Length: 105
+Percentage Identity: 0.247
+
+=== A0A5C7LWF9 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 151.0
+E-value: 0.003539
+Alignment Length: 107
+Percentage Identity: 0.233
+
+=== A0A0G1VTL6 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 152.0
+E-value: 0.004186
+Alignment Length: 106
+Percentage Identity: 0.207
+
+=== A0A431IDU2 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 169.0
+E-value: 0.004426
+Alignment Length: 94
+Percentage Identity: 0.276
+
+=== A0A645FWT3 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 151.0
+E-value: 0.004426
+Alignment Length: 111
+Percentage Identity: 0.216
+
+=== A0A0C6FPR8 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 149.0
+E-value: 0.004426
+Alignment Length: 104
+Percentage Identity: 0.259
+
+=== A0A2E1MYH0 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 160.0
+E-value: 0.004681
+Alignment Length: 99
+Percentage Identity: 0.222
+
+=== A0A1V5IXZ0 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 140.0
+E-value: 0.004681
+Alignment Length: 111
+Percentage Identity: 0.18
+
+=== A0A840NX61 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 158.0
+E-value: 0.004951
+Alignment Length: 99
+Percentage Identity: 0.252
+
+=== J9GPW1 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 157.0
+E-value: 0.004951
+Alignment Length: 110
+Percentage Identity: 0.209
+
+=== A0A0F9IX86 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 150.0
+E-value: 0.004951
+Alignment Length: 104
+Percentage Identity: 0.211
+
+=== A0A1V5X5E7 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 167.0
+E-value: 0.005537
+Alignment Length: 106
+Percentage Identity: 0.226
+
+=== A0A6M3JLB4 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 152.0
+E-value: 0.005537
+Alignment Length: 109
+Percentage Identity: 0.275
+
+=== A0A389MLZ5 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 146.0
+E-value: 0.005537
+Alignment Length: 99
+Percentage Identity: 0.282
+
+=== A0A0R0CFS8 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 136.0
+E-value: 0.005537
+Alignment Length: 114
+Percentage Identity: 0.236
+
+=== A0A0F9DY14 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+DE   Flags: Fragment;
+Bit Score: 178.0
+E-value: 0.005855
+Alignment Length: 80
+Percentage Identity: 0.187
+
+=== A9IT67 ===
+DE   SubName: Full=Phage-related protein {ECO:0000313|EMBL:CAK01388.1};
+Bit Score: 156.0
+E-value: 0.005855
+Alignment Length: 104
+Percentage Identity: 0.221
+
+=== A0A1C6J908 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 154.0
+E-value: 0.005855
+Alignment Length: 104
+Percentage Identity: 0.221
+
+=== A0A2D8A6E0 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 143.0
+E-value: 0.005855
+Alignment Length: 103
+Percentage Identity: 0.281
+
+=== A0A0F9H3B6 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+DE   Flags: Fragment;
+Bit Score: 169.0
+E-value: 0.006192
+Alignment Length: 83
+Percentage Identity: 0.265
+
+=== A0A351SHC5 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 164.0
+E-value: 0.006192
+Alignment Length: 106
+Percentage Identity: 0.216
+
+=== A0A4Q7FI17 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 146.0
+E-value: 0.006549
+Alignment Length: 102
+Percentage Identity: 0.235
+
+=== A0A2E9IK57 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 135.0
+E-value: 0.006549
+Alignment Length: 105
+Percentage Identity: 0.247
+
+=== A0A0F9J4M2 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+DE   Flags: Fragment;
+Bit Score: 169.0
+E-value: 0.007324
+Alignment Length: 83
+Percentage Identity: 0.265
+
+=== A0A0F9FG82 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 167.0
+E-value: 0.007324
+Alignment Length: 106
+Percentage Identity: 0.283
+
+=== J1J5P4 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 152.0
+E-value: 0.007324
+Alignment Length: 105
+Percentage Identity: 0.247
+
+=== A0A0F9HXH9 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 129.0
+E-value: 0.007324
+Alignment Length: 105
+Percentage Identity: 0.285
+
+=== G7QC96 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 131.0
+E-value: 0.007746
+Alignment Length: 110
+Percentage Identity: 0.254
+
+=== A0A3S0F0L9 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 127.0
+E-value: 0.007746
+Alignment Length: 108
+Percentage Identity: 0.212
+
+=== A0A2D7CSN0 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 149.0
+E-value: 0.008192
+Alignment Length: 104
+Percentage Identity: 0.221
+
+=== X0SK15 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 138.0
+E-value: 0.008192
+Alignment Length: 101
+Percentage Identity: 0.287
+
+=== A0A0F9UAQ7 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 132.0
+E-value: 0.008192
+Alignment Length: 110
+Percentage Identity: 0.227
+
+=== A0A3L7Q9Q3 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 131.0
+E-value: 0.01025
+Alignment Length: 104
+Percentage Identity: 0.221
+
+=== A0A645AU75 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 154.0
+E-value: 0.01084
+Alignment Length: 103
+Percentage Identity: 0.252
+
+=== A0A4Z0F744 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 145.0
+E-value: 0.01084
+Alignment Length: 80
+Percentage Identity: 0.25
+
+=== A0A448V626 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 148.0
+E-value: 0.01146
+Alignment Length: 99
+Percentage Identity: 0.222
+
+=== A0A1H8M9G2 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 141.0
+E-value: 0.01146
+Alignment Length: 103
+Percentage Identity: 0.203
+
+=== A0A439H4A6 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 138.0
+E-value: 0.01146
+Alignment Length: 105
+Percentage Identity: 0.2
+
+=== A0A0Q5XF61 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 128.0
+E-value: 0.01212
+Alignment Length: 115
+Percentage Identity: 0.182
+
+=== A0A5C7LLM1 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 145.0
+E-value: 0.01282
+Alignment Length: 98
+Percentage Identity: 0.224
+
+=== J1JTS2 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 144.0
+E-value: 0.01282
+Alignment Length: 103
+Percentage Identity: 0.213
+
+=== A0A0F9V2Q8 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 138.0
+E-value: 0.01282
+Alignment Length: 100
+Percentage Identity: 0.24
+
+=== A0A1C6B6A0 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 131.0
+E-value: 0.01282
+Alignment Length: 114
+Percentage Identity: 0.201
+
+=== A0A2U1BC09 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 130.0
+E-value: 0.01282
+Alignment Length: 101
+Percentage Identity: 0.257
+
+=== A0A0F9TD15 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 145.0
+E-value: 0.01355
+Alignment Length: 98
+Percentage Identity: 0.234
+
+=== A0A0F9HQ20 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 140.0
+E-value: 0.01355
+Alignment Length: 106
+Percentage Identity: 0.216
+
+=== T0H238 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 119.0
+E-value: 0.01355
+Alignment Length: 124
+Percentage Identity: 0.193
+
+=== A0A1V5SNZ0 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 169.0
+E-value: 0.01433
+Alignment Length: 75
+Percentage Identity: 0.28
+
+=== A0A350IEG8 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 140.0
+E-value: 0.01433
+Alignment Length: 102
+Percentage Identity: 0.225
+
+=== A0A849IEY2 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 138.0
+E-value: 0.01433
+Alignment Length: 100
+Percentage Identity: 0.22
+
+=== A0A7X0E7K9 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 123.0
+E-value: 0.01433
+Alignment Length: 107
+Percentage Identity: 0.224
+
+=== A0A6M3JYJ9 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 135.0
+E-value: 0.01516
+Alignment Length: 101
+Percentage Identity: 0.217
+
+=== A0A351GFS9 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 129.0
+E-value: 0.01516
+Alignment Length: 100
+Percentage Identity: 0.25
+
+=== A0A7C8LFE8 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 135.0
+E-value: 0.01603
+Alignment Length: 97
+Percentage Identity: 0.247
+
+=== A0A661TNV9 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 125.0
+E-value: 0.01603
+Alignment Length: 112
+Percentage Identity: 0.178
+
+=== A8IF88 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 122.0
+E-value: 0.01696
+Alignment Length: 111
+Percentage Identity: 0.207
+
+=== A0A3L7Q7T8 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 108.0
+E-value: 0.01696
+Alignment Length: 131
+Percentage Identity: 0.198
+
+=== A0A5C7LEZ8 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 138.0
+E-value: 0.01793
+Alignment Length: 102
+Percentage Identity: 0.225
+
+=== I4YP78 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 128.0
+E-value: 0.01896
+Alignment Length: 101
+Percentage Identity: 0.158
+
+=== A0A2D8XAX4 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 162.0
+E-value: 0.02005
+Alignment Length: 74
+Percentage Identity: 0.229
+
+=== A0A2H0NF08 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 146.0
+E-value: 0.02005
+Alignment Length: 85
+Percentage Identity: 0.305
+
+=== A0A374USC6 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 138.0
+E-value: 0.02005
+Alignment Length: 104
+Percentage Identity: 0.23
+
+=== A0A7C3J185 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 136.0
+E-value: 0.02005
+Alignment Length: 99
+Percentage Identity: 0.222
+
+=== A0A0F9AJK2 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 122.0
+E-value: 0.02005
+Alignment Length: 113
+Percentage Identity: 0.212
+
+=== A0A2D5TJG0 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 105.0
+E-value: 0.02005
+Alignment Length: 116
+Percentage Identity: 0.206
+
+=== A0A0R3MVF7 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 157.0
+E-value: 0.02121
+Alignment Length: 103
+Percentage Identity: 0.262
+
+=== A0A0Q6XQL0 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 137.0
+E-value: 0.02121
+Alignment Length: 81
+Percentage Identity: 0.259
+
+=== A0A2M7FBX5 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+DE   Flags: Fragment;
+Bit Score: 134.0
+E-value: 0.02121
+Alignment Length: 98
+Percentage Identity: 0.214
+
+=== A0A431HF35 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 124.0
+E-value: 0.02121
+Alignment Length: 106
+Percentage Identity: 0.216
+
+=== X1AC43 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 123.0
+E-value: 0.02121
+Alignment Length: 112
+Percentage Identity: 0.276
+
+=== A0A2W5WX54 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 117.0
+E-value: 0.02121
+Alignment Length: 111
+Percentage Identity: 0.243
+
+=== A0A0F9RYF3 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 152.0
+E-value: 0.02243
+Alignment Length: 79
+Percentage Identity: 0.227
+
+=== A0A0F8ZCJ3 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 130.0
+E-value: 0.02243
+Alignment Length: 109
+Percentage Identity: 0.211
+
+=== A0A2D7BYW5 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 137.0
+E-value: 0.02372
+Alignment Length: 106
+Percentage Identity: 0.216
+
+=== A0A7Y8Q569 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 135.0
+E-value: 0.02372
+Alignment Length: 108
+Percentage Identity: 0.185
+
+=== A0A7L9QC55 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 127.0
+E-value: 0.02372
+Alignment Length: 105
+Percentage Identity: 0.209
+
+=== A0A2E1LAU6 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 128.0
+E-value: 0.02508
+Alignment Length: 100
+Percentage Identity: 0.17
+
+=== A0A3A4ZET1 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 124.0
+E-value: 0.02508
+Alignment Length: 105
+Percentage Identity: 0.228
+
+=== A0A5C8SFL0 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 119.0
+E-value: 0.02508
+Alignment Length: 112
+Percentage Identity: 0.187
+
+=== A0A6H0ZJB2 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 106.0
+E-value: 0.02508
+Alignment Length: 149
+Percentage Identity: 0.181
+
+=== A0A522V830 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 136.0
+E-value: 0.02653
+Alignment Length: 106
+Percentage Identity: 0.216
+
+=== A0A2D5RN37 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 134.0
+E-value: 0.02806
+Alignment Length: 105
+Percentage Identity: 0.247
+
+=== A0A1N7EC69 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 128.0
+E-value: 0.02806
+Alignment Length: 109
+Percentage Identity: 0.238
+
+=== A0A7Y2NEC0 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 135.0
+E-value: 0.02967
+Alignment Length: 101
+Percentage Identity: 0.217
+
+=== A0A1E7PXZ1 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 127.0
+E-value: 0.02967
+Alignment Length: 104
+Percentage Identity: 0.25
+
+=== A0A7K0A4Q5 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 140.0
+E-value: 0.03138
+Alignment Length: 108
+Percentage Identity: 0.212
+
+=== A0A350RJ99 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+DE   Flags: Fragment;
+Bit Score: 132.0
+E-value: 0.03138
+Alignment Length: 94
+Percentage Identity: 0.191
+
+=== A0A0F9KMX2 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 126.0
+E-value: 0.03138
+Alignment Length: 104
+Percentage Identity: 0.211
+
+=== A0A164LCP3 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 126.0
+E-value: 0.03138
+Alignment Length: 102
+Percentage Identity: 0.205
+
+=== A0A7W9MRB1 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 123.0
+E-value: 0.03138
+Alignment Length: 103
+Percentage Identity: 0.174
+
+=== A0A2A3F3E2 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 122.0
+E-value: 0.03138
+Alignment Length: 101
+Percentage Identity: 0.207
+
+=== A0A0F9DJ09 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 113.0
+E-value: 0.03138
+Alignment Length: 108
+Percentage Identity: 0.212
+
+=== A0A1S6WTR1 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 128.0
+E-value: 0.03318
+Alignment Length: 105
+Percentage Identity: 0.19
+
+=== A0A4P5VJQ5 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 120.0
+E-value: 0.03318
+Alignment Length: 109
+Percentage Identity: 0.192
+
+=== A0A2E7DLU1 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 110.0
+E-value: 0.03318
+Alignment Length: 105
+Percentage Identity: 0.228
+
+=== A0A1V2Q6Z6 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 121.0
+E-value: 0.03509
+Alignment Length: 100
+Percentage Identity: 0.27
+
+=== A0A0F9PE40 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 114.0
+E-value: 0.03509
+Alignment Length: 105
+Percentage Identity: 0.228
+
+=== A0A662CE29 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 127.0
+E-value: 0.03711
+Alignment Length: 107
+Percentage Identity: 0.233
+
+=== A0A285Q3W2 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 127.0
+E-value: 0.03711
+Alignment Length: 103
+Percentage Identity: 0.233
+
+=== A0A0F9S0Q1 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 124.0
+E-value: 0.03711
+Alignment Length: 103
+Percentage Identity: 0.213
+
+=== A0A0F9GAP6 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 123.0
+E-value: 0.03711
+Alignment Length: 100
+Percentage Identity: 0.2
+
+=== A0A2A2B7D8 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 121.0
+E-value: 0.03711
+Alignment Length: 101
+Percentage Identity: 0.207
+
+=== A0A1G3MEG2 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 114.0
+E-value: 0.03711
+Alignment Length: 109
+Percentage Identity: 0.247
+
+=== A0A0M3BC87 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 111.0
+E-value: 0.03711
+Alignment Length: 110
+Percentage Identity: 0.172
+
+=== A0A1M5NQU8 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 98.0
+E-value: 0.03711
+Alignment Length: 118
+Percentage Identity: 0.194
+
+=== A0A7X8LQM9 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 127.0
+E-value: 0.03925
+Alignment Length: 104
+Percentage Identity: 0.23
+
+=== A0A7S8C4Y0 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 124.0
+E-value: 0.03925
+Alignment Length: 106
+Percentage Identity: 0.216
+
+=== A0A329MBX3 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 119.0
+E-value: 0.03925
+Alignment Length: 105
+Percentage Identity: 0.219
+
+=== A0A364JUT9 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 117.0
+E-value: 0.03925
+Alignment Length: 105
+Percentage Identity: 0.228
+
+=== A0A0G1N0H2 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 135.0
+E-value: 0.04151
+Alignment Length: 86
+Percentage Identity: 0.209
+
+=== A0A442MLD8 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 119.0
+E-value: 0.04151
+Alignment Length: 109
+Percentage Identity: 0.22
+
+=== A0A4R3A965 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 114.0
+E-value: 0.04151
+Alignment Length: 115
+Percentage Identity: 0.182
+
+=== A0A4R8F7T7 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 113.0
+E-value: 0.04151
+Alignment Length: 126
+Percentage Identity: 0.182
+
+=== A0A364NVH7 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 106.0
+E-value: 0.04151
+Alignment Length: 110
+Percentage Identity: 0.209
+
+=== A0A4V2QZW2 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 146.0
+E-value: 0.0439
+Alignment Length: 80
+Percentage Identity: 0.2
+
+=== A0A1V6ALN9 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 124.0
+E-value: 0.0439
+Alignment Length: 103
+Percentage Identity: 0.174
+
+=== A0A0F9QLL4 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+DE   Flags: Fragment;
+Bit Score: 118.0
+E-value: 0.0439
+Alignment Length: 109
+Percentage Identity: 0.22
+
+=== A0A1D2QY05 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 117.0
+E-value: 0.0439
+Alignment Length: 111
+Percentage Identity: 0.225
+
+=== A0A0C6G0X1 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 117.0
+E-value: 0.0439
+Alignment Length: 110
+Percentage Identity: 0.19
+
+=== A0A7C1KK81 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 121.0
+E-value: 0.04642
+Alignment Length: 103
+Percentage Identity: 0.213
+
+=== A0A0F9JVM0 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 108.0
+E-value: 0.04642
+Alignment Length: 109
+Percentage Identity: 0.211
+
+=== A0A0F9QW39 ===
+DE   RecName: Full=dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909};
+Bit Score: 109.0
+E-value: 0.04909
+Alignment Length: 100
+Percentage Identity: 0.21
+

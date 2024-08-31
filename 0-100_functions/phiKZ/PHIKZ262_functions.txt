@@ -1,0 +1,7 @@
+=== A0A0S6XRD1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAM88204.1};
+Bit Score: 81.0
+E-value: 0.04235
+Alignment Length: 79
+Percentage Identity: 0.088
+

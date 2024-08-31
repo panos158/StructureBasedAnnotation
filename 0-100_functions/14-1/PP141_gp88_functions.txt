@@ -1,0 +1,8 @@
+=== A0A2E1XES6 ===
+DE   SubName: Full=Transposase {ECO:0000313|EMBL:MAW80826.1};
+DE   Flags: Fragment;
+Bit Score: 78.0
+E-value: 0.04892
+Alignment Length: 55
+Percentage Identity: 0.163
+

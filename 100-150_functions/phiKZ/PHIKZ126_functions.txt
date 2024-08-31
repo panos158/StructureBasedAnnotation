@@ -1,0 +1,507 @@
+=== A0A431I8U5 ===
+DE   RecName: Full=Virion structural protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 324.0
+E-value: 3.255e-09
+Alignment Length: 147
+Percentage Identity: 0.217
+
+=== A0A5W3F2G8 ===
+DE   RecName: Full=Virion structural protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 288.0
+E-value: 6.857e-09
+Alignment Length: 146
+Percentage Identity: 0.184
+
+=== A0A5U8XQ62 ===
+DE   RecName: Full=Virion structural protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 281.0
+E-value: 1.127e-08
+Alignment Length: 154
+Percentage Identity: 0.168
+
+=== A0A5U8XPN3 ===
+DE   RecName: Full=Virion structural protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 289.0
+E-value: 3.665e-08
+Alignment Length: 148
+Percentage Identity: 0.148
+
+=== A0A3Z4X657 ===
+DE   RecName: Full=Virion structural protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 277.0
+E-value: 4.126e-07
+Alignment Length: 162
+Percentage Identity: 0.16
+
+=== A0A5W4PTP0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EBW9188282.1};
+Bit Score: 227.0
+E-value: 1.428e-06
+Alignment Length: 152
+Percentage Identity: 0.171
+
+=== A0A5W3F1K7 ===
+DE   RecName: Full=Virion structural protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 203.0
+E-value: 3.201e-06
+Alignment Length: 153
+Percentage Identity: 0.163
+
+=== A0A3Z4X611 ===
+DE   RecName: Full=Virion structural protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 209.0
+E-value: 3.624e-06
+Alignment Length: 155
+Percentage Identity: 0.135
+
+=== A0A5W4PTI8 ===
+DE   RecName: Full=Virion structural protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 205.0
+E-value: 3.856e-06
+Alignment Length: 156
+Percentage Identity: 0.173
+
+=== A0A5U8XKA7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EBS0563339.1};
+Bit Score: 214.0
+E-value: 4.103e-06
+Alignment Length: 152
+Percentage Identity: 0.125
+
+=== A0A5W4PV06 ===
+DE   RecName: Full=Virion structural protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 206.0
+E-value: 4.646e-06
+Alignment Length: 154
+Percentage Identity: 0.162
+
+=== A0A3Z4X638 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 191.0
+E-value: 5.597e-06
+Alignment Length: 169
+Percentage Identity: 0.177
+
+=== A0A5U8XK25 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EBS0563268.1};
+Bit Score: 167.0
+E-value: 7.174e-06
+Alignment Length: 166
+Percentage Identity: 0.21
+
+=== A0A5U8XK34 ===
+DE   RecName: Full=Virion structural protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 207.0
+E-value: 8.123e-06
+Alignment Length: 159
+Percentage Identity: 0.125
+
+=== A0A635RBJ8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EDH8304231.1};
+Bit Score: 201.0
+E-value: 8.123e-06
+Alignment Length: 150
+Percentage Identity: 0.113
+
+=== A0A7W8PCY5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB5409413.1};
+Bit Score: 198.0
+E-value: 8.643e-06
+Alignment Length: 151
+Percentage Identity: 0.132
+
+=== K1XQE6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EKD22663.1};
+Bit Score: 173.0
+E-value: 9.196e-06
+Alignment Length: 148
+Percentage Identity: 0.141
+
+=== Q2SST8 ===
+DE   SubName: Full=Membrane protein, putative {ECO:0000313|EMBL:ABC01447.1};
+Bit Score: 152.0
+E-value: 1.335e-05
+Alignment Length: 142
+Percentage Identity: 0.169
+
+=== A0A5W4PXU8 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 193.0
+E-value: 1.511e-05
+Alignment Length: 155
+Percentage Identity: 0.148
+
+=== A0A635R807 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EDH8302950.1};
+Bit Score: 191.0
+E-value: 1.511e-05
+Alignment Length: 151
+Percentage Identity: 0.178
+
+=== A0A5U8XLV5 ===
+DE   RecName: Full=Virion structural protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 191.0
+E-value: 2.193e-05
+Alignment Length: 162
+Percentage Identity: 0.179
+
+=== A0A2K8NWK2 ===
+DE   RecName: Full=BspA family leucine-rich repeat surface protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 126.0
+E-value: 3.835e-05
+Alignment Length: 127
+Percentage Identity: 0.188
+
+=== A0A1J0U104 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:APE13469.1};
+Bit Score: 124.0
+E-value: 0.0001327
+Alignment Length: 144
+Percentage Identity: 0.201
+
+=== A0A4P7AI85 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QBQ07403.1};
+Bit Score: 99.0
+E-value: 0.0001412
+Alignment Length: 135
+Percentage Identity: 0.133
+
+=== S6G3I1 ===
+DE   RecName: Full=PARCEL domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.0001599
+Alignment Length: 123
+Percentage Identity: 0.178
+
+=== R4U675 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AGM26108.1};
+Bit Score: 121.0
+E-value: 0.000181
+Alignment Length: 147
+Percentage Identity: 0.156
+
+=== A0A2S5REV3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PPE05844.1};
+Bit Score: 109.0
+E-value: 0.000181
+Alignment Length: 149
+Percentage Identity: 0.154
+
+=== S6G3K5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EOA07281.1};
+Bit Score: 108.0
+E-value: 0.0002796
+Alignment Length: 163
+Percentage Identity: 0.159
+
+=== A0A0K1W3C4 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 118.0
+E-value: 0.0002975
+Alignment Length: 148
+Percentage Identity: 0.155
+
+=== A0A0K1P7K9 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.0003368
+Alignment Length: 154
+Percentage Identity: 0.136
+
+=== A0A1B3SLZ3 ===
+DE   RecName: Full=Spiralin {ECO:0008006|Google:ProtNLM};
+Bit Score: 100.0
+E-value: 0.0004057
+Alignment Length: 169
+Percentage Identity: 0.201
+
+=== A0A222EPL4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ASP28386.1};
+Bit Score: 107.0
+E-value: 0.0005889
+Alignment Length: 150
+Percentage Identity: 0.166
+
+=== A0A2K8NVG0 ===
+DE   SubName: Full=Chitinase {ECO:0000313|EMBL:ATZ16731.1};
+Bit Score: 104.0
+E-value: 0.0007094
+Alignment Length: 122
+Percentage Identity: 0.155
+
+=== A0A1B3SLY8 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 95.0
+E-value: 0.0009676
+Alignment Length: 160
+Percentage Identity: 0.137
+
+=== A0A2W7G0J2 ===
+DE   SubName: Full=Surface protein {ECO:0000313|EMBL:PZV98730.1};
+Bit Score: 104.0
+E-value: 0.00103
+Alignment Length: 131
+Percentage Identity: 0.175
+
+=== S6G8G7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EOA07444.1};
+Bit Score: 93.0
+E-value: 0.00103
+Alignment Length: 128
+Percentage Identity: 0.101
+
+=== R4U3G4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AGM25947.1};
+Bit Score: 116.0
+E-value: 0.00132
+Alignment Length: 125
+Percentage Identity: 0.152
+
+=== A0A2S5RCU9 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 96.0
+E-value: 0.001404
+Alignment Length: 147
+Percentage Identity: 0.156
+
+=== A0A1B3SKA9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AOG60358.1};
+Bit Score: 94.0
+E-value: 0.001494
+Alignment Length: 119
+Percentage Identity: 0.176
+
+=== A0A0K1P650 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AKU79654.1};
+Bit Score: 105.0
+E-value: 0.0018
+Alignment Length: 125
+Percentage Identity: 0.128
+
+=== A0A084EKH7 ===
+DE   RecName: Full=PARCEL domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 102.0
+E-value: 0.0018
+Alignment Length: 130
+Percentage Identity: 0.184
+
+=== R4UCY2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AGM25749.1};
+Bit Score: 94.0
+E-value: 0.0018
+Alignment Length: 152
+Percentage Identity: 0.144
+
+=== A0A1B3SM05 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 84.0
+E-value: 0.0018
+Alignment Length: 140
+Percentage Identity: 0.157
+
+=== A0A432ZV71 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RUO86044.1};
+Bit Score: 98.0
+E-value: 0.001915
+Alignment Length: 137
+Percentage Identity: 0.131
+
+=== A0A0H3XN11 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AKM54507.1};
+Bit Score: 104.0
+E-value: 0.002169
+Alignment Length: 145
+Percentage Identity: 0.137
+
+=== A0A1B3SK21 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 85.0
+E-value: 0.002169
+Alignment Length: 162
+Percentage Identity: 0.185
+
+=== A0A0K1W2D7 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 90.0
+E-value: 0.002308
+Alignment Length: 130
+Percentage Identity: 0.115
+
+=== A0A2S5RF29 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 89.0
+E-value: 0.002455
+Alignment Length: 133
+Percentage Identity: 0.135
+
+=== A0A5B9Y312 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QEH61454.1};
+Bit Score: 101.0
+E-value: 0.002613
+Alignment Length: 128
+Percentage Identity: 0.14
+
+=== A0A222ENA0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ASP27977.1};
+Bit Score: 87.0
+E-value: 0.003148
+Alignment Length: 157
+Percentage Identity: 0.127
+
+=== A0A1B3SM09 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 80.0
+E-value: 0.003148
+Alignment Length: 159
+Percentage Identity: 0.125
+
+=== A0A2S0NK56 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 75.0
+E-value: 0.003349
+Alignment Length: 151
+Percentage Identity: 0.178
+
+=== A0A2K8NUI9 ===
+DE   SubName: Full=Chitinase {ECO:0000313|EMBL:ATZ16431.1};
+Bit Score: 102.0
+E-value: 0.004035
+Alignment Length: 124
+Percentage Identity: 0.137
+
+=== A0A858AR72 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QHX36018.1};
+Bit Score: 89.0
+E-value: 0.004035
+Alignment Length: 150
+Percentage Identity: 0.16
+
+=== A0A654IN10 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VZR99952.1};
+Bit Score: 101.0
+E-value: 0.004861
+Alignment Length: 122
+Percentage Identity: 0.131
+
+=== A0A2S5RF80 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 89.0
+E-value: 0.004861
+Alignment Length: 161
+Percentage Identity: 0.068
+
+=== A0A1B3SM04 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 86.0
+E-value: 0.005172
+Alignment Length: 155
+Percentage Identity: 0.096
+
+=== A0A2S5RFD8 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 83.0
+E-value: 0.006231
+Alignment Length: 134
+Percentage Identity: 0.164
+
+=== V5RJC1 ===
+DE   RecName: Full=Chitinase {ECO:0008006|Google:ProtNLM};
+Bit Score: 95.0
+E-value: 0.007987
+Alignment Length: 123
+Percentage Identity: 0.121
+
+=== A0A2K8SE48 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 78.0
+E-value: 0.007987
+Alignment Length: 135
+Percentage Identity: 0.118
+
+=== A0A2S5RAH0 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 73.0
+E-value: 0.008499
+Alignment Length: 164
+Percentage Identity: 0.115
+
+=== A0A2S8NQL2 ===
+DE   SubName: Full=Adhesin {ECO:0000313|EMBL:PQP78162.1};
+DE   Flags: Fragment;
+Bit Score: 79.0
+E-value: 0.009622
+Alignment Length: 143
+Percentage Identity: 0.062
+
+=== A0A2K8NSB3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ATZ16730.1};
+Bit Score: 65.0
+E-value: 0.009622
+Alignment Length: 158
+Percentage Identity: 0.132
+
+=== A0A5B9Y3I9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QEH61571.1};
+Bit Score: 81.0
+E-value: 0.01089
+Alignment Length: 129
+Percentage Identity: 0.116
+
+=== A0A3S0T686 ===
+DE   RecName: Full=Adhesin {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 76.0
+E-value: 0.01159
+Alignment Length: 141
+Percentage Identity: 0.07
+
+=== A0A2S0NJ86 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AVP49062.1};
+Bit Score: 76.0
+E-value: 0.01312
+Alignment Length: 152
+Percentage Identity: 0.144
+
+=== S5LWV2 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 81.0
+E-value: 0.01486
+Alignment Length: 117
+Percentage Identity: 0.145
+
+=== A0A2S0NK77 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AVP49409.1};
+Bit Score: 86.0
+E-value: 0.01581
+Alignment Length: 146
+Percentage Identity: 0.164
+
+=== Q9RPD6 ===
+DE   SubName: Full=Variable surface lipoprotein {ECO:0000313|EMBL:AAD53533.1};
+DE   SubName: Full=VspN {ECO:0000313|EMBL:AAK94964.1};
+Bit Score: 66.0
+E-value: 0.02442
+Alignment Length: 142
+Percentage Identity: 0.147
+
+=== A0A0K1P5T3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AKU79668.1};
+Bit Score: 71.0
+E-value: 0.02598
+Alignment Length: 127
+Percentage Identity: 0.173
+
+=== A0A2S5RHA4 ===
+DE   RecName: Full=Spiralin {ECO:0008006|Google:ProtNLM};
+Bit Score: 68.0
+E-value: 0.02764
+Alignment Length: 159
+Percentage Identity: 0.094
+
+=== A0A5B9Y6M6 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 57.0
+E-value: 0.04269
+Alignment Length: 172
+Percentage Identity: 0.104
+

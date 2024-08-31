@@ -1,0 +1,2503 @@
+=== A0A5C7JHR7 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 492.0
+E-value: 3.056e-12
+Alignment Length: 117
+Percentage Identity: 0.333
+
+=== A0A2M7QCT5 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 403.0
+E-value: 1.129e-10
+Alignment Length: 107
+Percentage Identity: 0.308
+
+=== A0A1V5WE13 ===
+DE   SubName: Full=Cytidine and deoxycytidylate deaminase zinc-binding region {ECO:0000313|EMBL:OQB01681.1};
+Bit Score: 370.0
+E-value: 3.682e-10
+Alignment Length: 122
+Percentage Identity: 0.303
+
+=== A0A1V5X528 ===
+DE   SubName: Full=Cytidine and deoxycytidylate deaminase zinc-binding region {ECO:0000313|EMBL:OQB10755.1};
+Bit Score: 357.0
+E-value: 1.744e-09
+Alignment Length: 104
+Percentage Identity: 0.336
+
+=== A0A2D6Y0Z2 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 335.0
+E-value: 1.278e-08
+Alignment Length: 108
+Percentage Identity: 0.259
+
+=== A0A349YL33 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 261.0
+E-value: 5.022e-07
+Alignment Length: 123
+Percentage Identity: 0.252
+
+=== A0A6M3JTA6 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+DE   Flags: Fragment;
+Bit Score: 211.0
+E-value: 1.638e-06
+Alignment Length: 125
+Percentage Identity: 0.232
+
+=== A0A5C7J6C3 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 250.0
+E-value: 1.855e-06
+Alignment Length: 120
+Percentage Identity: 0.241
+
+=== A0A7K0NYN6 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 219.0
+E-value: 3.248e-06
+Alignment Length: 121
+Percentage Identity: 0.272
+
+=== K2DSI6 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 214.0
+E-value: 4.166e-06
+Alignment Length: 105
+Percentage Identity: 0.238
+
+=== A0A843GC80 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|Pfam:PF00383};
+Bit Score: 240.0
+E-value: 5.021e-06
+Alignment Length: 127
+Percentage Identity: 0.188
+
+=== A0A3M2BJZ3 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 233.0
+E-value: 5.343e-06
+Alignment Length: 119
+Percentage Identity: 0.294
+
+=== A0A550H9F2 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+DE   Flags: Fragment;
+Bit Score: 201.0
+E-value: 7.761e-06
+Alignment Length: 123
+Percentage Identity: 0.26
+
+=== A0A843FK01 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBO7692773.1};
+Bit Score: 194.0
+E-value: 8.79e-06
+Alignment Length: 126
+Percentage Identity: 0.261
+
+=== A0A5C9EUP3 ===
+DE   SubName: Full=Putative tRNA-specific adenosine deaminase {ECO:0000313|EMBL:TXT66034.1};
+Bit Score: 193.0
+E-value: 1.059e-05
+Alignment Length: 123
+Percentage Identity: 0.195
+
+=== A0A0F9LUG0 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 205.0
+E-value: 1.277e-05
+Alignment Length: 121
+Percentage Identity: 0.214
+
+=== A0A7W8EXZ6 ===
+DE   SubName: Full=Deoxycytidylate deaminase {ECO:0000313|EMBL:MBB5109602.1};
+Bit Score: 187.0
+E-value: 1.446e-05
+Alignment Length: 119
+Percentage Identity: 0.277
+
+=== A0A428ZK09 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 203.0
+E-value: 1.638e-05
+Alignment Length: 120
+Percentage Identity: 0.233
+
+=== A0A2E4W7U7 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|Pfam:PF00383};
+Bit Score: 214.0
+E-value: 1.974e-05
+Alignment Length: 127
+Percentage Identity: 0.244
+
+=== A0A7J4UQL8 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 192.0
+E-value: 2.694e-05
+Alignment Length: 120
+Percentage Identity: 0.25
+
+=== A0A6M3LX63 ===
+DE   SubName: Full=Putative CMP/dCMP deaminase zinc-binding {ECO:0000313|EMBL:QJA97255.1};
+Bit Score: 187.0
+E-value: 3.913e-05
+Alignment Length: 125
+Percentage Identity: 0.232
+
+=== A0A842SFD0 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:MBD3204076.1};
+Bit Score: 169.0
+E-value: 4.165e-05
+Alignment Length: 130
+Percentage Identity: 0.238
+
+=== A0A3M0HX12 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 200.0
+E-value: 4.432e-05
+Alignment Length: 119
+Percentage Identity: 0.21
+
+=== A0A2D6X5U2 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 210.0
+E-value: 4.717e-05
+Alignment Length: 119
+Percentage Identity: 0.252
+
+=== A0A3D5S2K2 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 197.0
+E-value: 5.342e-05
+Alignment Length: 119
+Percentage Identity: 0.252
+
+=== A0A0G1R5I9 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 164.0
+E-value: 5.342e-05
+Alignment Length: 129
+Percentage Identity: 0.209
+
+=== A0A6H1ZZ94 ===
+DE   SubName: Full=Putative CMP/dCMP deaminase zinc-binding {ECO:0000313|EMBL:QJA52828.1};
+Bit Score: 186.0
+E-value: 6.05e-05
+Alignment Length: 116
+Percentage Identity: 0.241
+
+=== A0A0F9GX88 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 182.0
+E-value: 6.05e-05
+Alignment Length: 120
+Percentage Identity: 0.216
+
+=== A0A417AIK3 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 196.0
+E-value: 6.851e-05
+Alignment Length: 123
+Percentage Identity: 0.268
+
+=== A0A6C0F9E7 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|Pfam:PF00383};
+Bit Score: 161.0
+E-value: 9.952e-05
+Alignment Length: 107
+Percentage Identity: 0.205
+
+=== A0A5J5GHK2 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 184.0
+E-value: 0.0001277
+Alignment Length: 122
+Percentage Identity: 0.221
+
+=== A0A5C7JFF1 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 174.0
+E-value: 0.0001277
+Alignment Length: 125
+Percentage Identity: 0.2
+
+=== A0A842UCP5 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 162.0
+E-value: 0.0001277
+Alignment Length: 128
+Percentage Identity: 0.265
+
+=== A0A6H1ZDQ1 ===
+DE   SubName: Full=Putative CMP/dCMP deaminase zinc-binding {ECO:0000313|EMBL:QJA45551.1};
+Bit Score: 175.0
+E-value: 0.0001446
+Alignment Length: 115
+Percentage Identity: 0.217
+
+=== A0A3E0QI28 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 172.0
+E-value: 0.0001446
+Alignment Length: 129
+Percentage Identity: 0.201
+
+=== A0A256YBE2 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:OYT37771.1};
+Bit Score: 157.0
+E-value: 0.0001538
+Alignment Length: 130
+Percentage Identity: 0.23
+
+=== A0A662AVA9 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|Pfam:PF00383};
+Bit Score: 170.0
+E-value: 0.0001854
+Alignment Length: 118
+Percentage Identity: 0.127
+
+=== A0A2D6M9V7 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 186.0
+E-value: 0.0001973
+Alignment Length: 122
+Percentage Identity: 0.221
+
+=== A0A6C0AXE4 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 173.0
+E-value: 0.0001973
+Alignment Length: 118
+Percentage Identity: 0.211
+
+=== T0ZBE6 ===
+DE   SubName: Full=Deoxycytidylate deaminase {ECO:0000313|EMBL:EQD45331.1};
+Bit Score: 160.0
+E-value: 0.0001973
+Alignment Length: 125
+Percentage Identity: 0.208
+
+=== A0A7C7RKX9 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:HIE23820.1};
+Bit Score: 164.0
+E-value: 0.00021
+Alignment Length: 130
+Percentage Identity: 0.223
+
+=== X1D2W0 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 160.0
+E-value: 0.0002235
+Alignment Length: 131
+Percentage Identity: 0.206
+
+=== A0A5N9AG87 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 175.0
+E-value: 0.0002378
+Alignment Length: 102
+Percentage Identity: 0.225
+
+=== A0A2D5TH88 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 173.0
+E-value: 0.0002378
+Alignment Length: 123
+Percentage Identity: 0.178
+
+=== A0A3B0AHD9 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|Pfam:PF00383};
+Bit Score: 156.0
+E-value: 0.0002378
+Alignment Length: 119
+Percentage Identity: 0.252
+
+=== A0A2A2DF63 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 150.0
+E-value: 0.0002531
+Alignment Length: 124
+Percentage Identity: 0.209
+
+=== A0A0G1Z293 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 169.0
+E-value: 0.0002693
+Alignment Length: 114
+Percentage Identity: 0.166
+
+=== A0A497KY33 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:RLI07339.1};
+DE   Flags: Fragment;
+Bit Score: 158.0
+E-value: 0.0002693
+Alignment Length: 125
+Percentage Identity: 0.24
+
+=== A0A6N7ATQ2 ===
+DE   SubName: Full=Putative ComE operon protein 2 {ECO:0000313|EMBL:KAF0145834.1};
+Bit Score: 161.0
+E-value: 0.0002866
+Alignment Length: 132
+Percentage Identity: 0.196
+
+=== A0A2D6M9S2 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 167.0
+E-value: 0.000305
+Alignment Length: 120
+Percentage Identity: 0.233
+
+=== A0A4Y3VSE3 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 159.0
+E-value: 0.000305
+Alignment Length: 121
+Percentage Identity: 0.223
+
+=== A0A3A4UY80 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 166.0
+E-value: 0.0003455
+Alignment Length: 121
+Percentage Identity: 0.173
+
+=== A0A2E6KFI5 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 148.0
+E-value: 0.0003677
+Alignment Length: 124
+Percentage Identity: 0.233
+
+=== A0A524GG62 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:TFG36649.1};
+Bit Score: 148.0
+E-value: 0.0003677
+Alignment Length: 111
+Percentage Identity: 0.216
+
+=== A0A7V8AVC4 ===
+DE   SubName: Full=dCMP deaminase {ECO:0000313|EMBL:KAF0181912.1};
+Bit Score: 140.0
+E-value: 0.0003677
+Alignment Length: 132
+Percentage Identity: 0.189
+
+=== A0A6C0IVE7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QHT96520.1};
+Bit Score: 163.0
+E-value: 0.0004164
+Alignment Length: 138
+Percentage Identity: 0.202
+
+=== A0A7C3U5N9 ===
+DE   SubName: Full=dCMP deaminase family protein {ECO:0000313|EMBL:HGE14611.1};
+Bit Score: 149.0
+E-value: 0.0004431
+Alignment Length: 125
+Percentage Identity: 0.208
+
+=== A0A1G2H8U8 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|Pfam:PF00383};
+Bit Score: 143.0
+E-value: 0.0004431
+Alignment Length: 113
+Percentage Identity: 0.212
+
+=== A0A6C0AII7 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|Pfam:PF00383};
+Bit Score: 137.0
+E-value: 0.0005683
+Alignment Length: 115
+Percentage Identity: 0.208
+
+=== A0A354Z2Q2 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:HBK55845.1};
+Bit Score: 140.0
+E-value: 0.0006048
+Alignment Length: 121
+Percentage Identity: 0.206
+
+=== A0A2D6MH43 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|Pfam:PF00383};
+Bit Score: 155.0
+E-value: 0.000729
+Alignment Length: 115
+Percentage Identity: 0.182
+
+=== A0A3M8B7T4 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|Pfam:PF00383};
+Bit Score: 147.0
+E-value: 0.0008786
+Alignment Length: 121
+Percentage Identity: 0.223
+
+=== A0A292SAN1 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 142.0
+E-value: 0.0008786
+Alignment Length: 131
+Percentage Identity: 0.16
+
+=== A0A1F5S302 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 122.0
+E-value: 0.0008786
+Alignment Length: 131
+Percentage Identity: 0.221
+
+=== A0A1G2LSU4 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 138.0
+E-value: 0.000995
+Alignment Length: 131
+Percentage Identity: 0.198
+
+=== A0A2M7WY95 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:PJA38082.1};
+Bit Score: 134.0
+E-value: 0.001276
+Alignment Length: 117
+Percentage Identity: 0.23
+
+=== A0A1V5WSV4 ===
+DE   SubName: Full=tRNA-specific adenosine deaminase {ECO:0000313|EMBL:OQB06405.1};
+Bit Score: 92.0
+E-value: 0.001276
+Alignment Length: 157
+Percentage Identity: 0.203
+
+=== A0A2H6FVA6 ===
+DE   SubName: Full=Cytidine and deoxycytidylate deaminase zinc-binding region {ECO:0000313|EMBL:GBE05653.1};
+Bit Score: 134.0
+E-value: 0.001445
+Alignment Length: 128
+Percentage Identity: 0.203
+
+=== A0A6A5TW10 ===
+DE   SubName: Full=Cytidine deaminase-like protein {ECO:0000313|EMBL:KAF1957083.1};
+Bit Score: 104.0
+E-value: 0.001445
+Alignment Length: 131
+Percentage Identity: 0.16
+
+=== A0A350IE80 ===
+DE   SubName: Full=CMP deaminase {ECO:0000313|EMBL:HAW06097.1};
+Bit Score: 96.0
+E-value: 0.001445
+Alignment Length: 144
+Percentage Identity: 0.118
+
+=== A0A7C6BGM9 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:HHT03797.1};
+DE            EC=3.5.4.5 {ECO:0000313|EMBL:HHT03797.1};
+Bit Score: 135.0
+E-value: 0.001538
+Alignment Length: 129
+Percentage Identity: 0.147
+
+=== A0A0B2WNY0 ===
+DE   SubName: Full=DRAP deaminase {ECO:0000313|EMBL:KHN95359.1};
+Bit Score: 79.0
+E-value: 0.001742
+Alignment Length: 155
+Percentage Identity: 0.167
+
+=== A0A2D6E5V3 ===
+DE   SubName: Full=CMP deaminase {ECO:0000313|EMBL:MAF25774.1};
+Bit Score: 117.0
+E-value: 0.001854
+Alignment Length: 117
+Percentage Identity: 0.205
+
+=== A0A1Y2BFG7 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+DE   Flags: Fragment;
+Bit Score: 125.0
+E-value: 0.001973
+Alignment Length: 124
+Percentage Identity: 0.169
+
+=== A0A2G5BDQ6 ===
+DE   SubName: Full=CMP/dCMP deaminase, zinc-binding protein {ECO:0000313|EMBL:PIA17146.1};
+Bit Score: 121.0
+E-value: 0.001973
+Alignment Length: 129
+Percentage Identity: 0.186
+
+=== A0A1Z9PVJ5 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 113.0
+E-value: 0.001973
+Alignment Length: 115
+Percentage Identity: 0.191
+
+=== A0A6C0EBP2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QHT26597.1};
+Bit Score: 137.0
+E-value: 0.002234
+Alignment Length: 136
+Percentage Identity: 0.205
+
+=== A0A0T6BH43 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+DE   Flags: Fragment;
+Bit Score: 125.0
+E-value: 0.002234
+Alignment Length: 120
+Percentage Identity: 0.191
+
+=== A0A1Y1R8G2 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:OQX72449.1};
+Bit Score: 123.0
+E-value: 0.002234
+Alignment Length: 121
+Percentage Identity: 0.173
+
+=== A0A0G1AME0 ===
+DE   SubName: Full=ComE operon protein 2 {ECO:0000313|EMBL:KKS35266.1};
+Bit Score: 121.0
+E-value: 0.002234
+Alignment Length: 131
+Percentage Identity: 0.229
+
+=== A0A1Y1IL60 ===
+DE   SubName: Full=dCMP deaminase {ECO:0000313|EMBL:GAQ91403.1};
+Bit Score: 120.0
+E-value: 0.002378
+Alignment Length: 128
+Percentage Identity: 0.164
+
+=== A0A150V510 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 97.0
+E-value: 0.002378
+Alignment Length: 137
+Percentage Identity: 0.189
+
+=== A0A6A5V3D3 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 95.0
+E-value: 0.00253
+Alignment Length: 134
+Percentage Identity: 0.186
+
+=== A0A0F8XXP7 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+DE   Flags: Fragment;
+Bit Score: 122.0
+E-value: 0.002693
+Alignment Length: 113
+Percentage Identity: 0.15
+
+=== A0A1F5EGU6 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 119.0
+E-value: 0.002693
+Alignment Length: 125
+Percentage Identity: 0.2
+
+=== A0A6C0KU24 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 131.0
+E-value: 0.00305
+Alignment Length: 120
+Percentage Identity: 0.191
+
+=== A0A521HH83 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:TAH42765.1};
+DE            EC=3.5.4.5 {ECO:0000313|EMBL:TAH42765.1};
+Bit Score: 109.0
+E-value: 0.003246
+Alignment Length: 109
+Percentage Identity: 0.201
+
+=== A0A3D9L7F7 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 130.0
+E-value: 0.003454
+Alignment Length: 120
+Percentage Identity: 0.125
+
+=== A0A6C0LZK2 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 139.0
+E-value: 0.003676
+Alignment Length: 122
+Percentage Identity: 0.188
+
+=== A0A2E2PIN3 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|Pfam:PF00383};
+Bit Score: 125.0
+E-value: 0.003912
+Alignment Length: 121
+Percentage Identity: 0.173
+
+=== A0A6C0DZS8 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 124.0
+E-value: 0.003912
+Alignment Length: 124
+Percentage Identity: 0.177
+
+=== A0A353DJI8 ===
+DE   SubName: Full=Deoxycytidylate deaminase {ECO:0000313|EMBL:HBE98172.1};
+DE   Flags: Fragment;
+Bit Score: 118.0
+E-value: 0.004163
+Alignment Length: 118
+Percentage Identity: 0.177
+
+=== A0A6C0H771 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|Pfam:PF00383};
+Bit Score: 115.0
+E-value: 0.004163
+Alignment Length: 123
+Percentage Identity: 0.178
+
+=== A0A662BGR3 ===
+DE   SubName: Full=Cell division protein DedD {ECO:0000313|EMBL:RLD76201.1};
+Bit Score: 107.0
+E-value: 0.004163
+Alignment Length: 119
+Percentage Identity: 0.184
+
+=== A0A6C0IWD9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QHT96755.1};
+Bit Score: 97.0
+E-value: 0.004163
+Alignment Length: 131
+Percentage Identity: 0.16
+
+=== A0A258SGW5 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:OYY78471.1};
+Bit Score: 116.0
+E-value: 0.00443
+Alignment Length: 118
+Percentage Identity: 0.169
+
+=== A0A418WIP3 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 115.0
+E-value: 0.00443
+Alignment Length: 123
+Percentage Identity: 0.178
+
+=== A0A662ZJ37 ===
+DE   SubName: Full=Deoxycytidylate deaminase {ECO:0000313|EMBL:SFP43132.1};
+Bit Score: 112.0
+E-value: 0.004715
+Alignment Length: 121
+Percentage Identity: 0.19
+
+=== A0A6C0LP73 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 97.0
+E-value: 0.005017
+Alignment Length: 156
+Percentage Identity: 0.166
+
+=== A0A1V5L869 ===
+DE   SubName: Full=Cytidine and deoxycytidylate deaminase zinc-binding region {ECO:0000313|EMBL:OPZ77134.1};
+Bit Score: 111.0
+E-value: 0.005339
+Alignment Length: 116
+Percentage Identity: 0.172
+
+=== A0A2S6R4V2 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 115.0
+E-value: 0.006047
+Alignment Length: 118
+Percentage Identity: 0.186
+
+=== A0A6N0NVH3 ===
+DE   RecName: Full=cytidine deaminase {ECO:0000256|ARBA:ARBA00012783};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005};
+Bit Score: 113.0
+E-value: 0.006435
+Alignment Length: 118
+Percentage Identity: 0.161
+
+=== A0A094FXI6 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 97.0
+E-value: 0.006435
+Alignment Length: 133
+Percentage Identity: 0.112
+
+=== M7T4C5 ===
+DE   RecName: Full=protein-ribulosamine 3-kinase {ECO:0000256|ARBA:ARBA00011961};
+DE            EC=2.7.1.172 {ECO:0000256|ARBA:ARBA00011961};
+Bit Score: 91.0
+E-value: 0.006435
+Alignment Length: 128
+Percentage Identity: 0.14
+
+=== A0A6C0KKH3 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 103.0
+E-value: 0.006848
+Alignment Length: 121
+Percentage Identity: 0.173
+
+=== A0A7S4RKM0 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 126.0
+E-value: 0.007288
+Alignment Length: 169
+Percentage Identity: 0.1
+
+=== A0A132HWD6 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:KWW41055.1};
+Bit Score: 125.0
+E-value: 0.007288
+Alignment Length: 112
+Percentage Identity: 0.151
+
+=== A0A7V9D5V3 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:MBA2365091.1};
+DE            EC=3.5.4.5 {ECO:0000313|EMBL:MBA2365091.1};
+Bit Score: 100.0
+E-value: 0.007288
+Alignment Length: 124
+Percentage Identity: 0.185
+
+=== A0A420YLB2 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 76.0
+E-value: 0.007288
+Alignment Length: 153
+Percentage Identity: 0.15
+
+=== A0A3S4D9Y0 ===
+DE   RecName: Full=GPI inositol-deacylase {ECO:0000256|ARBA:ARBA00015856, ECO:0000256|RuleBase:RU365011};
+DE            EC=3.1.-.- {ECO:0000256|RuleBase:RU365011};
+Bit Score: 74.0
+E-value: 0.007288
+Alignment Length: 156
+Percentage Identity: 0.147
+
+=== D5GEY3 ===
+DE   SubName: Full=(Perigord truffle) hypothetical protein {ECO:0000313|EMBL:CAZ83076.1};
+Bit Score: 103.0
+E-value: 0.007756
+Alignment Length: 124
+Percentage Identity: 0.169
+
+=== A0A850B4H9 ===
+DE   RecName: Full=Riboflavin biosynthesis protein RibD {ECO:0000256|ARBA:ARBA00019930};
+DE            EC=3.5.4.26 {ECO:0000256|ARBA:ARBA00012766};
+Bit Score: 101.0
+E-value: 0.007756
+Alignment Length: 129
+Percentage Identity: 0.162
+
+=== A0A2H1GP57 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 98.0
+E-value: 0.007756
+Alignment Length: 138
+Percentage Identity: 0.166
+
+=== A0A1X1ZIJ8 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:ORW23158.1};
+Bit Score: 94.0
+E-value: 0.007756
+Alignment Length: 111
+Percentage Identity: 0.189
+
+=== A0A3M7RRZ5 ===
+DE   SubName: Full=Deoxycytidylate deaminase {ECO:0000313|EMBL:RNA26324.1};
+Bit Score: 112.0
+E-value: 0.008254
+Alignment Length: 119
+Percentage Identity: 0.142
+
+=== A0A6L9S5C3 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:NED99691.1};
+DE            EC=3.5.4.5 {ECO:0000313|EMBL:NED99691.1};
+Bit Score: 92.0
+E-value: 0.008254
+Alignment Length: 119
+Percentage Identity: 0.201
+
+=== F9XFT7 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 82.0
+E-value: 0.008254
+Alignment Length: 135
+Percentage Identity: 0.162
+
+=== A0A2N5ZRL3 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 108.0
+E-value: 0.008784
+Alignment Length: 127
+Percentage Identity: 0.244
+
+=== A0A0U1KK64 ===
+DE   SubName: Full=Guanine deaminase {ECO:0000313|EMBL:CQR46378.1};
+Bit Score: 106.0
+E-value: 0.008784
+Alignment Length: 121
+Percentage Identity: 0.173
+
+=== A0A0F9NA95 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 102.0
+E-value: 0.008784
+Alignment Length: 117
+Percentage Identity: 0.196
+
+=== A0A7I7RWV6 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:BBY49112.1};
+Bit Score: 99.0
+E-value: 0.008784
+Alignment Length: 108
+Percentage Identity: 0.203
+
+=== A0A7I7X476 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:BBZ24140.1};
+Bit Score: 95.0
+E-value: 0.008784
+Alignment Length: 118
+Percentage Identity: 0.186
+
+=== A0A0F9SGT9 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|Pfam:PF00383};
+Bit Score: 106.0
+E-value: 0.009348
+Alignment Length: 119
+Percentage Identity: 0.184
+
+=== A0A2G5UTC4 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 110.0
+E-value: 0.009948
+Alignment Length: 122
+Percentage Identity: 0.18
+
+=== A0A1Q8LXP3 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:OLM33573.1};
+DE            EC=3.5.4.5 {ECO:0000313|EMBL:OLM33573.1};
+Bit Score: 97.0
+E-value: 0.009948
+Alignment Length: 113
+Percentage Identity: 0.185
+
+=== A0A349MFZ8 ===
+DE   SubName: Full=Deoxycytidylate deaminase {ECO:0000313|EMBL:HAT49462.1};
+Bit Score: 78.0
+E-value: 0.009948
+Alignment Length: 153
+Percentage Identity: 0.15
+
+=== A0A164PFT6 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 106.0
+E-value: 0.01059
+Alignment Length: 122
+Percentage Identity: 0.18
+
+=== A0A2E7K352 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 104.0
+E-value: 0.01059
+Alignment Length: 133
+Percentage Identity: 0.165
+
+=== A0A2T6ZB70 ===
+DE   SubName: Full=Cytidine deaminase-like protein {ECO:0000313|EMBL:PUU72723.1};
+DE   Flags: Fragment;
+Bit Score: 102.0
+E-value: 0.01059
+Alignment Length: 125
+Percentage Identity: 0.168
+
+=== A0A2S4PMC6 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 85.0
+E-value: 0.01059
+Alignment Length: 128
+Percentage Identity: 0.195
+
+=== A0A2U3P3X7 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:SPM38446.1};
+Bit Score: 99.0
+E-value: 0.01127
+Alignment Length: 116
+Percentage Identity: 0.189
+
+=== A0A7Z0D7E9 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:NYI70285.1};
+DE            EC=3.5.4.5 {ECO:0000313|EMBL:NYI70285.1};
+Bit Score: 92.0
+E-value: 0.01127
+Alignment Length: 123
+Percentage Identity: 0.219
+
+=== A0A537KZJ9 ===
+DE   SubName: Full=CMP deaminase {ECO:0000313|EMBL:TMJ00917.1};
+Bit Score: 83.0
+E-value: 0.01127
+Alignment Length: 150
+Percentage Identity: 0.12
+
+=== A0A167ISS9 ===
+DE   SubName: Full=DRAP deaminase {ECO:0000313|EMBL:OAA49397.1};
+Bit Score: 67.0
+E-value: 0.01127
+Alignment Length: 155
+Percentage Identity: 0.154
+
+=== A0A519GZE0 ===
+DE   SubName: Full=Riboflavin biosynthesis protein RibD {ECO:0000313|EMBL:RZI93382.1};
+DE   Flags: Fragment;
+Bit Score: 104.0
+E-value: 0.01199
+Alignment Length: 126
+Percentage Identity: 0.142
+
+=== A0A839QQ85 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 96.0
+E-value: 0.01199
+Alignment Length: 124
+Percentage Identity: 0.169
+
+=== A0A7X5WMJ4 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:NIX49835.1};
+DE            EC=3.5.4.5 {ECO:0000313|EMBL:NIX49835.1};
+DE   Flags: Fragment;
+Bit Score: 95.0
+E-value: 0.01199
+Alignment Length: 105
+Percentage Identity: 0.18
+
+=== A0A1R4HLA2 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:SJN08329.1};
+DE            EC=3.5.4.5 {ECO:0000313|EMBL:SJN08329.1};
+Bit Score: 87.0
+E-value: 0.01199
+Alignment Length: 111
+Percentage Identity: 0.18
+
+=== A0A4R5AHD0 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:TDD72033.1};
+DE            EC=3.5.4.5 {ECO:0000313|EMBL:TDD72033.1};
+Bit Score: 87.0
+E-value: 0.01199
+Alignment Length: 111
+Percentage Identity: 0.18
+
+=== A0A2V5GZP5 ===
+DE   SubName: Full=DRAP deaminase {ECO:0000313|EMBL:PYI16998.1};
+DE   Flags: Fragment;
+Bit Score: 86.0
+E-value: 0.01199
+Alignment Length: 135
+Percentage Identity: 0.133
+
+=== A0A1J7K2W5 ===
+DE   SubName: Full=Cytidine deaminase-like protein {ECO:0000313|EMBL:OIW34506.1};
+Bit Score: 85.0
+E-value: 0.01199
+Alignment Length: 135
+Percentage Identity: 0.162
+
+=== A0A3M0Z018 ===
+DE   SubName: Full=Nucleoside deaminase {ECO:0000313|EMBL:RMD77669.1};
+Bit Score: 114.0
+E-value: 0.01276
+Alignment Length: 123
+Percentage Identity: 0.178
+
+=== F9ZXU5 ===
+DE   SubName: Full=CMP/dCMP deaminase zinc-binding protein {ECO:0000313|EMBL:AEF98524.1};
+Bit Score: 112.0
+E-value: 0.01276
+Alignment Length: 123
+Percentage Identity: 0.138
+
+=== A0A7X8I294 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 102.0
+E-value: 0.01276
+Alignment Length: 118
+Percentage Identity: 0.177
+
+=== A0A397FXY6 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:RHZ37239.1};
+Bit Score: 101.0
+E-value: 0.01276
+Alignment Length: 124
+Percentage Identity: 0.153
+
+=== A0A1F3VGQ3 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 99.0
+E-value: 0.01276
+Alignment Length: 127
+Percentage Identity: 0.141
+
+=== A0A4R8REP1 ===
+DE   SubName: Full=Protein argonaute MEL1 {ECO:0000313|EMBL:TDZ58411.1};
+Bit Score: 87.0
+E-value: 0.01276
+Alignment Length: 131
+Percentage Identity: 0.175
+
+=== A0A352FD35 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:HBB92617.1};
+Bit Score: 119.0
+E-value: 0.01358
+Alignment Length: 127
+Percentage Identity: 0.149
+
+=== A0A369TBZ9 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 100.0
+E-value: 0.01358
+Alignment Length: 114
+Percentage Identity: 0.149
+
+=== A0A7X8TK98 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 92.0
+E-value: 0.01358
+Alignment Length: 117
+Percentage Identity: 0.153
+
+=== A0A383UMC4 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 80.0
+E-value: 0.01358
+Alignment Length: 128
+Percentage Identity: 0.171
+
+=== A0A2M8M5I7 ===
+DE   SubName: Full=dCMP deaminase {ECO:0000313|EMBL:PJE99463.1};
+Bit Score: 76.0
+E-value: 0.01358
+Alignment Length: 127
+Percentage Identity: 0.188
+
+=== A0A0R2P0Q1 ===
+DE   RecName: Full=Riboflavin biosynthesis protein RibD {ECO:0000256|ARBA:ARBA00019930};
+DE            EC=1.1.1.193 {ECO:0000256|ARBA:ARBA00013173};
+DE            EC=3.5.4.26 {ECO:0000256|ARBA:ARBA00012766};
+DE   Flags: Fragment;
+Bit Score: 98.0
+E-value: 0.01445
+Alignment Length: 125
+Percentage Identity: 0.2
+
+=== A0A7Y2I0F7 ===
+DE   RecName: Full=Riboflavin biosynthesis protein RibD {ECO:0000256|PIRNR:PIRNR006769};
+DE   Includes:
+DE     RecName: Full=Diaminohydroxyphosphoribosylaminopyrimidine deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE              Short=DRAP deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE              EC=3.5.4.26 {ECO:0000256|PIRNR:PIRNR006769};
+DE     AltName: Full=Riboflavin-specific deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE   Includes:
+DE     RecName: Full=5-amino-6-(5-phosphoribosylamino)uracil reductase {ECO:0000256|PIRNR:PIRNR006769};
+DE              EC=1.1.1.193 {ECO:0000256|PIRNR:PIRNR006769};
+DE     AltName: Full=HTP reductase {ECO:0000256|PIRNR:PIRNR006769};
+Bit Score: 98.0
+E-value: 0.01445
+Alignment Length: 123
+Percentage Identity: 0.17
+
+=== A0A7V9DUG0 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:MBA2390687.1};
+DE            EC=3.5.4.5 {ECO:0000313|EMBL:MBA2390687.1};
+Bit Score: 94.0
+E-value: 0.01445
+Alignment Length: 115
+Percentage Identity: 0.191
+
+=== A0A3G6J2Q9 ===
+DE   RecName: Full=tRNA-specific adenosine deaminase {ECO:0000256|HAMAP-Rule:MF_00972};
+DE            EC=3.5.4.33 {ECO:0000256|HAMAP-Rule:MF_00972};
+DE   Flags: Precursor;
+Bit Score: 93.0
+E-value: 0.01445
+Alignment Length: 120
+Percentage Identity: 0.191
+
+=== A0A2N8PE20 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:PNE39275.1};
+Bit Score: 88.0
+E-value: 0.01445
+Alignment Length: 110
+Percentage Identity: 0.163
+
+=== A0A6A6UUT2 ===
+DE   SubName: Full=Cytidine deaminase-like protein {ECO:0000313|EMBL:KAF2674828.1};
+Bit Score: 72.0
+E-value: 0.01445
+Alignment Length: 158
+Percentage Identity: 0.158
+
+=== A0A351R060 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:HBA05431.1};
+Bit Score: 107.0
+E-value: 0.01538
+Alignment Length: 132
+Percentage Identity: 0.204
+
+=== A0A2N2LAC4 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 106.0
+E-value: 0.01538
+Alignment Length: 127
+Percentage Identity: 0.118
+
+=== A0A507FGT7 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 100.0
+E-value: 0.01538
+Alignment Length: 132
+Percentage Identity: 0.181
+
+=== A0A4R6S1J0 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:TDP93412.1};
+Bit Score: 95.0
+E-value: 0.01538
+Alignment Length: 109
+Percentage Identity: 0.165
+
+=== A0A0T6LLC6 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:KRV46915.1};
+Bit Score: 92.0
+E-value: 0.01538
+Alignment Length: 116
+Percentage Identity: 0.206
+
+=== A0A847AWY6 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 103.0
+E-value: 0.01637
+Alignment Length: 107
+Percentage Identity: 0.168
+
+=== A0A7W7CN11 ===
+DE   SubName: Full=Diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase {ECO:0000313|EMBL:MBB4691543.1};
+DE            EC=1.1.1.193 {ECO:0000313|EMBL:MBB4691543.1};
+DE            EC=3.5.4.26 {ECO:0000313|EMBL:MBB4691543.1};
+Bit Score: 101.0
+E-value: 0.01637
+Alignment Length: 121
+Percentage Identity: 0.181
+
+=== A0A814I8U8 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 99.0
+E-value: 0.01637
+Alignment Length: 181
+Percentage Identity: 0.154
+
+=== A0A800AD51 ===
+DE   SubName: Full=dCMP deaminase family protein {ECO:0000313|EMBL:HIE26200.1};
+Bit Score: 96.0
+E-value: 0.01637
+Alignment Length: 120
+Percentage Identity: 0.166
+
+=== A0A7X7HRQ5 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:NLD76076.1};
+DE            EC=3.5.4.5 {ECO:0000313|EMBL:NLD76076.1};
+Bit Score: 85.0
+E-value: 0.01637
+Alignment Length: 109
+Percentage Identity: 0.183
+
+=== A0A4Q7KMP0 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:RZS36861.1};
+Bit Score: 82.0
+E-value: 0.01637
+Alignment Length: 112
+Percentage Identity: 0.214
+
+=== A0A507CKZ4 ===
+DE   RecName: Full=Probable metalloreductase AIM14 {ECO:0000256|ARBA:ARBA00039704};
+Bit Score: 80.0
+E-value: 0.01637
+Alignment Length: 124
+Percentage Identity: 0.185
+
+=== M9RAE8 ===
+DE   SubName: Full=Putative dCMP deaminase family protein {ECO:0000313|EMBL:AGI66730.1};
+Bit Score: 104.0
+E-value: 0.01742
+Alignment Length: 122
+Percentage Identity: 0.188
+
+=== A0A6J6EL39 ===
+DE   RecName: Full=cytidine deaminase {ECO:0000256|ARBA:ARBA00012783};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005};
+Bit Score: 93.0
+E-value: 0.01742
+Alignment Length: 108
+Percentage Identity: 0.166
+
+=== A0A2T9Z669 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 93.0
+E-value: 0.01742
+Alignment Length: 128
+Percentage Identity: 0.125
+
+=== A0A095WRS9 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 91.0
+E-value: 0.01742
+Alignment Length: 110
+Percentage Identity: 0.163
+
+=== A0A419HYV4 ===
+DE   SubName: Full=dCMP deaminase {ECO:0000313|EMBL:RJQ82314.1};
+Bit Score: 90.0
+E-value: 0.01742
+Alignment Length: 123
+Percentage Identity: 0.154
+
+=== A0A138ANY1 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:KXP12141.1};
+Bit Score: 89.0
+E-value: 0.01742
+Alignment Length: 118
+Percentage Identity: 0.169
+
+=== A0A7Y1SX03 ===
+DE   RecName: Full=Riboflavin biosynthesis protein RibD {ECO:0000256|ARBA:ARBA00019930};
+DE            EC=1.1.1.193 {ECO:0000256|ARBA:ARBA00013173};
+DE            EC=3.5.4.26 {ECO:0000256|ARBA:ARBA00012766};
+DE   Flags: Fragment;
+Bit Score: 101.0
+E-value: 0.01853
+Alignment Length: 119
+Percentage Identity: 0.159
+
+=== A0A6P4J4A8 ===
+DE   SubName: Full=Uncharacterized protein LOC108079527 {ECO:0000313|RefSeq:XP_017029353.1};
+Bit Score: 99.0
+E-value: 0.01853
+Alignment Length: 116
+Percentage Identity: 0.172
+
+=== A0A6N7EM27 ===
+DE   SubName: Full=Riboflavin biosynthesis protein RibD {ECO:0000313|EMBL:MPV38178.1};
+DE   Flags: Fragment;
+Bit Score: 98.0
+E-value: 0.01853
+Alignment Length: 128
+Percentage Identity: 0.156
+
+=== A0A1H1GXL1 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:SDR17924.1};
+Bit Score: 88.0
+E-value: 0.01853
+Alignment Length: 118
+Percentage Identity: 0.177
+
+=== A0A0S9DZ53 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:KQO11167.1};
+Bit Score: 86.0
+E-value: 0.01853
+Alignment Length: 111
+Percentage Identity: 0.198
+
+=== A0A0Q5C9M9 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 81.0
+E-value: 0.01853
+Alignment Length: 115
+Percentage Identity: 0.2
+
+=== A0A3P9BF45 ===
+DE   SubName: Full=dCMP deaminase {ECO:0000313|Ensembl:ENSMZEP00005008512.1};
+Bit Score: 104.0
+E-value: 0.01972
+Alignment Length: 128
+Percentage Identity: 0.156
+
+=== A0A4Q2XIJ9 ===
+DE   SubName: Full=Deoxycytidylate deaminase {ECO:0000313|EMBL:RYD24505.1};
+Bit Score: 103.0
+E-value: 0.01972
+Alignment Length: 114
+Percentage Identity: 0.175
+
+=== A0A2E7A0J7 ===
+DE   RecName: Full=Riboflavin biosynthesis protein RibD {ECO:0000256|PIRNR:PIRNR006769};
+DE   Includes:
+DE     RecName: Full=Diaminohydroxyphosphoribosylaminopyrimidine deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE              Short=DRAP deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE              EC=3.5.4.26 {ECO:0000256|PIRNR:PIRNR006769};
+DE     AltName: Full=Riboflavin-specific deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE   Includes:
+DE     RecName: Full=5-amino-6-(5-phosphoribosylamino)uracil reductase {ECO:0000256|PIRNR:PIRNR006769};
+DE              EC=1.1.1.193 {ECO:0000256|PIRNR:PIRNR006769};
+DE     AltName: Full=HTP reductase {ECO:0000256|PIRNR:PIRNR006769};
+Bit Score: 97.0
+E-value: 0.01972
+Alignment Length: 122
+Percentage Identity: 0.18
+
+=== A0A1V2IZ00 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:ONH38422.1};
+Bit Score: 94.0
+E-value: 0.01972
+Alignment Length: 115
+Percentage Identity: 0.182
+
+=== K7RYZ7 ===
+DE   RecName: Full=Riboflavin biosynthesis protein RibD {ECO:0000256|PIRNR:PIRNR006769};
+DE   Includes:
+DE     RecName: Full=Diaminohydroxyphosphoribosylaminopyrimidine deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE              Short=DRAP deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE              EC=3.5.4.26 {ECO:0000256|PIRNR:PIRNR006769};
+DE     AltName: Full=Riboflavin-specific deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE   Includes:
+DE     RecName: Full=5-amino-6-(5-phosphoribosylamino)uracil reductase {ECO:0000256|PIRNR:PIRNR006769};
+DE              EC=1.1.1.193 {ECO:0000256|PIRNR:PIRNR006769};
+DE     AltName: Full=HTP reductase {ECO:0000256|PIRNR:PIRNR006769};
+Bit Score: 91.0
+E-value: 0.01972
+Alignment Length: 120
+Percentage Identity: 0.166
+
+=== A0A1Q5Q0L2 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 89.0
+E-value: 0.01972
+Alignment Length: 110
+Percentage Identity: 0.154
+
+=== A0A6J7EZ84 ===
+DE   RecName: Full=cytidine deaminase {ECO:0000256|ARBA:ARBA00012783};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005};
+Bit Score: 86.0
+E-value: 0.01972
+Alignment Length: 109
+Percentage Identity: 0.192
+
+=== A0A0S4QFW5 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:CUU54437.1};
+Bit Score: 86.0
+E-value: 0.01972
+Alignment Length: 110
+Percentage Identity: 0.181
+
+=== W6YMP2 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 79.0
+E-value: 0.01972
+Alignment Length: 133
+Percentage Identity: 0.165
+
+=== A0A5C8TE56 ===
+DE   SubName: Full=dCMP deaminase {ECO:0000313|EMBL:TXN00422.1};
+Bit Score: 96.0
+E-value: 0.02099
+Alignment Length: 168
+Percentage Identity: 0.13
+
+=== A0A2E3KHS4 ===
+DE   RecName: Full=Riboflavin biosynthesis protein RibD {ECO:0000256|PIRNR:PIRNR006769};
+DE   Includes:
+DE     RecName: Full=Diaminohydroxyphosphoribosylaminopyrimidine deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE              Short=DRAP deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE              EC=3.5.4.26 {ECO:0000256|PIRNR:PIRNR006769};
+DE     AltName: Full=Riboflavin-specific deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE   Includes:
+DE     RecName: Full=5-amino-6-(5-phosphoribosylamino)uracil reductase {ECO:0000256|PIRNR:PIRNR006769};
+DE              EC=1.1.1.193 {ECO:0000256|PIRNR:PIRNR006769};
+DE     AltName: Full=HTP reductase {ECO:0000256|PIRNR:PIRNR006769};
+Bit Score: 95.0
+E-value: 0.02099
+Alignment Length: 123
+Percentage Identity: 0.227
+
+=== A0A6V8LKI0 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 94.0
+E-value: 0.02099
+Alignment Length: 125
+Percentage Identity: 0.184
+
+=== F8AY07 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:AEH08506.1};
+Bit Score: 90.0
+E-value: 0.02099
+Alignment Length: 111
+Percentage Identity: 0.171
+
+=== A0A2G6QYW4 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 84.0
+E-value: 0.02099
+Alignment Length: 110
+Percentage Identity: 0.154
+
+=== A0A290ZE91 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:ATE57294.1};
+Bit Score: 83.0
+E-value: 0.02099
+Alignment Length: 109
+Percentage Identity: 0.192
+
+=== A0A6A6I124 ===
+DE   SubName: Full=Cytidine deaminase-like protein {ECO:0000313|EMBL:KAF2243849.1};
+Bit Score: 66.0
+E-value: 0.02099
+Alignment Length: 152
+Percentage Identity: 0.138
+
+=== A0A0Q4V262 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 91.0
+E-value: 0.02234
+Alignment Length: 108
+Percentage Identity: 0.166
+
+=== A0A1H7XP61 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:SEM34998.1};
+Bit Score: 86.0
+E-value: 0.02234
+Alignment Length: 126
+Percentage Identity: 0.174
+
+=== S3CKM6 ===
+DE   SubName: Full=Cytidine deaminase-like protein {ECO:0000313|EMBL:EPE27087.1};
+Bit Score: 83.0
+E-value: 0.02234
+Alignment Length: 127
+Percentage Identity: 0.188
+
+=== A0A4Q0AX19 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:RWZ87951.1};
+DE            EC=3.5.4.5 {ECO:0000313|EMBL:RWZ87951.1};
+Bit Score: 104.0
+E-value: 0.02377
+Alignment Length: 131
+Percentage Identity: 0.152
+
+=== A0A327Z1F2 ===
+DE   SubName: Full=Diaminohydroxyphosphoribosylaminopyrimidine deaminase {ECO:0000313|EMBL:RAK28274.1};
+Bit Score: 101.0
+E-value: 0.02377
+Alignment Length: 125
+Percentage Identity: 0.176
+
+=== I0HE21 ===
+DE   SubName: Full=Putative CMP/dCMP deaminase {ECO:0000313|EMBL:BAL91258.1};
+Bit Score: 98.0
+E-value: 0.02377
+Alignment Length: 125
+Percentage Identity: 0.16
+
+=== A0A3E1ES83 ===
+DE   SubName: Full=dCMP deaminase {ECO:0000313|EMBL:RFC52393.1};
+Bit Score: 97.0
+E-value: 0.02377
+Alignment Length: 119
+Percentage Identity: 0.193
+
+=== A0A139AY20 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 95.0
+E-value: 0.02377
+Alignment Length: 129
+Percentage Identity: 0.178
+
+=== A0A810N123 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 94.0
+E-value: 0.02377
+Alignment Length: 128
+Percentage Identity: 0.179
+
+=== A0A4Q7V1Q7 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:RZT88266.1};
+Bit Score: 92.0
+E-value: 0.02377
+Alignment Length: 109
+Percentage Identity: 0.155
+
+=== A0A7K1UJH5 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 91.0
+E-value: 0.02377
+Alignment Length: 116
+Percentage Identity: 0.146
+
+=== A0A6N7VTH3 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 87.0
+E-value: 0.02377
+Alignment Length: 118
+Percentage Identity: 0.177
+
+=== A0A7J9Y1T5 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:MQA25359.1};
+DE            EC=3.5.4.5 {ECO:0000313|EMBL:MQA25359.1};
+DE   Flags: Fragment;
+Bit Score: 86.0
+E-value: 0.02377
+Alignment Length: 107
+Percentage Identity: 0.196
+
+=== A0A7Y0QM40 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 84.0
+E-value: 0.02377
+Alignment Length: 111
+Percentage Identity: 0.189
+
+=== A0A387BNG8 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 82.0
+E-value: 0.02377
+Alignment Length: 110
+Percentage Identity: 0.154
+
+=== A0A6C0GZX2 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 81.0
+E-value: 0.02377
+Alignment Length: 115
+Percentage Identity: 0.156
+
+=== A0A507C867 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 80.0
+E-value: 0.02377
+Alignment Length: 126
+Percentage Identity: 0.166
+
+=== A0A3N4KPH3 ===
+DE   SubName: Full=Diaminohydroxyphosphoribosylamino-pyrimidine deaminase {ECO:0000313|EMBL:RPB12503.1};
+Bit Score: 78.0
+E-value: 0.02377
+Alignment Length: 122
+Percentage Identity: 0.18
+
+=== A0A0E0C849 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 101.0
+E-value: 0.0253
+Alignment Length: 126
+Percentage Identity: 0.19
+
+=== A0A668SNP2 ===
+DE   SubName: Full=dCMP deaminase {ECO:0000313|Ensembl:ENSOABP00000015880.1};
+Bit Score: 99.0
+E-value: 0.0253
+Alignment Length: 130
+Percentage Identity: 0.192
+
+=== A0A7Y3CU18 ===
+DE   RecName: Full=Riboflavin biosynthesis protein RibD {ECO:0000256|ARBA:ARBA00019930};
+DE            EC=1.1.1.193 {ECO:0000256|ARBA:ARBA00013173};
+DE            EC=3.5.4.26 {ECO:0000256|ARBA:ARBA00012766};
+DE   Flags: Fragment;
+Bit Score: 98.0
+E-value: 0.0253
+Alignment Length: 119
+Percentage Identity: 0.151
+
+=== A0A1I7FS03 ===
+DE   SubName: Full=Deoxycytidylate deaminase {ECO:0000313|EMBL:SFU38999.1};
+Bit Score: 97.0
+E-value: 0.0253
+Alignment Length: 168
+Percentage Identity: 0.166
+
+=== A0A090F912 ===
+DE   SubName: Full=CMP/dCMP deaminase zinc-binding protein {ECO:0000313|EMBL:CDX15664.1};
+Bit Score: 96.0
+E-value: 0.0253
+Alignment Length: 170
+Percentage Identity: 0.152
+
+=== A0A7X6RID6 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 86.0
+E-value: 0.0253
+Alignment Length: 118
+Percentage Identity: 0.186
+
+=== A0A5Q4TBR7 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 85.0
+E-value: 0.0253
+Alignment Length: 111
+Percentage Identity: 0.198
+
+=== A0A5R9M8E0 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:QNA74952.1};
+DE            EC=3.5.4.5 {ECO:0000313|EMBL:QNA74952.1};
+Bit Score: 85.0
+E-value: 0.0253
+Alignment Length: 110
+Percentage Identity: 0.145
+
+=== A0A1U7NIM3 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:OLU42466.1};
+Bit Score: 101.0
+E-value: 0.02692
+Alignment Length: 133
+Percentage Identity: 0.18
+
+=== A0A1Y6C623 ===
+DE   SubName: Full=Diaminohydroxyphosphoribosylaminopyrimidine deaminase {ECO:0000313|EMBL:SMF45898.1};
+Bit Score: 93.0
+E-value: 0.02692
+Alignment Length: 129
+Percentage Identity: 0.155
+
+=== A0A7K2ZFW9 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:MYW31218.1};
+DE            EC=3.5.4.5 {ECO:0000313|EMBL:MYW31218.1};
+Bit Score: 90.0
+E-value: 0.02692
+Alignment Length: 109
+Percentage Identity: 0.165
+
+=== A0A7H0ICS9 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:QNP70595.1};
+DE            EC=3.5.4.5 {ECO:0000313|EMBL:QNP70595.1};
+Bit Score: 87.0
+E-value: 0.02692
+Alignment Length: 108
+Percentage Identity: 0.166
+
+=== A0A318RG67 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:PYE14673.1};
+Bit Score: 84.0
+E-value: 0.02692
+Alignment Length: 110
+Percentage Identity: 0.181
+
+=== A0A7I7Y1H3 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:BBZ34971.1};
+Bit Score: 83.0
+E-value: 0.02692
+Alignment Length: 110
+Percentage Identity: 0.172
+
+=== A0A543FMK8 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:TQM35103.1};
+Bit Score: 81.0
+E-value: 0.02692
+Alignment Length: 110
+Percentage Identity: 0.19
+
+=== A0A6A6YTZ1 ===
+DE   SubName: Full=Cytidine deaminase-like protein {ECO:0000313|EMBL:KAF2812240.1, ECO:0000313|RefSeq:XP_033579204.1};
+Bit Score: 80.0
+E-value: 0.02692
+Alignment Length: 131
+Percentage Identity: 0.19
+
+=== A0A218ZIZ3 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 70.0
+E-value: 0.02692
+Alignment Length: 151
+Percentage Identity: 0.158
+
+=== A0A2A9GYW3 ===
+DE   RecName: Full=Multifunctional fusion protein {ECO:0000256|HAMAP-Rule:MF_00179, ECO:0000256|HAMAP-Rule:MF_00180};
+DE   Includes:
+DE     RecName: Full=GTP cyclohydrolase-2 {ECO:0000256|HAMAP-Rule:MF_00179};
+DE              EC=3.5.4.25 {ECO:0000256|HAMAP-Rule:MF_00179};
+DE     AltName: Full=GTP cyclohydrolase II {ECO:0000256|HAMAP-Rule:MF_00179};
+DE   Includes:
+DE     RecName: Full=3,4-dihydroxy-2-butanone 4-phosphate synthase {ECO:0000256|HAMAP-Rule:MF_00180};
+DE              Short=DHBP synthase {ECO:0000256|HAMAP-Rule:MF_00180};
+DE              EC=4.1.99.12 {ECO:0000256|HAMAP-Rule:MF_00180};
+Bit Score: 101.0
+E-value: 0.02865
+Alignment Length: 119
+Percentage Identity: 0.176
+
+=== A0A3C1AQB0 ===
+DE   SubName: Full=Deoxycytidylate deaminase {ECO:0000313|EMBL:HAL70212.1};
+Bit Score: 96.0
+E-value: 0.02865
+Alignment Length: 117
+Percentage Identity: 0.196
+
+=== A0A4V2SRR8 ===
+DE   SubName: Full=Diaminohydroxyphosphoribosylaminopyrimidine deaminase {ECO:0000313|EMBL:TCP43886.1};
+Bit Score: 96.0
+E-value: 0.02865
+Alignment Length: 123
+Percentage Identity: 0.17
+
+=== A0A3D0J0P0 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 94.0
+E-value: 0.02865
+Alignment Length: 119
+Percentage Identity: 0.151
+
+=== A0A3D0X0V5 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:HCB92393.1};
+Bit Score: 93.0
+E-value: 0.02865
+Alignment Length: 123
+Percentage Identity: 0.138
+
+=== A0A2A9E4F3 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:PFG33723.1};
+Bit Score: 76.0
+E-value: 0.02865
+Alignment Length: 115
+Percentage Identity: 0.191
+
+=== A0A2G4GN83 ===
+DE   SubName: Full=tRNA-specific adenosine deaminase {ECO:0000313|EMBL:PHX75264.1};
+DE   Flags: Fragment;
+Bit Score: 97.0
+E-value: 0.03049
+Alignment Length: 120
+Percentage Identity: 0.166
+
+=== A0A6C0IAY0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QHT89173.1};
+Bit Score: 92.0
+E-value: 0.03049
+Alignment Length: 123
+Percentage Identity: 0.17
+
+=== A0A2B4SHR9 ===
+DE   SubName: Full=Deoxycytidylate deaminase {ECO:0000313|EMBL:PFX28005.1};
+Bit Score: 92.0
+E-value: 0.03049
+Alignment Length: 121
+Percentage Identity: 0.165
+
+=== A0A7Z9RXQ1 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:HIC22151.1};
+DE            EC=3.5.4.5 {ECO:0000313|EMBL:HIC22151.1};
+Bit Score: 92.0
+E-value: 0.03049
+Alignment Length: 108
+Percentage Identity: 0.138
+
+=== A0A7Y2ETC3 ===
+DE   RecName: Full=Riboflavin biosynthesis protein RibD {ECO:0000256|PIRNR:PIRNR006769};
+DE   Includes:
+DE     RecName: Full=Diaminohydroxyphosphoribosylaminopyrimidine deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE              Short=DRAP deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE              EC=3.5.4.26 {ECO:0000256|PIRNR:PIRNR006769};
+DE     AltName: Full=Riboflavin-specific deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE   Includes:
+DE     RecName: Full=5-amino-6-(5-phosphoribosylamino)uracil reductase {ECO:0000256|PIRNR:PIRNR006769};
+DE              EC=1.1.1.193 {ECO:0000256|PIRNR:PIRNR006769};
+DE     AltName: Full=HTP reductase {ECO:0000256|PIRNR:PIRNR006769};
+Bit Score: 91.0
+E-value: 0.03049
+Alignment Length: 127
+Percentage Identity: 0.141
+
+=== A0A1H3QQX4 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:SDZ16002.1};
+Bit Score: 90.0
+E-value: 0.03049
+Alignment Length: 108
+Percentage Identity: 0.194
+
+=== A0A853C5K4 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 88.0
+E-value: 0.03049
+Alignment Length: 116
+Percentage Identity: 0.155
+
+=== A0A2G2GJA0 ===
+DE   SubName: Full=dCMP deaminase {ECO:0000313|EMBL:PHR61639.1};
+Bit Score: 85.0
+E-value: 0.03049
+Alignment Length: 159
+Percentage Identity: 0.157
+
+=== A0A0B7K7Q7 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 78.0
+E-value: 0.03049
+Alignment Length: 127
+Percentage Identity: 0.181
+
+=== A0A1U8Q2T3 ===
+DE   SubName: Full=Deoxycytidylate deaminase isoform X4 {ECO:0000313|RefSeq:XP_019052345.1};
+Bit Score: 98.0
+E-value: 0.03245
+Alignment Length: 137
+Percentage Identity: 0.167
+
+=== A0A2V9P7Y4 ===
+DE   RecName: Full=Riboflavin biosynthesis protein RibD {ECO:0000256|ARBA:ARBA00019930};
+DE            EC=1.1.1.193 {ECO:0000256|ARBA:ARBA00013173};
+DE            EC=3.5.4.26 {ECO:0000256|ARBA:ARBA00012766};
+DE   Flags: Fragment;
+Bit Score: 96.0
+E-value: 0.03245
+Alignment Length: 118
+Percentage Identity: 0.194
+
+=== A0A524HPI2 ===
+DE   RecName: Full=diaminohydroxyphosphoribosylaminopyrimidine deaminase {ECO:0000256|ARBA:ARBA00012766};
+DE            EC=3.5.4.26 {ECO:0000256|ARBA:ARBA00012766};
+DE   Flags: Fragment;
+Bit Score: 96.0
+E-value: 0.03245
+Alignment Length: 121
+Percentage Identity: 0.157
+
+=== A0A5J4YF56 ===
+DE   SubName: Full=Cytidine deoxycytidylate deaminase family {ECO:0000313|EMBL:KAA6428954.1};
+Bit Score: 95.0
+E-value: 0.03245
+Alignment Length: 126
+Percentage Identity: 0.174
+
+=== A0A6I4T797 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 94.0
+E-value: 0.03245
+Alignment Length: 186
+Percentage Identity: 0.118
+
+=== A0A512MDH1 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 92.0
+E-value: 0.03245
+Alignment Length: 112
+Percentage Identity: 0.196
+
+=== A0A160P4E5 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 88.0
+E-value: 0.03245
+Alignment Length: 108
+Percentage Identity: 0.185
+
+=== A0A345HT73 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:AXG79897.1};
+DE            EC=3.5.4.5 {ECO:0000313|EMBL:AXG79897.1};
+Bit Score: 84.0
+E-value: 0.03245
+Alignment Length: 111
+Percentage Identity: 0.18
+
+=== A0A3N4IM89 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 62.0
+E-value: 0.03245
+Alignment Length: 168
+Percentage Identity: 0.13
+
+=== A0A7C2E4L7 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 100.0
+E-value: 0.03453
+Alignment Length: 111
+Percentage Identity: 0.153
+
+=== A0A2S3ZCS5 ===
+DE   RecName: Full=Riboflavin biosynthesis protein RibD {ECO:0000256|ARBA:ARBA00019930};
+DE            EC=1.1.1.193 {ECO:0000256|ARBA:ARBA00013173};
+DE            EC=3.5.4.26 {ECO:0000256|ARBA:ARBA00012766};
+DE   Flags: Fragment;
+Bit Score: 94.0
+E-value: 0.03453
+Alignment Length: 125
+Percentage Identity: 0.176
+
+=== A0A6J6ECX5 ===
+DE   SubName: Full=Unannotated protein {ECO:0000313|EMBL:CAB4574291.1};
+Bit Score: 92.0
+E-value: 0.03453
+Alignment Length: 119
+Percentage Identity: 0.218
+
+=== A0A7X6SWM6 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 92.0
+E-value: 0.03453
+Alignment Length: 126
+Percentage Identity: 0.126
+
+=== A0A163KDF9 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 90.0
+E-value: 0.03453
+Alignment Length: 127
+Percentage Identity: 0.149
+
+=== A0A0F4EPC7 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 87.0
+E-value: 0.03453
+Alignment Length: 119
+Percentage Identity: 0.201
+
+=== A0A364V867 ===
+DE   RecName: Full=tRNA-specific adenosine deaminase {ECO:0000256|HAMAP-Rule:MF_00972};
+DE            EC=3.5.4.33 {ECO:0000256|HAMAP-Rule:MF_00972};
+Bit Score: 87.0
+E-value: 0.03453
+Alignment Length: 120
+Percentage Identity: 0.141
+
+=== A0A3N4Z3H3 ===
+DE   SubName: Full=Diaminohydroxyphosphoribosylaminopyrimidine deaminase {ECO:0000313|EMBL:RPF20528.1};
+Bit Score: 87.0
+E-value: 0.03453
+Alignment Length: 124
+Percentage Identity: 0.104
+
+=== A0A6L7EQ98 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:MXG89483.1};
+DE            EC=3.5.4.5 {ECO:0000313|EMBL:MXG89483.1};
+Bit Score: 86.0
+E-value: 0.03453
+Alignment Length: 108
+Percentage Identity: 0.148
+
+=== D9WGN0 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:EFL25418.1};
+Bit Score: 83.0
+E-value: 0.03453
+Alignment Length: 117
+Percentage Identity: 0.17
+
+=== A0A559MG67 ===
+DE   SubName: Full=Bifunctional protein {ECO:0000313|EMBL:TVY91980.1};
+Bit Score: 68.0
+E-value: 0.03453
+Alignment Length: 135
+Percentage Identity: 0.185
+
+=== A0A1D1Z0U5 ===
+DE   SubName: Full=Putative deoxycytidylate deaminase {ECO:0000313|EMBL:JAT60517.1};
+DE   Flags: Fragment;
+Bit Score: 95.0
+E-value: 0.03675
+Alignment Length: 133
+Percentage Identity: 0.187
+
+=== A0A3E0PG18 ===
+DE   RecName: Full=Riboflavin biosynthesis protein RibD {ECO:0000256|PIRNR:PIRNR006769};
+DE   Includes:
+DE     RecName: Full=Diaminohydroxyphosphoribosylaminopyrimidine deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE              Short=DRAP deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE              EC=3.5.4.26 {ECO:0000256|PIRNR:PIRNR006769};
+DE     AltName: Full=Riboflavin-specific deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE   Includes:
+DE     RecName: Full=5-amino-6-(5-phosphoribosylamino)uracil reductase {ECO:0000256|PIRNR:PIRNR006769};
+DE              EC=1.1.1.193 {ECO:0000256|PIRNR:PIRNR006769};
+DE     AltName: Full=HTP reductase {ECO:0000256|PIRNR:PIRNR006769};
+Bit Score: 95.0
+E-value: 0.03675
+Alignment Length: 122
+Percentage Identity: 0.147
+
+=== I1K0B7 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 92.0
+E-value: 0.03675
+Alignment Length: 129
+Percentage Identity: 0.186
+
+=== A0A7J9Z2D4 ===
+DE   SubName: Full=dCMP deaminase {ECO:0000313|EMBL:MQA78062.1};
+Bit Score: 92.0
+E-value: 0.03675
+Alignment Length: 121
+Percentage Identity: 0.148
+
+=== A0A1G2U622 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 91.0
+E-value: 0.03675
+Alignment Length: 133
+Percentage Identity: 0.12
+
+=== A0A3C0X7E6 ===
+DE   SubName: Full=Nucleoside deaminase {ECO:0000313|EMBL:HAL22313.1};
+DE   Flags: Fragment;
+Bit Score: 88.0
+E-value: 0.03675
+Alignment Length: 125
+Percentage Identity: 0.16
+
+=== A0A369V440 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:RDD87477.1};
+DE            EC=3.5.4.5 {ECO:0000313|EMBL:RDD87477.1};
+Bit Score: 88.0
+E-value: 0.03675
+Alignment Length: 108
+Percentage Identity: 0.138
+
+=== A0A1M3BJ83 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+DE   Flags: Fragment;
+Bit Score: 87.0
+E-value: 0.03675
+Alignment Length: 172
+Percentage Identity: 0.127
+
+=== A6G477 ===
+DE   SubName: Full=Deoxycytidylate deaminase-related protein {ECO:0000313|EMBL:EDM79400.1};
+Bit Score: 86.0
+E-value: 0.03675
+Alignment Length: 179
+Percentage Identity: 0.134
+
+=== A0A4Q9V279 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 85.0
+E-value: 0.03675
+Alignment Length: 117
+Percentage Identity: 0.196
+
+=== A0A831PUV1 ===
+DE   SubName: Full=dCMP deaminase family protein {ECO:0000313|EMBL:HDU66309.1};
+Bit Score: 95.0
+E-value: 0.03911
+Alignment Length: 121
+Percentage Identity: 0.198
+
+=== A0A453FKX3 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 94.0
+E-value: 0.03911
+Alignment Length: 135
+Percentage Identity: 0.17
+
+=== A0A6J6E4I7 ===
+DE   SubName: Full=Unannotated protein {ECO:0000313|EMBL:CAB4571450.1};
+Bit Score: 93.0
+E-value: 0.03911
+Alignment Length: 123
+Percentage Identity: 0.186
+
+=== A0A7R9Y5R4 ===
+DE   RecName: Full=Bacterial bifunctional deaminase-reductase C-terminal domain-containing protein {ECO:0000259|Pfam:PF01872};
+DE   Flags: Fragment;
+Bit Score: 93.0
+E-value: 0.03911
+Alignment Length: 123
+Percentage Identity: 0.121
+
+=== A0A2E7DS63 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 92.0
+E-value: 0.03911
+Alignment Length: 133
+Percentage Identity: 0.15
+
+=== A0A0G1HJD1 ===
+DE   RecName: Full=Riboflavin biosynthesis protein RibD {ECO:0000256|PIRNR:PIRNR006769};
+DE   Includes:
+DE     RecName: Full=Diaminohydroxyphosphoribosylaminopyrimidine deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE              Short=DRAP deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE              EC=3.5.4.26 {ECO:0000256|PIRNR:PIRNR006769};
+DE     AltName: Full=Riboflavin-specific deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE   Includes:
+DE     RecName: Full=5-amino-6-(5-phosphoribosylamino)uracil reductase {ECO:0000256|PIRNR:PIRNR006769};
+DE              EC=1.1.1.193 {ECO:0000256|PIRNR:PIRNR006769};
+DE     AltName: Full=HTP reductase {ECO:0000256|PIRNR:PIRNR006769};
+Bit Score: 91.0
+E-value: 0.03911
+Alignment Length: 122
+Percentage Identity: 0.204
+
+=== A0A7Y9E443 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:NYD40858.1};
+DE            EC=3.5.4.5 {ECO:0000313|EMBL:NYD40858.1};
+Bit Score: 87.0
+E-value: 0.03911
+Alignment Length: 108
+Percentage Identity: 0.157
+
+=== A0A7K3F295 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:MZD58511.1};
+DE            EC=3.5.4.5 {ECO:0000313|EMBL:MZD58511.1};
+Bit Score: 87.0
+E-value: 0.03911
+Alignment Length: 108
+Percentage Identity: 0.138
+
+=== A0A4P9Z465 ===
+DE   SubName: Full=Diaminohydroxyphosphoribosylamino-pyrimidine deaminase {ECO:0000313|EMBL:RKP27286.1};
+DE   Flags: Fragment;
+Bit Score: 77.0
+E-value: 0.03911
+Alignment Length: 131
+Percentage Identity: 0.122
+
+=== A0A7J9UVS0 ===
+DE   RecName: Full=Riboflavin biosynthesis protein RibD {ECO:0000256|PIRNR:PIRNR006769};
+DE   Includes:
+DE     RecName: Full=Diaminohydroxyphosphoribosylaminopyrimidine deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE              Short=DRAP deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE              EC=3.5.4.26 {ECO:0000256|PIRNR:PIRNR006769};
+DE     AltName: Full=Riboflavin-specific deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE   Includes:
+DE     RecName: Full=5-amino-6-(5-phosphoribosylamino)uracil reductase {ECO:0000256|PIRNR:PIRNR006769};
+DE              EC=1.1.1.193 {ECO:0000256|PIRNR:PIRNR006769};
+DE     AltName: Full=HTP reductase {ECO:0000256|PIRNR:PIRNR006769};
+Bit Score: 76.0
+E-value: 0.03911
+Alignment Length: 119
+Percentage Identity: 0.193
+
+=== A0A2C5XFW5 ===
+DE   SubName: Full=Bifunctional protein RIB2 {ECO:0000313|EMBL:PHH55645.1};
+Bit Score: 59.0
+E-value: 0.03911
+Alignment Length: 168
+Percentage Identity: 0.136
+
+=== A0A847JUB9 ===
+DE   RecName: Full=Riboflavin biosynthesis protein RibD {ECO:0000256|ARBA:ARBA00019930};
+DE            EC=3.5.4.26 {ECO:0000256|ARBA:ARBA00012766};
+Bit Score: 98.0
+E-value: 0.04162
+Alignment Length: 124
+Percentage Identity: 0.161
+
+=== A0A4Q3CGU1 ===
+DE   RecName: Full=tRNA-specific adenosine deaminase {ECO:0000256|HAMAP-Rule:MF_00972};
+DE            EC=3.5.4.33 {ECO:0000256|HAMAP-Rule:MF_00972};
+Bit Score: 93.0
+E-value: 0.04162
+Alignment Length: 121
+Percentage Identity: 0.173
+
+=== A0A1U8Q0K0 ===
+DE   SubName: Full=Deoxycytidylate deaminase isoform X1 {ECO:0000313|RefSeq:XP_019052343.1};
+Bit Score: 93.0
+E-value: 0.04162
+Alignment Length: 135
+Percentage Identity: 0.17
+
+=== A0A7J6LI52 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 92.0
+E-value: 0.04162
+Alignment Length: 133
+Percentage Identity: 0.15
+
+=== A0A561UFH4 ===
+DE   SubName: Full=Diaminohydroxyphosphoribosylaminopyrimidine deaminase {ECO:0000313|EMBL:TWF98123.1};
+Bit Score: 91.0
+E-value: 0.04162
+Alignment Length: 124
+Percentage Identity: 0.185
+
+=== A0A1G2RS51 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 90.0
+E-value: 0.04162
+Alignment Length: 123
+Percentage Identity: 0.211
+
+=== A0A512D5W5 ===
+DE   RecName: Full=Riboflavin biosynthesis protein RibD {ECO:0000256|PIRNR:PIRNR006769};
+DE   Includes:
+DE     RecName: Full=Diaminohydroxyphosphoribosylaminopyrimidine deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE              Short=DRAP deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE              EC=3.5.4.26 {ECO:0000256|PIRNR:PIRNR006769};
+DE     AltName: Full=Riboflavin-specific deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE   Includes:
+DE     RecName: Full=5-amino-6-(5-phosphoribosylamino)uracil reductase {ECO:0000256|PIRNR:PIRNR006769};
+DE              EC=1.1.1.193 {ECO:0000256|PIRNR:PIRNR006769};
+DE     AltName: Full=HTP reductase {ECO:0000256|PIRNR:PIRNR006769};
+Bit Score: 90.0
+E-value: 0.04162
+Alignment Length: 122
+Percentage Identity: 0.18
+
+=== A0A2M7AVT0 ===
+DE   SubName: Full=Riboflavin biosynthesis protein RibD {ECO:0000313|EMBL:PIU74750.1};
+Bit Score: 88.0
+E-value: 0.04162
+Alignment Length: 121
+Percentage Identity: 0.181
+
+=== A0A1M6EWJ5 ===
+DE   SubName: Full=dCMP deaminase {ECO:0000313|EMBL:SHI89741.1};
+Bit Score: 84.0
+E-value: 0.04162
+Alignment Length: 125
+Percentage Identity: 0.16
+
+=== E3IXT4 ===
+DE   SubName: Full=Putative cytidine deaminase (Cytidine aminohydrolase) (CDA) {ECO:0000313|EMBL:ADP80243.1};
+Bit Score: 82.0
+E-value: 0.04162
+Alignment Length: 107
+Percentage Identity: 0.093
+
+=== A0A3D9V7J6 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 76.0
+E-value: 0.04162
+Alignment Length: 120
+Percentage Identity: 0.175
+
+=== A0A367LQK2 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 74.0
+E-value: 0.04162
+Alignment Length: 129
+Percentage Identity: 0.155
+
+=== A0A147EC72 ===
+DE   SubName: Full=DeoR faimly transcriptional regulator {ECO:0000313|EMBL:KTR81980.1};
+DE   Flags: Fragment;
+Bit Score: 96.0
+E-value: 0.04429
+Alignment Length: 127
+Percentage Identity: 0.157
+
+=== A0A6P8YT89 ===
+DE   SubName: Full=Uncharacterized protein LOC117644953 isoform X1 {ECO:0000313|RefSeq:XP_034240669.1, ECO:0000313|RefSeq:XP_034240670.1};
+Bit Score: 93.0
+E-value: 0.04429
+Alignment Length: 113
+Percentage Identity: 0.115
+
+=== A0A0F9VH75 ===
+DE   RecName: Full=cytidine deaminase {ECO:0000256|ARBA:ARBA00012783};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005};
+Bit Score: 90.0
+E-value: 0.04429
+Alignment Length: 113
+Percentage Identity: 0.132
+
+=== W6AAW6 ===
+DE   SubName: Full=Deoxycytidylate deaminase {ECO:0000313|EMBL:AHI53995.1};
+Bit Score: 89.0
+E-value: 0.04429
+Alignment Length: 126
+Percentage Identity: 0.182
+
+=== A0A3M0DAA3 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 85.0
+E-value: 0.04429
+Alignment Length: 127
+Percentage Identity: 0.125
+
+=== A0A2D6U0X3 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 85.0
+E-value: 0.04429
+Alignment Length: 123
+Percentage Identity: 0.121
+
+=== A0A1E3H3M3 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 82.0
+E-value: 0.04429
+Alignment Length: 114
+Percentage Identity: 0.166
+
+=== A0A7J9VTV3 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 76.0
+E-value: 0.04429
+Alignment Length: 119
+Percentage Identity: 0.134
+
+=== A0A1V3BWT7 ===
+DE   SubName: Full=Pyrimidine deaminase RibD-like protein {ECO:0000313|EMBL:NYH54236.1};
+DE   SubName: Full=dCMP deaminase {ECO:0000313|EMBL:OOC53057.1};
+Bit Score: 75.0
+E-value: 0.04429
+Alignment Length: 143
+Percentage Identity: 0.125
+
+=== A0A3E2GZF3 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+DE   Flags: Fragment;
+Bit Score: 72.0
+E-value: 0.04429
+Alignment Length: 128
+Percentage Identity: 0.156
+
+=== B2AKM0 ===
+DE   SubName: Full=Deaminase {ECO:0000313|EMBL:CDP29870.1};
+DE   SubName: Full=Podospora anserina S mat+ genomic DNA chromosome 5, supercontig 9 {ECO:0000313|EMBL:CAP64473.1};
+Bit Score: 72.0
+E-value: 0.04429
+Alignment Length: 134
+Percentage Identity: 0.134
+
+=== A0A7C7WWC5 ===
+DE   RecName: Full=tRNA(adenine(34)) deaminase {ECO:0000256|ARBA:ARBA00012740};
+DE            EC=3.5.4.33 {ECO:0000256|ARBA:ARBA00012740};
+Bit Score: 96.0
+E-value: 0.04713
+Alignment Length: 122
+Percentage Identity: 0.213
+
+=== A0A026VUY4 ===
+DE   SubName: Full=Deoxycytidylate deaminase {ECO:0000313|EMBL:EZA47341.1};
+Bit Score: 95.0
+E-value: 0.04713
+Alignment Length: 139
+Percentage Identity: 0.179
+
+=== A0A1I3DJ48 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00018266, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 92.0
+E-value: 0.04713
+Alignment Length: 108
+Percentage Identity: 0.166
+
+=== E6PE99 ===
+DE   SubName: Full=5-amino-6-(5-phosphoribosylamino)uracil reductase {ECO:0000313|EMBL:CBH74784.1};
+Bit Score: 91.0
+E-value: 0.04713
+Alignment Length: 121
+Percentage Identity: 0.173
+
+=== A0A0A1WX51 ===
+DE   RecName: Full=Cytidine deaminase {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE            EC=3.5.4.5 {ECO:0000256|ARBA:ARBA00012783, ECO:0000256|RuleBase:RU364006};
+DE   AltName: Full=Cytidine aminohydrolase {ECO:0000256|ARBA:ARBA00032005, ECO:0000256|RuleBase:RU364006};
+Bit Score: 91.0
+E-value: 0.04713
+Alignment Length: 111
+Percentage Identity: 0.144
+
+=== A0A445KJ87 ===
+DE   SubName: Full=Deoxycytidylate deaminase {ECO:0000313|EMBL:RZC11008.1};
+Bit Score: 90.0
+E-value: 0.04713
+Alignment Length: 129
+Percentage Identity: 0.186
+
+=== A0A1I0W9T7 ===
+DE   RecName: Full=Riboflavin biosynthesis protein RibD {ECO:0000256|PIRNR:PIRNR006769};
+DE   Includes:
+DE     RecName: Full=Diaminohydroxyphosphoribosylaminopyrimidine deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE              Short=DRAP deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE              EC=3.5.4.26 {ECO:0000256|PIRNR:PIRNR006769};
+DE     AltName: Full=Riboflavin-specific deaminase {ECO:0000256|PIRNR:PIRNR006769};
+DE   Includes:
+DE     RecName: Full=5-amino-6-(5-phosphoribosylamino)uracil reductase {ECO:0000256|PIRNR:PIRNR006769};
+DE              EC=1.1.1.193 {ECO:0000256|PIRNR:PIRNR006769};
+DE     AltName: Full=HTP reductase {ECO:0000256|PIRNR:PIRNR006769};
+Bit Score: 89.0
+E-value: 0.04713
+Alignment Length: 123
+Percentage Identity: 0.13
+
+=== A0A6L5FIU3 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 86.0
+E-value: 0.04713
+Alignment Length: 189
+Percentage Identity: 0.153
+
+=== A0A2S9Y4J5 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|Pfam:PF00383};
+Bit Score: 84.0
+E-value: 0.04713
+Alignment Length: 174
+Percentage Identity: 0.097
+
+=== A0A853EYA4 ===
+DE   SubName: Full=Cytidine deaminase {ECO:0000313|EMBL:NYS94592.1};
+DE            EC=3.5.4.5 {ECO:0000313|EMBL:NYS94592.1};
+Bit Score: 75.0
+E-value: 0.04713
+Alignment Length: 115
+Percentage Identity: 0.182
+
+=== U7PR01 ===
+DE   RecName: Full=CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747};
+Bit Score: 57.0
+E-value: 0.04713
+Alignment Length: 157
+Percentage Identity: 0.146
+

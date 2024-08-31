@@ -1,0 +1,14 @@
+=== A0A3D1TWH9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HCG01530.1};
+Bit Score: 88.0
+E-value: 0.0381
+Alignment Length: 82
+Percentage Identity: 0.134
+
+=== O28637 ===
+DE   RecName: Full=Uncharacterized protein AF_1636;
+Bit Score: 79.0
+E-value: 0.04053
+Alignment Length: 86
+Percentage Identity: 0.186
+

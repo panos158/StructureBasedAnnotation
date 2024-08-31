@@ -1,0 +1,21 @@
+=== A0A3B0LXS1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SSW95282.1};
+Bit Score: 140.0
+E-value: 0.007802
+Alignment Length: 57
+Percentage Identity: 0.175
+
+=== A0A2K9PBL8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AUO65420.1};
+Bit Score: 130.0
+E-value: 0.01735
+Alignment Length: 56
+Percentage Identity: 0.25
+
+=== A0A353YH51 ===
+DE   RecName: Full=Secreted protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 100.0
+E-value: 0.03857
+Alignment Length: 76
+Percentage Identity: 0.21
+

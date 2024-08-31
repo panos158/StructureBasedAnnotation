@@ -1,0 +1,7 @@
+=== A0A358QYQ4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HBV98485.1};
+Bit Score: 96.0
+E-value: 0.04749
+Alignment Length: 60
+Percentage Identity: 0.116
+

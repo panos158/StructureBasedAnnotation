@@ -1,0 +1,29 @@
+=== A0A6N9P9W2 ===
+DE   RecName: Full=RHS repeat protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 94.0
+E-value: 0.02614
+Alignment Length: 77
+Percentage Identity: 0.129
+
+=== A0A7K4GW50 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NVM33958.1};
+Bit Score: 90.0
+E-value: 0.02919
+Alignment Length: 92
+Percentage Identity: 0.152
+
+=== K9UMW9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AFY96447.1};
+Bit Score: 96.0
+E-value: 0.03084
+Alignment Length: 105
+Percentage Identity: 0.133
+
+=== A0A4Q4B251 ===
+DE   RecName: Full=RHS repeat protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 75.0
+E-value: 0.0454
+Alignment Length: 83
+Percentage Identity: 0.108
+

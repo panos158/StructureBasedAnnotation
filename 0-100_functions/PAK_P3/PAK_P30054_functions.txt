@@ -1,0 +1,35 @@
+=== A0A0K1XGY2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AKX60442.1};
+Bit Score: 237.0
+E-value: 0.0001389
+Alignment Length: 64
+Percentage Identity: 0.453
+
+=== A0A4U0GFK0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TJY57218.1};
+Bit Score: 143.0
+E-value: 0.0154
+Alignment Length: 62
+Percentage Identity: 0.338
+
+=== X1A0Q0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAG75670.1};
+Bit Score: 122.0
+E-value: 0.02775
+Alignment Length: 60
+Percentage Identity: 0.283
+
+=== A0A383RH52 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SYX85912.1};
+Bit Score: 112.0
+E-value: 0.03376
+Alignment Length: 62
+Percentage Identity: 0.306
+
+=== A0A1I1Y0B6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SFE11210.1};
+Bit Score: 113.0
+E-value: 0.04108
+Alignment Length: 60
+Percentage Identity: 0.266
+

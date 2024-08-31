@@ -1,0 +1,7 @@
+=== A0A6I6LW92 ===
+DE   SubName: Full=DUF551 domain-containing protein {ECO:0000313|EMBL:QGZ32825.1};
+Bit Score: 82.0
+E-value: 0.008228
+Alignment Length: 56
+Percentage Identity: 0.41
+

@@ -1,0 +1,249 @@
+=== A0A292YK65 ===
+DE   SubName: Full=Diguanylate phosphodiesterase {ECO:0000313|EMBL:GAX88870.1};
+Bit Score: 72.0
+E-value: 0.009586
+Alignment Length: 107
+Percentage Identity: 0.158
+
+=== T1AR25 ===
+DE   SubName: Full=Acriflavin resistance protein {ECO:0000313|EMBL:EQD59008.1};
+DE   Flags: Fragment;
+Bit Score: 93.0
+E-value: 0.01026
+Alignment Length: 102
+Percentage Identity: 0.127
+
+=== A0A293LHL1 ===
+DE   RecName: Full=Reverse transcriptase domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 82.0
+E-value: 0.01026
+Alignment Length: 105
+Percentage Identity: 0.123
+
+=== A0A0X8L5P0 ===
+DE   RecName: Full=DUF1330 domain-containing protein {ECO:0000259|Pfam:PF07045};
+Bit Score: 54.0
+E-value: 0.01345
+Alignment Length: 99
+Percentage Identity: 0.161
+
+=== A0A316VKJ5 ===
+DE   RecName: Full=YCII-related domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 71.0
+E-value: 0.01439
+Alignment Length: 106
+Percentage Identity: 0.103
+
+=== A0A7C4B2F4 ===
+DE   SubName: Full=Primosomal protein N {ECO:0000313|EMBL:HGI10357.1};
+Bit Score: 89.0
+E-value: 0.01763
+Alignment Length: 94
+Percentage Identity: 0.085
+
+=== A0A838ZYM0 ===
+DE   RecName: Full=Guanylate cyclase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 80.0
+E-value: 0.01763
+Alignment Length: 117
+Percentage Identity: 0.111
+
+=== A0A2E6DNS1 ===
+DE   RecName: Full=ABM domain-containing protein {ECO:0000259|PROSITE:PS51725};
+Bit Score: 58.0
+E-value: 0.01763
+Alignment Length: 117
+Percentage Identity: 0.102
+
+=== A0A7S1ZP76 ===
+DE   RecName: Full=YCII-related domain-containing protein {ECO:0000259|Pfam:PF03795};
+Bit Score: 67.0
+E-value: 0.02018
+Alignment Length: 107
+Percentage Identity: 0.112
+
+=== A0A7Z9JG28 ===
+DE   SubName: Full=Efflux RND transporter permease subunit {ECO:0000313|EMBL:HIB01785.1};
+Bit Score: 93.0
+E-value: 0.02311
+Alignment Length: 103
+Percentage Identity: 0.097
+
+=== A0A183FZQ5 ===
+DE   SubName: Full=Cystatin domain-containing protein {ECO:0000313|WBParaSite:HPBE_0001425801-mRNA-1};
+Bit Score: 74.0
+E-value: 0.02473
+Alignment Length: 105
+Percentage Identity: 0.104
+
+=== A0A507DR74 ===
+DE   RecName: Full=YCII-related domain-containing protein {ECO:0000259|Pfam:PF03795};
+Bit Score: 70.0
+E-value: 0.02473
+Alignment Length: 108
+Percentage Identity: 0.166
+
+=== A0A4R2F2Q3 ===
+DE   SubName: Full=GGDEF domain-containing protein {ECO:0000313|EMBL:TCN79519.1};
+Bit Score: 78.0
+E-value: 0.02646
+Alignment Length: 107
+Percentage Identity: 0.149
+
+=== A9T051 ===
+DE   RecName: Full=ABM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 66.0
+E-value: 0.02831
+Alignment Length: 113
+Percentage Identity: 0.132
+
+=== A0A5E3X5P0 ===
+DE   RecName: Full=DUF6535 domain-containing protein {ECO:0000259|Pfam:PF20153};
+Bit Score: 74.0
+E-value: 0.03029
+Alignment Length: 107
+Percentage Identity: 0.177
+
+=== A0A520SF69 ===
+DE   RecName: Full=YCII-related domain-containing protein {ECO:0000259|Pfam:PF03795};
+Bit Score: 62.0
+E-value: 0.03029
+Alignment Length: 110
+Percentage Identity: 0.09
+
+=== A0A4R4TNM6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TDC77494.1};
+Bit Score: 59.0
+E-value: 0.03029
+Alignment Length: 108
+Percentage Identity: 0.138
+
+=== A0A507EKW6 ===
+DE   RecName: Full=YCII-related domain-containing protein {ECO:0000259|Pfam:PF03795};
+Bit Score: 55.0
+E-value: 0.03242
+Alignment Length: 109
+Percentage Identity: 0.174
+
+=== A0A507D6W2 ===
+DE   RecName: Full=YCII-related domain-containing protein {ECO:0000259|Pfam:PF03795};
+Bit Score: 63.0
+E-value: 0.03469
+Alignment Length: 104
+Percentage Identity: 0.192
+
+=== A0A7C4FXZ3 ===
+DE   RecName: Full=YCII-related domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 62.0
+E-value: 0.03469
+Alignment Length: 103
+Percentage Identity: 0.048
+
+=== A0A7C3CVP0 ===
+DE   SubName: Full=DUF1330 domain-containing protein {ECO:0000313|EMBL:HFD14373.1};
+Bit Score: 52.0
+E-value: 0.03469
+Alignment Length: 121
+Percentage Identity: 0.173
+
+=== A0A511UXS4 ===
+DE   RecName: Full=Domain X domain-containing protein {ECO:0000259|Pfam:PF01348};
+Bit Score: 70.0
+E-value: 0.03712
+Alignment Length: 103
+Percentage Identity: 0.067
+
+=== A0A1G5CQG0 ===
+DE   SubName: Full=Kazal-type serine protease inhibitor domain-containing protein {ECO:0000313|EMBL:SCY04693.1};
+Bit Score: 67.0
+E-value: 0.03712
+Alignment Length: 112
+Percentage Identity: 0.151
+
+=== A0A0K6GSB7 ===
+DE   RecName: Full=DUF4242 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 67.0
+E-value: 0.03712
+Alignment Length: 99
+Percentage Identity: 0.101
+
+=== A0A7S4HJ48 ===
+DE   RecName: Full=YCII-related domain-containing protein {ECO:0000259|Pfam:PF03795};
+Bit Score: 63.0
+E-value: 0.03712
+Alignment Length: 110
+Percentage Identity: 0.09
+
+=== A0A7M1XKQ7 ===
+DE   RecName: Full=GGDEF domain-containing protein {ECO:0000259|PROSITE:PS50887};
+Bit Score: 59.0
+E-value: 0.03712
+Alignment Length: 104
+Percentage Identity: 0.134
+
+=== A0A183F3E1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VDO19066.1, ECO:0000313|WBParaSite:HPBE_0000068301-mRNA-1};
+Bit Score: 69.0
+E-value: 0.03972
+Alignment Length: 104
+Percentage Identity: 0.125
+
+=== A0A0M2NCA5 ===
+DE   RecName: Full=Stage 0 sporulation protein A homolog {ECO:0000256|ARBA:ARBA00018672};
+Bit Score: 63.0
+E-value: 0.03972
+Alignment Length: 99
+Percentage Identity: 0.141
+
+=== A0A1X0RJV3 ===
+DE   RecName: Full=YCII-related domain-containing protein {ECO:0000259|Pfam:PF03795};
+Bit Score: 66.0
+E-value: 0.0425
+Alignment Length: 111
+Percentage Identity: 0.135
+
+=== A0A850JJ97 ===
+DE   RecName: Full=Guanylate cyclase domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 65.0
+E-value: 0.0425
+Alignment Length: 108
+Percentage Identity: 0.092
+
+=== A0A5B0G8F0 ===
+DE   SubName: Full=DUF3579 domain-containing protein {ECO:0000313|EMBL:KAA0998219.1};
+Bit Score: 68.0
+E-value: 0.04547
+Alignment Length: 109
+Percentage Identity: 0.22
+
+=== A0A4Q0XVH3 ===
+DE   RecName: Full=DUF695 domain-containing protein {ECO:0000259|Pfam:PF05117};
+Bit Score: 64.0
+E-value: 0.04547
+Alignment Length: 112
+Percentage Identity: 0.116
+
+=== A0A7S3PXD3 ===
+DE   RecName: Full=YCII-related domain-containing protein {ECO:0000259|Pfam:PF03795};
+Bit Score: 62.0
+E-value: 0.04547
+Alignment Length: 110
+Percentage Identity: 0.1
+
+=== A0A1Q4F2P6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OJY85091.1};
+Bit Score: 76.0
+E-value: 0.04866
+Alignment Length: 87
+Percentage Identity: 0.068
+
+=== A0A1R1PEG8 ===
+DE   RecName: Full=YCII-related domain-containing protein {ECO:0000259|Pfam:PF03795};
+Bit Score: 58.0
+E-value: 0.04866
+Alignment Length: 111
+Percentage Identity: 0.117
+

@@ -1,0 +1,14 @@
+=== A0A533I567 ===
+DE   RecName: Full=Holin {ECO:0008006|Google:ProtNLM};
+Bit Score: 135.0
+E-value: 0.004004
+Alignment Length: 90
+Percentage Identity: 0.344
+
+=== F5R8J6 ===
+DE   RecName: Full=Holin {ECO:0008006|Google:ProtNLM};
+Bit Score: 137.0
+E-value: 0.008976
+Alignment Length: 102
+Percentage Identity: 0.274
+

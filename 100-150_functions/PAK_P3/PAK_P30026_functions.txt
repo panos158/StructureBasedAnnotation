@@ -1,0 +1,84 @@
+=== A0A840RPM0 ===
+DE   RecName: Full=Tail fiber assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 183.0
+E-value: 1.277e-05
+Alignment Length: 128
+Percentage Identity: 0.265
+
+=== A0A2T6F1A2 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 179.0
+E-value: 1.36e-05
+Alignment Length: 137
+Percentage Identity: 0.233
+
+=== A0A2D9WZJ8 ===
+DE   RecName: Full=Phage tail assembly chaperone-like domain-containing protein {ECO:0000259|Pfam:PF16778};
+Bit Score: 149.0
+E-value: 1.449e-05
+Alignment Length: 139
+Percentage Identity: 0.258
+
+=== A0A2E8RI36 ===
+DE   RecName: Full=Phage tail assembly chaperone-like domain-containing protein {ECO:0000259|Pfam:PF16778};
+Bit Score: 136.0
+E-value: 0.0002049
+Alignment Length: 137
+Percentage Identity: 0.24
+
+=== A0A1G8JA39 ===
+DE   RecName: Full=Transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 132.0
+E-value: 0.0003185
+Alignment Length: 125
+Percentage Identity: 0.216
+
+=== A0A838XZG5 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.0007703
+Alignment Length: 136
+Percentage Identity: 0.205
+
+=== A0A1H6A7G5 ===
+DE   RecName: Full=DUF4376 domain-containing protein {ECO:0000259|Pfam:PF14301};
+Bit Score: 124.0
+E-value: 0.003085
+Alignment Length: 84
+Percentage Identity: 0.25
+
+=== A0A1H6WY42 ===
+DE   RecName: Full=Virus tail fibre assembly protein, lambda gpK {ECO:0008006|Google:ProtNLM};
+Bit Score: 93.0
+E-value: 0.005796
+Alignment Length: 117
+Percentage Identity: 0.239
+
+=== A0A2S8HYP2 ===
+DE   RecName: Full=Phage tail assembly chaperone-like domain-containing protein {ECO:0000259|Pfam:PF16778};
+Bit Score: 85.0
+E-value: 0.02321
+Alignment Length: 121
+Percentage Identity: 0.28
+
+=== A0A3N8C002 ===
+DE   RecName: Full=Phage tail assembly chaperone-like domain-containing protein {ECO:0000259|Pfam:PF16778};
+Bit Score: 94.0
+E-value: 0.02988
+Alignment Length: 131
+Percentage Identity: 0.221
+
+=== A0A644XU94 ===
+DE   RecName: Full=Phage tail assembly chaperone-like domain-containing protein {ECO:0000259|Pfam:PF16778};
+Bit Score: 85.0
+E-value: 0.03182
+Alignment Length: 132
+Percentage Identity: 0.219
+
+=== A0A158EAW4 ===
+DE   RecName: Full=Phage tail assembly chaperone-like domain-containing protein {ECO:0000259|Pfam:PF16778};
+Bit Score: 89.0
+E-value: 0.04095
+Alignment Length: 115
+Percentage Identity: 0.208
+

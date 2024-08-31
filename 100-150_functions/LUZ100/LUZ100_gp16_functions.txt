@@ -1,0 +1,3567 @@
+=== A0A323UN87 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:PZA13974.1};
+Bit Score: 491.0
+E-value: 9.03e-18
+Alignment Length: 148
+Percentage Identity: 0.547
+
+=== A0A845Q7W6 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:NBG94479.1};
+Bit Score: 479.0
+E-value: 1.856e-17
+Alignment Length: 131
+Percentage Identity: 0.656
+
+=== A0A1Z8SNV1 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:OUU24128.1};
+Bit Score: 483.0
+E-value: 4.96e-17
+Alignment Length: 132
+Percentage Identity: 0.598
+
+=== A0A4Q2IZY3 ===
+DE   SubName: Full=Endonuclease I {ECO:0000313|EMBL:RXZ34801.1};
+Bit Score: 445.0
+E-value: 5.6e-16
+Alignment Length: 145
+Percentage Identity: 0.524
+
+=== A0A259PLJ7 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:OZB49766.1};
+Bit Score: 425.0
+E-value: 1.313e-15
+Alignment Length: 133
+Percentage Identity: 0.586
+
+=== A0A4P6L5A0 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:QBE66856.1};
+Bit Score: 417.0
+E-value: 1.598e-15
+Alignment Length: 133
+Percentage Identity: 0.586
+
+=== A0A2V4FYY5 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:PXZ51579.1};
+Bit Score: 427.0
+E-value: 2.881e-15
+Alignment Length: 140
+Percentage Identity: 0.557
+
+=== A0A7W2R183 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:MBA6150476.1};
+Bit Score: 434.0
+E-value: 3.284e-15
+Alignment Length: 136
+Percentage Identity: 0.558
+
+=== A0A2D7RFV2 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 404.0
+E-value: 3.507e-15
+Alignment Length: 139
+Percentage Identity: 0.517
+
+=== A0A6F9WWM4 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 394.0
+E-value: 5.547e-15
+Alignment Length: 140
+Percentage Identity: 0.585
+
+=== A0A839YCX1 ===
+DE   RecName: Full=Phage endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 454.0
+E-value: 1.804e-14
+Alignment Length: 121
+Percentage Identity: 0.537
+
+=== A0A2D9CLM1 ===
+DE   SubName: Full=Endonuclease I {ECO:0000313|EMBL:MAO25583.1};
+Bit Score: 384.0
+E-value: 2.503e-14
+Alignment Length: 130
+Percentage Identity: 0.515
+
+=== A0A2D8XJL2 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:MAN63679.1};
+Bit Score: 373.0
+E-value: 2.673e-14
+Alignment Length: 130
+Percentage Identity: 0.546
+
+=== A0A1Z8STM6 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:OUU25821.1};
+Bit Score: 358.0
+E-value: 6.688e-14
+Alignment Length: 136
+Percentage Identity: 0.492
+
+=== A0A494TE28 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:AYJ85512.1};
+Bit Score: 395.0
+E-value: 7.141e-14
+Alignment Length: 123
+Percentage Identity: 0.593
+
+=== A0A679JU69 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAA2141581.1};
+Bit Score: 452.0
+E-value: 8.141e-14
+Alignment Length: 110
+Percentage Identity: 0.581
+
+=== A0A2A4Z0M8 ===
+DE   SubName: Full=Endonuclease I {ECO:0000313|EMBL:PCJ00613.1};
+Bit Score: 401.0
+E-value: 8.692e-14
+Alignment Length: 136
+Percentage Identity: 0.47
+
+=== A0A833CHI1 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 351.0
+E-value: 1.13e-13
+Alignment Length: 144
+Percentage Identity: 0.486
+
+=== A0A316S4G4 ===
+DE   SubName: Full=Endonuclease I {ECO:0000313|EMBL:PWM76712.1};
+Bit Score: 376.0
+E-value: 1.908e-13
+Alignment Length: 126
+Percentage Identity: 0.531
+
+=== A0A1W0DCT4 ===
+DE   SubName: Full=Endonuclease I {ECO:0000313|EMBL:OQS44845.1};
+Bit Score: 386.0
+E-value: 2.037e-13
+Alignment Length: 122
+Percentage Identity: 0.532
+
+=== A0A813AHT2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAE7866145.1};
+Bit Score: 344.0
+E-value: 2.037e-13
+Alignment Length: 139
+Percentage Identity: 0.496
+
+=== A0A0J8FQC6 ===
+DE   SubName: Full=Endonuclease I {ECO:0000313|EMBL:KMT52430.1};
+Bit Score: 377.0
+E-value: 3.441e-13
+Alignment Length: 121
+Percentage Identity: 0.553
+
+=== A0A5K7ZFX6 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 403.0
+E-value: 3.922e-13
+Alignment Length: 126
+Percentage Identity: 0.452
+
+=== A0A2D9C5U8 ===
+DE   SubName: Full=Endonuclease I {ECO:0000313|EMBL:MAO20053.1};
+Bit Score: 367.0
+E-value: 6.205e-13
+Alignment Length: 124
+Percentage Identity: 0.483
+
+=== A0A2E7NA20 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 340.0
+E-value: 8.064e-13
+Alignment Length: 129
+Percentage Identity: 0.519
+
+=== A0A1Z8RUQ8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OUU13918.1};
+Bit Score: 343.0
+E-value: 1.048e-12
+Alignment Length: 128
+Percentage Identity: 0.523
+
+=== A0A2E8A7P9 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 348.0
+E-value: 1.553e-12
+Alignment Length: 123
+Percentage Identity: 0.528
+
+=== A0A2D8XI57 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 308.0
+E-value: 1.658e-12
+Alignment Length: 145
+Percentage Identity: 0.468
+
+=== A0A644VUP3 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 338.0
+E-value: 2.018e-12
+Alignment Length: 126
+Percentage Identity: 0.468
+
+=== A0A7X6FRS2 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 319.0
+E-value: 2.154e-12
+Alignment Length: 134
+Percentage Identity: 0.492
+
+=== A0A832HH03 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:HGX40638.1};
+Bit Score: 351.0
+E-value: 2.99e-12
+Alignment Length: 120
+Percentage Identity: 0.491
+
+=== A0A2D8XN65 ===
+DE   SubName: Full=Endonuclease I {ECO:0000313|EMBL:MAN64753.1};
+Bit Score: 336.0
+E-value: 2.99e-12
+Alignment Length: 131
+Percentage Identity: 0.458
+
+=== A0A2D7PDJ5 ===
+DE   SubName: Full=Endonuclease I {ECO:0000313|EMBL:MAJ57241.1};
+Bit Score: 310.0
+E-value: 3.885e-12
+Alignment Length: 130
+Percentage Identity: 0.476
+
+=== G1UXE1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EGW49747.1};
+Bit Score: 325.0
+E-value: 4.429e-12
+Alignment Length: 143
+Percentage Identity: 0.391
+
+=== A0A2D8EN64 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 315.0
+E-value: 6.146e-12
+Alignment Length: 125
+Percentage Identity: 0.416
+
+=== A0A2E2W5R4 ===
+DE   SubName: Full=Endonuclease I {ECO:0000313|EMBL:MAZ71630.1};
+Bit Score: 348.0
+E-value: 6.562e-12
+Alignment Length: 122
+Percentage Identity: 0.434
+
+=== A0A1M3DS08 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OJV45207.1};
+Bit Score: 319.0
+E-value: 1.038e-11
+Alignment Length: 124
+Percentage Identity: 0.483
+
+=== X0T2Q6 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 329.0
+E-value: 1.263e-11
+Alignment Length: 120
+Percentage Identity: 0.491
+
+=== A0A6I3KGM5 ===
+DE   RecName: Full=Endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 312.0
+E-value: 1.538e-11
+Alignment Length: 140
+Percentage Identity: 0.392
+
+=== V7H4F9 ===
+DE   SubName: Full=Endonuclease I {ECO:0000313|EMBL:ESZ06841.1};
+Bit Score: 322.0
+E-value: 1.999e-11
+Alignment Length: 123
+Percentage Identity: 0.471
+
+=== A0A7W6N7B6 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 275.0
+E-value: 1.999e-11
+Alignment Length: 150
+Percentage Identity: 0.393
+
+=== A0A1Z8SPP1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OUU24415.1};
+Bit Score: 298.0
+E-value: 2.134e-11
+Alignment Length: 140
+Percentage Identity: 0.435
+
+=== A0A349X3Z2 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 282.0
+E-value: 2.279e-11
+Alignment Length: 146
+Percentage Identity: 0.458
+
+=== A0A5C7P4N0 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 347.0
+E-value: 3.162e-11
+Alignment Length: 140
+Percentage Identity: 0.321
+
+=== A0A1B0Z2V6 ===
+DE   SubName: Full=Endodeoxyribonuclease I {ECO:0000313|EMBL:ANO58085.1};
+Bit Score: 267.0
+E-value: 3.604e-11
+Alignment Length: 133
+Percentage Identity: 0.481
+
+=== A0A7G2SHU6 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 308.0
+E-value: 4.387e-11
+Alignment Length: 122
+Percentage Identity: 0.434
+
+=== A0A2D8HU08 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 315.0
+E-value: 6.088e-11
+Alignment Length: 117
+Percentage Identity: 0.478
+
+=== A0A3M1YJ84 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 346.0
+E-value: 9.019e-11
+Alignment Length: 139
+Percentage Identity: 0.309
+
+=== A0A2E3D969 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:MBA58523.1};
+Bit Score: 273.0
+E-value: 9.019e-11
+Alignment Length: 137
+Percentage Identity: 0.467
+
+=== A0A1Z9GSU4 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 306.0
+E-value: 1.028e-10
+Alignment Length: 119
+Percentage Identity: 0.436
+
+=== E5YB88 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 280.0
+E-value: 1.626e-10
+Alignment Length: 142
+Percentage Identity: 0.366
+
+=== A0A3R7Q9M8 ===
+DE   SubName: Full=Endonuclease I {ECO:0000313|EMBL:RPF97880.1};
+Bit Score: 298.0
+E-value: 1.854e-10
+Alignment Length: 118
+Percentage Identity: 0.449
+
+=== A0A2E0AGP6 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 292.0
+E-value: 1.854e-10
+Alignment Length: 121
+Percentage Identity: 0.38
+
+=== A0A562FMY9 ===
+DE   SubName: Full=Phage endonuclease I {ECO:0000313|EMBL:TWH35569.1};
+Bit Score: 313.0
+E-value: 2.114e-10
+Alignment Length: 114
+Percentage Identity: 0.508
+
+=== D1Y7B4 ===
+DE   SubName: Full=Endodeoxyribonuclease 1 {ECO:0000313|EMBL:EFB89740.1};
+DE            EC=3.1.21.2 {ECO:0000313|EMBL:EFB89740.1};
+Bit Score: 302.0
+E-value: 2.257e-10
+Alignment Length: 123
+Percentage Identity: 0.398
+
+=== A0A2E1FMW9 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 288.0
+E-value: 2.41e-10
+Alignment Length: 119
+Percentage Identity: 0.47
+
+=== A0A3R7WUE4 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:RPG97208.1};
+Bit Score: 273.0
+E-value: 2.41e-10
+Alignment Length: 135
+Percentage Identity: 0.422
+
+=== A0A3A6WER5 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 274.0
+E-value: 5.648e-10
+Alignment Length: 124
+Percentage Identity: 0.419
+
+=== A0A2E8RII8 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 280.0
+E-value: 6.03e-10
+Alignment Length: 117
+Percentage Identity: 0.427
+
+=== A0A1Z9IPE9 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 275.0
+E-value: 6.03e-10
+Alignment Length: 117
+Percentage Identity: 0.444
+
+=== A0A7K1CVQ8 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:MTA41159.1};
+Bit Score: 254.0
+E-value: 6.438e-10
+Alignment Length: 124
+Percentage Identity: 0.411
+
+=== A0A7K0A657 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 276.0
+E-value: 8.934e-10
+Alignment Length: 124
+Percentage Identity: 0.379
+
+=== A0A1T4RP50 ===
+DE   SubName: Full=Phage endonuclease I {ECO:0000313|EMBL:SKA17528.1};
+Bit Score: 270.0
+E-value: 1.087e-09
+Alignment Length: 123
+Percentage Identity: 0.406
+
+=== E6VL74 ===
+DE   SubName: Full=Endonuclease I {ECO:0000313|EMBL:ADU44569.1};
+Bit Score: 250.0
+E-value: 1.087e-09
+Alignment Length: 138
+Percentage Identity: 0.391
+
+=== A0A2E9WRD0 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 279.0
+E-value: 1.161e-09
+Alignment Length: 118
+Percentage Identity: 0.432
+
+=== A0A2A4T4D7 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:PCI28254.1};
+Bit Score: 243.0
+E-value: 1.509e-09
+Alignment Length: 132
+Percentage Identity: 0.333
+
+=== A0A5C7M239 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TXH15706.1};
+Bit Score: 254.0
+E-value: 2.094e-09
+Alignment Length: 127
+Percentage Identity: 0.385
+
+=== A0A2E8RP12 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 271.0
+E-value: 2.387e-09
+Alignment Length: 117
+Percentage Identity: 0.461
+
+=== A0A6M3L1D0 ===
+DE   SubName: Full=Putative endonuclease I {ECO:0000313|EMBL:QJA87188.1};
+Bit Score: 241.0
+E-value: 2.721e-09
+Alignment Length: 125
+Percentage Identity: 0.32
+
+=== A0A2E6RKU8 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 258.0
+E-value: 3.312e-09
+Alignment Length: 119
+Percentage Identity: 0.394
+
+=== A0A257PAN0 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 259.0
+E-value: 3.776e-09
+Alignment Length: 120
+Percentage Identity: 0.366
+
+=== A0A2E2T525 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 264.0
+E-value: 4.596e-09
+Alignment Length: 123
+Percentage Identity: 0.373
+
+=== A0A661WQ94 ===
+DE   SubName: Full=Endonuclease I {ECO:0000313|EMBL:RLD06507.1};
+Bit Score: 249.0
+E-value: 7.762e-09
+Alignment Length: 125
+Percentage Identity: 0.352
+
+=== A0A560H8G3 ===
+DE   SubName: Full=Phage endonuclease I {ECO:0000313|EMBL:TWB41944.1};
+Bit Score: 270.0
+E-value: 1.077e-08
+Alignment Length: 142
+Percentage Identity: 0.267
+
+=== A0A2D9X0X0 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:MAQ63447.1};
+Bit Score: 319.0
+E-value: 1.4e-08
+Alignment Length: 81
+Percentage Identity: 0.469
+
+=== A0A661VHC8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RLC68788.1};
+Bit Score: 241.0
+E-value: 1.942e-08
+Alignment Length: 127
+Percentage Identity: 0.299
+
+=== A0A849MWN1 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:NOG69799.1};
+Bit Score: 227.0
+E-value: 2.214e-08
+Alignment Length: 107
+Percentage Identity: 0.439
+
+=== A0A136Q9U5 ===
+DE   SubName: Full=Endonuclease I {ECO:0000313|EMBL:KXK67418.1};
+DE   Flags: Fragment;
+Bit Score: 280.0
+E-value: 2.878e-08
+Alignment Length: 65
+Percentage Identity: 0.984
+
+=== X0U1R1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAF93316.1};
+DE   Flags: Fragment;
+Bit Score: 200.0
+E-value: 1.48e-07
+Alignment Length: 126
+Percentage Identity: 0.373
+
+=== A0A843YYT8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MQR02362.1};
+Bit Score: 261.0
+E-value: 1.924e-07
+Alignment Length: 70
+Percentage Identity: 0.7
+
+=== X0S3H6 ===
+DE   RecName: Full=Endonuclease {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 277.0
+E-value: 2.5e-07
+Alignment Length: 82
+Percentage Identity: 0.426
+
+=== A0A1H7CJ81 ===
+DE   SubName: Full=Phage endonuclease I {ECO:0000313|EMBL:SEJ87202.1};
+Bit Score: 210.0
+E-value: 2.851e-07
+Alignment Length: 113
+Percentage Identity: 0.389
+
+=== A0A1V5X2R8 ===
+DE   SubName: Full=Phage endonuclease I {ECO:0000313|EMBL:OQB09941.1};
+Bit Score: 185.0
+E-value: 6.257e-07
+Alignment Length: 136
+Percentage Identity: 0.33
+
+=== A0A316L6J1 ===
+DE   RecName: Full=Endonuclease I {ECO:0008006|Google:ProtNLM};
+Bit Score: 155.0
+E-value: 6.257e-07
+Alignment Length: 144
+Percentage Identity: 0.333
+
+=== A0A847QWT0 ===
+DE   RecName: Full=HIRAN domain-containing protein {ECO:0000259|SMART:SM00910};
+Bit Score: 218.0
+E-value: 2.644e-06
+Alignment Length: 81
+Percentage Identity: 0.345
+
+=== A0A5C7T816 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 179.0
+E-value: 4.183e-06
+Alignment Length: 146
+Percentage Identity: 0.219
+
+=== A0A7C3ERT3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HFK19760.1};
+Bit Score: 162.0
+E-value: 4.769e-06
+Alignment Length: 144
+Percentage Identity: 0.18
+
+=== A0A2R6LKC4 ===
+DE   RecName: Full=Nuclease associated modular domain-containing protein {ECO:0000259|Pfam:PF07460};
+Bit Score: 162.0
+E-value: 3.881e-05
+Alignment Length: 91
+Percentage Identity: 0.274
+
+=== A0A2D9CKQ0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAO25248.1};
+Bit Score: 156.0
+E-value: 3.881e-05
+Alignment Length: 108
+Percentage Identity: 0.361
+
+=== A0A0F9HDC6 ===
+DE   RecName: Full=DUF1064 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 153.0
+E-value: 3.881e-05
+Alignment Length: 104
+Percentage Identity: 0.259
+
+=== A0A4V1SN27 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RYD78317.1};
+DE   Flags: Fragment;
+Bit Score: 185.0
+E-value: 6.139e-05
+Alignment Length: 81
+Percentage Identity: 0.283
+
+=== A0A1G9ETB7 ===
+DE   SubName: Full=HIRAN domain-containing protein {ECO:0000313|EMBL:SDK79311.1};
+Bit Score: 169.0
+E-value: 0.0001536
+Alignment Length: 81
+Percentage Identity: 0.222
+
+=== X0WJV5 ===
+DE   RecName: Full=VRR-NUC domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 156.0
+E-value: 0.0001536
+Alignment Length: 81
+Percentage Identity: 0.271
+
+=== A0A167ZP32 ===
+DE   RecName: Full=HIRAN domain-containing protein {ECO:0000259|SMART:SM00910};
+Bit Score: 162.0
+E-value: 0.0001751
+Alignment Length: 88
+Percentage Identity: 0.227
+
+=== A0A1Z4UZ15 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:BAZ84500.1};
+Bit Score: 140.0
+E-value: 0.000187
+Alignment Length: 104
+Percentage Identity: 0.25
+
+=== A0A431EB34 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RTJ78331.1};
+Bit Score: 123.0
+E-value: 0.0002276
+Alignment Length: 124
+Percentage Identity: 0.153
+
+=== A0A0G1XV91 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKU98215.1};
+Bit Score: 92.0
+E-value: 0.0002276
+Alignment Length: 154
+Percentage Identity: 0.155
+
+=== A0A1M2YHA5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OJT94414.1};
+Bit Score: 127.0
+E-value: 0.000277
+Alignment Length: 157
+Percentage Identity: 0.178
+
+=== A0A661TU03 ===
+DE   RecName: Full=DUF1064 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 127.0
+E-value: 0.0003158
+Alignment Length: 127
+Percentage Identity: 0.157
+
+=== A0A2D6NFT6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAG39525.1};
+Bit Score: 149.0
+E-value: 0.0003372
+Alignment Length: 115
+Percentage Identity: 0.2
+
+=== A0A3D0C910 ===
+DE   RecName: Full=DUF1064 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.00036
+Alignment Length: 150
+Percentage Identity: 0.22
+
+=== A0A653AA31 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VBB44929.1};
+Bit Score: 107.0
+E-value: 0.0003844
+Alignment Length: 114
+Percentage Identity: 0.166
+
+=== A0A7X1H2V7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBC2755182.1};
+Bit Score: 97.0
+E-value: 0.0004104
+Alignment Length: 139
+Percentage Identity: 0.179
+
+=== A0A1C0VUF5 ===
+DE   RecName: Full=Nuclease associated modular domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.0004382
+Alignment Length: 104
+Percentage Identity: 0.24
+
+=== D8F7T7 ===
+DE   SubName: Full=Conserved domain protein {ECO:0000313|EMBL:EFK08165.1};
+Bit Score: 118.0
+E-value: 0.0004996
+Alignment Length: 106
+Percentage Identity: 0.235
+
+=== A0A1G1XQR7 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 111.0
+E-value: 0.0005334
+Alignment Length: 98
+Percentage Identity: 0.214
+
+=== A0A1I5BB91 ===
+DE   SubName: Full=Phage endonuclease I {ECO:0000313|EMBL:SFN71988.1};
+Bit Score: 142.0
+E-value: 0.0005695
+Alignment Length: 86
+Percentage Identity: 0.267
+
+=== A0A519CRU7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RZD42967.1};
+Bit Score: 122.0
+E-value: 0.0005695
+Alignment Length: 152
+Percentage Identity: 0.151
+
+=== A0A6N7YRD3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MTD44897.1};
+Bit Score: 97.0
+E-value: 0.0005695
+Alignment Length: 158
+Percentage Identity: 0.12
+
+=== A0A1Z9PLC9 ===
+DE   RecName: Full=Protein NO VEIN C-terminal domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 169.0
+E-value: 0.0006081
+Alignment Length: 70
+Percentage Identity: 0.357
+
+=== M7T989 ===
+DE   RecName: Full=Restriction endonuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 113.0
+E-value: 0.0006932
+Alignment Length: 104
+Percentage Identity: 0.173
+
+=== A0A3A4ZBI6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RJR23650.1};
+Bit Score: 98.0
+E-value: 0.0006932
+Alignment Length: 154
+Percentage Identity: 0.214
+
+=== A0A1A5PAP3 ===
+DE   RecName: Full=Restriction endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 131.0
+E-value: 0.0007401
+Alignment Length: 55
+Percentage Identity: 0.363
+
+=== A0A662AST5 ===
+DE   RecName: Full=Nuclease associated modular domain-containing protein {ECO:0000259|Pfam:PF07460};
+Bit Score: 139.0
+E-value: 0.0009009
+Alignment Length: 80
+Percentage Identity: 0.187
+
+=== A0A2M7WEN4 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 131.0
+E-value: 0.0009009
+Alignment Length: 86
+Percentage Identity: 0.186
+
+=== A0A554L7J7 ===
+DE   RecName: Full=GTP-binding signal recognition particle {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.0009009
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== A0A1U9NLX3 ===
+DE   SubName: Full=Endonuclease I {ECO:0000313|EMBL:AQT68734.1};
+Bit Score: 96.0
+E-value: 0.001027
+Alignment Length: 141
+Percentage Identity: 0.226
+
+=== A0A0F9HNX7 ===
+DE   RecName: Full=C2H2-type domain-containing protein {ECO:0000259|PROSITE:PS50157};
+Bit Score: 131.0
+E-value: 0.001097
+Alignment Length: 104
+Percentage Identity: 0.23
+
+=== A0A660UVJ0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RKY09211.1};
+Bit Score: 113.0
+E-value: 0.001097
+Alignment Length: 105
+Percentage Identity: 0.209
+
+=== A0A2M7AZH1 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PIU83132.1};
+Bit Score: 103.0
+E-value: 0.001335
+Alignment Length: 98
+Percentage Identity: 0.204
+
+=== A0A0F9KTF4 ===
+DE   RecName: Full=DUF1064 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 130.0
+E-value: 0.001425
+Alignment Length: 117
+Percentage Identity: 0.196
+
+=== A0A431I205 ===
+DE   RecName: Full=Nuclease associated modular domain-containing protein {ECO:0000259|SMART:SM00496};
+Bit Score: 117.0
+E-value: 0.001522
+Alignment Length: 88
+Percentage Identity: 0.204
+
+=== B7KDH2 ===
+DE   RecName: Full=DUF559 domain-containing protein {ECO:0000259|Pfam:PF04480};
+Bit Score: 101.0
+E-value: 0.001522
+Alignment Length: 125
+Percentage Identity: 0.184
+
+=== A0A6H1ZP12 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QJA49015.1};
+Bit Score: 117.0
+E-value: 0.001625
+Alignment Length: 119
+Percentage Identity: 0.142
+
+=== A0A1V5PXY4 ===
+DE   RecName: Full=PD-(D/E)XK nuclease superfamily protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 88.0
+E-value: 0.001625
+Alignment Length: 157
+Percentage Identity: 0.159
+
+=== A0A2U3LVC2 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.001852
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A7C4T4H3 ===
+DE   RecName: Full=DUF61 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 100.0
+E-value: 0.001852
+Alignment Length: 100
+Percentage Identity: 0.18
+
+=== A0A1F5SHA4 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 96.0
+E-value: 0.001852
+Alignment Length: 95
+Percentage Identity: 0.2
+
+=== A0A1F6IWF2 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 98.0
+E-value: 0.001977
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A2M7TLS7 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PIZ48124.1};
+Bit Score: 89.0
+E-value: 0.001977
+Alignment Length: 98
+Percentage Identity: 0.193
+
+=== A0A843GSG5 ===
+DE   RecName: Full=C2H2-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 87.0
+E-value: 0.002254
+Alignment Length: 154
+Percentage Identity: 0.162
+
+=== A0A1B7WWY9 ===
+DE   RecName: Full=DUF559 domain-containing protein {ECO:0000259|Pfam:PF04480};
+Bit Score: 98.0
+E-value: 0.002407
+Alignment Length: 103
+Percentage Identity: 0.213
+
+=== A0A661WWP5 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 96.0
+E-value: 0.002407
+Alignment Length: 98
+Percentage Identity: 0.193
+
+=== A0A3M0WNS5 ===
+DE   RecName: Full=TnsA endonuclease N-terminal domain-containing protein {ECO:0000259|Pfam:PF08722};
+Bit Score: 96.0
+E-value: 0.002407
+Alignment Length: 136
+Percentage Identity: 0.169
+
+=== A0A2C0ZWV3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PGS55109.1};
+Bit Score: 88.0
+E-value: 0.002407
+Alignment Length: 139
+Percentage Identity: 0.136
+
+=== A0A1F6SSE4 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 81.0
+E-value: 0.002407
+Alignment Length: 119
+Percentage Identity: 0.201
+
+=== A0A0G1PGL3 ===
+DE   RecName: Full=DUF1064 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 110.0
+E-value: 0.00257
+Alignment Length: 109
+Percentage Identity: 0.201
+
+=== A0A0G1WCN8 ===
+DE   RecName: Full=ATP-dependent DNA helicase RecG {ECO:0000256|ARBA:ARBA00017846};
+DE            EC=3.6.4.12 {ECO:0000256|ARBA:ARBA00012551};
+Bit Score: 68.0
+E-value: 0.00257
+Alignment Length: 175
+Percentage Identity: 0.16
+
+=== A0A7G9W431 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:QNO13443.1};
+Bit Score: 97.0
+E-value: 0.002744
+Alignment Length: 96
+Percentage Identity: 0.187
+
+=== A0A7V0VZG0 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HDX77274.1};
+Bit Score: 96.0
+E-value: 0.002744
+Alignment Length: 96
+Percentage Identity: 0.218
+
+=== A0A0G1T1P3 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 84.0
+E-value: 0.00293
+Alignment Length: 90
+Percentage Identity: 0.233
+
+=== A0A1H5UIV1 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:SEF74995.1};
+Bit Score: 74.0
+E-value: 0.003128
+Alignment Length: 160
+Percentage Identity: 0.143
+
+=== A0A7C0UM86 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HDH31262.1};
+Bit Score: 99.0
+E-value: 0.00334
+Alignment Length: 96
+Percentage Identity: 0.145
+
+=== A0A1G1XRH8 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 77.0
+E-value: 0.00334
+Alignment Length: 136
+Percentage Identity: 0.125
+
+=== A0A843H637 ===
+DE   RecName: Full=C2H2-type domain-containing protein {ECO:0000259|PROSITE:PS00028};
+Bit Score: 100.0
+E-value: 0.003566
+Alignment Length: 106
+Percentage Identity: 0.179
+
+=== A0A1F5S300 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 94.0
+E-value: 0.003566
+Alignment Length: 96
+Percentage Identity: 0.229
+
+=== A0A432R1L9 ===
+DE   RecName: Full=Restriction endonuclease type IV Mrr domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 88.0
+E-value: 0.003566
+Alignment Length: 136
+Percentage Identity: 0.154
+
+=== A0A7W1DST1 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:MBA3641467.1};
+DE   Flags: Fragment;
+Bit Score: 85.0
+E-value: 0.003566
+Alignment Length: 107
+Percentage Identity: 0.205
+
+=== A0A1M5R565 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:SHH21180.1};
+Bit Score: 93.0
+E-value: 0.003808
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A661PLQ7 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:RLB66970.1};
+Bit Score: 93.0
+E-value: 0.004065
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A842ZYI8 ===
+DE   RecName: Full=Restriction endonuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 99.0
+E-value: 0.004341
+Alignment Length: 105
+Percentage Identity: 0.228
+
+=== A0A1F5Z7Q1 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 88.0
+E-value: 0.004341
+Alignment Length: 104
+Percentage Identity: 0.182
+
+=== A0A1F3W2V4 ===
+DE   RecName: Full=ATP-dependent DNA helicase RecG {ECO:0008006|Google:ProtNLM};
+Bit Score: 71.0
+E-value: 0.004341
+Alignment Length: 145
+Percentage Identity: 0.165
+
+=== A0A2C8YVY0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SOE55041.1};
+Bit Score: 93.0
+E-value: 0.004635
+Alignment Length: 115
+Percentage Identity: 0.234
+
+=== A0A4Q2X9Z6 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:RYD21145.1};
+Bit Score: 86.0
+E-value: 0.004635
+Alignment Length: 85
+Percentage Identity: 0.2
+
+=== R6EJU0 ===
+DE   SubName: Full=Conserved domain protein {ECO:0000313|EMBL:CDA90237.1};
+Bit Score: 85.0
+E-value: 0.004635
+Alignment Length: 126
+Percentage Identity: 0.166
+
+=== A0A1F5Z949 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 92.0
+E-value: 0.004948
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A2V5VD85 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PYJ75651.1};
+Bit Score: 89.0
+E-value: 0.004948
+Alignment Length: 97
+Percentage Identity: 0.206
+
+=== A0A1V1P3H0 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 78.0
+E-value: 0.004948
+Alignment Length: 119
+Percentage Identity: 0.168
+
+=== A0A1F7UM92 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 97.0
+E-value: 0.005283
+Alignment Length: 98
+Percentage Identity: 0.132
+
+=== A0A2N9M5G4 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 94.0
+E-value: 0.005283
+Alignment Length: 96
+Percentage Identity: 0.208
+
+=== A0A2S7U4Z7 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 91.0
+E-value: 0.005283
+Alignment Length: 96
+Percentage Identity: 0.229
+
+=== A0A662UWY4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RLG83112.1};
+Bit Score: 82.0
+E-value: 0.005283
+Alignment Length: 129
+Percentage Identity: 0.178
+
+=== A0A7G7CRG0 ===
+DE   RecName: Full=DUF559 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 60.0
+E-value: 0.005283
+Alignment Length: 143
+Percentage Identity: 0.181
+
+=== A0A4R6F1J1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TDN67071.1};
+Bit Score: 60.0
+E-value: 0.005283
+Alignment Length: 156
+Percentage Identity: 0.166
+
+=== A0A1F6KIG8 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 91.0
+E-value: 0.005641
+Alignment Length: 96
+Percentage Identity: 0.218
+
+=== V4JER8 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:MBL0380704.1};
+Bit Score: 84.0
+E-value: 0.005641
+Alignment Length: 111
+Percentage Identity: 0.207
+
+=== A0A0G0RNV5 ===
+DE   RecName: Full=GTP-binding signal recognition particle {ECO:0008006|Google:ProtNLM};
+Bit Score: 91.0
+E-value: 0.006023
+Alignment Length: 96
+Percentage Identity: 0.166
+
+=== A0A357GX23 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 88.0
+E-value: 0.006023
+Alignment Length: 98
+Percentage Identity: 0.214
+
+=== A0A554I8I2 ===
+DE   RecName: Full=GTP-binding signal recognition particle {ECO:0008006|Google:ProtNLM};
+Bit Score: 88.0
+E-value: 0.006023
+Alignment Length: 97
+Percentage Identity: 0.195
+
+=== A0A7Y5F363 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:NUM47524.1};
+Bit Score: 83.0
+E-value: 0.006023
+Alignment Length: 99
+Percentage Identity: 0.202
+
+=== A0A1G1VSH1 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 82.0
+E-value: 0.006023
+Alignment Length: 100
+Percentage Identity: 0.21
+
+=== A0A2E9KRK8 ===
+DE   RecName: Full=DUF559 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 66.0
+E-value: 0.006023
+Alignment Length: 155
+Percentage Identity: 0.135
+
+=== A0A7C2KA57 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HEN97517.1};
+Bit Score: 92.0
+E-value: 0.006431
+Alignment Length: 96
+Percentage Identity: 0.208
+
+=== A0A846PI39 ===
+DE   RecName: Full=DUF559 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 92.0
+E-value: 0.006431
+Alignment Length: 108
+Percentage Identity: 0.166
+
+=== A0A3E1K7Q2 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:RFF30076.1};
+Bit Score: 91.0
+E-value: 0.006431
+Alignment Length: 95
+Percentage Identity: 0.221
+
+=== A0A2U1CUS8 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PVY70807.1};
+Bit Score: 88.0
+E-value: 0.006431
+Alignment Length: 109
+Percentage Identity: 0.192
+
+=== A0A7V5NB48 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HHI46849.1};
+Bit Score: 79.0
+E-value: 0.006431
+Alignment Length: 116
+Percentage Identity: 0.198
+
+=== A0A1F6HQN4 ===
+DE   RecName: Full=Type II secretion system protein GspG C-terminal domain-containing protein {ECO:0000259|Pfam:PF08334};
+Bit Score: 78.0
+E-value: 0.006431
+Alignment Length: 123
+Percentage Identity: 0.178
+
+=== A0A3D2PB01 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HCJ66991.1};
+Bit Score: 90.0
+E-value: 0.006866
+Alignment Length: 97
+Percentage Identity: 0.175
+
+=== A0A0G0CE57 ===
+DE   RecName: Full=Elongation factor 4 {ECO:0000256|HAMAP-Rule:MF_00071};
+DE            Short=EF-4 {ECO:0000256|HAMAP-Rule:MF_00071};
+DE            EC=3.6.5.n1 {ECO:0000256|HAMAP-Rule:MF_00071};
+DE   AltName: Full=Ribosomal back-translocase LepA {ECO:0000256|HAMAP-Rule:MF_00071};
+Bit Score: 81.0
+E-value: 0.006866
+Alignment Length: 98
+Percentage Identity: 0.234
+
+=== A0A0S8IV62 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 91.0
+E-value: 0.007331
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A3N5RPI3 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:RPI88248.1};
+Bit Score: 90.0
+E-value: 0.007331
+Alignment Length: 97
+Percentage Identity: 0.237
+
+=== A0A2N9MDK4 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 90.0
+E-value: 0.007331
+Alignment Length: 94
+Percentage Identity: 0.17
+
+=== A0A2V5YY17 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PYK22594.1};
+Bit Score: 88.0
+E-value: 0.007331
+Alignment Length: 95
+Percentage Identity: 0.2
+
+=== A0A3N0BXV5 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:RNL54581.1};
+Bit Score: 88.0
+E-value: 0.007331
+Alignment Length: 97
+Percentage Identity: 0.144
+
+=== A0A1G1XQ85 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 87.0
+E-value: 0.007331
+Alignment Length: 97
+Percentage Identity: 0.144
+
+=== A0A4P5WTB4 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 84.0
+E-value: 0.007331
+Alignment Length: 85
+Percentage Identity: 0.2
+
+=== A0A1H1N0Q9 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:SDR92480.1};
+Bit Score: 83.0
+E-value: 0.007331
+Alignment Length: 85
+Percentage Identity: 0.188
+
+=== A0A1F5N999 ===
+DE   RecName: Full=Elongation factor 4 {ECO:0000256|HAMAP-Rule:MF_00071};
+DE            Short=EF-4 {ECO:0000256|HAMAP-Rule:MF_00071};
+DE            EC=3.6.5.n1 {ECO:0000256|HAMAP-Rule:MF_00071};
+DE   AltName: Full=Ribosomal back-translocase LepA {ECO:0000256|HAMAP-Rule:MF_00071};
+Bit Score: 80.0
+E-value: 0.007331
+Alignment Length: 96
+Percentage Identity: 0.187
+
+=== K1ZKA4 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 80.0
+E-value: 0.007331
+Alignment Length: 80
+Percentage Identity: 0.187
+
+=== A0A1G1ZLJ3 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 78.0
+E-value: 0.007331
+Alignment Length: 86
+Percentage Identity: 0.232
+
+=== A0A5M4DA20 ===
+DE   RecName: Full=Replication-relaxation {ECO:0008006|Google:ProtNLM};
+Bit Score: 78.0
+E-value: 0.007331
+Alignment Length: 166
+Percentage Identity: 0.138
+
+=== A0A1V6FYA4 ===
+DE   RecName: Full=Holliday junction resolvase {ECO:0008006|Google:ProtNLM};
+Bit Score: 111.0
+E-value: 0.007828
+Alignment Length: 89
+Percentage Identity: 0.179
+
+=== A0A7C3LJI5 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HFS77817.1};
+DE   Flags: Fragment;
+Bit Score: 88.0
+E-value: 0.007828
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A1F7UT64 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 87.0
+E-value: 0.007828
+Alignment Length: 95
+Percentage Identity: 0.178
+
+=== A0A1F6KFE7 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 83.0
+E-value: 0.007828
+Alignment Length: 85
+Percentage Identity: 0.164
+
+=== A0A1F3G4Q9 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:OFX74458.1};
+Bit Score: 81.0
+E-value: 0.007828
+Alignment Length: 82
+Percentage Identity: 0.231
+
+=== A0A2G9YM53 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PIP20325.1};
+DE   Flags: Fragment;
+Bit Score: 91.0
+E-value: 0.008358
+Alignment Length: 96
+Percentage Identity: 0.156
+
+=== A0A1G1EGT8 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 90.0
+E-value: 0.008358
+Alignment Length: 97
+Percentage Identity: 0.185
+
+=== A0A0S8B430 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:KPK06376.1};
+Bit Score: 84.0
+E-value: 0.008358
+Alignment Length: 92
+Percentage Identity: 0.195
+
+=== A0A1P8FMP5 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:APV51359.1};
+Bit Score: 80.0
+E-value: 0.008358
+Alignment Length: 85
+Percentage Identity: 0.176
+
+=== A0A1G1J5N5 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 79.0
+E-value: 0.008358
+Alignment Length: 85
+Percentage Identity: 0.27
+
+=== A0A6I3MZW2 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:MTK52466.1};
+Bit Score: 78.0
+E-value: 0.008358
+Alignment Length: 78
+Percentage Identity: 0.205
+
+=== A0A7J4ABV5 ===
+DE   RecName: Full=Thaumarchaeal output domain-containing protein {ECO:0000259|Pfam:PF18551};
+Bit Score: 75.0
+E-value: 0.008358
+Alignment Length: 144
+Percentage Identity: 0.097
+
+=== A0A836C737 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAG5175164.1};
+Bit Score: 68.0
+E-value: 0.008358
+Alignment Length: 140
+Percentage Identity: 0.121
+
+=== A0A1F5E0J1 ===
+DE   RecName: Full=DUF559 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 90.0
+E-value: 0.008924
+Alignment Length: 104
+Percentage Identity: 0.153
+
+=== A0A2N1XB88 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PKM06206.1};
+Bit Score: 89.0
+E-value: 0.008924
+Alignment Length: 96
+Percentage Identity: 0.145
+
+=== A0A1P8FMH6 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:APV51304.1};
+Bit Score: 86.0
+E-value: 0.008924
+Alignment Length: 96
+Percentage Identity: 0.218
+
+=== A0A845UX61 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:NDY94430.1};
+Bit Score: 86.0
+E-value: 0.008924
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== A0A2V5LVS6 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PYI75361.1};
+Bit Score: 82.0
+E-value: 0.008924
+Alignment Length: 85
+Percentage Identity: 0.188
+
+=== A0A1C6IZS4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SCJ75336.1};
+Bit Score: 81.0
+E-value: 0.008924
+Alignment Length: 125
+Percentage Identity: 0.168
+
+=== A0A257IUF8 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:OYU66477.1};
+Bit Score: 78.0
+E-value: 0.008924
+Alignment Length: 96
+Percentage Identity: 0.229
+
+=== A0A3D0Y816 ===
+DE   RecName: Full=ATP-dependent DNA helicase RecG {ECO:0000256|ARBA:ARBA00017846};
+DE            EC=3.6.4.12 {ECO:0000256|ARBA:ARBA00012551};
+Bit Score: 68.0
+E-value: 0.008924
+Alignment Length: 139
+Percentage Identity: 0.158
+
+=== A0A1Q6X0Y0 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 65.0
+E-value: 0.008924
+Alignment Length: 140
+Percentage Identity: 0.15
+
+=== A0A2J0L2A0 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PIU42810.1};
+Bit Score: 86.0
+E-value: 0.009528
+Alignment Length: 97
+Percentage Identity: 0.175
+
+=== A0A2H0W757 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PIS07933.1};
+Bit Score: 86.0
+E-value: 0.009528
+Alignment Length: 95
+Percentage Identity: 0.147
+
+=== A0A2H9SS29 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PJD96537.1};
+Bit Score: 85.0
+E-value: 0.009528
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== A0A7S6S2L9 ===
+DE   SubName: Full=ATP-binding domain-containing protein {ECO:0000313|EMBL:QOJ16255.1};
+Bit Score: 79.0
+E-value: 0.009528
+Alignment Length: 157
+Percentage Identity: 0.152
+
+=== A0A1F5NWX1 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 77.0
+E-value: 0.009528
+Alignment Length: 100
+Percentage Identity: 0.19
+
+=== A0A1W9T9Q7 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 87.0
+E-value: 0.01017
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A1F5SYX4 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 87.0
+E-value: 0.01017
+Alignment Length: 96
+Percentage Identity: 0.114
+
+=== A0A3B9ZBT7 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 82.0
+E-value: 0.01017
+Alignment Length: 85
+Percentage Identity: 0.152
+
+=== A0A2H0NAU6 ===
+DE   RecName: Full=Tr-type G domain-containing protein {ECO:0000259|Pfam:PF00009};
+DE   Flags: Fragment;
+Bit Score: 81.0
+E-value: 0.01017
+Alignment Length: 97
+Percentage Identity: 0.185
+
+=== A0A2M7RI28 ===
+DE   RecName: Full=Tr-type G domain-containing protein {ECO:0000259|PROSITE:PS51722};
+Bit Score: 81.0
+E-value: 0.01017
+Alignment Length: 97
+Percentage Identity: 0.175
+
+=== A0A2V5J8Z9 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PYI43661.1};
+Bit Score: 80.0
+E-value: 0.01017
+Alignment Length: 85
+Percentage Identity: 0.188
+
+=== A0A3C0PH09 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HAJ79917.1};
+Bit Score: 78.0
+E-value: 0.01017
+Alignment Length: 118
+Percentage Identity: 0.203
+
+=== A0A1G1FZB5 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 67.0
+E-value: 0.01017
+Alignment Length: 129
+Percentage Identity: 0.124
+
+=== A0A369XSL1 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:RDE59179.1};
+Bit Score: 86.0
+E-value: 0.01086
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A1F5TQT0 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 84.0
+E-value: 0.01086
+Alignment Length: 95
+Percentage Identity: 0.157
+
+=== A0A317HWJ5 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PWT87452.1};
+Bit Score: 83.0
+E-value: 0.01086
+Alignment Length: 95
+Percentage Identity: 0.21
+
+=== A0A554LX10 ===
+DE   SubName: Full=Elongation factor 4 {ECO:0000313|EMBL:TSC97406.1};
+Bit Score: 81.0
+E-value: 0.01086
+Alignment Length: 97
+Percentage Identity: 0.206
+
+=== A0A2V5R517 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PYJ27172.1};
+Bit Score: 79.0
+E-value: 0.01086
+Alignment Length: 114
+Percentage Identity: 0.201
+
+=== A0A2D6RNQ0 ===
+DE   RecName: Full=Nuclease associated modular domain-containing protein {ECO:0000259|SMART:SM00496};
+Bit Score: 94.0
+E-value: 0.0116
+Alignment Length: 110
+Percentage Identity: 0.209
+
+=== A0A7W1IGU3 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:MBA3665688.1};
+Bit Score: 88.0
+E-value: 0.0116
+Alignment Length: 95
+Percentage Identity: 0.147
+
+=== A0A7Y3XNJ4 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:NOG84544.1};
+Bit Score: 87.0
+E-value: 0.0116
+Alignment Length: 94
+Percentage Identity: 0.223
+
+=== A0A5E4KAU6 ===
+DE   SubName: Full=PD-(D/E)XK nuclease superfamily protein {ECO:0000313|EMBL:VVB85846.1};
+Bit Score: 85.0
+E-value: 0.0116
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A2C9CK34 ===
+DE   SubName: Full=Putative orf {ECO:0000313|EMBL:SOH06124.1};
+Bit Score: 84.0
+E-value: 0.0116
+Alignment Length: 93
+Percentage Identity: 0.215
+
+=== A0A7G9W424 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:QNO13436.1};
+Bit Score: 84.0
+E-value: 0.0116
+Alignment Length: 97
+Percentage Identity: 0.206
+
+=== A0A0G1LI84 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 83.0
+E-value: 0.0116
+Alignment Length: 96
+Percentage Identity: 0.187
+
+=== A0A2E6C355 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:MBJ62942.1};
+Bit Score: 81.0
+E-value: 0.0116
+Alignment Length: 96
+Percentage Identity: 0.166
+
+=== A0A2E9NZM6 ===
+DE   RecName: Full=DUF559 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 62.0
+E-value: 0.0116
+Alignment Length: 143
+Percentage Identity: 0.153
+
+=== A0A850AZZ2 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:NUQ73133.1};
+Bit Score: 88.0
+E-value: 0.01238
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A517TQJ2 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 84.0
+E-value: 0.01238
+Alignment Length: 98
+Percentage Identity: 0.183
+
+=== A0A554LL55 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 84.0
+E-value: 0.01238
+Alignment Length: 96
+Percentage Identity: 0.135
+
+=== A0A2J0KWS3 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PIU42922.1};
+Bit Score: 84.0
+E-value: 0.01238
+Alignment Length: 97
+Percentage Identity: 0.134
+
+=== A0A1G2KMT0 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 82.0
+E-value: 0.01238
+Alignment Length: 95
+Percentage Identity: 0.2
+
+=== L0DTT2 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 81.0
+E-value: 0.01238
+Alignment Length: 94
+Percentage Identity: 0.18
+
+=== A0A858RAZ1 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:QJE74293.1};
+Bit Score: 80.0
+E-value: 0.01238
+Alignment Length: 86
+Percentage Identity: 0.22
+
+=== A0A3M1P808 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:RMF63905.1};
+Bit Score: 79.0
+E-value: 0.01238
+Alignment Length: 85
+Percentage Identity: 0.211
+
+=== A0A7Y5W2W6 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:NUQ61158.1};
+Bit Score: 78.0
+E-value: 0.01238
+Alignment Length: 83
+Percentage Identity: 0.204
+
+=== A0A7V2XAN5 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HFG18125.1};
+Bit Score: 78.0
+E-value: 0.01238
+Alignment Length: 100
+Percentage Identity: 0.17
+
+=== A0A832CEC5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HGI42515.1};
+Bit Score: 78.0
+E-value: 0.01238
+Alignment Length: 130
+Percentage Identity: 0.123
+
+=== A0A2A2YD07 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 76.0
+E-value: 0.01238
+Alignment Length: 87
+Percentage Identity: 0.172
+
+=== A0A7W1SI54 ===
+DE   SubName: Full=DUF559 domain-containing protein {ECO:0000313|EMBL:MBA3889365.1};
+Bit Score: 74.0
+E-value: 0.01238
+Alignment Length: 139
+Percentage Identity: 0.129
+
+=== A0A315XEH7 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PWB51926.1};
+Bit Score: 69.0
+E-value: 0.01238
+Alignment Length: 121
+Percentage Identity: 0.181
+
+=== A0A7Y5VZ06 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:NUQ53915.1};
+Bit Score: 63.0
+E-value: 0.01238
+Alignment Length: 144
+Percentage Identity: 0.152
+
+=== A0A5C6M2V2 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 86.0
+E-value: 0.01322
+Alignment Length: 61
+Percentage Identity: 0.229
+
+=== K1ZMG9 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 86.0
+E-value: 0.01322
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A653A5W3 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 85.0
+E-value: 0.01322
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A6B0WV68 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:MXW99871.1};
+Bit Score: 84.0
+E-value: 0.01322
+Alignment Length: 98
+Percentage Identity: 0.142
+
+=== A0A1F6SRN1 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:OGI35474.1};
+Bit Score: 84.0
+E-value: 0.01322
+Alignment Length: 96
+Percentage Identity: 0.135
+
+=== A0A2V5NHZ9 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PYI95245.1};
+Bit Score: 83.0
+E-value: 0.01322
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== A0A7W0FV79 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:MBA3237884.1};
+Bit Score: 83.0
+E-value: 0.01322
+Alignment Length: 96
+Percentage Identity: 0.208
+
+=== A0A2H0UQG8 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PIR88630.1};
+Bit Score: 83.0
+E-value: 0.01322
+Alignment Length: 97
+Percentage Identity: 0.154
+
+=== A0A660P8T7 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 81.0
+E-value: 0.01322
+Alignment Length: 85
+Percentage Identity: 0.141
+
+=== A0A1F6GDH6 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 80.0
+E-value: 0.01322
+Alignment Length: 106
+Percentage Identity: 0.15
+
+=== A0A850T073 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:NWH04471.1};
+Bit Score: 79.0
+E-value: 0.01322
+Alignment Length: 85
+Percentage Identity: 0.223
+
+=== A0A1F7GMG3 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 79.0
+E-value: 0.01322
+Alignment Length: 85
+Percentage Identity: 0.211
+
+=== A0A0G0QA16 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 77.0
+E-value: 0.01322
+Alignment Length: 89
+Percentage Identity: 0.202
+
+=== A0A178IEL6 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:OAM88178.1};
+Bit Score: 77.0
+E-value: 0.01322
+Alignment Length: 80
+Percentage Identity: 0.2
+
+=== A0A286IMW5 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:SOE21121.1};
+Bit Score: 75.0
+E-value: 0.01322
+Alignment Length: 81
+Percentage Identity: 0.222
+
+=== A0A359EHP9 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HBX70837.1};
+Bit Score: 75.0
+E-value: 0.01322
+Alignment Length: 119
+Percentage Identity: 0.159
+
+=== A0A1G1D0D3 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:OGW00771.1};
+Bit Score: 74.0
+E-value: 0.01322
+Alignment Length: 85
+Percentage Identity: 0.235
+
+=== A0A1C6L614 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SCK01941.1};
+Bit Score: 67.0
+E-value: 0.01322
+Alignment Length: 138
+Percentage Identity: 0.123
+
+=== A0A2M7TFE3 ===
+DE   RecName: Full=ATP-dependent DNA helicase RecG {ECO:0000256|ARBA:ARBA00017846};
+DE            EC=3.6.4.12 {ECO:0000256|ARBA:ARBA00012551};
+Bit Score: 65.0
+E-value: 0.01322
+Alignment Length: 197
+Percentage Identity: 0.131
+
+=== A0A0S8FU13 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 87.0
+E-value: 0.01412
+Alignment Length: 96
+Percentage Identity: 0.187
+
+=== I0IIF6 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 87.0
+E-value: 0.01412
+Alignment Length: 97
+Percentage Identity: 0.185
+
+=== A0A838I1M8 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:MBA2623053.1};
+Bit Score: 86.0
+E-value: 0.01412
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A0G0SYJ4 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 85.0
+E-value: 0.01412
+Alignment Length: 98
+Percentage Identity: 0.142
+
+=== A0A1V6DCJ0 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 84.0
+E-value: 0.01412
+Alignment Length: 97
+Percentage Identity: 0.154
+
+=== A0A1G1XU21 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 83.0
+E-value: 0.01412
+Alignment Length: 99
+Percentage Identity: 0.232
+
+=== A0A1W6LP97 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:ARN57615.1};
+Bit Score: 82.0
+E-value: 0.01412
+Alignment Length: 96
+Percentage Identity: 0.166
+
+=== A0A3D0YU21 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HCC23234.1};
+Bit Score: 80.0
+E-value: 0.01412
+Alignment Length: 100
+Percentage Identity: 0.19
+
+=== A0A7C2TW88 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HEU32932.1};
+Bit Score: 79.0
+E-value: 0.01412
+Alignment Length: 96
+Percentage Identity: 0.156
+
+=== A0A2V5PQY5 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PYJ10089.1};
+DE   Flags: Fragment;
+Bit Score: 78.0
+E-value: 0.01412
+Alignment Length: 95
+Percentage Identity: 0.221
+
+=== A0A2M7RLN9 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PIZ00368.1};
+Bit Score: 78.0
+E-value: 0.01412
+Alignment Length: 85
+Percentage Identity: 0.2
+
+=== A0A4P8RPZ7 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:QCR23605.1};
+Bit Score: 76.0
+E-value: 0.01412
+Alignment Length: 85
+Percentage Identity: 0.188
+
+=== A0A255ZL89 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:OYQ42327.1};
+Bit Score: 75.0
+E-value: 0.01412
+Alignment Length: 81
+Percentage Identity: 0.234
+
+=== A0A7Z8QXS4 ===
+DE   SubName: Full=Type III restriction endonuclease subunit M {ECO:0000313|EMBL:TXL20371.1};
+Bit Score: 68.0
+E-value: 0.01412
+Alignment Length: 120
+Percentage Identity: 0.133
+
+=== A0A2V6BMX6 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PYK54543.1};
+Bit Score: 65.0
+E-value: 0.01412
+Alignment Length: 123
+Percentage Identity: 0.138
+
+=== A0A1F8RI00 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:OGO46901.1};
+DE   Flags: Fragment;
+Bit Score: 88.0
+E-value: 0.01507
+Alignment Length: 74
+Percentage Identity: 0.175
+
+=== I4GB08 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 87.0
+E-value: 0.01507
+Alignment Length: 96
+Percentage Identity: 0.125
+
+=== Q7UU16 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 85.0
+E-value: 0.01507
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A519S3S0 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:RZK18422.1};
+Bit Score: 84.0
+E-value: 0.01507
+Alignment Length: 96
+Percentage Identity: 0.125
+
+=== A0A7C4EDE7 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HGO73328.1};
+Bit Score: 81.0
+E-value: 0.01507
+Alignment Length: 97
+Percentage Identity: 0.154
+
+=== K9VS99 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 79.0
+E-value: 0.01507
+Alignment Length: 96
+Percentage Identity: 0.229
+
+=== A0A7Y8HGG9 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:NWF56602.1};
+Bit Score: 79.0
+E-value: 0.01507
+Alignment Length: 85
+Percentage Identity: 0.141
+
+=== A0A0R2XQU1 ===
+DE   SubName: Full=GTP-binding protein {ECO:0000313|EMBL:KRP36299.1};
+Bit Score: 78.0
+E-value: 0.01507
+Alignment Length: 85
+Percentage Identity: 0.235
+
+=== A0A7X0H9I2 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:MBB6430315.1};
+Bit Score: 78.0
+E-value: 0.01507
+Alignment Length: 79
+Percentage Identity: 0.202
+
+=== A0A524GYB3 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:TFG42578.1};
+Bit Score: 75.0
+E-value: 0.01507
+Alignment Length: 97
+Percentage Identity: 0.185
+
+=== A0A6C0HFF6 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 74.0
+E-value: 0.01507
+Alignment Length: 103
+Percentage Identity: 0.184
+
+=== A0A2M8DN30 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PJB99539.1};
+Bit Score: 72.0
+E-value: 0.01507
+Alignment Length: 124
+Percentage Identity: 0.209
+
+=== A0A5C6CD57 ===
+DE   RecName: Full=Restriction endonuclease type IV Mrr domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 72.0
+E-value: 0.01507
+Alignment Length: 149
+Percentage Identity: 0.127
+
+=== A0A2G9YQI8 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 86.0
+E-value: 0.01609
+Alignment Length: 96
+Percentage Identity: 0.166
+
+=== A0A352JW48 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HBC47931.1};
+Bit Score: 85.0
+E-value: 0.01609
+Alignment Length: 93
+Percentage Identity: 0.172
+
+=== A0A5C0DYW5 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 83.0
+E-value: 0.01609
+Alignment Length: 97
+Percentage Identity: 0.185
+
+=== A0A6C0KZC1 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 82.0
+E-value: 0.01609
+Alignment Length: 98
+Percentage Identity: 0.214
+
+=== A0A1M3K0Z0 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 78.0
+E-value: 0.01609
+Alignment Length: 88
+Percentage Identity: 0.204
+
+=== A0A0G1QRP8 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 76.0
+E-value: 0.01609
+Alignment Length: 62
+Percentage Identity: 0.241
+
+=== A0A0G0CDV4 ===
+DE   RecName: Full=ATP-dependent DNA helicase RecG {ECO:0000256|ARBA:ARBA00017846};
+DE            EC=3.6.4.12 {ECO:0000256|ARBA:ARBA00012551};
+DE   Flags: Fragment;
+Bit Score: 76.0
+E-value: 0.01609
+Alignment Length: 100
+Percentage Identity: 0.2
+
+=== A0A6M4ITA9 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:QJR36716.1};
+Bit Score: 76.0
+E-value: 0.01609
+Alignment Length: 101
+Percentage Identity: 0.178
+
+=== A0A3D5Z1E1 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HCY42432.1};
+Bit Score: 72.0
+E-value: 0.01609
+Alignment Length: 94
+Percentage Identity: 0.17
+
+=== A0A0P6Y877 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 85.0
+E-value: 0.01718
+Alignment Length: 98
+Percentage Identity: 0.183
+
+=== A0A1W9UV10 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:OQY25144.1};
+Bit Score: 85.0
+E-value: 0.01718
+Alignment Length: 96
+Percentage Identity: 0.156
+
+=== A0A6J4FWU5 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 83.0
+E-value: 0.01718
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A1V5P029 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 83.0
+E-value: 0.01718
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A419F1S9 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:RJP72086.1};
+Bit Score: 83.0
+E-value: 0.01718
+Alignment Length: 97
+Percentage Identity: 0.154
+
+=== A0A6N4SU24 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 83.0
+E-value: 0.01718
+Alignment Length: 97
+Percentage Identity: 0.123
+
+=== A0A0G0T6K3 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 82.0
+E-value: 0.01718
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== A0A7C4N071 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HGP68670.1};
+Bit Score: 79.0
+E-value: 0.01718
+Alignment Length: 96
+Percentage Identity: 0.187
+
+=== A0A535DM72 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:TMB97908.1};
+Bit Score: 79.0
+E-value: 0.01718
+Alignment Length: 97
+Percentage Identity: 0.154
+
+=== A0A2D6Q3L6 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:MAG59772.1};
+Bit Score: 78.0
+E-value: 0.01718
+Alignment Length: 85
+Percentage Identity: 0.141
+
+=== A0A1M6PHE5 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:SHK07334.1};
+Bit Score: 77.0
+E-value: 0.01718
+Alignment Length: 85
+Percentage Identity: 0.188
+
+=== A0A7Z9XGW0 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HID31178.1};
+DE   Flags: Fragment;
+Bit Score: 75.0
+E-value: 0.01718
+Alignment Length: 100
+Percentage Identity: 0.21
+
+=== A0A1G1NY08 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 70.0
+E-value: 0.01718
+Alignment Length: 85
+Percentage Identity: 0.2
+
+=== A0A7W1U1P2 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:MBA3958189.1};
+Bit Score: 66.0
+E-value: 0.01718
+Alignment Length: 137
+Percentage Identity: 0.153
+
+=== A0A1F5H7C4 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 85.0
+E-value: 0.01835
+Alignment Length: 96
+Percentage Identity: 0.208
+
+=== A0A4V1SZG4 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:RYE18181.1};
+DE   Flags: Fragment;
+Bit Score: 85.0
+E-value: 0.01835
+Alignment Length: 95
+Percentage Identity: 0.136
+
+=== U2QB78 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:ERK38558.1};
+Bit Score: 84.0
+E-value: 0.01835
+Alignment Length: 85
+Percentage Identity: 0.282
+
+=== A0A2T2UGB4 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PSQ92430.1};
+Bit Score: 82.0
+E-value: 0.01835
+Alignment Length: 96
+Percentage Identity: 0.156
+
+=== A0A354R9B2 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HBJ59596.1};
+Bit Score: 81.0
+E-value: 0.01835
+Alignment Length: 96
+Percentage Identity: 0.208
+
+=== A0A4R2H9K0 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:TCO23749.1};
+Bit Score: 81.0
+E-value: 0.01835
+Alignment Length: 98
+Percentage Identity: 0.173
+
+=== A0A1W9UD36 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 79.0
+E-value: 0.01835
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A3R8IW63 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:RRJ98042.1};
+Bit Score: 77.0
+E-value: 0.01835
+Alignment Length: 85
+Percentage Identity: 0.2
+
+=== A0A1G2PD84 ===
+DE   RecName: Full=Elongation factor 4 {ECO:0000256|HAMAP-Rule:MF_00071};
+DE            Short=EF-4 {ECO:0000256|HAMAP-Rule:MF_00071};
+DE            EC=3.6.5.n1 {ECO:0000256|HAMAP-Rule:MF_00071};
+DE   AltName: Full=Ribosomal back-translocase LepA {ECO:0000256|HAMAP-Rule:MF_00071};
+Bit Score: 77.0
+E-value: 0.01835
+Alignment Length: 85
+Percentage Identity: 0.188
+
+=== A0A348NMV7 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HAQ57868.1};
+Bit Score: 77.0
+E-value: 0.01835
+Alignment Length: 85
+Percentage Identity: 0.176
+
+=== A0A538NWI8 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:TMP95732.1};
+Bit Score: 74.0
+E-value: 0.01835
+Alignment Length: 85
+Percentage Identity: 0.188
+
+=== A0A3D9UCA7 ===
+DE   RecName: Full=site-specific DNA-methyltransferase (adenine-specific) {ECO:0000256|ARBA:ARBA00011900};
+DE            EC=2.1.1.72 {ECO:0000256|ARBA:ARBA00011900};
+Bit Score: 71.0
+E-value: 0.01835
+Alignment Length: 125
+Percentage Identity: 0.168
+
+=== A0A7W1FX73 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:MBA3704953.1};
+Bit Score: 70.0
+E-value: 0.01835
+Alignment Length: 88
+Percentage Identity: 0.17
+
+=== A0A2K8UCU8 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:AUB83403.1};
+Bit Score: 84.0
+E-value: 0.01959
+Alignment Length: 94
+Percentage Identity: 0.191
+
+=== A0A496ZXL3 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:RLC53235.1};
+Bit Score: 81.0
+E-value: 0.01959
+Alignment Length: 96
+Percentage Identity: 0.166
+
+=== A0A554LP96 ===
+DE   RecName: Full=GTP-binding signal recognition particle {ECO:0008006|Google:ProtNLM};
+Bit Score: 81.0
+E-value: 0.01959
+Alignment Length: 95
+Percentage Identity: 0.147
+
+=== A0A7K0FJZ8 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:MRX45981.1};
+Bit Score: 77.0
+E-value: 0.01959
+Alignment Length: 96
+Percentage Identity: 0.156
+
+=== A0A2V6G7R0 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PYL08438.1};
+Bit Score: 74.0
+E-value: 0.01959
+Alignment Length: 83
+Percentage Identity: 0.192
+
+=== A0A7V5NB70 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HHI46894.1};
+Bit Score: 73.0
+E-value: 0.01959
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== A0A2A2Y980 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 82.0
+E-value: 0.02091
+Alignment Length: 96
+Percentage Identity: 0.156
+
+=== B9M8Y0 ===
+DE   SubName: Full=PDDEXK_3 family protein {ECO:0000313|EMBL:ACM20476.1};
+Bit Score: 81.0
+E-value: 0.02091
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== M5S2M0 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 81.0
+E-value: 0.02091
+Alignment Length: 96
+Percentage Identity: 0.187
+
+=== A0A7C5HN38 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HHE37248.1};
+Bit Score: 81.0
+E-value: 0.02091
+Alignment Length: 94
+Percentage Identity: 0.18
+
+=== A0A2V6LQ04 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PYL77544.1};
+Bit Score: 79.0
+E-value: 0.02091
+Alignment Length: 97
+Percentage Identity: 0.185
+
+=== K2E793 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 77.0
+E-value: 0.02091
+Alignment Length: 94
+Percentage Identity: 0.191
+
+=== A0A7V4QFE6 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HGW36523.1};
+Bit Score: 75.0
+E-value: 0.02091
+Alignment Length: 98
+Percentage Identity: 0.204
+
+=== A0A522D3L3 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:TAL36706.1};
+Bit Score: 73.0
+E-value: 0.02091
+Alignment Length: 86
+Percentage Identity: 0.197
+
+=== A0A1T4YF61 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:SKB00426.1};
+Bit Score: 73.0
+E-value: 0.02091
+Alignment Length: 121
+Percentage Identity: 0.173
+
+=== A0A837IGX5 ===
+DE   SubName: Full=Elongation factor 4 {ECO:0000313|EMBL:KKU12526.1};
+DE   Flags: Fragment;
+Bit Score: 71.0
+E-value: 0.02091
+Alignment Length: 108
+Percentage Identity: 0.175
+
+=== A0A2M7WUL9 ===
+DE   RecName: Full=ATP-dependent DNA helicase RecG {ECO:0000256|ARBA:ARBA00017846};
+DE            EC=3.6.4.12 {ECO:0000256|ARBA:ARBA00012551};
+Bit Score: 59.0
+E-value: 0.02091
+Alignment Length: 145
+Percentage Identity: 0.193
+
+=== A0A358ACB3 ===
+DE   RecName: Full=ATP-dependent DNA helicase RecG {ECO:0000256|ARBA:ARBA00017846};
+DE            EC=3.6.4.12 {ECO:0000256|ARBA:ARBA00012551};
+Bit Score: 58.0
+E-value: 0.02091
+Alignment Length: 161
+Percentage Identity: 0.161
+
+=== A0A7V5DCC7 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HGZ30916.1};
+Bit Score: 82.0
+E-value: 0.02233
+Alignment Length: 96
+Percentage Identity: 0.135
+
+=== A0A6M4IXR0 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:QJR36991.1};
+Bit Score: 77.0
+E-value: 0.02233
+Alignment Length: 90
+Percentage Identity: 0.177
+
+=== A0A2M7RGG1 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PIY95840.1};
+Bit Score: 76.0
+E-value: 0.02233
+Alignment Length: 85
+Percentage Identity: 0.176
+
+=== A0A1F7UV39 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 76.0
+E-value: 0.02233
+Alignment Length: 99
+Percentage Identity: 0.141
+
+=== A0A3D2PC04 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HCJ67427.1};
+Bit Score: 75.0
+E-value: 0.02233
+Alignment Length: 96
+Percentage Identity: 0.208
+
+=== A0A2V5SQX5 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PYJ47440.1};
+Bit Score: 75.0
+E-value: 0.02233
+Alignment Length: 120
+Percentage Identity: 0.175
+
+=== A0A7X7QXQ9 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:NLF38377.1};
+Bit Score: 74.0
+E-value: 0.02233
+Alignment Length: 85
+Percentage Identity: 0.235
+
+=== A0A5Q4H1W1 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:TVS13927.1};
+Bit Score: 74.0
+E-value: 0.02233
+Alignment Length: 98
+Percentage Identity: 0.173
+
+=== A0A1G2K151 ===
+DE   RecName: Full=ATP-dependent DNA helicase RecG {ECO:0000256|ARBA:ARBA00017846};
+DE            EC=3.6.4.12 {ECO:0000256|ARBA:ARBA00012551};
+Bit Score: 64.0
+E-value: 0.02233
+Alignment Length: 141
+Percentage Identity: 0.156
+
+=== A0A3D2IFU3 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 63.0
+E-value: 0.02233
+Alignment Length: 146
+Percentage Identity: 0.109
+
+=== A0A5B8UVL2 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:QEC62962.1};
+Bit Score: 80.0
+E-value: 0.02384
+Alignment Length: 96
+Percentage Identity: 0.125
+
+=== A0A1F8SDL1 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 79.0
+E-value: 0.02384
+Alignment Length: 100
+Percentage Identity: 0.2
+
+=== X1KW39 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 78.0
+E-value: 0.02384
+Alignment Length: 85
+Percentage Identity: 0.2
+
+=== A0A354FYR8 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 78.0
+E-value: 0.02384
+Alignment Length: 97
+Percentage Identity: 0.175
+
+=== A0A7X7TD53 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:NLH17423.1};
+Bit Score: 77.0
+E-value: 0.02384
+Alignment Length: 97
+Percentage Identity: 0.164
+
+=== A0A4P2QWU8 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 76.0
+E-value: 0.02384
+Alignment Length: 85
+Percentage Identity: 0.223
+
+=== A0A0G0IDN3 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 75.0
+E-value: 0.02384
+Alignment Length: 85
+Percentage Identity: 0.176
+
+=== A0A522BNL5 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:TAL19237.1};
+Bit Score: 74.0
+E-value: 0.02384
+Alignment Length: 85
+Percentage Identity: 0.2
+
+=== A0A2M7TH48 ===
+DE   RecName: Full=Tr-type G domain-containing protein {ECO:0000259|PROSITE:PS51722};
+DE   Flags: Fragment;
+Bit Score: 73.0
+E-value: 0.02384
+Alignment Length: 98
+Percentage Identity: 0.173
+
+=== A0A3D0UL15 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HCB49098.1};
+Bit Score: 69.0
+E-value: 0.02384
+Alignment Length: 120
+Percentage Identity: 0.158
+
+=== A0A7C4PCV2 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HGR88794.1};
+Bit Score: 84.0
+E-value: 0.02546
+Alignment Length: 96
+Percentage Identity: 0.156
+
+=== A0A537IGZ7 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:TMI70558.1};
+Bit Score: 81.0
+E-value: 0.02546
+Alignment Length: 96
+Percentage Identity: 0.135
+
+=== A0A369CIN6 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:RCX32297.1};
+Bit Score: 80.0
+E-value: 0.02546
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== K9XXE5 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 79.0
+E-value: 0.02546
+Alignment Length: 96
+Percentage Identity: 0.166
+
+=== A0A1V6JUH0 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 68.0
+E-value: 0.02546
+Alignment Length: 87
+Percentage Identity: 0.183
+
+=== A0A1G2HZJ5 ===
+DE   RecName: Full=ATP-dependent DNA helicase RecG {ECO:0000256|ARBA:ARBA00017846};
+DE            EC=3.6.4.12 {ECO:0000256|ARBA:ARBA00012551};
+Bit Score: 61.0
+E-value: 0.02546
+Alignment Length: 146
+Percentage Identity: 0.178
+
+=== A0A3D4V4C3 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HCT55969.1};
+Bit Score: 81.0
+E-value: 0.02718
+Alignment Length: 85
+Percentage Identity: 0.2
+
+=== A0A3C0R176 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HAK05720.1};
+Bit Score: 80.0
+E-value: 0.02718
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A831QGL2 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HDZ24125.1};
+Bit Score: 80.0
+E-value: 0.02718
+Alignment Length: 97
+Percentage Identity: 0.195
+
+=== A0A2V9VSJ4 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PYX42428.1};
+Bit Score: 80.0
+E-value: 0.02718
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A3B9EBT2 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HAD82661.1};
+Bit Score: 80.0
+E-value: 0.02718
+Alignment Length: 96
+Percentage Identity: 0.156
+
+=== A0A3D0YVZ7 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 79.0
+E-value: 0.02718
+Alignment Length: 96
+Percentage Identity: 0.104
+
+=== A0A1W9LD28 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:OQW96197.1};
+Bit Score: 78.0
+E-value: 0.02718
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A832BA07 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HGF44990.1};
+Bit Score: 76.0
+E-value: 0.02718
+Alignment Length: 85
+Percentage Identity: 0.117
+
+=== A0A150TDN1 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 75.0
+E-value: 0.02718
+Alignment Length: 85
+Percentage Identity: 0.223
+
+=== A0A662SNT3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RLG47668.1};
+Bit Score: 75.0
+E-value: 0.02718
+Alignment Length: 126
+Percentage Identity: 0.174
+
+=== A0A522E7Z3 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:TAL50589.1};
+Bit Score: 73.0
+E-value: 0.02718
+Alignment Length: 104
+Percentage Identity: 0.173
+
+=== A0A399ZAM5 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:RIK26063.1};
+Bit Score: 73.0
+E-value: 0.02718
+Alignment Length: 85
+Percentage Identity: 0.164
+
+=== A0A286GAB8 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:SOD92440.1};
+Bit Score: 82.0
+E-value: 0.02902
+Alignment Length: 96
+Percentage Identity: 0.135
+
+=== A0A1F3W2Z9 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 80.0
+E-value: 0.02902
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A7V4AZ35 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HGO44685.1};
+Bit Score: 78.0
+E-value: 0.02902
+Alignment Length: 98
+Percentage Identity: 0.193
+
+=== A0A399YPG7 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:NOG51077.1};
+Bit Score: 75.0
+E-value: 0.02902
+Alignment Length: 85
+Percentage Identity: 0.164
+
+=== A0A1V5GV26 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 73.0
+E-value: 0.02902
+Alignment Length: 97
+Percentage Identity: 0.134
+
+=== A0A554M9Q4 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 72.0
+E-value: 0.02902
+Alignment Length: 98
+Percentage Identity: 0.193
+
+=== A0A2W4KVR1 ===
+DE   RecName: Full=alanine--tRNA ligase {ECO:0000256|ARBA:ARBA00013168};
+DE            EC=6.1.1.7 {ECO:0000256|ARBA:ARBA00013168};
+Bit Score: 64.0
+E-value: 0.02902
+Alignment Length: 131
+Percentage Identity: 0.114
+
+=== A0A321LWT8 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PYP91063.1};
+Bit Score: 62.0
+E-value: 0.02902
+Alignment Length: 136
+Percentage Identity: 0.117
+
+=== A0A2M6K9W5 ===
+DE   RecName: Full=ATP-dependent DNA helicase RecG {ECO:0000256|ARBA:ARBA00017846};
+DE            EC=3.6.4.12 {ECO:0000256|ARBA:ARBA00012551};
+Bit Score: 59.0
+E-value: 0.02902
+Alignment Length: 149
+Percentage Identity: 0.194
+
+=== A0A1M5PJK9 ===
+DE   SubName: Full=ATP-dependent exoDNAse (Exonuclease V), alpha subunit, helicase superfamily I {ECO:0000313|EMBL:SHH01921.1};
+Bit Score: 55.0
+E-value: 0.02902
+Alignment Length: 142
+Percentage Identity: 0.169
+
+=== A0A1M6Q564 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SHK15342.1};
+Bit Score: 87.0
+E-value: 0.03098
+Alignment Length: 92
+Percentage Identity: 0.206
+
+=== A0A537K9A4 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:TMI92324.1};
+Bit Score: 80.0
+E-value: 0.03098
+Alignment Length: 97
+Percentage Identity: 0.154
+
+=== A0A5E4L309 ===
+DE   SubName: Full=PD-(D/E)XK nuclease superfamily protein {ECO:0000313|EMBL:VVB95627.1};
+Bit Score: 79.0
+E-value: 0.03098
+Alignment Length: 96
+Percentage Identity: 0.156
+
+=== A0A401U688 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:GCC50448.1};
+Bit Score: 79.0
+E-value: 0.03098
+Alignment Length: 96
+Percentage Identity: 0.135
+
+=== A0A367Q7G9 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:RCJ19720.1};
+Bit Score: 75.0
+E-value: 0.03098
+Alignment Length: 85
+Percentage Identity: 0.223
+
+=== A0A2G9Y201 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PIP13245.1};
+Bit Score: 75.0
+E-value: 0.03098
+Alignment Length: 98
+Percentage Identity: 0.204
+
+=== A0A7V4SZU5 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HGX99667.1};
+Bit Score: 74.0
+E-value: 0.03098
+Alignment Length: 97
+Percentage Identity: 0.154
+
+=== A0A7W8N3P3 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:MBB5342766.1};
+Bit Score: 71.0
+E-value: 0.03098
+Alignment Length: 97
+Percentage Identity: 0.175
+
+=== A0A352AY96 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 70.0
+E-value: 0.03098
+Alignment Length: 98
+Percentage Identity: 0.153
+
+=== A0A2A2R4K2 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PAW77738.1};
+Bit Score: 69.0
+E-value: 0.03098
+Alignment Length: 80
+Percentage Identity: 0.2
+
+=== A0A7X6NQ15 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:NLA21775.1};
+Bit Score: 69.0
+E-value: 0.03098
+Alignment Length: 85
+Percentage Identity: 0.164
+
+=== A3CX42 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ABN57942.1};
+Bit Score: 62.0
+E-value: 0.03098
+Alignment Length: 141
+Percentage Identity: 0.17
+
+=== A0A2N9MUX6 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 84.0
+E-value: 0.03308
+Alignment Length: 86
+Percentage Identity: 0.174
+
+=== A0A7C3FND6 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HEY84866.1};
+Bit Score: 77.0
+E-value: 0.03308
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A1J5APV4 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:OIP00915.1};
+Bit Score: 77.0
+E-value: 0.03308
+Alignment Length: 97
+Percentage Identity: 0.164
+
+=== A0A4D8R0D3 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:QCO14844.1};
+Bit Score: 77.0
+E-value: 0.03308
+Alignment Length: 95
+Percentage Identity: 0.157
+
+=== A0A7V5NBN1 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HHI47207.1};
+Bit Score: 76.0
+E-value: 0.03308
+Alignment Length: 97
+Percentage Identity: 0.175
+
+=== E8WWH8 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 75.0
+E-value: 0.03308
+Alignment Length: 95
+Percentage Identity: 0.136
+
+=== A0A7W1A080 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:MBA3461021.1};
+Bit Score: 74.0
+E-value: 0.03308
+Alignment Length: 86
+Percentage Identity: 0.197
+
+=== A0A1V4R022 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 74.0
+E-value: 0.03308
+Alignment Length: 99
+Percentage Identity: 0.161
+
+=== A0A1F6GL42 ===
+DE   RecName: Full=Single-stranded-DNA-specific exonuclease RecJ {ECO:0000256|ARBA:ARBA00019841};
+Bit Score: 71.0
+E-value: 0.03308
+Alignment Length: 95
+Percentage Identity: 0.168
+
+=== A0A4S2AMY1 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:TGY02498.1};
+Bit Score: 70.0
+E-value: 0.03308
+Alignment Length: 95
+Percentage Identity: 0.157
+
+=== A0A352MZ21 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HBC85704.1};
+Bit Score: 69.0
+E-value: 0.03308
+Alignment Length: 130
+Percentage Identity: 0.1
+
+=== A0A7Y5JHW3 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:NUO15564.1};
+Bit Score: 64.0
+E-value: 0.03308
+Alignment Length: 121
+Percentage Identity: 0.14
+
+=== A0A7V2X802 ===
+DE   RecName: Full=DNA helicase {ECO:0008006|Google:ProtNLM};
+Bit Score: 59.0
+E-value: 0.03308
+Alignment Length: 96
+Percentage Identity: 0.166
+
+=== A0A1I3HWI8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SFI39940.1};
+Bit Score: 58.0
+E-value: 0.03308
+Alignment Length: 145
+Percentage Identity: 0.131
+
+=== A0A4Y3RHQ6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GEB57185.1};
+Bit Score: 87.0
+E-value: 0.03532
+Alignment Length: 99
+Percentage Identity: 0.232
+
+=== A0A2H0V5S0 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 81.0
+E-value: 0.03532
+Alignment Length: 72
+Percentage Identity: 0.152
+
+=== A0A1F5TH76 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 80.0
+E-value: 0.03532
+Alignment Length: 96
+Percentage Identity: 0.125
+
+=== A0A7C0YHD5 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HDH01716.1};
+Bit Score: 77.0
+E-value: 0.03532
+Alignment Length: 78
+Percentage Identity: 0.23
+
+=== A0A139WT31 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:KYC35604.1};
+Bit Score: 77.0
+E-value: 0.03532
+Alignment Length: 94
+Percentage Identity: 0.17
+
+=== A0A2I6QID4 ===
+DE   SubName: Full=NADH:ubiquinone oxidoreductase subunit 5 (Chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit {ECO:0000313|EMBL:AUN35938.1};
+Bit Score: 76.0
+E-value: 0.03532
+Alignment Length: 97
+Percentage Identity: 0.164
+
+=== A0A1F6NFV0 ===
+DE   RecName: Full=Single-stranded-DNA-specific exonuclease RecJ {ECO:0008006|Google:ProtNLM};
+Bit Score: 75.0
+E-value: 0.03532
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A0F6W199 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 75.0
+E-value: 0.03532
+Alignment Length: 97
+Percentage Identity: 0.185
+
+=== K1ZL85 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 73.0
+E-value: 0.03532
+Alignment Length: 74
+Percentage Identity: 0.189
+
+=== A0A7W1D9M6 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:MBA3631396.1};
+Bit Score: 70.0
+E-value: 0.03532
+Alignment Length: 124
+Percentage Identity: 0.104
+
+=== A0A3N5L0W0 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:RPI17682.1};
+Bit Score: 67.0
+E-value: 0.03532
+Alignment Length: 113
+Percentage Identity: 0.168
+
+=== A0A838MJ09 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:MBA3047478.1};
+Bit Score: 66.0
+E-value: 0.03532
+Alignment Length: 118
+Percentage Identity: 0.127
+
+=== A0A7V9QL36 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:MBA2685922.1};
+Bit Score: 64.0
+E-value: 0.03532
+Alignment Length: 120
+Percentage Identity: 0.191
+
+=== A0A2E6T2G0 ===
+DE   SubName: Full=GTP-binding protein {ECO:0000313|EMBL:MBL58694.1};
+Bit Score: 62.0
+E-value: 0.03532
+Alignment Length: 123
+Percentage Identity: 0.13
+
+=== T1BYU8 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 80.0
+E-value: 0.03771
+Alignment Length: 62
+Percentage Identity: 0.225
+
+=== A0A7V4T004 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HGX99806.1};
+Bit Score: 80.0
+E-value: 0.03771
+Alignment Length: 96
+Percentage Identity: 0.114
+
+=== A0A2A6RNV3 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PDW04558.1};
+Bit Score: 79.0
+E-value: 0.03771
+Alignment Length: 96
+Percentage Identity: 0.166
+
+=== A0A7Y3JFW5 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:NNM66503.1};
+Bit Score: 79.0
+E-value: 0.03771
+Alignment Length: 96
+Percentage Identity: 0.145
+
+=== A0A2M7E768 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PIV63545.1};
+Bit Score: 78.0
+E-value: 0.03771
+Alignment Length: 97
+Percentage Identity: 0.164
+
+=== A0A7C4EGI9 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HGO75369.1};
+Bit Score: 77.0
+E-value: 0.03771
+Alignment Length: 95
+Percentage Identity: 0.168
+
+=== A0A7C0Z8S8 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HDI82290.1};
+Bit Score: 77.0
+E-value: 0.03771
+Alignment Length: 95
+Percentage Identity: 0.115
+
+=== A0A1F8T2E5 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:OGO66290.1};
+Bit Score: 71.0
+E-value: 0.03771
+Alignment Length: 85
+Percentage Identity: 0.176
+
+=== A0A7W1MRH1 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:MBA3831492.1};
+Bit Score: 71.0
+E-value: 0.03771
+Alignment Length: 86
+Percentage Identity: 0.139
+
+=== A0A1F2UBZ4 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 69.0
+E-value: 0.03771
+Alignment Length: 106
+Percentage Identity: 0.216
+
+=== A0A2V8N6P2 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PYS41447.1};
+Bit Score: 69.0
+E-value: 0.03771
+Alignment Length: 88
+Percentage Identity: 0.193
+
+=== A0A5N0TCY9 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:KAA9132548.1};
+Bit Score: 69.0
+E-value: 0.03771
+Alignment Length: 98
+Percentage Identity: 0.153
+
+=== A0A2V5SLF4 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PYJ45373.1};
+DE   Flags: Fragment;
+Bit Score: 68.0
+E-value: 0.03771
+Alignment Length: 84
+Percentage Identity: 0.154
+
+=== X1EXU0 ===
+DE   RecName: Full=DUF559 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 53.0
+E-value: 0.03771
+Alignment Length: 154
+Percentage Identity: 0.168
+
+=== A0A1G1THA0 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:OGX90258.1};
+Bit Score: 79.0
+E-value: 0.04027
+Alignment Length: 97
+Percentage Identity: 0.123
+
+=== A0A0S8GJE9 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 78.0
+E-value: 0.04027
+Alignment Length: 96
+Percentage Identity: 0.135
+
+=== A0A6I2U0L4 ===
+DE   SubName: Full=DUF559 domain-containing protein {ECO:0000313|EMBL:MST78402.1};
+Bit Score: 77.0
+E-value: 0.04027
+Alignment Length: 118
+Percentage Identity: 0.169
+
+=== A0A2N2LQR3 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PKN83991.1};
+Bit Score: 77.0
+E-value: 0.04027
+Alignment Length: 96
+Percentage Identity: 0.135
+
+=== A0A6C0J0N8 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 76.0
+E-value: 0.04027
+Alignment Length: 96
+Percentage Identity: 0.208
+
+=== A0A2E6I3W4 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:MBK36593.1};
+Bit Score: 76.0
+E-value: 0.04027
+Alignment Length: 97
+Percentage Identity: 0.144
+
+=== A0A7C4IYF9 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HGP68239.1};
+Bit Score: 73.0
+E-value: 0.04027
+Alignment Length: 97
+Percentage Identity: 0.175
+
+=== A0A2V6CYZ4 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PYK69059.1};
+Bit Score: 72.0
+E-value: 0.04027
+Alignment Length: 85
+Percentage Identity: 0.164
+
+=== A0A1F8MPN8 ===
+DE   RecName: Full=Restriction system protein Mrr-like N-terminal domain-containing protein {ECO:0000259|Pfam:PF14338};
+Bit Score: 72.0
+E-value: 0.04027
+Alignment Length: 129
+Percentage Identity: 0.124
+
+=== A0A1E4B8C4 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 69.0
+E-value: 0.04027
+Alignment Length: 85
+Percentage Identity: 0.164
+
+=== A0A2V5VQG8 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PYJ82662.1};
+Bit Score: 68.0
+E-value: 0.04027
+Alignment Length: 85
+Percentage Identity: 0.211
+
+=== A0A7V9FIY4 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:MBA2459876.1};
+Bit Score: 68.0
+E-value: 0.04027
+Alignment Length: 99
+Percentage Identity: 0.161
+
+=== A0A1F6EYB0 ===
+DE   RecName: Full=Tr-type G domain-containing protein {ECO:0000259|Pfam:PF00009};
+DE   Flags: Fragment;
+Bit Score: 67.0
+E-value: 0.04027
+Alignment Length: 108
+Percentage Identity: 0.157
+
+=== A9UW03 ===
+DE   RecName: Full=Glycosyltransferase family 92 protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 57.0
+E-value: 0.04027
+Alignment Length: 99
+Percentage Identity: 0.151
+
+=== A0A419X5U4 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:RKE03087.1};
+Bit Score: 76.0
+E-value: 0.04299
+Alignment Length: 96
+Percentage Identity: 0.145
+
+=== A0A1G2WE59 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:OHB32173.1};
+Bit Score: 75.0
+E-value: 0.04299
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A1F5UYW3 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 75.0
+E-value: 0.04299
+Alignment Length: 97
+Percentage Identity: 0.144
+
+=== A0A2V5S8Y4 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PYJ32967.1};
+Bit Score: 74.0
+E-value: 0.04299
+Alignment Length: 98
+Percentage Identity: 0.193
+
+=== A0A554KJH9 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 72.0
+E-value: 0.04299
+Alignment Length: 102
+Percentage Identity: 0.176
+
+=== A0A3C1C1V3 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HAL92186.1};
+Bit Score: 71.0
+E-value: 0.04299
+Alignment Length: 68
+Percentage Identity: 0.22
+
+=== A0A832CRW2 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HGO55061.1};
+Bit Score: 70.0
+E-value: 0.04299
+Alignment Length: 95
+Percentage Identity: 0.168
+
+=== F6DBT3 ===
+DE   RecName: Full=Restriction endonuclease type IV Mrr domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 70.0
+E-value: 0.04299
+Alignment Length: 124
+Percentage Identity: 0.137
+
+=== A0A851G8M7 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:NWK54068.1};
+Bit Score: 68.0
+E-value: 0.04299
+Alignment Length: 81
+Percentage Identity: 0.16
+
+=== A0A520K548 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RZN39395.1};
+Bit Score: 68.0
+E-value: 0.04299
+Alignment Length: 133
+Percentage Identity: 0.12
+
+=== A0A1N7JPN2 ===
+DE   RecName: Full=DUF559 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 79.0
+E-value: 0.04591
+Alignment Length: 114
+Percentage Identity: 0.184
+
+=== A0A1F3IY41 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:OFY08207.1};
+Bit Score: 78.0
+E-value: 0.04591
+Alignment Length: 96
+Percentage Identity: 0.125
+
+=== A0A7G9YZS9 ===
+DE   RecName: Full=mannosyl-3-phosphoglycerate phosphatase {ECO:0000256|NCBIfam:TIGR02461};
+DE            EC=3.1.3.70 {ECO:0000256|NCBIfam:TIGR02461};
+Bit Score: 74.0
+E-value: 0.04591
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A7C5FVL4 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:HHA47126.1};
+Bit Score: 72.0
+E-value: 0.04591
+Alignment Length: 97
+Percentage Identity: 0.206
+
+=== A0A1F8LZM3 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 72.0
+E-value: 0.04591
+Alignment Length: 99
+Percentage Identity: 0.181
+
+=== A0A7X7FQ72 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:NLE60439.1};
+Bit Score: 72.0
+E-value: 0.04591
+Alignment Length: 98
+Percentage Identity: 0.142
+
+=== A0A2M6YKM0 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PIU31643.1};
+Bit Score: 71.0
+E-value: 0.04591
+Alignment Length: 81
+Percentage Identity: 0.197
+
+=== A0A1G2YPI2 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 67.0
+E-value: 0.04591
+Alignment Length: 120
+Percentage Identity: 0.158
+
+=== A0A1C5MJU6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SCH12767.1};
+Bit Score: 64.0
+E-value: 0.04591
+Alignment Length: 129
+Percentage Identity: 0.17
+
+=== A0A402CV39 ===
+DE   RecName: Full=PD-(D/E)XK endonuclease-like domain-containing protein {ECO:0000259|Pfam:PF12705};
+Bit Score: 52.0
+E-value: 0.04591
+Alignment Length: 150
+Percentage Identity: 0.153
+
+=== A0A0D8ZTI0 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:KJH71672.1};
+Bit Score: 77.0
+E-value: 0.04901
+Alignment Length: 96
+Percentage Identity: 0.125
+
+=== A0A202DW88 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 73.0
+E-value: 0.04901
+Alignment Length: 96
+Percentage Identity: 0.135
+
+=== A0A348AKL0 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 72.0
+E-value: 0.04901
+Alignment Length: 85
+Percentage Identity: 0.2
+
+=== A0A2H0W5V6 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PIS07452.1};
+Bit Score: 72.0
+E-value: 0.04901
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A1H9WBK1 ===
+DE   RecName: Full=DUF559 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 71.0
+E-value: 0.04901
+Alignment Length: 141
+Percentage Identity: 0.17
+
+=== C3NKD4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ACP49377.1};
+Bit Score: 71.0
+E-value: 0.04901
+Alignment Length: 127
+Percentage Identity: 0.141
+
+=== A0A1G2BR91 ===
+DE   RecName: Full=GxxExxY protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 71.0
+E-value: 0.04901
+Alignment Length: 98
+Percentage Identity: 0.122
+
+=== A0A2V8ECN3 ===
+DE   SubName: Full=GxxExxY protein {ECO:0000313|EMBL:PYR36096.1};
+Bit Score: 69.0
+E-value: 0.04901
+Alignment Length: 85
+Percentage Identity: 0.164
+
+=== A0A6M3ITV8 ===
+DE   RecName: Full=DUF559 domain-containing protein {ECO:0000259|Pfam:PF04480};
+Bit Score: 68.0
+E-value: 0.04901
+Alignment Length: 121
+Percentage Identity: 0.19
+

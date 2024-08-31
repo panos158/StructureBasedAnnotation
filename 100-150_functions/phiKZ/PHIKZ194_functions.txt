@@ -1,0 +1,14 @@
+=== A0A0F6TDW2 ===
+DE   RecName: Full=Bacterial sensory transduction regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 86.0
+E-value: 0.01773
+Alignment Length: 138
+Percentage Identity: 0.137
+
+=== A0A7D4TDL8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QKI88727.1};
+Bit Score: 101.0
+E-value: 0.03437
+Alignment Length: 117
+Percentage Identity: 0.111
+

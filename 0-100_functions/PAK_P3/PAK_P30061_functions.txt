@@ -1,0 +1,14 @@
+=== A0A0F9U1N3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKN85454.1};
+Bit Score: 151.0
+E-value: 0.0009949
+Alignment Length: 65
+Percentage Identity: 0.323
+
+=== A0A2A6NZA0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PDT79936.1};
+Bit Score: 108.0
+E-value: 0.0207
+Alignment Length: 71
+Percentage Identity: 0.225
+

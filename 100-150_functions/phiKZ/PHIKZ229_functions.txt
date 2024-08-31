@@ -1,0 +1,7 @@
+=== A0A521YU74 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TAK84356.1};
+Bit Score: 94.0
+E-value: 0.03932
+Alignment Length: 128
+Percentage Identity: 0.164
+

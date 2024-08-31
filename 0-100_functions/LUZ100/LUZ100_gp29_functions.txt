@@ -1,0 +1,1203 @@
+=== A0A348HFN3 ===
+DE   SubName: Full=Predicted pyrophosphatase {ECO:0000313|EMBL:BBG30435.1};
+Bit Score: 412.0
+E-value: 4.685e-09
+Alignment Length: 94
+Percentage Identity: 0.457
+
+=== A0A5C7JVX8 ===
+DE   SubName: Full=Nucleotide pyrophosphohydrolase {ECO:0000313|EMBL:TXG84666.1};
+Bit Score: 405.0
+E-value: 4.986e-09
+Alignment Length: 99
+Percentage Identity: 0.525
+
+=== A0A2E4HLC3 ===
+DE   SubName: Full=Nucleotide pyrophosphohydrolase {ECO:0000313|EMBL:MBE18126.1};
+Bit Score: 388.0
+E-value: 1.194e-08
+Alignment Length: 94
+Percentage Identity: 0.553
+
+=== A0A3E0R371 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 380.0
+E-value: 1.967e-08
+Alignment Length: 95
+Percentage Identity: 0.452
+
+=== A0A0F9B1M9 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+DE   Flags: Fragment;
+Bit Score: 380.0
+E-value: 2.525e-08
+Alignment Length: 98
+Percentage Identity: 0.469
+
+=== A0A2D7IF89 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 366.0
+E-value: 3.241e-08
+Alignment Length: 99
+Percentage Identity: 0.454
+
+=== A0A1H3IRT8 ===
+DE   SubName: Full=Restriction alleviation protein, Lar family {ECO:0000313|EMBL:SDY29939.1};
+Bit Score: 366.0
+E-value: 4.16e-08
+Alignment Length: 97
+Percentage Identity: 0.474
+
+=== A0A7K4H8P2 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 359.0
+E-value: 4.427e-08
+Alignment Length: 100
+Percentage Identity: 0.42
+
+=== A0A1Z8M957 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OUT57721.1};
+Bit Score: 366.0
+E-value: 4.712e-08
+Alignment Length: 97
+Percentage Identity: 0.412
+
+=== A0A0E1VBS5 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 361.0
+E-value: 5.016e-08
+Alignment Length: 98
+Percentage Identity: 0.408
+
+=== E4KQJ5 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 354.0
+E-value: 6.438e-08
+Alignment Length: 100
+Percentage Identity: 0.46
+
+=== A0A382LR75 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 361.0
+E-value: 8.262e-08
+Alignment Length: 96
+Percentage Identity: 0.406
+
+=== A0A2E0SAK7 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 361.0
+E-value: 8.262e-08
+Alignment Length: 97
+Percentage Identity: 0.402
+
+=== A0A497NPY4 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 353.0
+E-value: 8.262e-08
+Alignment Length: 94
+Percentage Identity: 0.436
+
+=== A0A5C7JLU5 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 351.0
+E-value: 8.262e-08
+Alignment Length: 96
+Percentage Identity: 0.427
+
+=== A0A132ZI60 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 352.0
+E-value: 1.129e-07
+Alignment Length: 95
+Percentage Identity: 0.463
+
+=== A0A380CG60 ===
+DE   RecName: Full=Phosphoribosyl-ATP pyrophosphohydrolase {ECO:0008006|Google:ProtNLM};
+Bit Score: 263.0
+E-value: 1.449e-07
+Alignment Length: 150
+Percentage Identity: 0.34
+
+=== A0A0A8JLK8 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 329.0
+E-value: 1.641e-07
+Alignment Length: 102
+Percentage Identity: 0.401
+
+=== A0A0F7HKG2 ===
+DE   SubName: Full=MazG nucleotide pyrophosphohydrolase domain-containing protein {ECO:0000313|EMBL:SFK95142.1};
+Bit Score: 345.0
+E-value: 1.747e-07
+Alignment Length: 96
+Percentage Identity: 0.427
+
+=== W9AKE4 ===
+DE   SubName: Full=Nucleoside triphosphate pyrophosphohydrolase {ECO:0000313|EMBL:CDO03121.1};
+Bit Score: 345.0
+E-value: 1.747e-07
+Alignment Length: 98
+Percentage Identity: 0.408
+
+=== A0A380F196 ===
+DE   SubName: Full=MazG nucleotide pyrophosphohydrolase domain protein {ECO:0000313|EMBL:SUM04148.1};
+Bit Score: 342.0
+E-value: 1.979e-07
+Alignment Length: 98
+Percentage Identity: 0.387
+
+=== A0A418HKH1 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+DE   Flags: Fragment;
+Bit Score: 329.0
+E-value: 1.979e-07
+Alignment Length: 87
+Percentage Identity: 0.471
+
+=== A0A3D1H582 ===
+DE   SubName: Full=Nucleotide pyrophosphohydrolase {ECO:0000313|EMBL:HCD67795.1};
+Bit Score: 346.0
+E-value: 2.106e-07
+Alignment Length: 95
+Percentage Identity: 0.431
+
+=== A0A2A4H1A2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PCF77712.1};
+Bit Score: 340.0
+E-value: 2.242e-07
+Alignment Length: 98
+Percentage Identity: 0.418
+
+=== A0A6L6GWE9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MTD30178.1};
+Bit Score: 339.0
+E-value: 2.386e-07
+Alignment Length: 98
+Percentage Identity: 0.397
+
+=== A0A0C2DIZ7 ===
+DE   SubName: Full=ArpR {ECO:0000313|EMBL:KIH69928.1};
+Bit Score: 338.0
+E-value: 2.704e-07
+Alignment Length: 95
+Percentage Identity: 0.431
+
+=== A0A4R7D3R3 ===
+DE   RecName: Full=MazG-like nucleotide pyrophosphohydrolase family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 256.0
+E-value: 2.878e-07
+Alignment Length: 150
+Percentage Identity: 0.313
+
+=== A0A661CY39 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 314.0
+E-value: 3.47e-07
+Alignment Length: 109
+Percentage Identity: 0.412
+
+=== T0TA08 ===
+DE   SubName: Full=Phage DNA-binding protein {ECO:0000313|EMBL:EQC70385.1};
+Bit Score: 308.0
+E-value: 4.454e-07
+Alignment Length: 101
+Percentage Identity: 0.396
+
+=== A0A3G6JJK6 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:AZA18269.1};
+Bit Score: 316.0
+E-value: 4.74e-07
+Alignment Length: 103
+Percentage Identity: 0.407
+
+=== A0A1H8ENC6 ===
+DE   RecName: Full=MazG nucleotide pyrophosphohydrolase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 317.0
+E-value: 5.37e-07
+Alignment Length: 93
+Percentage Identity: 0.397
+
+=== A0A7L5UHI9 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 315.0
+E-value: 6.476e-07
+Alignment Length: 97
+Percentage Identity: 0.402
+
+=== V6DM23 ===
+DE   SubName: Full=Transcriptional regulator, Cro/CI family {ECO:0000313|EMBL:CDK35067.1};
+Bit Score: 317.0
+E-value: 6.893e-07
+Alignment Length: 98
+Percentage Identity: 0.469
+
+=== A0A3R8SAT3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RRR54268.1};
+Bit Score: 303.0
+E-value: 7.336e-07
+Alignment Length: 102
+Percentage Identity: 0.411
+
+=== A0A2D8JND9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAM05692.1};
+Bit Score: 317.0
+E-value: 7.809e-07
+Alignment Length: 96
+Percentage Identity: 0.395
+
+=== D3LVI7 ===
+DE   SubName: Full=MazG nucleotide pyrophosphohydrolase domain protein {ECO:0000313|EMBL:EFD93914.1};
+Bit Score: 313.0
+E-value: 7.809e-07
+Alignment Length: 94
+Percentage Identity: 0.425
+
+=== S5NBD4 ===
+DE   SubName: Full=DNA-binding protein {ECO:0000313|EMBL:AGR64358.1};
+Bit Score: 308.0
+E-value: 8.846e-07
+Alignment Length: 98
+Percentage Identity: 0.346
+
+=== A0A0H4QXB9 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 304.0
+E-value: 8.846e-07
+Alignment Length: 104
+Percentage Identity: 0.403
+
+=== A0A1A9RUZ4 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 311.0
+E-value: 1.002e-06
+Alignment Length: 96
+Percentage Identity: 0.416
+
+=== A0A2D7X0F8 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 304.0
+E-value: 1.067e-06
+Alignment Length: 99
+Percentage Identity: 0.373
+
+=== A0A382V442 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 305.0
+E-value: 1.135e-06
+Alignment Length: 94
+Percentage Identity: 0.404
+
+=== A0A291BVV2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ATF25358.1};
+Bit Score: 307.0
+E-value: 1.209e-06
+Alignment Length: 93
+Percentage Identity: 0.376
+
+=== A0A3B8TNN7 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 303.0
+E-value: 1.209e-06
+Alignment Length: 87
+Percentage Identity: 0.482
+
+=== A0A143HBU8 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 298.0
+E-value: 1.286e-06
+Alignment Length: 95
+Percentage Identity: 0.431
+
+=== C8NHY0 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 305.0
+E-value: 1.551e-06
+Alignment Length: 100
+Percentage Identity: 0.41
+
+=== A0A6F9XJ60 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 300.0
+E-value: 1.551e-06
+Alignment Length: 98
+Percentage Identity: 0.387
+
+=== A0A150NRZ1 ===
+DE   SubName: Full=Phage DNA-binding protein {ECO:0000313|EMBL:KYF34882.1};
+Bit Score: 306.0
+E-value: 1.651e-06
+Alignment Length: 97
+Percentage Identity: 0.381
+
+=== A0A1I5LCV9 ===
+DE   RecName: Full=MazG nucleotide pyrophosphohydrolase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 304.0
+E-value: 1.651e-06
+Alignment Length: 97
+Percentage Identity: 0.381
+
+=== A0A4Z0F668 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 270.0
+E-value: 1.991e-06
+Alignment Length: 123
+Percentage Identity: 0.349
+
+=== A0A1F0BPF8 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 300.0
+E-value: 2.119e-06
+Alignment Length: 96
+Percentage Identity: 0.375
+
+=== C2BG44 ===
+DE   SubName: Full=MazG nucleotide pyrophosphohydrolase domain protein {ECO:0000313|EMBL:EEI86159.1};
+Bit Score: 293.0
+E-value: 2.255e-06
+Alignment Length: 93
+Percentage Identity: 0.387
+
+=== A0A2E9JI07 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 293.0
+E-value: 2.555e-06
+Alignment Length: 98
+Percentage Identity: 0.418
+
+=== A0A381YW97 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SVA81298.1};
+Bit Score: 296.0
+E-value: 2.72e-06
+Alignment Length: 99
+Percentage Identity: 0.383
+
+=== A0A6L5P892 ===
+DE   SubName: Full=DNA-binding protein {ECO:0000313|EMBL:MRH09852.1};
+Bit Score: 280.0
+E-value: 3.491e-06
+Alignment Length: 99
+Percentage Identity: 0.363
+
+=== A0A0R1UW19 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 291.0
+E-value: 4.209e-06
+Alignment Length: 97
+Percentage Identity: 0.371
+
+=== A0A5R9EJX8 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 286.0
+E-value: 4.209e-06
+Alignment Length: 96
+Percentage Identity: 0.437
+
+=== A0A419IKA3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RJR07942.1};
+Bit Score: 284.0
+E-value: 5.402e-06
+Alignment Length: 95
+Percentage Identity: 0.389
+
+=== A0A430AW90 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 284.0
+E-value: 6.933e-06
+Alignment Length: 94
+Percentage Identity: 0.436
+
+=== A0A7W3TZV9 ===
+DE   SubName: Full=DNA-binding protein {ECO:0000313|EMBL:MBB1086353.1};
+Bit Score: 268.0
+E-value: 6.933e-06
+Alignment Length: 98
+Percentage Identity: 0.346
+
+=== A0A0R2B1W2 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 276.0
+E-value: 7.855e-06
+Alignment Length: 96
+Percentage Identity: 0.375
+
+=== A0A7C7C1L6 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 266.0
+E-value: 8.899e-06
+Alignment Length: 89
+Percentage Identity: 0.438
+
+=== A0A328KKC2 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 269.0
+E-value: 1.377e-05
+Alignment Length: 101
+Percentage Identity: 0.376
+
+=== A0A1E8RGI0 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 241.0
+E-value: 1.661e-05
+Alignment Length: 103
+Percentage Identity: 0.339
+
+=== U7UEI1 ===
+DE   SubName: Full=MazG nucleotide pyrophosphohydrolase domain protein {ECO:0000313|EMBL:ERT57760.1};
+Bit Score: 257.0
+E-value: 1.768e-05
+Alignment Length: 116
+Percentage Identity: 0.284
+
+=== C8P821 ===
+DE   RecName: Full=MazG nucleotide pyrophosphohydrolase domain protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 254.0
+E-value: 1.768e-05
+Alignment Length: 99
+Percentage Identity: 0.343
+
+=== A0A2N6SUI2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PMC60709.1};
+Bit Score: 250.0
+E-value: 1.768e-05
+Alignment Length: 110
+Percentage Identity: 0.336
+
+=== A0A7H1DT90 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 258.0
+E-value: 1.881e-05
+Alignment Length: 95
+Percentage Identity: 0.357
+
+=== A0A133PS70 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KXA31655.1};
+Bit Score: 238.0
+E-value: 2.912e-05
+Alignment Length: 104
+Percentage Identity: 0.346
+
+=== A0A418HJ87 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+DE   Flags: Fragment;
+Bit Score: 247.0
+E-value: 3.299e-05
+Alignment Length: 80
+Percentage Identity: 0.45
+
+=== A0A371IJV9 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 227.0
+E-value: 9.528e-05
+Alignment Length: 69
+Percentage Identity: 0.463
+
+=== A0A1F0GI41 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 206.0
+E-value: 0.0001223
+Alignment Length: 97
+Percentage Identity: 0.35
+
+=== A0A242L254 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 227.0
+E-value: 0.0002014
+Alignment Length: 74
+Percentage Identity: 0.364
+
+=== A0A2U8FK28 ===
+DE   RecName: Full=Pyrophosphatase {ECO:0008006|Google:ProtNLM};
+Bit Score: 171.0
+E-value: 0.0009005
+Alignment Length: 164
+Percentage Identity: 0.256
+
+=== A0A3M0P4Z8 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 171.0
+E-value: 0.001086
+Alignment Length: 96
+Percentage Identity: 0.26
+
+=== A0A378N1A8 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 162.0
+E-value: 0.00123
+Alignment Length: 107
+Percentage Identity: 0.271
+
+=== A0A0R2KIM5 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 193.0
+E-value: 0.002157
+Alignment Length: 84
+Percentage Identity: 0.273
+
+=== A0A372NMA5 ===
+DE   SubName: Full=DUF550 domain-containing protein {ECO:0000313|EMBL:RFZ89393.1};
+Bit Score: 167.0
+E-value: 0.003553
+Alignment Length: 95
+Percentage Identity: 0.252
+
+=== X8K9P5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EUC79534.1};
+DE   Flags: Fragment;
+Bit Score: 128.0
+E-value: 0.003782
+Alignment Length: 96
+Percentage Identity: 0.218
+
+=== A0A3M0NTK5 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 156.0
+E-value: 0.00456
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A0M2R7I6 ===
+DE   SubName: Full=Nucleotide pyrophosphohydrolase {ECO:0000313|EMBL:KKJ75478.1};
+Bit Score: 164.0
+E-value: 0.005166
+Alignment Length: 95
+Percentage Identity: 0.21
+
+=== A0A0D8CKV3 ===
+DE   SubName: Full=Nucleotide pyrophosphohydrolase {ECO:0000313|EMBL:KJE36784.1};
+Bit Score: 164.0
+E-value: 0.005499
+Alignment Length: 94
+Percentage Identity: 0.265
+
+=== A0A2E7UUI0 ===
+DE   SubName: Full=Pyrophosphatase {ECO:0000313|EMBL:MBO86674.1};
+Bit Score: 159.0
+E-value: 0.006631
+Alignment Length: 100
+Percentage Identity: 0.22
+
+=== A0A545TRA8 ===
+DE   SubName: Full=DUF550 domain-containing protein {ECO:0000313|EMBL:TQV79752.1};
+Bit Score: 161.0
+E-value: 0.007058
+Alignment Length: 94
+Percentage Identity: 0.191
+
+=== V5RVS9 ===
+DE   SubName: Full=Pyrophosphatase {ECO:0000313|EMBL:AHB42327.1};
+Bit Score: 153.0
+E-value: 0.007058
+Alignment Length: 100
+Percentage Identity: 0.21
+
+=== A0A7X3BPE0 ===
+DE   SubName: Full=DNA-binding protein {ECO:0000313|EMBL:MTS53970.1};
+Bit Score: 146.0
+E-value: 0.007058
+Alignment Length: 163
+Percentage Identity: 0.239
+
+=== A0A6L7N4N4 ===
+DE   SubName: Full=Pyrophosphatase {ECO:0000313|EMBL:MYG66667.1};
+Bit Score: 160.0
+E-value: 0.00851
+Alignment Length: 102
+Percentage Identity: 0.137
+
+=== A0A3R9K549 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 173.0
+E-value: 0.009058
+Alignment Length: 74
+Percentage Identity: 0.243
+
+=== A0A369CHT1 ===
+DE   SubName: Full=MazG-like nucleotide pyrophosphohydrolase family protein {ECO:0000313|EMBL:RCX32838.1};
+Bit Score: 156.0
+E-value: 0.009641
+Alignment Length: 97
+Percentage Identity: 0.154
+
+=== C7RKB9 ===
+DE   SubName: Full=MazG nucleotide pyrophosphohydrolase {ECO:0000313|EMBL:ACV33710.1};
+Bit Score: 155.0
+E-value: 0.01163
+Alignment Length: 90
+Percentage Identity: 0.233
+
+=== A0A522WAZ7 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 162.0
+E-value: 0.01317
+Alignment Length: 82
+Percentage Identity: 0.243
+
+=== A0A1W1E3Y8 ===
+DE   SubName: Full=Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1) {ECO:0000313|EMBL:SFV88665.1};
+Bit Score: 152.0
+E-value: 0.01317
+Alignment Length: 102
+Percentage Identity: 0.147
+
+=== A0A353WGE7 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 151.0
+E-value: 0.01317
+Alignment Length: 82
+Percentage Identity: 0.292
+
+=== A0A3B0YRJ0 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 151.0
+E-value: 0.01317
+Alignment Length: 100
+Percentage Identity: 0.15
+
+=== A0A2H6JDS1 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 150.0
+E-value: 0.01317
+Alignment Length: 99
+Percentage Identity: 0.171
+
+=== A0A7C4GG48 ===
+DE   SubName: Full=Nucleoside triphosphate pyrophosphohydrolase {ECO:0000313|EMBL:HGK28035.1};
+DE            EC=3.6.1.9 {ECO:0000313|EMBL:HGK28035.1};
+Bit Score: 137.0
+E-value: 0.01317
+Alignment Length: 103
+Percentage Identity: 0.242
+
+=== A0A226R8W1 ===
+DE   RecName: Full=DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 161.0
+E-value: 0.01492
+Alignment Length: 80
+Percentage Identity: 0.237
+
+=== H8YZH2 ===
+DE   SubName: Full=Putative pyrophosphatase {ECO:0000313|EMBL:EIC22099.1};
+Bit Score: 150.0
+E-value: 0.01588
+Alignment Length: 102
+Percentage Identity: 0.166
+
+=== A0A831W3P3 ===
+DE   SubName: Full=Pyrophosphatase {ECO:0000313|EMBL:HEB81197.1};
+Bit Score: 146.0
+E-value: 0.01588
+Alignment Length: 97
+Percentage Identity: 0.164
+
+=== A0A7X8ASU6 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 144.0
+E-value: 0.01588
+Alignment Length: 86
+Percentage Identity: 0.255
+
+=== A0A1Y2L1M8 ===
+DE   SubName: Full=Nucleotide pyrophosphohydrolase {ECO:0000313|EMBL:OSQ39371.1};
+Bit Score: 152.0
+E-value: 0.0169
+Alignment Length: 94
+Percentage Identity: 0.212
+
+=== A0A1W1E0H5 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 149.0
+E-value: 0.0169
+Alignment Length: 102
+Percentage Identity: 0.147
+
+=== A0A7R9L7M4 ===
+DE   RecName: Full=2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase {ECO:0000256|ARBA:ARBA00013253};
+DE            EC=2.7.6.3 {ECO:0000256|ARBA:ARBA00013253};
+Bit Score: 148.0
+E-value: 0.0169
+Alignment Length: 86
+Percentage Identity: 0.174
+
+=== A0A1V5YZ21 ===
+DE   SubName: Full=Nucleoside triphosphate pyrophosphohydrolase/pyrophosphatase MazG {ECO:0000313|EMBL:OQB33123.1};
+DE            EC=3.6.1.1 {ECO:0000313|EMBL:OQB33123.1};
+Bit Score: 147.0
+E-value: 0.0169
+Alignment Length: 83
+Percentage Identity: 0.253
+
+=== A0A7C1CLK5 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 149.0
+E-value: 0.01799
+Alignment Length: 83
+Percentage Identity: 0.253
+
+=== A0A7Y0Q497 ===
+DE   SubName: Full=Pyrophosphatase {ECO:0000313|EMBL:NMP25098.1};
+Bit Score: 146.0
+E-value: 0.01915
+Alignment Length: 97
+Percentage Identity: 0.164
+
+=== A0A5S3W4Q5 ===
+DE   RecName: Full=Histidine biosynthesis bifunctional protein HisIE {ECO:0000256|HAMAP-Rule:MF_01019};
+DE   Includes:
+DE     RecName: Full=Phosphoribosyl-AMP cyclohydrolase {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              Short=PRA-CH {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              EC=3.5.4.19 {ECO:0000256|HAMAP-Rule:MF_01019};
+DE   Includes:
+DE     RecName: Full=Phosphoribosyl-ATP pyrophosphatase {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              Short=PRA-PH {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              EC=3.6.1.31 {ECO:0000256|HAMAP-Rule:MF_01019};
+Bit Score: 145.0
+E-value: 0.01915
+Alignment Length: 87
+Percentage Identity: 0.206
+
+=== A0A524GQM1 ===
+DE   RecName: Full=Phosphoribosyl-ATP pyrophosphatase {ECO:0000256|HAMAP-Rule:MF_01020};
+DE            Short=PRA-PH {ECO:0000256|HAMAP-Rule:MF_01020};
+DE            EC=3.6.1.31 {ECO:0000256|HAMAP-Rule:MF_01020};
+Bit Score: 137.0
+E-value: 0.01915
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A2E5JA10 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 146.0
+E-value: 0.0217
+Alignment Length: 86
+Percentage Identity: 0.244
+
+=== A0A2A5D071 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 141.0
+E-value: 0.0217
+Alignment Length: 84
+Percentage Identity: 0.321
+
+=== A0A7Z9ZXY3 ===
+DE   SubName: Full=Nucleoside triphosphate pyrophosphohydrolase {ECO:0000313|EMBL:HIE08700.1};
+DE            EC=3.6.1.9 {ECO:0000313|EMBL:HIE08700.1};
+Bit Score: 139.0
+E-value: 0.0217
+Alignment Length: 76
+Percentage Identity: 0.368
+
+=== A0A1E8GS77 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 138.0
+E-value: 0.0217
+Alignment Length: 94
+Percentage Identity: 0.18
+
+=== A0A0F9QS22 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.0217
+Alignment Length: 98
+Percentage Identity: 0.234
+
+=== A0A6M0L8Z7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NEW64276.1};
+Bit Score: 105.0
+E-value: 0.0217
+Alignment Length: 161
+Percentage Identity: 0.26
+
+=== A0A7C6SGY6 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+DE   Flags: Fragment;
+Bit Score: 146.0
+E-value: 0.02309
+Alignment Length: 87
+Percentage Identity: 0.16
+
+=== A0A5S3SGJ6 ===
+DE   RecName: Full=Histidine biosynthesis bifunctional protein HisIE {ECO:0000256|HAMAP-Rule:MF_01019};
+DE   Includes:
+DE     RecName: Full=Phosphoribosyl-AMP cyclohydrolase {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              Short=PRA-CH {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              EC=3.5.4.19 {ECO:0000256|HAMAP-Rule:MF_01019};
+DE   Includes:
+DE     RecName: Full=Phosphoribosyl-ATP pyrophosphatase {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              Short=PRA-PH {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              EC=3.6.1.31 {ECO:0000256|HAMAP-Rule:MF_01019};
+Bit Score: 141.0
+E-value: 0.02458
+Alignment Length: 87
+Percentage Identity: 0.195
+
+=== A0A534NHD3 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 140.0
+E-value: 0.02458
+Alignment Length: 81
+Percentage Identity: 0.259
+
+=== A0A2V6GC13 ===
+DE   SubName: Full=Nucleoside triphosphate pyrophosphohydrolase {ECO:0000313|EMBL:PYL07379.1};
+DE   Flags: Fragment;
+Bit Score: 136.0
+E-value: 0.02616
+Alignment Length: 81
+Percentage Identity: 0.32
+
+=== A0A7H1AZE2 ===
+DE   RecName: Full=Histidine biosynthesis bifunctional protein HisIE {ECO:0000256|HAMAP-Rule:MF_01019};
+DE   Includes:
+DE     RecName: Full=Phosphoribosyl-AMP cyclohydrolase {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              Short=PRA-CH {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              EC=3.5.4.19 {ECO:0000256|HAMAP-Rule:MF_01019};
+DE   Includes:
+DE     RecName: Full=Phosphoribosyl-ATP pyrophosphatase {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              Short=PRA-PH {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              EC=3.6.1.31 {ECO:0000256|HAMAP-Rule:MF_01019};
+Bit Score: 136.0
+E-value: 0.02616
+Alignment Length: 88
+Percentage Identity: 0.215
+
+=== A0A1H1NI37 ===
+DE   RecName: Full=Histidine biosynthesis bifunctional protein HisIE {ECO:0000256|HAMAP-Rule:MF_01019};
+DE   Includes:
+DE     RecName: Full=Phosphoribosyl-AMP cyclohydrolase {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              Short=PRA-CH {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              EC=3.5.4.19 {ECO:0000256|HAMAP-Rule:MF_01019};
+DE   Includes:
+DE     RecName: Full=Phosphoribosyl-ATP pyrophosphatase {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              Short=PRA-PH {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              EC=3.6.1.31 {ECO:0000256|HAMAP-Rule:MF_01019};
+Bit Score: 134.0
+E-value: 0.02616
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A3M2ERI5 ===
+DE   RecName: Full=Histidine biosynthesis bifunctional protein HisIE {ECO:0000256|HAMAP-Rule:MF_01019};
+DE   Includes:
+DE     RecName: Full=Phosphoribosyl-AMP cyclohydrolase {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              Short=PRA-CH {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              EC=3.5.4.19 {ECO:0000256|HAMAP-Rule:MF_01019};
+DE   Includes:
+DE     RecName: Full=Phosphoribosyl-ATP pyrophosphatase {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              Short=PRA-PH {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              EC=3.6.1.31 {ECO:0000256|HAMAP-Rule:MF_01019};
+Bit Score: 126.0
+E-value: 0.02785
+Alignment Length: 97
+Percentage Identity: 0.195
+
+=== A0A2V7UHV2 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 134.0
+E-value: 0.02964
+Alignment Length: 86
+Percentage Identity: 0.313
+
+=== A0A1J4V5B0 ===
+DE   RecName: Full=Phosphoribosyl-ATP pyrophosphatase {ECO:0000256|HAMAP-Rule:MF_01020};
+DE            Short=PRA-PH {ECO:0000256|HAMAP-Rule:MF_01020};
+DE            EC=3.6.1.31 {ECO:0000256|HAMAP-Rule:MF_01020};
+Bit Score: 127.0
+E-value: 0.02964
+Alignment Length: 100
+Percentage Identity: 0.18
+
+=== A0A0S2K967 ===
+DE   RecName: Full=Histidine biosynthesis bifunctional protein HisIE {ECO:0000256|HAMAP-Rule:MF_01019};
+DE   Includes:
+DE     RecName: Full=Phosphoribosyl-AMP cyclohydrolase {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              Short=PRA-CH {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              EC=3.5.4.19 {ECO:0000256|HAMAP-Rule:MF_01019};
+DE   Includes:
+DE     RecName: Full=Phosphoribosyl-ATP pyrophosphatase {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              Short=PRA-PH {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              EC=3.6.1.31 {ECO:0000256|HAMAP-Rule:MF_01019};
+Bit Score: 117.0
+E-value: 0.03155
+Alignment Length: 92
+Percentage Identity: 0.184
+
+=== A0A2M7R677 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 140.0
+E-value: 0.03358
+Alignment Length: 100
+Percentage Identity: 0.13
+
+=== A0A1F6PVK7 ===
+DE   SubName: Full=Nucleoside triphosphate pyrophosphohydrolase {ECO:0000313|EMBL:OGH99964.1};
+Bit Score: 136.0
+E-value: 0.03358
+Alignment Length: 76
+Percentage Identity: 0.328
+
+=== A0A7C5I2M0 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 133.0
+E-value: 0.03358
+Alignment Length: 81
+Percentage Identity: 0.222
+
+=== A0A2G9MFI9 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 130.0
+E-value: 0.03358
+Alignment Length: 101
+Percentage Identity: 0.178
+
+=== A0A7C3A5B8 ===
+DE   RecName: Full=Phosphoribosyl-ATP pyrophosphatase {ECO:0000256|HAMAP-Rule:MF_01020};
+DE            Short=PRA-PH {ECO:0000256|HAMAP-Rule:MF_01020};
+DE            EC=3.6.1.31 {ECO:0000256|HAMAP-Rule:MF_01020};
+Bit Score: 128.0
+E-value: 0.03358
+Alignment Length: 95
+Percentage Identity: 0.147
+
+=== A0A1G6SVP7 ===
+DE   RecName: Full=Phosphoribosyl-ATP pyrophosphatase {ECO:0000256|HAMAP-Rule:MF_01020};
+DE            Short=PRA-PH {ECO:0000256|HAMAP-Rule:MF_01020};
+DE            EC=3.6.1.31 {ECO:0000256|HAMAP-Rule:MF_01020};
+Bit Score: 112.0
+E-value: 0.03358
+Alignment Length: 98
+Percentage Identity: 0.214
+
+=== A0A2E4X3Q0 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 141.0
+E-value: 0.03574
+Alignment Length: 82
+Percentage Identity: 0.28
+
+=== A0A7X0HD10 ===
+DE   SubName: Full=XTP/dITP diphosphohydrolase {ECO:0000313|EMBL:MBB6435400.1};
+DE            EC=3.6.1.66 {ECO:0000313|EMBL:MBB6435400.1};
+Bit Score: 131.0
+E-value: 0.03574
+Alignment Length: 97
+Percentage Identity: 0.185
+
+=== A0A2R7Q323 ===
+DE   RecName: Full=Histidine biosynthesis bifunctional protein HisIE {ECO:0000256|HAMAP-Rule:MF_01019};
+DE   Includes:
+DE     RecName: Full=Phosphoribosyl-AMP cyclohydrolase {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              Short=PRA-CH {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              EC=3.5.4.19 {ECO:0000256|HAMAP-Rule:MF_01019};
+DE   Includes:
+DE     RecName: Full=Phosphoribosyl-ATP pyrophosphatase {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              Short=PRA-PH {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              EC=3.6.1.31 {ECO:0000256|HAMAP-Rule:MF_01019};
+Bit Score: 115.0
+E-value: 0.03574
+Alignment Length: 90
+Percentage Identity: 0.177
+
+=== A0A2U2AG52 ===
+DE   SubName: Full=Nucleoside triphosphate pyrophosphohydrolase {ECO:0000313|EMBL:PWD81632.1};
+Bit Score: 136.0
+E-value: 0.03804
+Alignment Length: 81
+Percentage Identity: 0.271
+
+=== A0A1Q3PC26 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 133.0
+E-value: 0.03804
+Alignment Length: 86
+Percentage Identity: 0.22
+
+=== A0A2E0NRN6 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 131.0
+E-value: 0.03804
+Alignment Length: 76
+Percentage Identity: 0.25
+
+=== A0A2P8WDG2 ===
+DE   SubName: Full=Nucleoside triphosphate pyrophosphohydrolase {ECO:0000313|EMBL:PSN17789.1};
+DE   Flags: Fragment;
+Bit Score: 128.0
+E-value: 0.03804
+Alignment Length: 76
+Percentage Identity: 0.289
+
+=== A0A7Y2I8C1 ===
+DE   RecName: Full=Phosphoribosyl-ATP pyrophosphatase {ECO:0000256|HAMAP-Rule:MF_01020};
+DE            Short=PRA-PH {ECO:0000256|HAMAP-Rule:MF_01020};
+DE            EC=3.6.1.31 {ECO:0000256|HAMAP-Rule:MF_01020};
+Bit Score: 125.0
+E-value: 0.03804
+Alignment Length: 91
+Percentage Identity: 0.197
+
+=== A0A519XSV3 ===
+DE   RecName: Full=Histidine biosynthesis bifunctional protein HisIE {ECO:0000256|ARBA:ARBA00017720};
+DE            EC=3.5.4.19 {ECO:0000256|ARBA:ARBA00012721};
+DE            EC=3.6.1.31 {ECO:0000256|ARBA:ARBA00012414};
+DE   Flags: Fragment;
+Bit Score: 110.0
+E-value: 0.03804
+Alignment Length: 103
+Percentage Identity: 0.155
+
+=== A0A3M3WML4 ===
+DE   SubName: Full=Nucleoside triphosphate pyrophosphohydrolase {ECO:0000313|EMBL:RMO58952.1};
+Bit Score: 137.0
+E-value: 0.04049
+Alignment Length: 83
+Percentage Identity: 0.265
+
+=== A0A1F6R9J5 ===
+DE   SubName: Full=Nucleoside triphosphate pyrophosphohydrolase {ECO:0000313|EMBL:OGI17278.1};
+Bit Score: 136.0
+E-value: 0.04049
+Alignment Length: 81
+Percentage Identity: 0.296
+
+=== A0A2A4WMN0 ===
+DE   SubName: Full=Nucleoside triphosphate pyrophosphohydrolase {ECO:0000313|EMBL:PCI71085.1};
+Bit Score: 136.0
+E-value: 0.04049
+Alignment Length: 81
+Percentage Identity: 0.271
+
+=== A0A644ZJH2 ===
+DE   SubName: Full=Nucleoside triphosphate pyrophosphohydrolase {ECO:0000313|EMBL:MPM40478.1};
+DE            EC=3.6.1.8 {ECO:0000313|EMBL:MPM40478.1};
+Bit Score: 135.0
+E-value: 0.04049
+Alignment Length: 81
+Percentage Identity: 0.283
+
+=== A0A7C1GX46 ===
+DE   SubName: Full=MazG family protein {ECO:0000313|EMBL:HDP97796.1};
+Bit Score: 134.0
+E-value: 0.04049
+Alignment Length: 72
+Percentage Identity: 0.319
+
+=== A0A285Z1T4 ===
+DE   SubName: Full=Tetrapyrrole methylase family protein / MazG family protein/ATP diphosphatase {ECO:0000313|EMBL:SOD03604.1};
+Bit Score: 134.0
+E-value: 0.04049
+Alignment Length: 81
+Percentage Identity: 0.271
+
+=== M4VJ14 ===
+DE   SubName: Full=Nucleoside triphosphate pyrophosphohydrolase MazG {ECO:0000313|EMBL:AGH98021.1};
+Bit Score: 131.0
+E-value: 0.04049
+Alignment Length: 81
+Percentage Identity: 0.283
+
+=== A0A840NY28 ===
+DE   SubName: Full=Uncharacterized protein YabN with tetrapyrrole methylase and pyrophosphatase domain {ECO:0000313|EMBL:MBB5072997.1};
+Bit Score: 130.0
+E-value: 0.04049
+Alignment Length: 80
+Percentage Identity: 0.262
+
+=== A0A7C3WVV6 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 122.0
+E-value: 0.04049
+Alignment Length: 103
+Percentage Identity: 0.223
+
+=== A0A4Q2Y2D5 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 136.0
+E-value: 0.0431
+Alignment Length: 76
+Percentage Identity: 0.236
+
+=== A0A2R6HBN6 ===
+DE   RecName: Full=Phosphoribosyl-ATP pyrophosphatase {ECO:0000256|HAMAP-Rule:MF_01020};
+DE            Short=PRA-PH {ECO:0000256|HAMAP-Rule:MF_01020};
+DE            EC=3.6.1.31 {ECO:0000256|HAMAP-Rule:MF_01020};
+Bit Score: 130.0
+E-value: 0.0431
+Alignment Length: 90
+Percentage Identity: 0.233
+
+=== A0A2N3PVH0 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 123.0
+E-value: 0.0431
+Alignment Length: 102
+Percentage Identity: 0.205
+
+=== A0A1G1NW85 ===
+DE   SubName: Full=Nucleoside triphosphate pyrophosphohydrolase {ECO:0000313|EMBL:OGX33966.1};
+Bit Score: 135.0
+E-value: 0.04587
+Alignment Length: 81
+Percentage Identity: 0.259
+
+=== A0A662U9R4 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 129.0
+E-value: 0.04587
+Alignment Length: 83
+Percentage Identity: 0.204
+
+=== A0A3M1CEJ9 ===
+DE   SubName: Full=Nucleoside triphosphate pyrophosphohydrolase {ECO:0000313|EMBL:RME19095.1};
+DE            EC=3.6.1.9 {ECO:0000313|EMBL:RME19095.1};
+DE   Flags: Fragment;
+Bit Score: 123.0
+E-value: 0.04587
+Alignment Length: 102
+Percentage Identity: 0.176
+
+=== A0A2V5KL04 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+DE   Flags: Fragment;
+Bit Score: 138.0
+E-value: 0.04883
+Alignment Length: 66
+Percentage Identity: 0.272
+
+=== A0A2A5E2U8 ===
+DE   RecName: Full=NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819};
+Bit Score: 130.0
+E-value: 0.04883
+Alignment Length: 83
+Percentage Identity: 0.24
+
+=== A0A7V5URD5 ===
+DE   SubName: Full=Nucleoside triphosphate pyrophosphohydrolase {ECO:0000313|EMBL:HHK75098.1};
+DE            EC=3.6.1.9 {ECO:0000313|EMBL:HHK75098.1};
+Bit Score: 129.0
+E-value: 0.04883
+Alignment Length: 76
+Percentage Identity: 0.263
+
+=== A0A359E5Q5 ===
+DE   SubName: Full=Nucleoside triphosphate pyrophosphohydrolase {ECO:0000313|EMBL:HBX66632.1};
+DE   Flags: Fragment;
+Bit Score: 123.0
+E-value: 0.04883
+Alignment Length: 103
+Percentage Identity: 0.174
+
+=== A0A6M4Y9F2 ===
+DE   RecName: Full=Histidine biosynthesis bifunctional protein HisIE {ECO:0000256|HAMAP-Rule:MF_01019};
+DE   Includes:
+DE     RecName: Full=Phosphoribosyl-AMP cyclohydrolase {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              Short=PRA-CH {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              EC=3.5.4.19 {ECO:0000256|HAMAP-Rule:MF_01019};
+DE   Includes:
+DE     RecName: Full=Phosphoribosyl-ATP pyrophosphatase {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              Short=PRA-PH {ECO:0000256|HAMAP-Rule:MF_01019};
+DE              EC=3.6.1.31 {ECO:0000256|HAMAP-Rule:MF_01019};
+Bit Score: 116.0
+E-value: 0.04883
+Alignment Length: 96
+Percentage Identity: 0.177
+

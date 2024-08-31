@@ -1,0 +1,231 @@
+=== A0A845Q7C1 ===
+DE   RecName: Full=MmcQ/YjbR family DNA-binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 253.0
+E-value: 8.513e-06
+Alignment Length: 60
+Percentage Identity: 0.533
+
+=== A0A6H0ZKB8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QIX20603.1};
+Bit Score: 197.0
+E-value: 0.0002798
+Alignment Length: 67
+Percentage Identity: 0.462
+
+=== A0A1Z9IPM9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OUW20366.1};
+Bit Score: 210.0
+E-value: 0.0003
+Alignment Length: 62
+Percentage Identity: 0.435
+
+=== A0A2E6X3U4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBM08148.1};
+Bit Score: 206.0
+E-value: 0.0003
+Alignment Length: 58
+Percentage Identity: 0.482
+
+=== A0A0F9DIH2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKL61439.1};
+Bit Score: 193.0
+E-value: 0.00037
+Alignment Length: 58
+Percentage Identity: 0.431
+
+=== A0A1M3KT70 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OJX54721.1};
+Bit Score: 199.0
+E-value: 0.0004254
+Alignment Length: 57
+Percentage Identity: 0.456
+
+=== A0A2D7IA83 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAI82587.1};
+Bit Score: 198.0
+E-value: 0.0004254
+Alignment Length: 61
+Percentage Identity: 0.377
+
+=== A0A1B0Z1K8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ANO58077.1};
+Bit Score: 204.0
+E-value: 0.0004892
+Alignment Length: 57
+Percentage Identity: 0.561
+
+=== X5Y1I9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ESX98697.1};
+Bit Score: 200.0
+E-value: 0.0005246
+Alignment Length: 60
+Percentage Identity: 0.416
+
+=== A0A2E8A7R7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBP52675.1};
+Bit Score: 199.0
+E-value: 0.0005246
+Alignment Length: 52
+Percentage Identity: 0.538
+
+=== A0A3D3QIL3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HCO12753.1};
+Bit Score: 198.0
+E-value: 0.0005626
+Alignment Length: 58
+Percentage Identity: 0.396
+
+=== A0A1Z8SPP6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OUU24425.1};
+Bit Score: 193.0
+E-value: 0.0005626
+Alignment Length: 59
+Percentage Identity: 0.338
+
+=== A0A068SNX7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CDN47559.1};
+Bit Score: 188.0
+E-value: 0.0005626
+Alignment Length: 58
+Percentage Identity: 0.379
+
+=== A0A2E0ZP89 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAU02238.1};
+Bit Score: 192.0
+E-value: 0.0007977
+Alignment Length: 55
+Percentage Identity: 0.381
+
+=== A0A2E6RMH1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBL40600.1};
+Bit Score: 197.0
+E-value: 0.0008554
+Alignment Length: 56
+Percentage Identity: 0.357
+
+=== A0A679JNB2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAA2141599.1};
+Bit Score: 195.0
+E-value: 0.0008554
+Alignment Length: 58
+Percentage Identity: 0.362
+
+=== A0A2D6XF86 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAH49597.1};
+Bit Score: 188.0
+E-value: 0.001055
+Alignment Length: 56
+Percentage Identity: 0.392
+
+=== A0A2E8RHI7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBR52143.1};
+Bit Score: 189.0
+E-value: 0.001213
+Alignment Length: 52
+Percentage Identity: 0.442
+
+=== A0A4P6L661 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QBE66845.1};
+Bit Score: 169.0
+E-value: 0.002274
+Alignment Length: 60
+Percentage Identity: 0.35
+
+=== A0A2D6X1U5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAH44899.1};
+Bit Score: 175.0
+E-value: 0.002616
+Alignment Length: 56
+Percentage Identity: 0.392
+
+=== A0A2E0GYE8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAR85049.1};
+Bit Score: 172.0
+E-value: 0.003008
+Alignment Length: 58
+Percentage Identity: 0.327
+
+=== A0A2E7DCL6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBM84720.1};
+Bit Score: 161.0
+E-value: 0.003977
+Alignment Length: 58
+Percentage Identity: 0.396
+
+=== A0A259PMB6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OZB49748.1};
+Bit Score: 166.0
+E-value: 0.004265
+Alignment Length: 58
+Percentage Identity: 0.379
+
+=== G1UXF3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EGW49759.1};
+Bit Score: 171.0
+E-value: 0.004573
+Alignment Length: 59
+Percentage Identity: 0.389
+
+=== A0A7W0YRG6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBA3557842.1};
+Bit Score: 165.0
+E-value: 0.004573
+Alignment Length: 63
+Percentage Identity: 0.317
+
+=== A0A3R8A1Z3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RPG97216.1};
+Bit Score: 166.0
+E-value: 0.004904
+Alignment Length: 52
+Percentage Identity: 0.307
+
+=== A0A2E7WZV5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBP13113.1};
+Bit Score: 153.0
+E-value: 0.006954
+Alignment Length: 56
+Percentage Identity: 0.339
+
+=== A0A2E9IK80 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBT61103.1};
+Bit Score: 153.0
+E-value: 0.009861
+Alignment Length: 55
+Percentage Identity: 0.381
+
+=== A0A1X7KP49 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SMG43338.1};
+Bit Score: 148.0
+E-value: 0.01724
+Alignment Length: 44
+Percentage Identity: 0.477
+
+=== A0A2D8XJT9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAN63671.1};
+Bit Score: 133.0
+E-value: 0.02126
+Alignment Length: 55
+Percentage Identity: 0.309
+
+=== A0A2E2Y016 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAZ94066.1};
+Bit Score: 126.0
+E-value: 0.03233
+Alignment Length: 59
+Percentage Identity: 0.305
+
+=== A0A5E8GWH0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EEE43296.1};
+Bit Score: 123.0
+E-value: 0.03467
+Alignment Length: 60
+Percentage Identity: 0.266
+
+=== A0A7K0A372 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MQB00673.1};
+Bit Score: 129.0
+E-value: 0.04585
+Alignment Length: 49
+Percentage Identity: 0.367
+

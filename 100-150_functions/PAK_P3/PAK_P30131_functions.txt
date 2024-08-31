@@ -1,0 +1,7 @@
+=== A0A380Q9R4 ===
+DE   RecName: Full=Ead/Ea22-like family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 120.0
+E-value: 0.0117
+Alignment Length: 78
+Percentage Identity: 0.333
+

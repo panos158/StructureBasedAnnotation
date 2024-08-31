@@ -1,0 +1,337 @@
+=== A0A7Y6JUR5 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 309.0
+E-value: 7.932e-09
+Alignment Length: 133
+Percentage Identity: 0.368
+
+=== A0A7S8HDR6 ===
+DE   SubName: Full=Exonuclease VII {ECO:0000313|EMBL:QPC44941.1};
+Bit Score: 281.0
+E-value: 7.932e-09
+Alignment Length: 136
+Percentage Identity: 0.345
+
+=== A0A6L4BCM8 ===
+DE   SubName: Full=Exonuclease VII {ECO:0000313|EMBL:KAB2970323.1};
+Bit Score: 277.0
+E-value: 1.566e-08
+Alignment Length: 123
+Percentage Identity: 0.276
+
+=== A0A7M2QN24 ===
+DE   RecName: Full=Endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 257.0
+E-value: 1.921e-08
+Alignment Length: 130
+Percentage Identity: 0.315
+
+=== A0A7K0PLA0 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 255.0
+E-value: 7.487e-08
+Alignment Length: 118
+Percentage Identity: 0.288
+
+=== A0A7Y3EJA9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NNK81912.1};
+Bit Score: 269.0
+E-value: 4.101e-07
+Alignment Length: 123
+Percentage Identity: 0.276
+
+=== A0A6S6ZWB1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAB3697771.1};
+Bit Score: 248.0
+E-value: 5.029e-07
+Alignment Length: 145
+Percentage Identity: 0.268
+
+=== G2ZVZ2 ===
+DE   SubName: Full=DNA endonuclease VII {ECO:0000313|EMBL:CCA83273.1};
+Bit Score: 229.0
+E-value: 2.573e-06
+Alignment Length: 125
+Percentage Identity: 0.296
+
+=== A0A1H8IIZ1 ===
+DE   SubName: Full=Recombination endonuclease VII {ECO:0000313|EMBL:SEN68321.1};
+Bit Score: 210.0
+E-value: 8.755e-06
+Alignment Length: 118
+Percentage Identity: 0.33
+
+=== H5V201 ===
+DE   SubName: Full=Putative recombination endonuclease VII {ECO:0000313|EMBL:GAB52009.1};
+Bit Score: 200.0
+E-value: 1.409e-05
+Alignment Length: 107
+Percentage Identity: 0.28
+
+=== A0A497QQL5 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 202.0
+E-value: 1.509e-05
+Alignment Length: 119
+Percentage Identity: 0.26
+
+=== A0A3S0JD66 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RTK96925.1};
+Bit Score: 186.0
+E-value: 5.494e-05
+Alignment Length: 105
+Percentage Identity: 0.228
+
+=== A0A5E4HLM0 ===
+DE   SubName: Full=Recombination endonuclease VII {ECO:0000313|EMBL:VVB52886.1};
+Bit Score: 141.0
+E-value: 6.738e-05
+Alignment Length: 148
+Percentage Identity: 0.236
+
+=== A0A4R3RET6 ===
+DE   SubName: Full=Recombination endonuclease VII {ECO:0000313|EMBL:TCU34050.1};
+Bit Score: 133.0
+E-value: 0.0001085
+Alignment Length: 140
+Percentage Identity: 0.235
+
+=== A0A3C0YXB5 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 138.0
+E-value: 0.0001524
+Alignment Length: 106
+Percentage Identity: 0.264
+
+=== A0A372LYB2 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 135.0
+E-value: 0.0002142
+Alignment Length: 118
+Percentage Identity: 0.228
+
+=== A0A286C7L5 ===
+DE   SubName: Full=Recombination endonuclease VII {ECO:0000313|EMBL:SOD42351.1};
+Bit Score: 117.0
+E-value: 0.0002292
+Alignment Length: 113
+Percentage Identity: 0.292
+
+=== A0A0F9FL04 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 143.0
+E-value: 0.0004526
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A1H3RRH1 ===
+DE   SubName: Full=Recombination endonuclease VII {ECO:0000313|EMBL:SDZ27955.1};
+Bit Score: 132.0
+E-value: 0.0004526
+Alignment Length: 98
+Percentage Identity: 0.275
+
+=== A0A0F9GZ96 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.0004844
+Alignment Length: 97
+Percentage Identity: 0.288
+
+=== A0A0F9JQJ8 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 138.0
+E-value: 0.0006359
+Alignment Length: 85
+Percentage Identity: 0.27
+
+=== A0A2E0SCK1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAT12348.1};
+Bit Score: 108.0
+E-value: 0.0006359
+Alignment Length: 124
+Percentage Identity: 0.241
+
+=== A0A6V8K309 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 120.0
+E-value: 0.0006807
+Alignment Length: 106
+Percentage Identity: 0.264
+
+=== A0A429FD18 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.0008348
+Alignment Length: 85
+Percentage Identity: 0.27
+
+=== A0A0J8IL44 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 132.0
+E-value: 0.0009565
+Alignment Length: 82
+Percentage Identity: 0.268
+
+=== A0A1L3ZB72 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.001096
+Alignment Length: 95
+Percentage Identity: 0.294
+
+=== A0A0F9LGM2 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 120.0
+E-value: 0.001173
+Alignment Length: 99
+Percentage Identity: 0.242
+
+=== A0A0F9KH54 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 120.0
+E-value: 0.001256
+Alignment Length: 94
+Percentage Identity: 0.234
+
+=== A0A2W6GUK4 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.001256
+Alignment Length: 109
+Percentage Identity: 0.275
+
+=== A0A4R6L4Y3 ===
+DE   SubName: Full=Recombination endonuclease VII {ECO:0000313|EMBL:TDO68843.1};
+Bit Score: 126.0
+E-value: 0.001344
+Alignment Length: 83
+Percentage Identity: 0.265
+
+=== A0A7V9DWR0 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 115.0
+E-value: 0.001344
+Alignment Length: 93
+Percentage Identity: 0.322
+
+=== A0A239BXU3 ===
+DE   SubName: Full=Recombination endonuclease VII {ECO:0000313|EMBL:SNS12472.1};
+Bit Score: 88.0
+E-value: 0.001439
+Alignment Length: 139
+Percentage Identity: 0.201
+
+=== A0A7X9JBL6 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.002164
+Alignment Length: 103
+Percentage Identity: 0.271
+
+=== A0A5C7LPY8 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.002316
+Alignment Length: 95
+Percentage Identity: 0.242
+
+=== A0A2E0FHJ5 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.002479
+Alignment Length: 85
+Percentage Identity: 0.305
+
+=== A0A660UXP5 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 115.0
+E-value: 0.002653
+Alignment Length: 101
+Percentage Identity: 0.227
+
+=== A0A0F9RHY6 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.003483
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A6N7GQX3 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 96.0
+E-value: 0.003991
+Alignment Length: 115
+Percentage Identity: 0.191
+
+=== A0A1G0I2N0 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 110.0
+E-value: 0.004272
+Alignment Length: 97
+Percentage Identity: 0.298
+
+=== A0A1V5B1I8 ===
+DE   SubName: Full=Recombination endonuclease VII {ECO:0000313|EMBL:OPY52209.1};
+Bit Score: 110.0
+E-value: 0.004572
+Alignment Length: 103
+Percentage Identity: 0.291
+
+=== A0A2D9CIR4 ===
+DE   RecName: Full=C2H2-type domain-containing protein {ECO:0000259|PROSITE:PS00028};
+DE   Flags: Fragment;
+Bit Score: 103.0
+E-value: 0.004894
+Alignment Length: 89
+Percentage Identity: 0.224
+
+=== A0A7W5AN61 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 110.0
+E-value: 0.005239
+Alignment Length: 87
+Percentage Identity: 0.229
+
+=== A0A838D3S9 ===
+DE   SubName: Full=Endonuclease VII domain-containing protein {ECO:0000313|EMBL:MBA2262653.1};
+Bit Score: 102.0
+E-value: 0.006877
+Alignment Length: 101
+Percentage Identity: 0.237
+
+=== A0A0F9P7E7 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.009663
+Alignment Length: 86
+Percentage Identity: 0.232
+
+=== A0A257P9X1 ===
+DE   RecName: Full=Endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 103.0
+E-value: 0.01358
+Alignment Length: 78
+Percentage Identity: 0.282
+
+=== A0A5C7M2M6 ===
+DE   RecName: Full=Recombinase {ECO:0008006|Google:ProtNLM};
+Bit Score: 85.0
+E-value: 0.02186
+Alignment Length: 114
+Percentage Identity: 0.228
+
+=== A0A5N5WCV6 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 66.0
+E-value: 0.02186
+Alignment Length: 173
+Percentage Identity: 0.144
+
+=== A0A0F9WCE1 ===
+DE   RecName: Full=Recombination endonuclease VII {ECO:0008006|Google:ProtNLM};
+Bit Score: 95.0
+E-value: 0.04944
+Alignment Length: 82
+Percentage Identity: 0.219
+

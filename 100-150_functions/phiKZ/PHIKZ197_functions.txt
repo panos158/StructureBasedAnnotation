@@ -1,0 +1,442 @@
+=== A0A158EAF1 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 433.0
+E-value: 7.981e-08
+Alignment Length: 108
+Percentage Identity: 0.37
+
+=== A0A375FM76 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:QEZ46624.1};
+Bit Score: 412.0
+E-value: 3.619e-07
+Alignment Length: 107
+Percentage Identity: 0.373
+
+=== A0A3D0YQ74 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:HCC21030.1};
+Bit Score: 386.0
+E-value: 3.806e-07
+Alignment Length: 116
+Percentage Identity: 0.396
+
+=== A0A2E0V8Z3 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 376.0
+E-value: 5.15e-07
+Alignment Length: 116
+Percentage Identity: 0.396
+
+=== A0A368BAJ1 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:RCL33974.1};
+Bit Score: 358.0
+E-value: 5.991e-07
+Alignment Length: 117
+Percentage Identity: 0.367
+
+=== A0A2E7KZQ8 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 364.0
+E-value: 9.429e-07
+Alignment Length: 111
+Percentage Identity: 0.351
+
+=== A0A0R0CI16 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 379.0
+E-value: 9.917e-07
+Alignment Length: 111
+Percentage Identity: 0.396
+
+=== A0A7Y1VZM2 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:NND43910.1};
+Bit Score: 367.0
+E-value: 1.043e-06
+Alignment Length: 106
+Percentage Identity: 0.415
+
+=== A0A4R6FJT6 ===
+DE   SubName: Full=Uncharacterized protein DUF3307 {ECO:0000313|EMBL:TDN81729.1};
+Bit Score: 377.0
+E-value: 1.097e-06
+Alignment Length: 103
+Percentage Identity: 0.427
+
+=== A0A7Y1ULT5 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:NNC90360.1};
+Bit Score: 356.0
+E-value: 1.154e-06
+Alignment Length: 121
+Percentage Identity: 0.388
+
+=== A0A2A4RGN6 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 354.0
+E-value: 1.342e-06
+Alignment Length: 114
+Percentage Identity: 0.394
+
+=== A0A7Y3ME80 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:NNL95681.1};
+Bit Score: 361.0
+E-value: 1.484e-06
+Alignment Length: 106
+Percentage Identity: 0.443
+
+=== A0A520M0S9 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:RZO14853.1};
+Bit Score: 364.0
+E-value: 1.815e-06
+Alignment Length: 108
+Percentage Identity: 0.425
+
+=== A0A351CXD5 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:HAY45204.1};
+Bit Score: 335.0
+E-value: 2.857e-06
+Alignment Length: 111
+Percentage Identity: 0.405
+
+=== A0A7T7JCD3 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:QQL44891.1};
+Bit Score: 346.0
+E-value: 3.005e-06
+Alignment Length: 111
+Percentage Identity: 0.351
+
+=== A0A6G6K3V0 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:QIF02123.1};
+Bit Score: 331.0
+E-value: 3.324e-06
+Alignment Length: 117
+Percentage Identity: 0.367
+
+=== A0A5C7QCY1 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:TXH56889.1};
+Bit Score: 325.0
+E-value: 3.676e-06
+Alignment Length: 118
+Percentage Identity: 0.364
+
+=== A0A0H3K498 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 344.0
+E-value: 4.497e-06
+Alignment Length: 116
+Percentage Identity: 0.413
+
+=== A0A2E2HDS8 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 331.0
+E-value: 4.497e-06
+Alignment Length: 115
+Percentage Identity: 0.347
+
+=== A3YU65 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 335.0
+E-value: 4.73e-06
+Alignment Length: 119
+Percentage Identity: 0.352
+
+=== A0A858RKJ3 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:QJE97255.1};
+Bit Score: 345.0
+E-value: 6.4e-06
+Alignment Length: 107
+Percentage Identity: 0.345
+
+=== Q05VD4 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 329.0
+E-value: 8.659e-06
+Alignment Length: 112
+Percentage Identity: 0.375
+
+=== A0A1G6Z1C2 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 332.0
+E-value: 9.577e-06
+Alignment Length: 106
+Percentage Identity: 0.377
+
+=== A0A2D5ZGQ4 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 331.0
+E-value: 1.007e-05
+Alignment Length: 104
+Percentage Identity: 0.384
+
+=== A0A5C7LZE6 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:TXH15674.1};
+Bit Score: 333.0
+E-value: 1.059e-05
+Alignment Length: 109
+Percentage Identity: 0.366
+
+=== A0A326QBZ0 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:PZV20381.1};
+Bit Score: 324.0
+E-value: 1.172e-05
+Alignment Length: 106
+Percentage Identity: 0.358
+
+=== A0A2D4S9K1 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 318.0
+E-value: 1.172e-05
+Alignment Length: 113
+Percentage Identity: 0.362
+
+=== A0A3E1E691 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 308.0
+E-value: 1.433e-05
+Alignment Length: 127
+Percentage Identity: 0.346
+
+=== A0A0A2B7N0 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 329.0
+E-value: 1.507e-05
+Alignment Length: 106
+Percentage Identity: 0.339
+
+=== A0A7G8ERE2 ===
+DE   SubName: Full=Bacteriophage-like DUF3307 domain-containing protein {ECO:0000313|EMBL:QNI71881.1};
+Bit Score: 326.0
+E-value: 1.507e-05
+Alignment Length: 109
+Percentage Identity: 0.385
+
+=== A0A1Y1SH33 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 307.0
+E-value: 1.507e-05
+Alignment Length: 117
+Percentage Identity: 0.358
+
+=== A0A3D3L5Y6 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:HCN27227.1};
+Bit Score: 311.0
+E-value: 1.753e-05
+Alignment Length: 114
+Percentage Identity: 0.342
+
+=== A0A7T1MFT0 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:QPN62325.1};
+Bit Score: 313.0
+E-value: 2.04e-05
+Alignment Length: 112
+Percentage Identity: 0.339
+
+=== A0A1T4YFZ0 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 309.0
+E-value: 2.145e-05
+Alignment Length: 115
+Percentage Identity: 0.347
+
+=== A0A371XB72 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:RFC66460.1};
+Bit Score: 314.0
+E-value: 2.256e-05
+Alignment Length: 106
+Percentage Identity: 0.367
+
+=== A0A2L2LC55 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 320.0
+E-value: 2.76e-05
+Alignment Length: 108
+Percentage Identity: 0.379
+
+=== A0A2A2Q3S8 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 310.0
+E-value: 2.902e-05
+Alignment Length: 115
+Percentage Identity: 0.339
+
+=== A0A2E1II72 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 302.0
+E-value: 3.55e-05
+Alignment Length: 107
+Percentage Identity: 0.355
+
+=== A0A0F9DSV2 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 285.0
+E-value: 3.734e-05
+Alignment Length: 116
+Percentage Identity: 0.396
+
+=== A0A182APH4 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 307.0
+E-value: 4.13e-05
+Alignment Length: 103
+Percentage Identity: 0.378
+
+=== A0A6L9U9I4 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:NEI70972.1};
+Bit Score: 295.0
+E-value: 4.568e-05
+Alignment Length: 113
+Percentage Identity: 0.389
+
+=== A0A1Y1RJN1 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 289.0
+E-value: 4.568e-05
+Alignment Length: 110
+Percentage Identity: 0.309
+
+=== A0A0J6BKT5 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 286.0
+E-value: 4.804e-05
+Alignment Length: 111
+Percentage Identity: 0.342
+
+=== A0A6N4QYT0 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:TKW60548.1};
+Bit Score: 294.0
+E-value: 5.052e-05
+Alignment Length: 111
+Percentage Identity: 0.378
+
+=== A0A836V241 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:HHZ69300.1};
+Bit Score: 299.0
+E-value: 6.5e-05
+Alignment Length: 105
+Percentage Identity: 0.361
+
+=== A0A0Q6WDY7 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 292.0
+E-value: 6.5e-05
+Alignment Length: 108
+Percentage Identity: 0.351
+
+=== A0A4P7ZV46 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:QCH14770.1};
+Bit Score: 297.0
+E-value: 6.836e-05
+Alignment Length: 104
+Percentage Identity: 0.365
+
+=== A0A2Z3H7W1 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:AWM40492.1};
+Bit Score: 280.0
+E-value: 7.561e-05
+Alignment Length: 118
+Percentage Identity: 0.313
+
+=== A0A0F9L128 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 271.0
+E-value: 7.561e-05
+Alignment Length: 115
+Percentage Identity: 0.321
+
+=== A0A251Z8K2 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 283.0
+E-value: 7.952e-05
+Alignment Length: 109
+Percentage Identity: 0.366
+
+=== A0A0Q6LA41 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 284.0
+E-value: 8.363e-05
+Alignment Length: 107
+Percentage Identity: 0.355
+
+=== A0A2W7A7Q5 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:PZV02914.1};
+Bit Score: 284.0
+E-value: 9.728e-05
+Alignment Length: 98
+Percentage Identity: 0.387
+
+=== A0A0F9W031 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 274.0
+E-value: 0.0001023
+Alignment Length: 109
+Percentage Identity: 0.357
+
+=== A0A7G8FY67 ===
+DE   SubName: Full=Bacteriophage-like DUF3307 domain-containing protein {ECO:0000313|EMBL:QNI86512.1};
+Bit Score: 278.0
+E-value: 0.0001076
+Alignment Length: 109
+Percentage Identity: 0.394
+
+=== A0A2T6LVT5 ===
+DE   SubName: Full=Uncharacterized protein DUF3307 {ECO:0000313|EMBL:PUB39153.1};
+Bit Score: 285.0
+E-value: 0.0001316
+Alignment Length: 108
+Percentage Identity: 0.342
+
+=== A0A147HTV9 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 272.0
+E-value: 0.0001316
+Alignment Length: 108
+Percentage Identity: 0.314
+
+=== A0A5R9P1Z6 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:TLX16510.1};
+Bit Score: 267.0
+E-value: 0.0001781
+Alignment Length: 118
+Percentage Identity: 0.313
+
+=== A0A1Z8YD83 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 263.0
+E-value: 0.0001781
+Alignment Length: 96
+Percentage Identity: 0.427
+
+=== A0A354T5Y8 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:HBJ82960.1};
+Bit Score: 260.0
+E-value: 0.0002072
+Alignment Length: 116
+Percentage Identity: 0.327
+
+=== A0A561R1F4 ===
+DE   SubName: Full=Uncharacterized protein DUF3307 {ECO:0000313|EMBL:TWF56446.1};
+Bit Score: 238.0
+E-value: 0.0005132
+Alignment Length: 114
+Percentage Identity: 0.289
+
+=== A0A7T1ID25 ===
+DE   SubName: Full=DUF3307 domain-containing protein {ECO:0000313|EMBL:QPN71751.1};
+Bit Score: 240.0
+E-value: 0.0009395
+Alignment Length: 102
+Percentage Identity: 0.343
+
+=== A0A5C7LHD0 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 199.0
+E-value: 0.001809
+Alignment Length: 109
+Percentage Identity: 0.33
+
+=== A0A512M357 ===
+DE   RecName: Full=DUF3307 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 198.0
+E-value: 0.004261
+Alignment Length: 100
+Percentage Identity: 0.39
+

@@ -1,0 +1,63 @@
+=== A0A379PMN8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SUE72352.1};
+Bit Score: 312.0
+E-value: 1.972e-08
+Alignment Length: 106
+Percentage Identity: 0.386
+
+=== A0A1H5A4E1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SED36798.1};
+Bit Score: 255.0
+E-value: 2.252e-06
+Alignment Length: 94
+Percentage Identity: 0.319
+
+=== V5YNN6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:BAO19205.1};
+Bit Score: 220.0
+E-value: 3.733e-06
+Alignment Length: 110
+Percentage Identity: 0.29
+
+=== A0A6I1MVS4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MPQ56261.1};
+Bit Score: 239.0
+E-value: 7.021e-06
+Alignment Length: 88
+Percentage Identity: 0.363
+
+=== A0A845GHB6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MYM92686.1};
+Bit Score: 243.0
+E-value: 8.486e-06
+Alignment Length: 90
+Percentage Identity: 0.322
+
+=== A0A1I2HR88 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SFF32399.1};
+Bit Score: 230.0
+E-value: 1.093e-05
+Alignment Length: 88
+Percentage Identity: 0.363
+
+=== A0A100WAD9 ===
+DE   SubName: Full=DEAD/DEAH box helicase {ECO:0000313|EMBL:GAS94867.1};
+Bit Score: 204.0
+E-value: 1.929e-05
+Alignment Length: 89
+Percentage Identity: 0.325
+
+=== A0A2G6WTL9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PIF73745.1};
+Bit Score: 182.0
+E-value: 0.0001284
+Alignment Length: 94
+Percentage Identity: 0.212
+
+=== A0A1S1LRX0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OHU57036.1};
+Bit Score: 157.0
+E-value: 0.0003527
+Alignment Length: 99
+Percentage Identity: 0.202
+

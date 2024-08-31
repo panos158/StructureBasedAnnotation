@@ -1,0 +1,149 @@
+=== A0A1X3HZ61 ===
+DE   RecName: Full=Ead/Ea22-like family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 298.0
+E-value: 7.234e-08
+Alignment Length: 118
+Percentage Identity: 0.381
+
+=== A0A1X3JH13 ===
+DE   RecName: Full=Ead/Ea22-like family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 234.0
+E-value: 7.234e-08
+Alignment Length: 118
+Percentage Identity: 0.381
+
+=== A0A797M576 ===
+DE   RecName: Full=Ead/Ea22-like family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 303.0
+E-value: 8.22e-08
+Alignment Length: 118
+Percentage Identity: 0.381
+
+=== A0A3U0PK50 ===
+DE   RecName: Full=Ead/Ea22-like family protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 296.0
+E-value: 9.341e-08
+Alignment Length: 118
+Percentage Identity: 0.381
+
+=== A0A5B9ALB2 ===
+DE   RecName: Full=Ead/Ea22-like family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 230.0
+E-value: 9.341e-08
+Alignment Length: 118
+Percentage Identity: 0.389
+
+=== A0A5U5THL3 ===
+DE   SubName: Full=Ead/Ea22-like family protein {ECO:0000313|EMBL:EBQ6285663.1};
+Bit Score: 300.0
+E-value: 9.958e-08
+Alignment Length: 118
+Percentage Identity: 0.372
+
+=== A0A5Z9VLM3 ===
+DE   RecName: Full=Ead/Ea22-like family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 229.0
+E-value: 1.061e-07
+Alignment Length: 118
+Percentage Identity: 0.381
+
+=== A0A376HQX0 ===
+DE   RecName: Full=Ead/Ea22-like family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 285.0
+E-value: 1.461e-07
+Alignment Length: 118
+Percentage Identity: 0.389
+
+=== W1F2K6 ===
+DE   SubName: Full=Phage eae protein {ECO:0000313|EMBL:CDL28040.1};
+Bit Score: 285.0
+E-value: 1.461e-07
+Alignment Length: 118
+Percentage Identity: 0.381
+
+=== A0A828U842 ===
+DE   RecName: Full=Ead/Ea22-like family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 287.0
+E-value: 1.558e-07
+Alignment Length: 118
+Percentage Identity: 0.389
+
+=== A0A6G4LZ25 ===
+DE   SubName: Full=Ead/Ea22-like family protein {ECO:0000313|EMBL:QLY99905.1};
+Bit Score: 283.0
+E-value: 1.77e-07
+Alignment Length: 118
+Percentage Identity: 0.381
+
+=== A0A418GE93 ===
+DE   SubName: Full=DUF551 domain-containing protein {ECO:0000313|EMBL:RIB39179.1};
+Bit Score: 289.0
+E-value: 2.286e-07
+Alignment Length: 118
+Percentage Identity: 0.372
+
+=== J5UPA5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EJU24064.1};
+Bit Score: 211.0
+E-value: 5.247e-07
+Alignment Length: 119
+Percentage Identity: 0.336
+
+=== A0A376WPZ6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:STJ52092.1};
+Bit Score: 223.0
+E-value: 5.963e-07
+Alignment Length: 110
+Percentage Identity: 0.336
+
+=== A4IU44 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ABO41007.1};
+Bit Score: 175.0
+E-value: 9.328e-07
+Alignment Length: 121
+Percentage Identity: 0.347
+
+=== A0A0H3H622 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AEW92223.1};
+Bit Score: 180.0
+E-value: 1.06e-06
+Alignment Length: 120
+Percentage Identity: 0.333
+
+=== A9BYN5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ABX34578.1};
+Bit Score: 171.0
+E-value: 2.009e-06
+Alignment Length: 98
+Percentage Identity: 0.408
+
+=== T1A0K1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EQD50448.1};
+Bit Score: 170.0
+E-value: 2.765e-06
+Alignment Length: 118
+Percentage Identity: 0.271
+
+=== A0A1Q5TGQ8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OKO99426.1};
+Bit Score: 174.0
+E-value: 5.586e-06
+Alignment Length: 111
+Percentage Identity: 0.297
+
+=== A0A2V4G6H0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PXZ99977.1};
+DE   Flags: Fragment;
+Bit Score: 156.0
+E-value: 6.767e-06
+Alignment Length: 104
+Percentage Identity: 0.336
+
+=== A0A1X3IXZ8 ===
+DE   RecName: Full=DUF551 domain-containing protein {ECO:0000259|Pfam:PF04448};
+Bit Score: 135.0
+E-value: 1.765e-05
+Alignment Length: 118
+Percentage Identity: 0.389
+

@@ -1,0 +1,140 @@
+=== A0A378XTT3 ===
+DE   RecName: Full=Head fiber protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 206.0
+E-value: 4.296e-06
+Alignment Length: 110
+Percentage Identity: 0.427
+
+=== A0A1S8YCG8 ===
+DE   RecName: Full=DUF1737 domain-containing protein {ECO:0000259|Pfam:PF08410};
+Bit Score: 155.0
+E-value: 8.51e-05
+Alignment Length: 99
+Percentage Identity: 0.484
+
+=== A0A4Y4C7M9 ===
+DE   RecName: Full=SHOCT domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 130.0
+E-value: 0.0001511
+Alignment Length: 147
+Percentage Identity: 0.333
+
+=== A0A5K7X3E3 ===
+DE   RecName: Full=Head fiber protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 151.0
+E-value: 0.0002014
+Alignment Length: 130
+Percentage Identity: 0.353
+
+=== M8EGY2 ===
+DE   RecName: Full=Head fiber protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 127.0
+E-value: 0.001128
+Alignment Length: 144
+Percentage Identity: 0.354
+
+=== H3RG53 ===
+DE   RecName: Full=Variable large protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 127.0
+E-value: 0.00134
+Alignment Length: 89
+Percentage Identity: 0.483
+
+=== A0A3N1HU76 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ROP45956.1};
+Bit Score: 106.0
+E-value: 0.00134
+Alignment Length: 139
+Percentage Identity: 0.251
+
+=== A0A367YQU0 ===
+DE   RecName: Full=Minor tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 113.0
+E-value: 0.002669
+Alignment Length: 165
+Percentage Identity: 0.224
+
+=== A0A6C1U421 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 102.0
+E-value: 0.002994
+Alignment Length: 128
+Percentage Identity: 0.32
+
+=== A0A7I9Y404 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GFG83399.1};
+Bit Score: 91.0
+E-value: 0.003767
+Alignment Length: 144
+Percentage Identity: 0.326
+
+=== K7RN22 ===
+DE   RecName: Full=Minor tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 153.0
+E-value: 0.004225
+Alignment Length: 66
+Percentage Identity: 0.56
+
+=== A9U7M1 ===
+DE   SubName: Full=Predicted protein {ECO:0000313|EMBL:EDQ48332.1};
+Bit Score: 113.0
+E-value: 0.004475
+Alignment Length: 108
+Percentage Identity: 0.379
+
+=== A0A5C7PYG4 ===
+DE   SubName: Full=SGNH/GDSL hydrolase family protein {ECO:0000313|EMBL:TXH51652.1};
+Bit Score: 110.0
+E-value: 0.005963
+Alignment Length: 102
+Percentage Identity: 0.333
+
+=== A0A7K3T8Z0 ===
+DE   RecName: Full=Head fiber protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 93.0
+E-value: 0.007085
+Alignment Length: 128
+Percentage Identity: 0.32
+
+=== A0A415C7Y7 ===
+DE   RecName: Full=Head fiber protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.009441
+Alignment Length: 104
+Percentage Identity: 0.307
+
+=== A0A7W7MMF3 ===
+DE   RecName: Full=Tail fiber protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 150.0
+E-value: 0.009999
+Alignment Length: 65
+Percentage Identity: 0.461
+
+=== A0A7V8FBR8 ===
+DE   RecName: Full=Head fiber protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 111.0
+E-value: 0.01332
+Alignment Length: 143
+Percentage Identity: 0.23
+
+=== A0A1H0E995 ===
+DE   RecName: Full=Phage tail fibre repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.01583
+Alignment Length: 89
+Percentage Identity: 0.426
+
+=== A0A6L9TBI9 ===
+DE   RecName: Full=Head fiber protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 86.0
+E-value: 0.0334
+Alignment Length: 100
+Percentage Identity: 0.36
+
+=== A0A1X7M1W2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SMG60168.1};
+Bit Score: 80.0
+E-value: 0.03746
+Alignment Length: 117
+Percentage Identity: 0.29
+

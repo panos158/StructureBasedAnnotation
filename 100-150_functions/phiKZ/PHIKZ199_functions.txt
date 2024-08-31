@@ -1,0 +1,1242 @@
+=== A0A7Y8U4E4 ===
+DE   SubName: Full=3'-5' exoribonuclease {ECO:0000313|EMBL:NWK76243.1};
+Bit Score: 496.0
+E-value: 3.472e-14
+Alignment Length: 148
+Percentage Identity: 0.351
+
+=== A0A0Q4R727 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KQO08970.1};
+Bit Score: 446.0
+E-value: 7.766e-13
+Alignment Length: 145
+Percentage Identity: 0.275
+
+=== A0A418NNP9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RIV83653.1};
+Bit Score: 441.0
+E-value: 1.802e-12
+Alignment Length: 149
+Percentage Identity: 0.302
+
+=== A0A5D9C362 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TZG26184.1};
+Bit Score: 427.0
+E-value: 3.227e-12
+Alignment Length: 148
+Percentage Identity: 0.297
+
+=== A0A1S6FMF8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AQR74683.1};
+Bit Score: 443.0
+E-value: 3.443e-12
+Alignment Length: 145
+Percentage Identity: 0.303
+
+=== V5SEL7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AHB48973.1};
+Bit Score: 429.0
+E-value: 3.443e-12
+Alignment Length: 145
+Percentage Identity: 0.317
+
+=== A0A6J4SWN6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAA9507649.1};
+Bit Score: 412.0
+E-value: 1.104e-11
+Alignment Length: 153
+Percentage Identity: 0.3
+
+=== A0A6S7EB39 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAB3904204.1};
+Bit Score: 399.0
+E-value: 1.526e-11
+Alignment Length: 149
+Percentage Identity: 0.268
+
+=== A0A3A8KN73 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RKH09006.1};
+Bit Score: 415.0
+E-value: 1.977e-11
+Alignment Length: 145
+Percentage Identity: 0.296
+
+=== T0HI45 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EQB16006.1};
+Bit Score: 410.0
+E-value: 2.251e-11
+Alignment Length: 150
+Percentage Identity: 0.3
+
+=== A0A2E4QVW2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBF19500.1};
+Bit Score: 377.0
+E-value: 2.733e-11
+Alignment Length: 162
+Percentage Identity: 0.265
+
+=== A0A846M1X4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NIJ15613.1};
+Bit Score: 377.0
+E-value: 4.3e-11
+Alignment Length: 149
+Percentage Identity: 0.328
+
+=== A0A7W6LSM1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB4148928.1};
+Bit Score: 393.0
+E-value: 4.895e-11
+Alignment Length: 147
+Percentage Identity: 0.299
+
+=== A0A059FZH1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KCZ95877.1};
+Bit Score: 369.0
+E-value: 8.216e-11
+Alignment Length: 155
+Percentage Identity: 0.29
+
+=== F8J5S6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CCB63362.1};
+Bit Score: 375.0
+E-value: 1.471e-10
+Alignment Length: 144
+Percentage Identity: 0.354
+
+=== A0A1H0ZCL8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SDQ25168.1};
+Bit Score: 353.0
+E-value: 5.73e-10
+Alignment Length: 156
+Percentage Identity: 0.243
+
+=== A0A494TBG0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AYJ84564.1};
+Bit Score: 358.0
+E-value: 6.523e-10
+Alignment Length: 112
+Percentage Identity: 0.285
+
+=== C6XIN9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ACT58984.1};
+Bit Score: 346.0
+E-value: 7.424e-10
+Alignment Length: 159
+Percentage Identity: 0.232
+
+=== A0A5H2YBX6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:BBN89448.1};
+Bit Score: 334.0
+E-value: 9.619e-10
+Alignment Length: 156
+Percentage Identity: 0.282
+
+=== A0A4T0UJ46 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TIC78552.1};
+Bit Score: 311.0
+E-value: 1.419e-09
+Alignment Length: 162
+Percentage Identity: 0.253
+
+=== A0A2U9T6W9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AWV06248.1};
+Bit Score: 325.0
+E-value: 1.838e-09
+Alignment Length: 163
+Percentage Identity: 0.22
+
+=== A0A3A6NSQ5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RJX30892.1};
+Bit Score: 315.0
+E-value: 2.092e-09
+Alignment Length: 164
+Percentage Identity: 0.243
+
+=== A0A380Q3D6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SUP80079.1};
+Bit Score: 311.0
+E-value: 2.092e-09
+Alignment Length: 158
+Percentage Identity: 0.253
+
+=== A0A6V7FGN6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAD0362822.1};
+Bit Score: 323.0
+E-value: 2.381e-09
+Alignment Length: 166
+Percentage Identity: 0.222
+
+=== A0A154R422 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KZC32955.1};
+Bit Score: 327.0
+E-value: 2.71e-09
+Alignment Length: 158
+Percentage Identity: 0.24
+
+=== A0A1M7TL42 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SHN71452.1};
+Bit Score: 291.0
+E-value: 2.71e-09
+Alignment Length: 146
+Percentage Identity: 0.273
+
+=== A0A2S7ADQ8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PPU07880.1};
+Bit Score: 313.0
+E-value: 5.894e-09
+Alignment Length: 166
+Percentage Identity: 0.234
+
+=== A0A7W1YEI4 ===
+DE   SubName: Full=3'-5' exoribonuclease {ECO:0000313|EMBL:MBA3916801.1};
+Bit Score: 302.0
+E-value: 7.636e-09
+Alignment Length: 155
+Percentage Identity: 0.219
+
+=== A0A7G6UKR8 ===
+DE   SubName: Full=3'-5' exoribonuclease {ECO:0000313|EMBL:QND79615.1};
+Bit Score: 321.0
+E-value: 8.692e-09
+Alignment Length: 159
+Percentage Identity: 0.22
+
+=== A0A2G6DS89 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|Pfam:PF00929};
+Bit Score: 262.0
+E-value: 1.126e-08
+Alignment Length: 171
+Percentage Identity: 0.298
+
+=== A0A0G9H3E0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KLD64098.1};
+Bit Score: 305.0
+E-value: 1.282e-08
+Alignment Length: 161
+Percentage Identity: 0.248
+
+=== A0A1F6M119 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OGH65264.1};
+Bit Score: 270.0
+E-value: 1.368e-08
+Alignment Length: 171
+Percentage Identity: 0.257
+
+=== A0A3N4VH29 ===
+DE   SubName: Full=Uncharacterized protein DUF5051 {ECO:0000313|EMBL:RPE82068.1};
+Bit Score: 305.0
+E-value: 2.017e-08
+Alignment Length: 164
+Percentage Identity: 0.243
+
+=== A0A4R2RNX7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TCP65760.1};
+Bit Score: 300.0
+E-value: 2.449e-08
+Alignment Length: 129
+Percentage Identity: 0.248
+
+=== A0A1L1PN95 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CDN87506.1};
+Bit Score: 275.0
+E-value: 2.449e-08
+Alignment Length: 167
+Percentage Identity: 0.245
+
+=== A0A2N1Y539 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PKM16334.1};
+Bit Score: 284.0
+E-value: 2.974e-08
+Alignment Length: 163
+Percentage Identity: 0.214
+
+=== A0A0G4B5T7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AKM82758.1};
+Bit Score: 256.0
+E-value: 4.111e-08
+Alignment Length: 162
+Percentage Identity: 0.283
+
+=== A0A2N2R9Z2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PKO39735.1};
+Bit Score: 282.0
+E-value: 4.386e-08
+Alignment Length: 162
+Percentage Identity: 0.253
+
+=== A0A2H0UWE7 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|Pfam:PF00929};
+Bit Score: 252.0
+E-value: 5.682e-08
+Alignment Length: 167
+Percentage Identity: 0.257
+
+=== A0A840RBG0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB5190685.1};
+Bit Score: 262.0
+E-value: 6.062e-08
+Alignment Length: 157
+Percentage Identity: 0.242
+
+=== A0A842V7S2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBD3318915.1};
+Bit Score: 241.0
+E-value: 6.062e-08
+Alignment Length: 162
+Percentage Identity: 0.246
+
+=== A0A524LIC5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TFG98661.1};
+Bit Score: 247.0
+E-value: 1.236e-07
+Alignment Length: 176
+Percentage Identity: 0.227
+
+=== A0A1P8K5W8 ===
+DE   RecName: Full=3'-5' exoribonuclease Rv2179c-like domain-containing protein {ECO:0000259|Pfam:PF16473};
+Bit Score: 247.0
+E-value: 1.236e-07
+Alignment Length: 162
+Percentage Identity: 0.216
+
+=== A0A0G0K389 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|Pfam:PF00929};
+Bit Score: 232.0
+E-value: 1.501e-07
+Alignment Length: 174
+Percentage Identity: 0.264
+
+=== A0A7G9QQ48 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QNN45473.1};
+Bit Score: 237.0
+E-value: 1.601e-07
+Alignment Length: 133
+Percentage Identity: 0.233
+
+=== A0A1G2V8T9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OHB18005.1};
+Bit Score: 256.0
+E-value: 1.708e-07
+Alignment Length: 174
+Percentage Identity: 0.258
+
+=== A0A7Z0QNT2 ===
+DE   SubName: Full=3'-5' exoribonuclease {ECO:0000313|EMBL:NYZ62007.1};
+Bit Score: 272.0
+E-value: 1.944e-07
+Alignment Length: 158
+Percentage Identity: 0.221
+
+=== A0A5C7UX30 ===
+DE   SubName: Full=AbrB/MazE/SpoVT family DNA-binding domain-containing protein {ECO:0000313|EMBL:TXI16802.1};
+Bit Score: 246.0
+E-value: 3.059e-07
+Alignment Length: 169
+Percentage Identity: 0.195
+
+=== A0A840G236 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB4246016.1};
+Bit Score: 248.0
+E-value: 4.511e-07
+Alignment Length: 164
+Percentage Identity: 0.219
+
+=== A0A366ELD9 ===
+DE   SubName: Full=Uncharacterized protein DUF5051 {ECO:0000313|EMBL:RBP02540.1};
+Bit Score: 211.0
+E-value: 5.478e-07
+Alignment Length: 166
+Percentage Identity: 0.24
+
+=== A0A354EK39 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HBI16877.1};
+Bit Score: 233.0
+E-value: 6.236e-07
+Alignment Length: 167
+Percentage Identity: 0.227
+
+=== A0A1S9ALJ4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OON64316.1};
+Bit Score: 230.0
+E-value: 6.236e-07
+Alignment Length: 149
+Percentage Identity: 0.255
+
+=== A0A1F4PPJ5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OGB85574.1};
+Bit Score: 220.0
+E-value: 1.647e-06
+Alignment Length: 160
+Percentage Identity: 0.262
+
+=== A0A7X3I2Y5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MWV14165.1};
+Bit Score: 231.0
+E-value: 1.874e-06
+Alignment Length: 149
+Percentage Identity: 0.194
+
+=== A0A1F7VDR2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OGL88700.1};
+Bit Score: 212.0
+E-value: 3.357e-06
+Alignment Length: 169
+Percentage Identity: 0.213
+
+=== A0A7W6NX08 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB4099694.1};
+Bit Score: 229.0
+E-value: 4.077e-06
+Alignment Length: 123
+Percentage Identity: 0.268
+
+=== A0A1H7F4E5 ===
+DE   RecName: Full=3'-5' exoribonuclease Rv2179c-like domain-containing protein {ECO:0000259|Pfam:PF16473};
+Bit Score: 204.0
+E-value: 1.225e-05
+Alignment Length: 149
+Percentage Identity: 0.228
+
+=== A0A1I4TWE6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SFM80873.1};
+Bit Score: 203.0
+E-value: 1.307e-05
+Alignment Length: 149
+Percentage Identity: 0.221
+
+=== A0A484F3J2 ===
+DE   SubName: Full=DNA polymerase-3 subunit epsilon {ECO:0000313|EMBL:TDQ67829.1};
+Bit Score: 173.0
+E-value: 2.195e-05
+Alignment Length: 175
+Percentage Identity: 0.165
+
+=== A0A3A4JSZ9 ===
+DE   SubName: Full=3'-5' exonuclease {ECO:0000313|EMBL:RJO59579.1};
+Bit Score: 160.0
+E-value: 3.033e-05
+Alignment Length: 165
+Percentage Identity: 0.151
+
+=== A0A3R6TS18 ===
+DE   SubName: Full=Type I-E CRISPR-associated endoribonuclease Cas2 {ECO:0000313|EMBL:RHS72570.1};
+Bit Score: 157.0
+E-value: 4.473e-05
+Alignment Length: 169
+Percentage Identity: 0.124
+
+=== A0A1G0D984 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|SMART:SM00479};
+Bit Score: 127.0
+E-value: 0.0001531
+Alignment Length: 173
+Percentage Identity: 0.144
+
+=== A0A6L5Y3I6 ===
+DE   SubName: Full=Type I-E CRISPR-associated endoribonuclease Cas2 {ECO:0000313|EMBL:MST51078.1};
+Bit Score: 149.0
+E-value: 0.0001859
+Alignment Length: 168
+Percentage Identity: 0.172
+
+=== A0A1H5A213 ===
+DE   SubName: Full=DNA polymerase-3 subunit epsilon {ECO:0000313|EMBL:SED35640.1};
+Bit Score: 143.0
+E-value: 0.0001983
+Alignment Length: 175
+Percentage Identity: 0.165
+
+=== A0A6C0J2A8 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|SMART:SM00479};
+Bit Score: 131.0
+E-value: 0.0002741
+Alignment Length: 193
+Percentage Identity: 0.113
+
+=== A0A7V6G4U8 ===
+DE   RecName: Full=DNA 3'-5' helicase {ECO:0000256|ARBA:ARBA00034808};
+DE            EC=5.6.2.4 {ECO:0000256|ARBA:ARBA00034808};
+Bit Score: 141.0
+E-value: 0.0003329
+Alignment Length: 167
+Percentage Identity: 0.167
+
+=== A0A2T1BWW6 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|SMART:SM00479};
+Bit Score: 133.0
+E-value: 0.0003329
+Alignment Length: 159
+Percentage Identity: 0.176
+
+=== I4BBZ9 ===
+DE   SubName: Full=DNA polymerase III, epsilon subunit {ECO:0000313|EMBL:AFM14806.1};
+Bit Score: 139.0
+E-value: 0.0003551
+Alignment Length: 168
+Percentage Identity: 0.178
+
+=== A0A6M0B2B6 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|SMART:SM00479};
+Bit Score: 118.0
+E-value: 0.0005237
+Alignment Length: 157
+Percentage Identity: 0.171
+
+=== A0A5C7LGT7 ===
+DE   SubName: Full=3'-5' exonuclease {ECO:0000313|EMBL:TXH09580.1};
+Bit Score: 132.0
+E-value: 0.0005961
+Alignment Length: 185
+Percentage Identity: 0.145
+
+=== A0A402A7P3 ===
+DE   SubName: Full=DNA polymerase III subunit epsilon {ECO:0000313|EMBL:GCE15089.1};
+Bit Score: 134.0
+E-value: 0.0006785
+Alignment Length: 166
+Percentage Identity: 0.156
+
+=== A0A431HN81 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+DE   Flags: Fragment;
+Bit Score: 127.0
+E-value: 0.0006785
+Alignment Length: 168
+Percentage Identity: 0.148
+
+=== A0A1V5BHB5 ===
+DE   SubName: Full=DNA ligase {ECO:0000313|EMBL:OPY57842.1};
+DE            EC=6.5.1.2 {ECO:0000313|EMBL:OPY57842.1};
+Bit Score: 118.0
+E-value: 0.0008791
+Alignment Length: 161
+Percentage Identity: 0.18
+
+=== A0A5E8CK37 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|SMART:SM00479};
+Bit Score: 123.0
+E-value: 0.0009379
+Alignment Length: 194
+Percentage Identity: 0.123
+
+=== A0A5R8QA04 ===
+DE   SubName: Full=3'-5' exonuclease {ECO:0000313|EMBL:TLG72754.1};
+Bit Score: 121.0
+E-value: 0.0009379
+Alignment Length: 166
+Percentage Identity: 0.15
+
+=== A0A8B5XB68 ===
+DE   SubName: Full=3'-5' exonuclease {ECO:0000313|EMBL:TVR70902.1};
+Bit Score: 129.0
+E-value: 0.001001
+Alignment Length: 175
+Percentage Identity: 0.137
+
+=== A0A2H1KQ75 ===
+DE   SubName: Full=DNA polymerase-3 subunit epsilon {ECO:0000313|EMBL:SMY01758.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:SMY01758.1};
+Bit Score: 131.0
+E-value: 0.001215
+Alignment Length: 169
+Percentage Identity: 0.153
+
+=== A0A1Q9YFC0 ===
+DE   SubName: Full=Type I-E CRISPR-associated endoribonuclease Cas2 {ECO:0000313|EMBL:OLU41844.1};
+Bit Score: 129.0
+E-value: 0.001296
+Alignment Length: 165
+Percentage Identity: 0.145
+
+=== R9MLR1 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|SMART:SM00479};
+Bit Score: 120.0
+E-value: 0.001296
+Alignment Length: 166
+Percentage Identity: 0.162
+
+=== A0A1U9LJZ5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AQT06669.1};
+Bit Score: 120.0
+E-value: 0.001383
+Alignment Length: 201
+Percentage Identity: 0.124
+
+=== A0A1U0RRV7 ===
+DE   SubName: Full=Exonuclease {ECO:0000313|EMBL:SKL51474.1};
+Bit Score: 115.0
+E-value: 0.001383
+Alignment Length: 172
+Percentage Identity: 0.168
+
+=== A0A7W1B9H5 ===
+DE   SubName: Full=3'-5' exonuclease {ECO:0000313|EMBL:MBA3541888.1};
+Bit Score: 96.0
+E-value: 0.001383
+Alignment Length: 173
+Percentage Identity: 0.138
+
+=== A0A415HAK8 ===
+DE   SubName: Full=3'-5' exonuclease {ECO:0000313|EMBL:RHK65656.1};
+Bit Score: 127.0
+E-value: 0.001476
+Alignment Length: 173
+Percentage Identity: 0.15
+
+=== K5BHN5 ===
+DE   SubName: Full=Exonuclease family protein {ECO:0000313|EMBL:EKF25021.1};
+Bit Score: 125.0
+E-value: 0.001476
+Alignment Length: 165
+Percentage Identity: 0.109
+
+=== N9L9P6 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|SMART:SM00479};
+Bit Score: 115.0
+E-value: 0.001574
+Alignment Length: 179
+Percentage Identity: 0.128
+
+=== A0A140DXZ6 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|SMART:SM00479};
+Bit Score: 121.0
+E-value: 0.00168
+Alignment Length: 171
+Percentage Identity: 0.128
+
+=== A0A7V6LLS2 ===
+DE   SubName: Full=3'-5' exonuclease {ECO:0000313|EMBL:HHU23859.1};
+Bit Score: 123.0
+E-value: 0.001912
+Alignment Length: 167
+Percentage Identity: 0.131
+
+=== A0A5M8ZGS1 ===
+DE   SubName: Full=3'-5' exonuclease {ECO:0000313|EMBL:KAA8387745.1};
+Bit Score: 114.0
+E-value: 0.001912
+Alignment Length: 172
+Percentage Identity: 0.156
+
+=== A0A5C6C5J3 ===
+DE   RecName: Full=tRNA-uridine aminocarboxypropyltransferase {ECO:0000256|ARBA:ARBA00012386};
+DE            EC=2.5.1.25 {ECO:0000256|ARBA:ARBA00012386};
+Bit Score: 121.0
+E-value: 0.00204
+Alignment Length: 150
+Percentage Identity: 0.153
+
+=== A0A2D9JAG8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAP07447.1};
+DE   Flags: Fragment;
+Bit Score: 110.0
+E-value: 0.00204
+Alignment Length: 172
+Percentage Identity: 0.127
+
+=== A0A2V4NPE9 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|SMART:SM00479};
+Bit Score: 104.0
+E-value: 0.00204
+Alignment Length: 188
+Percentage Identity: 0.122
+
+=== A0A1C6BES0 ===
+DE   SubName: Full=DNA polymerase III polC-type {ECO:0000313|EMBL:SCI82479.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:SCI82479.1};
+Bit Score: 118.0
+E-value: 0.002176
+Alignment Length: 163
+Percentage Identity: 0.134
+
+=== A0A4V0HW60 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|SMART:SM00479};
+Bit Score: 108.0
+E-value: 0.002176
+Alignment Length: 173
+Percentage Identity: 0.138
+
+=== A0A1H3XQI5 ===
+DE   SubName: Full=Exonuclease {ECO:0000313|EMBL:SEA01161.1};
+Bit Score: 125.0
+E-value: 0.002322
+Alignment Length: 164
+Percentage Identity: 0.158
+
+=== A0A2N5KLG9 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|SMART:SM00479};
+Bit Score: 119.0
+E-value: 0.002643
+Alignment Length: 166
+Percentage Identity: 0.18
+
+=== A0A844HUE8 ===
+DE   SubName: Full=3'-5' exonuclease {ECO:0000313|EMBL:MTH61132.1};
+Bit Score: 117.0
+E-value: 0.002819
+Alignment Length: 174
+Percentage Identity: 0.172
+
+=== Q2S4M8 ===
+DE   SubName: Full=Exonuclease, putative {ECO:0000313|EMBL:ABC45729.1};
+Bit Score: 118.0
+E-value: 0.003008
+Alignment Length: 165
+Percentage Identity: 0.133
+
+=== R9LQZ4 ===
+DE   SubName: Full=Exonuclease, DNA polymerase III, epsilon subunit {ECO:0000313|EMBL:EOS60741.1};
+Bit Score: 118.0
+E-value: 0.003209
+Alignment Length: 170
+Percentage Identity: 0.147
+
+=== A0A7R8WL32 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAD7233776.1};
+Bit Score: 126.0
+E-value: 0.003424
+Alignment Length: 183
+Percentage Identity: 0.125
+
+=== A0A0C7G5D6 ===
+DE   SubName: Full=Helicase {ECO:0000313|EMBL:CEQ03221.1};
+DE            EC=3.6.4.12 {ECO:0000313|EMBL:CEQ03221.1};
+Bit Score: 109.0
+E-value: 0.004158
+Alignment Length: 176
+Percentage Identity: 0.09
+
+=== A0A7W5H999 ===
+DE   RecName: Full=tRNA-uridine aminocarboxypropyltransferase {ECO:0000256|ARBA:ARBA00012386};
+DE            EC=2.5.1.25 {ECO:0000256|ARBA:ARBA00012386};
+Bit Score: 114.0
+E-value: 0.004733
+Alignment Length: 158
+Percentage Identity: 0.158
+
+=== A0A6S7HMH5 ===
+DE   SubName: Full=Exonuclease R569 {ECO:0000313|EMBL:CAB4005539.1};
+Bit Score: 103.0
+E-value: 0.004733
+Alignment Length: 203
+Percentage Identity: 0.118
+
+=== A0A4R4BFQ0 ===
+DE   SubName: Full=Exonuclease {ECO:0000313|EMBL:TCW55092.1};
+Bit Score: 106.0
+E-value: 0.005049
+Alignment Length: 158
+Percentage Identity: 0.107
+
+=== D5H710 ===
+DE   SubName: Full=DNA polymerase III, epsilon chain {ECO:0000313|EMBL:CBH23815.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:CBH23815.1};
+Bit Score: 111.0
+E-value: 0.005747
+Alignment Length: 168
+Percentage Identity: 0.136
+
+=== D1C750 ===
+DE   SubName: Full=Exonuclease RNase T and DNA polymerase III {ECO:0000313|EMBL:ACZ39696.1};
+Bit Score: 118.0
+E-value: 0.006132
+Alignment Length: 173
+Percentage Identity: 0.15
+
+=== A0A6M4P6R1 ===
+DE   SubName: Full=DNA polymerase III subunit epsilon, DEDDh exonuclease, part of the DnaQ-like {ECO:0000313|EMBL:QJS05168.1};
+Bit Score: 116.0
+E-value: 0.006132
+Alignment Length: 167
+Percentage Identity: 0.107
+
+=== A0A2B4RU22 ===
+DE   SubName: Full=Uncharacterized protein C7orf31-like {ECO:0000313|EMBL:PFX20293.1};
+Bit Score: 113.0
+E-value: 0.006542
+Alignment Length: 187
+Percentage Identity: 0.139
+
+=== M5RPZ1 ===
+DE   RecName: Full=tRNA-uridine aminocarboxypropyltransferase {ECO:0000256|ARBA:ARBA00012386};
+DE            EC=2.5.1.25 {ECO:0000256|ARBA:ARBA00012386};
+Bit Score: 100.0
+E-value: 0.006542
+Alignment Length: 182
+Percentage Identity: 0.104
+
+=== A0A259ELB4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OZA27093.1};
+Bit Score: 103.0
+E-value: 0.006979
+Alignment Length: 159
+Percentage Identity: 0.176
+
+=== L7CHN3 ===
+DE   RecName: Full=tRNA-uridine aminocarboxypropyltransferase {ECO:0000256|ARBA:ARBA00012386};
+DE            EC=2.5.1.25 {ECO:0000256|ARBA:ARBA00012386};
+Bit Score: 101.0
+E-value: 0.007944
+Alignment Length: 171
+Percentage Identity: 0.134
+
+=== A0A518DKX3 ===
+DE   RecName: Full=tRNA-uridine aminocarboxypropyltransferase {ECO:0000256|ARBA:ARBA00012386};
+DE            EC=2.5.1.25 {ECO:0000256|ARBA:ARBA00012386};
+Bit Score: 90.0
+E-value: 0.007944
+Alignment Length: 148
+Percentage Identity: 0.121
+
+=== A0A6A5AEM7 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 83.0
+E-value: 0.008475
+Alignment Length: 180
+Percentage Identity: 0.105
+
+=== A0A8B6GEN6 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|SMART:SM00479};
+Bit Score: 118.0
+E-value: 0.009042
+Alignment Length: 176
+Percentage Identity: 0.096
+
+=== A0A7C5VZ69 ===
+DE   SubName: Full=3'-5' exonuclease {ECO:0000313|EMBL:HHM96539.1};
+Bit Score: 111.0
+E-value: 0.009042
+Alignment Length: 169
+Percentage Identity: 0.142
+
+=== A0A6S7IAV7 ===
+DE   SubName: Full=Exonuclease R569 {ECO:0000313|EMBL:CAB4001078.1};
+Bit Score: 92.0
+E-value: 0.009042
+Alignment Length: 202
+Percentage Identity: 0.108
+
+=== A0A2E0JHA7 ===
+DE   SubName: Full=DNA polymerase III subunit epsilon {ECO:0000313|EMBL:MAS16406.1};
+Bit Score: 105.0
+E-value: 0.009647
+Alignment Length: 165
+Percentage Identity: 0.115
+
+=== A0A353M3G4 ===
+DE   SubName: Full=Type I-E CRISPR-associated endoribonuclease Cas2 {ECO:0000313|EMBL:HBG02800.1};
+Bit Score: 100.0
+E-value: 0.009647
+Alignment Length: 166
+Percentage Identity: 0.168
+
+=== A0A520R3R6 ===
+DE   RecName: Full=tRNA-uridine aminocarboxypropyltransferase {ECO:0000256|ARBA:ARBA00012386};
+DE            EC=2.5.1.25 {ECO:0000256|ARBA:ARBA00012386};
+Bit Score: 87.0
+E-value: 0.009647
+Alignment Length: 151
+Percentage Identity: 0.145
+
+=== D0LL62 ===
+DE   SubName: Full=Exonuclease RNase T and DNA polymerase III {ECO:0000313|EMBL:ACY18558.1};
+Bit Score: 88.0
+E-value: 0.01029
+Alignment Length: 168
+Percentage Identity: 0.154
+
+=== A0A517MJ16 ===
+DE   RecName: Full=tRNA-uridine aminocarboxypropyltransferase {ECO:0000256|ARBA:ARBA00012386};
+DE            EC=2.5.1.25 {ECO:0000256|ARBA:ARBA00012386};
+Bit Score: 91.0
+E-value: 0.01098
+Alignment Length: 169
+Percentage Identity: 0.147
+
+=== K1R8K7 ===
+DE   SubName: Full=Three prime repair exonuclease 1 {ECO:0000313|EMBL:EKC30331.1};
+Bit Score: 104.0
+E-value: 0.01172
+Alignment Length: 191
+Percentage Identity: 0.109
+
+=== A0A5B1CE16 ===
+DE   RecName: Full=tRNA-uridine aminocarboxypropyltransferase {ECO:0000256|ARBA:ARBA00012386};
+DE            EC=2.5.1.25 {ECO:0000256|ARBA:ARBA00012386};
+Bit Score: 101.0
+E-value: 0.01172
+Alignment Length: 159
+Percentage Identity: 0.075
+
+=== A0A6S7FU38 ===
+DE   SubName: Full=Exonuclease R569 {ECO:0000313|EMBL:CAB3983115.1};
+Bit Score: 88.0
+E-value: 0.01172
+Alignment Length: 199
+Percentage Identity: 0.12
+
+=== A0A518ERP8 ===
+DE   RecName: Full=tRNA-uridine aminocarboxypropyltransferase {ECO:0000256|ARBA:ARBA00012386};
+DE            EC=2.5.1.25 {ECO:0000256|ARBA:ARBA00012386};
+Bit Score: 96.0
+E-value: 0.01333
+Alignment Length: 120
+Percentage Identity: 0.133
+
+=== A0A7Z7N6E7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SOE87989.1};
+Bit Score: 93.0
+E-value: 0.01333
+Alignment Length: 114
+Percentage Identity: 0.184
+
+=== A0A6P8ITJ7 ===
+DE   SubName: Full=Uncharacterized protein LOC116304652 {ECO:0000313|RefSeq:XP_031570272.1};
+Bit Score: 81.0
+E-value: 0.01333
+Alignment Length: 175
+Percentage Identity: 0.142
+
+=== A0A2H0JS87 ===
+DE   SubName: Full=DNA polymerase III subunit epsilon {ECO:0000313|EMBL:PIQ61825.1};
+Bit Score: 80.0
+E-value: 0.01333
+Alignment Length: 167
+Percentage Identity: 0.113
+
+=== A0A351C7G2 ===
+DE   SubName: Full=DNA polymerase III subunit epsilon {ECO:0000313|EMBL:HAY36481.1};
+Bit Score: 79.0
+E-value: 0.01333
+Alignment Length: 169
+Percentage Identity: 0.136
+
+=== A0A222G9N1 ===
+DE   SubName: Full=3'-5' exonuclease {ECO:0000313|EMBL:ASP48432.1};
+Bit Score: 111.0
+E-value: 0.01423
+Alignment Length: 164
+Percentage Identity: 0.121
+
+=== A0A1P8WQ17 ===
+DE   RecName: Full=tRNA-uridine aminocarboxypropyltransferase {ECO:0000256|ARBA:ARBA00012386};
+DE            EC=2.5.1.25 {ECO:0000256|ARBA:ARBA00012386};
+Bit Score: 105.0
+E-value: 0.01423
+Alignment Length: 163
+Percentage Identity: 0.104
+
+=== A0A1M6WU64 ===
+DE   SubName: Full=DNA polymerase-3 subunit epsilon {ECO:0000313|EMBL:SHK97263.1};
+Bit Score: 98.0
+E-value: 0.01423
+Alignment Length: 168
+Percentage Identity: 0.119
+
+=== A0A7D9LGN1 ===
+DE   SubName: Full=Exonuclease R569 {ECO:0000313|EMBL:CAB4030058.1};
+Bit Score: 96.0
+E-value: 0.01423
+Alignment Length: 204
+Percentage Identity: 0.122
+
+=== A0A5A5T7F3 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|SMART:SM00479};
+Bit Score: 95.0
+E-value: 0.01423
+Alignment Length: 166
+Percentage Identity: 0.09
+
+=== A0A0G1ULY6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKU95106.1};
+Bit Score: 92.0
+E-value: 0.01423
+Alignment Length: 137
+Percentage Identity: 0.218
+
+=== F2AUX8 ===
+DE   RecName: Full=tRNA-uridine aminocarboxypropyltransferase {ECO:0000256|ARBA:ARBA00012386};
+DE            EC=2.5.1.25 {ECO:0000256|ARBA:ARBA00012386};
+Bit Score: 87.0
+E-value: 0.01423
+Alignment Length: 169
+Percentage Identity: 0.136
+
+=== A0A5C5WY29 ===
+DE   RecName: Full=tRNA-uridine aminocarboxypropyltransferase {ECO:0000256|ARBA:ARBA00012386};
+DE            EC=2.5.1.25 {ECO:0000256|ARBA:ARBA00012386};
+Bit Score: 87.0
+E-value: 0.01423
+Alignment Length: 180
+Percentage Identity: 0.105
+
+=== A0A7C1FRZ7 ===
+DE   SubName: Full=3'-5' exonuclease {ECO:0000313|EMBL:HEF64495.1};
+Bit Score: 103.0
+E-value: 0.01518
+Alignment Length: 162
+Percentage Identity: 0.135
+
+=== A0A6P8ZGY3 ===
+DE   SubName: Full=Uncharacterized protein LOC117639401 {ECO:0000313|RefSeq:XP_034230904.1};
+Bit Score: 120.0
+E-value: 0.01728
+Alignment Length: 172
+Percentage Identity: 0.116
+
+=== A0A6L8EJA4 ===
+DE   SubName: Full=3'-5' exonuclease {ECO:0000313|EMBL:MYH68803.1};
+Bit Score: 101.0
+E-value: 0.01728
+Alignment Length: 173
+Percentage Identity: 0.121
+
+=== A0A7W4VPQ9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB3020612.1};
+Bit Score: 109.0
+E-value: 0.01966
+Alignment Length: 82
+Percentage Identity: 0.256
+
+=== A0A1G1A9H7 ===
+DE   RecName: Full=Helicase ATP-binding domain-containing protein {ECO:0000259|PROSITE:PS51193};
+Bit Score: 98.0
+E-value: 0.01966
+Alignment Length: 169
+Percentage Identity: 0.136
+
+=== A0A6M4P5T3 ===
+DE   SubName: Full=Exonuclease {ECO:0000313|EMBL:QJS05430.1};
+Bit Score: 105.0
+E-value: 0.02098
+Alignment Length: 166
+Percentage Identity: 0.114
+
+=== A0A2V2FE14 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|SMART:SM00479};
+Bit Score: 91.0
+E-value: 0.02098
+Alignment Length: 119
+Percentage Identity: 0.159
+
+=== A0A415G4K4 ===
+DE   SubName: Full=3'-5' exonuclease {ECO:0000313|EMBL:RHK35753.1};
+Bit Score: 86.0
+E-value: 0.02098
+Alignment Length: 185
+Percentage Identity: 0.113
+
+=== A0A6J8C0C1 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|SMART:SM00479};
+Bit Score: 97.0
+E-value: 0.02238
+Alignment Length: 177
+Percentage Identity: 0.09
+
+=== A0A3D2AJ69 ===
+DE   RecName: Full=DNA polymerase {ECO:0000256|RuleBase:RU000442};
+DE            EC=2.7.7.7 {ECO:0000256|RuleBase:RU000442};
+Bit Score: 61.0
+E-value: 0.02238
+Alignment Length: 150
+Percentage Identity: 0.12
+
+=== A0A661CFP2 ===
+DE   SubName: Full=3'-5' exonuclease {ECO:0000313|EMBL:RKZ73665.1};
+Bit Score: 100.0
+E-value: 0.02388
+Alignment Length: 175
+Percentage Identity: 0.102
+
+=== A0A6P8HP37 ===
+DE   SubName: Full=Uncharacterized protein LOC116294049 {ECO:0000313|RefSeq:XP_031557431.1};
+Bit Score: 94.0
+E-value: 0.02388
+Alignment Length: 178
+Percentage Identity: 0.151
+
+=== A0A6S7HBF7 ===
+DE   SubName: Full=Exonuclease R569 {ECO:0000313|EMBL:CAB4000413.1};
+Bit Score: 86.0
+E-value: 0.02388
+Alignment Length: 202
+Percentage Identity: 0.108
+
+=== A0A7C8YMP2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBA4622159.1};
+DE   Flags: Fragment;
+Bit Score: 61.0
+E-value: 0.02388
+Alignment Length: 139
+Percentage Identity: 0.129
+
+=== A0Y7J9 ===
+DE   SubName: Full=Putative exonuclease {ECO:0000313|EMBL:EAW32103.1};
+Bit Score: 100.0
+E-value: 0.02548
+Alignment Length: 167
+Percentage Identity: 0.113
+
+=== A0A358N1D0 ===
+DE   RecName: Full=tRNA-uridine aminocarboxypropyltransferase {ECO:0000256|ARBA:ARBA00012386};
+DE            EC=2.5.1.25 {ECO:0000256|ARBA:ARBA00012386};
+Bit Score: 80.0
+E-value: 0.02548
+Alignment Length: 174
+Percentage Identity: 0.103
+
+=== A0A2A4T1L1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PCI27169.1};
+Bit Score: 71.0
+E-value: 0.029
+Alignment Length: 162
+Percentage Identity: 0.111
+
+=== A0A6J8AKG2 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|SMART:SM00479};
+Bit Score: 97.0
+E-value: 0.03094
+Alignment Length: 186
+Percentage Identity: 0.123
+
+=== A0A4Q5XFY5 ===
+DE   RecName: Full=tRNA-uridine aminocarboxypropyltransferase {ECO:0000256|ARBA:ARBA00012386};
+DE            EC=2.5.1.25 {ECO:0000256|ARBA:ARBA00012386};
+Bit Score: 93.0
+E-value: 0.03094
+Alignment Length: 176
+Percentage Identity: 0.096
+
+=== A0A0J1GQE0 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|SMART:SM00479};
+Bit Score: 92.0
+E-value: 0.03094
+Alignment Length: 173
+Percentage Identity: 0.115
+
+=== A0A6S7GMW6 ===
+DE   SubName: Full=Exonuclease R569 {ECO:0000313|EMBL:CAB3993015.1};
+DE   Flags: Fragment;
+Bit Score: 85.0
+E-value: 0.03094
+Alignment Length: 202
+Percentage Identity: 0.118
+
+=== W4FZR6 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 77.0
+E-value: 0.03094
+Alignment Length: 135
+Percentage Identity: 0.118
+
+=== A0A6J8EN75 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|SMART:SM00479};
+Bit Score: 95.0
+E-value: 0.03301
+Alignment Length: 188
+Percentage Identity: 0.132
+
+=== A0A7I8EGR9 ===
+DE   SubName: Full=3`-5` exonuclease {ECO:0000313|EMBL:BCL78296.1};
+Bit Score: 84.0
+E-value: 0.03301
+Alignment Length: 166
+Percentage Identity: 0.096
+
+=== A0A6L7SY45 ===
+DE   SubName: Full=RecQ family ATP-dependent DNA helicase {ECO:0000313|EMBL:MYB35356.1};
+DE   Flags: Fragment;
+Bit Score: 82.0
+E-value: 0.03301
+Alignment Length: 152
+Percentage Identity: 0.131
+
+=== A0A439DFX0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 62.0
+E-value: 0.03301
+Alignment Length: 165
+Percentage Identity: 0.157
+
+=== A0A7W4GGF4 ===
+DE   SubName: Full=3'-5' exonuclease {ECO:0000313|EMBL:MBB1438568.1};
+Bit Score: 90.0
+E-value: 0.03522
+Alignment Length: 112
+Percentage Identity: 0.142
+
+=== A0A7R8VE59 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|SMART:SM00479};
+Bit Score: 79.0
+E-value: 0.03757
+Alignment Length: 173
+Percentage Identity: 0.138
+
+=== I4EE65 ===
+DE   SubName: Full=Uncharacterized exonuclease CP81 {ECO:0000313|EMBL:CCF82977.1};
+DE            EC=3.1.-.- {ECO:0000313|EMBL:CCF82977.1};
+Bit Score: 94.0
+E-value: 0.04008
+Alignment Length: 170
+Percentage Identity: 0.117
+
+=== A0A1B9MJA5 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|SMART:SM00479};
+Bit Score: 92.0
+E-value: 0.04008
+Alignment Length: 168
+Percentage Identity: 0.089
+
+=== A0A6M1ZF17 ===
+DE   SubName: Full=DNA polymerase III PolC-type {ECO:0000313|EMBL:NGX46606.1};
+DE            EC=2.7.7.7 {ECO:0000313|EMBL:NGX46606.1};
+Bit Score: 89.0
+E-value: 0.04008
+Alignment Length: 172
+Percentage Identity: 0.156
+
+=== A0A6S7HZ48 ===
+DE   SubName: Full=Exonuclease R569 {ECO:0000313|EMBL:CAB3999482.1};
+Bit Score: 88.0
+E-value: 0.04008
+Alignment Length: 195
+Percentage Identity: 0.138
+
+=== A0A849Z3I5 ===
+DE   RecName: Full=tRNA-uridine aminocarboxypropyltransferase {ECO:0000256|ARBA:ARBA00012386};
+DE            EC=2.5.1.25 {ECO:0000256|ARBA:ARBA00012386};
+Bit Score: 74.0
+E-value: 0.04008
+Alignment Length: 168
+Percentage Identity: 0.089
+
+=== A0A3R5Q144 ===
+DE   RecName: Full=Exonuclease domain-containing protein {ECO:0000259|SMART:SM00479};
+DE   Flags: Fragment;
+Bit Score: 85.0
+E-value: 0.04277
+Alignment Length: 193
+Percentage Identity: 0.093
+
+=== A0A6I9PV64 ===
+DE   SubName: Full=DNA mismatch repair protein Msh3-like {ECO:0000313|RefSeq:XP_010791268.1};
+Bit Score: 62.0
+E-value: 0.04563
+Alignment Length: 161
+Percentage Identity: 0.099
+
+=== A0A1I2H3J6 ===
+DE   RecName: Full=tRNA-uridine aminocarboxypropyltransferase {ECO:0000256|ARBA:ARBA00012386};
+DE            EC=2.5.1.25 {ECO:0000256|ARBA:ARBA00012386};
+Bit Score: 82.0
+E-value: 0.04868
+Alignment Length: 152
+Percentage Identity: 0.144
+
+=== A0A0S6W195 ===
+DE   SubName: Full=ATP-dependent DNA helicase, RecQ family {ECO:0000313|EMBL:GAK53576.1};
+Bit Score: 79.0
+E-value: 0.04868
+Alignment Length: 152
+Percentage Identity: 0.138
+

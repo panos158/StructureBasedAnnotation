@@ -1,0 +1,239 @@
+=== A0A5U8XTD4 ===
+DE   RecName: Full=Peptidase S74 domain-containing protein {ECO:0000259|PROSITE:PS51688};
+DE   Flags: Fragment;
+Bit Score: 157.0
+E-value: 0.0002718
+Alignment Length: 99
+Percentage Identity: 0.272
+
+=== A0A7X9BTW6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NMA66269.1};
+Bit Score: 148.0
+E-value: 0.0003838
+Alignment Length: 120
+Percentage Identity: 0.258
+
+=== A0A1Y3QN95 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.0006224
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== Q92CA0 ===
+DE   SubName: Full=Lin1290 protein {ECO:0000313|EMBL:CAC96521.1};
+Bit Score: 163.0
+E-value: 0.0009418
+Alignment Length: 61
+Percentage Identity: 0.36
+
+=== A0A842CQL6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBC2004458.1};
+Bit Score: 147.0
+E-value: 0.0009418
+Alignment Length: 93
+Percentage Identity: 0.225
+
+=== A0A7W8PCJ1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB5409265.1};
+Bit Score: 125.0
+E-value: 0.001241
+Alignment Length: 101
+Percentage Identity: 0.287
+
+=== A0A6L2ZXQ5 ===
+DE   RecName: Full=Lower baseplate protein N-terminal domain-containing protein {ECO:0000259|Pfam:PF18338};
+Bit Score: 144.0
+E-value: 0.00133
+Alignment Length: 72
+Percentage Identity: 0.319
+
+=== A0A842F326 ===
+DE   RecName: Full=Lower baseplate protein N-terminal domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 143.0
+E-value: 0.001527
+Alignment Length: 94
+Percentage Identity: 0.223
+
+=== A0A235EXI3 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 130.0
+E-value: 0.001527
+Alignment Length: 82
+Percentage Identity: 0.292
+
+=== F9VE25 ===
+DE   SubName: Full=Hypothetical phage protein {ECO:0000313|EMBL:BAK60576.1};
+Bit Score: 121.0
+E-value: 0.001753
+Alignment Length: 95
+Percentage Identity: 0.242
+
+=== A0A2G5WMV2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PIC65328.1};
+Bit Score: 151.0
+E-value: 0.002013
+Alignment Length: 58
+Percentage Identity: 0.379
+
+=== A0A2W4BXB0 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 115.0
+E-value: 0.002013
+Alignment Length: 89
+Percentage Identity: 0.258
+
+=== A0A432LHB1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RUL56452.1};
+Bit Score: 154.0
+E-value: 0.002843
+Alignment Length: 74
+Percentage Identity: 0.297
+
+=== S6FFL5 ===
+DE   RecName: Full=Major structural protein 1 jelly-roll domain-containing protein {ECO:0000259|Pfam:PF21454};
+Bit Score: 136.0
+E-value: 0.002843
+Alignment Length: 61
+Percentage Identity: 0.377
+
+=== T0TE33 ===
+DE   RecName: Full=Receptor-binding protein of phage tail base-plate Siphoviridae head domain-containing protein {ECO:0000259|Pfam:PF08931};
+Bit Score: 133.0
+E-value: 0.003046
+Alignment Length: 61
+Percentage Identity: 0.36
+
+=== A0A2G3Q4C9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PHV72192.1};
+Bit Score: 108.0
+E-value: 0.003497
+Alignment Length: 124
+Percentage Identity: 0.241
+
+=== A0A5C7UJX5 ===
+DE   RecName: Full=DUF1983 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.004015
+Alignment Length: 92
+Percentage Identity: 0.293
+
+=== A0A544TAU3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TQR14478.1};
+Bit Score: 128.0
+E-value: 0.00461
+Alignment Length: 61
+Percentage Identity: 0.36
+
+=== A0A163H1A9 ===
+DE   RecName: Full=Periplasmic copper-binding protein NosD beta helix domain-containing protein {ECO:0000259|Pfam:PF05048};
+Bit Score: 111.0
+E-value: 0.004939
+Alignment Length: 87
+Percentage Identity: 0.218
+
+=== W7D944 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EUJ44026.1};
+Bit Score: 136.0
+E-value: 0.006976
+Alignment Length: 70
+Percentage Identity: 0.342
+
+=== A0A2Z2KA15 ===
+DE   RecName: Full=Major tropism determinant N-terminal domain-containing protein {ECO:0000259|Pfam:PF18454};
+Bit Score: 138.0
+E-value: 0.009852
+Alignment Length: 54
+Percentage Identity: 0.351
+
+=== Q5WIC3 ===
+DE   SubName: Full=Phage-related protein {ECO:0000313|EMBL:BAD63882.1};
+Bit Score: 115.0
+E-value: 0.009852
+Alignment Length: 66
+Percentage Identity: 0.409
+
+=== A0A3S3MKA7 ===
+DE   RecName: Full=Lower baseplate protein N-terminal domain-containing protein {ECO:0000259|Pfam:PF18338};
+Bit Score: 124.0
+E-value: 0.01056
+Alignment Length: 67
+Percentage Identity: 0.343
+
+=== A0A4Y7WZL1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TES56196.1};
+Bit Score: 122.0
+E-value: 0.01131
+Alignment Length: 69
+Percentage Identity: 0.347
+
+=== Q92B43 ===
+DE   SubName: Full=Lin1708 protein {ECO:0000313|EMBL:CAC96939.1};
+Bit Score: 116.0
+E-value: 0.01131
+Alignment Length: 92
+Percentage Identity: 0.184
+
+=== A0A3D9KID8 ===
+DE   SubName: Full=Tail fiber-like repeat protein {ECO:0000313|EMBL:RED86268.1};
+Bit Score: 134.0
+E-value: 0.01391
+Alignment Length: 55
+Percentage Identity: 0.272
+
+=== A0A6A8NEV0 ===
+DE   RecName: Full=BppU N-terminal domain-containing protein {ECO:0000259|Pfam:PF10651};
+Bit Score: 108.0
+E-value: 0.01391
+Alignment Length: 68
+Percentage Identity: 0.338
+
+=== A0A4Q2WE09 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RYD01666.1};
+Bit Score: 143.0
+E-value: 0.01491
+Alignment Length: 47
+Percentage Identity: 0.404
+
+=== A0A162EW95 ===
+DE   RecName: Full=Tail fiber protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 120.0
+E-value: 0.01712
+Alignment Length: 58
+Percentage Identity: 0.379
+
+=== A0A231RT93 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OXS62390.1};
+Bit Score: 132.0
+E-value: 0.01965
+Alignment Length: 53
+Percentage Identity: 0.283
+
+=== A0A6N7XWU5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MSU01923.1};
+Bit Score: 99.0
+E-value: 0.02417
+Alignment Length: 62
+Percentage Identity: 0.338
+
+=== A0A1R1DD29 ===
+DE   RecName: Full=Tail fiber protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 123.0
+E-value: 0.0259
+Alignment Length: 47
+Percentage Identity: 0.382
+
+=== A0A3F3S3N3 ===
+DE   SubName: Full=Hep_Hag {ECO:0000313|EMBL:SUP00612.1};
+Bit Score: 129.0
+E-value: 0.03186
+Alignment Length: 40
+Percentage Identity: 0.5
+
+=== R2PA14 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EOH55955.1};
+Bit Score: 117.0
+E-value: 0.042
+Alignment Length: 63
+Percentage Identity: 0.365
+

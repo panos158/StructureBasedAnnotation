@@ -1,0 +1,1279 @@
+=== A0A1Q4FM28 ===
+DE   RecName: Full=Fimbrial assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.0006473
+Alignment Length: 117
+Percentage Identity: 0.102
+
+=== A0A2E7D9B7 ===
+DE   RecName: Full=Fimbrial assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.001872
+Alignment Length: 110
+Percentage Identity: 0.118
+
+=== A0A849DV87 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.002258
+Alignment Length: 107
+Percentage Identity: 0.177
+
+=== A0A2N1QMD1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PKL02266.1};
+Bit Score: 86.0
+E-value: 0.002723
+Alignment Length: 106
+Percentage Identity: 0.122
+
+=== A0A7T0NVA3 ===
+DE   RecName: Full=Fimbrial assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.002898
+Alignment Length: 112
+Percentage Identity: 0.098
+
+=== A0A7V4X7I1 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 83.0
+E-value: 0.002898
+Alignment Length: 113
+Percentage Identity: 0.168
+
+=== A0A1Y4GDJ9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OUO92689.1};
+Bit Score: 80.0
+E-value: 0.003085
+Alignment Length: 118
+Percentage Identity: 0.093
+
+=== A0A2E6RHV5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBL39624.1};
+Bit Score: 85.0
+E-value: 0.003284
+Alignment Length: 158
+Percentage Identity: 0.12
+
+=== A0A1G2QJJ1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OHA60573.1};
+Bit Score: 90.0
+E-value: 0.003496
+Alignment Length: 130
+Percentage Identity: 0.092
+
+=== A0A1G1H8S2 ===
+DE   RecName: Full=SHS2 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 71.0
+E-value: 0.003721
+Alignment Length: 128
+Percentage Identity: 0.148
+
+=== A0A4V1A701 ===
+DE   RecName: Full=General secretion pathway protein GspM {ECO:0008006|Google:ProtNLM};
+Bit Score: 71.0
+E-value: 0.003721
+Alignment Length: 113
+Percentage Identity: 0.106
+
+=== A0A1G0HAU1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OGT46967.1};
+Bit Score: 94.0
+E-value: 0.003961
+Alignment Length: 123
+Percentage Identity: 0.227
+
+=== A0A1G1MFP2 ===
+DE   RecName: Full=Fimbrial assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 83.0
+E-value: 0.003961
+Alignment Length: 111
+Percentage Identity: 0.153
+
+=== A0A1V4RUW3 ===
+DE   RecName: Full=Flagellar M-ring C-terminal domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 80.0
+E-value: 0.004216
+Alignment Length: 124
+Percentage Identity: 0.12
+
+=== A0A354DDB5 ===
+DE   SubName: Full=General secretion pathway protein {ECO:0000313|EMBL:HBI02253.1};
+Bit Score: 67.0
+E-value: 0.004216
+Alignment Length: 132
+Percentage Identity: 0.075
+
+=== I0IQ06 ===
+DE   RecName: Full=General secretion pathway protein L {ECO:0008006|Google:ProtNLM};
+Bit Score: 90.0
+E-value: 0.004488
+Alignment Length: 120
+Percentage Identity: 0.133
+
+=== A0A800JB89 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 85.0
+E-value: 0.004488
+Alignment Length: 128
+Percentage Identity: 0.14
+
+=== A0A1G2QJG3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OHA60543.1};
+Bit Score: 96.0
+E-value: 0.004777
+Alignment Length: 124
+Percentage Identity: 0.137
+
+=== A0A7C4RGG0 ===
+DE   RecName: Full=GspL periplasmic domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 86.0
+E-value: 0.004777
+Alignment Length: 120
+Percentage Identity: 0.133
+
+=== A0A4R5M382 ===
+DE   SubName: Full=Fimbrial assembly protein {ECO:0000313|EMBL:TDG19539.1};
+Bit Score: 98.0
+E-value: 0.005085
+Alignment Length: 127
+Percentage Identity: 0.11
+
+=== A0A3B9ZK87 ===
+DE   RecName: Full=GspL periplasmic domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 92.0
+E-value: 0.005085
+Alignment Length: 143
+Percentage Identity: 0.111
+
+=== A0A288DL45 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AHB41454.1};
+Bit Score: 81.0
+E-value: 0.005085
+Alignment Length: 126
+Percentage Identity: 0.166
+
+=== A0A3L7PP77 ===
+DE   RecName: Full=GspL cytoplasmic actin-ATPase-like domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 74.0
+E-value: 0.005085
+Alignment Length: 125
+Percentage Identity: 0.112
+
+=== A0A522KR00 ===
+DE   RecName: Full=Flagellar hook-length control protein FliK {ECO:0008006|Google:ProtNLM};
+Bit Score: 98.0
+E-value: 0.005413
+Alignment Length: 119
+Percentage Identity: 0.126
+
+=== A0A2G6NZ31 ===
+DE   RecName: Full=POTRA domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 79.0
+E-value: 0.005413
+Alignment Length: 134
+Percentage Identity: 0.126
+
+=== A0A2T6CNJ4 ===
+DE   RecName: Full=Fimbrial assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 102.0
+E-value: 0.006133
+Alignment Length: 116
+Percentage Identity: 0.112
+
+=== A0A651H4H6 ===
+DE   RecName: Full=Fimbrial assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 82.0
+E-value: 0.006133
+Alignment Length: 128
+Percentage Identity: 0.148
+
+=== A0A0S7WK04 ===
+DE   RecName: Full=Fimbrial assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 99.0
+E-value: 0.006949
+Alignment Length: 121
+Percentage Identity: 0.123
+
+=== A0A7V2JHZ4 ===
+DE   RecName: Full=Pilus assembly protein PilN {ECO:0008006|Google:ProtNLM};
+Bit Score: 95.0
+E-value: 0.006949
+Alignment Length: 125
+Percentage Identity: 0.096
+
+=== A0A0S8IM27 ===
+DE   RecName: Full=Fimbrial assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 91.0
+E-value: 0.007397
+Alignment Length: 114
+Percentage Identity: 0.149
+
+=== A0A7X1L5P9 ===
+DE   SubName: Full=Pilus assembly protein PilN {ECO:0000313|EMBL:MBC2734702.1};
+Bit Score: 89.0
+E-value: 0.007397
+Alignment Length: 127
+Percentage Identity: 0.102
+
+=== A0A556QRH0 ===
+DE   SubName: Full=PilN domain-containing protein {ECO:0000313|EMBL:TSJ79222.1};
+Bit Score: 88.0
+E-value: 0.007397
+Alignment Length: 129
+Percentage Identity: 0.155
+
+=== A0A1H7UXY4 ===
+DE   SubName: Full=Type IV pilus assembly protein PilN {ECO:0000313|EMBL:SEM01515.1};
+Bit Score: 84.0
+E-value: 0.007397
+Alignment Length: 136
+Percentage Identity: 0.125
+
+=== A0A661LI98 ===
+DE   RecName: Full=PAS domain S-box protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 83.0
+E-value: 0.007397
+Alignment Length: 110
+Percentage Identity: 0.136
+
+=== A0A7L5YCZ3 ===
+DE   SubName: Full=PilN domain-containing protein {ECO:0000313|EMBL:QLQ02580.1};
+Bit Score: 75.0
+E-value: 0.007397
+Alignment Length: 127
+Percentage Identity: 0.07
+
+=== A0A349D2I2 ===
+DE   RecName: Full=POTRA domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 95.0
+E-value: 0.007874
+Alignment Length: 129
+Percentage Identity: 0.093
+
+=== J9Z9I3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AFS53195.1};
+Bit Score: 87.0
+E-value: 0.007874
+Alignment Length: 124
+Percentage Identity: 0.12
+
+=== A0A290Q784 ===
+DE   RecName: Full=Fimbrial assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 83.0
+E-value: 0.007874
+Alignment Length: 129
+Percentage Identity: 0.1
+
+=== A0A3M1GF71 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 89.0
+E-value: 0.008381
+Alignment Length: 114
+Percentage Identity: 0.105
+
+=== A0A3D0URL3 ===
+DE   RecName: Full=ACT domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 84.0
+E-value: 0.008381
+Alignment Length: 136
+Percentage Identity: 0.132
+
+=== A0A523ZG06 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 80.0
+E-value: 0.008381
+Alignment Length: 120
+Percentage Identity: 0.125
+
+=== A0A2E1U9D2 ===
+DE   RecName: Full=GspL cytoplasmic actin-ATPase-like domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 71.0
+E-value: 0.008381
+Alignment Length: 114
+Percentage Identity: 0.149
+
+=== A0A7C3XQJ8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HGD87198.1};
+Bit Score: 105.0
+E-value: 0.008921
+Alignment Length: 97
+Percentage Identity: 0.134
+
+=== C6HW28 ===
+DE   RecName: Full=General secretion pathway protein L {ECO:0008006|Google:ProtNLM};
+Bit Score: 89.0
+E-value: 0.008921
+Alignment Length: 108
+Percentage Identity: 0.148
+
+=== A0A7X1B724 ===
+DE   RecName: Full=Fimbrial assembly protein (PilN) {ECO:0008006|Google:ProtNLM};
+Bit Score: 89.0
+E-value: 0.008921
+Alignment Length: 120
+Percentage Identity: 0.116
+
+=== A0A2G1UHR3 ===
+DE   SubName: Full=Fimbrial assembly protein {ECO:0000313|EMBL:PHQ14024.1};
+Bit Score: 71.0
+E-value: 0.008921
+Alignment Length: 130
+Percentage Identity: 0.138
+
+=== A0A1F7J4M2 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 80.0
+E-value: 0.009496
+Alignment Length: 115
+Percentage Identity: 0.156
+
+=== A0A2V6MVZ4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PYL94712.1};
+Bit Score: 74.0
+E-value: 0.009496
+Alignment Length: 117
+Percentage Identity: 0.145
+
+=== A0A2A4STM2 ===
+DE   RecName: Full=DUF5667 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 90.0
+E-value: 0.01011
+Alignment Length: 136
+Percentage Identity: 0.117
+
+=== A0A2T4ZDR8 ===
+DE   RecName: Full=Tfp pilus assembly protein PilN {ECO:0008006|Google:ProtNLM};
+Bit Score: 88.0
+E-value: 0.01076
+Alignment Length: 116
+Percentage Identity: 0.12
+
+=== A0A3C1SC96 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HAO21624.1};
+DE   Flags: Fragment;
+Bit Score: 87.0
+E-value: 0.01076
+Alignment Length: 116
+Percentage Identity: 0.12
+
+=== A0A1B4FYA3 ===
+DE   SubName: Full=Fimbrial protein {ECO:0000313|EMBL:AOJ08591.1};
+Bit Score: 73.0
+E-value: 0.01076
+Alignment Length: 129
+Percentage Identity: 0.116
+
+=== A0A2H0M3Q3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PIQ91288.1};
+Bit Score: 71.0
+E-value: 0.01076
+Alignment Length: 114
+Percentage Identity: 0.166
+
+=== A0A847FG29 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 69.0
+E-value: 0.01076
+Alignment Length: 125
+Percentage Identity: 0.112
+
+=== A0A2M7ZWM1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PJB09740.1};
+Bit Score: 65.0
+E-value: 0.01076
+Alignment Length: 121
+Percentage Identity: 0.181
+
+=== A0A2D7ND35 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 90.0
+E-value: 0.01145
+Alignment Length: 135
+Percentage Identity: 0.17
+
+=== E1TBB2 ===
+DE   SubName: Full=Fimbrial assembly family protein {ECO:0000313|EMBL:ADN59146.1};
+Bit Score: 90.0
+E-value: 0.01145
+Alignment Length: 130
+Percentage Identity: 0.115
+
+=== B1ZTI7 ===
+DE   RecName: Full=Fimbrial assembly family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 88.0
+E-value: 0.01145
+Alignment Length: 126
+Percentage Identity: 0.142
+
+=== A0A094W9H5 ===
+DE   RecName: Full=GspL periplasmic domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 85.0
+E-value: 0.01145
+Alignment Length: 122
+Percentage Identity: 0.131
+
+=== A0A7C4X4G0 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 75.0
+E-value: 0.01145
+Alignment Length: 120
+Percentage Identity: 0.108
+
+=== A0A645CG43 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MPM75865.1};
+Bit Score: 74.0
+E-value: 0.01145
+Alignment Length: 114
+Percentage Identity: 0.078
+
+=== A0A7J7N3V2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAF6161710.1};
+Bit Score: 107.0
+E-value: 0.01219
+Alignment Length: 139
+Percentage Identity: 0.093
+
+=== A0A2E3VWC8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBC74504.1};
+Bit Score: 91.0
+E-value: 0.01219
+Alignment Length: 109
+Percentage Identity: 0.174
+
+=== A0A2U0ZPQ9 ===
+DE   SubName: Full=Type IV pilus assembly protein PilN {ECO:0000313|EMBL:PYE17132.1};
+Bit Score: 88.0
+E-value: 0.01219
+Alignment Length: 120
+Percentage Identity: 0.083
+
+=== A0A345DDY7 ===
+DE   RecName: Full=Type II secretion system protein M {ECO:0008006|Google:ProtNLM};
+Bit Score: 78.0
+E-value: 0.01381
+Alignment Length: 131
+Percentage Identity: 0.122
+
+=== A0A2H0LX64 ===
+DE   RecName: Full=Fimbrial assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 92.0
+E-value: 0.0147
+Alignment Length: 108
+Percentage Identity: 0.101
+
+=== A0A838TJ67 ===
+DE   SubName: Full=Histidine kinase {ECO:0000313|EMBL:MBA3674940.1};
+Bit Score: 88.0
+E-value: 0.0147
+Alignment Length: 107
+Percentage Identity: 0.14
+
+=== A0A2G6F969 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PID70521.1};
+Bit Score: 86.0
+E-value: 0.0147
+Alignment Length: 109
+Percentage Identity: 0.119
+
+=== A0A1G1PXK4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OGX46668.1};
+Bit Score: 78.0
+E-value: 0.0147
+Alignment Length: 114
+Percentage Identity: 0.087
+
+=== A0A3R7UFK0 ===
+DE   RecName: Full=GspL cytoplasmic actin-ATPase-like domain-containing protein {ECO:0000259|Pfam:PF05134};
+Bit Score: 71.0
+E-value: 0.0147
+Alignment Length: 105
+Percentage Identity: 0.114
+
+=== A0A1F7LZI2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OGK85504.1};
+Bit Score: 88.0
+E-value: 0.01565
+Alignment Length: 159
+Percentage Identity: 0.119
+
+=== A0A832ZM63 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HIQ02996.1};
+Bit Score: 94.0
+E-value: 0.01666
+Alignment Length: 123
+Percentage Identity: 0.105
+
+=== A0A1T5FX79 ===
+DE   SubName: Full=Signal transduction histidine kinase {ECO:0000313|EMBL:SKC00654.1};
+Bit Score: 92.0
+E-value: 0.01666
+Alignment Length: 106
+Percentage Identity: 0.16
+
+=== A0A382CB42 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SVB23069.1};
+Bit Score: 82.0
+E-value: 0.01666
+Alignment Length: 122
+Percentage Identity: 0.139
+
+=== A0A496Q513 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 81.0
+E-value: 0.01666
+Alignment Length: 126
+Percentage Identity: 0.15
+
+=== A0A7C6UR53 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 80.0
+E-value: 0.01666
+Alignment Length: 115
+Percentage Identity: 0.13
+
+=== A0A4S9H5L8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:THX69797.1};
+Bit Score: 88.0
+E-value: 0.01773
+Alignment Length: 124
+Percentage Identity: 0.145
+
+=== A0A7G9RTP7 ===
+DE   SubName: Full=Histidine kinase {ECO:0000313|EMBL:QNN58972.1};
+Bit Score: 88.0
+E-value: 0.01773
+Alignment Length: 97
+Percentage Identity: 0.123
+
+=== A0A1H4FTD4 ===
+DE   RecName: Full=Fimbrial assembly protein (PilN) {ECO:0008006|Google:ProtNLM};
+Bit Score: 84.0
+E-value: 0.01773
+Alignment Length: 116
+Percentage Identity: 0.086
+
+=== A0A7C5ZP16 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 79.0
+E-value: 0.01773
+Alignment Length: 132
+Percentage Identity: 0.075
+
+=== A0A6C2D7M4 ===
+DE   RecName: Full=Fimbrial assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 75.0
+E-value: 0.01773
+Alignment Length: 124
+Percentage Identity: 0.104
+
+=== A0A381NN66 ===
+DE   RecName: Full=POTRA domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 88.0
+E-value: 0.01888
+Alignment Length: 108
+Percentage Identity: 0.12
+
+=== A0A6J5E9Z5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAB3763308.1};
+Bit Score: 87.0
+E-value: 0.01888
+Alignment Length: 118
+Percentage Identity: 0.11
+
+=== A0A645H1W9 ===
+DE   RecName: Full=Sensor histidine kinase NatK C-terminal domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 83.0
+E-value: 0.01888
+Alignment Length: 101
+Percentage Identity: 0.158
+
+=== A0A3N6PTE4 ===
+DE   SubName: Full=Fimbrial assembly protein {ECO:0000313|EMBL:RQH02916.1};
+Bit Score: 82.0
+E-value: 0.01888
+Alignment Length: 117
+Percentage Identity: 0.145
+
+=== A0A3M7KI18 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 77.0
+E-value: 0.01888
+Alignment Length: 127
+Percentage Identity: 0.141
+
+=== A0A355UY92 ===
+DE   SubName: Full=Pilus assembly protein PilM {ECO:0000313|EMBL:HBN10695.1};
+Bit Score: 68.0
+E-value: 0.01888
+Alignment Length: 131
+Percentage Identity: 0.076
+
+=== A0A2D8RPX1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAM91979.1};
+Bit Score: 85.0
+E-value: 0.02009
+Alignment Length: 117
+Percentage Identity: 0.119
+
+=== A0A7X9E6Y3 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 79.0
+E-value: 0.02009
+Alignment Length: 124
+Percentage Identity: 0.145
+
+=== A0A419DWC2 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 78.0
+E-value: 0.02009
+Alignment Length: 124
+Percentage Identity: 0.145
+
+=== A0A2N1TBT1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PKL36629.1};
+Bit Score: 77.0
+E-value: 0.02009
+Alignment Length: 132
+Percentage Identity: 0.136
+
+=== A0A661KX62 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RLB11643.1};
+Bit Score: 69.0
+E-value: 0.02009
+Alignment Length: 151
+Percentage Identity: 0.112
+
+=== A0A1G1Q195 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 66.0
+E-value: 0.02009
+Alignment Length: 129
+Percentage Identity: 0.124
+
+=== A0A348NWE7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HAQ60858.1};
+Bit Score: 64.0
+E-value: 0.02009
+Alignment Length: 125
+Percentage Identity: 0.128
+
+=== A0A2V6ZLE7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PYN46028.1};
+Bit Score: 113.0
+E-value: 0.02139
+Alignment Length: 65
+Percentage Identity: 0.169
+
+=== A0A1F7CRJ6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OGJ72499.1};
+Bit Score: 86.0
+E-value: 0.02139
+Alignment Length: 128
+Percentage Identity: 0.14
+
+=== A0A1J5RDB9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OIQ90007.1};
+Bit Score: 86.0
+E-value: 0.02139
+Alignment Length: 115
+Percentage Identity: 0.139
+
+=== A0A0G1Y7E2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKW39121.1};
+Bit Score: 82.0
+E-value: 0.02139
+Alignment Length: 120
+Percentage Identity: 0.141
+
+=== A0A4Q6G6G0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RZA25574.1};
+Bit Score: 66.0
+E-value: 0.02139
+Alignment Length: 122
+Percentage Identity: 0.114
+
+=== A0A2A4EUY9 ===
+DE   RecName: Full=Type IV pilus assembly protein PilN {ECO:0008006|Google:ProtNLM};
+Bit Score: 87.0
+E-value: 0.02277
+Alignment Length: 101
+Percentage Identity: 0.148
+
+=== A0A5C4XKI7 ===
+DE   SubName: Full=Two-component sensor histidine kinase {ECO:0000313|EMBL:TNM63150.1};
+Bit Score: 87.0
+E-value: 0.02277
+Alignment Length: 101
+Percentage Identity: 0.128
+
+=== A0A645ATY5 ===
+DE   RecName: Full=histidine kinase {ECO:0000256|ARBA:ARBA00012438};
+DE            EC=2.7.13.3 {ECO:0000256|ARBA:ARBA00012438};
+Bit Score: 76.0
+E-value: 0.02277
+Alignment Length: 135
+Percentage Identity: 0.155
+
+=== A0A7V0MGH9 ===
+DE   RecName: Full=histidine kinase {ECO:0000256|ARBA:ARBA00012438};
+DE            EC=2.7.13.3 {ECO:0000256|ARBA:ARBA00012438};
+DE   Flags: Fragment;
+Bit Score: 72.0
+E-value: 0.02277
+Alignment Length: 118
+Percentage Identity: 0.135
+
+=== A0A3D5P0B2 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 85.0
+E-value: 0.02424
+Alignment Length: 111
+Percentage Identity: 0.162
+
+=== A0A0Q5UD55 ===
+DE   RecName: Full=Signal transduction histidine kinase internal region domain-containing protein {ECO:0000259|Pfam:PF06580};
+Bit Score: 83.0
+E-value: 0.02424
+Alignment Length: 97
+Percentage Identity: 0.134
+
+=== A0A0B1TAJ5 ===
+DE   RecName: Full=SCP domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 80.0
+E-value: 0.02424
+Alignment Length: 84
+Percentage Identity: 0.059
+
+=== A0A0K2Y214 ===
+DE   RecName: Full=Type IV pilus biogenesis protein PilN {ECO:0008006|Google:ProtNLM};
+Bit Score: 77.0
+E-value: 0.02424
+Alignment Length: 106
+Percentage Identity: 0.122
+
+=== A0A1G2VRI6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OHB24227.1};
+Bit Score: 71.0
+E-value: 0.02424
+Alignment Length: 139
+Percentage Identity: 0.143
+
+=== A0A2I0HJG5 ===
+DE   RecName: Full=50S ribosomal protein HLP, mitochondrial {ECO:0008006|Google:ProtNLM};
+Bit Score: 83.0
+E-value: 0.0258
+Alignment Length: 116
+Percentage Identity: 0.129
+
+=== A0A2J6HNW7 ===
+DE   SubName: Full=Histidine kinase {ECO:0000313|EMBL:PLW95712.1};
+Bit Score: 79.0
+E-value: 0.0258
+Alignment Length: 96
+Percentage Identity: 0.145
+
+=== A0A2D5ZH41 ===
+DE   RecName: Full=Type 4a pilus biogenesis protein PilO {ECO:0008006|Google:ProtNLM};
+Bit Score: 88.0
+E-value: 0.02746
+Alignment Length: 110
+Percentage Identity: 0.127
+
+=== A0A419FE08 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 82.0
+E-value: 0.02746
+Alignment Length: 132
+Percentage Identity: 0.128
+
+=== A0A4P8IQI6 ===
+DE   SubName: Full=Fimbrial assembly protein {ECO:0000313|EMBL:QCP51232.1};
+Bit Score: 80.0
+E-value: 0.02746
+Alignment Length: 112
+Percentage Identity: 0.125
+
+=== A0A143PR87 ===
+DE   SubName: Full=Fimbrial assembly protein (PilN) {ECO:0000313|EMBL:AMY10941.1};
+Bit Score: 79.0
+E-value: 0.02746
+Alignment Length: 109
+Percentage Identity: 0.1
+
+=== A0A167HEH0 ===
+DE   SubName: Full=Fimbrial protein {ECO:0000313|EMBL:AOW12123.1};
+Bit Score: 54.0
+E-value: 0.02746
+Alignment Length: 128
+Percentage Identity: 0.117
+
+=== A0A3M2GD81 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 85.0
+E-value: 0.02923
+Alignment Length: 135
+Percentage Identity: 0.103
+
+=== A0A7V4QRI0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HGW57968.1};
+Bit Score: 82.0
+E-value: 0.02923
+Alignment Length: 91
+Percentage Identity: 0.131
+
+=== A0A7Y5N227 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 73.0
+E-value: 0.02923
+Alignment Length: 124
+Percentage Identity: 0.112
+
+=== A0A1G1LRG8 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 69.0
+E-value: 0.02923
+Alignment Length: 120
+Percentage Identity: 0.141
+
+=== A0A350MTJ3 ===
+DE   RecName: Full=Fimbrial assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 67.0
+E-value: 0.02923
+Alignment Length: 129
+Percentage Identity: 0.124
+
+=== A0A261VA10 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 64.0
+E-value: 0.02923
+Alignment Length: 126
+Percentage Identity: 0.142
+
+=== A0A661QT83 ===
+DE   RecName: Full=histidine kinase {ECO:0000256|ARBA:ARBA00012438};
+DE            EC=2.7.13.3 {ECO:0000256|ARBA:ARBA00012438};
+DE   Flags: Fragment;
+Bit Score: 64.0
+E-value: 0.02923
+Alignment Length: 120
+Percentage Identity: 0.066
+
+=== A0A318R0Q9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PYE01079.1};
+Bit Score: 52.0
+E-value: 0.02923
+Alignment Length: 167
+Percentage Identity: 0.107
+
+=== A0A7J3BGX6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HGD85833.1};
+Bit Score: 94.0
+E-value: 0.03111
+Alignment Length: 96
+Percentage Identity: 0.114
+
+=== A0A6B3IQV4 ===
+DE   SubName: Full=Sensor histidine kinase {ECO:0000313|EMBL:NEE59880.1};
+DE   Flags: Fragment;
+Bit Score: 85.0
+E-value: 0.03111
+Alignment Length: 101
+Percentage Identity: 0.108
+
+=== A0A395JML6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RBP51077.1};
+Bit Score: 76.0
+E-value: 0.03111
+Alignment Length: 96
+Percentage Identity: 0.093
+
+=== A0A7V1IET8 ===
+DE   RecName: Full=Pilus assembly protein PilN {ECO:0008006|Google:ProtNLM};
+Bit Score: 74.0
+E-value: 0.03111
+Alignment Length: 122
+Percentage Identity: 0.122
+
+=== A0A3A4JAQ1 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 73.0
+E-value: 0.03111
+Alignment Length: 122
+Percentage Identity: 0.139
+
+=== A0A1I0NST1 ===
+DE   RecName: Full=Histidine kinase {ECO:0008006|Google:ProtNLM};
+Bit Score: 96.0
+E-value: 0.03312
+Alignment Length: 98
+Percentage Identity: 0.091
+
+=== A0A432R7M3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RUM47249.1};
+Bit Score: 94.0
+E-value: 0.03312
+Alignment Length: 125
+Percentage Identity: 0.088
+
+=== A0A3D2EXY1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HCI03293.1};
+Bit Score: 87.0
+E-value: 0.03312
+Alignment Length: 122
+Percentage Identity: 0.131
+
+=== A0A3A0C9Q5 ===
+DE   RecName: Full=FtsK domain-containing protein {ECO:0000259|PROSITE:PS50901};
+Bit Score: 81.0
+E-value: 0.03312
+Alignment Length: 99
+Percentage Identity: 0.141
+
+=== A0A382MTS0 ===
+DE   RecName: Full=POTRA domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 80.0
+E-value: 0.03312
+Alignment Length: 109
+Percentage Identity: 0.119
+
+=== A0A101DGI2 ===
+DE   RecName: Full=Fimbrial assembly family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 68.0
+E-value: 0.03312
+Alignment Length: 124
+Percentage Identity: 0.096
+
+=== A0A1V4R986 ===
+DE   RecName: Full=Fimbrial assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 62.0
+E-value: 0.03312
+Alignment Length: 139
+Percentage Identity: 0.122
+
+=== A0A2K8SWL4 ===
+DE   SubName: Full=SufR, DeoR family transcriptional regulator, suf operon transcriptional repressor {ECO:0000313|EMBL:AUB39743.1};
+Bit Score: 51.0
+E-value: 0.03312
+Alignment Length: 146
+Percentage Identity: 0.109
+
+=== A0A2E1MI83 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 84.0
+E-value: 0.03525
+Alignment Length: 123
+Percentage Identity: 0.138
+
+=== A0A562M878 ===
+DE   SubName: Full=Histidine kinase {ECO:0000313|EMBL:TWI16135.1};
+Bit Score: 82.0
+E-value: 0.03525
+Alignment Length: 101
+Percentage Identity: 0.079
+
+=== A0A4R2NVK2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TCP25631.1};
+Bit Score: 79.0
+E-value: 0.03525
+Alignment Length: 84
+Percentage Identity: 0.095
+
+=== A0A0G0W862 ===
+DE   RecName: Full=Fimbrial assembly family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 78.0
+E-value: 0.03525
+Alignment Length: 122
+Percentage Identity: 0.114
+
+=== A0A0F4JS25 ===
+DE   SubName: Full=Histidine kinase {ECO:0000313|EMBL:KJY35756.1};
+DE   Flags: Fragment;
+Bit Score: 77.0
+E-value: 0.03525
+Alignment Length: 108
+Percentage Identity: 0.111
+
+=== A0A4Q6J6U4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RZD19636.1};
+Bit Score: 76.0
+E-value: 0.03525
+Alignment Length: 146
+Percentage Identity: 0.102
+
+=== A0A2G6P6X1 ===
+DE   RecName: Full=FtsK domain-containing protein {ECO:0000259|PROSITE:PS50901};
+Bit Score: 72.0
+E-value: 0.03525
+Alignment Length: 123
+Percentage Identity: 0.121
+
+=== A0A2H0LDJ0 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 71.0
+E-value: 0.03525
+Alignment Length: 124
+Percentage Identity: 0.161
+
+=== A0A1W9W1R0 ===
+DE   RecName: Full=Fimbrial assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 67.0
+E-value: 0.03525
+Alignment Length: 130
+Percentage Identity: 0.107
+
+=== A0A371JSI4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RDY60765.1};
+Bit Score: 64.0
+E-value: 0.03525
+Alignment Length: 112
+Percentage Identity: 0.098
+
+=== A0A7I8MZ76 ===
+DE   RecName: Full=Type IV pilus biogenesis protein PilM {ECO:0008006|Google:ProtNLM};
+Bit Score: 63.0
+E-value: 0.03525
+Alignment Length: 136
+Percentage Identity: 0.176
+
+=== B3RII2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EDV28425.1};
+Bit Score: 84.0
+E-value: 0.03753
+Alignment Length: 127
+Percentage Identity: 0.07
+
+=== A0A075AB04 ===
+DE   RecName: Full=Core-2/I-Branching enzyme {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 77.0
+E-value: 0.03753
+Alignment Length: 114
+Percentage Identity: 0.157
+
+=== A0A381TVN8 ===
+DE   RecName: Full=GspL periplasmic domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 76.0
+E-value: 0.03753
+Alignment Length: 114
+Percentage Identity: 0.114
+
+=== A0A3R6SRH8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RHV11946.1};
+Bit Score: 73.0
+E-value: 0.03753
+Alignment Length: 125
+Percentage Identity: 0.104
+
+=== A0A7V2JRP6 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 70.0
+E-value: 0.03753
+Alignment Length: 123
+Percentage Identity: 0.13
+
+=== A0A0A1ZLG5 ===
+DE   RecName: Full=Tfp pilus assembly protein PilN {ECO:0008006|Google:ProtNLM};
+Bit Score: 66.0
+E-value: 0.03753
+Alignment Length: 145
+Percentage Identity: 0.137
+
+=== A0A7Z8K3Y3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TKR27476.1};
+Bit Score: 66.0
+E-value: 0.03753
+Alignment Length: 114
+Percentage Identity: 0.122
+
+=== A0A264VWU4 ===
+DE   RecName: Full=DUF3168 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 66.0
+E-value: 0.03753
+Alignment Length: 110
+Percentage Identity: 0.081
+
+=== A0A161WL29 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KZL71766.1};
+Bit Score: 97.0
+E-value: 0.03995
+Alignment Length: 97
+Percentage Identity: 0.123
+
+=== A0A835YEH6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAG2499416.1};
+DE   Flags: Fragment;
+Bit Score: 88.0
+E-value: 0.03995
+Alignment Length: 123
+Percentage Identity: 0.097
+
+=== A0A3N5J752 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 75.0
+E-value: 0.03995
+Alignment Length: 119
+Percentage Identity: 0.126
+
+=== A0A1M7SRZ1 ===
+DE   RecName: Full=Type IV pilus assembly protein PilN {ECO:0008006|Google:ProtNLM};
+Bit Score: 74.0
+E-value: 0.03995
+Alignment Length: 113
+Percentage Identity: 0.115
+
+=== A0A838RRQ5 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 72.0
+E-value: 0.03995
+Alignment Length: 127
+Percentage Identity: 0.125
+
+=== A0A3D4FCC4 ===
+DE   RecName: Full=GspL periplasmic domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 69.0
+E-value: 0.03995
+Alignment Length: 115
+Percentage Identity: 0.095
+
+=== A0A3D0XDT6 ===
+DE   RecName: Full=Fimbrial assembly protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 66.0
+E-value: 0.03995
+Alignment Length: 119
+Percentage Identity: 0.075
+
+=== A0A7X7GDW6 ===
+DE   SubName: Full=Type 4a pilus biogenesis protein PilO {ECO:0000313|EMBL:NLE74777.1};
+Bit Score: 57.0
+E-value: 0.03995
+Alignment Length: 107
+Percentage Identity: 0.121
+
+=== A0A2E2VAC3 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 70.0
+E-value: 0.04252
+Alignment Length: 130
+Percentage Identity: 0.092
+
+=== A0A2H0LVC3 ===
+DE   RecName: Full=Fimbrial assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 66.0
+E-value: 0.04252
+Alignment Length: 118
+Percentage Identity: 0.101
+
+=== A0A7C0XBG3 ===
+DE   RecName: Full=GspL periplasmic domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 54.0
+E-value: 0.04252
+Alignment Length: 122
+Percentage Identity: 0.122
+
+=== A0A523TMQ2 ===
+DE   RecName: Full=Pilus assembly protein PilM {ECO:0008006|Google:ProtNLM};
+Bit Score: 93.0
+E-value: 0.04526
+Alignment Length: 105
+Percentage Identity: 0.066
+
+=== A0A661UQH0 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 79.0
+E-value: 0.04526
+Alignment Length: 127
+Percentage Identity: 0.102
+
+=== A0A538QE70 ===
+DE   RecName: Full=histidine kinase {ECO:0000256|ARBA:ARBA00012438};
+DE            EC=2.7.13.3 {ECO:0000256|ARBA:ARBA00012438};
+Bit Score: 79.0
+E-value: 0.04526
+Alignment Length: 96
+Percentage Identity: 0.093
+
+=== A0A413E359 ===
+DE   RecName: Full=ATP-binding protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 78.0
+E-value: 0.04526
+Alignment Length: 96
+Percentage Identity: 0.114
+
+=== A0A660ZFW1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RKZ00456.1};
+Bit Score: 76.0
+E-value: 0.04526
+Alignment Length: 95
+Percentage Identity: 0.147
+
+=== A0A4R6ESJ8 ===
+DE   SubName: Full=Histidine kinase/DNA gyrase B/HSP90-like ATPase {ECO:0000313|EMBL:TDN62594.1};
+Bit Score: 75.0
+E-value: 0.04526
+Alignment Length: 106
+Percentage Identity: 0.075
+
+=== A0A6L7X9H8 ===
+DE   RecName: Full=histidine kinase {ECO:0000256|ARBA:ARBA00012438};
+DE            EC=2.7.13.3 {ECO:0000256|ARBA:ARBA00012438};
+DE   Flags: Fragment;
+Bit Score: 67.0
+E-value: 0.04526
+Alignment Length: 108
+Percentage Identity: 0.064
+
+=== A0A0V0TUE4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KRX42183.1};
+Bit Score: 60.0
+E-value: 0.04526
+Alignment Length: 121
+Percentage Identity: 0.107
+
+=== A0A660V9F2 ===
+DE   RecName: Full=FtsK domain-containing protein {ECO:0000259|PROSITE:PS50901};
+DE   Flags: Fragment;
+Bit Score: 91.0
+E-value: 0.04818
+Alignment Length: 91
+Percentage Identity: 0.087
+
+=== E0NS89 ===
+DE   SubName: Full=Histidine kinase {ECO:0000313|EMBL:EFM02052.1};
+Bit Score: 80.0
+E-value: 0.04818
+Alignment Length: 98
+Percentage Identity: 0.122
+
+=== A0A532UYC7 ===
+DE   RecName: Full=Pilus assembly protein PilN {ECO:0008006|Google:ProtNLM};
+Bit Score: 80.0
+E-value: 0.04818
+Alignment Length: 116
+Percentage Identity: 0.12
+
+=== A0A484NC58 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VFQ98157.1};
+Bit Score: 80.0
+E-value: 0.04818
+Alignment Length: 128
+Percentage Identity: 0.093
+
+=== A0A1N6L8K9 ===
+DE   SubName: Full=Type IV pilus assembly protein PilN {ECO:0000313|EMBL:SIO65103.1};
+Bit Score: 66.0
+E-value: 0.04818
+Alignment Length: 128
+Percentage Identity: 0.117
+
+=== A0A2E1PCZ3 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 55.0
+E-value: 0.04818
+Alignment Length: 140
+Percentage Identity: 0.107
+

@@ -1,0 +1,133 @@
+=== A0A6H0ZIF0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QIX20606.1};
+Bit Score: 253.0
+E-value: 5.924e-06
+Alignment Length: 65
+Percentage Identity: 0.461
+
+=== A0A1M3KSX6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OJX54717.1};
+Bit Score: 247.0
+E-value: 6.774e-06
+Alignment Length: 70
+Percentage Identity: 0.4
+
+=== A0A4P6L5D8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QBE66849.1};
+Bit Score: 266.0
+E-value: 8.858e-06
+Alignment Length: 67
+Percentage Identity: 0.417
+
+=== A0A7W6N6M1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB4039133.1};
+Bit Score: 250.0
+E-value: 1.013e-05
+Alignment Length: 68
+Percentage Identity: 0.441
+
+=== A0A259PLI7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OZB49756.1};
+Bit Score: 253.0
+E-value: 1.239e-05
+Alignment Length: 67
+Percentage Identity: 0.373
+
+=== A0A1L3ZS68 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:API58481.1};
+Bit Score: 258.0
+E-value: 1.514e-05
+Alignment Length: 67
+Percentage Identity: 0.298
+
+=== A0A1A9T4I6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OAM52909.1};
+Bit Score: 239.0
+E-value: 1.98e-05
+Alignment Length: 68
+Percentage Identity: 0.382
+
+=== A0A1L3ZSE1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:API58553.1};
+Bit Score: 240.0
+E-value: 2.589e-05
+Alignment Length: 60
+Percentage Identity: 0.35
+
+=== A0A1X7KQA6 ===
+DE   RecName: Full=ArnR1-like winged helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 242.0
+E-value: 2.961e-05
+Alignment Length: 63
+Percentage Identity: 0.396
+
+=== A0A6I3KEY0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MTD92893.1};
+Bit Score: 224.0
+E-value: 5.414e-05
+Alignment Length: 70
+Percentage Identity: 0.328
+
+=== A0A1W0DCZ0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OQS44850.1};
+Bit Score: 219.0
+E-value: 7.57e-05
+Alignment Length: 68
+Percentage Identity: 0.367
+
+=== A0A0Q6XFY7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KQW02226.1};
+Bit Score: 192.0
+E-value: 0.000121
+Alignment Length: 70
+Percentage Identity: 0.271
+
+=== A0A855JVK6 ===
+DE   RecName: Full=HNS binding protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 211.0
+E-value: 0.000181
+Alignment Length: 67
+Percentage Identity: 0.358
+
+=== A0A1M6MFS9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SHJ82298.1};
+Bit Score: 211.0
+E-value: 0.0001935
+Alignment Length: 69
+Percentage Identity: 0.362
+
+=== A8IFA6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:BAF89594.1};
+Bit Score: 175.0
+E-value: 0.0004626
+Alignment Length: 60
+Percentage Identity: 0.4
+
+=== A0A2A4Z213 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PCJ00608.1};
+Bit Score: 190.0
+E-value: 0.000529
+Alignment Length: 66
+Percentage Identity: 0.303
+
+=== A0A7X6FNL5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NKW09125.1};
+Bit Score: 193.0
+E-value: 0.0005657
+Alignment Length: 69
+Percentage Identity: 0.333
+
+=== A0A158DMU7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SAK95740.1};
+Bit Score: 194.0
+E-value: 0.0006469
+Alignment Length: 68
+Percentage Identity: 0.279
+
+=== A0A0F9I0D8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKM12062.1};
+Bit Score: 106.0
+E-value: 0.03379
+Alignment Length: 83
+Percentage Identity: 0.204
+

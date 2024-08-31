@@ -1,0 +1,29 @@
+=== A0A2T1LXV4 ===
+DE   RecName: Full=protein-serine/threonine phosphatase {ECO:0000256|ARBA:ARBA00013081};
+DE            EC=3.1.3.16 {ECO:0000256|ARBA:ARBA00013081};
+Bit Score: 101.0
+E-value: 0.02506
+Alignment Length: 105
+Percentage Identity: 0.104
+
+=== A0A847X599 ===
+DE   SubName: Full=SH3 domain-containing protein {ECO:0000313|EMBL:NMB14200.1};
+Bit Score: 86.0
+E-value: 0.035
+Alignment Length: 85
+Percentage Identity: 0.176
+
+=== A0A081BHG2 ===
+DE   RecName: Full=Extracellular protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 76.0
+E-value: 0.03701
+Alignment Length: 88
+Percentage Identity: 0.215
+
+=== A0A7Y6PRP1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NVB80649.1};
+Bit Score: 119.0
+E-value: 0.04374
+Alignment Length: 81
+Percentage Identity: 0.123
+

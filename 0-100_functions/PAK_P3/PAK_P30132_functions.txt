@@ -1,0 +1,7 @@
+=== A0A241XDP0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OTI46480.1};
+Bit Score: 440.0
+E-value: 1.665e-10
+Alignment Length: 73
+Percentage Identity: 0.917
+

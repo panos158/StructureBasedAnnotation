@@ -1,0 +1,50 @@
+=== A0A497B1B6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RLC80412.1};
+Bit Score: 72.0
+E-value: 0.03027
+Alignment Length: 120
+Percentage Identity: 0.175
+
+=== A0A0B8T2P3 ===
+DE   SubName: Full=Nematoblast specific protein {ECO:0000313|EMBL:KGE15627.1};
+Bit Score: 56.0
+E-value: 0.0337
+Alignment Length: 156
+Percentage Identity: 0.147
+
+=== A0A7C9HQS1 ===
+DE   RecName: Full=Fibronectin type-III domain-containing protein {ECO:0000259|PROSITE:PS50853};
+Bit Score: 53.0
+E-value: 0.03556
+Alignment Length: 100
+Percentage Identity: 0.14
+
+=== A0A137SV89 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 59.0
+E-value: 0.03752
+Alignment Length: 148
+Percentage Identity: 0.141
+
+=== A0A538HQI0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TML67488.1};
+Bit Score: 84.0
+E-value: 0.03958
+Alignment Length: 71
+Percentage Identity: 0.154
+
+=== A0A2D9Y7E2 ===
+DE   RecName: Full=Peptidoglycan binding-like domain-containing protein {ECO:0000259|Pfam:PF01471};
+DE   Flags: Fragment;
+Bit Score: 79.0
+E-value: 0.03958
+Alignment Length: 101
+Percentage Identity: 0.118
+
+=== A0A183NW74 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VDP33509.1};
+Bit Score: 89.0
+E-value: 0.04906
+Alignment Length: 80
+Percentage Identity: 0.1
+

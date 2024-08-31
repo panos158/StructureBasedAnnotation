@@ -1,0 +1,35 @@
+=== A0A2E7I0Z4 ===
+DE   RecName: Full=Portal protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 151.0
+E-value: 0.005705
+Alignment Length: 72
+Percentage Identity: 0.291
+
+=== A0A4Q5TLX3 ===
+DE   RecName: Full=Portal protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 149.0
+E-value: 0.01073
+Alignment Length: 68
+Percentage Identity: 0.323
+
+=== A0A3D1MCP1 ===
+DE   RecName: Full=Portal protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.02439
+Alignment Length: 79
+Percentage Identity: 0.202
+
+=== A0A709SQ01 ===
+DE   RecName: Full=Portal protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.04042
+Alignment Length: 63
+Percentage Identity: 0.222
+
+=== A0A1T4V619 ===
+DE   RecName: Full=Portal protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 130.0
+E-value: 0.04042
+Alignment Length: 60
+Percentage Identity: 0.3
+

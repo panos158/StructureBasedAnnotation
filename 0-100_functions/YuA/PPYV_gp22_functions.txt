@@ -1,0 +1,198 @@
+=== A0A6I5WE68 ===
+DE   SubName: Full=DUF4326 domain-containing protein {ECO:0000313|EMBL:QGN48637.1};
+Bit Score: 193.0
+E-value: 0.001596
+Alignment Length: 57
+Percentage Identity: 0.473
+
+=== A0A530M2D5 ===
+DE   SubName: Full=DUF4326 domain-containing protein {ECO:0000313|EMBL:TIX45449.1};
+Bit Score: 191.0
+E-value: 0.003295
+Alignment Length: 50
+Percentage Identity: 0.58
+
+=== A0A531KGW2 ===
+DE   SubName: Full=DUF4326 domain-containing protein {ECO:0000313|EMBL:TJW72644.1};
+Bit Score: 193.0
+E-value: 0.004735
+Alignment Length: 51
+Percentage Identity: 0.647
+
+=== A0A381Y2N5 ===
+DE   RecName: Full=DUF4326 domain-containing protein {ECO:0000259|Pfam:PF14216};
+DE   Flags: Fragment;
+Bit Score: 173.0
+E-value: 0.004735
+Alignment Length: 57
+Percentage Identity: 0.614
+
+=== A0A4D4MJU6 ===
+DE   RecName: Full=DUF4326 domain-containing protein {ECO:0000259|Pfam:PF14216};
+Bit Score: 158.0
+E-value: 0.006405
+Alignment Length: 48
+Percentage Identity: 0.583
+
+=== A0A497BVX2 ===
+DE   RecName: Full=DUF4326 domain-containing protein {ECO:0000259|Pfam:PF14216};
+Bit Score: 191.0
+E-value: 0.006804
+Alignment Length: 51
+Percentage Identity: 0.588
+
+=== A0A2P9ARJ4 ===
+DE   RecName: Full=DUF4326 domain-containing protein {ECO:0000259|Pfam:PF14216};
+Bit Score: 184.0
+E-value: 0.007228
+Alignment Length: 51
+Percentage Identity: 0.607
+
+=== A0A0F9CLY7 ===
+DE   RecName: Full=DUF4326 domain-containing protein {ECO:0000259|Pfam:PF14216};
+Bit Score: 164.0
+E-value: 0.007678
+Alignment Length: 64
+Percentage Identity: 0.484
+
+=== A0A532C7P6 ===
+DE   SubName: Full=DUF4326 domain-containing protein {ECO:0000313|EMBL:TKB59617.1};
+Bit Score: 180.0
+E-value: 0.01039
+Alignment Length: 51
+Percentage Identity: 0.607
+
+=== A0A381WRQ8 ===
+DE   RecName: Full=DUF4326 domain-containing protein {ECO:0000259|Pfam:PF14216};
+DE   Flags: Fragment;
+Bit Score: 153.0
+E-value: 0.01039
+Alignment Length: 63
+Percentage Identity: 0.539
+
+=== A0A4S5BH13 ===
+DE   SubName: Full=DUF4326 domain-containing protein {ECO:0000313|EMBL:THJ30103.1};
+Bit Score: 147.0
+E-value: 0.01103
+Alignment Length: 65
+Percentage Identity: 0.461
+
+=== A0A1W1WPK6 ===
+DE   RecName: Full=DUF4326 domain-containing protein {ECO:0000259|Pfam:PF14216};
+Bit Score: 174.0
+E-value: 0.01245
+Alignment Length: 53
+Percentage Identity: 0.66
+
+=== A0A0F9SG51 ===
+DE   RecName: Full=DUF4326 domain-containing protein {ECO:0000259|Pfam:PF14216};
+Bit Score: 174.0
+E-value: 0.01322
+Alignment Length: 53
+Percentage Identity: 0.566
+
+=== A0A317K7N9 ===
+DE   RecName: Full=DUF4326 domain-containing protein {ECO:0000259|Pfam:PF14216};
+Bit Score: 152.0
+E-value: 0.01322
+Alignment Length: 61
+Percentage Identity: 0.491
+
+=== A0A7C5BXP3 ===
+DE   SubName: Full=DUF4326 domain-containing protein {ECO:0000313|EMBL:HHA49277.1};
+Bit Score: 146.0
+E-value: 0.01322
+Alignment Length: 63
+Percentage Identity: 0.507
+
+=== A0A3S3M889 ===
+DE   SubName: Full=DUF4326 domain-containing protein {ECO:0000313|EMBL:RWP23595.1};
+Bit Score: 157.0
+E-value: 0.01492
+Alignment Length: 61
+Percentage Identity: 0.54
+
+=== A0A0Q0XYN8 ===
+DE   RecName: Full=DUF4326 domain-containing protein {ECO:0000259|Pfam:PF14216};
+Bit Score: 170.0
+E-value: 0.019
+Alignment Length: 50
+Percentage Identity: 0.52
+
+=== A0A816GK95 ===
+DE   RecName: Full=DUF4326 domain-containing protein {ECO:0000259|Pfam:PF14216};
+Bit Score: 157.0
+E-value: 0.0242
+Alignment Length: 50
+Percentage Identity: 0.5
+
+=== A0A3L7NBI9 ===
+DE   SubName: Full=DUF4326 domain-containing protein {ECO:0000313|EMBL:RLS30096.1};
+Bit Score: 161.0
+E-value: 0.02571
+Alignment Length: 53
+Percentage Identity: 0.547
+
+=== A0A4R1AP53 ===
+DE   SubName: Full=DUF4326 domain-containing protein {ECO:0000313|EMBL:TCJ01146.1};
+Bit Score: 159.0
+E-value: 0.02571
+Alignment Length: 55
+Percentage Identity: 0.563
+
+=== A0A7W1UEW5 ===
+DE   SubName: Full=DUF4326 domain-containing protein {ECO:0000313|EMBL:MBA3966698.1};
+Bit Score: 158.0
+E-value: 0.02571
+Alignment Length: 55
+Percentage Identity: 0.472
+
+=== A0A0F9KZD7 ===
+DE   RecName: Full=DUF4326 domain-containing protein {ECO:0000259|Pfam:PF14216};
+Bit Score: 160.0
+E-value: 0.02901
+Alignment Length: 49
+Percentage Identity: 0.448
+
+=== A0A7J4GEK0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:HIE81314.1};
+Bit Score: 152.0
+E-value: 0.03081
+Alignment Length: 57
+Percentage Identity: 0.543
+
+=== A0A424P854 ===
+DE   SubName: Full=DUF4326 domain-containing protein {ECO:0000313|EMBL:RPG63224.1};
+Bit Score: 147.0
+E-value: 0.03081
+Alignment Length: 60
+Percentage Identity: 0.516
+
+=== A0A2S8VCE5 ===
+DE   RecName: Full=DUF4326 domain-containing protein {ECO:0000259|Pfam:PF14216};
+Bit Score: 118.0
+E-value: 0.03477
+Alignment Length: 67
+Percentage Identity: 0.417
+
+=== A0A7K3E7P5 ===
+DE   SubName: Full=DUF4326 domain-containing protein {ECO:0000313|EMBL:MZD18955.1};
+Bit Score: 154.0
+E-value: 0.03924
+Alignment Length: 52
+Percentage Identity: 0.557
+
+=== A0A1I7LJ31 ===
+DE   RecName: Full=DUF4326 domain-containing protein {ECO:0000259|Pfam:PF14216};
+Bit Score: 161.0
+E-value: 0.04168
+Alignment Length: 51
+Percentage Identity: 0.549
+
+=== S2YJG3 ===
+DE   RecName: Full=DUF4326 domain-containing protein {ECO:0000259|Pfam:PF14216};
+Bit Score: 147.0
+E-value: 0.04168
+Alignment Length: 54
+Percentage Identity: 0.5
+

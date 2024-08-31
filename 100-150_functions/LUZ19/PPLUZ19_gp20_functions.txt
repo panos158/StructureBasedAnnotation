@@ -1,0 +1,14 @@
+=== A0A6M3L9K6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QJA91536.1};
+Bit Score: 159.0
+E-value: 0.0004744
+Alignment Length: 79
+Percentage Identity: 0.303
+
+=== X0YLM3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAG57159.1};
+Bit Score: 112.0
+E-value: 0.02459
+Alignment Length: 75
+Percentage Identity: 0.306
+

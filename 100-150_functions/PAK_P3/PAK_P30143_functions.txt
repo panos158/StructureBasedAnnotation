@@ -1,0 +1,3474 @@
+=== A0A7X1Y7S1 ===
+DE   SubName: Full=Proteasome subunit beta {ECO:0000313|EMBL:MQU32154.1};
+Bit Score: 675.0
+E-value: 4.069e-16
+Alignment Length: 144
+Percentage Identity: 0.437
+
+=== A0A1H1CVZ2 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 653.0
+E-value: 9.64e-16
+Alignment Length: 144
+Percentage Identity: 0.451
+
+=== A0A010SSP3 ===
+DE   SubName: Full=Proteasome subunit beta {ECO:0000313|EMBL:EXF95790.1};
+Bit Score: 570.0
+E-value: 2.145e-13
+Alignment Length: 143
+Percentage Identity: 0.377
+
+=== A0A1H2ENY4 ===
+DE   SubName: Full=20S proteasome, alpha and beta subunits {ECO:0000313|EMBL:SDT96815.1};
+Bit Score: 543.0
+E-value: 1.013e-12
+Alignment Length: 146
+Percentage Identity: 0.342
+
+=== F3G890 ===
+DE   SubName: Full=Proteasome beta subunit {ECO:0000313|EMBL:EGH43290.1};
+Bit Score: 510.0
+E-value: 3.802e-12
+Alignment Length: 143
+Percentage Identity: 0.377
+
+=== A0A836PLC0 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 468.0
+E-value: 1.511e-11
+Alignment Length: 146
+Percentage Identity: 0.301
+
+=== A0A661HGD4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RLA57903.1};
+Bit Score: 434.0
+E-value: 4.773e-11
+Alignment Length: 147
+Percentage Identity: 0.34
+
+=== A0A3S0F5Q6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RTM07409.1};
+Bit Score: 403.0
+E-value: 5.055e-11
+Alignment Length: 148
+Percentage Identity: 0.29
+
+=== A0A084TFF1 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 456.0
+E-value: 8.482e-11
+Alignment Length: 143
+Percentage Identity: 0.335
+
+=== A0A0F9PV44 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKN04936.1};
+Bit Score: 400.0
+E-value: 8.984e-11
+Alignment Length: 155
+Percentage Identity: 0.296
+
+=== A0A1I3LI45 ===
+DE   RecName: Full=Bacteriophage lambda head decoration protein D {ECO:0008006|Google:ProtNLM};
+Bit Score: 399.0
+E-value: 9.516e-11
+Alignment Length: 145
+Percentage Identity: 0.337
+
+=== E6VL54 ===
+DE   SubName: Full=20S proteasome A and B subunits {ECO:0000313|EMBL:ADU44549.1};
+Bit Score: 395.0
+E-value: 9.516e-11
+Alignment Length: 152
+Percentage Identity: 0.342
+
+=== A0A1D9LC26 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AOZ48828.1};
+Bit Score: 396.0
+E-value: 1.198e-10
+Alignment Length: 149
+Percentage Identity: 0.362
+
+=== A0A162BK84 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 382.0
+E-value: 1.791e-10
+Alignment Length: 150
+Percentage Identity: 0.3
+
+=== A0A836PPD8 ===
+DE   RecName: Full=Proteasome subunit alpha {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 420.0
+E-value: 1.897e-10
+Alignment Length: 147
+Percentage Identity: 0.272
+
+=== A0A7C9L1F0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MPW31923.1};
+Bit Score: 398.0
+E-value: 1.897e-10
+Alignment Length: 152
+Percentage Identity: 0.309
+
+=== A0A329B6J2 ===
+DE   SubName: Full=ATP-dependent protease HslVU (ClpYQ) peptidase subunit {ECO:0000313|EMBL:RAS14836.1};
+Bit Score: 402.0
+E-value: 2.128e-10
+Alignment Length: 146
+Percentage Identity: 0.287
+
+=== A0A1T5BUS5 ===
+DE   RecName: Full=ATP-dependent protease HslVU (ClpYQ), peptidase subunit {ECO:0008006|Google:ProtNLM};
+Bit Score: 376.0
+E-value: 2.837e-10
+Alignment Length: 143
+Percentage Identity: 0.328
+
+=== A0A167G7W8 ===
+DE   RecName: Full=Proteasome subunit alpha {ECO:0008006|Google:ProtNLM};
+Bit Score: 432.0
+E-value: 3.005e-10
+Alignment Length: 144
+Percentage Identity: 0.263
+
+=== A0A7W1L6E9 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 385.0
+E-value: 4.006e-10
+Alignment Length: 148
+Percentage Identity: 0.31
+
+=== A0A166WM63 ===
+DE   RecName: Full=Proteasome subunit alpha {ECO:0008006|Google:ProtNLM};
+Bit Score: 425.0
+E-value: 4.761e-10
+Alignment Length: 144
+Percentage Identity: 0.25
+
+=== A0A5S3R8G8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TMN33484.1};
+Bit Score: 396.0
+E-value: 5.042e-10
+Alignment Length: 146
+Percentage Identity: 0.267
+
+=== A0A3A4QLM8 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 373.0
+E-value: 5.657e-10
+Alignment Length: 148
+Percentage Identity: 0.27
+
+=== A0A7C3D4V2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HFD86878.1};
+Bit Score: 380.0
+E-value: 5.992e-10
+Alignment Length: 146
+Percentage Identity: 0.26
+
+=== A0A4R5HFC0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TDF41579.1};
+Bit Score: 355.0
+E-value: 6.722e-10
+Alignment Length: 159
+Percentage Identity: 0.238
+
+=== A0A1I1P3X3 ===
+DE   SubName: Full=ATP-dependent protease HslVU (ClpYQ), peptidase subunit {ECO:0000313|EMBL:SFD04529.1};
+Bit Score: 413.0
+E-value: 7.541e-10
+Alignment Length: 142
+Percentage Identity: 0.267
+
+=== A0A5S4YWW5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TYO65499.1};
+Bit Score: 367.0
+E-value: 7.988e-10
+Alignment Length: 149
+Percentage Identity: 0.288
+
+=== A0A7X5QS28 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NID14376.1};
+Bit Score: 370.0
+E-value: 8.46e-10
+Alignment Length: 148
+Percentage Identity: 0.31
+
+=== A0A0F5PFR7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKC27327.1};
+Bit Score: 372.0
+E-value: 8.961e-10
+Alignment Length: 147
+Percentage Identity: 0.272
+
+=== A0A344UPJ4 ===
+DE   RecName: Full=DRBM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 379.0
+E-value: 9.491e-10
+Alignment Length: 150
+Percentage Identity: 0.286
+
+=== A0A4Z0F7V4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TFZ81621.1};
+Bit Score: 354.0
+E-value: 1.128e-09
+Alignment Length: 156
+Percentage Identity: 0.282
+
+=== A0A1G4UPG6 ===
+DE   SubName: Full=ATP-dependent HslUV protease, peptidase subunit HslV {ECO:0000313|EMBL:SCW95543.1};
+Bit Score: 369.0
+E-value: 1.195e-09
+Alignment Length: 149
+Percentage Identity: 0.261
+
+=== A0A545U063 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 391.0
+E-value: 1.419e-09
+Alignment Length: 152
+Percentage Identity: 0.282
+
+=== A0A1V5ZEC3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OQB38605.1};
+Bit Score: 355.0
+E-value: 1.787e-09
+Alignment Length: 143
+Percentage Identity: 0.3
+
+=== A0A2G5QL84 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PIB91272.1};
+Bit Score: 334.0
+E-value: 1.892e-09
+Alignment Length: 148
+Percentage Identity: 0.317
+
+=== A0A1S2DCH9 ===
+DE   SubName: Full=20S proteasome subunit A/B {ECO:0000313|EMBL:OHZ01418.1};
+Bit Score: 377.0
+E-value: 2.004e-09
+Alignment Length: 142
+Percentage Identity: 0.267
+
+=== A0A6M1LGE4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NGM19182.1};
+Bit Score: 346.0
+E-value: 2.004e-09
+Alignment Length: 147
+Percentage Identity: 0.272
+
+=== A0A2W4RRI6 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 356.0
+E-value: 2.123e-09
+Alignment Length: 143
+Percentage Identity: 0.349
+
+=== A0A2A3BIP9 ===
+DE   RecName: Full=Peptidase {ECO:0008006|Google:ProtNLM};
+Bit Score: 351.0
+E-value: 2.123e-09
+Alignment Length: 150
+Percentage Identity: 0.313
+
+=== A0A439RFA3 ===
+DE   RecName: Full=Peptidase S14 {ECO:0008006|Google:ProtNLM};
+Bit Score: 357.0
+E-value: 2.382e-09
+Alignment Length: 154
+Percentage Identity: 0.331
+
+=== A0A5W4PV01 ===
+DE   RecName: Full=Peptidase of the HslV family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 353.0
+E-value: 2.672e-09
+Alignment Length: 165
+Percentage Identity: 0.284
+
+=== A0A7X9WIB2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NML04281.1};
+Bit Score: 356.0
+E-value: 2.83e-09
+Alignment Length: 144
+Percentage Identity: 0.298
+
+=== A0A0G1YTW4 ===
+DE   SubName: Full=20S proteasome A and B subunit {ECO:0000313|EMBL:KKW09809.1};
+Bit Score: 346.0
+E-value: 3.175e-09
+Alignment Length: 157
+Percentage Identity: 0.242
+
+=== A0A1H4SNQ7 ===
+DE   RecName: Full=ATP-dependent protease HslVU (ClpYQ), peptidase subunit {ECO:0008006|Google:ProtNLM};
+Bit Score: 349.0
+E-value: 3.562e-09
+Alignment Length: 155
+Percentage Identity: 0.29
+
+=== A0A7C9K0J4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MPW30475.1};
+Bit Score: 375.0
+E-value: 3.996e-09
+Alignment Length: 153
+Percentage Identity: 0.261
+
+=== A0A5C7PXQ6 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 329.0
+E-value: 3.996e-09
+Alignment Length: 153
+Percentage Identity: 0.281
+
+=== A0A167GZ39 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KZN57457.1};
+Bit Score: 357.0
+E-value: 4.483e-09
+Alignment Length: 149
+Percentage Identity: 0.255
+
+=== A0A724J992 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HAE0259444.1};
+Bit Score: 355.0
+E-value: 6.33e-09
+Alignment Length: 152
+Percentage Identity: 0.263
+
+=== A0A6H1ZBD9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QJA44874.1};
+Bit Score: 345.0
+E-value: 7.522e-09
+Alignment Length: 148
+Percentage Identity: 0.222
+
+=== A0A7W5EKK5 ===
+DE   SubName: Full=ATP-dependent protease HslVU (ClpYQ) peptidase subunit {ECO:0000313|EMBL:MBB3227014.1};
+Bit Score: 345.0
+E-value: 7.967e-09
+Alignment Length: 150
+Percentage Identity: 0.306
+
+=== A0A844HMN5 ===
+DE   RecName: Full=ATP-dependent protease HslVU (ClpYQ), peptidase subunit {ECO:0008006|Google:ProtNLM};
+Bit Score: 329.0
+E-value: 1.003e-08
+Alignment Length: 149
+Percentage Identity: 0.281
+
+=== A0A225M559 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OWT55260.1};
+Bit Score: 344.0
+E-value: 1.191e-08
+Alignment Length: 148
+Percentage Identity: 0.263
+
+=== A0A6M3Y1C0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QJI04021.1};
+Bit Score: 332.0
+E-value: 1.262e-08
+Alignment Length: 148
+Percentage Identity: 0.243
+
+=== A0A2S5M849 ===
+DE   RecName: Full=20S proteasome subunit A/B {ECO:0008006|Google:ProtNLM};
+Bit Score: 332.0
+E-value: 1.5e-08
+Alignment Length: 149
+Percentage Identity: 0.255
+
+=== A0A2W5TTB7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PZQ99197.1};
+Bit Score: 306.0
+E-value: 1.588e-08
+Alignment Length: 144
+Percentage Identity: 0.326
+
+=== A0A379PPJ9 ===
+DE   SubName: Full=Proteasome subunit beta {ECO:0000313|EMBL:SUE95774.1};
+Bit Score: 349.0
+E-value: 1.999e-08
+Alignment Length: 155
+Percentage Identity: 0.277
+
+=== A0A3N6P026 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RQH06613.1};
+Bit Score: 305.0
+E-value: 1.999e-08
+Alignment Length: 178
+Percentage Identity: 0.247
+
+=== A0A635R8R3 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 318.0
+E-value: 2.117e-08
+Alignment Length: 177
+Percentage Identity: 0.259
+
+=== A0A0F9H7U3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKL77715.1};
+Bit Score: 322.0
+E-value: 2.243e-08
+Alignment Length: 157
+Percentage Identity: 0.273
+
+=== A0A2E6KND3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBK68003.1};
+Bit Score: 303.0
+E-value: 2.243e-08
+Alignment Length: 171
+Percentage Identity: 0.216
+
+=== A0A6I2IW59 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MRT15301.1};
+Bit Score: 315.0
+E-value: 2.375e-08
+Alignment Length: 161
+Percentage Identity: 0.26
+
+=== A0A4Z1R588 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:UYZ08246.1};
+Bit Score: 302.0
+E-value: 2.823e-08
+Alignment Length: 152
+Percentage Identity: 0.236
+
+=== A0A4Y9S390 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TFW15965.1};
+Bit Score: 322.0
+E-value: 2.99e-08
+Alignment Length: 150
+Percentage Identity: 0.273
+
+=== A0A4P5P4U5 ===
+DE   SubName: Full=20S proteasome subunits A/B {ECO:0000313|EMBL:GCE85156.1};
+Bit Score: 316.0
+E-value: 2.99e-08
+Alignment Length: 145
+Percentage Identity: 0.248
+
+=== A0A5S9TXR0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAA0144777.1};
+Bit Score: 295.0
+E-value: 3.553e-08
+Alignment Length: 176
+Percentage Identity: 0.232
+
+=== A0A3L7AHS5 ===
+DE   SubName: Full=Peptidase S14 {ECO:0000313|EMBL:RLP79505.1};
+Bit Score: 319.0
+E-value: 3.763e-08
+Alignment Length: 150
+Percentage Identity: 0.273
+
+=== A4Y2S8 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0000255|HAMAP-Rule:MF_00248};
+DE            EC=3.4.25.2 {ECO:0000255|HAMAP-Rule:MF_00248};
+Bit Score: 276.0
+E-value: 5.313e-08
+Alignment Length: 176
+Percentage Identity: 0.176
+
+=== A0A854E0W1 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 318.0
+E-value: 5.628e-08
+Alignment Length: 148
+Percentage Identity: 0.297
+
+=== A0A7W5GRR5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB3176252.1};
+Bit Score: 314.0
+E-value: 6.314e-08
+Alignment Length: 149
+Percentage Identity: 0.234
+
+=== A0A5C7JPR1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TXG83282.1};
+Bit Score: 307.0
+E-value: 6.314e-08
+Alignment Length: 168
+Percentage Identity: 0.25
+
+=== A0A149QPL2 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 306.0
+E-value: 6.314e-08
+Alignment Length: 152
+Percentage Identity: 0.282
+
+=== A0A564M6B5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VUS89021.1};
+Bit Score: 308.0
+E-value: 8.417e-08
+Alignment Length: 161
+Percentage Identity: 0.229
+
+=== A0A0A2WI90 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KGQ19906.1};
+Bit Score: 294.0
+E-value: 8.915e-08
+Alignment Length: 145
+Percentage Identity: 0.248
+
+=== A0A2E8I762 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBQ50561.1};
+Bit Score: 317.0
+E-value: 9.442e-08
+Alignment Length: 154
+Percentage Identity: 0.207
+
+=== A0A1G7P678 ===
+DE   SubName: Full=Proteasome beta subunit {ECO:0000313|EMBL:SDF81768.1};
+Bit Score: 249.0
+E-value: 9.442e-08
+Alignment Length: 177
+Percentage Identity: 0.209
+
+=== A0A480BWW8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HCZ49097.1};
+Bit Score: 305.0
+E-value: 1e-07
+Alignment Length: 149
+Percentage Identity: 0.261
+
+=== V8G8C1 ===
+DE   RecName: Full=Peptidase {ECO:0008006|Google:ProtNLM};
+Bit Score: 271.0
+E-value: 1.059e-07
+Alignment Length: 186
+Percentage Identity: 0.22
+
+=== M1P2J6 ===
+DE   SubName: Full=Proteasome, alpha and beta subunits {ECO:0000313|EMBL:AGF93641.1};
+DE            EC=3.4.25.- {ECO:0000313|EMBL:AGF93641.1};
+Bit Score: 261.0
+E-value: 1.059e-07
+Alignment Length: 179
+Percentage Identity: 0.206
+
+=== A0A177R6D2 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0000256|HAMAP-Rule:MF_00248};
+DE            EC=3.4.25.2 {ECO:0000256|HAMAP-Rule:MF_00248};
+Bit Score: 271.0
+E-value: 1.122e-07
+Alignment Length: 176
+Percentage Identity: 0.227
+
+=== A0A562LAX0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TWI04819.1};
+Bit Score: 298.0
+E-value: 1.188e-07
+Alignment Length: 145
+Percentage Identity: 0.22
+
+=== A0A198YY56 ===
+DE   SubName: Full=Peptidase S14 {ECO:0000313|EMBL:OAV55053.1};
+Bit Score: 300.0
+E-value: 1.259e-07
+Alignment Length: 155
+Percentage Identity: 0.251
+
+=== A0A166EGM1 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 266.0
+E-value: 1.412e-07
+Alignment Length: 183
+Percentage Identity: 0.142
+
+=== B9JG70 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0000255|HAMAP-Rule:MF_00248};
+DE            EC=3.4.25.2 {ECO:0000255|HAMAP-Rule:MF_00248};
+Bit Score: 272.0
+E-value: 1.777e-07
+Alignment Length: 178
+Percentage Identity: 0.213
+
+=== A0A2T6CRH1 ===
+DE   SubName: Full=MFS transporter {ECO:0000313|EMBL:PTX92789.1};
+Bit Score: 266.0
+E-value: 1.777e-07
+Alignment Length: 190
+Percentage Identity: 0.2
+
+=== A0A840RBZ9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB5190094.1};
+Bit Score: 287.0
+E-value: 1.883e-07
+Alignment Length: 154
+Percentage Identity: 0.253
+
+=== A0A0F9T9X0 ===
+DE   RecName: Full=Proteasome endopeptidase complex {ECO:0008006|Google:ProtNLM};
+Bit Score: 287.0
+E-value: 1.883e-07
+Alignment Length: 165
+Percentage Identity: 0.224
+
+=== B6ABE3 ===
+DE   SubName: Full=Proteasome A-type and B-type, ATP-dependent protease, putative {ECO:0000313|EMBL:EEA05695.1};
+DE            EC=3.4.25.1 {ECO:0000313|EMBL:EEA05695.1};
+Bit Score: 271.0
+E-value: 1.994e-07
+Alignment Length: 173
+Percentage Identity: 0.173
+
+=== A0A2N6DFI9 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0000256|HAMAP-Rule:MF_00248};
+DE            EC=3.4.25.2 {ECO:0000256|HAMAP-Rule:MF_00248};
+Bit Score: 270.0
+E-value: 1.994e-07
+Alignment Length: 173
+Percentage Identity: 0.196
+
+=== Q1CBE7 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0000255|HAMAP-Rule:MF_00248};
+DE            EC=3.4.25.2 {ECO:0000255|HAMAP-Rule:MF_00248};
+Bit Score: 259.0
+E-value: 1.994e-07
+Alignment Length: 176
+Percentage Identity: 0.181
+
+=== U3U7A5 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+DE   Flags: Fragment;
+Bit Score: 257.0
+E-value: 1.994e-07
+Alignment Length: 185
+Percentage Identity: 0.205
+
+=== Q7MYC2 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0000255|HAMAP-Rule:MF_00248};
+DE            EC=3.4.25.2 {ECO:0000255|HAMAP-Rule:MF_00248};
+Bit Score: 255.0
+E-value: 1.994e-07
+Alignment Length: 179
+Percentage Identity: 0.184
+
+=== A0A7S4IJZ6 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0008006|Google:ProtNLM};
+Bit Score: 261.0
+E-value: 2.237e-07
+Alignment Length: 175
+Percentage Identity: 0.205
+
+=== A0A7Y6A9Q6 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 282.0
+E-value: 2.815e-07
+Alignment Length: 165
+Percentage Identity: 0.23
+
+=== A0A6B3MRL3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NEQ58616.1};
+Bit Score: 261.0
+E-value: 2.815e-07
+Alignment Length: 176
+Percentage Identity: 0.204
+
+=== B4F172 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0000255|HAMAP-Rule:MF_00248};
+DE            EC=3.4.25.2 {ECO:0000255|HAMAP-Rule:MF_00248};
+Bit Score: 260.0
+E-value: 2.815e-07
+Alignment Length: 179
+Percentage Identity: 0.184
+
+=== K1LC63 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0000256|HAMAP-Rule:MF_00248};
+DE            EC=3.4.25.2 {ECO:0000256|HAMAP-Rule:MF_00248};
+Bit Score: 260.0
+E-value: 2.982e-07
+Alignment Length: 178
+Percentage Identity: 0.207
+
+=== A0A7C7RPG0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HIE24786.1};
+Bit Score: 269.0
+E-value: 3.345e-07
+Alignment Length: 171
+Percentage Identity: 0.192
+
+=== A0A6M0RTQ5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NEZ59549.1};
+Bit Score: 259.0
+E-value: 3.543e-07
+Alignment Length: 169
+Percentage Identity: 0.218
+
+=== A0A6U2XWN6 ===
+DE   RecName: Full=HslU--HslV peptidase {ECO:0008006|Google:ProtNLM};
+Bit Score: 256.0
+E-value: 3.543e-07
+Alignment Length: 176
+Percentage Identity: 0.232
+
+=== A0A3A0DL26 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0000256|HAMAP-Rule:MF_00248};
+DE            EC=3.4.25.2 {ECO:0000256|HAMAP-Rule:MF_00248};
+Bit Score: 245.0
+E-value: 3.753e-07
+Alignment Length: 177
+Percentage Identity: 0.197
+
+=== A0A1F9E7K9 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0000256|HAMAP-Rule:MF_00248};
+DE            EC=3.4.25.2 {ECO:0000256|HAMAP-Rule:MF_00248};
+Bit Score: 242.0
+E-value: 3.975e-07
+Alignment Length: 174
+Percentage Identity: 0.229
+
+=== A0A6G3ZM54 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 237.0
+E-value: 3.975e-07
+Alignment Length: 180
+Percentage Identity: 0.227
+
+=== A0A2E5NIV6 ===
+DE   RecName: Full=MFS transporter {ECO:0008006|Google:ProtNLM};
+Bit Score: 253.0
+E-value: 4.211e-07
+Alignment Length: 195
+Percentage Identity: 0.174
+
+=== A0A431I9A7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RTL03684.1};
+Bit Score: 283.0
+E-value: 5.003e-07
+Alignment Length: 136
+Percentage Identity: 0.272
+
+=== A0A2W7CD01 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PZV40151.1};
+Bit Score: 275.0
+E-value: 5.003e-07
+Alignment Length: 152
+Percentage Identity: 0.282
+
+=== A0A4P7Z2I6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QCG94975.1};
+Bit Score: 249.0
+E-value: 5.003e-07
+Alignment Length: 182
+Percentage Identity: 0.214
+
+=== A0A2V8TYI2 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0000256|HAMAP-Rule:MF_00248};
+DE            EC=3.4.25.2 {ECO:0000256|HAMAP-Rule:MF_00248};
+Bit Score: 245.0
+E-value: 5.3e-07
+Alignment Length: 172
+Percentage Identity: 0.191
+
+=== A0A2A5VAQ0 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0000256|HAMAP-Rule:MF_00248};
+DE            EC=3.4.25.2 {ECO:0000256|HAMAP-Rule:MF_00248};
+Bit Score: 243.0
+E-value: 5.3e-07
+Alignment Length: 172
+Percentage Identity: 0.186
+
+=== A0A0F9PS31 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKN32974.1};
+Bit Score: 254.0
+E-value: 5.945e-07
+Alignment Length: 169
+Percentage Identity: 0.224
+
+=== H3G6W3 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0008006|Google:ProtNLM};
+Bit Score: 254.0
+E-value: 5.945e-07
+Alignment Length: 174
+Percentage Identity: 0.183
+
+=== A0A2K8V7P4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AUC13674.1};
+Bit Score: 272.0
+E-value: 6.297e-07
+Alignment Length: 177
+Percentage Identity: 0.237
+
+=== A0A6B0SXV2 ===
+DE   RecName: Full=20S proteasome A and B subunits {ECO:0008006|Google:ProtNLM};
+Bit Score: 251.0
+E-value: 6.67e-07
+Alignment Length: 183
+Percentage Identity: 0.229
+
+=== A0A5E4M3Q6 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 238.0
+E-value: 6.67e-07
+Alignment Length: 184
+Percentage Identity: 0.217
+
+=== A0A7W1DWC3 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0000256|HAMAP-Rule:MF_00248};
+DE            EC=3.4.25.2 {ECO:0000256|HAMAP-Rule:MF_00248};
+Bit Score: 230.0
+E-value: 6.67e-07
+Alignment Length: 175
+Percentage Identity: 0.205
+
+=== A0A2N3V0C3 ===
+DE   SubName: Full=ATP dependent peptidase CodWX CodW component {ECO:0000313|EMBL:PKV75069.1};
+Bit Score: 255.0
+E-value: 7.065e-07
+Alignment Length: 178
+Percentage Identity: 0.213
+
+=== A0A1E5SYS2 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0000256|HAMAP-Rule:MF_00248};
+DE            EC=3.4.25.2 {ECO:0000256|HAMAP-Rule:MF_00248};
+Bit Score: 250.0
+E-value: 7.065e-07
+Alignment Length: 177
+Percentage Identity: 0.18
+
+=== X6NLG9 ===
+DE   SubName: Full=ATP-dependent protease hslV {ECO:0000313|EMBL:ETO26227.1};
+Bit Score: 251.0
+E-value: 7.483e-07
+Alignment Length: 169
+Percentage Identity: 0.189
+
+=== A0A7C1S8A5 ===
+DE   RecName: Full=MFS transporter {ECO:0008006|Google:ProtNLM};
+Bit Score: 260.0
+E-value: 7.926e-07
+Alignment Length: 171
+Percentage Identity: 0.169
+
+=== B3EU68 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0000255|HAMAP-Rule:MF_00248};
+DE            EC=3.4.25.2 {ECO:0000255|HAMAP-Rule:MF_00248};
+Bit Score: 246.0
+E-value: 7.926e-07
+Alignment Length: 176
+Percentage Identity: 0.164
+
+=== A0A635R818 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EDH8302960.1};
+Bit Score: 244.0
+E-value: 7.926e-07
+Alignment Length: 160
+Percentage Identity: 0.2
+
+=== A0A5E5BKE3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VVE85013.1};
+Bit Score: 250.0
+E-value: 8.395e-07
+Alignment Length: 153
+Percentage Identity: 0.209
+
+=== A0A5U8XKF3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EBS0563296.1};
+Bit Score: 240.0
+E-value: 9.975e-07
+Alignment Length: 158
+Percentage Identity: 0.196
+
+=== A0A0G4J5N0 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0008006|Google:ProtNLM};
+Bit Score: 239.0
+E-value: 9.975e-07
+Alignment Length: 171
+Percentage Identity: 0.192
+
+=== Q8UVV0 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 238.0
+E-value: 9.975e-07
+Alignment Length: 186
+Percentage Identity: 0.204
+
+=== A0A3E0PUZ9 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0000256|HAMAP-Rule:MF_00248};
+DE            EC=3.4.25.2 {ECO:0000256|HAMAP-Rule:MF_00248};
+Bit Score: 244.0
+E-value: 1.057e-06
+Alignment Length: 178
+Percentage Identity: 0.179
+
+=== A0A2E1XAH6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAW79335.1};
+Bit Score: 227.0
+E-value: 1.057e-06
+Alignment Length: 176
+Percentage Identity: 0.21
+
+=== A0A1V0HQ08 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0000256|HAMAP-Rule:MF_00248};
+DE            EC=3.4.25.2 {ECO:0000256|HAMAP-Rule:MF_00248};
+Bit Score: 243.0
+E-value: 1.119e-06
+Alignment Length: 173
+Percentage Identity: 0.156
+
+=== C1C2F9 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 235.0
+E-value: 1.119e-06
+Alignment Length: 184
+Percentage Identity: 0.201
+
+=== A0A3B3SDI3 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 232.0
+E-value: 1.119e-06
+Alignment Length: 186
+Percentage Identity: 0.193
+
+=== A0A1D2QD43 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 221.0
+E-value: 1.119e-06
+Alignment Length: 179
+Percentage Identity: 0.212
+
+=== A0A498M6Q4 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 232.0
+E-value: 1.255e-06
+Alignment Length: 184
+Percentage Identity: 0.195
+
+=== A0A6M3LPQ5 ===
+DE   RecName: Full=Peptidase {ECO:0008006|Google:ProtNLM};
+Bit Score: 254.0
+E-value: 1.33e-06
+Alignment Length: 171
+Percentage Identity: 0.169
+
+=== A0A2P6U4L5 ===
+DE   SubName: Full=Atp-dependent protease subunit {ECO:0000313|EMBL:PRW61260.1};
+Bit Score: 241.0
+E-value: 1.33e-06
+Alignment Length: 171
+Percentage Identity: 0.192
+
+=== A0A524GJ54 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0000256|HAMAP-Rule:MF_00248};
+DE            EC=3.4.25.2 {ECO:0000256|HAMAP-Rule:MF_00248};
+Bit Score: 233.0
+E-value: 1.409e-06
+Alignment Length: 178
+Percentage Identity: 0.202
+
+=== V9L939 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 229.0
+E-value: 1.409e-06
+Alignment Length: 184
+Percentage Identity: 0.201
+
+=== A0A1W1BNL7 ===
+DE   SubName: Full=ATP-dependent protease HslV {ECO:0000313|EMBL:SFV55139.1};
+DE            EC=3.4.25.- {ECO:0000313|EMBL:SFV55139.1};
+Bit Score: 243.0
+E-value: 1.492e-06
+Alignment Length: 172
+Percentage Identity: 0.191
+
+=== A0A410FS47 ===
+DE   SubName: Full=ATP-dependent protease subunit HslV {ECO:0000313|EMBL:QAA75857.1};
+Bit Score: 235.0
+E-value: 1.492e-06
+Alignment Length: 178
+Percentage Identity: 0.191
+
+=== A0A4U5UZ82 ===
+DE   RecName: Full=Proteasome subunit beta type-5 {ECO:0000256|ARBA:ARBA00016158};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 233.0
+E-value: 1.492e-06
+Alignment Length: 183
+Percentage Identity: 0.207
+
+=== A0A2R6EWN5 ===
+DE   SubName: Full=20S proteasome subunit A/B {ECO:0000313|EMBL:PSP59587.1};
+Bit Score: 225.0
+E-value: 1.58e-06
+Alignment Length: 179
+Percentage Identity: 0.184
+
+=== Q2S219 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0000256|HAMAP-Rule:MF_00248};
+DE            EC=3.4.25.2 {ECO:0000256|HAMAP-Rule:MF_00248};
+Bit Score: 215.0
+E-value: 1.58e-06
+Alignment Length: 179
+Percentage Identity: 0.201
+
+=== A0A416AV19 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RHO79980.1};
+Bit Score: 245.0
+E-value: 1.674e-06
+Alignment Length: 172
+Percentage Identity: 0.162
+
+=== A0A803QML9 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 243.0
+E-value: 1.674e-06
+Alignment Length: 154
+Percentage Identity: 0.214
+
+=== A0A1Z9M089 ===
+DE   SubName: Full=HslU--HslV peptidase proteolytic subunit {ECO:0000313|EMBL:OUW60819.1};
+Bit Score: 229.0
+E-value: 1.674e-06
+Alignment Length: 171
+Percentage Identity: 0.175
+
+=== A0A6F9ARV7 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 225.0
+E-value: 1.773e-06
+Alignment Length: 184
+Percentage Identity: 0.195
+
+=== A0A5B8MI48 ===
+DE   SubName: Full=Subunit HslV of ATP-dependent protease {ECO:0000313|EMBL:QDZ19052.1};
+Bit Score: 232.0
+E-value: 1.878e-06
+Alignment Length: 179
+Percentage Identity: 0.212
+
+=== A0A3B3T289 ===
+DE   RecName: Full=Proteasome subunit beta type-5 {ECO:0000256|ARBA:ARBA00016158};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 232.0
+E-value: 1.878e-06
+Alignment Length: 185
+Percentage Identity: 0.194
+
+=== A0A2U9CZG4 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 227.0
+E-value: 1.878e-06
+Alignment Length: 184
+Percentage Identity: 0.201
+
+=== L1IJ24 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0008006|Google:ProtNLM};
+Bit Score: 225.0
+E-value: 1.878e-06
+Alignment Length: 175
+Percentage Identity: 0.222
+
+=== A0A5C7LVT0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TXH14314.1};
+Bit Score: 238.0
+E-value: 1.989e-06
+Alignment Length: 168
+Percentage Identity: 0.208
+
+=== A0A524L3L2 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0000256|HAMAP-Rule:MF_00248};
+DE            EC=3.4.25.2 {ECO:0000256|HAMAP-Rule:MF_00248};
+Bit Score: 232.0
+E-value: 2.231e-06
+Alignment Length: 179
+Percentage Identity: 0.189
+
+=== A0A5C7PN16 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TXH48008.1};
+Bit Score: 236.0
+E-value: 2.503e-06
+Alignment Length: 165
+Percentage Identity: 0.224
+
+=== A0A176WDF8 ===
+DE   RecName: Full=Proteasome endopeptidase complex {ECO:0008006|Google:ProtNLM};
+Bit Score: 236.0
+E-value: 2.503e-06
+Alignment Length: 169
+Percentage Identity: 0.195
+
+=== A0A6G0IIF8 ===
+DE   RecName: Full=Proteasome subunit beta type-5 {ECO:0000256|ARBA:ARBA00016158};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 221.0
+E-value: 2.808e-06
+Alignment Length: 184
+Percentage Identity: 0.201
+
+=== A0A6A5BPM0 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 213.0
+E-value: 2.808e-06
+Alignment Length: 184
+Percentage Identity: 0.168
+
+=== A0A0V1CKT8 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 227.0
+E-value: 2.974e-06
+Alignment Length: 190
+Percentage Identity: 0.2
+
+=== A0A1H8QW04 ===
+DE   SubName: Full=Proteasome beta subunit {ECO:0000313|EMBL:SEO58044.1};
+Bit Score: 218.0
+E-value: 2.974e-06
+Alignment Length: 181
+Percentage Identity: 0.204
+
+=== A0A7S3CGT4 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0008006|Google:ProtNLM};
+Bit Score: 235.0
+E-value: 3.15e-06
+Alignment Length: 178
+Percentage Identity: 0.196
+
+=== A0A674NK21 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 224.0
+E-value: 3.15e-06
+Alignment Length: 184
+Percentage Identity: 0.201
+
+=== A0A7X3X2N5 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0000256|HAMAP-Rule:MF_00248};
+DE            EC=3.4.25.2 {ECO:0000256|HAMAP-Rule:MF_00248};
+Bit Score: 220.0
+E-value: 3.15e-06
+Alignment Length: 175
+Percentage Identity: 0.2
+
+=== A0A0A1YYY5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KGE66184.1};
+Bit Score: 211.0
+E-value: 3.337e-06
+Alignment Length: 161
+Percentage Identity: 0.236
+
+=== A0A6F9ABU0 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 218.0
+E-value: 3.534e-06
+Alignment Length: 184
+Percentage Identity: 0.19
+
+=== A0A1N6MC80 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+DE   Flags: Fragment;
+Bit Score: 202.0
+E-value: 4.2e-06
+Alignment Length: 179
+Percentage Identity: 0.178
+
+=== A0A498P5Y7 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 222.0
+E-value: 4.448e-06
+Alignment Length: 184
+Percentage Identity: 0.201
+
+=== T0L2U3 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 219.0
+E-value: 4.448e-06
+Alignment Length: 182
+Percentage Identity: 0.175
+
+=== D8SX32 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0008006|Google:ProtNLM};
+Bit Score: 221.0
+E-value: 4.712e-06
+Alignment Length: 179
+Percentage Identity: 0.189
+
+=== A0A4Q5L824 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0000256|HAMAP-Rule:MF_00248};
+DE            EC=3.4.25.2 {ECO:0000256|HAMAP-Rule:MF_00248};
+Bit Score: 229.0
+E-value: 4.99e-06
+Alignment Length: 177
+Percentage Identity: 0.175
+
+=== A0A0B2X4A9 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 208.0
+E-value: 4.99e-06
+Alignment Length: 183
+Percentage Identity: 0.191
+
+=== A0A315V2V5 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+DE   Flags: Fragment;
+Bit Score: 218.0
+E-value: 5.599e-06
+Alignment Length: 184
+Percentage Identity: 0.201
+
+=== A0A0B2V7H9 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 211.0
+E-value: 5.599e-06
+Alignment Length: 190
+Percentage Identity: 0.173
+
+=== Q8SRF1 ===
+DE   RecName: Full=Probable proteasome subunit beta type-4;
+DE   AltName: Full=26S proteasome beta-type subunit PRE1;
+DE   AltName: Full=Multicatalytic endopeptidase complex subunit PRE1;
+Bit Score: 178.0
+E-value: 5.599e-06
+Alignment Length: 200
+Percentage Identity: 0.175
+
+=== L0AVE1 ===
+DE   SubName: Full=Proteasome subunit y, putative {ECO:0000313|EMBL:AFZ79510.1};
+DE            EC=3.4.25.1 {ECO:0000313|EMBL:AFZ79510.1};
+Bit Score: 200.0
+E-value: 5.93e-06
+Alignment Length: 226
+Percentage Identity: 0.141
+
+=== A0A0L0S5P2 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 211.0
+E-value: 6.281e-06
+Alignment Length: 184
+Percentage Identity: 0.173
+
+=== A0A2E6TZ49 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBL69774.1};
+Bit Score: 229.0
+E-value: 6.653e-06
+Alignment Length: 138
+Percentage Identity: 0.304
+
+=== J2V4E6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EJM94424.1};
+Bit Score: 257.0
+E-value: 7.046e-06
+Alignment Length: 109
+Percentage Identity: 0.357
+
+=== A0A154IRH1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KZB02976.1};
+Bit Score: 229.0
+E-value: 7.463e-06
+Alignment Length: 156
+Percentage Identity: 0.224
+
+=== X6MSV9 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 203.0
+E-value: 7.905e-06
+Alignment Length: 180
+Percentage Identity: 0.205
+
+=== A0A1B7X8B3 ===
+DE   RecName: Full=Peptidase {ECO:0008006|Google:ProtNLM};
+Bit Score: 216.0
+E-value: 8.373e-06
+Alignment Length: 177
+Percentage Identity: 0.186
+
+=== A0A6B1FCA7 ===
+DE   RecName: Full=ATP-dependent protease subunit HslV {ECO:0000256|HAMAP-Rule:MF_00248};
+DE            EC=3.4.25.2 {ECO:0000256|HAMAP-Rule:MF_00248};
+Bit Score: 207.0
+E-value: 8.373e-06
+Alignment Length: 175
+Percentage Identity: 0.205
+
+=== A0A819S4W0 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 207.0
+E-value: 8.373e-06
+Alignment Length: 183
+Percentage Identity: 0.202
+
+=== A0A4U5P9G0 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 201.0
+E-value: 9.949e-06
+Alignment Length: 190
+Percentage Identity: 0.189
+
+=== A0A519BSQ0 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|HAMAP-Rule:MF_02113};
+DE            EC=3.4.25.1 {ECO:0000256|HAMAP-Rule:MF_02113};
+DE   AltName: Full=20S proteasome beta subunit {ECO:0000256|HAMAP-Rule:MF_02113};
+DE   AltName: Full=Proteasome core protein PsmB {ECO:0000256|HAMAP-Rule:MF_02113};
+Bit Score: 198.0
+E-value: 1.054e-05
+Alignment Length: 188
+Percentage Identity: 0.191
+
+=== A0A166ZZ25 ===
+DE   RecName: Full=Sulfhydryl oxidase {ECO:0000256|RuleBase:RU371123};
+DE            EC=1.8.3.2 {ECO:0000256|RuleBase:RU371123};
+DE   Flags: Fragment;
+Bit Score: 190.0
+E-value: 1.054e-05
+Alignment Length: 181
+Percentage Identity: 0.198
+
+=== F2HHU1 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 214.0
+E-value: 1.116e-05
+Alignment Length: 184
+Percentage Identity: 0.168
+
+=== A0A182EL05 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 206.0
+E-value: 1.116e-05
+Alignment Length: 185
+Percentage Identity: 0.183
+
+=== A0A813EPF7 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 165.0
+E-value: 1.116e-05
+Alignment Length: 144
+Percentage Identity: 0.194
+
+=== A0A1I8BTD6 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 206.0
+E-value: 1.182e-05
+Alignment Length: 185
+Percentage Identity: 0.194
+
+=== A0A4S4E140 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 190.0
+E-value: 1.252e-05
+Alignment Length: 184
+Percentage Identity: 0.119
+
+=== A0A1B6E889 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 188.0
+E-value: 1.252e-05
+Alignment Length: 185
+Percentage Identity: 0.162
+
+=== Q7XY60 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+DE   Flags: Fragment;
+Bit Score: 181.0
+E-value: 1.326e-05
+Alignment Length: 186
+Percentage Identity: 0.139
+
+=== A0A0L6J834 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KNY21792.1};
+Bit Score: 207.0
+E-value: 1.405e-05
+Alignment Length: 139
+Percentage Identity: 0.251
+
+=== A0A2I8VNU3 ===
+DE   SubName: Full=20S proteasome subunit A/B {ECO:0000313|EMBL:AUV83600.1};
+Bit Score: 200.0
+E-value: 1.488e-05
+Alignment Length: 183
+Percentage Identity: 0.207
+
+=== A0A7J9DHJ5 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 192.0
+E-value: 1.488e-05
+Alignment Length: 210
+Percentage Identity: 0.171
+
+=== A0A2A5RQ84 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PCS01586.1};
+Bit Score: 171.0
+E-value: 1.488e-05
+Alignment Length: 189
+Percentage Identity: 0.148
+
+=== A0A183CC29 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 205.0
+E-value: 1.576e-05
+Alignment Length: 191
+Percentage Identity: 0.178
+
+=== A0A6N9P228 ===
+DE   RecName: Full=Peptidase {ECO:0008006|Google:ProtNLM};
+Bit Score: 201.0
+E-value: 1.669e-05
+Alignment Length: 169
+Percentage Identity: 0.189
+
+=== A0A7Y9QX19 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NYG33006.1};
+Bit Score: 202.0
+E-value: 1.768e-05
+Alignment Length: 153
+Percentage Identity: 0.215
+
+=== K8EPM0 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 182.0
+E-value: 1.768e-05
+Alignment Length: 188
+Percentage Identity: 0.154
+
+=== A0A5C7LW42 ===
+DE   RecName: Full=20S proteasome subunit A/B {ECO:0008006|Google:ProtNLM};
+Bit Score: 204.0
+E-value: 1.873e-05
+Alignment Length: 177
+Percentage Identity: 0.152
+
+=== V4HA08 ===
+DE   SubName: Full=20S proteasome subunits A and B {ECO:0000313|EMBL:ESP86878.1};
+Bit Score: 193.0
+E-value: 1.873e-05
+Alignment Length: 177
+Percentage Identity: 0.192
+
+=== A0A521EBQ5 ===
+DE   RecName: Full=20S proteasome, alpha and beta subunits {ECO:0008006|Google:ProtNLM};
+Bit Score: 176.0
+E-value: 1.873e-05
+Alignment Length: 170
+Percentage Identity: 0.129
+
+=== A0A7X3R831 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MXY97567.1};
+Bit Score: 199.0
+E-value: 2.101e-05
+Alignment Length: 183
+Percentage Identity: 0.169
+
+=== A0A2U9B9G7 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 198.0
+E-value: 2.101e-05
+Alignment Length: 185
+Percentage Identity: 0.162
+
+=== F0ZEE2 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 176.0
+E-value: 2.101e-05
+Alignment Length: 184
+Percentage Identity: 0.13
+
+=== A0A0P7HTM0 ===
+DE   SubName: Full=Proteasome endopeptidase complex, archaeal, beta subunit {ECO:0000313|EMBL:KPN29983.1};
+Bit Score: 179.0
+E-value: 2.225e-05
+Alignment Length: 177
+Percentage Identity: 0.169
+
+=== A0A078ADC0 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 161.0
+E-value: 2.225e-05
+Alignment Length: 200
+Percentage Identity: 0.135
+
+=== A0A7S0GS87 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 170.0
+E-value: 2.357e-05
+Alignment Length: 195
+Percentage Identity: 0.143
+
+=== A0A5C7QJH8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TXH58705.1};
+Bit Score: 207.0
+E-value: 2.497e-05
+Alignment Length: 181
+Percentage Identity: 0.16
+
+=== A0A078HYP6 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 173.0
+E-value: 2.497e-05
+Alignment Length: 198
+Percentage Identity: 0.126
+
+=== L2GJB9 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 160.0
+E-value: 2.497e-05
+Alignment Length: 199
+Percentage Identity: 0.15
+
+=== M1V4Z8 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 150.0
+E-value: 2.497e-05
+Alignment Length: 166
+Percentage Identity: 0.168
+
+=== A0A6A3CK26 ===
+DE   SubName: Full=Proteasome subunit beta type-2-A {ECO:0000313|EMBL:KAE8727932.1};
+Bit Score: 188.0
+E-value: 2.644e-05
+Alignment Length: 164
+Percentage Identity: 0.134
+
+=== Q4JAY3 ===
+DE   RecName: Full=Proteasome subunit beta 1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE            EC=3.4.25.1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   AltName: Full=20S proteasome beta subunit 1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   AltName: Full=Proteasome core protein PsmB 1 {ECO:0000255|HAMAP-Rule:MF_02113};
+DE   Flags: Precursor;
+Bit Score: 185.0
+E-value: 2.801e-05
+Alignment Length: 179
+Percentage Identity: 0.178
+
+=== A0A0F8YYK9 ===
+DE   RecName: Full=PPM-type phosphatase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 169.0
+E-value: 2.967e-05
+Alignment Length: 183
+Percentage Identity: 0.142
+
+=== A0A2S0VWE5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AWB68515.1};
+Bit Score: 191.0
+E-value: 3.142e-05
+Alignment Length: 175
+Percentage Identity: 0.177
+
+=== A0A1E4GN12 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 188.0
+E-value: 3.142e-05
+Alignment Length: 136
+Percentage Identity: 0.323
+
+=== A0A7R9LBE2 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 178.0
+E-value: 3.142e-05
+Alignment Length: 191
+Percentage Identity: 0.12
+
+=== A0A0R3T8Q2 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 169.0
+E-value: 3.142e-05
+Alignment Length: 185
+Percentage Identity: 0.129
+
+=== A0A317IE56 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 201.0
+E-value: 3.328e-05
+Alignment Length: 190
+Percentage Identity: 0.152
+
+=== A0A177B1K5 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 167.0
+E-value: 3.328e-05
+Alignment Length: 190
+Percentage Identity: 0.142
+
+=== A0A7Y5NSX5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NUP11400.1};
+Bit Score: 192.0
+E-value: 3.525e-05
+Alignment Length: 185
+Percentage Identity: 0.172
+
+=== A0A6H5JNE6 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 187.0
+E-value: 3.525e-05
+Alignment Length: 218
+Percentage Identity: 0.16
+
+=== A0A7L2D1S0 ===
+DE   RecName: Full=Proteasome subunit beta type-5 {ECO:0000256|ARBA:ARBA00016158};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+DE   Flags: Fragment;
+Bit Score: 175.0
+E-value: 3.525e-05
+Alignment Length: 177
+Percentage Identity: 0.225
+
+=== A0A1B2DM25 ===
+DE   RecName: Full=Peptidase {ECO:0008006|Google:ProtNLM};
+Bit Score: 167.0
+E-value: 3.734e-05
+Alignment Length: 177
+Percentage Identity: 0.197
+
+=== A0A7S7RP61 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QOY53145.1};
+Bit Score: 166.0
+E-value: 3.734e-05
+Alignment Length: 170
+Percentage Identity: 0.129
+
+=== A0A024G242 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 173.0
+E-value: 3.955e-05
+Alignment Length: 198
+Percentage Identity: 0.141
+
+=== A0A438F3U4 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 166.0
+E-value: 3.955e-05
+Alignment Length: 201
+Percentage Identity: 0.129
+
+=== A0A1G4T1S1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SCW75348.1};
+Bit Score: 195.0
+E-value: 4.189e-05
+Alignment Length: 163
+Percentage Identity: 0.233
+
+=== A0A2G5B9J8 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 167.0
+E-value: 4.189e-05
+Alignment Length: 191
+Percentage Identity: 0.162
+
+=== U6JAM8 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 160.0
+E-value: 4.189e-05
+Alignment Length: 189
+Percentage Identity: 0.137
+
+=== A0A2E2D6C1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAX51310.1};
+Bit Score: 181.0
+E-value: 4.437e-05
+Alignment Length: 177
+Percentage Identity: 0.192
+
+=== A0A024W082 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 179.0
+E-value: 4.437e-05
+Alignment Length: 185
+Percentage Identity: 0.145
+
+=== A0A5E4K352 ===
+DE   SubName: Full=Proteasome subunit {ECO:0000313|EMBL:VVB82811.1};
+Bit Score: 178.0
+E-value: 4.437e-05
+Alignment Length: 189
+Percentage Identity: 0.137
+
+=== A0A7S3GYT8 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 149.0
+E-value: 4.437e-05
+Alignment Length: 162
+Percentage Identity: 0.209
+
+=== A0A7J6NSF4 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 169.0
+E-value: 4.699e-05
+Alignment Length: 188
+Percentage Identity: 0.154
+
+=== A0A6F9DP48 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 164.0
+E-value: 4.699e-05
+Alignment Length: 184
+Percentage Identity: 0.152
+
+=== A0A0P5M4S4 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 161.0
+E-value: 4.699e-05
+Alignment Length: 188
+Percentage Identity: 0.111
+
+=== A0A7W7CT25 ===
+DE   SubName: Full=20S proteasome alpha/beta subunit {ECO:0000313|EMBL:MBB4693844.1};
+Bit Score: 188.0
+E-value: 4.978e-05
+Alignment Length: 179
+Percentage Identity: 0.178
+
+=== A0A845X523 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NEO85508.1};
+Bit Score: 200.0
+E-value: 5.584e-05
+Alignment Length: 180
+Percentage Identity: 0.177
+
+=== X1IB81 ===
+DE   RecName: Full=Proteasome endopeptidase complex {ECO:0008006|Google:ProtNLM};
+Bit Score: 189.0
+E-value: 5.584e-05
+Alignment Length: 190
+Percentage Identity: 0.152
+
+=== A0A1F4FSU6 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 188.0
+E-value: 5.584e-05
+Alignment Length: 187
+Percentage Identity: 0.139
+
+=== A0A0C4EM24 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 172.0
+E-value: 5.584e-05
+Alignment Length: 186
+Percentage Identity: 0.155
+
+=== A0A667GHY8 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 167.0
+E-value: 5.584e-05
+Alignment Length: 189
+Percentage Identity: 0.142
+
+=== A0A3Q9ABZ1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AZO71619.1};
+Bit Score: 195.0
+E-value: 5.915e-05
+Alignment Length: 179
+Percentage Identity: 0.184
+
+=== A0A2T3LES6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PSV49866.1};
+Bit Score: 193.0
+E-value: 5.915e-05
+Alignment Length: 162
+Percentage Identity: 0.197
+
+=== A0A023AYN2 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 170.0
+E-value: 5.915e-05
+Alignment Length: 186
+Percentage Identity: 0.118
+
+=== A0A0Q7Q4B3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KQY58338.1};
+Bit Score: 190.0
+E-value: 6.265e-05
+Alignment Length: 183
+Percentage Identity: 0.191
+
+=== H2TCA6 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 166.0
+E-value: 6.265e-05
+Alignment Length: 185
+Percentage Identity: 0.135
+
+=== A0A7S4UZ36 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 160.0
+E-value: 6.265e-05
+Alignment Length: 190
+Percentage Identity: 0.131
+
+=== A0A7S0GPT9 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 166.0
+E-value: 6.635e-05
+Alignment Length: 184
+Percentage Identity: 0.119
+
+=== A0A6A3AHW2 ===
+DE   SubName: Full=Proteasome subunit beta type-2-A {ECO:0000313|EMBL:KAE8702875.1};
+Bit Score: 164.0
+E-value: 6.635e-05
+Alignment Length: 188
+Percentage Identity: 0.143
+
+=== A0A443S5N5 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 173.0
+E-value: 7.444e-05
+Alignment Length: 185
+Percentage Identity: 0.14
+
+=== A0A4S8IFX4 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 172.0
+E-value: 7.444e-05
+Alignment Length: 175
+Percentage Identity: 0.171
+
+=== A0A662FC56 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RLE43260.1};
+Bit Score: 172.0
+E-value: 7.444e-05
+Alignment Length: 234
+Percentage Identity: 0.094
+
+=== A0A7S2FKQ2 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 167.0
+E-value: 7.444e-05
+Alignment Length: 184
+Percentage Identity: 0.168
+
+=== A0A842UQH3 ===
+DE   RecName: Full=Proteasome subunit alpha {ECO:0008006|Google:ProtNLM};
+Bit Score: 166.0
+E-value: 7.444e-05
+Alignment Length: 201
+Percentage Identity: 0.144
+
+=== A0A6M7WF62 ===
+DE   RecName: Full=Peptidase {ECO:0008006|Google:ProtNLM};
+Bit Score: 180.0
+E-value: 7.885e-05
+Alignment Length: 169
+Percentage Identity: 0.177
+
+=== R0KLX2 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 179.0
+E-value: 7.885e-05
+Alignment Length: 187
+Percentage Identity: 0.149
+
+=== A0A1R2BQB5 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 173.0
+E-value: 8.846e-05
+Alignment Length: 182
+Percentage Identity: 0.148
+
+=== A0A2N5T7E0 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 167.0
+E-value: 8.846e-05
+Alignment Length: 186
+Percentage Identity: 0.161
+
+=== A0A3B5QBC9 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 156.0
+E-value: 8.846e-05
+Alignment Length: 181
+Percentage Identity: 0.143
+
+=== A0A5S3V5A1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TMO66185.1};
+Bit Score: 177.0
+E-value: 9.924e-05
+Alignment Length: 170
+Percentage Identity: 0.17
+
+=== A0A6A5CEI7 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 172.0
+E-value: 9.924e-05
+Alignment Length: 186
+Percentage Identity: 0.118
+
+=== A0A0A1NQC4 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 169.0
+E-value: 9.924e-05
+Alignment Length: 186
+Percentage Identity: 0.145
+
+=== A0A6U4C0Y9 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 148.0
+E-value: 9.924e-05
+Alignment Length: 182
+Percentage Identity: 0.164
+
+=== A0A5C7QB02 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 185.0
+E-value: 0.0001051
+Alignment Length: 183
+Percentage Identity: 0.153
+
+=== A0A816RSH8 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 164.0
+E-value: 0.0001051
+Alignment Length: 188
+Percentage Identity: 0.127
+
+=== A0A0D3ABI7 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 164.0
+E-value: 0.0001051
+Alignment Length: 162
+Percentage Identity: 0.123
+
+=== A0A4U0W404 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 157.0
+E-value: 0.0001051
+Alignment Length: 190
+Percentage Identity: 0.178
+
+=== D8LF06 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 157.0
+E-value: 0.0001051
+Alignment Length: 188
+Percentage Identity: 0.122
+
+=== A0A1C3P6K1 ===
+DE   RecName: Full=ATP-dependent protease HslVU (ClpYQ), peptidase subunit {ECO:0008006|Google:ProtNLM};
+Bit Score: 169.0
+E-value: 0.0001113
+Alignment Length: 182
+Percentage Identity: 0.186
+
+=== A0A7S3WH16 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 162.0
+E-value: 0.0001113
+Alignment Length: 185
+Percentage Identity: 0.124
+
+=== J9DJ56 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 154.0
+E-value: 0.0001113
+Alignment Length: 180
+Percentage Identity: 0.144
+
+=== A0A5J4W8S4 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 147.0
+E-value: 0.0001113
+Alignment Length: 211
+Percentage Identity: 0.123
+
+=== A0A2P2IF38 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+DE   Flags: Fragment;
+Bit Score: 164.0
+E-value: 0.0001179
+Alignment Length: 183
+Percentage Identity: 0.136
+
+=== A0A4P9XG51 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 141.0
+E-value: 0.0001179
+Alignment Length: 204
+Percentage Identity: 0.127
+
+=== A0A821KV91 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+DE   Flags: Fragment;
+Bit Score: 166.0
+E-value: 0.0001323
+Alignment Length: 172
+Percentage Identity: 0.203
+
+=== G0VFL0 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 150.0
+E-value: 0.0001323
+Alignment Length: 191
+Percentage Identity: 0.141
+
+=== A0A1D2NB87 ===
+DE   RecName: Full=non-specific serine/threonine protein kinase {ECO:0000256|ARBA:ARBA00012513};
+DE            EC=2.7.11.1 {ECO:0000256|ARBA:ARBA00012513};
+Bit Score: 170.0
+E-value: 0.0001401
+Alignment Length: 187
+Percentage Identity: 0.144
+
+=== A0A1F5WSG7 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 155.0
+E-value: 0.0001401
+Alignment Length: 202
+Percentage Identity: 0.183
+
+=== A0A7W3XTJ3 ===
+DE   RecName: Full=Prophage tail endopeptidase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 148.0
+E-value: 0.0001401
+Alignment Length: 196
+Percentage Identity: 0.117
+
+=== A0A4Q9LUE4 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 171.0
+E-value: 0.0001484
+Alignment Length: 199
+Percentage Identity: 0.17
+
+=== A9CSM9 ===
+DE   SubName: Full=20S proteasome subunit {ECO:0000313|EMBL:EDQ31127.1};
+Bit Score: 152.0
+E-value: 0.0001484
+Alignment Length: 182
+Percentage Identity: 0.115
+
+=== A0A7G9YX89 ===
+DE   RecName: Full=Proteasome endopeptidase complex {ECO:0008006|Google:ProtNLM};
+Bit Score: 159.0
+E-value: 0.0001572
+Alignment Length: 222
+Percentage Identity: 0.162
+
+=== C4VBC0 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.0001572
+Alignment Length: 204
+Percentage Identity: 0.142
+
+=== A0A0F9SDK6 ===
+DE   RecName: Full=Proteasome endopeptidase complex {ECO:0008006|Google:ProtNLM};
+Bit Score: 182.0
+E-value: 0.0001665
+Alignment Length: 184
+Percentage Identity: 0.141
+
+=== A0A535DW71 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 160.0
+E-value: 0.0001665
+Alignment Length: 197
+Percentage Identity: 0.182
+
+=== W7TFQ9 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 160.0
+E-value: 0.0001665
+Alignment Length: 183
+Percentage Identity: 0.169
+
+=== A0A4Q9M047 ===
+DE   SubName: Full=Subunit beta of proteasome {ECO:0000313|EMBL:TBU19984.1};
+Bit Score: 158.0
+E-value: 0.0001764
+Alignment Length: 190
+Percentage Identity: 0.131
+
+=== L7JSU7 ===
+DE   SubName: Full=20S proteasome, regulatory subunit beta type PSMB1/PRE7 {ECO:0000313|EMBL:ELQ74504.1};
+DE            EC=3.4.25.1 {ECO:0000313|EMBL:ELQ74504.1};
+Bit Score: 152.0
+E-value: 0.0001764
+Alignment Length: 195
+Percentage Identity: 0.184
+
+=== A0A258L6B0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OYY01180.1};
+Bit Score: 165.0
+E-value: 0.0001868
+Alignment Length: 229
+Percentage Identity: 0.139
+
+=== A0A2B5HKC1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PEM66125.1};
+Bit Score: 160.0
+E-value: 0.0001868
+Alignment Length: 185
+Percentage Identity: 0.108
+
+=== A0A2G7LP87 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PIH55342.1};
+Bit Score: 159.0
+E-value: 0.0001979
+Alignment Length: 191
+Percentage Identity: 0.136
+
+=== A0A418VFY2 ===
+DE   RecName: Full=20S proteasome subunit A/B {ECO:0008006|Google:ProtNLM};
+Bit Score: 157.0
+E-value: 0.0001979
+Alignment Length: 192
+Percentage Identity: 0.171
+
+=== A0A2D8CGJ6 ===
+DE   RecName: Full=Peptidase {ECO:0008006|Google:ProtNLM};
+Bit Score: 152.0
+E-value: 0.0001979
+Alignment Length: 208
+Percentage Identity: 0.134
+
+=== A0A168BAY1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OAB32285.1};
+Bit Score: 121.0
+E-value: 0.0001979
+Alignment Length: 204
+Percentage Identity: 0.147
+
+=== A0A7J4HY19 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HIG94066.1};
+Bit Score: 161.0
+E-value: 0.0002096
+Alignment Length: 216
+Percentage Identity: 0.125
+
+=== A0A2D6RN20 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAG78822.1};
+Bit Score: 157.0
+E-value: 0.0002096
+Alignment Length: 232
+Percentage Identity: 0.142
+
+=== A0A0P9MUB4 ===
+DE   SubName: Full=Proteasome subunit beta {ECO:0000313|EMBL:KPW95513.1};
+Bit Score: 181.0
+E-value: 0.000222
+Alignment Length: 77
+Percentage Identity: 0.415
+
+=== A0A2W6AGV1 ===
+DE   RecName: Full=Proteasome subunit alpha {ECO:0008006|Google:ProtNLM};
+Bit Score: 171.0
+E-value: 0.000222
+Alignment Length: 203
+Percentage Identity: 0.162
+
+=== A0A1I4N192 ===
+DE   RecName: Full=ATP-dependent protease HslVU (ClpYQ), peptidase subunit {ECO:0008006|Google:ProtNLM};
+Bit Score: 169.0
+E-value: 0.000222
+Alignment Length: 179
+Percentage Identity: 0.145
+
+=== A0A4Y7JDD6 ===
+DE   RecName: Full=Proteasome endopeptidase complex {ECO:0008006|Google:ProtNLM};
+Bit Score: 165.0
+E-value: 0.000222
+Alignment Length: 182
+Percentage Identity: 0.12
+
+=== A0A7N8XER8 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 120.0
+E-value: 0.000222
+Alignment Length: 140
+Percentage Identity: 0.15
+
+=== Q2J8X8 ===
+DE   RecName: Full=ATP-dependent protease HslVU (ClpYQ), peptidase subunit {ECO:0008006|Google:ProtNLM};
+Bit Score: 164.0
+E-value: 0.000249
+Alignment Length: 176
+Percentage Identity: 0.193
+
+=== I1BHZ1 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 175.0
+E-value: 0.0002638
+Alignment Length: 156
+Percentage Identity: 0.166
+
+=== A4S8K4 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 158.0
+E-value: 0.0002638
+Alignment Length: 185
+Percentage Identity: 0.151
+
+=== A0A2V2YT76 ===
+DE   SubName: Full=20S proteasome alpha/beta subunit {ECO:0000313|EMBL:PWW02517.1};
+Bit Score: 155.0
+E-value: 0.0002638
+Alignment Length: 190
+Percentage Identity: 0.157
+
+=== A0A3E0WW59 ===
+DE   RecName: Full=Proteasome endopeptidase complex {ECO:0008006|Google:ProtNLM};
+Bit Score: 142.0
+E-value: 0.0002638
+Alignment Length: 184
+Percentage Identity: 0.141
+
+=== A0A1Y1S805 ===
+DE   SubName: Full=PSB2 {ECO:0000313|EMBL:ORD94578.1};
+Bit Score: 138.0
+E-value: 0.0002638
+Alignment Length: 185
+Percentage Identity: 0.156
+
+=== A0A1Y1WL03 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 139.0
+E-value: 0.0002794
+Alignment Length: 199
+Percentage Identity: 0.14
+
+=== A0A0S4QEM8 ===
+DE   RecName: Full=ATP-dependent protease HslVU (ClpYQ), peptidase subunit {ECO:0008006|Google:ProtNLM};
+Bit Score: 166.0
+E-value: 0.0002959
+Alignment Length: 176
+Percentage Identity: 0.176
+
+=== A0A2R5HIS0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GBG96278.1};
+Bit Score: 158.0
+E-value: 0.0002959
+Alignment Length: 189
+Percentage Identity: 0.153
+
+=== A0A6F9CRQ0 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 148.0
+E-value: 0.0003134
+Alignment Length: 158
+Percentage Identity: 0.145
+
+=== S7WAJ2 ===
+DE   SubName: Full=20s proteasome subunit beta type-1 {ECO:0000313|EMBL:EPR79916.1};
+Bit Score: 129.0
+E-value: 0.0003134
+Alignment Length: 210
+Percentage Identity: 0.152
+
+=== A0A7C3P1U8 ===
+DE   RecName: Full=Proteasome subunit alpha {ECO:0008006|Google:ProtNLM};
+Bit Score: 141.0
+E-value: 0.000332
+Alignment Length: 197
+Percentage Identity: 0.157
+
+=== A0A370UA61 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RDL44672.1};
+Bit Score: 155.0
+E-value: 0.0003516
+Alignment Length: 170
+Percentage Identity: 0.164
+
+=== A0A1R0GL44 ===
+DE   RecName: Full=Ribonuclease {ECO:0000256|RuleBase:RU003515};
+DE            EC=3.1.26.4 {ECO:0000256|RuleBase:RU003515};
+Bit Score: 133.0
+E-value: 0.0003724
+Alignment Length: 188
+Percentage Identity: 0.154
+
+=== A0A6J5JVM6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAB3975271.1};
+Bit Score: 163.0
+E-value: 0.0003945
+Alignment Length: 165
+Percentage Identity: 0.193
+
+=== A0A4Y7KLV4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RZC73320.1};
+Bit Score: 161.0
+E-value: 0.0003945
+Alignment Length: 193
+Percentage Identity: 0.134
+
+=== A0A0B2UE91 ===
+DE   SubName: Full=Beta type-1 subunit of proteasome {ECO:0000313|EMBL:KHN69401.1};
+Bit Score: 154.0
+E-value: 0.0003945
+Alignment Length: 188
+Percentage Identity: 0.154
+
+=== L2GMQ7 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 147.0
+E-value: 0.0003945
+Alignment Length: 213
+Percentage Identity: 0.131
+
+=== J8ZPV7 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 155.0
+E-value: 0.0004178
+Alignment Length: 191
+Percentage Identity: 0.141
+
+=== A0A2U1M9U0 ===
+DE   RecName: Full=THH1/TOM1/TOM3 domain-containing protein {ECO:0000259|Pfam:PF06454};
+Bit Score: 151.0
+E-value: 0.0004425
+Alignment Length: 228
+Percentage Identity: 0.109
+
+=== V8FS97 ===
+DE   RecName: Full=Peptidase {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.0004425
+Alignment Length: 202
+Percentage Identity: 0.168
+
+=== A0A7C5T4D8 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 145.0
+E-value: 0.0004687
+Alignment Length: 187
+Percentage Identity: 0.187
+
+=== A0A427XG99 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 142.0
+E-value: 0.0004687
+Alignment Length: 187
+Percentage Identity: 0.144
+
+=== A0A7W8BBI8 ===
+DE   SubName: Full=ATP-dependent protease HslVU (ClpYQ) peptidase subunit {ECO:0000313|EMBL:MBB5120345.1};
+Bit Score: 160.0
+E-value: 0.0004965
+Alignment Length: 178
+Percentage Identity: 0.185
+
+=== A0A507C7P7 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 160.0
+E-value: 0.0005258
+Alignment Length: 225
+Percentage Identity: 0.124
+
+=== A0A4S3KDV4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:THD06682.1};
+Bit Score: 152.0
+E-value: 0.0005258
+Alignment Length: 224
+Percentage Identity: 0.151
+
+=== S7NJR4 ===
+DE   RecName: Full=Proteasome subunit beta type-5 {ECO:0000256|ARBA:ARBA00016158};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 124.0
+E-value: 0.0005258
+Alignment Length: 179
+Percentage Identity: 0.189
+
+=== A0A2K8XD27 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AUC80849.1};
+Bit Score: 116.0
+E-value: 0.0005258
+Alignment Length: 145
+Percentage Identity: 0.151
+
+=== A0A1U7DF80 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:APX88654.1};
+Bit Score: 154.0
+E-value: 0.000557
+Alignment Length: 103
+Percentage Identity: 0.339
+
+=== A0A1X0QKZ9 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 146.0
+E-value: 0.000557
+Alignment Length: 187
+Percentage Identity: 0.16
+
+=== A0A1H7RD33 ===
+DE   RecName: Full=Proteasome-type protease {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.000557
+Alignment Length: 195
+Percentage Identity: 0.158
+
+=== A0A1X0Q7J0 ===
+DE   SubName: Full=PSB6 {ECO:0000313|EMBL:ORD95720.1};
+Bit Score: 134.0
+E-value: 0.000557
+Alignment Length: 207
+Percentage Identity: 0.144
+
+=== A0A1G2VGJ4 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.0006618
+Alignment Length: 200
+Percentage Identity: 0.15
+
+=== A0A0F9PBE6 ===
+DE   RecName: Full=Proteasome endopeptidase complex {ECO:0008006|Google:ProtNLM};
+Bit Score: 166.0
+E-value: 0.000701
+Alignment Length: 179
+Percentage Identity: 0.145
+
+=== A0A7Y0ZEM7 ===
+DE   RecName: Full=Transmembrane protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 164.0
+E-value: 0.0007425
+Alignment Length: 181
+Percentage Identity: 0.16
+
+=== I6ZUK9 ===
+DE   SubName: Full=20S proteasome subunit beta type-1 {ECO:0000313|EMBL:AFN83386.1};
+Bit Score: 150.0
+E-value: 0.0007864
+Alignment Length: 188
+Percentage Identity: 0.132
+
+=== A0A484IC73 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VFJ12621.1};
+Bit Score: 143.0
+E-value: 0.0007864
+Alignment Length: 239
+Percentage Identity: 0.146
+
+=== A0A351JYR8 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 149.0
+E-value: 0.000833
+Alignment Length: 225
+Percentage Identity: 0.142
+
+=== A0A3L6JQN3 ===
+DE   RecName: Full=Proteasome subunit alpha {ECO:0008006|Google:ProtNLM};
+Bit Score: 138.0
+E-value: 0.0008823
+Alignment Length: 226
+Percentage Identity: 0.15
+
+=== L2GLP3 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 140.0
+E-value: 0.0009345
+Alignment Length: 184
+Percentage Identity: 0.146
+
+=== A0A2D6NYH1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAG45720.1};
+Bit Score: 139.0
+E-value: 0.0009345
+Alignment Length: 253
+Percentage Identity: 0.11
+
+=== A0A5E4IGA9 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 132.0
+E-value: 0.0009345
+Alignment Length: 218
+Percentage Identity: 0.119
+
+=== A0A3R9R7Q7 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 137.0
+E-value: 0.0009898
+Alignment Length: 217
+Percentage Identity: 0.133
+
+=== T0L2N4 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 134.0
+E-value: 0.0009898
+Alignment Length: 211
+Percentage Identity: 0.123
+
+=== U6N4A8 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 136.0
+E-value: 0.001048
+Alignment Length: 262
+Percentage Identity: 0.118
+
+=== A0A059EUC2 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+DE   Flags: Fragment;
+Bit Score: 132.0
+E-value: 0.001048
+Alignment Length: 201
+Percentage Identity: 0.144
+
+=== A0A183HTV2 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 109.0
+E-value: 0.001048
+Alignment Length: 177
+Percentage Identity: 0.124
+
+=== D8TEJ9 ===
+DE   RecName: Full=J domain-containing protein {ECO:0000259|PROSITE:PS50076};
+Bit Score: 136.0
+E-value: 0.00111
+Alignment Length: 154
+Percentage Identity: 0.194
+
+=== A0A1G2PK12 ===
+DE   RecName: Full=Proteasome endopeptidase complex {ECO:0008006|Google:ProtNLM};
+Bit Score: 135.0
+E-value: 0.00111
+Alignment Length: 194
+Percentage Identity: 0.175
+
+=== A0A1E4S8Z6 ===
+DE   SubName: Full=N-terminal nucleophile aminohydrolase {ECO:0000313|EMBL:ODV75948.1};
+Bit Score: 140.0
+E-value: 0.001176
+Alignment Length: 186
+Percentage Identity: 0.134
+
+=== A0A0B2WM98 ===
+DE   SubName: Full=Proteasome, subunit alpha/beta {ECO:0000313|EMBL:KHN94145.1};
+Bit Score: 138.0
+E-value: 0.001246
+Alignment Length: 182
+Percentage Identity: 0.148
+
+=== A0A2V9PE82 ===
+DE   RecName: Full=20S proteasome subunit A/B {ECO:0008006|Google:ProtNLM};
+Bit Score: 151.0
+E-value: 0.00132
+Alignment Length: 226
+Percentage Identity: 0.146
+
+=== A0A1D8UTZ7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AOX16947.1};
+Bit Score: 150.0
+E-value: 0.00132
+Alignment Length: 199
+Percentage Identity: 0.155
+
+=== A0A679JM54 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 141.0
+E-value: 0.00132
+Alignment Length: 222
+Percentage Identity: 0.153
+
+=== A0A094CVI5 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 149.0
+E-value: 0.001398
+Alignment Length: 180
+Percentage Identity: 0.144
+
+=== A0A2K9NDC0 ===
+DE   SubName: Full=Peptidase {ECO:0000313|EMBL:AUN31118.1};
+Bit Score: 130.0
+E-value: 0.001398
+Alignment Length: 195
+Percentage Identity: 0.133
+
+=== L5LIX7 ===
+DE   SubName: Full=Proteasome subunit alpha type-7 {ECO:0000313|EMBL:ELK25856.1};
+Bit Score: 117.0
+E-value: 0.001398
+Alignment Length: 191
+Percentage Identity: 0.115
+
+=== V6LVB0 ===
+DE   SubName: Full=Proteasome subunit beta type {ECO:0000313|EMBL:EST47651.1};
+Bit Score: 140.0
+E-value: 0.00148
+Alignment Length: 197
+Percentage Identity: 0.116
+
+=== A0A7V1YJ61 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HEP07518.1};
+Bit Score: 131.0
+E-value: 0.00148
+Alignment Length: 211
+Percentage Identity: 0.137
+
+=== K1VRV8 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 130.0
+E-value: 0.00148
+Alignment Length: 201
+Percentage Identity: 0.124
+
+=== A0A2N2AQ83 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PKM47878.1};
+Bit Score: 126.0
+E-value: 0.00148
+Alignment Length: 193
+Percentage Identity: 0.124
+
+=== A0A1W0E562 ===
+DE   SubName: Full=PRE7 {ECO:0000313|EMBL:OQS54363.1};
+Bit Score: 142.0
+E-value: 0.001568
+Alignment Length: 185
+Percentage Identity: 0.145
+
+=== A0A842W419 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBD3355034.1};
+Bit Score: 139.0
+E-value: 0.001568
+Alignment Length: 235
+Percentage Identity: 0.127
+
+=== A0A7J9GW34 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 126.0
+E-value: 0.001568
+Alignment Length: 273
+Percentage Identity: 0.091
+
+=== B0XBW9 ===
+DE   SubName: Full=Proteasome subunit beta type 5,8 {ECO:0000313|EMBL:EDS44498.1, ECO:0000313|EnsemblMetazoa:CPIJ016998-PA};
+Bit Score: 123.0
+E-value: 0.001568
+Alignment Length: 108
+Percentage Identity: 0.212
+
+=== A0A2U3DZ46 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 138.0
+E-value: 0.001661
+Alignment Length: 180
+Percentage Identity: 0.138
+
+=== N1PA50 ===
+DE   SubName: Full=Pup3p {ECO:0000313|EMBL:EIW10890.1};
+Bit Score: 128.0
+E-value: 0.001661
+Alignment Length: 182
+Percentage Identity: 0.131
+
+=== A0A1B6IM12 ===
+DE   RecName: Full=Proteasome subunit beta type-4 {ECO:0000256|ARBA:ARBA00016157};
+DE   Flags: Fragment;
+Bit Score: 127.0
+E-value: 0.001661
+Alignment Length: 211
+Percentage Identity: 0.118
+
+=== A0A7V2KNU5 ===
+DE   RecName: Full=Proteasome endopeptidase complex {ECO:0008006|Google:ProtNLM};
+Bit Score: 123.0
+E-value: 0.001661
+Alignment Length: 192
+Percentage Identity: 0.161
+
+=== E8MYW5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:BAJ64451.1};
+Bit Score: 108.0
+E-value: 0.001661
+Alignment Length: 192
+Percentage Identity: 0.13
+
+=== X1P804 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 152.0
+E-value: 0.001759
+Alignment Length: 57
+Percentage Identity: 0.561
+
+=== A9CRW8 ===
+DE   SubName: Full=20S proteasome core particle subunit beta 6 {ECO:0000313|EMBL:EDQ31381.1};
+DE            EC=3.4.25.1 {ECO:0000313|EMBL:EDQ31381.1};
+Bit Score: 145.0
+E-value: 0.001759
+Alignment Length: 187
+Percentage Identity: 0.155
+
+=== A0A2L2T5U6 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 138.0
+E-value: 0.001759
+Alignment Length: 180
+Percentage Identity: 0.144
+
+=== V8AQS4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ETD04491.1};
+Bit Score: 131.0
+E-value: 0.001759
+Alignment Length: 190
+Percentage Identity: 0.1
+
+=== A0A7W4IJH2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB2164015.1};
+Bit Score: 145.0
+E-value: 0.001863
+Alignment Length: 168
+Percentage Identity: 0.154
+
+=== A0A6N3H6Z6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VYU72133.1};
+Bit Score: 132.0
+E-value: 0.001863
+Alignment Length: 185
+Percentage Identity: 0.14
+
+=== A0A167FMR9 ===
+DE   SubName: Full=Proteasome, subunit alpha/beta {ECO:0000313|EMBL:OAA45496.1};
+Bit Score: 144.0
+E-value: 0.001973
+Alignment Length: 182
+Percentage Identity: 0.142
+
+=== A0A7X7ZLM3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NLH78905.1};
+Bit Score: 143.0
+E-value: 0.001973
+Alignment Length: 169
+Percentage Identity: 0.195
+
+=== A0A1B2JD48 ===
+DE   SubName: Full=BA75_01942T0 {ECO:0000313|EMBL:ANZ75994.1};
+Bit Score: 134.0
+E-value: 0.001973
+Alignment Length: 182
+Percentage Identity: 0.153
+
+=== A0A417AIF1 ===
+DE   RecName: Full=Peptidase {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.001973
+Alignment Length: 181
+Percentage Identity: 0.088
+
+=== V6LF96 ===
+DE   SubName: Full=Proteasome subunit beta type {ECO:0000313|EMBL:EST43195.1};
+Bit Score: 111.0
+E-value: 0.001973
+Alignment Length: 201
+Percentage Identity: 0.109
+
+=== A0A534JPZ5 ===
+DE   SubName: Full=Proteasome subunit alpha {ECO:0000313|EMBL:TLZ66826.1};
+DE            EC=3.4.25.1 {ECO:0000313|EMBL:TLZ66826.1};
+Bit Score: 109.0
+E-value: 0.001973
+Alignment Length: 181
+Percentage Identity: 0.16
+
+=== A0A849RQM9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NOS78441.1};
+Bit Score: 115.0
+E-value: 0.002214
+Alignment Length: 139
+Percentage Identity: 0.187
+
+=== A0A179GUA4 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 135.0
+E-value: 0.002345
+Alignment Length: 180
+Percentage Identity: 0.138
+
+=== A0A6L6XS55 ===
+DE   RecName: Full=Proteasome protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 130.0
+E-value: 0.002345
+Alignment Length: 191
+Percentage Identity: 0.151
+
+=== A0A7J6NVQ7 ===
+DE   SubName: Full=Proteasome subunit beta type-4 {ECO:0000313|EMBL:KAF4687953.1};
+Bit Score: 108.0
+E-value: 0.002345
+Alignment Length: 171
+Percentage Identity: 0.146
+
+=== A0A673X1W3 ===
+DE   RecName: Full=Proteasome subunit beta type-5 {ECO:0000256|ARBA:ARBA00016158};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 103.0
+E-value: 0.002345
+Alignment Length: 153
+Percentage Identity: 0.215
+
+=== A0A1B9NW17 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OCH19093.1};
+Bit Score: 117.0
+E-value: 0.002484
+Alignment Length: 198
+Percentage Identity: 0.156
+
+=== A0A0B7KKH7 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 154.0
+E-value: 0.002631
+Alignment Length: 181
+Percentage Identity: 0.127
+
+=== G2WYN9 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 129.0
+E-value: 0.002631
+Alignment Length: 173
+Percentage Identity: 0.138
+
+=== V2US75 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ESK51466.1};
+Bit Score: 127.0
+E-value: 0.002631
+Alignment Length: 157
+Percentage Identity: 0.184
+
+=== A0A6B2LGJ7 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|PIRNR:PIRNR001213};
+Bit Score: 121.0
+E-value: 0.002786
+Alignment Length: 203
+Percentage Identity: 0.133
+
+=== A0A6P3HAM8 ===
+DE   SubName: Full=Proteasome subunit alpha type-7 {ECO:0000313|RefSeq:XP_010840213.1};
+Bit Score: 114.0
+E-value: 0.002786
+Alignment Length: 190
+Percentage Identity: 0.094
+
+=== A0A5C6GLA4 ===
+DE   SubName: Full=Proteasome core particle subunit beta 3 {ECO:0000313|EMBL:TWU78370.1};
+Bit Score: 139.0
+E-value: 0.002951
+Alignment Length: 182
+Percentage Identity: 0.153
+
+=== A0A2M8ACV5 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 130.0
+E-value: 0.002951
+Alignment Length: 185
+Percentage Identity: 0.113
+
+=== A0A484G0B8 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 128.0
+E-value: 0.002951
+Alignment Length: 180
+Percentage Identity: 0.127
+
+=== A0A2R6LZF1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PSQ46287.1};
+Bit Score: 123.0
+E-value: 0.002951
+Alignment Length: 152
+Percentage Identity: 0.21
+
+=== A0A091E2B2 ===
+DE   SubName: Full=Proteasome subunit alpha type-7 {ECO:0000313|EMBL:KFO37487.1};
+Bit Score: 109.0
+E-value: 0.002951
+Alignment Length: 190
+Percentage Identity: 0.105
+
+=== A0A813QBY5 ===
+DE   RecName: Full=U1 small nuclear ribonucleoprotein 70 kDa {ECO:0000256|ARBA:ARBA00016996};
+Bit Score: 108.0
+E-value: 0.002951
+Alignment Length: 184
+Percentage Identity: 0.141
+
+=== H2YU77 ===
+DE   RecName: Full=Proteasome subunit alpha type {ECO:0000256|RuleBase:RU000551};
+Bit Score: 106.0
+E-value: 0.002951
+Alignment Length: 186
+Percentage Identity: 0.134
+
+=== A0A2D6TZP9 ===
+DE   RecName: Full=20S proteasome subunit A/B {ECO:0008006|Google:ProtNLM};
+Bit Score: 132.0
+E-value: 0.003126
+Alignment Length: 237
+Percentage Identity: 0.097
+
+=== R7VBF4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ELU13030.1, ECO:0000313|EnsemblMetazoa:CapteP221691};
+Bit Score: 105.0
+E-value: 0.003126
+Alignment Length: 200
+Percentage Identity: 0.125
+
+=== A0A6A4WLV8 ===
+DE   SubName: Full=Proteasome subunit alpha-type 7-like {ECO:0000313|EMBL:KAF0308377.1};
+Bit Score: 105.0
+E-value: 0.003126
+Alignment Length: 201
+Percentage Identity: 0.119
+
+=== X0Y2H7 ===
+DE   RecName: Full=Proteasome endopeptidase complex {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 123.0
+E-value: 0.003311
+Alignment Length: 127
+Percentage Identity: 0.22
+
+=== A0A521RQN5 ===
+DE   RecName: Full=20S proteasome subunit A/B {ECO:0008006|Google:ProtNLM};
+Bit Score: 123.0
+E-value: 0.003311
+Alignment Length: 230
+Percentage Identity: 0.139
+
+=== L0PCX2 ===
+DE   RecName: Full=RING-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.003311
+Alignment Length: 201
+Percentage Identity: 0.134
+
+=== A0A3M9YQE6 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 134.0
+E-value: 0.003507
+Alignment Length: 180
+Percentage Identity: 0.133
+
+=== A0A1X0QDF6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ORD97839.1};
+Bit Score: 117.0
+E-value: 0.003507
+Alignment Length: 192
+Percentage Identity: 0.083
+
+=== A0A3D8RSL2 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 128.0
+E-value: 0.003715
+Alignment Length: 180
+Percentage Identity: 0.122
+
+=== A0A2V9S681 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PYX01256.1};
+Bit Score: 122.0
+E-value: 0.003934
+Alignment Length: 240
+Percentage Identity: 0.129
+
+=== A0A662VVR7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RLI79389.1};
+Bit Score: 118.0
+E-value: 0.003934
+Alignment Length: 234
+Percentage Identity: 0.123
+
+=== A0A1H2BQ09 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SDT60298.1};
+Bit Score: 129.0
+E-value: 0.004414
+Alignment Length: 231
+Percentage Identity: 0.134
+
+=== A0A517NVV7 ===
+DE   SubName: Full=Proteasome subunit {ECO:0000313|EMBL:QDT11254.1};
+Bit Score: 122.0
+E-value: 0.004414
+Alignment Length: 199
+Percentage Identity: 0.12
+
+=== A0A1E7F4B5 ===
+DE   SubName: Full=N-terminal nucleophile aminohydrolase {ECO:0000313|EMBL:OEU13028.1};
+Bit Score: 117.0
+E-value: 0.004675
+Alignment Length: 194
+Percentage Identity: 0.154
+
+=== A0A1D1V4I5 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 81.0
+E-value: 0.004675
+Alignment Length: 125
+Percentage Identity: 0.168
+
+=== A0A316EE76 ===
+DE   SubName: Full=Putative proteasome-type protease {ECO:0000313|EMBL:PWK28355.1};
+Bit Score: 121.0
+E-value: 0.004952
+Alignment Length: 194
+Percentage Identity: 0.123
+
+=== A0A7M7R3Q5 ===
+DE   RecName: Full=Proteasome subunit alpha type-3 {ECO:0008006|Google:ProtNLM};
+Bit Score: 103.0
+E-value: 0.004952
+Alignment Length: 184
+Percentage Identity: 0.152
+
+=== T0LB82 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 100.0
+E-value: 0.004952
+Alignment Length: 135
+Percentage Identity: 0.17
+
+=== A0A0W4ZP34 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|PIRNR:PIRNR001213};
+Bit Score: 122.0
+E-value: 0.005245
+Alignment Length: 208
+Percentage Identity: 0.12
+
+=== A0A6J5XM73 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 126.0
+E-value: 0.005555
+Alignment Length: 184
+Percentage Identity: 0.081
+
+=== D5GPN5 ===
+DE   SubName: Full=(Perigord truffle) hypothetical protein {ECO:0000313|EMBL:CAZ86478.1};
+Bit Score: 124.0
+E-value: 0.005555
+Alignment Length: 182
+Percentage Identity: 0.131
+
+=== A0A5P1DDA7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MRJ38495.1};
+Bit Score: 129.0
+E-value: 0.005884
+Alignment Length: 170
+Percentage Identity: 0.17
+
+=== A0A1W0E333 ===
+DE   SubName: Full=PRE1 {ECO:0000313|EMBL:OQS53629.1};
+Bit Score: 118.0
+E-value: 0.005884
+Alignment Length: 205
+Percentage Identity: 0.112
+
+=== A0A0F9AAS5 ===
+DE   RecName: Full=Proteasome endopeptidase complex {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 133.0
+E-value: 0.006232
+Alignment Length: 222
+Percentage Identity: 0.135
+
+=== A0A6L7X6F0 ===
+DE   SubName: Full=Peptidase {ECO:0000313|EMBL:MYE06262.1};
+Bit Score: 119.0
+E-value: 0.006232
+Alignment Length: 194
+Percentage Identity: 0.134
+
+=== A0A2N9NAM5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SPE44779.1};
+Bit Score: 105.0
+E-value: 0.006232
+Alignment Length: 212
+Percentage Identity: 0.122
+
+=== A0A0G4N4V8 ===
+DE   RecName: Full=Proteasome subunit beta type-3 {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.006601
+Alignment Length: 177
+Percentage Identity: 0.124
+
+=== S8AJM4 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 118.0
+E-value: 0.006601
+Alignment Length: 180
+Percentage Identity: 0.116
+
+=== A0A5M6DL91 ===
+DE   SubName: Full=Proteasome-type protease {ECO:0000313|EMBL:KAA5546115.1};
+Bit Score: 118.0
+E-value: 0.006601
+Alignment Length: 196
+Percentage Identity: 0.102
+
+=== A0A7S3GVP6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAE0277722.1};
+Bit Score: 99.0
+E-value: 0.006601
+Alignment Length: 163
+Percentage Identity: 0.141
+
+=== A0A2M6ZYR3 ===
+DE   RecName: Full=Proteasome subunit alpha {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.006992
+Alignment Length: 221
+Percentage Identity: 0.113
+
+=== A0A7R9UKI4 ===
+DE   RecName: Full=Proteasome subunit alpha type {ECO:0000256|RuleBase:RU000551};
+Bit Score: 93.0
+E-value: 0.006992
+Alignment Length: 193
+Percentage Identity: 0.124
+
+=== A0A4Y7JT69 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RZC64293.1};
+Bit Score: 125.0
+E-value: 0.007406
+Alignment Length: 185
+Percentage Identity: 0.129
+
+=== A0A183GME6 ===
+DE   SubName: Full=Peptidase M12A domain-containing protein {ECO:0000313|WBParaSite:HPBE_0002386601-mRNA-1};
+Bit Score: 106.0
+E-value: 0.007406
+Alignment Length: 171
+Percentage Identity: 0.122
+
+=== W7IB21 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 128.0
+E-value: 0.008308
+Alignment Length: 180
+Percentage Identity: 0.122
+
+=== A0A2N6NH82 ===
+DE   SubName: Full=Proteasome subunit beta type-3 {ECO:0000313|EMBL:PMB66604.1};
+Bit Score: 107.0
+E-value: 0.008308
+Alignment Length: 164
+Percentage Identity: 0.158
+
+=== A0A7Y4WF38 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NOT27181.1};
+Bit Score: 100.0
+E-value: 0.0088
+Alignment Length: 147
+Percentage Identity: 0.17
+
+=== T0XR45 ===
+DE   RecName: Full=Proteasome-type protease {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 109.0
+E-value: 0.009321
+Alignment Length: 194
+Percentage Identity: 0.108
+
+=== A0A419PCD9 ===
+DE   RecName: Full=Proteasome subunit alpha type-3 {ECO:0000256|ARBA:ARBA00021338};
+Bit Score: 94.0
+E-value: 0.009321
+Alignment Length: 182
+Percentage Identity: 0.153
+
+=== A0A183ABC7 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 115.0
+E-value: 0.009872
+Alignment Length: 188
+Percentage Identity: 0.132
+
+=== A0A1E4T6F8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ODV87312.1};
+Bit Score: 108.0
+E-value: 0.009872
+Alignment Length: 180
+Percentage Identity: 0.15
+
+=== A0A3B8IWE0 ===
+DE   SubName: Full=Peptidase {ECO:0000313|EMBL:HAA18483.1};
+Bit Score: 111.0
+E-value: 0.01046
+Alignment Length: 195
+Percentage Identity: 0.123
+
+=== A0A6B2G8A6 ===
+DE   RecName: Full=Proteasome subunit alpha type-1 {ECO:0000256|ARBA:ARBA00021331};
+Bit Score: 89.0
+E-value: 0.01108
+Alignment Length: 167
+Percentage Identity: 0.173
+
+=== A0A1F3LR83 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 110.0
+E-value: 0.01173
+Alignment Length: 193
+Percentage Identity: 0.124
+
+=== A0A7J8IRL7 ===
+DE   SubName: Full=Proteasome 20S subunit alpha 3 {ECO:0000313|EMBL:KAF6486759.1};
+Bit Score: 100.0
+E-value: 0.01173
+Alignment Length: 185
+Percentage Identity: 0.108
+
+=== A0A4Y9QR96 ===
+DE   SubName: Full=Peptidase {ECO:0000313|EMBL:TFV94318.1};
+Bit Score: 118.0
+E-value: 0.01243
+Alignment Length: 194
+Percentage Identity: 0.139
+
+=== A0A2N9MVJ4 ===
+DE   SubName: Full=Putative proteasome-type protease {ECO:0000313|EMBL:SPE39493.1};
+Bit Score: 112.0
+E-value: 0.01243
+Alignment Length: 196
+Percentage Identity: 0.117
+
+=== A0A4U0W745 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0000256|RuleBase:RU004203};
+Bit Score: 101.0
+E-value: 0.01243
+Alignment Length: 144
+Percentage Identity: 0.118
+
+=== A0A6P6YDR1 ===
+DE   RecName: Full=Proteasome subunit alpha type {ECO:0000256|RuleBase:RU000551};
+Bit Score: 92.0
+E-value: 0.01243
+Alignment Length: 194
+Percentage Identity: 0.144
+
+=== A0A4Y7JGV0 ===
+DE   RecName: Full=Proteasome endopeptidase complex {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.01316
+Alignment Length: 187
+Percentage Identity: 0.208
+
+=== A0A2K4MSW9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:POB00185.1};
+Bit Score: 77.0
+E-value: 0.01316
+Alignment Length: 154
+Percentage Identity: 0.129
+
+=== A0A2J7ZTJ5 ===
+DE   SubName: Full=ATP-dependent protease subunit HslV {ECO:0000313|EMBL:PNH03594.1};
+Bit Score: 101.0
+E-value: 0.01394
+Alignment Length: 146
+Percentage Identity: 0.171
+
+=== A0A2C9JNZ1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EnsemblMetazoa:BGLB005527-PB};
+Bit Score: 91.0
+E-value: 0.01394
+Alignment Length: 199
+Percentage Identity: 0.1
+
+=== B4JML0 ===
+DE   SubName: Full=GH24307 {ECO:0000313|EMBL:EDV91953.1};
+Bit Score: 114.0
+E-value: 0.01476
+Alignment Length: 194
+Percentage Identity: 0.139
+
+=== A0A258GS45 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OYX47174.1};
+Bit Score: 112.0
+E-value: 0.01476
+Alignment Length: 232
+Percentage Identity: 0.12
+
+=== A0A427TKQ8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RSD24457.1};
+Bit Score: 89.0
+E-value: 0.01476
+Alignment Length: 187
+Percentage Identity: 0.106
+
+=== A0A484LXN4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VFQ80538.1};
+Bit Score: 88.0
+E-value: 0.01476
+Alignment Length: 208
+Percentage Identity: 0.168
+
+=== A0A2G2G311 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PHR55939.1};
+Bit Score: 121.0
+E-value: 0.01858
+Alignment Length: 73
+Percentage Identity: 0.369
+
+=== A0A6P6YA44 ===
+DE   SubName: Full=Proteasome subunit alpha type-4-like {ECO:0000313|RefSeq:XP_027202160.1};
+Bit Score: 95.0
+E-value: 0.01858
+Alignment Length: 188
+Percentage Identity: 0.111
+
+=== A0A672I3E2 ===
+DE   RecName: Full=Proteasome subunit alpha type {ECO:0000256|RuleBase:RU000551};
+Bit Score: 89.0
+E-value: 0.01858
+Alignment Length: 183
+Percentage Identity: 0.147
+
+=== A0A507EZG8 ===
+DE   RecName: Full=Proteasome alpha-type subunits domain-containing protein {ECO:0000259|PROSITE:PS00388};
+Bit Score: 84.0
+E-value: 0.01858
+Alignment Length: 201
+Percentage Identity: 0.144
+
+=== A0A3Q7T1X9 ===
+DE   SubName: Full=Proteasome subunit alpha-type 8 {ECO:0000313|RefSeq:XP_025862291.1};
+Bit Score: 95.0
+E-value: 0.01968
+Alignment Length: 197
+Percentage Identity: 0.106
+
+=== A0A817HPC8 ===
+DE   RecName: Full=Mitochondrial dicarboxylate carrier {ECO:0008006|Google:ProtNLM};
+Bit Score: 90.0
+E-value: 0.01968
+Alignment Length: 155
+Percentage Identity: 0.174
+
+=== L1LDL7 ===
+DE   SubName: Full=Proteasome subunit alpha type, putative {ECO:0000313|EMBL:EKX73446.1};
+DE            EC=3.4.25.1 {ECO:0000313|EMBL:EKX73446.1};
+Bit Score: 90.0
+E-value: 0.01968
+Alignment Length: 189
+Percentage Identity: 0.142
+
+=== B5I9J5 ===
+DE   SubName: Full=20S proteasome A and B subunits {ECO:0000313|EMBL:ADD08534.1};
+Bit Score: 94.0
+E-value: 0.02208
+Alignment Length: 166
+Percentage Identity: 0.144
+
+=== A0A3L7XDB9 ===
+DE   SubName: Full=Peptidase {ECO:0000313|EMBL:RLT40829.1};
+Bit Score: 106.0
+E-value: 0.02339
+Alignment Length: 198
+Percentage Identity: 0.101
+
+=== A0A5A8D1A4 ===
+DE   RecName: Full=Proteasome subunit alpha type {ECO:0000256|RuleBase:RU000551};
+Bit Score: 77.0
+E-value: 0.02339
+Alignment Length: 171
+Percentage Identity: 0.163
+
+=== A0A3M7MI63 ===
+DE   RecName: Full=Pre-mRNA-splicing ATP-dependent RNA helicase PRP28 {ECO:0000256|ARBA:ARBA00040398};
+DE            EC=3.6.4.13 {ECO:0000256|ARBA:ARBA00012552};
+DE   AltName: Full=Pre-mRNA-splicing ATP-dependent RNA helicase prp28 {ECO:0000256|ARBA:ARBA00039685};
+Bit Score: 96.0
+E-value: 0.02477
+Alignment Length: 183
+Percentage Identity: 0.103
+
+=== A0A5C7IRY6 ===
+DE   RecName: Full=Proteasome subunit beta {ECO:0008006|Google:ProtNLM};
+Bit Score: 99.0
+E-value: 0.02624
+Alignment Length: 317
+Percentage Identity: 0.091
+
+=== A0A518HXT2 ===
+DE   RecName: Full=Proteasome subunit {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.02779
+Alignment Length: 193
+Percentage Identity: 0.129
+
+=== A0A223NUZ9 ===
+DE   SubName: Full=Proteasome subunit {ECO:0000313|EMBL:ASU33709.1};
+Bit Score: 101.0
+E-value: 0.02779
+Alignment Length: 196
+Percentage Identity: 0.112
+
+=== A0A1J5X1N2 ===
+DE   RecName: Full=Proteasome subunit alpha type {ECO:0000256|RuleBase:RU000551};
+Bit Score: 90.0
+E-value: 0.02779
+Alignment Length: 187
+Percentage Identity: 0.128
+
+=== A0A2T7NHM1 ===
+DE   RecName: Full=Proteasome endopeptidase complex {ECO:0008006|Google:ProtNLM};
+Bit Score: 85.0
+E-value: 0.02779
+Alignment Length: 192
+Percentage Identity: 0.119
+
+=== A0A271KQU1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PAP97457.1};
+Bit Score: 107.0
+E-value: 0.02944
+Alignment Length: 71
+Percentage Identity: 0.366
+
+=== A0A0Q0EJ52 ===
+DE   SubName: Full=20S proteasome subunits A/B {ECO:0000313|EMBL:RMT75270.1};
+Bit Score: 112.0
+E-value: 0.03302
+Alignment Length: 58
+Percentage Identity: 0.465
+
+=== I2GKA2 ===
+DE   SubName: Full=Putative proteasome-type protease {ECO:0000313|EMBL:CCH54327.1};
+Bit Score: 92.0
+E-value: 0.03302
+Alignment Length: 193
+Percentage Identity: 0.145
+
+=== A0A3S3W1G9 ===
+DE   SubName: Full=Peptidase {ECO:0000313|EMBL:RWY46211.1};
+Bit Score: 100.0
+E-value: 0.03498
+Alignment Length: 199
+Percentage Identity: 0.12
+
+=== F0J9K5 ===
+DE   RecName: Full=Proteasome subunit alpha type-1 {ECO:0000256|ARBA:ARBA00021331};
+DE   Flags: Fragment;
+Bit Score: 78.0
+E-value: 0.03498
+Alignment Length: 165
+Percentage Identity: 0.133
+
+=== A0A812W1J5 ===
+DE   RecName: Full=proteasome endopeptidase complex {ECO:0000256|ARBA:ARBA00012039};
+DE            EC=3.4.25.1 {ECO:0000256|ARBA:ARBA00012039};
+Bit Score: 87.0
+E-value: 0.04663
+Alignment Length: 161
+Percentage Identity: 0.142
+
+=== A0A329T6X5 ===
+DE   RecName: Full=20S proteasome subunit A/B {ECO:0008006|Google:ProtNLM};
+Bit Score: 73.0
+E-value: 0.04663
+Alignment Length: 122
+Percentage Identity: 0.114
+
+=== A0A5C5ZTR9 ===
+DE   RecName: Full=Proteasome subunit {ECO:0008006|Google:ProtNLM};
+Bit Score: 95.0
+E-value: 0.04939
+Alignment Length: 198
+Percentage Identity: 0.106
+

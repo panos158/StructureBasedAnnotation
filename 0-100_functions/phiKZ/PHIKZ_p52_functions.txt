@@ -1,0 +1,50 @@
+=== A0A7W5LJ69 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB3453893.1};
+Bit Score: 219.0
+E-value: 0.000225
+Alignment Length: 57
+Percentage Identity: 0.543
+
+=== A0A2D9C953 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAO21219.1};
+Bit Score: 208.0
+E-value: 0.0006249
+Alignment Length: 46
+Percentage Identity: 0.695
+
+=== A0A3M1AS12 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RMD99112.1};
+Bit Score: 187.0
+E-value: 0.001322
+Alignment Length: 57
+Percentage Identity: 0.456
+
+=== A0A1Q3VB41 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OJW29855.1};
+Bit Score: 194.0
+E-value: 0.001415
+Alignment Length: 42
+Percentage Identity: 0.571
+
+=== A0A2A5A0T7 ===
+DE   RecName: Full=Stress-induced protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 191.0
+E-value: 0.001622
+Alignment Length: 44
+Percentage Identity: 0.613
+
+=== A0A3N5V1R4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RPJ30187.1};
+Bit Score: 139.0
+E-value: 0.005162
+Alignment Length: 64
+Percentage Identity: 0.515
+
+=== A0A540WI59 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TQF08144.1};
+DE   Flags: Fragment;
+Bit Score: 161.0
+E-value: 0.008902
+Alignment Length: 40
+Percentage Identity: 0.5
+

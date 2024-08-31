@@ -1,0 +1,79 @@
+=== A0A1B3LIP1 ===
+DE   RecName: Full=Chemotaxis protein CheA {ECO:0000256|ARBA:ARBA00021495};
+DE            EC=2.7.13.3 {ECO:0000256|ARBA:ARBA00012438};
+Bit Score: 77.0
+E-value: 0.01028
+Alignment Length: 111
+Percentage Identity: 0.144
+
+=== A0A0L0HD98 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KNC98693.1};
+Bit Score: 67.0
+E-value: 0.0232
+Alignment Length: 135
+Percentage Identity: 0.125
+
+=== B0SWW0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ABZ73168.1};
+DE   Flags: Precursor;
+Bit Score: 84.0
+E-value: 0.02606
+Alignment Length: 105
+Percentage Identity: 0.161
+
+=== A0A7C6HNT2 ===
+DE   SubName: Full=Methionine ABC transporter ATP-binding protein {ECO:0000313|EMBL:HHU08194.1};
+Bit Score: 83.0
+E-value: 0.02606
+Alignment Length: 113
+Percentage Identity: 0.15
+
+=== A0A2J6KPI5 ===
+DE   RecName: Full=RRM domain-containing protein {ECO:0000259|PROSITE:PS50102};
+Bit Score: 80.0
+E-value: 0.02606
+Alignment Length: 124
+Percentage Identity: 0.112
+
+=== E3LQZ4 ===
+DE   RecName: Full=VWFA domain-containing protein {ECO:0000259|PROSITE:PS50234};
+Bit Score: 73.0
+E-value: 0.02762
+Alignment Length: 116
+Percentage Identity: 0.137
+
+=== A0A0Q7W816 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KQZ33088.1};
+Bit Score: 74.0
+E-value: 0.02927
+Alignment Length: 110
+Percentage Identity: 0.145
+
+=== W0BHI3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AHE67864.1};
+Bit Score: 53.0
+E-value: 0.03693
+Alignment Length: 120
+Percentage Identity: 0.091
+
+=== A0A2J6K287 ===
+DE   RecName: Full=RRM domain-containing protein {ECO:0000259|SMART:SM00360};
+Bit Score: 74.0
+E-value: 0.04397
+Alignment Length: 113
+Percentage Identity: 0.132
+
+=== A0A2J6LL44 ===
+DE   RecName: Full=RRM domain-containing protein {ECO:0000259|PROSITE:PS50102};
+Bit Score: 70.0
+E-value: 0.04397
+Alignment Length: 122
+Percentage Identity: 0.114
+
+=== A0A445KZK4 ===
+DE   RecName: Full=RRM domain-containing protein {ECO:0000259|PROSITE:PS50102};
+Bit Score: 69.0
+E-value: 0.04397
+Alignment Length: 127
+Percentage Identity: 0.133
+

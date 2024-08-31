@@ -1,0 +1,21 @@
+=== A0A533I5E1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TKW65240.1};
+Bit Score: 188.0
+E-value: 4.081e-05
+Alignment Length: 116
+Percentage Identity: 0.327
+
+=== K1XPQ0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EKD22483.1};
+Bit Score: 236.0
+E-value: 0.0001425
+Alignment Length: 71
+Percentage Identity: 0.521
+
+=== A0A5C7LG51 ===
+DE   RecName: Full=DUF3310 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 209.0
+E-value: 0.0006699
+Alignment Length: 66
+Percentage Identity: 0.53
+

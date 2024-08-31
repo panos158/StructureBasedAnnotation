@@ -1,0 +1,28 @@
+=== A0A3N7ISP1 ===
+DE   RecName: Full=Holin {ECO:0008006|Google:ProtNLM};
+Bit Score: 458.0
+E-value: 1.004e-10
+Alignment Length: 115
+Percentage Identity: 0.704
+
+=== G0AH99 ===
+DE   RecName: Full=Transmembrane protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 206.0
+E-value: 0.0004176
+Alignment Length: 100
+Percentage Identity: 0.27
+
+=== A0A644XCM0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MPM13970.1};
+Bit Score: 200.0
+E-value: 0.0006478
+Alignment Length: 104
+Percentage Identity: 0.317
+
+=== A0A315BMY9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PUE20362.1};
+Bit Score: 136.0
+E-value: 0.00961
+Alignment Length: 99
+Percentage Identity: 0.232
+

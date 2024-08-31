@@ -1,0 +1,22 @@
+=== A0A497F2D7 ===
+DE   RecName: Full=Cytochrome B {ECO:0008006|Google:ProtNLM};
+Bit Score: 55.0
+E-value: 0.03323
+Alignment Length: 98
+Percentage Identity: 0.204
+
+=== A0A6A4I5Q5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAE9404134.1};
+DE   Flags: Fragment;
+Bit Score: 82.0
+E-value: 0.04013
+Alignment Length: 59
+Percentage Identity: 0.186
+
+=== A0A1I8C6R3 ===
+DE   SubName: Full=Membralin {ECO:0000313|WBParaSite:RSKR_0000100700.1};
+Bit Score: 59.0
+E-value: 0.0455
+Alignment Length: 81
+Percentage Identity: 0.172
+

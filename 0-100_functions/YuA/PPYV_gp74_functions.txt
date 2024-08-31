@@ -1,0 +1,49 @@
+=== A0A2N4YAX6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PLL10116.1};
+Bit Score: 170.0
+E-value: 1.814e-05
+Alignment Length: 81
+Percentage Identity: 0.493
+
+=== A0A2G2GAY5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PHR58715.1};
+Bit Score: 186.0
+E-value: 3.574e-05
+Alignment Length: 73
+Percentage Identity: 0.561
+
+=== A0A2C9D269 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SON54313.1};
+Bit Score: 123.0
+E-value: 0.000463
+Alignment Length: 78
+Percentage Identity: 0.384
+
+=== A0A1Q3NHN1 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 141.0
+E-value: 0.0009121
+Alignment Length: 70
+Percentage Identity: 0.428
+
+=== A0A2W5S1Q8 ===
+DE   RecName: Full=Tail assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 90.0
+E-value: 0.01016
+Alignment Length: 77
+Percentage Identity: 0.376
+
+=== A0A1H6V5H1 ===
+DE   RecName: Full=Tail assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.02159
+Alignment Length: 74
+Percentage Identity: 0.297
+
+=== A0A1V0B6M0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AQZ95568.1};
+Bit Score: 87.0
+E-value: 0.02918
+Alignment Length: 73
+Percentage Identity: 0.356
+

@@ -1,0 +1,648 @@
+=== A0A7S3VEP2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAE0474623.1};
+Bit Score: 118.0
+E-value: 0.003104
+Alignment Length: 85
+Percentage Identity: 0.2
+
+=== F0P232 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.004748
+Alignment Length: 84
+Percentage Identity: 0.13
+
+=== A0A0Q4E910 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.004748
+Alignment Length: 84
+Percentage Identity: 0.119
+
+=== A0A7S2LRQ9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAD9613085.1};
+DE   Flags: Fragment;
+Bit Score: 126.0
+E-value: 0.006432
+Alignment Length: 84
+Percentage Identity: 0.13
+
+=== A0A1G1HKJ5 ===
+DE   RecName: Full=DUF2642 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.006835
+Alignment Length: 51
+Percentage Identity: 0.254
+
+=== A0A2J6WS59 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PMP73304.1};
+Bit Score: 123.0
+E-value: 0.008201
+Alignment Length: 79
+Percentage Identity: 0.177
+
+=== A0A2N5GN00 ===
+DE   SubName: Full=DUF2187 domain-containing protein {ECO:0000313|EMBL:RSK48615.1};
+Bit Score: 101.0
+E-value: 0.008714
+Alignment Length: 84
+Percentage Identity: 0.178
+
+=== F4BWR8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AEB68554.1};
+Bit Score: 117.0
+E-value: 0.00926
+Alignment Length: 79
+Percentage Identity: 0.202
+
+=== A0A662THG8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RLG63481.1};
+Bit Score: 108.0
+E-value: 0.01111
+Alignment Length: 79
+Percentage Identity: 0.139
+
+=== A0A7S3VEB8 ===
+DE   RecName: Full=Bifunctional lysine-specific demethylase and histidyl-hydroxylase {ECO:0000256|RuleBase:RU366061};
+DE            EC=1.14.11.- {ECO:0000256|RuleBase:RU366061};
+Bit Score: 102.0
+E-value: 0.01111
+Alignment Length: 83
+Percentage Identity: 0.204
+
+=== A0A2W5KVX5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PZQ19558.1};
+Bit Score: 119.0
+E-value: 0.01254
+Alignment Length: 83
+Percentage Identity: 0.168
+
+=== A0A6P6SHT5 ===
+DE   SubName: Full=Dirigent protein 17-like {ECO:0000313|RefSeq:XP_027065683.1, ECO:0000313|RefSeq:XP_027069819.1};
+Bit Score: 107.0
+E-value: 0.01254
+Alignment Length: 74
+Percentage Identity: 0.243
+
+=== A0A1G3ZDA0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OHE74854.1};
+Bit Score: 107.0
+E-value: 0.01254
+Alignment Length: 74
+Percentage Identity: 0.162
+
+=== A0A1Q3JS28 ===
+DE   RecName: Full=Peptidase S24/S26A/S26B/S26C domain-containing protein {ECO:0000259|Pfam:PF00717};
+Bit Score: 121.0
+E-value: 0.01333
+Alignment Length: 52
+Percentage Identity: 0.173
+
+=== A0A101CDQ4 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 99.0
+E-value: 0.01333
+Alignment Length: 84
+Percentage Identity: 0.095
+
+=== A0A2D6APY5 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 126.0
+E-value: 0.01416
+Alignment Length: 59
+Percentage Identity: 0.22
+
+=== A0A2D7GVH0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAI65184.1};
+Bit Score: 118.0
+E-value: 0.01505
+Alignment Length: 66
+Percentage Identity: 0.121
+
+=== A0A316U2R7 ===
+DE   RecName: Full=Hypervirulence associated protein TUDOR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.01505
+Alignment Length: 58
+Percentage Identity: 0.206
+
+=== K0TL31 ===
+DE   RecName: Full=Bifunctional lysine-specific demethylase and histidyl-hydroxylase {ECO:0000256|RuleBase:RU366061};
+DE            EC=1.14.11.- {ECO:0000256|RuleBase:RU366061};
+Bit Score: 100.0
+E-value: 0.01505
+Alignment Length: 83
+Percentage Identity: 0.168
+
+=== A0A0M4FTZ3 ===
+DE   RecName: Full=DUF2187 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 98.0
+E-value: 0.01505
+Alignment Length: 57
+Percentage Identity: 0.21
+
+=== A0A7V4VWU4 ===
+DE   RecName: Full=Peptidase S24/S26A/S26B/S26C domain-containing protein {ECO:0000259|Pfam:PF00717};
+Bit Score: 124.0
+E-value: 0.01699
+Alignment Length: 55
+Percentage Identity: 0.145
+
+=== N4WD45 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ENH97174.1};
+Bit Score: 122.0
+E-value: 0.01806
+Alignment Length: 56
+Percentage Identity: 0.107
+
+=== A0A1Y4K1E1 ===
+DE   RecName: Full=Peptidase S24/S26A/S26B/S26C domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.01806
+Alignment Length: 67
+Percentage Identity: 0.074
+
+=== A0A2D6LJL1 ===
+DE   RecName: Full=Peptidase S24/S26A/S26B/S26C domain-containing protein {ECO:0000259|Pfam:PF00717};
+Bit Score: 115.0
+E-value: 0.01919
+Alignment Length: 61
+Percentage Identity: 0.163
+
+=== A0A7C1YE70 ===
+DE   SubName: Full=DUF308 domain-containing protein {ECO:0000313|EMBL:HEC12346.1};
+Bit Score: 112.0
+E-value: 0.01919
+Alignment Length: 80
+Percentage Identity: 0.175
+
+=== A0A6H5IFN7 ===
+DE   RecName: Full=Tudor domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.01919
+Alignment Length: 86
+Percentage Identity: 0.186
+
+=== A0A2S1QCT1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AWH74386.1};
+Bit Score: 103.0
+E-value: 0.01919
+Alignment Length: 67
+Percentage Identity: 0.134
+
+=== A0A352D2T5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HBB64517.1};
+Bit Score: 121.0
+E-value: 0.02039
+Alignment Length: 55
+Percentage Identity: 0.127
+
+=== A0A839UP84 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB3169652.1};
+Bit Score: 112.0
+E-value: 0.02039
+Alignment Length: 57
+Percentage Identity: 0.228
+
+=== A0A4R6YK07 ===
+DE   RecName: Full=PRC-barrel domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 110.0
+E-value: 0.02039
+Alignment Length: 87
+Percentage Identity: 0.114
+
+=== A0A1B9B5X7 ===
+DE   SubName: Full=DUF2187 domain-containing protein {ECO:0000313|EMBL:OCA91497.1};
+Bit Score: 94.0
+E-value: 0.02039
+Alignment Length: 53
+Percentage Identity: 0.226
+
+=== A0A210RY20 ===
+DE   RecName: Full=Cyclic nucleotide-binding domain-containing protein {ECO:0000259|PROSITE:PS50042};
+Bit Score: 131.0
+E-value: 0.02167
+Alignment Length: 58
+Percentage Identity: 0.224
+
+=== A0A1Q4FEZ4 ===
+DE   RecName: Full=PRC-barrel domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.02167
+Alignment Length: 87
+Percentage Identity: 0.114
+
+=== A0A2X1BX50 ===
+DE   SubName: Full=Uncharacterized protein conserved in bacteria (DUF2187) {ECO:0000313|EMBL:SPU40705.1};
+Bit Score: 93.0
+E-value: 0.02302
+Alignment Length: 82
+Percentage Identity: 0.146
+
+=== A0A0G4GHK5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CEM29113.1};
+Bit Score: 121.0
+E-value: 0.02446
+Alignment Length: 69
+Percentage Identity: 0.159
+
+=== A0A1G8ARX7 ===
+DE   SubName: Full=Phage repressor protein C, contains Cro/C1-type HTH and peptisase s24 domains {ECO:0000313|EMBL:SDH23725.1};
+Bit Score: 115.0
+E-value: 0.02446
+Alignment Length: 52
+Percentage Identity: 0.173
+
+=== A0A2M9G5N0 ===
+DE   SubName: Full=DNA-binding protein {ECO:0000313|EMBL:PJK31010.1};
+Bit Score: 114.0
+E-value: 0.02446
+Alignment Length: 53
+Percentage Identity: 0.207
+
+=== I9RTU5 ===
+DE   RecName: Full=Peptidase S24/S26A/S26B/S26C domain-containing protein {ECO:0000259|Pfam:PF00717};
+Bit Score: 101.0
+E-value: 0.02446
+Alignment Length: 103
+Percentage Identity: 0.126
+
+=== A0A2T4VYW2 ===
+DE   SubName: Full=DNA-binding protein {ECO:0000313|EMBL:PTL86943.1};
+Bit Score: 114.0
+E-value: 0.026
+Alignment Length: 53
+Percentage Identity: 0.207
+
+=== A0A7S1VMZ3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAD9303544.1};
+DE   Flags: Fragment;
+Bit Score: 108.0
+E-value: 0.026
+Alignment Length: 57
+Percentage Identity: 0.175
+
+=== N6VZF8 ===
+DE   RecName: Full=Acetylornithine deacetylase {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.026
+Alignment Length: 87
+Percentage Identity: 0.137
+
+=== A0A3D8YVP2 ===
+DE   SubName: Full=DUF2187 domain-containing protein {ECO:0000313|EMBL:REB06054.1};
+Bit Score: 90.0
+E-value: 0.026
+Alignment Length: 82
+Percentage Identity: 0.134
+
+=== A0A7X0J5Y3 ===
+DE   SubName: Full=Phage repressor protein C with HTH and peptisase S24 domain {ECO:0000313|EMBL:MBB6500962.1};
+Bit Score: 115.0
+E-value: 0.02762
+Alignment Length: 58
+Percentage Identity: 0.224
+
+=== A0A0L0QYB9 ===
+DE   RecName: Full=HP0423 family protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 113.0
+E-value: 0.02762
+Alignment Length: 66
+Percentage Identity: 0.242
+
+=== A0A519L2Y6 ===
+DE   SubName: Full=S24 family peptidase {ECO:0000313|EMBL:RZJ43564.1};
+DE   Flags: Fragment;
+Bit Score: 111.0
+E-value: 0.02762
+Alignment Length: 53
+Percentage Identity: 0.207
+
+=== A0A366MFS3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RBQ24312.1};
+Bit Score: 88.0
+E-value: 0.02762
+Alignment Length: 76
+Percentage Identity: 0.131
+
+=== A0A1A9NNY5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OAJ71206.1};
+Bit Score: 112.0
+E-value: 0.02935
+Alignment Length: 66
+Percentage Identity: 0.242
+
+=== A0A0R0M2Q8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KRH93748.1};
+Bit Score: 106.0
+E-value: 0.02935
+Alignment Length: 48
+Percentage Identity: 0.208
+
+=== A0A2T0XC96 ===
+DE   SubName: Full=Small-conductance mechanosensitive channel {ECO:0000313|EMBL:PRY96539.1};
+Bit Score: 120.0
+E-value: 0.03119
+Alignment Length: 67
+Percentage Identity: 0.149
+
+=== C6XEW5 ===
+DE   SubName: Full=Bacteriophage repressor protein C1 {ECO:0000313|EMBL:ACT56917.1};
+Bit Score: 112.0
+E-value: 0.03119
+Alignment Length: 53
+Percentage Identity: 0.188
+
+=== A0A7V8WXL3 ===
+DE   RecName: Full=DUF2642 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.03119
+Alignment Length: 55
+Percentage Identity: 0.163
+
+=== A0A1I5FVT2 ===
+DE   SubName: Full=Peptidase S24-like {ECO:0000313|EMBL:SFO27860.1};
+Bit Score: 110.0
+E-value: 0.03119
+Alignment Length: 60
+Percentage Identity: 0.183
+
+=== A0A1B7TK12 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OBA29077.1};
+DE   Flags: Fragment;
+Bit Score: 98.0
+E-value: 0.03119
+Alignment Length: 85
+Percentage Identity: 0.105
+
+=== A0A350YIE3 ===
+DE   SubName: Full=DNA-binding protein {ECO:0000313|EMBL:HAX91311.1};
+Bit Score: 114.0
+E-value: 0.03314
+Alignment Length: 52
+Percentage Identity: 0.173
+
+=== A0A7S0D5X7 ===
+DE   RecName: Full=ubiquitinyl hydrolase 1 {ECO:0000256|ARBA:ARBA00012759};
+DE            EC=3.4.19.12 {ECO:0000256|ARBA:ARBA00012759};
+Bit Score: 105.0
+E-value: 0.03314
+Alignment Length: 73
+Percentage Identity: 0.136
+
+=== A7B477 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EDN77154.1};
+Bit Score: 88.0
+E-value: 0.03314
+Alignment Length: 78
+Percentage Identity: 0.179
+
+=== A0A6A4WPX8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAF0308845.1};
+Bit Score: 84.0
+E-value: 0.03314
+Alignment Length: 78
+Percentage Identity: 0.205
+
+=== A0A4R5CZX3 ===
+DE   SubName: Full=Mechanosensitive ion channel {ECO:0000313|EMBL:TDE04234.1};
+Bit Score: 120.0
+E-value: 0.03522
+Alignment Length: 59
+Percentage Identity: 0.186
+
+=== R1AS61 ===
+DE   RecName: Full=DUF2642 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 102.0
+E-value: 0.03522
+Alignment Length: 67
+Percentage Identity: 0.223
+
+=== A0A818FYD7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAF3481294.1};
+Bit Score: 99.0
+E-value: 0.03522
+Alignment Length: 80
+Percentage Identity: 0.125
+
+=== A0A4R0XKJ7 ===
+DE   RecName: Full=Peptidase S24/S26A/S26B/S26C domain-containing protein {ECO:0000259|Pfam:PF00717};
+Bit Score: 96.0
+E-value: 0.03522
+Alignment Length: 63
+Percentage Identity: 0.158
+
+=== A0A085BMC4 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 95.0
+E-value: 0.03522
+Alignment Length: 82
+Percentage Identity: 0.121
+
+=== N1VBU6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EMY35753.1};
+Bit Score: 86.0
+E-value: 0.03522
+Alignment Length: 64
+Percentage Identity: 0.203
+
+=== A0A1G0G3Q1 ===
+DE   RecName: Full=Peptidase S24/S26A/S26B/S26C domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 116.0
+E-value: 0.03742
+Alignment Length: 52
+Percentage Identity: 0.173
+
+=== A0A2A2R7X3 ===
+DE   RecName: Full=Tyr recombinase domain-containing protein {ECO:0000259|PROSITE:PS51898};
+Bit Score: 91.0
+E-value: 0.03742
+Alignment Length: 78
+Percentage Identity: 0.166
+
+=== A0A377J247 ===
+DE   RecName: Full=RNA chaperone ProQ {ECO:0000256|HAMAP-Rule:MF_00749};
+Bit Score: 91.0
+E-value: 0.03742
+Alignment Length: 76
+Percentage Identity: 0.131
+
+=== A0A5A9N784 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAA0704826.1};
+Bit Score: 80.0
+E-value: 0.03742
+Alignment Length: 102
+Percentage Identity: 0.078
+
+=== A0A265NCE2 ===
+DE   RecName: Full=DUF2642 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.03976
+Alignment Length: 55
+Percentage Identity: 0.218
+
+=== A0A1J0LPI7 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 89.0
+E-value: 0.03976
+Alignment Length: 81
+Percentage Identity: 0.16
+
+=== S6GR36 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EPJ49766.1};
+Bit Score: 109.0
+E-value: 0.04225
+Alignment Length: 76
+Percentage Identity: 0.105
+
+=== A0A239WTV8 ===
+DE   RecName: Full=Peptidase S24/S26A/S26B/S26C domain-containing protein {ECO:0000259|Pfam:PF00717};
+Bit Score: 108.0
+E-value: 0.04225
+Alignment Length: 60
+Percentage Identity: 0.2
+
+=== A0A1G9X247 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SDM90526.1};
+Bit Score: 107.0
+E-value: 0.04225
+Alignment Length: 68
+Percentage Identity: 0.117
+
+=== A0A1F0FZH7 ===
+DE   RecName: Full=Peptidase S24/S26A/S26B/S26C domain-containing protein {ECO:0000259|Pfam:PF00717};
+Bit Score: 111.0
+E-value: 0.0449
+Alignment Length: 50
+Percentage Identity: 0.16
+
+=== A0A227J3G3 ===
+DE   SubName: Full=RNA chaperone ProQ {ECO:0000313|EMBL:OXE29629.1};
+DE   Flags: Fragment;
+Bit Score: 109.0
+E-value: 0.0449
+Alignment Length: 50
+Percentage Identity: 0.16
+
+=== A0A7C5J3C5 ===
+DE   SubName: Full=DUF968 domain-containing protein {ECO:0000313|EMBL:HHH29077.1};
+Bit Score: 103.0
+E-value: 0.0449
+Alignment Length: 54
+Percentage Identity: 0.166
+
+=== V9L1B1 ===
+DE   RecName: Full=Zinc finger CCCH-type with G patch domain-containing protein {ECO:0000256|ARBA:ARBA00022414};
+DE   Flags: Fragment;
+Bit Score: 93.0
+E-value: 0.0449
+Alignment Length: 82
+Percentage Identity: 0.085
+
+=== A0A1L0CTM4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SGZ38071.1};
+Bit Score: 91.0
+E-value: 0.0449
+Alignment Length: 86
+Percentage Identity: 0.162
+
+=== A0A1N5TMZ3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SIM49425.1};
+Bit Score: 90.0
+E-value: 0.0449
+Alignment Length: 68
+Percentage Identity: 0.205
+
+=== A0A7S4C1N8 ===
+DE   RecName: Full=Tudor domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 112.0
+E-value: 0.04771
+Alignment Length: 45
+Percentage Identity: 0.177
+
+=== A0A6M8HM34 ===
+DE   SubName: Full=Helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:QKE89408.1};
+Bit Score: 107.0
+E-value: 0.04771
+Alignment Length: 52
+Percentage Identity: 0.115
+
+=== A0A261GRY8 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 106.0
+E-value: 0.04771
+Alignment Length: 53
+Percentage Identity: 0.132
+
+=== A0A1I0CD38 ===
+DE   SubName: Full=Phage repressor protein C, contains Cro/C1-type HTH and peptisase s24 domains {ECO:0000313|EMBL:SET16831.1};
+Bit Score: 105.0
+E-value: 0.04771
+Alignment Length: 51
+Percentage Identity: 0.176
+
+=== O34995 ===
+DE   RecName: Full=HP0423 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.04771
+Alignment Length: 69
+Percentage Identity: 0.246
+
+=== F0YHD5 ===
+DE   RecName: Full=KOW domain-containing protein {ECO:0000259|SMART:SM00739};
+Bit Score: 103.0
+E-value: 0.04771
+Alignment Length: 52
+Percentage Identity: 0.153
+
+=== A0A7I8DDQ5 ===
+DE   RecName: Full=Spore coat protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.04771
+Alignment Length: 74
+Percentage Identity: 0.162
+
+=== A0A5C4RUF6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TNJ34559.1};
+Bit Score: 100.0
+E-value: 0.04771
+Alignment Length: 84
+Percentage Identity: 0.142
+
+=== A0A7X4I2S1 ===
+DE   RecName: Full=Peptidase S24/S26A/S26B/S26C domain-containing protein {ECO:0000259|Pfam:PF00717};
+Bit Score: 100.0
+E-value: 0.04771
+Alignment Length: 77
+Percentage Identity: 0.129
+
+=== W9V014 ===
+DE   RecName: Full=KOW domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 97.0
+E-value: 0.04771
+Alignment Length: 80
+Percentage Identity: 0.137
+
+=== A0A519BUX2 ===
+DE   RecName: Full=Peptidase S24/S26A/S26B/S26C domain-containing protein {ECO:0000259|Pfam:PF00717};
+Bit Score: 95.0
+E-value: 0.04771
+Alignment Length: 55
+Percentage Identity: 0.09
+
+=== A0A0F6RDD3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AKE53198.1};
+Bit Score: 93.0
+E-value: 0.04771
+Alignment Length: 90
+Percentage Identity: 0.111
+
+=== A0A7S0HRF6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAD8491695.1};
+Bit Score: 85.0
+E-value: 0.04771
+Alignment Length: 90
+Percentage Identity: 0.166
+

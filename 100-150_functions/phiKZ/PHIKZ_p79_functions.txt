@@ -1,0 +1,28 @@
+=== A0A831NUE7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HDK44593.1};
+Bit Score: 69.0
+E-value: 0.005442
+Alignment Length: 131
+Percentage Identity: 0.099
+
+=== A0A1Z4LJA7 ===
+DE   RecName: Full=HEAT repeat domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 76.0
+E-value: 0.008882
+Alignment Length: 90
+Percentage Identity: 0.133
+
+=== A0A369K942 ===
+DE   RecName: Full=F-box domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 79.0
+E-value: 0.01135
+Alignment Length: 84
+Percentage Identity: 0.154
+
+=== A0A423VD03 ===
+DE   RecName: Full=F-box domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 80.0
+E-value: 0.03022
+Alignment Length: 119
+Percentage Identity: 0.067
+

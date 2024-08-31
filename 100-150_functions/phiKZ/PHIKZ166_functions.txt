@@ -1,0 +1,49 @@
+=== A0A1T4PMT0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SJZ92661.1};
+Bit Score: 110.0
+E-value: 0.01338
+Alignment Length: 110
+Percentage Identity: 0.109
+
+=== A0A200HQE6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OUZ15023.1};
+Bit Score: 99.0
+E-value: 0.02508
+Alignment Length: 109
+Percentage Identity: 0.11
+
+=== A0A0R2HXF1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KRN54759.1};
+Bit Score: 96.0
+E-value: 0.03152
+Alignment Length: 114
+Percentage Identity: 0.149
+
+=== A0A430AWK2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RSU12439.1};
+Bit Score: 101.0
+E-value: 0.03337
+Alignment Length: 87
+Percentage Identity: 0.137
+
+=== A0A242JWR7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OTP09758.1};
+Bit Score: 93.0
+E-value: 0.03533
+Alignment Length: 112
+Percentage Identity: 0.116
+
+=== S0PB21 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EOT87450.1};
+Bit Score: 88.0
+E-value: 0.03533
+Alignment Length: 114
+Percentage Identity: 0.131
+
+=== A0A1Q2D7Y0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AQP54514.1};
+Bit Score: 92.0
+E-value: 0.04978
+Alignment Length: 107
+Percentage Identity: 0.121
+

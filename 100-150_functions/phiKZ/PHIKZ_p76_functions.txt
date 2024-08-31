@@ -1,0 +1,367 @@
+=== A0A0S4M0T5 ===
+DE   SubName: Full=Putative membrane protein {ECO:0000313|EMBL:CUT17217.1};
+Bit Score: 116.0
+E-value: 0.0009588
+Alignment Length: 118
+Percentage Identity: 0.186
+
+=== A0A348WL07 ===
+DE   RecName: Full=Type II secretion system protein M {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.002342
+Alignment Length: 109
+Percentage Identity: 0.174
+
+=== A0A523LAP1 ===
+DE   RecName: Full=Type II secretion system protein M {ECO:0000256|PIRNR:PIRNR006291};
+DE            Short=T2SS protein M {ECO:0000256|PIRNR:PIRNR006291};
+DE   AltName: Full=General secretion pathway protein M {ECO:0000256|PIRNR:PIRNR006291};
+Bit Score: 77.0
+E-value: 0.005035
+Alignment Length: 116
+Percentage Identity: 0.155
+
+=== A0A1N6CXM2 ===
+DE   SubName: Full=General secretion pathway protein L {ECO:0000313|EMBL:SIN63265.1};
+Bit Score: 92.0
+E-value: 0.005367
+Alignment Length: 122
+Percentage Identity: 0.163
+
+=== A0A6I4LRT2 ===
+DE   RecName: Full=GspL periplasmic domain-containing protein {ECO:0000259|Pfam:PF12693};
+Bit Score: 89.0
+E-value: 0.006498
+Alignment Length: 124
+Percentage Identity: 0.112
+
+=== A0A6H2DQX5 ===
+DE   RecName: Full=General secretion pathway protein L {ECO:0008006|Google:ProtNLM};
+Bit Score: 87.0
+E-value: 0.007383
+Alignment Length: 121
+Percentage Identity: 0.132
+
+=== A0A369WK03 ===
+DE   RecName: Full=Type II secretion system protein M {ECO:0000256|PIRNR:PIRNR006291};
+DE            Short=T2SS protein M {ECO:0000256|PIRNR:PIRNR006291};
+DE   AltName: Full=General secretion pathway protein M {ECO:0000256|PIRNR:PIRNR006291};
+Bit Score: 86.0
+E-value: 0.009529
+Alignment Length: 117
+Percentage Identity: 0.17
+
+=== A0A0C5VZL6 ===
+DE   RecName: Full=Type II secretion system protein L {ECO:0000256|PIRNR:PIRNR015761};
+DE            Short=T2SS protein L {ECO:0000256|PIRNR:PIRNR015761};
+Bit Score: 77.0
+E-value: 0.01016
+Alignment Length: 118
+Percentage Identity: 0.152
+
+=== A0A432XSN5 ===
+DE   RecName: Full=Type II secretion system protein M {ECO:0008006|Google:ProtNLM};
+Bit Score: 88.0
+E-value: 0.0123
+Alignment Length: 113
+Percentage Identity: 0.15
+
+=== A0A840HU55 ===
+DE   SubName: Full=General secretion pathway protein L {ECO:0000313|EMBL:MBB4641036.1};
+Bit Score: 90.0
+E-value: 0.01489
+Alignment Length: 120
+Percentage Identity: 0.116
+
+=== A0A6M4AYW6 ===
+DE   RecName: Full=GspL cytoplasmic actin-ATPase-like domain-containing protein {ECO:0000259|Pfam:PF05134};
+Bit Score: 89.0
+E-value: 0.01489
+Alignment Length: 121
+Percentage Identity: 0.148
+
+=== A0A2S7TQY3 ===
+DE   RecName: Full=GspL periplasmic domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 94.0
+E-value: 0.01587
+Alignment Length: 116
+Percentage Identity: 0.112
+
+=== A0A1Z9DZB0 ===
+DE   RecName: Full=Type II secretion system protein M {ECO:0000256|PIRNR:PIRNR006291};
+DE            Short=T2SS protein M {ECO:0000256|PIRNR:PIRNR006291};
+DE   AltName: Full=General secretion pathway protein M {ECO:0000256|PIRNR:PIRNR006291};
+Bit Score: 70.0
+E-value: 0.01587
+Alignment Length: 109
+Percentage Identity: 0.119
+
+=== A0A4S2H5U6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TGY91114.1};
+Bit Score: 83.0
+E-value: 0.01692
+Alignment Length: 127
+Percentage Identity: 0.11
+
+=== A0A151QH79 ===
+DE   RecName: Full=GspL periplasmic domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 89.0
+E-value: 0.01803
+Alignment Length: 126
+Percentage Identity: 0.103
+
+=== A0A416K0Z3 ===
+DE   RecName: Full=Fimbrial assembly protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 95.0
+E-value: 0.01922
+Alignment Length: 120
+Percentage Identity: 0.091
+
+=== A0A2V3UY41 ===
+DE   SubName: Full=General secretion pathway protein L {ECO:0000313|EMBL:PXW73824.1};
+Bit Score: 80.0
+E-value: 0.01922
+Alignment Length: 119
+Percentage Identity: 0.109
+
+=== A0A258S7D7 ===
+DE   RecName: Full=Type II secretion system protein M {ECO:0008006|Google:ProtNLM};
+Bit Score: 69.0
+E-value: 0.01922
+Alignment Length: 120
+Percentage Identity: 0.075
+
+=== A0A3M1TMJ0 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 67.0
+E-value: 0.01922
+Alignment Length: 133
+Percentage Identity: 0.18
+
+=== A0A1F6MBQ0 ===
+DE   RecName: Full=Smr domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 99.0
+E-value: 0.02049
+Alignment Length: 82
+Percentage Identity: 0.146
+
+=== A0A7W3U672 ===
+DE   SubName: Full=Type II secretion system protein M {ECO:0000313|EMBL:MBB1089350.1};
+Bit Score: 75.0
+E-value: 0.02184
+Alignment Length: 111
+Percentage Identity: 0.162
+
+=== A0A349GWY7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HAS81550.1};
+Bit Score: 69.0
+E-value: 0.02184
+Alignment Length: 111
+Percentage Identity: 0.171
+
+=== A0A5A7N8Q8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GER04468.1};
+Bit Score: 95.0
+E-value: 0.02327
+Alignment Length: 110
+Percentage Identity: 0.19
+
+=== A0A7C7RL28 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HIE15137.1};
+Bit Score: 103.0
+E-value: 0.02481
+Alignment Length: 79
+Percentage Identity: 0.139
+
+=== X1QBX3 ===
+DE   RecName: Full=Transcription-repair-coupling factor C-terminal domain-containing protein {ECO:0000259|SMART:SM00982};
+DE   Flags: Fragment;
+Bit Score: 81.0
+E-value: 0.02481
+Alignment Length: 114
+Percentage Identity: 0.157
+
+=== A0A142W0E8 ===
+DE   SubName: Full=General secretion pathway protein GspL {ECO:0000313|EMBL:AMU95513.1};
+Bit Score: 79.0
+E-value: 0.02481
+Alignment Length: 121
+Percentage Identity: 0.123
+
+=== A0A1F4DAU2 ===
+DE   RecName: Full=Fimbrial assembly protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 77.0
+E-value: 0.02818
+Alignment Length: 119
+Percentage Identity: 0.142
+
+=== A0A7J6VV92 ===
+DE   SubName: Full=Transcription factor like {ECO:0000313|EMBL:KAF5189014.1};
+Bit Score: 58.0
+E-value: 0.02818
+Alignment Length: 150
+Percentage Identity: 0.153
+
+=== A0A7L4NU14 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NYB26094.1};
+Bit Score: 80.0
+E-value: 0.03004
+Alignment Length: 115
+Percentage Identity: 0.182
+
+=== T0H227 ===
+DE   SubName: Full=General secretion pathway protein L {ECO:0000313|EMBL:EQB07002.1};
+DE   Flags: Fragment;
+Bit Score: 79.0
+E-value: 0.03004
+Alignment Length: 122
+Percentage Identity: 0.106
+
+=== A0A6C0BP60 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QHS93043.1};
+Bit Score: 72.0
+E-value: 0.03004
+Alignment Length: 143
+Percentage Identity: 0.083
+
+=== A0A1L4C0H4 ===
+DE   RecName: Full=Tfp pilus assembly protein PilN {ECO:0008006|Google:ProtNLM};
+Bit Score: 69.0
+E-value: 0.03004
+Alignment Length: 130
+Percentage Identity: 0.146
+
+=== A0A382ETN4 ===
+DE   RecName: Full=Type II secretion system protein M {ECO:0008006|Google:ProtNLM};
+Bit Score: 73.0
+E-value: 0.03202
+Alignment Length: 120
+Percentage Identity: 0.116
+
+=== A0A2G2FXA2 ===
+DE   RecName: Full=GspL cytoplasmic actin-ATPase-like domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 92.0
+E-value: 0.03413
+Alignment Length: 111
+Percentage Identity: 0.108
+
+=== A0A2G2LZ40 ===
+DE   RecName: Full=GspL periplasmic domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 76.0
+E-value: 0.03413
+Alignment Length: 110
+Percentage Identity: 0.127
+
+=== A0A838EW15 ===
+DE   SubName: Full=Pilus assembly protein PilM {ECO:0000313|EMBL:MBA2404799.1};
+Bit Score: 65.0
+E-value: 0.03413
+Alignment Length: 113
+Percentage Identity: 0.141
+
+=== A0A6N8FHS1 ===
+DE   RecName: Full=Tfp pilus assembly protein PilN {ECO:0008006|Google:ProtNLM};
+Bit Score: 78.0
+E-value: 0.03637
+Alignment Length: 114
+Percentage Identity: 0.157
+
+=== A0A662USN0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RLG81287.1};
+Bit Score: 102.0
+E-value: 0.03877
+Alignment Length: 62
+Percentage Identity: 0.112
+
+=== A0A4R2PER3 ===
+DE   RecName: Full=General secretion pathway protein L {ECO:0008006|Google:ProtNLM};
+Bit Score: 96.0
+E-value: 0.03877
+Alignment Length: 106
+Percentage Identity: 0.141
+
+=== F0TAL9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ADZ10091.1};
+Bit Score: 85.0
+E-value: 0.03877
+Alignment Length: 100
+Percentage Identity: 0.11
+
+=== A0A3D5VIS2 ===
+DE   RecName: Full=PilN domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 71.0
+E-value: 0.03877
+Alignment Length: 118
+Percentage Identity: 0.127
+
+=== A0A6C2U3Y6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VGO14261.1};
+Bit Score: 69.0
+E-value: 0.03877
+Alignment Length: 122
+Percentage Identity: 0.122
+
+=== A0A075JU12 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AIF45374.1};
+Bit Score: 82.0
+E-value: 0.04132
+Alignment Length: 115
+Percentage Identity: 0.13
+
+=== A0A838Z0E9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBA4849420.1};
+Bit Score: 91.0
+E-value: 0.04405
+Alignment Length: 116
+Percentage Identity: 0.077
+
+=== A0A1W9P6J5 ===
+DE   RecName: Full=SHS2 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 72.0
+E-value: 0.04405
+Alignment Length: 115
+Percentage Identity: 0.147
+
+=== A0A0T9P8Z6 ===
+DE   SubName: Full=General secretion pathway protein L {ECO:0000313|EMBL:CNH52037.1};
+Bit Score: 70.0
+E-value: 0.04405
+Alignment Length: 120
+Percentage Identity: 0.133
+
+=== A0A840EUX8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB4117894.1};
+Bit Score: 88.0
+E-value: 0.04695
+Alignment Length: 83
+Percentage Identity: 0.132
+
+=== A0A3N5YFC7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RPJ71816.1};
+Bit Score: 82.0
+E-value: 0.04695
+Alignment Length: 79
+Percentage Identity: 0.151
+
+=== A0A1V2YFZ8 ===
+DE   RecName: Full=GspL periplasmic domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 76.0
+E-value: 0.04695
+Alignment Length: 119
+Percentage Identity: 0.092
+
+=== A0A7U4GDA4 ===
+DE   SubName: Full=General secretion pathway protein GspL {ECO:0000313|EMBL:AHM72333.1};
+Bit Score: 75.0
+E-value: 0.04695
+Alignment Length: 121
+Percentage Identity: 0.115
+
+=== A0A4U8W3B9 ===
+DE   RecName: Full=Arsenate reductase {ECO:0008006|Google:ProtNLM};
+Bit Score: 74.0
+E-value: 0.04695
+Alignment Length: 103
+Percentage Identity: 0.135
+

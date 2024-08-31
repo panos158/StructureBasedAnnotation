@@ -1,0 +1,4026 @@
+=== A0A0H3B1B2 ===
+DE   RecName: Full=Bacteriophage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 853.0
+E-value: 1.558e-18
+Alignment Length: 146
+Percentage Identity: 0.486
+
+=== F3QJE4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EGG55792.1};
+Bit Score: 432.0
+E-value: 2.274e-10
+Alignment Length: 150
+Percentage Identity: 0.22
+
+=== A0A843HIL9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBO7732868.1};
+Bit Score: 424.0
+E-value: 5.112e-10
+Alignment Length: 151
+Percentage Identity: 0.158
+
+=== A0A3V3LP51 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 412.0
+E-value: 2.198e-09
+Alignment Length: 149
+Percentage Identity: 0.208
+
+=== A0A348HFP8 ===
+DE   SubName: Full=ABC-type multidrug transport system, ATPase {ECO:0000313|EMBL:BBG30450.1};
+Bit Score: 396.0
+E-value: 3.039e-09
+Alignment Length: 152
+Percentage Identity: 0.144
+
+=== A0A7H1NR70 ===
+DE   RecName: Full=Tail tube protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 377.0
+E-value: 4.683e-09
+Alignment Length: 177
+Percentage Identity: 0.141
+
+=== H0TMA9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CCE07597.1};
+Bit Score: 389.0
+E-value: 5.506e-09
+Alignment Length: 149
+Percentage Identity: 0.154
+
+=== A0A252A6G4 ===
+DE   SubName: Full=Burkholderia phage Bcep781 gp03 {ECO:0000313|EMBL:BBC80864.1};
+Bit Score: 392.0
+E-value: 6.834e-09
+Alignment Length: 151
+Percentage Identity: 0.192
+
+=== A0A258BDC0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OYW81344.1};
+Bit Score: 382.0
+E-value: 6.834e-09
+Alignment Length: 152
+Percentage Identity: 0.164
+
+=== A0A1H1GX44 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SDR17693.1};
+Bit Score: 376.0
+E-value: 6.834e-09
+Alignment Length: 157
+Percentage Identity: 0.203
+
+=== A0A1Y4GHN3 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 361.0
+E-value: 6.834e-09
+Alignment Length: 159
+Percentage Identity: 0.207
+
+=== A0A4P7WDA8 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 388.0
+E-value: 7.214e-09
+Alignment Length: 150
+Percentage Identity: 0.186
+
+=== A0A0J6SKK8 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 386.0
+E-value: 1.537e-08
+Alignment Length: 151
+Percentage Identity: 0.152
+
+=== A0A0H3GKS0 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 377.0
+E-value: 1.807e-08
+Alignment Length: 151
+Percentage Identity: 0.178
+
+=== A0A4Y6U9Q9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QDH14122.1};
+Bit Score: 373.0
+E-value: 2.013e-08
+Alignment Length: 154
+Percentage Identity: 0.214
+
+=== A0A6L9VWB5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NEL78724.1};
+Bit Score: 369.0
+E-value: 2.013e-08
+Alignment Length: 149
+Percentage Identity: 0.181
+
+=== A0A495RIH4 ===
+DE   RecName: Full=Tail tube protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 368.0
+E-value: 2.125e-08
+Alignment Length: 149
+Percentage Identity: 0.147
+
+=== A0A843H2S8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBO7714404.1};
+Bit Score: 376.0
+E-value: 2.243e-08
+Alignment Length: 149
+Percentage Identity: 0.147
+
+=== A0A5B0HDA2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAA1013030.1};
+Bit Score: 381.0
+E-value: 2.367e-08
+Alignment Length: 150
+Percentage Identity: 0.146
+
+=== A0A6I4Z0H6 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 357.0
+E-value: 3.455e-08
+Alignment Length: 155
+Percentage Identity: 0.148
+
+=== A0A0J1LUL2 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 359.0
+E-value: 3.85e-08
+Alignment Length: 150
+Percentage Identity: 0.173
+
+=== A0A6V8IJA4 ===
+DE   RecName: Full=Tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 359.0
+E-value: 3.85e-08
+Alignment Length: 148
+Percentage Identity: 0.141
+
+=== A0A6I4YXN7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MXV44401.1};
+Bit Score: 356.0
+E-value: 5.619e-08
+Alignment Length: 149
+Percentage Identity: 0.187
+
+=== A0A257QHL3 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 340.0
+E-value: 8.201e-08
+Alignment Length: 149
+Percentage Identity: 0.174
+
+=== C3X1U4 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 336.0
+E-value: 1.074e-07
+Alignment Length: 150
+Percentage Identity: 0.18
+
+=== A0A1Y4CYM3 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 323.0
+E-value: 2.168e-07
+Alignment Length: 149
+Percentage Identity: 0.147
+
+=== A0A0J5IQH9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KMJ45465.1};
+Bit Score: 297.0
+E-value: 2.998e-07
+Alignment Length: 150
+Percentage Identity: 0.153
+
+=== A0A5E4TRG6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VVD90530.1};
+Bit Score: 330.0
+E-value: 3.526e-07
+Alignment Length: 150
+Percentage Identity: 0.126
+
+=== A0A7S9CLQ6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QPF81677.1};
+Bit Score: 320.0
+E-value: 6.388e-07
+Alignment Length: 154
+Percentage Identity: 0.149
+
+=== A0A843HTH9 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 268.0
+E-value: 1.039e-06
+Alignment Length: 153
+Percentage Identity: 0.156
+
+=== A0A413FXL3 ===
+DE   SubName: Full=DUF3277 family protein {ECO:0000313|EMBL:RGX53190.1};
+Bit Score: 252.0
+E-value: 1.096e-06
+Alignment Length: 150
+Percentage Identity: 0.126
+
+=== A0A4U8SHK2 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 276.0
+E-value: 1.6e-06
+Alignment Length: 149
+Percentage Identity: 0.181
+
+=== A0A257QWL2 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 305.0
+E-value: 2.335e-06
+Alignment Length: 138
+Percentage Identity: 0.137
+
+=== A0A420W5B7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RKQ59859.1};
+Bit Score: 245.0
+E-value: 2.899e-06
+Alignment Length: 153
+Percentage Identity: 0.15
+
+=== A0A3B0BRC0 ===
+DE   SubName: Full=DUF3277 family protein {ECO:0000313|EMBL:RKN75001.1};
+Bit Score: 253.0
+E-value: 4.008e-06
+Alignment Length: 152
+Percentage Identity: 0.092
+
+=== A0A0A2Y737 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 262.0
+E-value: 4.714e-06
+Alignment Length: 152
+Percentage Identity: 0.125
+
+=== G9XHH5 ===
+DE   RecName: Full=DUF3277 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 243.0
+E-value: 9.513e-06
+Alignment Length: 150
+Percentage Identity: 0.12
+
+=== A0A3D5P8W9 ===
+DE   RecName: Full=DUF3277 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 235.0
+E-value: 1.633e-05
+Alignment Length: 153
+Percentage Identity: 0.071
+
+=== A0A3N5PEG8 ===
+DE   RecName: Full=DUF4382 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 212.0
+E-value: 1.633e-05
+Alignment Length: 146
+Percentage Identity: 0.136
+
+=== A0A512PLI1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GEP72033.1};
+Bit Score: 236.0
+E-value: 2.515e-05
+Alignment Length: 152
+Percentage Identity: 0.118
+
+=== A0A4P7L0D0 ===
+DE   RecName: Full=Phage tail tube protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 216.0
+E-value: 2.515e-05
+Alignment Length: 160
+Percentage Identity: 0.118
+
+=== A0A401FPZ4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAY74281.1};
+Bit Score: 211.0
+E-value: 3.122e-05
+Alignment Length: 149
+Percentage Identity: 0.134
+
+=== J0QTA0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EJF89111.1};
+Bit Score: 247.0
+E-value: 3.875e-05
+Alignment Length: 82
+Percentage Identity: 0.378
+
+=== A0A2H1FC54 ===
+DE   SubName: Full=Putative Glucose dehydrogenase PQQ-dependent {ECO:0000313|EMBL:SMH70350.1};
+Bit Score: 199.0
+E-value: 3.875e-05
+Alignment Length: 174
+Percentage Identity: 0.103
+
+=== A0A843GUF4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBO7696252.1};
+Bit Score: 189.0
+E-value: 3.875e-05
+Alignment Length: 159
+Percentage Identity: 0.138
+
+=== K6E2U3 ===
+DE   SubName: Full=Core tail protein {ECO:0000313|EMBL:EKN67496.1};
+Bit Score: 202.0
+E-value: 4.09e-05
+Alignment Length: 153
+Percentage Identity: 0.13
+
+=== A0A3L7XHG7 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:RLT42156.1};
+Bit Score: 169.0
+E-value: 5.97e-05
+Alignment Length: 167
+Percentage Identity: 0.107
+
+=== A0A1V4WSQ7 ===
+DE   RecName: Full=Phage tail tube protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 206.0
+E-value: 7.02e-05
+Alignment Length: 145
+Percentage Identity: 0.137
+
+=== C7BJD6 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 175.0
+E-value: 7.02e-05
+Alignment Length: 155
+Percentage Identity: 0.07
+
+=== A0A6B2DKM4 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:NED42752.1};
+Bit Score: 163.0
+E-value: 7.821e-05
+Alignment Length: 153
+Percentage Identity: 0.117
+
+=== A0A197JQA1 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 164.0
+E-value: 8.255e-05
+Alignment Length: 154
+Percentage Identity: 0.077
+
+=== A0A2E8P847 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 161.0
+E-value: 8.714e-05
+Alignment Length: 153
+Percentage Identity: 0.124
+
+=== A0A2W6D8V2 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:PZS28298.1};
+Bit Score: 158.0
+E-value: 0.0001082
+Alignment Length: 156
+Percentage Identity: 0.115
+
+=== A0A225DXL6 ===
+DE   SubName: Full=Phage protein {ECO:0000313|EMBL:OWK42466.1};
+Bit Score: 188.0
+E-value: 0.0001272
+Alignment Length: 95
+Percentage Identity: 0.4
+
+=== A0A6V8EYZ8 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 179.0
+E-value: 0.0001272
+Alignment Length: 155
+Percentage Identity: 0.07
+
+=== A0A023Q0K4 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 181.0
+E-value: 0.0001342
+Alignment Length: 159
+Percentage Identity: 0.075
+
+=== A0A842T8R9 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.0001417
+Alignment Length: 180
+Percentage Identity: 0.111
+
+=== A0A856MMZ4 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 170.0
+E-value: 0.0001579
+Alignment Length: 167
+Percentage Identity: 0.119
+
+=== U5QPN4 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.0001666
+Alignment Length: 175
+Percentage Identity: 0.131
+
+=== A0A5C7Q423 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 181.0
+E-value: 0.0001759
+Alignment Length: 152
+Percentage Identity: 0.098
+
+=== A0A1B8YJP2 ===
+DE   SubName: Full=T4-like virus tail tube protein gp19 {ECO:0000313|EMBL:OCA55321.1};
+Bit Score: 175.0
+E-value: 0.0001759
+Alignment Length: 155
+Percentage Identity: 0.051
+
+=== A0A367RYW5 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 153.0
+E-value: 0.0001759
+Alignment Length: 158
+Percentage Identity: 0.145
+
+=== A0A6M3J3J5 ===
+DE   SubName: Full=Putative tail protein {ECO:0000313|EMBL:QJA63721.1};
+Bit Score: 137.0
+E-value: 0.0001759
+Alignment Length: 150
+Percentage Identity: 0.16
+
+=== A0A329H262 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:RAU29890.1};
+Bit Score: 160.0
+E-value: 0.0001959
+Alignment Length: 160
+Percentage Identity: 0.1
+
+=== A0A512SYR7 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:GEQ13098.1};
+Bit Score: 147.0
+E-value: 0.0001959
+Alignment Length: 160
+Percentage Identity: 0.143
+
+=== A0A1T5DPK7 ===
+DE   SubName: Full=Conserved hypothetical phage tail region protein {ECO:0000313|EMBL:SKB73373.1};
+Bit Score: 143.0
+E-value: 0.0001959
+Alignment Length: 172
+Percentage Identity: 0.133
+
+=== A0A2C9AAC0 ===
+DE   RecName: Full=Phage tail tube protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 191.0
+E-value: 0.0002068
+Alignment Length: 138
+Percentage Identity: 0.137
+
+=== A0A1Y4CBC6 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 159.0
+E-value: 0.0002068
+Alignment Length: 162
+Percentage Identity: 0.117
+
+=== A0A846BJ60 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:NER96093.1};
+Bit Score: 164.0
+E-value: 0.0002183
+Alignment Length: 156
+Percentage Identity: 0.089
+
+=== A0A1I2H371 ===
+DE   SubName: Full=Phage tail tube protein {ECO:0000313|EMBL:SFF23131.1};
+Bit Score: 180.0
+E-value: 0.0002304
+Alignment Length: 153
+Percentage Identity: 0.143
+
+=== A0A382XSV9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SVD73745.1};
+DE   Flags: Fragment;
+Bit Score: 146.0
+E-value: 0.0002304
+Alignment Length: 163
+Percentage Identity: 0.116
+
+=== A0A6M3J4A5 ===
+DE   RecName: Full=Tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 187.0
+E-value: 0.0002432
+Alignment Length: 152
+Percentage Identity: 0.144
+
+=== A0A0P6XRH2 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 186.0
+E-value: 0.0002432
+Alignment Length: 152
+Percentage Identity: 0.125
+
+=== A0A6H1Z840 ===
+DE   RecName: Full=Tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 175.0
+E-value: 0.0002709
+Alignment Length: 147
+Percentage Identity: 0.142
+
+=== A0A0F9D137 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKL05803.1};
+Bit Score: 169.0
+E-value: 0.0002709
+Alignment Length: 153
+Percentage Identity: 0.124
+
+=== A0A843GGY7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBO7691793.1};
+Bit Score: 150.0
+E-value: 0.0002709
+Alignment Length: 174
+Percentage Identity: 0.12
+
+=== A0A651ER62 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:TVQ58288.1};
+Bit Score: 166.0
+E-value: 0.0003186
+Alignment Length: 158
+Percentage Identity: 0.126
+
+=== A0A2D0K6N9 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:PHM59030.1};
+Bit Score: 158.0
+E-value: 0.0003186
+Alignment Length: 153
+Percentage Identity: 0.058
+
+=== A0A0F9WMT3 ===
+DE   RecName: Full=Tail tube protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 150.0
+E-value: 0.0003186
+Alignment Length: 145
+Percentage Identity: 0.11
+
+=== A0A2W4QQY4 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:PZN74013.1};
+Bit Score: 161.0
+E-value: 0.0003363
+Alignment Length: 163
+Percentage Identity: 0.104
+
+=== A0A3G4W3U1 ===
+DE   SubName: Full=T4-like virus tail tube protein gp19 {ECO:0000313|EMBL:AYV31029.1};
+Bit Score: 148.0
+E-value: 0.0003363
+Alignment Length: 156
+Percentage Identity: 0.108
+
+=== A0A5M6IYV8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAA5613471.1};
+Bit Score: 163.0
+E-value: 0.0003549
+Alignment Length: 162
+Percentage Identity: 0.172
+
+=== A0A2D6XIY3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAH50881.1};
+Bit Score: 160.0
+E-value: 0.0003549
+Alignment Length: 159
+Percentage Identity: 0.125
+
+=== A0A285QDR3 ===
+DE   SubName: Full=Conserved hypothetical phage tail region protein {ECO:0000313|EMBL:SOB79579.1};
+Bit Score: 156.0
+E-value: 0.0003549
+Alignment Length: 154
+Percentage Identity: 0.136
+
+=== A0A2D6X4D5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAH45807.1};
+Bit Score: 152.0
+E-value: 0.0003549
+Alignment Length: 159
+Percentage Identity: 0.119
+
+=== A0A3A6PPC5 ===
+DE   SubName: Full=Phage portal protein {ECO:0000313|EMBL:RJX40059.1};
+Bit Score: 173.0
+E-value: 0.0003746
+Alignment Length: 154
+Percentage Identity: 0.084
+
+=== A0A5C7FAW1 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:TXF86660.1};
+Bit Score: 149.0
+E-value: 0.0003746
+Alignment Length: 156
+Percentage Identity: 0.089
+
+=== A0A2E3G882 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 148.0
+E-value: 0.0003746
+Alignment Length: 169
+Percentage Identity: 0.094
+
+=== A0A415BSF4 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:RHI92151.1};
+Bit Score: 130.0
+E-value: 0.0003746
+Alignment Length: 157
+Percentage Identity: 0.095
+
+=== A0A0C5VV37 ===
+DE   RecName: Full=Phage tail region protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 174.0
+E-value: 0.0004174
+Alignment Length: 162
+Percentage Identity: 0.08
+
+=== A0A661IMQ9 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 166.0
+E-value: 0.0004174
+Alignment Length: 173
+Percentage Identity: 0.127
+
+=== A0A563VRZ9 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:VEP14162.1};
+Bit Score: 144.0
+E-value: 0.0004174
+Alignment Length: 169
+Percentage Identity: 0.106
+
+=== A0A0S3TZQ7 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 128.0
+E-value: 0.0004174
+Alignment Length: 174
+Percentage Identity: 0.155
+
+=== A0A2D8LVA1 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 145.0
+E-value: 0.0004406
+Alignment Length: 157
+Percentage Identity: 0.133
+
+=== A0A849VF37 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:NOU50544.1};
+Bit Score: 141.0
+E-value: 0.0004406
+Alignment Length: 167
+Percentage Identity: 0.119
+
+=== A0A3M1RQR2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RMF94459.1};
+DE   Flags: Fragment;
+Bit Score: 113.0
+E-value: 0.0004406
+Alignment Length: 157
+Percentage Identity: 0.152
+
+=== A0A838RF56 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:MBA3532172.1};
+Bit Score: 131.0
+E-value: 0.000465
+Alignment Length: 161
+Percentage Identity: 0.142
+
+=== A0A1Q3V071 ===
+DE   RecName: Full=Lipocalin-like domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 157.0
+E-value: 0.0004908
+Alignment Length: 152
+Percentage Identity: 0.157
+
+=== A0A2R5FXL0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GBG22799.1};
+Bit Score: 141.0
+E-value: 0.0004908
+Alignment Length: 168
+Percentage Identity: 0.089
+
+=== A0A354B328 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 148.0
+E-value: 0.0005181
+Alignment Length: 158
+Percentage Identity: 0.107
+
+=== A0A0F9PQE6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKN26837.1};
+Bit Score: 147.0
+E-value: 0.0005181
+Alignment Length: 163
+Percentage Identity: 0.092
+
+=== A0A662DQ96 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 145.0
+E-value: 0.0005181
+Alignment Length: 146
+Percentage Identity: 0.136
+
+=== A0A6H9YN87 ===
+DE   RecName: Full=Phage tail family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 140.0
+E-value: 0.0005181
+Alignment Length: 170
+Percentage Identity: 0.176
+
+=== A0A831QR08 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:HEA23304.1};
+Bit Score: 142.0
+E-value: 0.0005468
+Alignment Length: 157
+Percentage Identity: 0.101
+
+=== A0A0B1YFI7 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 131.0
+E-value: 0.0005468
+Alignment Length: 159
+Percentage Identity: 0.088
+
+=== A0A411ZZT0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RGQ08351.1};
+Bit Score: 127.0
+E-value: 0.0005468
+Alignment Length: 163
+Percentage Identity: 0.11
+
+=== A0A5F1HT93 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:TGC20667.1};
+Bit Score: 152.0
+E-value: 0.0005772
+Alignment Length: 154
+Percentage Identity: 0.09
+
+=== A0A7K3SBT5 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:NEC24743.1};
+Bit Score: 151.0
+E-value: 0.0005772
+Alignment Length: 154
+Percentage Identity: 0.142
+
+=== A0A810MX36 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:BCJ63908.1};
+Bit Score: 135.0
+E-value: 0.0006092
+Alignment Length: 161
+Percentage Identity: 0.13
+
+=== A0A0D6NMR3 ===
+DE   SubName: Full=Phage protein {ECO:0000313|EMBL:GAN66908.1};
+Bit Score: 161.0
+E-value: 0.000643
+Alignment Length: 151
+Percentage Identity: 0.125
+
+=== A0A1M3PJ84 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OJY66440.1};
+Bit Score: 147.0
+E-value: 0.000643
+Alignment Length: 151
+Percentage Identity: 0.119
+
+=== A0A849VBY6 ===
+DE   RecName: Full=Phage tail-like protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 145.0
+E-value: 0.000643
+Alignment Length: 174
+Percentage Identity: 0.057
+
+=== B0C8W8 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 148.0
+E-value: 0.0006787
+Alignment Length: 172
+Percentage Identity: 0.104
+
+=== A0A5M6IVK3 ===
+DE   RecName: Full=DUF2793 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 160.0
+E-value: 0.0007164
+Alignment Length: 156
+Percentage Identity: 0.121
+
+=== A0A482IN64 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QBP09376.1};
+Bit Score: 157.0
+E-value: 0.0007164
+Alignment Length: 152
+Percentage Identity: 0.098
+
+=== A0A1V0TJI1 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.0007164
+Alignment Length: 156
+Percentage Identity: 0.096
+
+=== A0A4P8QB81 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 167.0
+E-value: 0.0007561
+Alignment Length: 158
+Percentage Identity: 0.094
+
+=== A0A843GGG2 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 129.0
+E-value: 0.0007561
+Alignment Length: 178
+Percentage Identity: 0.134
+
+=== A0A1Y4JAH1 ===
+DE   RecName: Full=Phage portal protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 155.0
+E-value: 0.0007981
+Alignment Length: 158
+Percentage Identity: 0.107
+
+=== A0A534PKH6 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:TMA26697.1};
+Bit Score: 137.0
+E-value: 0.0007981
+Alignment Length: 148
+Percentage Identity: 0.128
+
+=== A0A6N7YPR4 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:MTD44543.1};
+Bit Score: 129.0
+E-value: 0.0007981
+Alignment Length: 159
+Percentage Identity: 0.1
+
+=== A0A7H8GY82 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:QKV68990.1};
+Bit Score: 122.0
+E-value: 0.0007981
+Alignment Length: 164
+Percentage Identity: 0.115
+
+=== A0A1E4QYF2 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.0007981
+Alignment Length: 177
+Percentage Identity: 0.118
+
+=== A0A1H1IJU5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SDR37648.1};
+Bit Score: 169.0
+E-value: 0.0008424
+Alignment Length: 154
+Percentage Identity: 0.155
+
+=== A0A292S9W7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:DAB17444.1};
+Bit Score: 142.0
+E-value: 0.0008424
+Alignment Length: 192
+Percentage Identity: 0.078
+
+=== C7M039 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 141.0
+E-value: 0.0008424
+Alignment Length: 162
+Percentage Identity: 0.117
+
+=== A0A5C7P2V4 ===
+DE   RecName: Full=DUF192 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 177.0
+E-value: 0.0008892
+Alignment Length: 155
+Percentage Identity: 0.116
+
+=== A0A1Z4QPP7 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 149.0
+E-value: 0.0009385
+Alignment Length: 167
+Percentage Identity: 0.137
+
+=== W7IJ76 ===
+DE   SubName: Full=Phage tail-like protein {ECO:0000313|EMBL:PWW66539.1};
+Bit Score: 138.0
+E-value: 0.0009385
+Alignment Length: 156
+Percentage Identity: 0.141
+
+=== A0A2W4SME7 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:PZN74014.1};
+Bit Score: 125.0
+E-value: 0.0009385
+Alignment Length: 160
+Percentage Identity: 0.1
+
+=== A0A2S9WZD2 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 159.0
+E-value: 0.0009906
+Alignment Length: 159
+Percentage Identity: 0.062
+
+=== B7IZH4 ===
+DE   SubName: Full=Virion structural protein {ECO:0000313|EMBL:ACK98750.1};
+Bit Score: 129.0
+E-value: 0.0009906
+Alignment Length: 151
+Percentage Identity: 0.072
+
+=== L8MXR0 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.0009906
+Alignment Length: 175
+Percentage Identity: 0.131
+
+=== A0A0G1W3Y1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKW13418.1};
+Bit Score: 167.0
+E-value: 0.001046
+Alignment Length: 155
+Percentage Identity: 0.09
+
+=== A0A542AKQ6 ===
+DE   RecName: Full=Tail tube protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 162.0
+E-value: 0.001046
+Alignment Length: 157
+Percentage Identity: 0.108
+
+=== A0A081KAN8 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 151.0
+E-value: 0.001046
+Alignment Length: 166
+Percentage Identity: 0.066
+
+=== A0A7Y7E7E1 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:NVK78888.1};
+Bit Score: 143.0
+E-value: 0.001046
+Alignment Length: 160
+Percentage Identity: 0.093
+
+=== A0A0L0W699 ===
+DE   SubName: Full=Phage major tail protein, phi13 family {ECO:0000313|EMBL:KNF07006.1};
+Bit Score: 138.0
+E-value: 0.001046
+Alignment Length: 171
+Percentage Identity: 0.122
+
+=== A0A367Q8N7 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 123.0
+E-value: 0.001046
+Alignment Length: 158
+Percentage Identity: 0.139
+
+=== A0A7C3UK15 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.001046
+Alignment Length: 169
+Percentage Identity: 0.112
+
+=== A0A354CP33 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 158.0
+E-value: 0.001104
+Alignment Length: 160
+Percentage Identity: 0.125
+
+=== A0A2T4TTE0 ===
+DE   SubName: Full=Glycerol acyltransferase {ECO:0000313|EMBL:PTL34375.1};
+Bit Score: 145.0
+E-value: 0.001104
+Alignment Length: 161
+Percentage Identity: 0.099
+
+=== A0A561BKI8 ===
+DE   SubName: Full=Phage tail-like protein {ECO:0000313|EMBL:TWD79396.1};
+Bit Score: 142.0
+E-value: 0.001104
+Alignment Length: 147
+Percentage Identity: 0.108
+
+=== A0A1I2BA33 ===
+DE   RecName: Full=Immunity protein 50 {ECO:0008006|Google:ProtNLM};
+Bit Score: 136.0
+E-value: 0.001165
+Alignment Length: 148
+Percentage Identity: 0.081
+
+=== A0A7V6M674 ===
+DE   SubName: Full=Virion structural protein {ECO:0000313|EMBL:HHU56636.1};
+Bit Score: 114.0
+E-value: 0.001165
+Alignment Length: 159
+Percentage Identity: 0.088
+
+=== A0A2T0WPJ8 ===
+DE   SubName: Full=Phage tail-like protein {ECO:0000313|EMBL:PRY88610.1};
+Bit Score: 147.0
+E-value: 0.00123
+Alignment Length: 163
+Percentage Identity: 0.085
+
+=== A0A1J0A9Y7 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 140.0
+E-value: 0.00123
+Alignment Length: 172
+Percentage Identity: 0.122
+
+=== A0A7W6NXE8 ===
+DE   SubName: Full=Phage tail-like protein {ECO:0000313|EMBL:MBB4099188.1};
+Bit Score: 135.0
+E-value: 0.00123
+Alignment Length: 176
+Percentage Identity: 0.13
+
+=== A0A6M0CC04 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:NEP46191.1};
+Bit Score: 132.0
+E-value: 0.00123
+Alignment Length: 159
+Percentage Identity: 0.075
+
+=== A0A1Q8CNY0 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 128.0
+E-value: 0.00123
+Alignment Length: 161
+Percentage Identity: 0.124
+
+=== A0A1W9WH47 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.00123
+Alignment Length: 157
+Percentage Identity: 0.101
+
+=== A0A371WSZ4 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 141.0
+E-value: 0.001298
+Alignment Length: 157
+Percentage Identity: 0.14
+
+=== A0A843GP35 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBO7694481.1};
+Bit Score: 134.0
+E-value: 0.001298
+Alignment Length: 191
+Percentage Identity: 0.104
+
+=== A0A0B8NHA8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAM47992.1};
+Bit Score: 129.0
+E-value: 0.001298
+Alignment Length: 153
+Percentage Identity: 0.098
+
+=== A0A1F8MND0 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:OGO00134.1};
+Bit Score: 126.0
+E-value: 0.001298
+Alignment Length: 155
+Percentage Identity: 0.083
+
+=== A0A024QHT1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CDQ41812.1};
+Bit Score: 114.0
+E-value: 0.001298
+Alignment Length: 159
+Percentage Identity: 0.113
+
+=== A0A1S1YVT6 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 154.0
+E-value: 0.00137
+Alignment Length: 172
+Percentage Identity: 0.093
+
+=== F7V7N0 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 149.0
+E-value: 0.00137
+Alignment Length: 157
+Percentage Identity: 0.089
+
+=== A0A1Q7Q1G9 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 142.0
+E-value: 0.00137
+Alignment Length: 152
+Percentage Identity: 0.111
+
+=== A0A2U0SFC4 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:PVX30076.1};
+Bit Score: 134.0
+E-value: 0.00137
+Alignment Length: 159
+Percentage Identity: 0.106
+
+=== A0A0P0GV75 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:KAA5411338.1};
+DE   SubName: Full=T4-like virus tail tube protein gp19 {ECO:0000313|EMBL:ALJ61192.1};
+Bit Score: 129.0
+E-value: 0.00137
+Alignment Length: 158
+Percentage Identity: 0.113
+
+=== A0A1Q8Z8U7 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 126.0
+E-value: 0.00137
+Alignment Length: 177
+Percentage Identity: 0.118
+
+=== A0A2G2EIL3 ===
+DE   SubName: Full=Glycerol acyltransferase {ECO:0000313|EMBL:PHR36863.1};
+Bit Score: 124.0
+E-value: 0.00137
+Alignment Length: 169
+Percentage Identity: 0.118
+
+=== A0A382JWB2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SVC16814.1};
+Bit Score: 117.0
+E-value: 0.00137
+Alignment Length: 176
+Percentage Identity: 0.09
+
+=== A0A2E7N0U5 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 113.0
+E-value: 0.00137
+Alignment Length: 139
+Percentage Identity: 0.122
+
+=== A0A6I2F4M0 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 105.0
+E-value: 0.00137
+Alignment Length: 149
+Percentage Identity: 0.127
+
+=== A0A226QTC9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OXB94752.1};
+Bit Score: 137.0
+E-value: 0.001446
+Alignment Length: 163
+Percentage Identity: 0.11
+
+=== A0A2D6MFU4 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.001446
+Alignment Length: 179
+Percentage Identity: 0.094
+
+=== A0A1G3L952 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 132.0
+E-value: 0.001446
+Alignment Length: 158
+Percentage Identity: 0.107
+
+=== A0A1V5PEC9 ===
+DE   RecName: Full=F5/8 type C domain protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 162.0
+E-value: 0.001526
+Alignment Length: 161
+Percentage Identity: 0.13
+
+=== A0A0S9KQ10 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 141.0
+E-value: 0.001526
+Alignment Length: 170
+Percentage Identity: 0.105
+
+=== T0BU75 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:UNO48047.1};
+Bit Score: 139.0
+E-value: 0.001526
+Alignment Length: 159
+Percentage Identity: 0.088
+
+=== A0A856MT07 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.001526
+Alignment Length: 167
+Percentage Identity: 0.131
+
+=== A0A846D350 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:NES45978.1};
+Bit Score: 131.0
+E-value: 0.001526
+Alignment Length: 159
+Percentage Identity: 0.081
+
+=== A0A561TV60 ===
+DE   SubName: Full=Phage tail-like protein {ECO:0000313|EMBL:TWF90981.1};
+Bit Score: 116.0
+E-value: 0.001526
+Alignment Length: 166
+Percentage Identity: 0.114
+
+=== A0A430AU32 ===
+DE   RecName: Full=Capsid protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 157.0
+E-value: 0.001611
+Alignment Length: 149
+Percentage Identity: 0.087
+
+=== A0A7C0ZY67 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HDJ50715.1};
+Bit Score: 134.0
+E-value: 0.001611
+Alignment Length: 166
+Percentage Identity: 0.096
+
+=== A0A5E4PI36 ===
+DE   RecName: Full=Tail tube protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 163.0
+E-value: 0.0017
+Alignment Length: 155
+Percentage Identity: 0.116
+
+=== A0A3P1VZ14 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 155.0
+E-value: 0.0017
+Alignment Length: 163
+Percentage Identity: 0.134
+
+=== A0A1E5G2B2 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.0017
+Alignment Length: 164
+Percentage Identity: 0.067
+
+=== A0A0F9BVQ0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKK94454.1};
+Bit Score: 136.0
+E-value: 0.001795
+Alignment Length: 163
+Percentage Identity: 0.104
+
+=== A0A1E7IEM3 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:OEU72615.1};
+Bit Score: 134.0
+E-value: 0.001795
+Alignment Length: 154
+Percentage Identity: 0.142
+
+=== A0A0F9CYD2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKL54284.1};
+DE   Flags: Fragment;
+Bit Score: 129.0
+E-value: 0.001795
+Alignment Length: 177
+Percentage Identity: 0.084
+
+=== A0A7U9XMX0 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.001795
+Alignment Length: 155
+Percentage Identity: 0.122
+
+=== A0A1Q3SJI5 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 115.0
+E-value: 0.001795
+Alignment Length: 169
+Percentage Identity: 0.094
+
+=== A0A3N0C7Y7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RNL58974.1};
+Bit Score: 160.0
+E-value: 0.001894
+Alignment Length: 154
+Percentage Identity: 0.168
+
+=== A0A5C7PW73 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 146.0
+E-value: 0.001894
+Alignment Length: 157
+Percentage Identity: 0.101
+
+=== A0A1Q4VIE6 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:OKH97581.1};
+Bit Score: 130.0
+E-value: 0.001894
+Alignment Length: 153
+Percentage Identity: 0.117
+
+=== A0A2E6YZX1 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 147.0
+E-value: 0.001999
+Alignment Length: 172
+Percentage Identity: 0.122
+
+=== A0A535P555 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 136.0
+E-value: 0.001999
+Alignment Length: 158
+Percentage Identity: 0.088
+
+=== M1MYI7 ===
+DE   RecName: Full=Peptidoglycan binding-like domain-containing protein {ECO:0000259|Pfam:PF01471};
+Bit Score: 133.0
+E-value: 0.001999
+Alignment Length: 156
+Percentage Identity: 0.089
+
+=== A0A2D8EMY8 ===
+DE   RecName: Full=Tail tube protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 113.0
+E-value: 0.001999
+Alignment Length: 135
+Percentage Identity: 0.118
+
+=== A0A3M1IU44 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 110.0
+E-value: 0.001999
+Alignment Length: 161
+Percentage Identity: 0.093
+
+=== A0A545TJ78 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:TQV77268.1};
+Bit Score: 109.0
+E-value: 0.001999
+Alignment Length: 147
+Percentage Identity: 0.122
+
+=== A0A6C0JYF7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QHU08794.1};
+Bit Score: 106.0
+E-value: 0.001999
+Alignment Length: 134
+Percentage Identity: 0.097
+
+=== A0A356F983 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:HBO51057.1};
+Bit Score: 150.0
+E-value: 0.00211
+Alignment Length: 159
+Percentage Identity: 0.075
+
+=== A0A069DI22 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAK42050.1};
+Bit Score: 139.0
+E-value: 0.00211
+Alignment Length: 151
+Percentage Identity: 0.099
+
+=== A0A3B8I179 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:HAA11568.1};
+Bit Score: 130.0
+E-value: 0.00211
+Alignment Length: 161
+Percentage Identity: 0.093
+
+=== A0A7L9C004 ===
+DE   RecName: Full=Tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 148.0
+E-value: 0.002227
+Alignment Length: 156
+Percentage Identity: 0.115
+
+=== A0A7G3GFG5 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 146.0
+E-value: 0.002227
+Alignment Length: 163
+Percentage Identity: 0.116
+
+=== A0A853HZ23 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:NYZ66980.1};
+Bit Score: 137.0
+E-value: 0.002227
+Alignment Length: 155
+Percentage Identity: 0.116
+
+=== U2M6B5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ERJ97284.1};
+Bit Score: 136.0
+E-value: 0.002227
+Alignment Length: 170
+Percentage Identity: 0.105
+
+=== A0A1Q7YH44 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 130.0
+E-value: 0.002227
+Alignment Length: 159
+Percentage Identity: 0.113
+
+=== A0A656XXZ5 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:KQY42960.1};
+Bit Score: 111.0
+E-value: 0.002227
+Alignment Length: 157
+Percentage Identity: 0.108
+
+=== A0A0F9KIT1 ===
+DE   RecName: Full=ApeA N-terminal domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 139.0
+E-value: 0.002351
+Alignment Length: 188
+Percentage Identity: 0.09
+
+=== A0A074LLL0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KEO82996.1};
+Bit Score: 130.0
+E-value: 0.002351
+Alignment Length: 154
+Percentage Identity: 0.129
+
+=== A0A4R7JXF4 ===
+DE   SubName: Full=Phage tail-like protein {ECO:0000313|EMBL:TDT41749.1};
+Bit Score: 129.0
+E-value: 0.002351
+Alignment Length: 159
+Percentage Identity: 0.119
+
+=== A0A173MLL6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SIT34091.1};
+Bit Score: 117.0
+E-value: 0.002351
+Alignment Length: 147
+Percentage Identity: 0.047
+
+=== A0A353Z8T4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HBH51671.1};
+Bit Score: 111.0
+E-value: 0.002351
+Alignment Length: 153
+Percentage Identity: 0.084
+
+=== A0A226QTH2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OXB94709.1};
+Bit Score: 108.0
+E-value: 0.002351
+Alignment Length: 151
+Percentage Identity: 0.112
+
+=== A0A511JBJ3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GEL95357.1};
+Bit Score: 151.0
+E-value: 0.002482
+Alignment Length: 154
+Percentage Identity: 0.162
+
+=== A0A7V8JF15 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 138.0
+E-value: 0.002482
+Alignment Length: 154
+Percentage Identity: 0.116
+
+=== A0A1Z9H6H5 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 130.0
+E-value: 0.002482
+Alignment Length: 180
+Percentage Identity: 0.094
+
+=== A0A0F6YHR5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AKF06078.1};
+Bit Score: 126.0
+E-value: 0.002482
+Alignment Length: 159
+Percentage Identity: 0.1
+
+=== A0A536IDY2 ===
+DE   RecName: Full=Twin-arginine translocation signal domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 120.0
+E-value: 0.002482
+Alignment Length: 154
+Percentage Identity: 0.11
+
+=== A0A2D7XCQ5 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 118.0
+E-value: 0.002482
+Alignment Length: 166
+Percentage Identity: 0.09
+
+=== A0A3M1XNS4 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:RMG66593.1};
+Bit Score: 115.0
+E-value: 0.002482
+Alignment Length: 160
+Percentage Identity: 0.087
+
+=== A0A4R7UD69 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TDV23505.1};
+Bit Score: 109.0
+E-value: 0.002482
+Alignment Length: 185
+Percentage Identity: 0.097
+
+=== A0A4Q2YRS8 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 135.0
+E-value: 0.002619
+Alignment Length: 170
+Percentage Identity: 0.082
+
+=== B2KDN7 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 129.0
+E-value: 0.002619
+Alignment Length: 175
+Percentage Identity: 0.114
+
+=== A0A7Y5LN14 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 125.0
+E-value: 0.002619
+Alignment Length: 163
+Percentage Identity: 0.147
+
+=== A0A0E3ZB61 ===
+DE   RecName: Full=Membrane-associated protease 1 {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.002619
+Alignment Length: 152
+Percentage Identity: 0.078
+
+=== A0A845AUK0 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:MXP34030.1};
+Bit Score: 122.0
+E-value: 0.002619
+Alignment Length: 179
+Percentage Identity: 0.122
+
+=== A0A254S6Q6 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.002619
+Alignment Length: 164
+Percentage Identity: 0.085
+
+=== A0A553KYP7 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:TRY29855.1};
+Bit Score: 113.0
+E-value: 0.002619
+Alignment Length: 159
+Percentage Identity: 0.1
+
+=== A0A7C6K0G0 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:HHV12883.1};
+Bit Score: 105.0
+E-value: 0.002619
+Alignment Length: 154
+Percentage Identity: 0.084
+
+=== A0A3T0D3P8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AZT89253.1};
+Bit Score: 102.0
+E-value: 0.002619
+Alignment Length: 170
+Percentage Identity: 0.117
+
+=== A0A7C3BTS7 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:HEY86255.1};
+Bit Score: 128.0
+E-value: 0.002765
+Alignment Length: 169
+Percentage Identity: 0.094
+
+=== A0A1B6AS40 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.002765
+Alignment Length: 162
+Percentage Identity: 0.098
+
+=== A0A6G4XGJ8 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.002765
+Alignment Length: 152
+Percentage Identity: 0.092
+
+=== A0A1W9WH80 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.002765
+Alignment Length: 159
+Percentage Identity: 0.119
+
+=== A0A1U7IR11 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:OKH39808.1};
+Bit Score: 114.0
+E-value: 0.002765
+Alignment Length: 151
+Percentage Identity: 0.112
+
+=== A0A0S7YR27 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KPJ77281.1};
+Bit Score: 144.0
+E-value: 0.002918
+Alignment Length: 152
+Percentage Identity: 0.125
+
+=== A0A285ZW90 ===
+DE   SubName: Full=Conserved hypothetical phage tail region protein {ECO:0000313|EMBL:SOD13907.1};
+Bit Score: 141.0
+E-value: 0.002918
+Alignment Length: 164
+Percentage Identity: 0.109
+
+=== A0A3M0X1U6 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:RMD52495.1};
+Bit Score: 140.0
+E-value: 0.002918
+Alignment Length: 158
+Percentage Identity: 0.12
+
+=== A0A429JL79 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:RSO42611.1};
+Bit Score: 129.0
+E-value: 0.002918
+Alignment Length: 158
+Percentage Identity: 0.101
+
+=== A0A842TCV2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBD3216535.1};
+Bit Score: 122.0
+E-value: 0.002918
+Alignment Length: 183
+Percentage Identity: 0.109
+
+=== A0A561S9X8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TWF71647.1};
+Bit Score: 121.0
+E-value: 0.002918
+Alignment Length: 184
+Percentage Identity: 0.092
+
+=== A0A3M1QP01 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:RMF81087.1};
+Bit Score: 117.0
+E-value: 0.002918
+Alignment Length: 155
+Percentage Identity: 0.109
+
+=== A0A2D7I917 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 113.0
+E-value: 0.002918
+Alignment Length: 141
+Percentage Identity: 0.099
+
+=== A0A7Y4SPM5 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:NOT28035.1};
+Bit Score: 111.0
+E-value: 0.002918
+Alignment Length: 166
+Percentage Identity: 0.12
+
+=== A0A662BGP6 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 109.0
+E-value: 0.002918
+Alignment Length: 156
+Percentage Identity: 0.147
+
+=== A0A2W7B5G2 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:PZV14274.1};
+Bit Score: 109.0
+E-value: 0.002918
+Alignment Length: 170
+Percentage Identity: 0.117
+
+=== A0A3C0G887 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HAI40281.1};
+Bit Score: 98.0
+E-value: 0.002918
+Alignment Length: 144
+Percentage Identity: 0.097
+
+=== A0A094SRX9 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 123.0
+E-value: 0.00308
+Alignment Length: 159
+Percentage Identity: 0.113
+
+=== A0A2E2ZD93 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 116.0
+E-value: 0.00308
+Alignment Length: 130
+Percentage Identity: 0.115
+
+=== A0A2E2DWE1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAX60196.1};
+Bit Score: 106.0
+E-value: 0.00308
+Alignment Length: 138
+Percentage Identity: 0.115
+
+=== A0A5R8Q9S0 ===
+DE   RecName: Full=DUF2140 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 142.0
+E-value: 0.003251
+Alignment Length: 155
+Percentage Identity: 0.122
+
+=== A0A3B9JBP5 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 126.0
+E-value: 0.003251
+Alignment Length: 172
+Percentage Identity: 0.093
+
+=== A0A0Q7UD05 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 125.0
+E-value: 0.003251
+Alignment Length: 161
+Percentage Identity: 0.124
+
+=== A0A5B8UXD4 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:QEC63714.1};
+Bit Score: 118.0
+E-value: 0.003251
+Alignment Length: 161
+Percentage Identity: 0.08
+
+=== A0A5B2X6N4 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:KAA2258791.1};
+Bit Score: 111.0
+E-value: 0.003251
+Alignment Length: 164
+Percentage Identity: 0.121
+
+=== A0A410UEC6 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 142.0
+E-value: 0.003431
+Alignment Length: 151
+Percentage Identity: 0.152
+
+=== A0A839V3G5 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 137.0
+E-value: 0.003431
+Alignment Length: 140
+Percentage Identity: 0.114
+
+=== A0A350C3Q4 ===
+DE   RecName: Full=Tail tube protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.003431
+Alignment Length: 176
+Percentage Identity: 0.102
+
+=== A0A2W4S4Y9 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.003431
+Alignment Length: 167
+Percentage Identity: 0.065
+
+=== A0A3R7NRT6 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:RPF74155.1};
+Bit Score: 114.0
+E-value: 0.003431
+Alignment Length: 157
+Percentage Identity: 0.108
+
+=== A0A2D6LTC6 ===
+DE   RecName: Full=Tail tube protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.003431
+Alignment Length: 196
+Percentage Identity: 0.086
+
+=== A0A255ZKD8 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 139.0
+E-value: 0.003622
+Alignment Length: 158
+Percentage Identity: 0.075
+
+=== A0A2T0K3T5 ===
+DE   SubName: Full=Phage tail-like protein {ECO:0000313|EMBL:PRX17290.1};
+Bit Score: 130.0
+E-value: 0.003622
+Alignment Length: 153
+Percentage Identity: 0.098
+
+=== A0A350H3T7 ===
+DE   RecName: Full=Phage major tail protein, TP901-1 family {ECO:0008006|Google:ProtNLM};
+Bit Score: 127.0
+E-value: 0.003622
+Alignment Length: 158
+Percentage Identity: 0.113
+
+=== A0A261GR83 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 127.0
+E-value: 0.003622
+Alignment Length: 160
+Percentage Identity: 0.075
+
+=== A0A3M1JGD3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RMF04537.1};
+Bit Score: 127.0
+E-value: 0.003622
+Alignment Length: 169
+Percentage Identity: 0.065
+
+=== A1ZC06 ===
+DE   SubName: Full=Afp1 {ECO:0000313|EMBL:EAY31808.1};
+Bit Score: 127.0
+E-value: 0.003622
+Alignment Length: 156
+Percentage Identity: 0.044
+
+=== A0A1I0ZTM0 ===
+DE   SubName: Full=Conserved hypothetical phage tail region protein {ECO:0000313|EMBL:SFB29109.1};
+Bit Score: 120.0
+E-value: 0.003622
+Alignment Length: 158
+Percentage Identity: 0.101
+
+=== A0A3C2A8I0 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:HAP64334.1};
+Bit Score: 120.0
+E-value: 0.003622
+Alignment Length: 162
+Percentage Identity: 0.092
+
+=== A0A7J4XS71 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAA4621357.1};
+Bit Score: 119.0
+E-value: 0.003622
+Alignment Length: 149
+Percentage Identity: 0.067
+
+=== A0A3E0DMF2 ===
+DE   SubName: Full=Phage tail-like protein {ECO:0000313|EMBL:REG84013.1};
+Bit Score: 115.0
+E-value: 0.003622
+Alignment Length: 162
+Percentage Identity: 0.074
+
+=== A0A7W1S751 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:MBA3873281.1};
+Bit Score: 110.0
+E-value: 0.003622
+Alignment Length: 153
+Percentage Identity: 0.111
+
+=== A0A242CFS1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OTO09104.1};
+Bit Score: 106.0
+E-value: 0.003622
+Alignment Length: 154
+Percentage Identity: 0.097
+
+=== A0A2R4K2M6 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 142.0
+E-value: 0.003823
+Alignment Length: 167
+Percentage Identity: 0.107
+
+=== A0A350PHK8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HAW80775.1};
+Bit Score: 105.0
+E-value: 0.003823
+Alignment Length: 183
+Percentage Identity: 0.109
+
+=== A9VUY0 ===
+DE   RecName: Full=Virion structural protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 97.0
+E-value: 0.003823
+Alignment Length: 167
+Percentage Identity: 0.101
+
+=== A0A1A5XFZ2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OBR52332.1};
+Bit Score: 152.0
+E-value: 0.004035
+Alignment Length: 141
+Percentage Identity: 0.134
+
+=== A0A2S6HQG3 ===
+DE   RecName: Full=TP901-1 family phage major tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 136.0
+E-value: 0.004035
+Alignment Length: 158
+Percentage Identity: 0.132
+
+=== C4IGR5 ===
+DE   RecName: Full=XkdM protein, phage-like element PBSX {ECO:0008006|Google:ProtNLM};
+Bit Score: 136.0
+E-value: 0.004035
+Alignment Length: 159
+Percentage Identity: 0.081
+
+=== I9LF81 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EIW19144.1};
+Bit Score: 118.0
+E-value: 0.004035
+Alignment Length: 154
+Percentage Identity: 0.129
+
+=== A0A1Y4R7Y0 ===
+DE   RecName: Full=Capsid protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 116.0
+E-value: 0.004035
+Alignment Length: 165
+Percentage Identity: 0.133
+
+=== A0A537KF20 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:TMI94357.1};
+Bit Score: 107.0
+E-value: 0.004035
+Alignment Length: 161
+Percentage Identity: 0.111
+
+=== A0A2N3FNY0 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 141.0
+E-value: 0.004259
+Alignment Length: 156
+Percentage Identity: 0.102
+
+=== A0A4S1XDC7 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:TGX53687.1};
+Bit Score: 128.0
+E-value: 0.004259
+Alignment Length: 194
+Percentage Identity: 0.113
+
+=== A0A073INS9 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 140.0
+E-value: 0.004496
+Alignment Length: 149
+Percentage Identity: 0.093
+
+=== A0A348DE26 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 127.0
+E-value: 0.004496
+Alignment Length: 160
+Percentage Identity: 0.106
+
+=== A0A174L8T7 ===
+DE   SubName: Full=Conserved hypothetical phage tail region protein {ECO:0000313|EMBL:CUP20994.1};
+Bit Score: 119.0
+E-value: 0.004496
+Alignment Length: 160
+Percentage Identity: 0.087
+
+=== A0A843S3J5 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 115.0
+E-value: 0.004496
+Alignment Length: 159
+Percentage Identity: 0.119
+
+=== A0A2D6P8S0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAG49325.1};
+Bit Score: 115.0
+E-value: 0.004496
+Alignment Length: 195
+Percentage Identity: 0.097
+
+=== A0A1Q3SJJ1 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.004496
+Alignment Length: 122
+Percentage Identity: 0.106
+
+=== A0A6N8HUQ7 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:QNK40465.1};
+DE   SubName: Full=T4-like virus tail tube protein gp19 {ECO:0000313|EMBL:MVB09368.1};
+Bit Score: 113.0
+E-value: 0.004496
+Alignment Length: 159
+Percentage Identity: 0.062
+
+=== A0A7V1ZW88 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:HEQ99584.1};
+Bit Score: 108.0
+E-value: 0.004496
+Alignment Length: 147
+Percentage Identity: 0.115
+
+=== A0A2E4FDP3 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 105.0
+E-value: 0.004496
+Alignment Length: 161
+Percentage Identity: 0.08
+
+=== A0A6M3IN24 ===
+DE   RecName: Full=Tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 103.0
+E-value: 0.004496
+Alignment Length: 211
+Percentage Identity: 0.118
+
+=== A0A7C6KN99 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:HHV62123.1};
+Bit Score: 103.0
+E-value: 0.004496
+Alignment Length: 160
+Percentage Identity: 0.1
+
+=== A0A7Y3TS76 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:NOG20659.1};
+Bit Score: 96.0
+E-value: 0.004496
+Alignment Length: 136
+Percentage Identity: 0.154
+
+=== A0A7X8SR80 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NLR94866.1};
+Bit Score: 137.0
+E-value: 0.004745
+Alignment Length: 184
+Percentage Identity: 0.076
+
+=== A0A1H3JCX9 ===
+DE   SubName: Full=Conserved hypothetical phage tail region protein {ECO:0000313|EMBL:SDY37786.1};
+Bit Score: 135.0
+E-value: 0.004745
+Alignment Length: 119
+Percentage Identity: 0.075
+
+=== A0A7W7FVX2 ===
+DE   SubName: Full=Phage tail-like protein {ECO:0000313|EMBL:MBB4678983.1};
+Bit Score: 120.0
+E-value: 0.004745
+Alignment Length: 147
+Percentage Identity: 0.095
+
+=== A0A1B8SLF5 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 116.0
+E-value: 0.004745
+Alignment Length: 171
+Percentage Identity: 0.07
+
+=== A0A3A9WR79 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:RKN10276.1};
+Bit Score: 116.0
+E-value: 0.004745
+Alignment Length: 157
+Percentage Identity: 0.07
+
+=== A0A2E6W863 ===
+DE   RecName: Full=Virion structural protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.004745
+Alignment Length: 186
+Percentage Identity: 0.107
+
+=== A0A412L7Y6 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 120.0
+E-value: 0.005008
+Alignment Length: 153
+Percentage Identity: 0.13
+
+=== A0A3A9VWV0 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:RKN01404.1};
+Bit Score: 116.0
+E-value: 0.005008
+Alignment Length: 150
+Percentage Identity: 0.073
+
+=== A0A4Q3RJA3 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:RYF84103.1};
+Bit Score: 112.0
+E-value: 0.005008
+Alignment Length: 156
+Percentage Identity: 0.089
+
+=== Q988X7 ===
+DE   SubName: Full=Mlr6550 protein {ECO:0000313|EMBL:BAB52820.1};
+Bit Score: 111.0
+E-value: 0.005008
+Alignment Length: 169
+Percentage Identity: 0.088
+
+=== A0A349DZW2 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:HAS45825.1};
+Bit Score: 101.0
+E-value: 0.005008
+Alignment Length: 155
+Percentage Identity: 0.103
+
+=== A0A0A7G067 ===
+DE   SubName: Full=Putative peptidoglycan binding domain protein {ECO:0000313|EMBL:AIY85264.1};
+Bit Score: 94.0
+E-value: 0.005008
+Alignment Length: 169
+Percentage Identity: 0.13
+
+=== A0A3D1BYZ9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HCC73138.1};
+Bit Score: 91.0
+E-value: 0.005008
+Alignment Length: 128
+Percentage Identity: 0.093
+
+=== W5SJK6 ===
+DE   SubName: Full=Putative cytosolic protein {ECO:0000313|EMBL:AHH07309.1};
+Bit Score: 138.0
+E-value: 0.005286
+Alignment Length: 154
+Percentage Identity: 0.129
+
+=== A0A1Q9LLH0 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 127.0
+E-value: 0.005286
+Alignment Length: 158
+Percentage Identity: 0.113
+
+=== A0A3M1YCL9 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:RMG75955.1};
+Bit Score: 108.0
+E-value: 0.005286
+Alignment Length: 166
+Percentage Identity: 0.138
+
+=== A0A4V3XL45 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:THH39413.1};
+Bit Score: 103.0
+E-value: 0.005286
+Alignment Length: 168
+Percentage Identity: 0.071
+
+=== A0A7Z0VHT0 ===
+DE   SubName: Full=T4-like virus tail tube protein gp19 {ECO:0000313|EMBL:ODJ85833.1};
+Bit Score: 139.0
+E-value: 0.00558
+Alignment Length: 168
+Percentage Identity: 0.083
+
+=== A0A1G8QT89 ===
+DE   SubName: Full=IPT/TIG domain-containing protein {ECO:0000313|EMBL:SDJ07916.1};
+Bit Score: 121.0
+E-value: 0.00558
+Alignment Length: 164
+Percentage Identity: 0.109
+
+=== A0A7X8Q3I8 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.00558
+Alignment Length: 160
+Percentage Identity: 0.1
+
+=== A0A1H9TDH7 ===
+DE   RecName: Full=Phage tail tube protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.00558
+Alignment Length: 163
+Percentage Identity: 0.116
+
+=== A0A419X3X0 ===
+DE   SubName: Full=Phage tail-like protein {ECO:0000313|EMBL:RKE02444.1};
+Bit Score: 112.0
+E-value: 0.00558
+Alignment Length: 155
+Percentage Identity: 0.109
+
+=== A0A511SZJ1 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.00558
+Alignment Length: 157
+Percentage Identity: 0.108
+
+=== A0A1I2ZJA4 ===
+DE   SubName: Full=Conserved hypothetical phage tail region protein {ECO:0000313|EMBL:SFH37824.1};
+Bit Score: 106.0
+E-value: 0.00558
+Alignment Length: 182
+Percentage Identity: 0.104
+
+=== A0A2E7CJN5 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 90.0
+E-value: 0.00558
+Alignment Length: 186
+Percentage Identity: 0.091
+
+=== A0A5P9Q7D1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QFU97279.1};
+Bit Score: 149.0
+E-value: 0.00589
+Alignment Length: 153
+Percentage Identity: 0.143
+
+=== A0A534VRB8 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 130.0
+E-value: 0.00589
+Alignment Length: 157
+Percentage Identity: 0.127
+
+=== A0A396AJ96 ===
+DE   RecName: Full=Membrane-associated protease 1 {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.00589
+Alignment Length: 155
+Percentage Identity: 0.096
+
+=== A0A2D6E6K2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAF26056.1};
+Bit Score: 113.0
+E-value: 0.00589
+Alignment Length: 188
+Percentage Identity: 0.095
+
+=== A0A7C7JF64 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HIB78088.1};
+Bit Score: 111.0
+E-value: 0.00589
+Alignment Length: 134
+Percentage Identity: 0.104
+
+=== A0A2S2DU27 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 96.0
+E-value: 0.00589
+Alignment Length: 135
+Percentage Identity: 0.148
+
+=== A0A329TCF2 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:RAW46953.1};
+Bit Score: 95.0
+E-value: 0.00589
+Alignment Length: 110
+Percentage Identity: 0.145
+
+=== A0A0J1FXE4 ===
+DE   RecName: Full=Major tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 135.0
+E-value: 0.006216
+Alignment Length: 158
+Percentage Identity: 0.094
+
+=== A0A3G8YGT1 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:AZI44502.1};
+Bit Score: 118.0
+E-value: 0.006216
+Alignment Length: 161
+Percentage Identity: 0.118
+
+=== B4VWA3 ===
+DE   RecName: Full=T4-like virus tail tube protein gp19 {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.006216
+Alignment Length: 168
+Percentage Identity: 0.065
+
+=== A0A2E3JRI5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB38064.1};
+Bit Score: 114.0
+E-value: 0.006216
+Alignment Length: 160
+Percentage Identity: 0.056
+
+=== A0A0F8YGD8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKK47086.1};
+DE   Flags: Fragment;
+Bit Score: 108.0
+E-value: 0.006216
+Alignment Length: 178
+Percentage Identity: 0.089
+
+=== W0JUG9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AHG00972.1};
+Bit Score: 100.0
+E-value: 0.006216
+Alignment Length: 163
+Percentage Identity: 0.134
+
+=== A0A833AQL6 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:KAA3660142.1};
+Bit Score: 132.0
+E-value: 0.006561
+Alignment Length: 170
+Percentage Identity: 0.1
+
+=== A0A661ILX0 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:RLA81822.1};
+Bit Score: 125.0
+E-value: 0.006561
+Alignment Length: 157
+Percentage Identity: 0.127
+
+=== A0A553JK47 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:TRY12827.1};
+Bit Score: 123.0
+E-value: 0.006561
+Alignment Length: 163
+Percentage Identity: 0.079
+
+=== U9W049 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.006561
+Alignment Length: 170
+Percentage Identity: 0.094
+
+=== A0A7C3BM43 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:HEY86253.1};
+Bit Score: 113.0
+E-value: 0.006561
+Alignment Length: 176
+Percentage Identity: 0.079
+
+=== A0A3B0VNU7 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.006561
+Alignment Length: 164
+Percentage Identity: 0.134
+
+=== A0A0L1JN22 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 102.0
+E-value: 0.006561
+Alignment Length: 167
+Percentage Identity: 0.113
+
+=== A0A7C9K298 ===
+DE   RecName: Full=DUF3277 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.006926
+Alignment Length: 152
+Percentage Identity: 0.111
+
+=== A0A7X8JZ26 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 125.0
+E-value: 0.006926
+Alignment Length: 149
+Percentage Identity: 0.134
+
+=== A0A3D0UP46 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.006926
+Alignment Length: 161
+Percentage Identity: 0.099
+
+=== A0A258TJA9 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.006926
+Alignment Length: 163
+Percentage Identity: 0.061
+
+=== A0A534PLA5 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:TMA26698.1};
+Bit Score: 118.0
+E-value: 0.006926
+Alignment Length: 161
+Percentage Identity: 0.093
+
+=== A0A3M2C227 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RMH18620.1};
+Bit Score: 112.0
+E-value: 0.006926
+Alignment Length: 166
+Percentage Identity: 0.09
+
+=== A0A3M0CZS6 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:AZH25012.1};
+DE   SubName: Full=Phage tail-like protein {ECO:0000313|EMBL:RMB13770.1};
+Bit Score: 110.0
+E-value: 0.006926
+Alignment Length: 167
+Percentage Identity: 0.131
+
+=== A0A6V8KS69 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.006926
+Alignment Length: 157
+Percentage Identity: 0.127
+
+=== A0A417YGY8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RHW32006.1};
+Bit Score: 99.0
+E-value: 0.006926
+Alignment Length: 148
+Percentage Identity: 0.087
+
+=== A0A2D6AKK7 ===
+DE   RecName: Full=Peptidase A2 domain-containing protein {ECO:0000259|PROSITE:PS50175};
+Bit Score: 82.0
+E-value: 0.006926
+Alignment Length: 135
+Percentage Identity: 0.111
+
+=== A0A1L6I9V9 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 135.0
+E-value: 0.00731
+Alignment Length: 150
+Percentage Identity: 0.093
+
+=== A0A1L8Z8U2 ===
+DE   RecName: Full=DUF1463 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.00731
+Alignment Length: 147
+Percentage Identity: 0.142
+
+=== A0A6L2ZPV9 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:GFN46424.1};
+Bit Score: 117.0
+E-value: 0.00731
+Alignment Length: 121
+Percentage Identity: 0.066
+
+=== A0A1M6GFI3 ===
+DE   SubName: Full=Conserved hypothetical phage tail region protein {ECO:0000313|EMBL:SHJ08700.1};
+Bit Score: 110.0
+E-value: 0.00731
+Alignment Length: 158
+Percentage Identity: 0.145
+
+=== A0A5C7JV44 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.00731
+Alignment Length: 124
+Percentage Identity: 0.112
+
+=== A0A350PJK5 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 99.0
+E-value: 0.00731
+Alignment Length: 190
+Percentage Identity: 0.1
+
+=== A0A661KUC9 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 90.0
+E-value: 0.00731
+Alignment Length: 197
+Percentage Identity: 0.081
+
+=== A0A841FNI1 ===
+DE   SubName: Full=Phage tail-like protein {ECO:0000313|EMBL:MBB6033490.1};
+Bit Score: 123.0
+E-value: 0.007716
+Alignment Length: 160
+Percentage Identity: 0.043
+
+=== A0A8B3FUY7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RLP12264.1};
+Bit Score: 116.0
+E-value: 0.007716
+Alignment Length: 185
+Percentage Identity: 0.097
+
+=== A0A1T4UIV5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SKA52604.1};
+Bit Score: 116.0
+E-value: 0.007716
+Alignment Length: 163
+Percentage Identity: 0.092
+
+=== A0A4U0R868 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:TJZ91293.1};
+Bit Score: 114.0
+E-value: 0.007716
+Alignment Length: 164
+Percentage Identity: 0.115
+
+=== A0A3M0CWU5 ===
+DE   SubName: Full=TP901-1 family phage major tail protein {ECO:0000313|EMBL:RMB11899.1};
+Bit Score: 113.0
+E-value: 0.007716
+Alignment Length: 151
+Percentage Identity: 0.139
+
+=== A0A553FLY8 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:TRX58270.1};
+Bit Score: 113.0
+E-value: 0.007716
+Alignment Length: 162
+Percentage Identity: 0.098
+
+=== A0A497GZ06 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 113.0
+E-value: 0.007716
+Alignment Length: 173
+Percentage Identity: 0.052
+
+=== B0P8Q4 ===
+DE   SubName: Full=Conserved hypothetical phage tail region protein {ECO:0000313|EMBL:EDS12300.1};
+Bit Score: 110.0
+E-value: 0.007716
+Alignment Length: 152
+Percentage Identity: 0.085
+
+=== A0A7C1VHT6 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 103.0
+E-value: 0.007716
+Alignment Length: 181
+Percentage Identity: 0.132
+
+=== A0A6G8C8K3 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:QIL74980.1};
+Bit Score: 103.0
+E-value: 0.007716
+Alignment Length: 160
+Percentage Identity: 0.075
+
+=== A0A6P2B5C2 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 102.0
+E-value: 0.007716
+Alignment Length: 156
+Percentage Identity: 0.108
+
+=== A0A2D6P938 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAG49444.1};
+Bit Score: 101.0
+E-value: 0.007716
+Alignment Length: 143
+Percentage Identity: 0.104
+
+=== A0A2D7BTI8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAI03293.1};
+Bit Score: 141.0
+E-value: 0.008144
+Alignment Length: 199
+Percentage Identity: 0.08
+
+=== E4L8A6 ===
+DE   SubName: Full=Phage major tail protein, TP901-1 family {ECO:0000313|EMBL:EFR42898.1};
+Bit Score: 123.0
+E-value: 0.008144
+Alignment Length: 145
+Percentage Identity: 0.103
+
+=== A0A2E2TNU4 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:MAZ41191.1};
+Bit Score: 120.0
+E-value: 0.008144
+Alignment Length: 156
+Percentage Identity: 0.108
+
+=== A0A6I4IIP3 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:MVO09633.1};
+Bit Score: 119.0
+E-value: 0.008144
+Alignment Length: 167
+Percentage Identity: 0.107
+
+=== A0A1Z8UZI5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OUU52323.1};
+Bit Score: 112.0
+E-value: 0.008144
+Alignment Length: 128
+Percentage Identity: 0.101
+
+=== A0A6G3YWM8 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:NER79384.1};
+Bit Score: 110.0
+E-value: 0.008144
+Alignment Length: 180
+Percentage Identity: 0.111
+
+=== A0A1B6APE5 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.008144
+Alignment Length: 165
+Percentage Identity: 0.096
+
+=== A0A497GZ11 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RLF30370.1};
+Bit Score: 108.0
+E-value: 0.008144
+Alignment Length: 175
+Percentage Identity: 0.074
+
+=== A0A0R2CJ34 ===
+DE   RecName: Full=BIG2 domain-containing protein {ECO:0000259|SMART:SM00635};
+Bit Score: 107.0
+E-value: 0.008144
+Alignment Length: 185
+Percentage Identity: 0.113
+
+=== A0A3N5LJD6 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:RPI25045.1};
+Bit Score: 107.0
+E-value: 0.008144
+Alignment Length: 159
+Percentage Identity: 0.069
+
+=== A0A1F9ZG88 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.008144
+Alignment Length: 166
+Percentage Identity: 0.078
+
+=== B7IZH3 ===
+DE   SubName: Full=Major structural protein {ECO:0000313|EMBL:ACK98738.1};
+Bit Score: 94.0
+E-value: 0.008144
+Alignment Length: 234
+Percentage Identity: 0.098
+
+=== A0A1A1YQV7 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.008596
+Alignment Length: 176
+Percentage Identity: 0.096
+
+=== A0A853PRG1 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 105.0
+E-value: 0.008596
+Alignment Length: 162
+Percentage Identity: 0.117
+
+=== A0A2N7W3S3 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:PMS24052.1};
+Bit Score: 102.0
+E-value: 0.008596
+Alignment Length: 162
+Percentage Identity: 0.117
+
+=== A0A7C1FWM6 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:HDY03911.1};
+Bit Score: 90.0
+E-value: 0.008596
+Alignment Length: 159
+Percentage Identity: 0.119
+
+=== X1S772 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAI88763.1};
+DE   Flags: Fragment;
+Bit Score: 86.0
+E-value: 0.008596
+Alignment Length: 154
+Percentage Identity: 0.097
+
+=== A0A6B3AQJ2 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 118.0
+E-value: 0.009073
+Alignment Length: 166
+Percentage Identity: 0.096
+
+=== A0A1G1G3M8 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:OGW38457.1};
+Bit Score: 113.0
+E-value: 0.009073
+Alignment Length: 167
+Percentage Identity: 0.089
+
+=== A0A2E9U8U9 ===
+DE   RecName: Full=Tail tube protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.009073
+Alignment Length: 193
+Percentage Identity: 0.103
+
+=== B1T4F7 ===
+DE   SubName: Full=Conserved hypothetical phage tail protein {ECO:0000313|EMBL:EDT41555.1};
+Bit Score: 105.0
+E-value: 0.009073
+Alignment Length: 150
+Percentage Identity: 0.06
+
+=== A0A426U0G8 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 91.0
+E-value: 0.009073
+Alignment Length: 157
+Percentage Identity: 0.101
+
+=== A0A3M1ZNS1 ===
+DE   RecName: Full=Photosynthesis system II assembly factor Ycf48/Hcf136-like domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.009577
+Alignment Length: 173
+Percentage Identity: 0.08
+
+=== A0A1A8TF75 ===
+DE   SubName: Full=T4-like virus tail tube protein gp19 {ECO:0000313|EMBL:SBS31976.1};
+Bit Score: 102.0
+E-value: 0.009577
+Alignment Length: 155
+Percentage Identity: 0.058
+
+=== A0A497Y9K5 ===
+DE   SubName: Full=Phage tail-like protein {ECO:0000313|EMBL:RLJ79428.1};
+Bit Score: 124.0
+E-value: 0.01011
+Alignment Length: 160
+Percentage Identity: 0.081
+
+=== A0A4R4CZR2 ===
+DE   RecName: Full=Phage portal protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 116.0
+E-value: 0.01011
+Alignment Length: 155
+Percentage Identity: 0.096
+
+=== A0A511TEQ8 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.01011
+Alignment Length: 164
+Percentage Identity: 0.097
+
+=== A0A4R6M613 ===
+DE   SubName: Full=Phage tail-like protein {ECO:0000313|EMBL:TDO96694.1};
+Bit Score: 101.0
+E-value: 0.01011
+Alignment Length: 159
+Percentage Identity: 0.069
+
+=== A0A2E1QE82 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAV94573.1};
+Bit Score: 99.0
+E-value: 0.01011
+Alignment Length: 199
+Percentage Identity: 0.075
+
+=== A0A2D4SL54 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 98.0
+E-value: 0.01011
+Alignment Length: 159
+Percentage Identity: 0.138
+
+=== A0A2D4R0P8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAA58474.1};
+Bit Score: 83.0
+E-value: 0.01011
+Alignment Length: 153
+Percentage Identity: 0.104
+
+=== A0A0H2L353 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 136.0
+E-value: 0.01067
+Alignment Length: 156
+Percentage Identity: 0.147
+
+=== A0A3M1J3X6 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 120.0
+E-value: 0.01067
+Alignment Length: 159
+Percentage Identity: 0.088
+
+=== A0A843GNW1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBO7694422.1};
+Bit Score: 107.0
+E-value: 0.01067
+Alignment Length: 189
+Percentage Identity: 0.084
+
+=== A0A6I0F0S4 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.01067
+Alignment Length: 159
+Percentage Identity: 0.069
+
+=== A0A160LJS7 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 86.0
+E-value: 0.01067
+Alignment Length: 191
+Percentage Identity: 0.109
+
+=== A0A0Q5FLW9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KQQ65195.1};
+Bit Score: 126.0
+E-value: 0.01126
+Alignment Length: 149
+Percentage Identity: 0.134
+
+=== A0A7D7WL57 ===
+DE   SubName: Full=DUF1463 domain-containing protein {ECO:0000313|EMBL:QMU99793.1};
+Bit Score: 121.0
+E-value: 0.01126
+Alignment Length: 153
+Percentage Identity: 0.098
+
+=== A0A841L8Z1 ===
+DE   SubName: Full=Phage tail-like protein {ECO:0000313|EMBL:MBB6228071.1};
+Bit Score: 112.0
+E-value: 0.01126
+Alignment Length: 155
+Percentage Identity: 0.116
+
+=== A0A315X9L1 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:PWB47704.1};
+Bit Score: 108.0
+E-value: 0.01126
+Alignment Length: 166
+Percentage Identity: 0.132
+
+=== A0A1F8TD56 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.01126
+Alignment Length: 161
+Percentage Identity: 0.118
+
+=== A0A0M9DS47 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.01126
+Alignment Length: 162
+Percentage Identity: 0.086
+
+=== A0A2E3A8A8 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:MBA21469.1};
+Bit Score: 119.0
+E-value: 0.01189
+Alignment Length: 155
+Percentage Identity: 0.103
+
+=== A0A2E0L3F5 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:MAS35152.1};
+Bit Score: 118.0
+E-value: 0.01189
+Alignment Length: 162
+Percentage Identity: 0.098
+
+=== A0A651EQ99 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:TVQ58287.1};
+Bit Score: 112.0
+E-value: 0.01189
+Alignment Length: 164
+Percentage Identity: 0.109
+
+=== R9MUF1 ===
+DE   RecName: Full=Membrane-associated protease 1 {ECO:0008006|Google:ProtNLM};
+Bit Score: 110.0
+E-value: 0.01189
+Alignment Length: 162
+Percentage Identity: 0.098
+
+=== A0A3D2C873 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 91.0
+E-value: 0.01189
+Alignment Length: 163
+Percentage Identity: 0.128
+
+=== A0A3S0BRZ4 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:RTL06451.1};
+Bit Score: 115.0
+E-value: 0.01255
+Alignment Length: 163
+Percentage Identity: 0.116
+
+=== A0A3D8JXH5 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:RDU97346.1};
+Bit Score: 113.0
+E-value: 0.01255
+Alignment Length: 157
+Percentage Identity: 0.133
+
+=== A0A2W6VIB3 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.01255
+Alignment Length: 152
+Percentage Identity: 0.131
+
+=== A0A2E7CJ75 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 102.0
+E-value: 0.01255
+Alignment Length: 121
+Percentage Identity: 0.148
+
+=== A0A3B9JCC0 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:HAE59531.1};
+Bit Score: 101.0
+E-value: 0.01255
+Alignment Length: 161
+Percentage Identity: 0.068
+
+=== A0A371QIG6 ===
+DE   SubName: Full=Glycerol acyltransferase {ECO:0000313|EMBL:REL24469.1};
+Bit Score: 100.0
+E-value: 0.01255
+Alignment Length: 162
+Percentage Identity: 0.08
+
+=== A0A2M8QAV5 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:PJF46924.1};
+Bit Score: 97.0
+E-value: 0.01255
+Alignment Length: 158
+Percentage Identity: 0.069
+
+=== A0A6J7ZQD4 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 84.0
+E-value: 0.01255
+Alignment Length: 179
+Percentage Identity: 0.083
+
+=== A0A2N7W3U8 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.01324
+Alignment Length: 190
+Percentage Identity: 0.063
+
+=== A0A2E5B9J5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBG46603.1};
+Bit Score: 107.0
+E-value: 0.01324
+Alignment Length: 150
+Percentage Identity: 0.1
+
+=== A0A3C1PJK6 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 102.0
+E-value: 0.01324
+Alignment Length: 173
+Percentage Identity: 0.104
+
+=== A0A2G5KZY4 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 87.0
+E-value: 0.01324
+Alignment Length: 171
+Percentage Identity: 0.076
+
+=== A0A1L8Z8R9 ===
+DE   RecName: Full=Cytosolic protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.01398
+Alignment Length: 144
+Percentage Identity: 0.138
+
+=== A0A3M1BBZ4 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.01398
+Alignment Length: 171
+Percentage Identity: 0.081
+
+=== A0A7D7VT09 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 113.0
+E-value: 0.01398
+Alignment Length: 172
+Percentage Identity: 0.075
+
+=== A0A1G5D802 ===
+DE   SubName: Full=Conserved hypothetical phage tail region protein {ECO:0000313|EMBL:SCY10832.1};
+Bit Score: 105.0
+E-value: 0.01398
+Alignment Length: 161
+Percentage Identity: 0.111
+
+=== A0A7C1BAY4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HDM43477.1};
+Bit Score: 104.0
+E-value: 0.01398
+Alignment Length: 159
+Percentage Identity: 0.163
+
+=== A0A6G2PUZ0 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.01398
+Alignment Length: 125
+Percentage Identity: 0.144
+
+=== A0A2D8C9E8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAL15048.1};
+Bit Score: 93.0
+E-value: 0.01398
+Alignment Length: 144
+Percentage Identity: 0.097
+
+=== A0A1Y0HPU4 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 128.0
+E-value: 0.01475
+Alignment Length: 155
+Percentage Identity: 0.103
+
+=== A0A1F3RZG1 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.01475
+Alignment Length: 168
+Percentage Identity: 0.101
+
+=== A0A350PL60 ===
+DE   RecName: Full=DUF4815 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 102.0
+E-value: 0.01475
+Alignment Length: 205
+Percentage Identity: 0.107
+
+=== A0A7X5INV7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NBI80958.1};
+Bit Score: 102.0
+E-value: 0.01475
+Alignment Length: 161
+Percentage Identity: 0.08
+
+=== A0A2E6RJ82 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBL40106.1};
+Bit Score: 96.0
+E-value: 0.01475
+Alignment Length: 204
+Percentage Identity: 0.117
+
+=== A0A496UH61 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RKZ07405.1};
+Bit Score: 90.0
+E-value: 0.01475
+Alignment Length: 176
+Percentage Identity: 0.051
+
+=== A0A1H0PR10 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SDP07240.1};
+Bit Score: 125.0
+E-value: 0.01557
+Alignment Length: 152
+Percentage Identity: 0.085
+
+=== A0A3R6RXS7 ===
+DE   SubName: Full=Glycerol acyltransferase {ECO:0000313|EMBL:RHR95310.1};
+Bit Score: 122.0
+E-value: 0.01557
+Alignment Length: 155
+Percentage Identity: 0.096
+
+=== A0A2N5Z8I0 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:PLX14898.1};
+Bit Score: 117.0
+E-value: 0.01557
+Alignment Length: 155
+Percentage Identity: 0.109
+
+=== A0A510WQ46 ===
+DE   SubName: Full=Small major structural protein {ECO:0000313|EMBL:GEK41343.1};
+Bit Score: 107.0
+E-value: 0.01557
+Alignment Length: 166
+Percentage Identity: 0.084
+
+=== A0A2C6C0K2 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:PHI20159.1};
+Bit Score: 98.0
+E-value: 0.01557
+Alignment Length: 157
+Percentage Identity: 0.063
+
+=== E0SFB2 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 95.0
+E-value: 0.01557
+Alignment Length: 162
+Percentage Identity: 0.117
+
+=== A0A6I3SLN6 ===
+DE   SubName: Full=Phage major tail protein, TP901-1 family {ECO:0000313|EMBL:MTV49844.1};
+Bit Score: 139.0
+E-value: 0.01644
+Alignment Length: 157
+Percentage Identity: 0.082
+
+=== A0A1Z9H6M2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OUW01819.1};
+Bit Score: 106.0
+E-value: 0.01644
+Alignment Length: 183
+Percentage Identity: 0.087
+
+=== A0A382EPT9 ===
+DE   RecName: Full=Bacteriophage T4 Gp8 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 102.0
+E-value: 0.01644
+Alignment Length: 233
+Percentage Identity: 0.115
+
+=== A0A2L2NX90 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:AVH73341.1};
+Bit Score: 97.0
+E-value: 0.01644
+Alignment Length: 151
+Percentage Identity: 0.112
+
+=== A0A3C0G1N8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HAI37877.1};
+Bit Score: 94.0
+E-value: 0.01644
+Alignment Length: 147
+Percentage Identity: 0.108
+
+=== A0A073CVU1 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 87.0
+E-value: 0.01644
+Alignment Length: 178
+Percentage Identity: 0.078
+
+=== A0A6S6SMA7 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:CAA6806407.1};
+Bit Score: 97.0
+E-value: 0.01735
+Alignment Length: 158
+Percentage Identity: 0.094
+
+=== A0A7G5MXH8 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.01831
+Alignment Length: 162
+Percentage Identity: 0.117
+
+=== A0A523ZTE3 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:TEU07027.1};
+Bit Score: 106.0
+E-value: 0.01831
+Alignment Length: 158
+Percentage Identity: 0.082
+
+=== A0A357A6V9 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:HBQ98310.1};
+Bit Score: 99.0
+E-value: 0.01831
+Alignment Length: 168
+Percentage Identity: 0.142
+
+=== E0UAR0 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 98.0
+E-value: 0.01831
+Alignment Length: 161
+Percentage Identity: 0.105
+
+=== A0A2E6C8J4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBJ64780.1};
+Bit Score: 88.0
+E-value: 0.01831
+Alignment Length: 157
+Percentage Identity: 0.121
+
+=== S7HQ68 ===
+DE   SubName: Full=Phage major tail protein, TP901-1 family {ECO:0000313|EMBL:EPP17827.1};
+Bit Score: 118.0
+E-value: 0.01933
+Alignment Length: 156
+Percentage Identity: 0.083
+
+=== A0A3M1B4X1 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:RME03678.1};
+Bit Score: 117.0
+E-value: 0.01933
+Alignment Length: 167
+Percentage Identity: 0.047
+
+=== A0A1W2AR42 ===
+DE   SubName: Full=VCBS repeat-containing protein {ECO:0000313|EMBL:SMC63219.1};
+Bit Score: 113.0
+E-value: 0.01933
+Alignment Length: 152
+Percentage Identity: 0.098
+
+=== A0A0F9KCM2 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 109.0
+E-value: 0.01933
+Alignment Length: 123
+Percentage Identity: 0.081
+
+=== A0A416ZL03 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.01933
+Alignment Length: 161
+Percentage Identity: 0.124
+
+=== A0A3C1L0U5 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 105.0
+E-value: 0.01933
+Alignment Length: 165
+Percentage Identity: 0.09
+
+=== A0A4U3MAJ1 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 100.0
+E-value: 0.01933
+Alignment Length: 176
+Percentage Identity: 0.068
+
+=== A0A7V7XET3 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:KAB2903434.1};
+Bit Score: 98.0
+E-value: 0.01933
+Alignment Length: 151
+Percentage Identity: 0.105
+
+=== A0A6M0CL71 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:NER16599.1};
+Bit Score: 96.0
+E-value: 0.01933
+Alignment Length: 158
+Percentage Identity: 0.069
+
+=== A0A0F9A0R1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKK91650.1};
+DE   Flags: Fragment;
+Bit Score: 94.0
+E-value: 0.01933
+Alignment Length: 121
+Percentage Identity: 0.165
+
+=== A0A5E4HLM3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VVB53209.1};
+Bit Score: 93.0
+E-value: 0.01933
+Alignment Length: 174
+Percentage Identity: 0.109
+
+=== A0A431W2X4 ===
+DE   SubName: Full=Type VI secretion system tube protein Hcp {ECO:0000313|EMBL:RTR29773.1};
+Bit Score: 91.0
+E-value: 0.01933
+Alignment Length: 178
+Percentage Identity: 0.117
+
+=== A0A0Q3VH89 ===
+DE   SubName: Full=Phage portal protein {ECO:0000313|EMBL:KQL18858.1};
+Bit Score: 125.0
+E-value: 0.0204
+Alignment Length: 157
+Percentage Identity: 0.095
+
+=== A0A1G9Z2X5 ===
+DE   SubName: Full=Phage tail tube protein {ECO:0000313|EMBL:SDN15255.1};
+Bit Score: 124.0
+E-value: 0.0204
+Alignment Length: 161
+Percentage Identity: 0.105
+
+=== S4ARN7 ===
+DE   RecName: Full=Phage major tail protein, TP901-1 family {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.0204
+Alignment Length: 157
+Percentage Identity: 0.127
+
+=== A0A7Y5SHS0 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:NUQ56755.1};
+Bit Score: 109.0
+E-value: 0.0204
+Alignment Length: 158
+Percentage Identity: 0.107
+
+=== A0A660L8I5 ===
+DE   SubName: Full=Phage tail-like protein {ECO:0000313|EMBL:RKQ91377.1};
+Bit Score: 105.0
+E-value: 0.0204
+Alignment Length: 155
+Percentage Identity: 0.103
+
+=== A0A2E9WSJ9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBV22927.1};
+Bit Score: 100.0
+E-value: 0.0204
+Alignment Length: 210
+Percentage Identity: 0.119
+
+=== A0A0R1PVI8 ===
+DE   RecName: Full=Major tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 99.0
+E-value: 0.0204
+Alignment Length: 183
+Percentage Identity: 0.153
+
+=== A0A399YVM0 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 97.0
+E-value: 0.0204
+Alignment Length: 154
+Percentage Identity: 0.09
+
+=== A0A416S3D8 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.02153
+Alignment Length: 160
+Percentage Identity: 0.112
+
+=== E7G9C0 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 113.0
+E-value: 0.02153
+Alignment Length: 159
+Percentage Identity: 0.088
+
+=== A0A5C7PPR1 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.02153
+Alignment Length: 145
+Percentage Identity: 0.11
+
+=== A0A2T7WQD1 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 110.0
+E-value: 0.02153
+Alignment Length: 152
+Percentage Identity: 0.111
+
+=== A0A1M7NJ50 ===
+DE   RecName: Full=Phage tail tube protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 105.0
+E-value: 0.02153
+Alignment Length: 159
+Percentage Identity: 0.1
+
+=== E3FKR1 ===
+DE   SubName: Full=Phage tail region protein {ECO:0000313|EMBL:ADO69229.1};
+Bit Score: 102.0
+E-value: 0.02153
+Alignment Length: 122
+Percentage Identity: 0.122
+
+=== A0A512B3L5 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:GEO06553.1};
+Bit Score: 88.0
+E-value: 0.02153
+Alignment Length: 167
+Percentage Identity: 0.107
+
+=== A0A2D6PAJ5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAG49944.1};
+Bit Score: 87.0
+E-value: 0.02153
+Alignment Length: 212
+Percentage Identity: 0.094
+
+=== A0A2D6TZZ6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAH07506.1};
+Bit Score: 84.0
+E-value: 0.02153
+Alignment Length: 191
+Percentage Identity: 0.057
+
+=== A0A7Y9FIT3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NYD87777.1};
+Bit Score: 118.0
+E-value: 0.02273
+Alignment Length: 149
+Percentage Identity: 0.134
+
+=== A0A4V5MKQ1 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:TJZ54188.1};
+Bit Score: 112.0
+E-value: 0.02273
+Alignment Length: 165
+Percentage Identity: 0.109
+
+=== A0A1Y6CZC4 ===
+DE   RecName: Full=Phage tail tube protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 111.0
+E-value: 0.02273
+Alignment Length: 151
+Percentage Identity: 0.105
+
+=== A0A2K9DK56 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AUG28738.1};
+Bit Score: 111.0
+E-value: 0.02273
+Alignment Length: 160
+Percentage Identity: 0.081
+
+=== A0A4Q4ZL37 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:RYP88236.1};
+Bit Score: 111.0
+E-value: 0.02273
+Alignment Length: 156
+Percentage Identity: 0.076
+
+=== A0A3E2DMA4 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 97.0
+E-value: 0.02273
+Alignment Length: 165
+Percentage Identity: 0.121
+
+=== A0A0F9GNR7 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 91.0
+E-value: 0.02273
+Alignment Length: 132
+Percentage Identity: 0.09
+
+=== A0A0Q8VV40 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.02399
+Alignment Length: 158
+Percentage Identity: 0.101
+
+=== A0A1A0LLB0 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 113.0
+E-value: 0.02399
+Alignment Length: 181
+Percentage Identity: 0.093
+
+=== A0A842TDE1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBD3216534.1};
+Bit Score: 110.0
+E-value: 0.02399
+Alignment Length: 222
+Percentage Identity: 0.09
+
+=== A0A316HKH1 ===
+DE   SubName: Full=Tail protein {ECO:0000313|EMBL:PWK81736.1};
+Bit Score: 108.0
+E-value: 0.02399
+Alignment Length: 145
+Percentage Identity: 0.137
+
+=== A0A3L6ZKJ1 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 105.0
+E-value: 0.02399
+Alignment Length: 164
+Percentage Identity: 0.121
+
+=== A0A6N8BJ35 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:MTI85734.1};
+Bit Score: 98.0
+E-value: 0.02399
+Alignment Length: 166
+Percentage Identity: 0.114
+
+=== A0A2N6A077 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:PLX24270.1};
+Bit Score: 95.0
+E-value: 0.02399
+Alignment Length: 163
+Percentage Identity: 0.104
+
+=== A0A6L4AB06 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.02532
+Alignment Length: 155
+Percentage Identity: 0.07
+
+=== A0A1S1HM15 ===
+DE   RecName: Full=Hcp1 family type VI secretion system effector {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.02532
+Alignment Length: 162
+Percentage Identity: 0.037
+
+=== A0A7V8YCQ8 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:MBA2320472.1};
+Bit Score: 101.0
+E-value: 0.02532
+Alignment Length: 164
+Percentage Identity: 0.103
+
+=== A0A3E0PKB8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:REK17127.1};
+Bit Score: 89.0
+E-value: 0.02532
+Alignment Length: 162
+Percentage Identity: 0.061
+
+=== A0A0K1IX69 ===
+DE   SubName: Full=Phage tail tube protein gp19 {ECO:0000313|EMBL:AKU09137.1};
+Bit Score: 87.0
+E-value: 0.02532
+Alignment Length: 181
+Percentage Identity: 0.116
+
+=== A0A839GJA6 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.02673
+Alignment Length: 160
+Percentage Identity: 0.112
+
+=== I9NWW7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AJQ29485.1};
+Bit Score: 106.0
+E-value: 0.02673
+Alignment Length: 153
+Percentage Identity: 0.098
+
+=== A0A382ZC21 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SVD93051.1};
+DE   Flags: Fragment;
+Bit Score: 97.0
+E-value: 0.02673
+Alignment Length: 126
+Percentage Identity: 0.079
+
+=== A0A5B8UYD2 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:QEC63715.1};
+Bit Score: 96.0
+E-value: 0.02673
+Alignment Length: 168
+Percentage Identity: 0.077
+
+=== A0A3M1XVN8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RMG69776.1};
+Bit Score: 93.0
+E-value: 0.02673
+Alignment Length: 162
+Percentage Identity: 0.098
+
+=== A0A2E0L1I2 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 92.0
+E-value: 0.02673
+Alignment Length: 157
+Percentage Identity: 0.07
+
+=== A0A2D5ID86 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAC71172.1};
+Bit Score: 90.0
+E-value: 0.02673
+Alignment Length: 154
+Percentage Identity: 0.077
+
+=== A0A059KHL8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KDB50583.1};
+Bit Score: 89.0
+E-value: 0.02673
+Alignment Length: 166
+Percentage Identity: 0.096
+
+=== A0A1N7QMC1 ===
+DE   SubName: Full=Conserved hypothetical phage tail region protein {ECO:0000313|EMBL:SIT24032.1};
+Bit Score: 84.0
+E-value: 0.02673
+Alignment Length: 156
+Percentage Identity: 0.096
+
+=== A0A848UE70 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:NND93109.1};
+Bit Score: 113.0
+E-value: 0.02821
+Alignment Length: 154
+Percentage Identity: 0.103
+
+=== A0A349DZW3 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 105.0
+E-value: 0.02821
+Alignment Length: 185
+Percentage Identity: 0.081
+
+=== A0A0K9NC63 ===
+DE   SubName: Full=Conserved hypothetical phage tail region protein {ECO:0000313|EMBL:KMZ53590.1};
+Bit Score: 104.0
+E-value: 0.02821
+Alignment Length: 160
+Percentage Identity: 0.1
+
+=== A0A2D6MED8 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 102.0
+E-value: 0.02821
+Alignment Length: 141
+Percentage Identity: 0.134
+
+=== A0A7Y5U9F3 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:NUP12883.1};
+Bit Score: 102.0
+E-value: 0.02821
+Alignment Length: 166
+Percentage Identity: 0.108
+
+=== A0A7C4T751 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:HGV85560.1};
+Bit Score: 100.0
+E-value: 0.02821
+Alignment Length: 161
+Percentage Identity: 0.093
+
+=== A0A7Y5U7R7 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 99.0
+E-value: 0.02821
+Alignment Length: 152
+Percentage Identity: 0.111
+
+=== A0A7V4YTP8 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:HGZ29395.1};
+Bit Score: 93.0
+E-value: 0.02821
+Alignment Length: 154
+Percentage Identity: 0.077
+
+=== A0A2D9Z3P6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAQ88894.1};
+Bit Score: 90.0
+E-value: 0.02821
+Alignment Length: 157
+Percentage Identity: 0.114
+
+=== A0A3M1XVZ1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RMG69775.1};
+Bit Score: 87.0
+E-value: 0.02821
+Alignment Length: 204
+Percentage Identity: 0.093
+
+=== A0A3N5FZG7 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:RPH53850.1};
+Bit Score: 82.0
+E-value: 0.02821
+Alignment Length: 137
+Percentage Identity: 0.116
+
+=== A0A6L3A055 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 116.0
+E-value: 0.02978
+Alignment Length: 165
+Percentage Identity: 0.084
+
+=== A0A4Y9ESW9 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:TFU06410.1};
+Bit Score: 105.0
+E-value: 0.02978
+Alignment Length: 155
+Percentage Identity: 0.135
+
+=== A0A2W1JKY5 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.02978
+Alignment Length: 167
+Percentage Identity: 0.113
+
+=== A0A496RM59 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RKY33173.1};
+Bit Score: 103.0
+E-value: 0.02978
+Alignment Length: 142
+Percentage Identity: 0.126
+
+=== A0A2N2CGA7 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 103.0
+E-value: 0.02978
+Alignment Length: 120
+Percentage Identity: 0.116
+
+=== A0A2E9KXS7 ===
+DE   RecName: Full=Tail tube protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 99.0
+E-value: 0.02978
+Alignment Length: 156
+Percentage Identity: 0.108
+
+=== A0A3R6HI52 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 97.0
+E-value: 0.02978
+Alignment Length: 168
+Percentage Identity: 0.101
+
+=== A0A542Z8N6 ===
+DE   SubName: Full=Phage tail-like protein {ECO:0000313|EMBL:TQL56675.1};
+Bit Score: 84.0
+E-value: 0.02978
+Alignment Length: 154
+Percentage Identity: 0.097
+
+=== A0A840YBT4 ===
+DE   SubName: Full=Phage tail-like protein {ECO:0000313|EMBL:MBB5710807.1};
+Bit Score: 98.0
+E-value: 0.03143
+Alignment Length: 164
+Percentage Identity: 0.091
+
+=== A0A1J5DBH5 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 91.0
+E-value: 0.03143
+Alignment Length: 161
+Percentage Identity: 0.118
+
+=== A0A2G7H053 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 88.0
+E-value: 0.03143
+Alignment Length: 174
+Percentage Identity: 0.086
+
+=== A0A4Y3KBN8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GEA81407.1};
+Bit Score: 114.0
+E-value: 0.03317
+Alignment Length: 157
+Percentage Identity: 0.114
+
+=== A0A849TIR0 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.03317
+Alignment Length: 152
+Percentage Identity: 0.092
+
+=== A0A1S9CGK6 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.03317
+Alignment Length: 165
+Percentage Identity: 0.066
+
+=== A0A3N0W5E7 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:ROI00282.1};
+Bit Score: 91.0
+E-value: 0.03317
+Alignment Length: 164
+Percentage Identity: 0.079
+
+=== A0A2D9G7J2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAO69651.1};
+Bit Score: 89.0
+E-value: 0.03317
+Alignment Length: 147
+Percentage Identity: 0.108
+
+=== A0A1I3CQ52 ===
+DE   SubName: Full=Conserved hypothetical phage tail region protein {ECO:0000313|EMBL:SFH76655.1};
+Bit Score: 103.0
+E-value: 0.03502
+Alignment Length: 155
+Percentage Identity: 0.083
+
+=== A0A1Y4I7K8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OUP12782.1};
+Bit Score: 97.0
+E-value: 0.03502
+Alignment Length: 163
+Percentage Identity: 0.098
+
+=== A0A7C7DKZ3 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:HHY36541.1};
+Bit Score: 94.0
+E-value: 0.03502
+Alignment Length: 166
+Percentage Identity: 0.114
+
+=== A0A2E3G817 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 94.0
+E-value: 0.03502
+Alignment Length: 136
+Percentage Identity: 0.102
+
+=== A0A661HJ75 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 92.0
+E-value: 0.03502
+Alignment Length: 134
+Percentage Identity: 0.082
+
+=== A0A0F9R4C5 ===
+DE   RecName: Full=TonB-dependent receptor-like beta-barrel domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 90.0
+E-value: 0.03502
+Alignment Length: 161
+Percentage Identity: 0.093
+
+=== A0A3C1S1W6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HAO14604.1};
+DE   Flags: Fragment;
+Bit Score: 75.0
+E-value: 0.03502
+Alignment Length: 168
+Percentage Identity: 0.077
+
+=== A0A522CP11 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TAL31588.1};
+Bit Score: 106.0
+E-value: 0.03696
+Alignment Length: 149
+Percentage Identity: 0.093
+
+=== A0A522SZC2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TAN18828.1};
+Bit Score: 97.0
+E-value: 0.03696
+Alignment Length: 155
+Percentage Identity: 0.122
+
+=== A0A533MJM5 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:TKY91145.1};
+Bit Score: 88.0
+E-value: 0.03696
+Alignment Length: 167
+Percentage Identity: 0.095
+
+=== H6L5D5 ===
+DE   SubName: Full=Conserved hypothetical phage tail region protein {ECO:0000313|EMBL:AFC24049.1};
+Bit Score: 75.0
+E-value: 0.03696
+Alignment Length: 135
+Percentage Identity: 0.096
+
+=== A0A558BSZ6 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.04118
+Alignment Length: 161
+Percentage Identity: 0.086
+
+=== A0A260TL02 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.04118
+Alignment Length: 182
+Percentage Identity: 0.076
+
+=== A0A7C5AZH0 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:HGZ38318.1};
+Bit Score: 103.0
+E-value: 0.04118
+Alignment Length: 162
+Percentage Identity: 0.166
+
+=== A0A3A0EM29 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.04346
+Alignment Length: 160
+Percentage Identity: 0.081
+
+=== A0A3A0B5K9 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 103.0
+E-value: 0.04346
+Alignment Length: 110
+Percentage Identity: 0.072
+
+=== A0A3D1PQ32 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 96.0
+E-value: 0.04346
+Alignment Length: 152
+Percentage Identity: 0.092
+
+=== A0A2D9C445 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAO19436.1};
+Bit Score: 90.0
+E-value: 0.04346
+Alignment Length: 155
+Percentage Identity: 0.141
+
+=== A0A087KC75 ===
+DE   RecName: Full=Tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 90.0
+E-value: 0.04346
+Alignment Length: 165
+Percentage Identity: 0.133
+
+=== A0A0F0H6L8 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 87.0
+E-value: 0.04346
+Alignment Length: 127
+Percentage Identity: 0.125
+
+=== X1BUG0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAG87818.1};
+Bit Score: 84.0
+E-value: 0.04346
+Alignment Length: 149
+Percentage Identity: 0.067
+
+=== A0A3T0D1X7 ===
+DE   RecName: Full=Capsid protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 77.0
+E-value: 0.04346
+Alignment Length: 240
+Percentage Identity: 0.075
+
+=== A0A1P8M5P3 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.04587
+Alignment Length: 123
+Percentage Identity: 0.178
+
+=== A0A1V1W5F9 ===
+DE   RecName: Full=IPT/TIG domain-containing protein {ECO:0000259|Pfam:PF01833};
+Bit Score: 100.0
+E-value: 0.04587
+Alignment Length: 170
+Percentage Identity: 0.105
+
+=== A0A2E7QIF4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBO33819.1};
+Bit Score: 95.0
+E-value: 0.04587
+Alignment Length: 158
+Percentage Identity: 0.094
+
+=== A0A164RHS4 ===
+DE   RecName: Full=IPT/TIG domain-containing protein {ECO:0000259|Pfam:PF01833};
+Bit Score: 93.0
+E-value: 0.04587
+Alignment Length: 171
+Percentage Identity: 0.105
+
+=== A0A4Y8AC80 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:TEW66144.1};
+Bit Score: 89.0
+E-value: 0.04587
+Alignment Length: 164
+Percentage Identity: 0.103
+
+=== A0A4Q5USZ0 ===
+DE   RecName: Full=DUF4390 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 82.0
+E-value: 0.04587
+Alignment Length: 150
+Percentage Identity: 0.12
+
+=== A0A1Z9NBV3 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 78.0
+E-value: 0.04587
+Alignment Length: 133
+Percentage Identity: 0.105
+
+=== C6LG61 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EET60425.1};
+Bit Score: 108.0
+E-value: 0.04842
+Alignment Length: 127
+Percentage Identity: 0.125
+
+=== A0A7V9P0M2 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:MBA2612733.1};
+Bit Score: 103.0
+E-value: 0.04842
+Alignment Length: 157
+Percentage Identity: 0.082
+
+=== A0A7C5N8C2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HHH29110.1};
+Bit Score: 89.0
+E-value: 0.04842
+Alignment Length: 119
+Percentage Identity: 0.1
+

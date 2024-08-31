@@ -1,0 +1,71 @@
+=== A0A7X7K5V5 ===
+DE   RecName: Full=DUF58 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 138.0
+E-value: 0.01294
+Alignment Length: 73
+Percentage Identity: 0.178
+
+=== K1RS60 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EKC37326.1};
+Bit Score: 122.0
+E-value: 0.01549
+Alignment Length: 74
+Percentage Identity: 0.175
+
+=== A0A109RV52 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AMC34782.1};
+Bit Score: 143.0
+E-value: 0.01746
+Alignment Length: 72
+Percentage Identity: 0.138
+
+=== A0A1Q4VC74 ===
+DE   RecName: Full=DUF3310 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.0282
+Alignment Length: 78
+Percentage Identity: 0.141
+
+=== A0A7C6FF66 ===
+DE   SubName: Full=Nitrogen fixation protein NifZ {ECO:0000313|EMBL:HHS93333.1};
+Bit Score: 117.0
+E-value: 0.03584
+Alignment Length: 77
+Percentage Identity: 0.181
+
+=== A0A1T1ATT3 ===
+DE   SubName: Full=Nitrogen fixation protein NifZ {ECO:0000313|EMBL:OOV07524.1};
+Bit Score: 112.0
+E-value: 0.0404
+Alignment Length: 85
+Percentage Identity: 0.141
+
+=== A0A2D3VZF9 ===
+DE   SubName: Full=Nitrogen fixation protein NifZ {ECO:0000313|EMBL:DAB33558.1};
+Bit Score: 112.0
+E-value: 0.04555
+Alignment Length: 82
+Percentage Identity: 0.195
+
+=== A0A7V5J3Z5 ===
+DE   SubName: Full=Nitrogen fixation protein NifZ {ECO:0000313|EMBL:HHH20124.1};
+Bit Score: 114.0
+E-value: 0.04836
+Alignment Length: 77
+Percentage Identity: 0.194
+
+=== A0A1J4W6K6 ===
+DE   RecName: Full=DUF4926 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.04836
+Alignment Length: 82
+Percentage Identity: 0.219
+
+=== A0A7S2YSK0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAD9993085.1};
+DE   Flags: Fragment;
+Bit Score: 96.0
+E-value: 0.04836
+Alignment Length: 75
+Percentage Identity: 0.16
+

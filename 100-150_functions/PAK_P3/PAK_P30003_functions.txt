@@ -1,0 +1,1121 @@
+=== A0A2E7I106 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 566.0
+E-value: 2.765e-16
+Alignment Length: 137
+Percentage Identity: 0.569
+
+=== A0A2E2D6C7 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 407.0
+E-value: 3.103e-12
+Alignment Length: 137
+Percentage Identity: 0.379
+
+=== A0A5C7M6C7 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 398.0
+E-value: 6.802e-11
+Alignment Length: 138
+Percentage Identity: 0.275
+
+=== A0A0F9CM92 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 397.0
+E-value: 8.217e-11
+Alignment Length: 123
+Percentage Identity: 0.276
+
+=== A0A350LYU7 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 393.0
+E-value: 1.057e-10
+Alignment Length: 128
+Percentage Identity: 0.265
+
+=== A0A540WHM2 ===
+DE   SubName: Full=N-6 DNA methylase {ECO:0000313|EMBL:TQF08513.1};
+DE   Flags: Fragment;
+Bit Score: 365.0
+E-value: 1.75e-10
+Alignment Length: 132
+Percentage Identity: 0.303
+
+=== A0A2G6CM28 ===
+DE   RecName: Full=site-specific DNA-methyltransferase (adenine-specific) {ECO:0000256|ARBA:ARBA00011900};
+DE            EC=2.1.1.72 {ECO:0000256|ARBA:ARBA00011900};
+Bit Score: 369.0
+E-value: 1.985e-10
+Alignment Length: 138
+Percentage Identity: 0.326
+
+=== A0A0F9KM84 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 383.0
+E-value: 2.252e-10
+Alignment Length: 135
+Percentage Identity: 0.222
+
+=== A0A540WLB9 ===
+DE   SubName: Full=N-6 DNA methylase {ECO:0000313|EMBL:TQF09813.1};
+DE   Flags: Fragment;
+Bit Score: 356.0
+E-value: 2.252e-10
+Alignment Length: 138
+Percentage Identity: 0.297
+
+=== A0A0U1P5G9 ===
+DE   SubName: Full=Putative structural domain protein {ECO:0000313|EMBL:GAD29798.1};
+Bit Score: 359.0
+E-value: 2.554e-10
+Alignment Length: 126
+Percentage Identity: 0.38
+
+=== A0A3D1QYZ9 ===
+DE   RecName: Full=site-specific DNA-methyltransferase (adenine-specific) {ECO:0000256|ARBA:ARBA00011900};
+DE            EC=2.1.1.72 {ECO:0000256|ARBA:ARBA00011900};
+DE   Flags: Fragment;
+Bit Score: 358.0
+E-value: 2.554e-10
+Alignment Length: 135
+Percentage Identity: 0.318
+
+=== A0A538PYF6 ===
+DE   RecName: Full=site-specific DNA-methyltransferase (adenine-specific) {ECO:0000256|ARBA:ARBA00011900};
+DE            EC=2.1.1.72 {ECO:0000256|ARBA:ARBA00011900};
+Bit Score: 372.0
+E-value: 2.72e-10
+Alignment Length: 145
+Percentage Identity: 0.296
+
+=== A0A0F9LGL9 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+DE   Flags: Fragment;
+Bit Score: 371.0
+E-value: 2.72e-10
+Alignment Length: 122
+Percentage Identity: 0.286
+
+=== D0LP87 ===
+DE   RecName: Full=site-specific DNA-methyltransferase (adenine-specific) {ECO:0000256|ARBA:ARBA00011900};
+DE            EC=2.1.1.72 {ECO:0000256|ARBA:ARBA00011900};
+Bit Score: 341.0
+E-value: 2.897e-10
+Alignment Length: 138
+Percentage Identity: 0.333
+
+=== A0A7Y5NVV9 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 368.0
+E-value: 3.97e-10
+Alignment Length: 135
+Percentage Identity: 0.318
+
+=== A0A7C5J3X6 ===
+DE   RecName: Full=site-specific DNA-methyltransferase (adenine-specific) {ECO:0000256|ARBA:ARBA00011900};
+DE            EC=2.1.1.72 {ECO:0000256|ARBA:ARBA00011900};
+Bit Score: 375.0
+E-value: 4.229e-10
+Alignment Length: 128
+Percentage Identity: 0.32
+
+=== A0A7J5EXZ6 ===
+DE   RecName: Full=site-specific DNA-methyltransferase (adenine-specific) {ECO:0000256|ARBA:ARBA00011900};
+DE            EC=2.1.1.72 {ECO:0000256|ARBA:ARBA00011900};
+Bit Score: 362.0
+E-value: 4.504e-10
+Alignment Length: 137
+Percentage Identity: 0.321
+
+=== A0A7C7DGT3 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 343.0
+E-value: 4.504e-10
+Alignment Length: 140
+Percentage Identity: 0.3
+
+=== A0A842FAJ5 ===
+DE   SubName: Full=Terminase {ECO:0000313|EMBL:MBC2241822.1};
+Bit Score: 322.0
+E-value: 5.794e-10
+Alignment Length: 142
+Percentage Identity: 0.253
+
+=== A0A7C5N2Y4 ===
+DE   SubName: Full=Methyltransferase domain-containing protein {ECO:0000313|EMBL:HHH28126.1};
+Bit Score: 339.0
+E-value: 6.171e-10
+Alignment Length: 127
+Percentage Identity: 0.322
+
+=== A0A556CR30 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 331.0
+E-value: 6.171e-10
+Alignment Length: 138
+Percentage Identity: 0.253
+
+=== A0A0F9R6Y5 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 334.0
+E-value: 7.455e-10
+Alignment Length: 141
+Percentage Identity: 0.262
+
+=== A0A837XTV0 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 329.0
+E-value: 7.455e-10
+Alignment Length: 141
+Percentage Identity: 0.269
+
+=== A0A0F9MNQ6 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 302.0
+E-value: 7.455e-10
+Alignment Length: 140
+Percentage Identity: 0.25
+
+=== A0A662E6F9 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 348.0
+E-value: 1.022e-09
+Alignment Length: 131
+Percentage Identity: 0.251
+
+=== A0A081LGH1 ===
+DE   SubName: Full=Terminase {ECO:0000313|EMBL:KEP28347.1};
+Bit Score: 306.0
+E-value: 1.088e-09
+Alignment Length: 140
+Percentage Identity: 0.257
+
+=== A0A497PQD7 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+DE   Flags: Fragment;
+Bit Score: 369.0
+E-value: 1.159e-09
+Alignment Length: 129
+Percentage Identity: 0.263
+
+=== A0A0F9PDK4 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 343.0
+E-value: 1.159e-09
+Alignment Length: 135
+Percentage Identity: 0.207
+
+=== D0LLR2 ===
+DE   RecName: Full=site-specific DNA-methyltransferase (adenine-specific) {ECO:0000256|ARBA:ARBA00011900};
+DE            EC=2.1.1.72 {ECO:0000256|ARBA:ARBA00011900};
+Bit Score: 322.0
+E-value: 1.159e-09
+Alignment Length: 138
+Percentage Identity: 0.34
+
+=== A0A1V5AJ16 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 357.0
+E-value: 1.314e-09
+Alignment Length: 125
+Percentage Identity: 0.288
+
+=== A0A5F0K8W0 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 333.0
+E-value: 1.314e-09
+Alignment Length: 127
+Percentage Identity: 0.314
+
+=== A0A7Y8S2H4 ===
+DE   SubName: Full=Phage portal protein {ECO:0000313|EMBL:NWN81189.1};
+Bit Score: 329.0
+E-value: 1.314e-09
+Alignment Length: 139
+Percentage Identity: 0.237
+
+=== A0A521IRF4 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 320.0
+E-value: 1.588e-09
+Alignment Length: 147
+Percentage Identity: 0.299
+
+=== A0A6M3KW73 ===
+DE   SubName: Full=Putative peptidase {ECO:0000313|EMBL:QJA85972.1};
+Bit Score: 359.0
+E-value: 1.691e-09
+Alignment Length: 131
+Percentage Identity: 0.213
+
+=== A0A4Q3L7K9 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 355.0
+E-value: 2.043e-09
+Alignment Length: 136
+Percentage Identity: 0.257
+
+=== A0A521PWQ2 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 324.0
+E-value: 2.318e-09
+Alignment Length: 136
+Percentage Identity: 0.308
+
+=== A0A3A4TQW0 ===
+DE   SubName: Full=Methyltransferase domain-containing protein {ECO:0000313|EMBL:RJQ04430.1};
+Bit Score: 354.0
+E-value: 2.468e-09
+Alignment Length: 125
+Percentage Identity: 0.256
+
+=== A0A1G3LKZ1 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 322.0
+E-value: 2.629e-09
+Alignment Length: 135
+Percentage Identity: 0.296
+
+=== A0A7W4ED39 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 310.0
+E-value: 3.382e-09
+Alignment Length: 130
+Percentage Identity: 0.292
+
+=== A0A2R8A266 ===
+DE   SubName: Full=DNA methyltransferase {ECO:0000313|EMBL:TFJ02263.1};
+DE   SubName: Full=DNA wielding protein skin element {ECO:0000313|EMBL:SPC41070.1};
+Bit Score: 287.0
+E-value: 3.382e-09
+Alignment Length: 142
+Percentage Identity: 0.26
+
+=== A0A1S9CQN9 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 317.0
+E-value: 9.27e-09
+Alignment Length: 122
+Percentage Identity: 0.311
+
+=== A0A5E4IGR5 ===
+DE   SubName: Full=DNA ligase {ECO:0000313|EMBL:VVB63286.1};
+DE            EC=6.5.1.1 {ECO:0000313|EMBL:VVB63286.1};
+Bit Score: 274.0
+E-value: 9.873e-09
+Alignment Length: 143
+Percentage Identity: 0.265
+
+=== A0A7G8X562 ===
+DE   SubName: Full=Terminase {ECO:0000313|EMBL:QNK87755.1};
+Bit Score: 278.0
+E-value: 1.193e-08
+Alignment Length: 148
+Percentage Identity: 0.229
+
+=== A0A6M3K194 ===
+DE   SubName: Full=Putative peptidase {ECO:0000313|EMBL:QJA76120.1};
+Bit Score: 295.0
+E-value: 1.634e-08
+Alignment Length: 136
+Percentage Identity: 0.294
+
+=== A0A1W9VLY4 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 314.0
+E-value: 1.854e-08
+Alignment Length: 125
+Percentage Identity: 0.224
+
+=== A0A0F9UU01 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 290.0
+E-value: 1.854e-08
+Alignment Length: 133
+Percentage Identity: 0.233
+
+=== A0A6M3M644 ===
+DE   SubName: Full=Putative peptidase {ECO:0000313|EMBL:QJB02664.1};
+Bit Score: 296.0
+E-value: 1.974e-08
+Alignment Length: 128
+Percentage Identity: 0.21
+
+=== A0A7X5JJN6 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 283.0
+E-value: 2.24e-08
+Alignment Length: 136
+Percentage Identity: 0.257
+
+=== A0A431IGU8 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 272.0
+E-value: 3.069e-08
+Alignment Length: 142
+Percentage Identity: 0.295
+
+=== A0A520B9K7 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 280.0
+E-value: 3.481e-08
+Alignment Length: 142
+Percentage Identity: 0.239
+
+=== A0A7Y5KP53 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 293.0
+E-value: 3.949e-08
+Alignment Length: 130
+Percentage Identity: 0.276
+
+=== A0A662PM76 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+DE   Flags: Fragment;
+Bit Score: 295.0
+E-value: 4.206e-08
+Alignment Length: 116
+Percentage Identity: 0.267
+
+=== A0A0F9G0Y4 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+DE   Flags: Fragment;
+Bit Score: 270.0
+E-value: 4.206e-08
+Alignment Length: 139
+Percentage Identity: 0.258
+
+=== A0A7C4ZEL0 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 276.0
+E-value: 4.479e-08
+Alignment Length: 139
+Percentage Identity: 0.266
+
+=== A0A847YW07 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 297.0
+E-value: 4.77e-08
+Alignment Length: 113
+Percentage Identity: 0.274
+
+=== A0A099S864 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 266.0
+E-value: 4.77e-08
+Alignment Length: 142
+Percentage Identity: 0.246
+
+=== A0A2A7I013 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 276.0
+E-value: 5.411e-08
+Alignment Length: 139
+Percentage Identity: 0.287
+
+=== A0A0F8Y5C1 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+DE   Flags: Fragment;
+Bit Score: 270.0
+E-value: 5.411e-08
+Alignment Length: 131
+Percentage Identity: 0.282
+
+=== A0A1V5HSB3 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 288.0
+E-value: 5.763e-08
+Alignment Length: 112
+Percentage Identity: 0.285
+
+=== A0A2A8D169 ===
+DE   SubName: Full=DNA methyltransferase {ECO:0000313|EMBL:PEN14709.1};
+DE   Flags: Fragment;
+Bit Score: 270.0
+E-value: 6.537e-08
+Alignment Length: 138
+Percentage Identity: 0.246
+
+=== A0A7J3A452 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 261.0
+E-value: 6.537e-08
+Alignment Length: 136
+Percentage Identity: 0.242
+
+=== A0A2K3JDK7 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 291.0
+E-value: 7.897e-08
+Alignment Length: 145
+Percentage Identity: 0.248
+
+=== A0A6M3LXP0 ===
+DE   SubName: Full=Putative peptidase {ECO:0000313|EMBL:QJB00141.1};
+Bit Score: 262.0
+E-value: 8.411e-08
+Alignment Length: 128
+Percentage Identity: 0.226
+
+=== A0A7K4D2R5 ===
+DE   RecName: Full=ATP-dependent DNA ligase family profile domain-containing protein {ECO:0000259|PROSITE:PS50160};
+Bit Score: 256.0
+E-value: 8.411e-08
+Alignment Length: 131
+Percentage Identity: 0.221
+
+=== A0A5S9MGG7 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 270.0
+E-value: 8.958e-08
+Alignment Length: 112
+Percentage Identity: 0.258
+
+=== W4E2P6 ===
+DE   SubName: Full=Phage-like element PBSX protein xkdF {ECO:0000313|EMBL:ETT74247.1};
+Bit Score: 287.0
+E-value: 1.016e-07
+Alignment Length: 116
+Percentage Identity: 0.284
+
+=== A0A497BEA4 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 290.0
+E-value: 1.082e-07
+Alignment Length: 128
+Percentage Identity: 0.273
+
+=== A0A0F9FMT6 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+DE   Flags: Fragment;
+Bit Score: 238.0
+E-value: 1.153e-07
+Alignment Length: 144
+Percentage Identity: 0.243
+
+=== P54326 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF;
+Bit Score: 283.0
+E-value: 1.228e-07
+Alignment Length: 123
+Percentage Identity: 0.252
+
+=== M8DD55 ===
+DE   SubName: Full=Phage-like element PBSX protein xkdF {ECO:0000313|EMBL:EMT54244.1};
+Bit Score: 249.0
+E-value: 1.228e-07
+Alignment Length: 142
+Percentage Identity: 0.274
+
+=== A0A0F9RRS6 ===
+DE   RecName: Full=site-specific DNA-methyltransferase (adenine-specific) {ECO:0000256|ARBA:ARBA00011900};
+DE            EC=2.1.1.72 {ECO:0000256|ARBA:ARBA00011900};
+Bit Score: 253.0
+E-value: 1.483e-07
+Alignment Length: 143
+Percentage Identity: 0.244
+
+=== A0A662U272 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 272.0
+E-value: 1.579e-07
+Alignment Length: 129
+Percentage Identity: 0.248
+
+=== A0A1H0VEL7 ===
+DE   SubName: Full=Putative phage serine protease XkdF {ECO:0000313|EMBL:SDP77019.1};
+Bit Score: 246.0
+E-value: 1.579e-07
+Alignment Length: 145
+Percentage Identity: 0.282
+
+=== A0A5E4IGH5 ===
+DE   SubName: Full=Phage serine protease XkdF {ECO:0000313|EMBL:VVB63929.1};
+Bit Score: 275.0
+E-value: 1.792e-07
+Alignment Length: 137
+Percentage Identity: 0.218
+
+=== A0A7X9J3D7 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 273.0
+E-value: 1.792e-07
+Alignment Length: 118
+Percentage Identity: 0.279
+
+=== A0A653RSW7 ===
+DE   SubName: Full=Putative nucleic acid-binding protein skin element {ECO:0000313|EMBL:VXB56358.1};
+Bit Score: 245.0
+E-value: 1.792e-07
+Alignment Length: 145
+Percentage Identity: 0.262
+
+=== X1K2N3 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+DE   Flags: Fragment;
+Bit Score: 295.0
+E-value: 1.908e-07
+Alignment Length: 116
+Percentage Identity: 0.275
+
+=== A0A0S8JE61 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 270.0
+E-value: 1.908e-07
+Alignment Length: 132
+Percentage Identity: 0.242
+
+=== A0A4Y7WZV9 ===
+DE   SubName: Full=Terminase {ECO:0000313|EMBL:TES56179.1};
+Bit Score: 259.0
+E-value: 1.908e-07
+Alignment Length: 137
+Percentage Identity: 0.255
+
+=== A0A2W4IF38 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 254.0
+E-value: 2.164e-07
+Alignment Length: 125
+Percentage Identity: 0.272
+
+=== A0A3N9US27 ===
+DE   RecName: Full=Uracil-DNA glycosylase-like domain-containing protein {ECO:0000259|SMART:SM00986};
+Bit Score: 278.0
+E-value: 2.305e-07
+Alignment Length: 129
+Percentage Identity: 0.255
+
+=== A0A6M3L6D4 ===
+DE   SubName: Full=Putative peptidase {ECO:0000313|EMBL:QJA90220.1};
+Bit Score: 237.0
+E-value: 2.785e-07
+Alignment Length: 147
+Percentage Identity: 0.265
+
+=== A0A0F9IND7 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 244.0
+E-value: 3.159e-07
+Alignment Length: 138
+Percentage Identity: 0.268
+
+=== A0A0M0SYT8 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 263.0
+E-value: 3.364e-07
+Alignment Length: 122
+Percentage Identity: 0.286
+
+=== A0A416S1N5 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 281.0
+E-value: 3.816e-07
+Alignment Length: 113
+Percentage Identity: 0.265
+
+=== A0A1V5BAN0 ===
+DE   SubName: Full=Uracil DNA glycosylase superfamily protein {ECO:0000313|EMBL:OPY55506.1};
+Bit Score: 258.0
+E-value: 3.816e-07
+Alignment Length: 132
+Percentage Identity: 0.212
+
+=== A0A2D6X9X6 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 252.0
+E-value: 4.91e-07
+Alignment Length: 157
+Percentage Identity: 0.222
+
+=== A0A6P1YB27 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 251.0
+E-value: 4.91e-07
+Alignment Length: 129
+Percentage Identity: 0.232
+
+=== A0A0F9EFV8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKL72824.1};
+DE   Flags: Fragment;
+Bit Score: 233.0
+E-value: 4.91e-07
+Alignment Length: 158
+Percentage Identity: 0.208
+
+=== A0A3N4S2B3 ===
+DE   SubName: Full=Putative serine protease XkdF {ECO:0000313|EMBL:RPE39752.1};
+Bit Score: 211.0
+E-value: 5.229e-07
+Alignment Length: 128
+Percentage Identity: 0.289
+
+=== A0A2B6RR89 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 253.0
+E-value: 5.569e-07
+Alignment Length: 126
+Percentage Identity: 0.23
+
+=== A0A517IAE3 ===
+DE   SubName: Full=Terminase {ECO:0000313|EMBL:QDS35842.1};
+Bit Score: 222.0
+E-value: 5.931e-07
+Alignment Length: 150
+Percentage Identity: 0.273
+
+=== A0A6M3LWU7 ===
+DE   SubName: Full=Putative peptidase {ECO:0000313|EMBL:QJA99263.1};
+Bit Score: 215.0
+E-value: 6.728e-07
+Alignment Length: 135
+Percentage Identity: 0.296
+
+=== X1M9G8 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+DE   Flags: Fragment;
+Bit Score: 229.0
+E-value: 7.166e-07
+Alignment Length: 154
+Percentage Identity: 0.142
+
+=== A0A6M3IGK5 ===
+DE   SubName: Full=Putative peptidase {ECO:0000313|EMBL:QJA56511.1};
+Bit Score: 222.0
+E-value: 7.632e-07
+Alignment Length: 145
+Percentage Identity: 0.165
+
+=== A0A1H0VIJ5 ===
+DE   SubName: Full=Putative phage serine protease XkdF {ECO:0000313|EMBL:SDP78144.1};
+Bit Score: 229.0
+E-value: 9.819e-07
+Alignment Length: 144
+Percentage Identity: 0.291
+
+=== A0A7C4VDG8 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 219.0
+E-value: 1.046e-06
+Alignment Length: 142
+Percentage Identity: 0.274
+
+=== A0A0D1Y761 ===
+DE   SubName: Full=Putative phage serine protease XkdF {ECO:0000313|EMBL:SDJ77272.1};
+Bit Score: 219.0
+E-value: 1.046e-06
+Alignment Length: 141
+Percentage Identity: 0.226
+
+=== A0A661CYH0 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 238.0
+E-value: 1.114e-06
+Alignment Length: 127
+Percentage Identity: 0.228
+
+=== A0A4R4CZF8 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 227.0
+E-value: 1.114e-06
+Alignment Length: 142
+Percentage Identity: 0.225
+
+=== A0A679JQZ5 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 225.0
+E-value: 1.114e-06
+Alignment Length: 137
+Percentage Identity: 0.211
+
+=== A0A6B9TH55 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 220.0
+E-value: 1.114e-06
+Alignment Length: 139
+Percentage Identity: 0.237
+
+=== A0A3G2R561 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 220.0
+E-value: 1.263e-06
+Alignment Length: 131
+Percentage Identity: 0.251
+
+=== A0A3E2TB30 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 230.0
+E-value: 1.346e-06
+Alignment Length: 143
+Percentage Identity: 0.181
+
+=== A0A1I4JH02 ===
+DE   SubName: Full=Putative phage serine protease XkdF {ECO:0000313|EMBL:SFL65849.1};
+Bit Score: 244.0
+E-value: 1.731e-06
+Alignment Length: 108
+Percentage Identity: 0.25
+
+=== K1SJV1 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 251.0
+E-value: 2.091e-06
+Alignment Length: 109
+Percentage Identity: 0.229
+
+=== A0A0F8YZE7 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+DE   Flags: Fragment;
+Bit Score: 239.0
+E-value: 2.091e-06
+Alignment Length: 118
+Percentage Identity: 0.254
+
+=== A0A1C6EEA1 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 255.0
+E-value: 2.372e-06
+Alignment Length: 113
+Percentage Identity: 0.247
+
+=== A0A0J9ED95 ===
+DE   SubName: Full=Phage capsid and scaffold {ECO:0000313|EMBL:KMW60782.1};
+Bit Score: 197.0
+E-value: 2.372e-06
+Alignment Length: 129
+Percentage Identity: 0.286
+
+=== A0A836WEJ5 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 211.0
+E-value: 2.527e-06
+Alignment Length: 126
+Percentage Identity: 0.198
+
+=== A0A5S9MH47 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 197.0
+E-value: 2.527e-06
+Alignment Length: 128
+Percentage Identity: 0.242
+
+=== X1E2G1 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+DE   Flags: Fragment;
+Bit Score: 208.0
+E-value: 2.691e-06
+Alignment Length: 121
+Percentage Identity: 0.214
+
+=== X1KXK1 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+DE   Flags: Fragment;
+Bit Score: 206.0
+E-value: 2.866e-06
+Alignment Length: 150
+Percentage Identity: 0.173
+
+=== A0A136N653 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 203.0
+E-value: 3.052e-06
+Alignment Length: 141
+Percentage Identity: 0.219
+
+=== A0A1N7FJ14 ===
+DE   SubName: Full=Putative phage serine protease XkdF {ECO:0000313|EMBL:SIS00280.1};
+Bit Score: 208.0
+E-value: 3.251e-06
+Alignment Length: 130
+Percentage Identity: 0.215
+
+=== A0A2A6Z7X5 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 211.0
+E-value: 4.455e-06
+Alignment Length: 144
+Percentage Identity: 0.236
+
+=== A0A0V0PWI6 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 196.0
+E-value: 5.053e-06
+Alignment Length: 152
+Percentage Identity: 0.184
+
+=== A0A7K4AJG1 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 209.0
+E-value: 6.105e-06
+Alignment Length: 109
+Percentage Identity: 0.192
+
+=== A0A1W9X7J1 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 196.0
+E-value: 6.105e-06
+Alignment Length: 144
+Percentage Identity: 0.222
+
+=== A0A2R6L6I0 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 190.0
+E-value: 6.924e-06
+Alignment Length: 125
+Percentage Identity: 0.216
+
+=== A0A6L5X491 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 200.0
+E-value: 1.3e-05
+Alignment Length: 140
+Percentage Identity: 0.228
+
+=== A0A1C5SY10 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 199.0
+E-value: 1.475e-05
+Alignment Length: 156
+Percentage Identity: 0.179
+
+=== A0A1R0W4P0 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 192.0
+E-value: 1.782e-05
+Alignment Length: 132
+Percentage Identity: 0.234
+
+=== A0A2N6FTY8 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 183.0
+E-value: 1.782e-05
+Alignment Length: 137
+Percentage Identity: 0.277
+
+=== A0A0S4SCP6 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 190.0
+E-value: 2.021e-05
+Alignment Length: 137
+Percentage Identity: 0.24
+
+=== U2ETP2 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 185.0
+E-value: 2.021e-05
+Alignment Length: 125
+Percentage Identity: 0.24
+
+=== A0A0F9JW51 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 178.0
+E-value: 2.6e-05
+Alignment Length: 143
+Percentage Identity: 0.216
+
+=== A0A3A9HNZ4 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 178.0
+E-value: 3.346e-05
+Alignment Length: 114
+Percentage Identity: 0.28
+
+=== A0A2E0W8A3 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 180.0
+E-value: 3.563e-05
+Alignment Length: 115
+Percentage Identity: 0.208
+
+=== A0A316D4K7 ===
+DE   SubName: Full=SPP1 gp7 family putative phage head morphogenesis protein {ECO:0000313|EMBL:PWK07506.1};
+Bit Score: 174.0
+E-value: 6.691e-05
+Alignment Length: 153
+Percentage Identity: 0.196
+
+=== D4M9P0 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 169.0
+E-value: 6.691e-05
+Alignment Length: 127
+Percentage Identity: 0.283
+
+=== A0A661E9E1 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 151.0
+E-value: 9.766e-05
+Alignment Length: 131
+Percentage Identity: 0.236
+
+=== A0A7V5RL16 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 164.0
+E-value: 0.0001257
+Alignment Length: 114
+Percentage Identity: 0.263
+
+=== A0RNP3 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 177.0
+E-value: 0.0001338
+Alignment Length: 114
+Percentage Identity: 0.254
+
+=== A0A7C3HHD9 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 168.0
+E-value: 0.0002215
+Alignment Length: 111
+Percentage Identity: 0.252
+
+=== A0A3N4UR71 ===
+DE   SubName: Full=Putative serine protease XkdF {ECO:0000313|EMBL:RPE72528.1};
+Bit Score: 156.0
+E-value: 0.0003444
+Alignment Length: 123
+Percentage Identity: 0.227
+
+=== A0A328S452 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 146.0
+E-value: 0.0003444
+Alignment Length: 108
+Percentage Identity: 0.166
+
+=== A0A7G9RD89 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 135.0
+E-value: 0.0007335
+Alignment Length: 136
+Percentage Identity: 0.205
+
+=== A0A0F9BZT7 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+DE   Flags: Fragment;
+Bit Score: 144.0
+E-value: 0.0007812
+Alignment Length: 138
+Percentage Identity: 0.195
+
+=== A0A843GCC0 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 129.0
+E-value: 0.001467
+Alignment Length: 126
+Percentage Identity: 0.222
+
+=== A0A1T5AHS2 ===
+DE   SubName: Full=Phage prohead protease, HK97 family {ECO:0000313|EMBL:SKB34435.1};
+Bit Score: 129.0
+E-value: 0.00201
+Alignment Length: 128
+Percentage Identity: 0.171
+
+=== A0A2A2HFM2 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 121.0
+E-value: 0.003544
+Alignment Length: 112
+Percentage Identity: 0.178
+
+=== A0A7C5M222 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HHM11996.1};
+DE   Flags: Fragment;
+Bit Score: 80.0
+E-value: 0.00402
+Alignment Length: 156
+Percentage Identity: 0.141
+
+=== A0A126R2L9 ===
+DE   SubName: Full=Phage-related protein {ECO:0000313|EMBL:AMK16317.1};
+Bit Score: 128.0
+E-value: 0.004857
+Alignment Length: 115
+Percentage Identity: 0.2
+
+=== A0A3A4ZM25 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RJR27750.1};
+Bit Score: 111.0
+E-value: 0.005509
+Alignment Length: 120
+Percentage Identity: 0.15
+
+=== A0A258LKJ9 ===
+DE   SubName: Full=Peptidase U35 {ECO:0000313|EMBL:OYY06592.1};
+DE   Flags: Fragment;
+Bit Score: 126.0
+E-value: 0.006249
+Alignment Length: 139
+Percentage Identity: 0.151
+
+=== A0A258DRT6 ===
+DE   RecName: Full=Peptidase U35 {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 119.0
+E-value: 0.00804
+Alignment Length: 136
+Percentage Identity: 0.095
+
+=== A0A4Q3GB91 ===
+DE   SubName: Full=HK97 family phage prohead protease {ECO:0000313|EMBL:RYE44358.1};
+DE   Flags: Fragment;
+Bit Score: 118.0
+E-value: 0.008563
+Alignment Length: 124
+Percentage Identity: 0.217
+
+=== A0A7C1N7C9 ===
+DE   RecName: Full=HK97 family phage prohead protease {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 83.0
+E-value: 0.01102
+Alignment Length: 150
+Percentage Identity: 0.146
+
+=== A0A382JL84 ===
+DE   RecName: Full=Primosomal protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 100.0
+E-value: 0.01418
+Alignment Length: 131
+Percentage Identity: 0.106
+
+=== A0A641M9S7 ===
+DE   SubName: Full=Phage prohead protein {ECO:0000313|EMBL:KAA3700718.1};
+DE   Flags: Fragment;
+Bit Score: 112.0
+E-value: 0.02203
+Alignment Length: 120
+Percentage Identity: 0.1
+
+=== K2DPJ7 ===
+DE   RecName: Full=Caudovirus prohead protease {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 105.0
+E-value: 0.02499
+Alignment Length: 121
+Percentage Identity: 0.181
+
+=== A0A644T4I5 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+Bit Score: 100.0
+E-value: 0.02662
+Alignment Length: 121
+Percentage Identity: 0.165
+
+=== X1FY83 ===
+DE   RecName: Full=Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550};
+DE   Flags: Fragment;
+Bit Score: 101.0
+E-value: 0.02835
+Alignment Length: 72
+Percentage Identity: 0.25
+
+=== A0A6M3JN40 ===
+DE   SubName: Full=Putative prohead protease {ECO:0000313|EMBL:QJA71306.1};
+Bit Score: 83.0
+E-value: 0.04693
+Alignment Length: 124
+Percentage Identity: 0.169
+

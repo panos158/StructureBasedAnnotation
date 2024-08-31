@@ -1,0 +1,738 @@
+=== A0A2E8I7L7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBQ50195.1};
+Bit Score: 334.0
+E-value: 6.834e-09
+Alignment Length: 135
+Percentage Identity: 0.229
+
+=== K1XBV7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EKD22571.1};
+Bit Score: 270.0
+E-value: 4.984e-08
+Alignment Length: 136
+Percentage Identity: 0.227
+
+=== K2CVD6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EKD89616.1};
+Bit Score: 292.0
+E-value: 1.524e-07
+Alignment Length: 134
+Percentage Identity: 0.201
+
+=== A0A5U8XTX6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EBS0563391.1};
+Bit Score: 212.0
+E-value: 1.933e-05
+Alignment Length: 121
+Percentage Identity: 0.173
+
+=== A0A7X7UGV2 ===
+DE   SubName: Full=GPW/gp25 family protein {ECO:0000313|EMBL:NLH50284.1};
+Bit Score: 131.0
+E-value: 0.0003363
+Alignment Length: 141
+Percentage Identity: 0.141
+
+=== A0A356KY53 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:HBP23659.1};
+Bit Score: 138.0
+E-value: 0.0004588
+Alignment Length: 131
+Percentage Identity: 0.122
+
+=== A0A5B9MD44 ===
+DE   SubName: Full=Gene 25-like lysozyme {ECO:0000313|EMBL:QEF98439.1};
+Bit Score: 110.0
+E-value: 0.0009083
+Alignment Length: 160
+Percentage Identity: 0.137
+
+=== A0A2E6M395 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:MBK85326.1};
+Bit Score: 119.0
+E-value: 0.001318
+Alignment Length: 126
+Percentage Identity: 0.142
+
+=== A0A5C9BST1 ===
+DE   SubName: Full=Type VI secretion system protein ImpF {ECO:0000313|EMBL:TXT27322.1};
+Bit Score: 107.0
+E-value: 0.001318
+Alignment Length: 152
+Percentage Identity: 0.171
+
+=== A0A227J1I5 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:OXE28936.1};
+DE   Flags: Fragment;
+Bit Score: 124.0
+E-value: 0.00169
+Alignment Length: 83
+Percentage Identity: 0.168
+
+=== A0A524R0Y2 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:TFH66411.1};
+Bit Score: 106.0
+E-value: 0.001798
+Alignment Length: 127
+Percentage Identity: 0.157
+
+=== A0A2V7TA72 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:PYP93989.1};
+Bit Score: 110.0
+E-value: 0.002036
+Alignment Length: 145
+Percentage Identity: 0.165
+
+=== A0A6H0IXM2 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:QIT55974.1};
+Bit Score: 111.0
+E-value: 0.002305
+Alignment Length: 125
+Percentage Identity: 0.136
+
+=== A0A2E8CLI9 ===
+DE   RecName: Full=IraD/Gp25-like domain-containing protein {ECO:0000259|Pfam:PF04965};
+Bit Score: 110.0
+E-value: 0.003346
+Alignment Length: 125
+Percentage Identity: 0.136
+
+=== A0A4P5XZA0 ===
+DE   SubName: Full=Type VI secretion protein {ECO:0000313|EMBL:GDY10569.1};
+Bit Score: 99.0
+E-value: 0.003346
+Alignment Length: 143
+Percentage Identity: 0.16
+
+=== A0A1H6FCR3 ===
+DE   SubName: Full=Gene 25-like lysozyme {ECO:0000313|EMBL:SEH06946.1};
+Bit Score: 105.0
+E-value: 0.003788
+Alignment Length: 137
+Percentage Identity: 0.131
+
+=== A0A330LMR9 ===
+DE   RecName: Full=IraD/Gp25-like domain-containing protein {ECO:0000259|Pfam:PF04965};
+Bit Score: 98.0
+E-value: 0.004031
+Alignment Length: 146
+Percentage Identity: 0.171
+
+=== T0J0J7 ===
+DE   RecName: Full=DUF1983 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 70.0
+E-value: 0.004031
+Alignment Length: 119
+Percentage Identity: 0.176
+
+=== A0A1H3ZIF4 ===
+DE   SubName: Full=Type VI secretion system protein ImpF {ECO:0000313|EMBL:SEA23539.1};
+Bit Score: 108.0
+E-value: 0.004564
+Alignment Length: 124
+Percentage Identity: 0.137
+
+=== A0A7Y2MUM5 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:NNF38039.1};
+Bit Score: 99.0
+E-value: 0.004564
+Alignment Length: 149
+Percentage Identity: 0.147
+
+=== A0A1H8NMB7 ===
+DE   SubName: Full=Type VI secretion system protein ImpF {ECO:0000313|EMBL:SEO30871.1};
+Bit Score: 99.0
+E-value: 0.004856
+Alignment Length: 127
+Percentage Identity: 0.133
+
+=== A0A3B0WP08 ===
+DE   SubName: Full=Uncharacterized protein ImpF {ECO:0000313|EMBL:VAW45394.1};
+Bit Score: 99.0
+E-value: 0.004856
+Alignment Length: 148
+Percentage Identity: 0.114
+
+=== A0A3L7UWZ1 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:RLT10893.1};
+Bit Score: 91.0
+E-value: 0.005167
+Alignment Length: 133
+Percentage Identity: 0.165
+
+=== A0A3A1PZ02 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:RIW07956.1};
+Bit Score: 97.0
+E-value: 0.005498
+Alignment Length: 140
+Percentage Identity: 0.135
+
+=== A0A6M4IQA4 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:QJR36910.1};
+Bit Score: 97.0
+E-value: 0.005851
+Alignment Length: 161
+Percentage Identity: 0.13
+
+=== A0A379SG34 ===
+DE   SubName: Full=Type VI secretion system lysozyme-like protein {ECO:0000313|EMBL:SUG28038.1};
+Bit Score: 116.0
+E-value: 0.006225
+Alignment Length: 112
+Percentage Identity: 0.08
+
+=== A0A833MP27 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:KAB7622591.1};
+Bit Score: 112.0
+E-value: 0.006225
+Alignment Length: 84
+Percentage Identity: 0.13
+
+=== A0A0A0CYA3 ===
+DE   RecName: Full=IraD/Gp25-like domain-containing protein {ECO:0000259|Pfam:PF04965};
+Bit Score: 93.0
+E-value: 0.0075
+Alignment Length: 166
+Percentage Identity: 0.096
+
+=== A0A3L7K2Z3 ===
+DE   SubName: Full=DUF3889 domain-containing protein {ECO:0000313|EMBL:RLQ97368.1};
+Bit Score: 87.0
+E-value: 0.0075
+Alignment Length: 123
+Percentage Identity: 0.154
+
+=== A0A1W1BCW5 ===
+DE   SubName: Full=Uncharacterized protein similar to VCA0109 {ECO:0000313|EMBL:SFV51337.1};
+Bit Score: 108.0
+E-value: 0.007981
+Alignment Length: 134
+Percentage Identity: 0.156
+
+=== A0A2W5YFA5 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:PZR71529.1};
+Bit Score: 94.0
+E-value: 0.007981
+Alignment Length: 142
+Percentage Identity: 0.147
+
+=== A0A5M6IWN1 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:KAA5612730.1};
+Bit Score: 105.0
+E-value: 0.008492
+Alignment Length: 85
+Percentage Identity: 0.141
+
+=== A0A651DH84 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:TVP59272.1};
+Bit Score: 99.0
+E-value: 0.008492
+Alignment Length: 128
+Percentage Identity: 0.125
+
+=== A0A418WJN1 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:RJF90029.1};
+Bit Score: 102.0
+E-value: 0.009036
+Alignment Length: 81
+Percentage Identity: 0.172
+
+=== A0A1M7ZQJ1 ===
+DE   SubName: Full=Type VI secretion system protein ImpF {ECO:0000313|EMBL:SHO67180.1};
+Bit Score: 103.0
+E-value: 0.009615
+Alignment Length: 78
+Percentage Identity: 0.115
+
+=== A0A2C9D6R2 ===
+DE   SubName: Full=Type VI secretion system lysozyme-like protein {ECO:0000313|EMBL:SON55880.1};
+Bit Score: 90.0
+E-value: 0.009615
+Alignment Length: 143
+Percentage Identity: 0.069
+
+=== A0A7Z9PR22 ===
+DE   RecName: Full=Tim44-like domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 54.0
+E-value: 0.009615
+Alignment Length: 135
+Percentage Identity: 0.118
+
+=== A0A0J8VE80 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:PSW25359.1};
+Bit Score: 94.0
+E-value: 0.01023
+Alignment Length: 135
+Percentage Identity: 0.118
+
+=== A0A0M4FHI4 ===
+DE   RecName: Full=DUF3889 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 79.0
+E-value: 0.01023
+Alignment Length: 124
+Percentage Identity: 0.145
+
+=== A0A0L0GL39 ===
+DE   RecName: Full=IraD/Gp25-like domain-containing protein {ECO:0000259|Pfam:PF04965};
+Bit Score: 95.0
+E-value: 0.01089
+Alignment Length: 133
+Percentage Identity: 0.09
+
+=== A0A211YZ93 ===
+DE   RecName: Full=IraD/Gp25-like domain-containing protein {ECO:0000259|Pfam:PF04965};
+Bit Score: 87.0
+E-value: 0.01089
+Alignment Length: 143
+Percentage Identity: 0.097
+
+=== A0A257Q913 ===
+DE   RecName: Full=IraD/Gp25-like domain-containing protein {ECO:0000259|Pfam:PF04965};
+Bit Score: 85.0
+E-value: 0.01089
+Alignment Length: 135
+Percentage Identity: 0.14
+
+=== A0A7S0PJ52 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAD8574932.1};
+Bit Score: 68.0
+E-value: 0.01089
+Alignment Length: 148
+Percentage Identity: 0.114
+
+=== A0A6A7MAG3 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:MPZ34199.1};
+Bit Score: 93.0
+E-value: 0.01158
+Alignment Length: 129
+Percentage Identity: 0.124
+
+=== Q6LUD4 ===
+DE   RecName: Full=IraD/Gp25-like domain-containing protein {ECO:0000259|Pfam:PF04965};
+Bit Score: 94.0
+E-value: 0.01233
+Alignment Length: 83
+Percentage Identity: 0.156
+
+=== A0A4Y4F220 ===
+DE   SubName: Full=Lysozyme {ECO:0000313|EMBL:GED22705.1};
+Bit Score: 93.0
+E-value: 0.01233
+Alignment Length: 83
+Percentage Identity: 0.108
+
+=== A0A2T1KQG5 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:PSF11872.1};
+Bit Score: 91.0
+E-value: 0.01233
+Alignment Length: 142
+Percentage Identity: 0.133
+
+=== A0A1U9KLQ6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AQS86726.1};
+Bit Score: 96.0
+E-value: 0.01311
+Alignment Length: 85
+Percentage Identity: 0.117
+
+=== A0A427TYM1 ===
+DE   SubName: Full=DUF3889 domain-containing protein {ECO:0000313|EMBL:RSD29215.1};
+Bit Score: 87.0
+E-value: 0.01311
+Alignment Length: 121
+Percentage Identity: 0.157
+
+=== A0A661SV64 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:RLC20500.1};
+Bit Score: 102.0
+E-value: 0.01396
+Alignment Length: 118
+Percentage Identity: 0.169
+
+=== A0A098U6G8 ===
+DE   SubName: Full=Type VI secretion protein {ECO:0000313|EMBL:KGF79932.1};
+Bit Score: 89.0
+E-value: 0.01396
+Alignment Length: 150
+Percentage Identity: 0.106
+
+=== A0A2A2FD08 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:PAU82502.1};
+Bit Score: 87.0
+E-value: 0.01396
+Alignment Length: 140
+Percentage Identity: 0.128
+
+=== A0A7G6SKY5 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:QND55167.1};
+Bit Score: 81.0
+E-value: 0.01396
+Alignment Length: 137
+Percentage Identity: 0.145
+
+=== A0A838W218 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:MBA4156456.1};
+Bit Score: 91.0
+E-value: 0.01485
+Alignment Length: 146
+Percentage Identity: 0.075
+
+=== A0A437MME3 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:RVT98824.1};
+Bit Score: 85.0
+E-value: 0.0158
+Alignment Length: 150
+Percentage Identity: 0.1
+
+=== A0A2E7LBK6 ===
+DE   RecName: Full=IraD/Gp25-like domain-containing protein {ECO:0000259|Pfam:PF04965};
+Bit Score: 79.0
+E-value: 0.0158
+Alignment Length: 150
+Percentage Identity: 0.106
+
+=== A0A2E9GL54 ===
+DE   SubName: Full=Limonene-1,2-epoxide hydrolase {ECO:0000313|EMBL:MBT36925.1};
+Bit Score: 57.0
+E-value: 0.0158
+Alignment Length: 126
+Percentage Identity: 0.134
+
+=== A0A1V4HSR2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OPH61828.1};
+Bit Score: 83.0
+E-value: 0.01681
+Alignment Length: 107
+Percentage Identity: 0.112
+
+=== A0A2U2N2J0 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:PWG63293.1};
+Bit Score: 91.0
+E-value: 0.01789
+Alignment Length: 139
+Percentage Identity: 0.122
+
+=== Q6EE17 ===
+DE   SubName: Full=EvpE {ECO:0000313|EMBL:AAS58123.1};
+Bit Score: 88.0
+E-value: 0.01789
+Alignment Length: 143
+Percentage Identity: 0.132
+
+=== A0A2S7J109 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:PQA73890.1};
+Bit Score: 82.0
+E-value: 0.01789
+Alignment Length: 163
+Percentage Identity: 0.128
+
+=== A0A541BWZ3 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:TQF76832.1};
+Bit Score: 81.0
+E-value: 0.02025
+Alignment Length: 85
+Percentage Identity: 0.129
+
+=== A0A0K9GQI9 ===
+DE   RecName: Full=DUF3889 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 81.0
+E-value: 0.02025
+Alignment Length: 121
+Percentage Identity: 0.115
+
+=== F0SFE3 ===
+DE   SubName: Full=Type VI secretion system lysozyme-related protein {ECO:0000313|EMBL:ADY59350.1};
+Bit Score: 81.0
+E-value: 0.02025
+Alignment Length: 159
+Percentage Identity: 0.094
+
+=== A0A011MPL0 ===
+DE   SubName: Full=Type VI secretion system lysozyme-like protein {ECO:0000313|EMBL:EXI64476.1};
+Bit Score: 80.0
+E-value: 0.02025
+Alignment Length: 145
+Percentage Identity: 0.124
+
+=== A0A1Q9PGZ9 ===
+DE   RecName: Full=DUF3889 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 77.0
+E-value: 0.02025
+Alignment Length: 121
+Percentage Identity: 0.115
+
+=== A0A097EMK1 ===
+DE   RecName: Full=IraD/Gp25-like domain-containing protein {ECO:0000259|Pfam:PF04965};
+Bit Score: 101.0
+E-value: 0.02155
+Alignment Length: 115
+Percentage Identity: 0.147
+
+=== A0A645FH18 ===
+DE   RecName: Full=IraD/Gp25-like domain-containing protein {ECO:0000259|Pfam:PF04965};
+Bit Score: 95.0
+E-value: 0.02155
+Alignment Length: 80
+Percentage Identity: 0.175
+
+=== A0A537QYA5 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:TMJ61789.1};
+Bit Score: 90.0
+E-value: 0.02155
+Alignment Length: 126
+Percentage Identity: 0.119
+
+=== A0A5M8SQJ0 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:KAA6461938.1};
+Bit Score: 85.0
+E-value: 0.02155
+Alignment Length: 151
+Percentage Identity: 0.145
+
+=== A0A6G1X9T9 ===
+DE   SubName: Full=Peptidase M4 {ECO:0000313|EMBL:MRG87744.1};
+Bit Score: 85.0
+E-value: 0.02155
+Alignment Length: 88
+Percentage Identity: 0.125
+
+=== A0A7U4P8E9 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:QPS46314.1};
+Bit Score: 78.0
+E-value: 0.02155
+Alignment Length: 153
+Percentage Identity: 0.13
+
+=== H3H719 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EnsemblProtists:Phyra86509};
+Bit Score: 55.0
+E-value: 0.02155
+Alignment Length: 123
+Percentage Identity: 0.105
+
+=== A0A7K1GMX5 ===
+DE   RecName: Full=DUF3887 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 61.0
+E-value: 0.02293
+Alignment Length: 119
+Percentage Identity: 0.092
+
+=== W0RPR5 ===
+DE   SubName: Full=Type VI secretion system lysozyme-related protein {ECO:0000313|EMBL:AHG92999.1};
+Bit Score: 87.0
+E-value: 0.02597
+Alignment Length: 127
+Percentage Identity: 0.133
+
+=== A0A1U9KCK3 ===
+DE   RecName: Full=IraD/Gp25-like domain-containing protein {ECO:0000259|Pfam:PF04965};
+Bit Score: 93.0
+E-value: 0.02763
+Alignment Length: 128
+Percentage Identity: 0.117
+
+=== A0A521Y5K6 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:TAK76131.1};
+Bit Score: 84.0
+E-value: 0.02763
+Alignment Length: 145
+Percentage Identity: 0.096
+
+=== A0A2N9MS59 ===
+DE   RecName: Full=IraD/Gp25-like domain-containing protein {ECO:0000259|Pfam:PF04965};
+Bit Score: 83.0
+E-value: 0.02763
+Alignment Length: 144
+Percentage Identity: 0.131
+
+=== A0A7U5XW92 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:AXA90521.1};
+Bit Score: 83.0
+E-value: 0.02763
+Alignment Length: 154
+Percentage Identity: 0.116
+
+=== A0A7S3YW54 ===
+DE   RecName: Full=Coenzyme Q-binding protein COQ10 START domain-containing protein {ECO:0000259|Pfam:PF03364};
+Bit Score: 53.0
+E-value: 0.02763
+Alignment Length: 140
+Percentage Identity: 0.164
+
+=== S6HU49 ===
+DE   RecName: Full=IraD/Gp25-like domain-containing protein {ECO:0000259|Pfam:PF04965};
+Bit Score: 92.0
+E-value: 0.0294
+Alignment Length: 117
+Percentage Identity: 0.111
+
+=== A0A7W0M6M2 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:MBA3312912.1};
+Bit Score: 86.0
+E-value: 0.0294
+Alignment Length: 127
+Percentage Identity: 0.181
+
+=== A0A7V1HEG2 ===
+DE   RecName: Full=Type 4 fimbrial biogenesis protein PilX N-terminal domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 64.0
+E-value: 0.0294
+Alignment Length: 131
+Percentage Identity: 0.122
+
+=== A0A5M6I8M6 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:KAA5604541.1};
+Bit Score: 86.0
+E-value: 0.03128
+Alignment Length: 88
+Percentage Identity: 0.147
+
+=== A0A2D6NXC9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAG45333.1};
+Bit Score: 70.0
+E-value: 0.03128
+Alignment Length: 99
+Percentage Identity: 0.202
+
+=== A0A3D1B0Z8 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:HCC59554.1};
+Bit Score: 82.0
+E-value: 0.03329
+Alignment Length: 76
+Percentage Identity: 0.184
+
+=== F2I8J5 ===
+DE   RecName: Full=Peptidase {ECO:0008006|Google:ProtNLM};
+Bit Score: 63.0
+E-value: 0.03329
+Alignment Length: 127
+Percentage Identity: 0.133
+
+=== A0A6B9YDY0 ===
+DE   SubName: Full=Peptidase M4 {ECO:0000313|EMBL:QHS23064.1};
+Bit Score: 87.0
+E-value: 0.03542
+Alignment Length: 77
+Percentage Identity: 0.116
+
+=== A0A2E7NSS0 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:HAA50918.1};
+Bit Score: 76.0
+E-value: 0.03542
+Alignment Length: 163
+Percentage Identity: 0.141
+
+=== A0A524BJ32 ===
+DE   RecName: Full=FTP domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 61.0
+E-value: 0.03542
+Alignment Length: 148
+Percentage Identity: 0.101
+
+=== A0A558LFM4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAA9321833.1};
+Bit Score: 58.0
+E-value: 0.03542
+Alignment Length: 137
+Percentage Identity: 0.124
+
+=== A0A1Z7LTG0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OUQ42132.1};
+Bit Score: 57.0
+E-value: 0.03542
+Alignment Length: 122
+Percentage Identity: 0.131
+
+=== H3GMS0 ===
+DE   RecName: Full=Monopolin complex subunit Csm1/Pcs1 C-terminal domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 54.0
+E-value: 0.03542
+Alignment Length: 122
+Percentage Identity: 0.139
+
+=== A0A6B8RNH8 ===
+DE   SubName: Full=DUF3889 domain-containing protein {ECO:0000313|EMBL:QGQ97880.1};
+Bit Score: 81.0
+E-value: 0.03769
+Alignment Length: 91
+Percentage Identity: 0.087
+
+=== A0A2G2F5S9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PHR44622.1};
+Bit Score: 56.0
+E-value: 0.03769
+Alignment Length: 145
+Percentage Identity: 0.131
+
+=== A0A2V8TYA6 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:PYT16349.1};
+Bit Score: 80.0
+E-value: 0.0401
+Alignment Length: 81
+Percentage Identity: 0.148
+
+=== A0A2N0QKH6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PKC51554.1};
+DE   Flags: Fragment;
+Bit Score: 58.0
+E-value: 0.0401
+Alignment Length: 132
+Percentage Identity: 0.106
+
+=== A0A2D7HKJ7 ===
+DE   SubName: Full=Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:MAI73963.1};
+Bit Score: 86.0
+E-value: 0.04267
+Alignment Length: 148
+Percentage Identity: 0.108
+
+=== A0A175RDI6 ===
+DE   RecName: Full=IraD/Gp25-like domain-containing protein {ECO:0000259|Pfam:PF04965};
+Bit Score: 78.0
+E-value: 0.04267
+Alignment Length: 135
+Percentage Identity: 0.111
+
+=== A0A7W4XYN8 ===
+DE   RecName: Full=TadE-like domain-containing protein {ECO:0000259|Pfam:PF07811};
+Bit Score: 72.0
+E-value: 0.04267
+Alignment Length: 114
+Percentage Identity: 0.114
+
+=== O07531 ===
+DE   RecName: Full=Uncharacterized protein YhdC;
+DE   Flags: Precursor;
+Bit Score: 70.0
+E-value: 0.0454
+Alignment Length: 125
+Percentage Identity: 0.112
+
+=== A0A560BBK0 ===
+DE   SubName: Full=Type VI secretion system protein ImpF {ECO:0000313|EMBL:TWA70027.1};
+Bit Score: 76.0
+E-value: 0.04831
+Alignment Length: 133
+Percentage Identity: 0.105
+
+=== A0A1H3H3H1 ===
+DE   RecName: Full=PepSY domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 72.0
+E-value: 0.04831
+Alignment Length: 91
+Percentage Identity: 0.142
+
+=== A0A2X3V5K0 ===
+DE   SubName: Full=Lipoprotein {ECO:0000313|EMBL:SQF36560.1};
+Bit Score: 65.0
+E-value: 0.04831
+Alignment Length: 107
+Percentage Identity: 0.149
+
+=== A0A2V6JRH1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PYL55662.1};
+Bit Score: 52.0
+E-value: 0.04831
+Alignment Length: 155
+Percentage Identity: 0.161
+

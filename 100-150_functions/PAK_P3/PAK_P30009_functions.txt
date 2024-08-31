@@ -1,0 +1,2979 @@
+=== A0A2E7I0Z1 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 590.0
+E-value: 4.77e-13
+Alignment Length: 123
+Percentage Identity: 0.455
+
+=== A0A4Q5TNH2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RYY51274.1};
+Bit Score: 451.0
+E-value: 6.362e-10
+Alignment Length: 117
+Percentage Identity: 0.367
+
+=== A0A0F9JEX8 ===
+DE   RecName: Full=Head-to-tail stopper {ECO:0008006|Google:ProtNLM};
+Bit Score: 370.0
+E-value: 1.567e-08
+Alignment Length: 123
+Percentage Identity: 0.252
+
+=== A0A2E2D699 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 353.0
+E-value: 2.793e-08
+Alignment Length: 127
+Percentage Identity: 0.283
+
+=== A0A562GIS5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TWH46336.1};
+Bit Score: 348.0
+E-value: 3.827e-08
+Alignment Length: 121
+Percentage Identity: 0.247
+
+=== A0A6M3M0V9 ===
+DE   RecName: Full=Head-tail joining protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 349.0
+E-value: 1.038e-07
+Alignment Length: 114
+Percentage Identity: 0.245
+
+=== H5S8Z9 ===
+DE   SubName: Full=Hypothetical conserved protein {ECO:0000313|EMBL:BAL52635.1};
+Bit Score: 315.0
+E-value: 1.281e-07
+Alignment Length: 122
+Percentage Identity: 0.245
+
+=== A0A3D4Z5W1 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 351.0
+E-value: 1.58e-07
+Alignment Length: 112
+Percentage Identity: 0.294
+
+=== A0A6I2R255 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MSB19050.1};
+Bit Score: 299.0
+E-value: 1.58e-07
+Alignment Length: 126
+Percentage Identity: 0.261
+
+=== A0A090D184 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CDR35353.1};
+Bit Score: 312.0
+E-value: 1.755e-07
+Alignment Length: 126
+Percentage Identity: 0.214
+
+=== A0A1I2AKZ0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SFE43540.1};
+Bit Score: 271.0
+E-value: 1.85e-07
+Alignment Length: 118
+Percentage Identity: 0.254
+
+=== A0A0F8Y0T2 ===
+DE   RecName: Full=Head-to-tail stopper {ECO:0008006|Google:ProtNLM};
+Bit Score: 316.0
+E-value: 2.536e-07
+Alignment Length: 119
+Percentage Identity: 0.21
+
+=== A0A352NNL0 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 306.0
+E-value: 2.968e-07
+Alignment Length: 115
+Percentage Identity: 0.182
+
+=== A0A1H8EKA0 ===
+DE   RecName: Full=Phage head-tail adaptor, putative, SPP1 family {ECO:0008006|Google:ProtNLM};
+Bit Score: 340.0
+E-value: 3.297e-07
+Alignment Length: 114
+Percentage Identity: 0.21
+
+=== A0A0F9NH00 ===
+DE   RecName: Full=Head-to-tail stopper {ECO:0008006|Google:ProtNLM};
+Bit Score: 316.0
+E-value: 3.297e-07
+Alignment Length: 122
+Percentage Identity: 0.213
+
+=== A0A1C6GDQ0 ===
+DE   RecName: Full=Head-to-tail stopper {ECO:0008006|Google:ProtNLM};
+Bit Score: 314.0
+E-value: 3.475e-07
+Alignment Length: 118
+Percentage Identity: 0.262
+
+=== A0A5D8QH19 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TZE83539.1};
+Bit Score: 314.0
+E-value: 3.475e-07
+Alignment Length: 114
+Percentage Identity: 0.236
+
+=== A0A540VS64 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 339.0
+E-value: 3.86e-07
+Alignment Length: 119
+Percentage Identity: 0.268
+
+=== A0A5C7QEI5 ===
+DE   RecName: Full=ASCH domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 323.0
+E-value: 5.575e-07
+Alignment Length: 125
+Percentage Identity: 0.24
+
+=== A0A1G0R5T5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OGU55481.1};
+Bit Score: 293.0
+E-value: 6.526e-07
+Alignment Length: 112
+Percentage Identity: 0.205
+
+=== A0A3B0BRJ6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RKN75004.1};
+Bit Score: 269.0
+E-value: 6.526e-07
+Alignment Length: 116
+Percentage Identity: 0.25
+
+=== A0A1M6CLM4 ===
+DE   RecName: Full=Phage major tail protein, TP901-1 family {ECO:0008006|Google:ProtNLM};
+Bit Score: 287.0
+E-value: 6.878e-07
+Alignment Length: 119
+Percentage Identity: 0.21
+
+=== A0A7J0BWC7 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 293.0
+E-value: 1.104e-06
+Alignment Length: 113
+Percentage Identity: 0.203
+
+=== G1V868 ===
+DE   RecName: Full=Phage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 296.0
+E-value: 1.362e-06
+Alignment Length: 124
+Percentage Identity: 0.217
+
+=== A0A6H1ZNW1 ===
+DE   RecName: Full=Head-tail joining protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 291.0
+E-value: 1.512e-06
+Alignment Length: 118
+Percentage Identity: 0.245
+
+=== A0A0F8YJG8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKK81532.1};
+DE   Flags: Fragment;
+Bit Score: 282.0
+E-value: 1.512e-06
+Alignment Length: 125
+Percentage Identity: 0.232
+
+=== A0A2W5N8F4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PZQ49752.1};
+Bit Score: 282.0
+E-value: 1.594e-06
+Alignment Length: 115
+Percentage Identity: 0.2
+
+=== A0A0Q9HSV0 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 284.0
+E-value: 1.68e-06
+Alignment Length: 117
+Percentage Identity: 0.264
+
+=== A0A1I1D0Q9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SFB68569.1};
+Bit Score: 272.0
+E-value: 1.866e-06
+Alignment Length: 123
+Percentage Identity: 0.235
+
+=== A0A484XQ49 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VFS25914.1};
+Bit Score: 262.0
+E-value: 2.426e-06
+Alignment Length: 116
+Percentage Identity: 0.172
+
+=== A0A496UJ80 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RKZ08932.1};
+Bit Score: 263.0
+E-value: 2.695e-06
+Alignment Length: 117
+Percentage Identity: 0.162
+
+=== A0A350TI74 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HAX29992.1};
+Bit Score: 263.0
+E-value: 2.84e-06
+Alignment Length: 116
+Percentage Identity: 0.275
+
+=== A0A413FXM7 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 266.0
+E-value: 3.155e-06
+Alignment Length: 115
+Percentage Identity: 0.243
+
+=== A0A1S8T8B9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OOM73996.1};
+Bit Score: 284.0
+E-value: 3.325e-06
+Alignment Length: 115
+Percentage Identity: 0.165
+
+=== A0A7W1N1T0 ===
+DE   RecName: Full=Head-to-tail stopper {ECO:0008006|Google:ProtNLM};
+Bit Score: 296.0
+E-value: 3.693e-06
+Alignment Length: 111
+Percentage Identity: 0.198
+
+=== A0A7Y5CY17 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NOT72456.1};
+Bit Score: 291.0
+E-value: 3.893e-06
+Alignment Length: 117
+Percentage Identity: 0.239
+
+=== A0A1H8A4L5 ===
+DE   RecName: Full=Phage Head-Tail Attachment {ECO:0008006|Google:ProtNLM};
+Bit Score: 274.0
+E-value: 4.103e-06
+Alignment Length: 115
+Percentage Identity: 0.226
+
+=== A0A7X5D874 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 273.0
+E-value: 4.324e-06
+Alignment Length: 114
+Percentage Identity: 0.192
+
+=== A0A6M3M2R2 ===
+DE   RecName: Full=Head tail connector protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 261.0
+E-value: 5.062e-06
+Alignment Length: 116
+Percentage Identity: 0.206
+
+=== A0A2K4ZGY7 ===
+DE   RecName: Full=Phage head-tail joining protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 258.0
+E-value: 7.311e-06
+Alignment Length: 116
+Percentage Identity: 0.172
+
+=== R6APF7 ===
+DE   RecName: Full=Head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 244.0
+E-value: 8.559e-06
+Alignment Length: 123
+Percentage Identity: 0.219
+
+=== A0A6S7CSJ9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAB3863343.1};
+Bit Score: 235.0
+E-value: 1.002e-05
+Alignment Length: 122
+Percentage Identity: 0.254
+
+=== A0A562X6Z3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TWO17964.1};
+Bit Score: 231.0
+E-value: 1.236e-05
+Alignment Length: 126
+Percentage Identity: 0.19
+
+=== A0A5K7YXA1 ===
+DE   RecName: Full=Head-to-tail stopper {ECO:0008006|Google:ProtNLM};
+Bit Score: 268.0
+E-value: 1.525e-05
+Alignment Length: 117
+Percentage Identity: 0.273
+
+=== A0A3A9ATB1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RKI90436.1};
+Bit Score: 262.0
+E-value: 1.525e-05
+Alignment Length: 110
+Percentage Identity: 0.2
+
+=== H0A2U9 ===
+DE   RecName: Full=Phage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 225.0
+E-value: 1.882e-05
+Alignment Length: 121
+Percentage Identity: 0.223
+
+=== A0A2A7B5M1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PDX86572.1};
+Bit Score: 235.0
+E-value: 2.09e-05
+Alignment Length: 113
+Percentage Identity: 0.176
+
+=== A0A373C9Y7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RGE03660.1};
+Bit Score: 236.0
+E-value: 2.322e-05
+Alignment Length: 117
+Percentage Identity: 0.179
+
+=== E5Y1W9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EFV45996.1};
+Bit Score: 198.0
+E-value: 4.596e-05
+Alignment Length: 117
+Percentage Identity: 0.17
+
+=== A0A5B2VFD8 ===
+DE   RecName: Full=Bacteriophage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 178.0
+E-value: 5.105e-05
+Alignment Length: 131
+Percentage Identity: 0.236
+
+=== A0A258QZT4 ===
+DE   RecName: Full=Head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 212.0
+E-value: 5.976e-05
+Alignment Length: 118
+Percentage Identity: 0.186
+
+=== A0A5D3JVA9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TYL80081.1};
+Bit Score: 213.0
+E-value: 6.298e-05
+Alignment Length: 115
+Percentage Identity: 0.182
+
+=== A0A3M1RAR4 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 220.0
+E-value: 7.373e-05
+Alignment Length: 109
+Percentage Identity: 0.247
+
+=== A0A140NT45 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AHH93296.1};
+Bit Score: 208.0
+E-value: 8.632e-05
+Alignment Length: 124
+Percentage Identity: 0.193
+
+=== A0A4Y7XEJ6 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 192.0
+E-value: 9.588e-05
+Alignment Length: 125
+Percentage Identity: 0.224
+
+=== A0A5M8SIV7 ===
+DE   SubName: Full=Phage head-tail adapter protein {ECO:0000313|EMBL:KAA6459630.1};
+Bit Score: 203.0
+E-value: 0.0001065
+Alignment Length: 122
+Percentage Identity: 0.213
+
+=== A0A419NBT7 ===
+DE   SubName: Full=Head-tail adaptor {ECO:0000313|EMBL:RJT45664.1};
+Bit Score: 197.0
+E-value: 0.0001247
+Alignment Length: 115
+Percentage Identity: 0.182
+
+=== A0A378XVY9 ===
+DE   RecName: Full=Phage head-tail adapter protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 170.0
+E-value: 0.0001621
+Alignment Length: 117
+Percentage Identity: 0.213
+
+=== R6NC09 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CDC08705.1};
+Bit Score: 188.0
+E-value: 0.0002
+Alignment Length: 126
+Percentage Identity: 0.166
+
+=== A0A4R4EDU6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TCZ76175.1};
+Bit Score: 200.0
+E-value: 0.0002108
+Alignment Length: 114
+Percentage Identity: 0.192
+
+=== A0A386PNY4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AYE36825.1};
+Bit Score: 193.0
+E-value: 0.0002108
+Alignment Length: 116
+Percentage Identity: 0.103
+
+=== A0A662HLL8 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 178.0
+E-value: 0.0002222
+Alignment Length: 121
+Percentage Identity: 0.148
+
+=== A0A0N0MB19 ===
+DE   RecName: Full=Bacteriophage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 187.0
+E-value: 0.0002468
+Alignment Length: 125
+Percentage Identity: 0.192
+
+=== A0A2N0WBP2 ===
+DE   RecName: Full=Bacteriophage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 181.0
+E-value: 0.0002741
+Alignment Length: 130
+Percentage Identity: 0.176
+
+=== W4BP14 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ETT45224.1};
+Bit Score: 176.0
+E-value: 0.0003045
+Alignment Length: 113
+Percentage Identity: 0.176
+
+=== A7ILH2 ===
+DE   SubName: Full=Phage head-tail adaptor, putative {ECO:0000313|EMBL:ABS68865.1};
+Bit Score: 171.0
+E-value: 0.0003382
+Alignment Length: 122
+Percentage Identity: 0.213
+
+=== A0A7C9G8G3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MPW31954.1};
+Bit Score: 162.0
+E-value: 0.0003382
+Alignment Length: 126
+Percentage Identity: 0.158
+
+=== A0A654D033 ===
+DE   SubName: Full=Putative SPP1 family predicted phage head-tail adaptor {ECO:0000313|EMBL:VXC99195.1};
+Bit Score: 173.0
+E-value: 0.0003564
+Alignment Length: 126
+Percentage Identity: 0.119
+
+=== A0A7W5Z349 ===
+DE   RecName: Full=Bacteriophage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 184.0
+E-value: 0.0003757
+Alignment Length: 128
+Percentage Identity: 0.195
+
+=== A0A7Y5DV50 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 175.0
+E-value: 0.0003959
+Alignment Length: 130
+Percentage Identity: 0.13
+
+=== W7DZ17 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 173.0
+E-value: 0.0003959
+Alignment Length: 118
+Percentage Identity: 0.152
+
+=== A0A4R0TXM8 ===
+DE   RecName: Full=Head-to-tail stopper {ECO:0008006|Google:ProtNLM};
+Bit Score: 154.0
+E-value: 0.0003959
+Alignment Length: 132
+Percentage Identity: 0.166
+
+=== A0A1V5HVW1 ===
+DE   RecName: Full=Phage head-tail joining protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 206.0
+E-value: 0.0004173
+Alignment Length: 113
+Percentage Identity: 0.168
+
+=== A0A1I3RD51 ===
+DE   RecName: Full=Phage head-tail joining protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 183.0
+E-value: 0.0004398
+Alignment Length: 114
+Percentage Identity: 0.131
+
+=== A0A349XSB9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HAU75934.1};
+Bit Score: 174.0
+E-value: 0.0004398
+Alignment Length: 131
+Percentage Identity: 0.183
+
+=== A0A1W9V6E7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OQY32031.1};
+Bit Score: 176.0
+E-value: 0.0004635
+Alignment Length: 119
+Percentage Identity: 0.226
+
+=== A0A1L7CXF5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:APT90500.1};
+Bit Score: 176.0
+E-value: 0.0004635
+Alignment Length: 128
+Percentage Identity: 0.148
+
+=== A0A1V6GS00 ===
+DE   SubName: Full=Phage head-tail joining protein {ECO:0000313|EMBL:OQC28682.1};
+Bit Score: 182.0
+E-value: 0.0004885
+Alignment Length: 124
+Percentage Identity: 0.185
+
+=== A0A0F9N5D2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKM83910.1};
+Bit Score: 155.0
+E-value: 0.0004885
+Alignment Length: 127
+Percentage Identity: 0.173
+
+=== M2T7H8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EMD82479.1};
+Bit Score: 162.0
+E-value: 0.0005426
+Alignment Length: 125
+Percentage Identity: 0.104
+
+=== A0A843GXP2 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 208.0
+E-value: 0.0005719
+Alignment Length: 113
+Percentage Identity: 0.159
+
+=== A0A3A4X3N2 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 180.0
+E-value: 0.0005719
+Alignment Length: 110
+Percentage Identity: 0.19
+
+=== A0A357BYL3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HBR19187.1};
+Bit Score: 167.0
+E-value: 0.0005719
+Alignment Length: 129
+Percentage Identity: 0.116
+
+=== A0A1M5D250 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SHF60892.1};
+Bit Score: 192.0
+E-value: 0.0006027
+Alignment Length: 112
+Percentage Identity: 0.187
+
+=== A0A4U2ZG11 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 166.0
+E-value: 0.0006352
+Alignment Length: 116
+Percentage Identity: 0.172
+
+=== A0A1G4Q2L0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SCW38687.1};
+Bit Score: 170.0
+E-value: 0.0006695
+Alignment Length: 115
+Percentage Identity: 0.078
+
+=== A0A6P1XZU8 ===
+DE   SubName: Full=Phage head-tail adapter protein {ECO:0000313|EMBL:QHX42895.1};
+Bit Score: 173.0
+E-value: 0.0007056
+Alignment Length: 120
+Percentage Identity: 0.158
+
+=== A0A843H0P0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBO7712487.1};
+Bit Score: 190.0
+E-value: 0.0007436
+Alignment Length: 113
+Percentage Identity: 0.132
+
+=== A0A1G9RDV9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SDM20635.1};
+Bit Score: 146.0
+E-value: 0.0007436
+Alignment Length: 129
+Percentage Identity: 0.139
+
+=== A0A193QH35 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CRL44499.1};
+Bit Score: 161.0
+E-value: 0.0007837
+Alignment Length: 123
+Percentage Identity: 0.162
+
+=== A0A5U9VMY7 ===
+DE   SubName: Full=Head-tail adaptor {ECO:0000313|EMBL:EBS4547401.1};
+Bit Score: 151.0
+E-value: 0.0007837
+Alignment Length: 126
+Percentage Identity: 0.158
+
+=== A0A0F8W9T9 ===
+DE   RecName: Full=Phage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 170.0
+E-value: 0.000826
+Alignment Length: 127
+Percentage Identity: 0.173
+
+=== A0A7D7WL85 ===
+DE   SubName: Full=DUF1506 domain-containing protein {ECO:0000313|EMBL:QMU99833.1};
+Bit Score: 152.0
+E-value: 0.000826
+Alignment Length: 117
+Percentage Identity: 0.136
+
+=== A0A2T4JPH8 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:PTE19822.1};
+Bit Score: 171.0
+E-value: 0.0008705
+Alignment Length: 121
+Percentage Identity: 0.132
+
+=== A0A843GGI8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBO7692675.1};
+Bit Score: 159.0
+E-value: 0.0008705
+Alignment Length: 126
+Percentage Identity: 0.182
+
+=== A6TKD4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ABR46652.1};
+Bit Score: 159.0
+E-value: 0.0008705
+Alignment Length: 122
+Percentage Identity: 0.163
+
+=== K1MEH5 ===
+DE   RecName: Full=Phage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 159.0
+E-value: 0.0008705
+Alignment Length: 115
+Percentage Identity: 0.139
+
+=== A0A4Z0P2T1 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:TGE05561.1};
+Bit Score: 158.0
+E-value: 0.0008705
+Alignment Length: 121
+Percentage Identity: 0.14
+
+=== A0A5C7J767 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TXG76782.1};
+Bit Score: 157.0
+E-value: 0.0008705
+Alignment Length: 129
+Percentage Identity: 0.131
+
+=== A0A318DVD4 ===
+DE   RecName: Full=Head-to-tail stopper {ECO:0008006|Google:ProtNLM};
+Bit Score: 160.0
+E-value: 0.0009175
+Alignment Length: 133
+Percentage Identity: 0.218
+
+=== A0A7Y0A1V0 ===
+DE   RecName: Full=Bacteriophage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 154.0
+E-value: 0.0009175
+Alignment Length: 131
+Percentage Identity: 0.175
+
+=== A0A2T6LTW3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PUB38482.1};
+Bit Score: 159.0
+E-value: 0.000967
+Alignment Length: 143
+Percentage Identity: 0.167
+
+=== A0A1V0HT71 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 154.0
+E-value: 0.000967
+Alignment Length: 128
+Percentage Identity: 0.156
+
+=== Q2NRY8 ===
+DE   SubName: Full=Hypothetical phage protein {ECO:0000313|EMBL:BAE75087.1};
+Bit Score: 152.0
+E-value: 0.001019
+Alignment Length: 120
+Percentage Identity: 0.183
+
+=== A0A1T4SNG7 ===
+DE   SubName: Full=Phage head-tail adaptor, putative, SPP1 family {ECO:0000313|EMBL:SKA29790.1};
+Bit Score: 167.0
+E-value: 0.001193
+Alignment Length: 121
+Percentage Identity: 0.14
+
+=== A0A2W4IKS8 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 166.0
+E-value: 0.001257
+Alignment Length: 111
+Percentage Identity: 0.135
+
+=== A0A1I4ZEL2 ===
+DE   RecName: Full=Head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 145.0
+E-value: 0.001257
+Alignment Length: 120
+Percentage Identity: 0.175
+
+=== W0HKV7 ===
+DE   SubName: Full=Phage protein {ECO:0000313|EMBL:AHF72835.1};
+Bit Score: 157.0
+E-value: 0.001325
+Alignment Length: 119
+Percentage Identity: 0.168
+
+=== A0A6S6QM84 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 148.0
+E-value: 0.001325
+Alignment Length: 119
+Percentage Identity: 0.168
+
+=== A0A3D4NDK0 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.001325
+Alignment Length: 125
+Percentage Identity: 0.16
+
+=== A0A239AKJ0 ===
+DE   SubName: Full=Phage head-tail adaptor, putative, SPP1 family {ECO:0000313|EMBL:SNR95508.1};
+Bit Score: 163.0
+E-value: 0.001397
+Alignment Length: 124
+Percentage Identity: 0.193
+
+=== A0A702B4U7 ===
+DE   SubName: Full=Head-tail adaptor {ECO:0000313|EMBL:HAC6675831.1};
+Bit Score: 151.0
+E-value: 0.001472
+Alignment Length: 126
+Percentage Identity: 0.158
+
+=== A0A5I1MH79 ===
+DE   SubName: Full=Head-tail adaptor {ECO:0000313|EMBL:ECT9336017.1};
+Bit Score: 150.0
+E-value: 0.001472
+Alignment Length: 121
+Percentage Identity: 0.157
+
+=== A0A1C5YVN6 ===
+DE   RecName: Full=Phage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 129.0
+E-value: 0.001472
+Alignment Length: 109
+Percentage Identity: 0.11
+
+=== A0A0U1QZP2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ABS48283.1};
+Bit Score: 147.0
+E-value: 0.001551
+Alignment Length: 130
+Percentage Identity: 0.169
+
+=== A0A4S8Q628 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 176.0
+E-value: 0.001635
+Alignment Length: 124
+Percentage Identity: 0.112
+
+=== A0A5A9GI47 ===
+DE   SubName: Full=Phage head closure protein {ECO:0000313|EMBL:KAA0592949.1};
+Bit Score: 156.0
+E-value: 0.001635
+Alignment Length: 124
+Percentage Identity: 0.104
+
+=== A0A388TBK2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GBR73937.1};
+Bit Score: 155.0
+E-value: 0.001723
+Alignment Length: 113
+Percentage Identity: 0.176
+
+=== A0A7D7N7F7 ===
+DE   SubName: Full=Phage head closure protein {ECO:0000313|EMBL:QMT41603.1};
+Bit Score: 155.0
+E-value: 0.001723
+Alignment Length: 122
+Percentage Identity: 0.122
+
+=== A0A252ANK6 ===
+DE   RecName: Full=Head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 153.0
+E-value: 0.001723
+Alignment Length: 127
+Percentage Identity: 0.165
+
+=== A0A242E3U7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OTO29401.1};
+Bit Score: 133.0
+E-value: 0.001816
+Alignment Length: 115
+Percentage Identity: 0.139
+
+=== A0A349YQ73 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 163.0
+E-value: 0.001914
+Alignment Length: 128
+Percentage Identity: 0.117
+
+=== A0A2D0A7X8 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 148.0
+E-value: 0.001914
+Alignment Length: 124
+Percentage Identity: 0.129
+
+=== A0A2P6VX03 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PSG97494.1};
+Bit Score: 156.0
+E-value: 0.002017
+Alignment Length: 131
+Percentage Identity: 0.16
+
+=== A0A4Y9J696 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:TFU95325.1};
+Bit Score: 149.0
+E-value: 0.002017
+Alignment Length: 127
+Percentage Identity: 0.078
+
+=== F0SKQ8 ===
+DE   RecName: Full=Head-to-tail stopper {ECO:0008006|Google:ProtNLM};
+Bit Score: 146.0
+E-value: 0.002017
+Alignment Length: 129
+Percentage Identity: 0.193
+
+=== A0A842N538 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBC8223597.1};
+Bit Score: 149.0
+E-value: 0.002126
+Alignment Length: 110
+Percentage Identity: 0.136
+
+=== A0A1H3LZG9 ===
+DE   SubName: Full=Phage head-tail adaptor, putative, SPP1 family {ECO:0000313|EMBL:SDY69414.1};
+Bit Score: 157.0
+E-value: 0.002362
+Alignment Length: 111
+Percentage Identity: 0.126
+
+=== A0A7M2RFC0 ===
+DE   RecName: Full=Phage head-tail joining protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.002362
+Alignment Length: 113
+Percentage Identity: 0.141
+
+=== A0A3N0WFP3 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:ROI02939.1};
+Bit Score: 154.0
+E-value: 0.002623
+Alignment Length: 121
+Percentage Identity: 0.107
+
+=== E6LJE2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EFU78076.1};
+Bit Score: 156.0
+E-value: 0.002765
+Alignment Length: 116
+Percentage Identity: 0.094
+
+=== A0A316NL63 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:PWL75013.1};
+Bit Score: 123.0
+E-value: 0.002765
+Alignment Length: 123
+Percentage Identity: 0.146
+
+=== A0A2I1K7N3 ===
+DE   RecName: Full=Phage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.002914
+Alignment Length: 124
+Percentage Identity: 0.104
+
+=== A0A3Q9FWI4 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 143.0
+E-value: 0.002914
+Alignment Length: 122
+Percentage Identity: 0.172
+
+=== A0A212L1S5 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.002914
+Alignment Length: 114
+Percentage Identity: 0.105
+
+=== A0A1U7PR42 ===
+DE   RecName: Full=Phage head-tail adaptor, putative, SPP1 family {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.002914
+Alignment Length: 114
+Percentage Identity: 0.149
+
+=== A0A061QJR4 ===
+DE   SubName: Full=Bacteriophage head-tail adaptor {ECO:0000313|EMBL:GAK34419.1};
+Bit Score: 149.0
+E-value: 0.003071
+Alignment Length: 124
+Percentage Identity: 0.112
+
+=== A0A1J5SAE7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OIQ97213.1};
+Bit Score: 142.0
+E-value: 0.003071
+Alignment Length: 117
+Percentage Identity: 0.153
+
+=== A0A368VC11 ===
+DE   SubName: Full=SPP1 family predicted phage head-tail adaptor {ECO:0000313|EMBL:RCW38666.1};
+Bit Score: 136.0
+E-value: 0.003071
+Alignment Length: 129
+Percentage Identity: 0.1
+
+=== A0A7C6J040 ===
+DE   SubName: Full=Phage head closure protein {ECO:0000313|EMBL:HHU79967.1};
+Bit Score: 124.0
+E-value: 0.003071
+Alignment Length: 125
+Percentage Identity: 0.136
+
+=== A0A2G2GH14 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 138.0
+E-value: 0.003236
+Alignment Length: 112
+Percentage Identity: 0.116
+
+=== A0A7Y8VR76 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NWO23171.1};
+Bit Score: 132.0
+E-value: 0.003236
+Alignment Length: 111
+Percentage Identity: 0.117
+
+=== A0A6G7ZA21 ===
+DE   RecName: Full=Phage head closure protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 131.0
+E-value: 0.003236
+Alignment Length: 127
+Percentage Identity: 0.102
+
+=== A0A0U4BRI0 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 148.0
+E-value: 0.003411
+Alignment Length: 117
+Percentage Identity: 0.145
+
+=== S1NJZ9 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.003411
+Alignment Length: 116
+Percentage Identity: 0.172
+
+=== A0A544TAI4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TQR14465.1};
+Bit Score: 134.0
+E-value: 0.003411
+Alignment Length: 115
+Percentage Identity: 0.121
+
+=== A0A6M3KW89 ===
+DE   SubName: Full=Putative head tail connector protein {ECO:0000313|EMBL:QJA85625.1};
+Bit Score: 157.0
+E-value: 0.003595
+Alignment Length: 113
+Percentage Identity: 0.106
+
+=== A0A2L0VTZ1 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 150.0
+E-value: 0.003595
+Alignment Length: 109
+Percentage Identity: 0.11
+
+=== A0A2H6BHJ7 ===
+DE   SubName: Full=Phage head-tail adaptor {ECO:0000313|EMBL:GBD49642.1};
+Bit Score: 141.0
+E-value: 0.003595
+Alignment Length: 112
+Percentage Identity: 0.107
+
+=== A0A0R1VUC0 ===
+DE   SubName: Full=Phage head-tail adaptor {ECO:0000313|EMBL:KRM09360.1};
+Bit Score: 134.0
+E-value: 0.003595
+Alignment Length: 126
+Percentage Identity: 0.095
+
+=== A0A5B8IVM4 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:QDY68921.1};
+Bit Score: 133.0
+E-value: 0.003595
+Alignment Length: 124
+Percentage Identity: 0.145
+
+=== A0A013TZX4 ===
+DE   SubName: Full=Putative bacteriophage protein {ECO:0000313|EMBL:EXS35268.1};
+Bit Score: 124.0
+E-value: 0.003595
+Alignment Length: 134
+Percentage Identity: 0.179
+
+=== A0A0Q4UD92 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 160.0
+E-value: 0.003789
+Alignment Length: 121
+Percentage Identity: 0.123
+
+=== Q0AG20 ===
+DE   SubName: Full=Phage head-tail adaptor, putative {ECO:0000313|EMBL:ABI59712.1};
+Bit Score: 147.0
+E-value: 0.003789
+Alignment Length: 125
+Percentage Identity: 0.128
+
+=== A0A3B0IT35 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SPP31658.1};
+Bit Score: 113.0
+E-value: 0.003789
+Alignment Length: 132
+Percentage Identity: 0.106
+
+=== A0A0R1TGT5 ===
+DE   RecName: Full=Phage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 141.0
+E-value: 0.003993
+Alignment Length: 112
+Percentage Identity: 0.133
+
+=== A0A224X5F7 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 138.0
+E-value: 0.003993
+Alignment Length: 112
+Percentage Identity: 0.169
+
+=== A0A1V5QZM9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OQA35477.1};
+Bit Score: 134.0
+E-value: 0.003993
+Alignment Length: 118
+Percentage Identity: 0.11
+
+=== A0A497BJ08 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RLC88144.1};
+Bit Score: 116.0
+E-value: 0.003993
+Alignment Length: 114
+Percentage Identity: 0.131
+
+=== A0A840C1K7 ===
+DE   RecName: Full=Head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 150.0
+E-value: 0.004208
+Alignment Length: 130
+Percentage Identity: 0.207
+
+=== A0A661Z0N1 ===
+DE   RecName: Full=Phage head-tail adapter protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 150.0
+E-value: 0.004208
+Alignment Length: 117
+Percentage Identity: 0.111
+
+=== A0A7W2AI46 ===
+DE   SubName: Full=Phage head closure protein {ECO:0000313|EMBL:MBA4543852.1};
+Bit Score: 150.0
+E-value: 0.004208
+Alignment Length: 114
+Percentage Identity: 0.105
+
+=== E1KWI5 ===
+DE   RecName: Full=Phage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 148.0
+E-value: 0.004208
+Alignment Length: 112
+Percentage Identity: 0.107
+
+=== C4GAS2 ===
+DE   SubName: Full=Putative phage head-tail adaptor {ECO:0000313|EMBL:EEP28215.1};
+Bit Score: 138.0
+E-value: 0.004208
+Alignment Length: 116
+Percentage Identity: 0.146
+
+=== A0A1I0GGK5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SET69150.1};
+Bit Score: 129.0
+E-value: 0.004208
+Alignment Length: 118
+Percentage Identity: 0.084
+
+=== A0A562KMX6 ===
+DE   SubName: Full=SPP1 family predicted phage head-tail adaptor {ECO:0000313|EMBL:TWH96732.1};
+Bit Score: 127.0
+E-value: 0.004208
+Alignment Length: 131
+Percentage Identity: 0.152
+
+=== A0A2N2CXS5 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 154.0
+E-value: 0.004435
+Alignment Length: 122
+Percentage Identity: 0.139
+
+=== A0A2E2ITG3 ===
+DE   RecName: Full=Phage head-tail adapter protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 142.0
+E-value: 0.004435
+Alignment Length: 111
+Percentage Identity: 0.117
+
+=== A0A3S0AW36 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 141.0
+E-value: 0.004435
+Alignment Length: 111
+Percentage Identity: 0.171
+
+=== A0A1H9ESC4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SEQ28594.1};
+Bit Score: 129.0
+E-value: 0.004435
+Alignment Length: 114
+Percentage Identity: 0.078
+
+=== U7UE94 ===
+DE   SubName: Full=Putative phage head-tail adaptor {ECO:0000313|EMBL:ERT57752.1};
+Bit Score: 122.0
+E-value: 0.004435
+Alignment Length: 113
+Percentage Identity: 0.159
+
+=== A0A1E4ZI09 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OED34517.1};
+Bit Score: 144.0
+E-value: 0.004675
+Alignment Length: 112
+Percentage Identity: 0.142
+
+=== A0A619DAK2 ===
+DE   RecName: Full=Tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 141.0
+E-value: 0.004675
+Alignment Length: 116
+Percentage Identity: 0.146
+
+=== A0A2Z5YZ02 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:BBC73366.1};
+Bit Score: 127.0
+E-value: 0.004675
+Alignment Length: 118
+Percentage Identity: 0.127
+
+=== A0A6I1VS01 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MQT71099.1};
+Bit Score: 117.0
+E-value: 0.004675
+Alignment Length: 114
+Percentage Identity: 0.114
+
+=== A0A2V1N117 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 131.0
+E-value: 0.004927
+Alignment Length: 115
+Percentage Identity: 0.13
+
+=== A0A416MN82 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 127.0
+E-value: 0.004927
+Alignment Length: 118
+Percentage Identity: 0.161
+
+=== A0A843H5B8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBO7714401.1};
+Bit Score: 165.0
+E-value: 0.005192
+Alignment Length: 113
+Percentage Identity: 0.123
+
+=== A0A4R7UDU0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TDV23502.1};
+Bit Score: 109.0
+E-value: 0.005192
+Alignment Length: 112
+Percentage Identity: 0.107
+
+=== A0A7L5AST5 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 146.0
+E-value: 0.005472
+Alignment Length: 133
+Percentage Identity: 0.135
+
+=== A0A7X5KS60 ===
+DE   RecName: Full=Phage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 146.0
+E-value: 0.005472
+Alignment Length: 110
+Percentage Identity: 0.109
+
+=== A0A1Y0GXT1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ARU40206.1};
+Bit Score: 143.0
+E-value: 0.005472
+Alignment Length: 122
+Percentage Identity: 0.147
+
+=== A0A5S5BQ76 ===
+DE   SubName: Full=SPP1 family predicted phage head-tail adaptor {ECO:0000313|EMBL:TYP67693.1};
+Bit Score: 131.0
+E-value: 0.005472
+Alignment Length: 112
+Percentage Identity: 0.16
+
+=== A0A7Y5LYJ1 ===
+DE   SubName: Full=Phage head closure protein {ECO:0000313|EMBL:NUN51916.1};
+Bit Score: 151.0
+E-value: 0.005767
+Alignment Length: 122
+Percentage Identity: 0.106
+
+=== A0A484U387 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VFR81213.1};
+Bit Score: 146.0
+E-value: 0.005767
+Alignment Length: 106
+Percentage Identity: 0.216
+
+=== A0A6N6VFL0 ===
+DE   SubName: Full=Phage head closure protein {ECO:0000313|EMBL:KAB7647177.1};
+Bit Score: 139.0
+E-value: 0.005767
+Alignment Length: 123
+Percentage Identity: 0.097
+
+=== A0A1Y0YBH9 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.005767
+Alignment Length: 120
+Percentage Identity: 0.091
+
+=== A0A420DHI2 ===
+DE   RecName: Full=Minor capsid protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 127.0
+E-value: 0.006078
+Alignment Length: 110
+Percentage Identity: 0.145
+
+=== A0A846MCR2 ===
+DE   RecName: Full=Phage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.006078
+Alignment Length: 116
+Percentage Identity: 0.12
+
+=== A0A1Y4GGW2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OUO94802.1};
+Bit Score: 133.0
+E-value: 0.006406
+Alignment Length: 117
+Percentage Identity: 0.128
+
+=== A0A2N5FBU3 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.006406
+Alignment Length: 121
+Percentage Identity: 0.074
+
+=== A0A2E0X2Z4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAT70365.1};
+Bit Score: 140.0
+E-value: 0.006752
+Alignment Length: 123
+Percentage Identity: 0.105
+
+=== V4RIV0 ===
+DE   SubName: Full=Putative phage head-tail adaptor {ECO:0000313|EMBL:ESR25254.1};
+Bit Score: 124.0
+E-value: 0.006752
+Alignment Length: 110
+Percentage Identity: 0.1
+
+=== A0A1H4NXL6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SEB99913.1};
+Bit Score: 122.0
+E-value: 0.006752
+Alignment Length: 118
+Percentage Identity: 0.135
+
+=== A0A1S7MA35 ===
+DE   SubName: Full=Putative Phage head-tail adaptor {ECO:0000313|EMBL:CUW87493.1};
+Bit Score: 120.0
+E-value: 0.006752
+Alignment Length: 123
+Percentage Identity: 0.154
+
+=== A0A1B2DVB1 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 151.0
+E-value: 0.007116
+Alignment Length: 124
+Percentage Identity: 0.08
+
+=== A0A661PPD5 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 143.0
+E-value: 0.007116
+Alignment Length: 112
+Percentage Identity: 0.098
+
+=== A0A859FFM4 ===
+DE   SubName: Full=Phage head closure protein {ECO:0000313|EMBL:QKS71907.1};
+Bit Score: 137.0
+E-value: 0.007116
+Alignment Length: 113
+Percentage Identity: 0.097
+
+=== A0A2N9W454 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:PIO46522.1};
+Bit Score: 132.0
+E-value: 0.007116
+Alignment Length: 122
+Percentage Identity: 0.09
+
+=== Q97HW7 ===
+DE   SubName: Full=Uncharacterized phage related protein {ECO:0000313|EMBL:AAK79853.1};
+Bit Score: 131.0
+E-value: 0.007116
+Alignment Length: 121
+Percentage Identity: 0.066
+
+=== A0A380EIS8 ===
+DE   SubName: Full=Phage-like protein {ECO:0000313|EMBL:SUL34233.1};
+Bit Score: 126.0
+E-value: 0.007116
+Alignment Length: 112
+Percentage Identity: 0.116
+
+=== A0A1J5MYQ7 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:OIQ44705.1};
+Bit Score: 121.0
+E-value: 0.007116
+Alignment Length: 118
+Percentage Identity: 0.101
+
+=== A0A0T5PC49 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 120.0
+E-value: 0.007116
+Alignment Length: 113
+Percentage Identity: 0.115
+
+=== A0A086PEA3 ===
+DE   SubName: Full=Putative phage head-tail adaptor {ECO:0000313|EMBL:KFG91721.1};
+Bit Score: 117.0
+E-value: 0.007116
+Alignment Length: 133
+Percentage Identity: 0.127
+
+=== A0A560FKJ9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TWB22136.1};
+Bit Score: 117.0
+E-value: 0.007116
+Alignment Length: 109
+Percentage Identity: 0.119
+
+=== G2KMW0 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 110.0
+E-value: 0.007116
+Alignment Length: 119
+Percentage Identity: 0.159
+
+=== T0GYK5 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.0075
+Alignment Length: 116
+Percentage Identity: 0.103
+
+=== A0A371BET9 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:RDV06080.1};
+Bit Score: 140.0
+E-value: 0.007904
+Alignment Length: 117
+Percentage Identity: 0.119
+
+=== A0A2E0EK80 ===
+DE   SubName: Full=Head-tail adaptor {ECO:0000313|EMBL:MAR55852.1};
+Bit Score: 138.0
+E-value: 0.007904
+Alignment Length: 127
+Percentage Identity: 0.094
+
+=== A0A1C6KA73 ===
+DE   RecName: Full=Phage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.007904
+Alignment Length: 109
+Percentage Identity: 0.146
+
+=== H1CYX2 ===
+DE   RecName: Full=Phage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.007904
+Alignment Length: 115
+Percentage Identity: 0.104
+
+=== A0A349Y2V5 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 120.0
+E-value: 0.007904
+Alignment Length: 124
+Percentage Identity: 0.129
+
+=== A0A517JRA8 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 111.0
+E-value: 0.007904
+Alignment Length: 113
+Percentage Identity: 0.123
+
+=== A0A4Q9GFB1 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:TBN48762.1};
+Bit Score: 142.0
+E-value: 0.00833
+Alignment Length: 113
+Percentage Identity: 0.106
+
+=== A0A1F0GG36 ===
+DE   RecName: Full=Phage head-tail adapter protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 129.0
+E-value: 0.00833
+Alignment Length: 111
+Percentage Identity: 0.162
+
+=== A0A345VIJ9 ===
+DE   RecName: Full=Phage head-tail adapter protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 128.0
+E-value: 0.00833
+Alignment Length: 118
+Percentage Identity: 0.118
+
+=== K9ER61 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EKU93367.1};
+Bit Score: 117.0
+E-value: 0.00833
+Alignment Length: 127
+Percentage Identity: 0.133
+
+=== A0A3A3HVP4 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:RJG44914.1};
+Bit Score: 105.0
+E-value: 0.00833
+Alignment Length: 112
+Percentage Identity: 0.142
+
+=== X0YME0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAG57265.1};
+Bit Score: 123.0
+E-value: 0.00878
+Alignment Length: 113
+Percentage Identity: 0.115
+
+=== A0A1V5XGK5 ===
+DE   RecName: Full=Phage head-tail joining protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.00878
+Alignment Length: 115
+Percentage Identity: 0.104
+
+=== A0A844FGT6 ===
+DE   SubName: Full=Phage head closure protein {ECO:0000313|EMBL:MSS43161.1};
+Bit Score: 121.0
+E-value: 0.00878
+Alignment Length: 123
+Percentage Identity: 0.081
+
+=== A0A3B8U739 ===
+DE   RecName: Full=Phage head-tail adapter protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.009253
+Alignment Length: 119
+Percentage Identity: 0.117
+
+=== A0A855NHS7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PPT80534.1};
+Bit Score: 130.0
+E-value: 0.009253
+Alignment Length: 111
+Percentage Identity: 0.108
+
+=== A0A841M0Y3 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.009253
+Alignment Length: 129
+Percentage Identity: 0.093
+
+=== A0A1V4QT67 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OPX22539.1};
+Bit Score: 112.0
+E-value: 0.009253
+Alignment Length: 120
+Percentage Identity: 0.15
+
+=== A0A7X1DCM1 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:MBC2250893.1};
+Bit Score: 110.0
+E-value: 0.009253
+Alignment Length: 126
+Percentage Identity: 0.126
+
+=== A0A2T7BBQ2 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.009752
+Alignment Length: 124
+Percentage Identity: 0.129
+
+=== A0A416WA80 ===
+DE   SubName: Full=Phage head-tail joining protein {ECO:0000313|EMBL:RHR81090.1};
+Bit Score: 133.0
+E-value: 0.009752
+Alignment Length: 119
+Percentage Identity: 0.117
+
+=== A0A836PM00 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HHZ69083.1};
+Bit Score: 111.0
+E-value: 0.009752
+Alignment Length: 119
+Percentage Identity: 0.109
+
+=== A0A1H5WVD8 ===
+DE   RecName: Full=Phage head-tail joining protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 145.0
+E-value: 0.01028
+Alignment Length: 118
+Percentage Identity: 0.118
+
+=== A0A5C7PNP6 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:TXH48140.1};
+Bit Score: 137.0
+E-value: 0.01028
+Alignment Length: 122
+Percentage Identity: 0.122
+
+=== A0A0H3GM94 ===
+DE   RecName: Full=Head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 130.0
+E-value: 0.01028
+Alignment Length: 132
+Percentage Identity: 0.166
+
+=== A0A0F9DQ72 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKL19811.1};
+DE   Flags: Fragment;
+Bit Score: 120.0
+E-value: 0.01028
+Alignment Length: 126
+Percentage Identity: 0.158
+
+=== A0A494TJV1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AYJ87662.1};
+Bit Score: 120.0
+E-value: 0.01028
+Alignment Length: 110
+Percentage Identity: 0.1
+
+=== A0A1I2NN13 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SFG05242.1};
+Bit Score: 112.0
+E-value: 0.01028
+Alignment Length: 129
+Percentage Identity: 0.069
+
+=== A0A1N6X8U2 ===
+DE   SubName: Full=Head-tail adaptor {ECO:0000313|EMBL:SIQ98746.1};
+Bit Score: 125.0
+E-value: 0.01083
+Alignment Length: 112
+Percentage Identity: 0.089
+
+=== A0A429ZVD8 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.01083
+Alignment Length: 122
+Percentage Identity: 0.106
+
+=== A0A2B2C3Q4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PFP29406.1};
+Bit Score: 122.0
+E-value: 0.01083
+Alignment Length: 132
+Percentage Identity: 0.128
+
+=== A0A496MXK7 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.01083
+Alignment Length: 122
+Percentage Identity: 0.122
+
+=== A0A1C6JHJ4 ===
+DE   RecName: Full=Bacteriophage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 113.0
+E-value: 0.01083
+Alignment Length: 113
+Percentage Identity: 0.106
+
+=== A0A3B1APL5 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.01083
+Alignment Length: 113
+Percentage Identity: 0.123
+
+=== A0A1B9LNI0 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 99.0
+E-value: 0.01083
+Alignment Length: 113
+Percentage Identity: 0.141
+
+=== A0A7X0G6U9 ===
+DE   SubName: Full=Head-tail adaptor {ECO:0000313|EMBL:MBB6400513.1};
+Bit Score: 134.0
+E-value: 0.01142
+Alignment Length: 116
+Percentage Identity: 0.137
+
+=== A0A2H0QI87 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 125.0
+E-value: 0.01142
+Alignment Length: 120
+Percentage Identity: 0.083
+
+=== A0A653R4H0 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 115.0
+E-value: 0.01142
+Alignment Length: 111
+Percentage Identity: 0.126
+
+=== A0A401FPY7 ===
+DE   SubName: Full=Phage capsid and scaffold {ECO:0000313|EMBL:GAY74348.1};
+Bit Score: 111.0
+E-value: 0.01142
+Alignment Length: 127
+Percentage Identity: 0.102
+
+=== A0A1M4N933 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SCM69696.1};
+Bit Score: 110.0
+E-value: 0.01142
+Alignment Length: 120
+Percentage Identity: 0.158
+
+=== A0A7S8E644 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 136.0
+E-value: 0.01203
+Alignment Length: 120
+Percentage Identity: 0.091
+
+=== A0A327JHN6 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.01203
+Alignment Length: 127
+Percentage Identity: 0.133
+
+=== A0A0F9DYC6 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 128.0
+E-value: 0.01203
+Alignment Length: 127
+Percentage Identity: 0.133
+
+=== A0A1G4UQ20 ===
+DE   RecName: Full=Phage head-tail joining protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.01203
+Alignment Length: 122
+Percentage Identity: 0.147
+
+=== A0A5A7MMJ7 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 132.0
+E-value: 0.01268
+Alignment Length: 122
+Percentage Identity: 0.147
+
+=== A0A6N7WPI7 ===
+DE   SubName: Full=Phage head closure protein {ECO:0000313|EMBL:MSS91368.1};
+Bit Score: 126.0
+E-value: 0.01268
+Alignment Length: 123
+Percentage Identity: 0.138
+
+=== A0A7C1YCL7 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:HEB79289.1};
+Bit Score: 121.0
+E-value: 0.01268
+Alignment Length: 125
+Percentage Identity: 0.112
+
+=== A0A2W4NB85 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:PZN17367.1};
+Bit Score: 118.0
+E-value: 0.01268
+Alignment Length: 124
+Percentage Identity: 0.112
+
+=== A0A0Q8TDG0 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:KRC30680.1};
+Bit Score: 132.0
+E-value: 0.01336
+Alignment Length: 124
+Percentage Identity: 0.145
+
+=== A0A2N2LUS4 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 123.0
+E-value: 0.01336
+Alignment Length: 122
+Percentage Identity: 0.114
+
+=== A0A1C6FPA2 ===
+DE   RecName: Full=Bacteriophage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 120.0
+E-value: 0.01336
+Alignment Length: 114
+Percentage Identity: 0.149
+
+=== A0A6I8MEY9 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 110.0
+E-value: 0.01336
+Alignment Length: 125
+Percentage Identity: 0.144
+
+=== A0A1V5CVZ1 ===
+DE   SubName: Full=Phage head-tail joining protein {ECO:0000313|EMBL:OPY74917.1};
+Bit Score: 110.0
+E-value: 0.01336
+Alignment Length: 125
+Percentage Identity: 0.104
+
+=== J2GS38 ===
+DE   SubName: Full=Bacteriophage head-tail adaptor {ECO:0000313|EMBL:EJL25603.1};
+Bit Score: 105.0
+E-value: 0.01336
+Alignment Length: 137
+Percentage Identity: 0.145
+
+=== A0A3M6QUL1 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:RMX06716.1};
+Bit Score: 127.0
+E-value: 0.01409
+Alignment Length: 127
+Percentage Identity: 0.149
+
+=== A0A150L6F8 ===
+DE   RecName: Full=Phage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 123.0
+E-value: 0.01409
+Alignment Length: 123
+Percentage Identity: 0.105
+
+=== A0A2P5LTH5 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.01409
+Alignment Length: 126
+Percentage Identity: 0.111
+
+=== A0A6C7C9U4 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 105.0
+E-value: 0.01409
+Alignment Length: 113
+Percentage Identity: 0.176
+
+=== A0A6A7KAD4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MPW26404.1};
+Bit Score: 106.0
+E-value: 0.01485
+Alignment Length: 127
+Percentage Identity: 0.086
+
+=== A0A3A5IBJ6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RJS60118.1};
+Bit Score: 94.0
+E-value: 0.01485
+Alignment Length: 120
+Percentage Identity: 0.175
+
+=== A0A518B5B3 ===
+DE   SubName: Full=Phage head-tail joining protein {ECO:0000313|EMBL:QDU62168.1};
+Bit Score: 124.0
+E-value: 0.01565
+Alignment Length: 123
+Percentage Identity: 0.113
+
+=== A0A845MR99 ===
+DE   RecName: Full=Head-closure protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.01565
+Alignment Length: 117
+Percentage Identity: 0.102
+
+=== W8X290 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 115.0
+E-value: 0.01565
+Alignment Length: 113
+Percentage Identity: 0.07
+
+=== A0A4R7KTR9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TDT63423.1};
+Bit Score: 107.0
+E-value: 0.01565
+Alignment Length: 119
+Percentage Identity: 0.176
+
+=== A0A258L923 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OYY01429.1};
+Bit Score: 103.0
+E-value: 0.01565
+Alignment Length: 124
+Percentage Identity: 0.112
+
+=== A0A352UL07 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HBD85955.1};
+Bit Score: 97.0
+E-value: 0.01565
+Alignment Length: 113
+Percentage Identity: 0.141
+
+=== A0A0A1GYF6 ===
+DE   SubName: Full=Phage head-tail adaptor {ECO:0000313|EMBL:BAP85959.1};
+Bit Score: 95.0
+E-value: 0.01565
+Alignment Length: 126
+Percentage Identity: 0.103
+
+=== A0A644UC94 ===
+DE   RecName: Full=Phage head-tail adapter protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 135.0
+E-value: 0.01649
+Alignment Length: 112
+Percentage Identity: 0.142
+
+=== A0A512J7Y0 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 127.0
+E-value: 0.01649
+Alignment Length: 123
+Percentage Identity: 0.113
+
+=== A0A538R7Q3 ===
+DE   RecName: Full=N4-gp56 family major capsid protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.01649
+Alignment Length: 135
+Percentage Identity: 0.088
+
+=== A0A7U7G8U7 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.01649
+Alignment Length: 112
+Percentage Identity: 0.089
+
+=== A0A1Y2UI93 ===
+DE   RecName: Full=Phage head closure protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.01649
+Alignment Length: 114
+Percentage Identity: 0.07
+
+=== A0A1H4WND0 ===
+DE   SubName: Full=Phage head-tail joining protein {ECO:0000313|EMBL:SEC94161.1};
+Bit Score: 126.0
+E-value: 0.01738
+Alignment Length: 113
+Percentage Identity: 0.115
+
+=== A0A838TQK2 ===
+DE   SubName: Full=Phage head closure protein {ECO:0000313|EMBL:MBA3674458.1};
+Bit Score: 120.0
+E-value: 0.01738
+Alignment Length: 122
+Percentage Identity: 0.09
+
+=== A0A074T895 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 96.0
+E-value: 0.01738
+Alignment Length: 121
+Percentage Identity: 0.123
+
+=== A0A0K8JHP5 ===
+DE   RecName: Full=Phage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.01832
+Alignment Length: 130
+Percentage Identity: 0.115
+
+=== A0A1Z5IYV4 ===
+DE   RecName: Full=Phage head-tail joining protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.01832
+Alignment Length: 127
+Percentage Identity: 0.086
+
+=== A0A0M2R7D1 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 118.0
+E-value: 0.01832
+Alignment Length: 113
+Percentage Identity: 0.097
+
+=== A0A3S1BVQ4 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:RUT48602.1};
+Bit Score: 110.0
+E-value: 0.01832
+Alignment Length: 133
+Percentage Identity: 0.067
+
+=== A0A1S9ZV64 ===
+DE   RecName: Full=Glutamate 5-kinase {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.01832
+Alignment Length: 119
+Percentage Identity: 0.117
+
+=== A0A7S8C855 ===
+DE   SubName: Full=Phage head closure protein {ECO:0000313|EMBL:QPC45174.1};
+Bit Score: 107.0
+E-value: 0.01832
+Alignment Length: 115
+Percentage Identity: 0.104
+
+=== A0A3S0YPS6 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 103.0
+E-value: 0.01832
+Alignment Length: 112
+Percentage Identity: 0.125
+
+=== D4DVT5 ===
+DE   SubName: Full=Putative phage head-tail adaptor {ECO:0000313|EMBL:EFE98321.1};
+Bit Score: 102.0
+E-value: 0.01832
+Alignment Length: 125
+Percentage Identity: 0.136
+
+=== A0A1E7G3E3 ===
+DE   RecName: Full=Phage head closure protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.01832
+Alignment Length: 113
+Percentage Identity: 0.141
+
+=== A0A075R830 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 96.0
+E-value: 0.01832
+Alignment Length: 129
+Percentage Identity: 0.085
+
+=== A0A651GM26 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:TVR10466.1};
+Bit Score: 127.0
+E-value: 0.0193
+Alignment Length: 124
+Percentage Identity: 0.104
+
+=== A0A439P291 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 118.0
+E-value: 0.0193
+Alignment Length: 122
+Percentage Identity: 0.114
+
+=== A0A0N7JPK2 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:OCO87784.1};
+Bit Score: 107.0
+E-value: 0.0193
+Alignment Length: 126
+Percentage Identity: 0.134
+
+=== A0A0R1YVK4 ===
+DE   SubName: Full=Head-tail joining protein {ECO:0000313|EMBL:KRM46592.1};
+Bit Score: 104.0
+E-value: 0.0193
+Alignment Length: 126
+Percentage Identity: 0.071
+
+=== G1VMM8 ===
+DE   RecName: Full=Phage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 98.0
+E-value: 0.0193
+Alignment Length: 121
+Percentage Identity: 0.132
+
+=== A0A3P1W3M7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RRD39103.1};
+Bit Score: 96.0
+E-value: 0.0193
+Alignment Length: 136
+Percentage Identity: 0.073
+
+=== A0A090MF57 ===
+DE   SubName: Full=Uncultured bacterium genome assembly Metasoil_fosmids_resub {ECO:0000313|EMBL:CEF48247.1};
+Bit Score: 128.0
+E-value: 0.02034
+Alignment Length: 123
+Percentage Identity: 0.105
+
+=== A0A1V5NYF1 ===
+DE   SubName: Full=Phage head-tail joining protein {ECO:0000313|EMBL:OQA10062.1};
+Bit Score: 127.0
+E-value: 0.02034
+Alignment Length: 112
+Percentage Identity: 0.089
+
+=== X1CYX8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAG98102.1};
+Bit Score: 124.0
+E-value: 0.02034
+Alignment Length: 123
+Percentage Identity: 0.105
+
+=== A0A0F9DZP4 ===
+DE   RecName: Full=Phage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 120.0
+E-value: 0.02034
+Alignment Length: 127
+Percentage Identity: 0.118
+
+=== A0A140DVF4 ===
+DE   RecName: Full=Phage head-tail adapter protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.02034
+Alignment Length: 127
+Percentage Identity: 0.133
+
+=== A0A7Y8F6Y1 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.02034
+Alignment Length: 114
+Percentage Identity: 0.157
+
+=== A0A2D9VWE7 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 111.0
+E-value: 0.02034
+Alignment Length: 112
+Percentage Identity: 0.089
+
+=== A0A1H9QK72 ===
+DE   SubName: Full=Phage head-tail adaptor, putative, SPP1 family {ECO:0000313|EMBL:SER60595.1};
+Bit Score: 105.0
+E-value: 0.02034
+Alignment Length: 116
+Percentage Identity: 0.137
+
+=== A0A2S2DFV1 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:AWL04230.1};
+Bit Score: 132.0
+E-value: 0.02144
+Alignment Length: 110
+Percentage Identity: 0.136
+
+=== A0A3M1GCR2 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:RME67247.1};
+Bit Score: 127.0
+E-value: 0.02144
+Alignment Length: 122
+Percentage Identity: 0.122
+
+=== A0A562KIZ5 ===
+DE   SubName: Full=SPP1 family predicted phage head-tail adaptor {ECO:0000313|EMBL:TWH95324.1};
+Bit Score: 126.0
+E-value: 0.02144
+Alignment Length: 117
+Percentage Identity: 0.111
+
+=== A0A524KBI2 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.02144
+Alignment Length: 120
+Percentage Identity: 0.091
+
+=== A0A7G5H2I9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QMW05331.1};
+Bit Score: 109.0
+E-value: 0.02144
+Alignment Length: 112
+Percentage Identity: 0.098
+
+=== A0A364JSS7 ===
+DE   SubName: Full=Head-tail adaptor {ECO:0000313|EMBL:RAK26375.1};
+Bit Score: 107.0
+E-value: 0.02144
+Alignment Length: 134
+Percentage Identity: 0.134
+
+=== A0A1C5LAK6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SCG97315.1};
+Bit Score: 107.0
+E-value: 0.02144
+Alignment Length: 136
+Percentage Identity: 0.125
+
+=== A0A7Y5KJL9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NUO90608.1};
+Bit Score: 95.0
+E-value: 0.02144
+Alignment Length: 127
+Percentage Identity: 0.125
+
+=== A0A0F8YNN6 ===
+DE   RecName: Full=Phage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 129.0
+E-value: 0.0226
+Alignment Length: 123
+Percentage Identity: 0.089
+
+=== A0A0J7L597 ===
+DE   SubName: Full=Putative phage protein {ECO:0000313|EMBL:KMQ97801.1};
+Bit Score: 127.0
+E-value: 0.0226
+Alignment Length: 119
+Percentage Identity: 0.142
+
+=== R7H540 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CDE34485.1};
+Bit Score: 124.0
+E-value: 0.0226
+Alignment Length: 119
+Percentage Identity: 0.109
+
+=== A0A5A9XKJ4 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:KAA0893075.1};
+Bit Score: 122.0
+E-value: 0.0226
+Alignment Length: 122
+Percentage Identity: 0.131
+
+=== A0A1R1JNF5 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 120.0
+E-value: 0.0226
+Alignment Length: 129
+Percentage Identity: 0.139
+
+=== A0A1F4MQK7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OGB61485.1};
+Bit Score: 117.0
+E-value: 0.0226
+Alignment Length: 95
+Percentage Identity: 0.168
+
+=== K2JJK7 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.0226
+Alignment Length: 118
+Percentage Identity: 0.101
+
+=== A0A2N3LJV9 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 113.0
+E-value: 0.0226
+Alignment Length: 124
+Percentage Identity: 0.104
+
+=== A0A519IHI4 ===
+DE   RecName: Full=Head decoration protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.0226
+Alignment Length: 112
+Percentage Identity: 0.125
+
+=== A0A0J1HEZ1 ===
+DE   RecName: Full=Phage head-tail adapter protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.0226
+Alignment Length: 125
+Percentage Identity: 0.144
+
+=== A0A843HS58 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.0226
+Alignment Length: 111
+Percentage Identity: 0.171
+
+=== A0A4R2GUH1 ===
+DE   SubName: Full=Head-tail adaptor {ECO:0000313|EMBL:TCO14117.1};
+Bit Score: 107.0
+E-value: 0.0226
+Alignment Length: 129
+Percentage Identity: 0.093
+
+=== A0A7C2J6C4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HEM11443.1};
+Bit Score: 99.0
+E-value: 0.0226
+Alignment Length: 132
+Percentage Identity: 0.098
+
+=== A0A645CEX0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MPM75507.1};
+Bit Score: 89.0
+E-value: 0.0226
+Alignment Length: 110
+Percentage Identity: 0.118
+
+=== A0A1H6JE69 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SEH60511.1};
+Bit Score: 120.0
+E-value: 0.02382
+Alignment Length: 125
+Percentage Identity: 0.112
+
+=== R6BYW5 ===
+DE   RecName: Full=Phage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.02382
+Alignment Length: 115
+Percentage Identity: 0.121
+
+=== A0A2I2A8T4 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.02382
+Alignment Length: 113
+Percentage Identity: 0.106
+
+=== A0A3D5CUE3 ===
+DE   SubName: Full=Phage head-tail adapter protein {ECO:0000313|EMBL:HCU82339.1};
+Bit Score: 107.0
+E-value: 0.02382
+Alignment Length: 113
+Percentage Identity: 0.088
+
+=== A0A174ACT9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CUN85295.1};
+Bit Score: 104.0
+E-value: 0.02382
+Alignment Length: 120
+Percentage Identity: 0.116
+
+=== A0A1I5M152 ===
+DE   SubName: Full=Phage head-tail adaptor, putative, SPP1 family {ECO:0000313|EMBL:SFP02756.1};
+Bit Score: 103.0
+E-value: 0.02382
+Alignment Length: 115
+Percentage Identity: 0.139
+
+=== A0A7S7QQA5 ===
+DE   RecName: Full=Glutamate 5-kinase {ECO:0008006|Google:ProtNLM};
+Bit Score: 102.0
+E-value: 0.02382
+Alignment Length: 119
+Percentage Identity: 0.109
+
+=== A0A1Q7RIA8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OLD63740.1};
+Bit Score: 124.0
+E-value: 0.0251
+Alignment Length: 113
+Percentage Identity: 0.132
+
+=== A0A120CYD6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KWT72374.1};
+Bit Score: 119.0
+E-value: 0.0251
+Alignment Length: 119
+Percentage Identity: 0.168
+
+=== A0A4Q7PJP2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RZT00904.1};
+Bit Score: 115.0
+E-value: 0.0251
+Alignment Length: 110
+Percentage Identity: 0.127
+
+=== A0A853IVM2 ===
+DE   SubName: Full=Phage head closure protein {ECO:0000313|EMBL:NZA01597.1};
+Bit Score: 111.0
+E-value: 0.0251
+Alignment Length: 121
+Percentage Identity: 0.123
+
+=== A0A212AQS2 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:OWJ83819.1};
+Bit Score: 110.0
+E-value: 0.0251
+Alignment Length: 118
+Percentage Identity: 0.067
+
+=== A0A5J5I5Q5 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 105.0
+E-value: 0.0251
+Alignment Length: 125
+Percentage Identity: 0.112
+
+=== A0A3M1A8Y1 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:RMD92832.1};
+Bit Score: 105.0
+E-value: 0.0251
+Alignment Length: 131
+Percentage Identity: 0.068
+
+=== K1MBC7 ===
+DE   RecName: Full=Phage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.0251
+Alignment Length: 127
+Percentage Identity: 0.118
+
+=== A0A1V5QW74 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OQA34299.1};
+Bit Score: 99.0
+E-value: 0.0251
+Alignment Length: 123
+Percentage Identity: 0.089
+
+=== A0A2S0N7Z4 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:AVO44063.1};
+Bit Score: 124.0
+E-value: 0.02645
+Alignment Length: 121
+Percentage Identity: 0.148
+
+=== A0A316C1S9 ===
+DE   RecName: Full=Head-tail joining protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 123.0
+E-value: 0.02645
+Alignment Length: 116
+Percentage Identity: 0.129
+
+=== X0WUQ4 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.02645
+Alignment Length: 121
+Percentage Identity: 0.132
+
+=== A0A7Z8CWB6 ===
+DE   RecName: Full=Phage head-tail adapter protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.02645
+Alignment Length: 124
+Percentage Identity: 0.12
+
+=== A0A3P3QMZ6 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:RRJ22586.1};
+Bit Score: 104.0
+E-value: 0.02645
+Alignment Length: 114
+Percentage Identity: 0.122
+
+=== A0A3A5JXR6 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:RJT26915.1};
+Bit Score: 94.0
+E-value: 0.02645
+Alignment Length: 127
+Percentage Identity: 0.141
+
+=== A0A501XZV5 ===
+DE   SubName: Full=Phage head closure protein {ECO:0000313|EMBL:QQK59715.1};
+Bit Score: 121.0
+E-value: 0.02788
+Alignment Length: 126
+Percentage Identity: 0.103
+
+=== A0A4R5UH81 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:TDK35202.1};
+Bit Score: 116.0
+E-value: 0.02788
+Alignment Length: 133
+Percentage Identity: 0.082
+
+=== A0A165R3D1 ===
+DE   SubName: Full=Phage head-tail joining protein {ECO:0000313|EMBL:KZL00493.1};
+Bit Score: 113.0
+E-value: 0.02788
+Alignment Length: 129
+Percentage Identity: 0.139
+
+=== A0A239F8M5 ===
+DE   SubName: Full=Head-tail adaptor {ECO:0000313|EMBL:SNS53269.1};
+Bit Score: 113.0
+E-value: 0.02788
+Alignment Length: 129
+Percentage Identity: 0.116
+
+=== A0A6N8HT92 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.02788
+Alignment Length: 127
+Percentage Identity: 0.133
+
+=== S9TEH8 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.02788
+Alignment Length: 113
+Percentage Identity: 0.106
+
+=== A0A750BNW0 ===
+DE   SubName: Full=Phage head closure protein {ECO:0000313|EMBL:HAF6141552.1};
+Bit Score: 103.0
+E-value: 0.02788
+Alignment Length: 124
+Percentage Identity: 0.104
+
+=== Q2NQE5 ===
+DE   SubName: Full=Hypothetical phage protein {ECO:0000313|EMBL:BAE75630.1};
+Bit Score: 90.0
+E-value: 0.02788
+Alignment Length: 137
+Percentage Identity: 0.116
+
+=== A0A7J3A437 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.02938
+Alignment Length: 112
+Percentage Identity: 0.125
+
+=== A0A3R9XSD3 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.02938
+Alignment Length: 125
+Percentage Identity: 0.072
+
+=== A0A1Q9YBD2 ===
+DE   RecName: Full=Phage head-tail adapter protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.02938
+Alignment Length: 117
+Percentage Identity: 0.102
+
+=== A0A0Q6ZSD7 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:KQW31141.1};
+Bit Score: 107.0
+E-value: 0.02938
+Alignment Length: 128
+Percentage Identity: 0.125
+
+=== A0A059NW91 ===
+DE   SubName: Full=Putative phage head-tail adaptor {ECO:0000313|EMBL:CDQ22573.1};
+Bit Score: 105.0
+E-value: 0.02938
+Alignment Length: 113
+Percentage Identity: 0.132
+
+=== A0A2W5MY59 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 105.0
+E-value: 0.02938
+Alignment Length: 112
+Percentage Identity: 0.107
+
+=== A0A229UMK1 ===
+DE   RecName: Full=DUF2577 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 95.0
+E-value: 0.02938
+Alignment Length: 129
+Percentage Identity: 0.124
+
+=== A0A1D9LDP4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AOZ49393.1};
+Bit Score: 127.0
+E-value: 0.03097
+Alignment Length: 124
+Percentage Identity: 0.112
+
+=== A0A1E4GQ15 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ODT85638.1};
+Bit Score: 116.0
+E-value: 0.03097
+Alignment Length: 109
+Percentage Identity: 0.119
+
+=== A0A6M3M168 ===
+DE   SubName: Full=Putative head-tail joining protein {ECO:0000313|EMBL:QJA99644.1};
+Bit Score: 113.0
+E-value: 0.03097
+Alignment Length: 123
+Percentage Identity: 0.097
+
+=== A0A2D8EIY6 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 113.0
+E-value: 0.03097
+Alignment Length: 113
+Percentage Identity: 0.097
+
+=== A0A3P3EM41 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RRH86448.1};
+Bit Score: 110.0
+E-value: 0.03097
+Alignment Length: 118
+Percentage Identity: 0.135
+
+=== A0A439GQI0 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.03097
+Alignment Length: 122
+Percentage Identity: 0.09
+
+=== A0A7V7SW60 ===
+DE   RecName: Full=10 kDa chaperonin {ECO:0008006|Google:ProtNLM};
+Bit Score: 100.0
+E-value: 0.03097
+Alignment Length: 128
+Percentage Identity: 0.171
+
+=== A0A1C6CSW5 ===
+DE   SubName: Full=Minor capsid protein {ECO:0000313|EMBL:SCI99424.1};
+Bit Score: 96.0
+E-value: 0.03097
+Alignment Length: 125
+Percentage Identity: 0.136
+
+=== A0A0F9FJ49 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 95.0
+E-value: 0.03097
+Alignment Length: 117
+Percentage Identity: 0.119
+
+=== A0A1Y0ZIG7 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 94.0
+E-value: 0.03097
+Alignment Length: 117
+Percentage Identity: 0.136
+
+=== A0A2U8I4W9 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.03264
+Alignment Length: 106
+Percentage Identity: 0.132
+
+=== A0A455SRF5 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 115.0
+E-value: 0.03264
+Alignment Length: 114
+Percentage Identity: 0.166
+
+=== A0A0F9S6L9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKN62749.1};
+Bit Score: 115.0
+E-value: 0.03264
+Alignment Length: 136
+Percentage Identity: 0.147
+
+=== A0A2A4NR76 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 111.0
+E-value: 0.03264
+Alignment Length: 129
+Percentage Identity: 0.116
+
+=== A0A0F9MNK3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKN00987.1};
+DE   Flags: Fragment;
+Bit Score: 108.0
+E-value: 0.03264
+Alignment Length: 113
+Percentage Identity: 0.097
+
+=== A0A1Q3P8P7 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 118.0
+E-value: 0.0344
+Alignment Length: 129
+Percentage Identity: 0.124
+
+=== A0A7C5FUG2 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:HHA46306.1};
+Bit Score: 109.0
+E-value: 0.0344
+Alignment Length: 110
+Percentage Identity: 0.145
+
+=== E1VAC3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CBV41969.1};
+Bit Score: 105.0
+E-value: 0.0344
+Alignment Length: 118
+Percentage Identity: 0.084
+
+=== A0A6M3MAF8 ===
+DE   RecName: Full=Head-tail joining protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.0344
+Alignment Length: 118
+Percentage Identity: 0.093
+
+=== A0A3S0BBN5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RTL04574.1};
+Bit Score: 98.0
+E-value: 0.0344
+Alignment Length: 111
+Percentage Identity: 0.081
+
+=== A3KA57 ===
+DE   RecName: Full=Phage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 87.0
+E-value: 0.0344
+Alignment Length: 130
+Percentage Identity: 0.138
+
+=== A0A7X2CHX2 ===
+DE   RecName: Full=Glutamate 5-kinase {ECO:0008006|Google:ProtNLM};
+Bit Score: 85.0
+E-value: 0.0344
+Alignment Length: 122
+Percentage Identity: 0.131
+
+=== A0A1B7HND9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OAT17153.1};
+Bit Score: 125.0
+E-value: 0.03626
+Alignment Length: 84
+Percentage Identity: 0.19
+
+=== A0A2A5GT47 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.03626
+Alignment Length: 123
+Percentage Identity: 0.113
+
+=== R6TIH4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CDC73248.1};
+Bit Score: 114.0
+E-value: 0.03626
+Alignment Length: 97
+Percentage Identity: 0.134
+
+=== E7N439 ===
+DE   SubName: Full=Putative phage head-tail adaptor {ECO:0000313|EMBL:EFW29080.1};
+Bit Score: 107.0
+E-value: 0.03626
+Alignment Length: 113
+Percentage Identity: 0.159
+
+=== A0A6H2A2B6 ===
+DE   SubName: Full=Putative head-tail joining protein {ECO:0000313|EMBL:QJA54336.1};
+Bit Score: 100.0
+E-value: 0.03626
+Alignment Length: 126
+Percentage Identity: 0.087
+
+=== A0A2T4KNE0 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 95.0
+E-value: 0.03626
+Alignment Length: 116
+Percentage Identity: 0.103
+
+=== A0A1G8RSJ7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SDJ19893.1};
+Bit Score: 92.0
+E-value: 0.03626
+Alignment Length: 109
+Percentage Identity: 0.11
+
+=== A0A4E0PVJ4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TGC08124.1};
+Bit Score: 120.0
+E-value: 0.03821
+Alignment Length: 134
+Percentage Identity: 0.134
+
+=== A0A3S0B007 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.03821
+Alignment Length: 120
+Percentage Identity: 0.108
+
+=== A0A1N7N4X9 ===
+DE   SubName: Full=Phage head-tail adaptor, putative, SPP1 family {ECO:0000313|EMBL:SIS93405.1};
+Bit Score: 114.0
+E-value: 0.03821
+Alignment Length: 117
+Percentage Identity: 0.111
+
+=== A0A651EBB3 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:TVQ55947.1};
+Bit Score: 114.0
+E-value: 0.03821
+Alignment Length: 125
+Percentage Identity: 0.096
+
+=== A0A2A2B7H3 ===
+DE   RecName: Full=Glutamate 5-kinase {ECO:0008006|Google:ProtNLM};
+Bit Score: 110.0
+E-value: 0.03821
+Alignment Length: 118
+Percentage Identity: 0.11
+
+=== A0A3E0Q5N5 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 105.0
+E-value: 0.03821
+Alignment Length: 111
+Percentage Identity: 0.126
+
+=== A0A415T687 ===
+DE   SubName: Full=Phage head-tail adapter protein {ECO:0000313|EMBL:RHM97169.1};
+Bit Score: 99.0
+E-value: 0.03821
+Alignment Length: 119
+Percentage Identity: 0.109
+
+=== A0A3M1KIW8 ===
+DE   RecName: Full=Head-tail adaptor protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 96.0
+E-value: 0.03821
+Alignment Length: 113
+Percentage Identity: 0.176
+
+=== A0A7M2RMK1 ===
+DE   RecName: Full=Phage head-tail joining protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.04027
+Alignment Length: 116
+Percentage Identity: 0.12
+
+=== A0A0D7E9A7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KIZ37085.1};
+Bit Score: 93.0
+E-value: 0.04027
+Alignment Length: 108
+Percentage Identity: 0.092
+
+=== A0A853IBA3 ===
+DE   RecName: Full=Head-tail joining protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 123.0
+E-value: 0.04244
+Alignment Length: 113
+Percentage Identity: 0.123
+
+=== A0A2E7VAM3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBO92390.1};
+Bit Score: 122.0
+E-value: 0.04244
+Alignment Length: 123
+Percentage Identity: 0.138
+
+=== A0A7M2C9U5 ===
+DE   RecName: Full=Head-to-tail stopper {ECO:0008006|Google:ProtNLM};
+Bit Score: 120.0
+E-value: 0.04244
+Alignment Length: 121
+Percentage Identity: 0.123
+
+=== A0A6V8LZK6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GFK95449.1};
+Bit Score: 117.0
+E-value: 0.04244
+Alignment Length: 114
+Percentage Identity: 0.122
+
+=== A0A554RY50 ===
+DE   SubName: Full=Head-tail adaptor protein {ECO:0000313|EMBL:TSD59026.1};
+Bit Score: 114.0
+E-value: 0.04244
+Alignment Length: 123
+Percentage Identity: 0.097
+
+=== A0A841TGD5 ===
+DE   SubName: Full=Phage head closure protein {ECO:0000313|EMBL:MBB6677521.1};
+Bit Score: 104.0
+E-value: 0.04244
+Alignment Length: 109
+Percentage Identity: 0.165
+
+=== A0A327KWR8 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.04244
+Alignment Length: 120
+Percentage Identity: 0.116
+
+=== A0A497NZX3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RLI44734.1};
+Bit Score: 101.0
+E-value: 0.04244
+Alignment Length: 107
+Percentage Identity: 0.158
+
+=== A0A496T574 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RKY76263.1};
+Bit Score: 93.0
+E-value: 0.04244
+Alignment Length: 129
+Percentage Identity: 0.085
+
+=== E7GTQ7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EGA91869.1};
+Bit Score: 89.0
+E-value: 0.04244
+Alignment Length: 108
+Percentage Identity: 0.148
+
+=== X0ZGY7 ===
+DE   RecName: Full=Phage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.04473
+Alignment Length: 116
+Percentage Identity: 0.086
+
+=== A0A1E2RXQ9 ===
+DE   SubName: Full=Phage head-tail joining protein {ECO:0000313|EMBL:ODA66839.1};
+Bit Score: 117.0
+E-value: 0.04473
+Alignment Length: 124
+Percentage Identity: 0.096
+
+=== B8INU0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ACL58456.1};
+Bit Score: 109.0
+E-value: 0.04473
+Alignment Length: 118
+Percentage Identity: 0.084
+
+=== A0A2D7VZS9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAK38203.1};
+Bit Score: 100.0
+E-value: 0.04473
+Alignment Length: 124
+Percentage Identity: 0.112
+
+=== A0A1G8XZJ2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SDJ95921.1};
+Bit Score: 97.0
+E-value: 0.04473
+Alignment Length: 115
+Percentage Identity: 0.086
+
+=== A0A7C2A4N3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HEC88457.1};
+Bit Score: 95.0
+E-value: 0.04473
+Alignment Length: 125
+Percentage Identity: 0.088
+
+=== A0A845R7I1 ===
+DE   RecName: Full=Transposase {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.04714
+Alignment Length: 113
+Percentage Identity: 0.176
+
+=== A0A6M3L761 ===
+DE   RecName: Full=Tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.04714
+Alignment Length: 121
+Percentage Identity: 0.157
+
+=== A0A1G8SXT6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SDJ34082.1};
+Bit Score: 104.0
+E-value: 0.04714
+Alignment Length: 106
+Percentage Identity: 0.122
+
+=== N9HJC1 ===
+DE   RecName: Full=Phage head-tail adaptor {ECO:0008006|Google:ProtNLM};
+Bit Score: 97.0
+E-value: 0.04714
+Alignment Length: 124
+Percentage Identity: 0.145
+
+=== A0A7D5V8Q7 ===
+DE   SubName: Full=Phage head closure protein {ECO:0000313|EMBL:QLI80794.1};
+Bit Score: 119.0
+E-value: 0.04969
+Alignment Length: 124
+Percentage Identity: 0.064
+

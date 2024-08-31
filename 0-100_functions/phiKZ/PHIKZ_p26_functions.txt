@@ -1,0 +1,29 @@
+=== A0A5C7UN36 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TXI13792.1};
+Bit Score: 142.0
+E-value: 0.009763
+Alignment Length: 70
+Percentage Identity: 0.285
+
+=== K1XQH2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EKD22698.1};
+DE   Flags: Fragment;
+Bit Score: 144.0
+E-value: 0.01279
+Alignment Length: 69
+Percentage Identity: 0.275
+
+=== A0A158KLX1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SAL81759.1};
+Bit Score: 141.0
+E-value: 0.01279
+Alignment Length: 70
+Percentage Identity: 0.228
+
+=== A0A7W8PCX0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB5409383.1};
+Bit Score: 128.0
+E-value: 0.04034
+Alignment Length: 73
+Percentage Identity: 0.219
+

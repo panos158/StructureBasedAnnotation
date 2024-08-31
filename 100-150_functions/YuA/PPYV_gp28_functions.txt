@@ -1,0 +1,21 @@
+=== A0A3N7GTJ1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RQP11944.1};
+Bit Score: 243.0
+E-value: 1.224e-05
+Alignment Length: 62
+Percentage Identity: 0.451
+
+=== A0A349P1D2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HAT68846.1};
+Bit Score: 134.0
+E-value: 0.007653
+Alignment Length: 65
+Percentage Identity: 0.261
+
+=== A0A0G1CE29 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKS47898.1};
+Bit Score: 128.0
+E-value: 0.01309
+Alignment Length: 65
+Percentage Identity: 0.307
+

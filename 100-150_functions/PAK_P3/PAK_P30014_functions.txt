@@ -1,0 +1,1024 @@
+=== A0A2E7I113 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBN41993.1};
+Bit Score: 427.0
+E-value: 2.987e-09
+Alignment Length: 113
+Percentage Identity: 0.336
+
+=== A0A838E3U1 ===
+DE   SubName: Full=DUF3277 family protein {ECO:0000313|EMBL:MBA2307406.1};
+Bit Score: 366.0
+E-value: 5.122e-08
+Alignment Length: 109
+Percentage Identity: 0.256
+
+=== A0A369L1K1 ===
+DE   SubName: Full=DUF3277 family protein {ECO:0000313|EMBL:RDB37406.1};
+Bit Score: 353.0
+E-value: 1.745e-07
+Alignment Length: 108
+Percentage Identity: 0.25
+
+=== A0A2E2D7G9 ===
+DE   RecName: Full=DUF1833 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 333.0
+E-value: 2.439e-07
+Alignment Length: 115
+Percentage Identity: 0.356
+
+=== A0A2G2F989 ===
+DE   RecName: Full=DUF3277 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 347.0
+E-value: 2.882e-07
+Alignment Length: 109
+Percentage Identity: 0.275
+
+=== A0A5C7QEC7 ===
+DE   RecName: Full=DUF3277 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 339.0
+E-value: 4.501e-07
+Alignment Length: 99
+Percentage Identity: 0.313
+
+=== X0UWZ9 ===
+DE   RecName: Full=DUF3277 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 335.0
+E-value: 4.501e-07
+Alignment Length: 110
+Percentage Identity: 0.281
+
+=== A0A0F9K0F1 ===
+DE   RecName: Full=DUF3277 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 326.0
+E-value: 5.032e-07
+Alignment Length: 111
+Percentage Identity: 0.261
+
+=== A0A4V2A478 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 322.0
+E-value: 5.032e-07
+Alignment Length: 104
+Percentage Identity: 0.25
+
+=== A0A5C7J2X3 ===
+DE   SubName: Full=DUF3277 family protein {ECO:0000313|EMBL:TXG75871.1};
+Bit Score: 335.0
+E-value: 5.32e-07
+Alignment Length: 101
+Percentage Identity: 0.267
+
+=== A0A1V1PGE8 ===
+DE   RecName: Full=DUF3277 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 340.0
+E-value: 5.625e-07
+Alignment Length: 102
+Percentage Identity: 0.294
+
+=== A0A350G168 ===
+DE   SubName: Full=DUF3277 domain-containing protein {ECO:0000313|EMBL:HAV77034.1};
+Bit Score: 326.0
+E-value: 5.948e-07
+Alignment Length: 109
+Percentage Identity: 0.302
+
+=== A0A2W5NG59 ===
+DE   RecName: Full=DUF3277 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 330.0
+E-value: 6.289e-07
+Alignment Length: 108
+Percentage Identity: 0.268
+
+=== A0A7W1N1P4 ===
+DE   SubName: Full=DUF3277 family protein {ECO:0000313|EMBL:MBA3841178.1};
+Bit Score: 334.0
+E-value: 6.649e-07
+Alignment Length: 109
+Percentage Identity: 0.247
+
+=== A0A3D4Z4C5 ===
+DE   SubName: Full=DUF3277 domain-containing protein {ECO:0000313|EMBL:HCU25438.1};
+Bit Score: 332.0
+E-value: 7.433e-07
+Alignment Length: 108
+Percentage Identity: 0.25
+
+=== A0A1H8A4G5 ===
+DE   RecName: Full=DUF3277 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 318.0
+E-value: 7.859e-07
+Alignment Length: 105
+Percentage Identity: 0.228
+
+=== A0A0F9TM38 ===
+DE   RecName: Full=DUF3277 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 306.0
+E-value: 1.038e-06
+Alignment Length: 106
+Percentage Identity: 0.292
+
+=== A0A1H9HQH5 ===
+DE   RecName: Full=Phage tail tube protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 294.0
+E-value: 1.534e-06
+Alignment Length: 111
+Percentage Identity: 0.27
+
+=== A0A520B9N4 ===
+DE   SubName: Full=DUF3277 family protein {ECO:0000313|EMBL:RZL29674.1};
+Bit Score: 320.0
+E-value: 1.715e-06
+Alignment Length: 107
+Percentage Identity: 0.224
+
+=== A0A496UJ26 ===
+DE   RecName: Full=DUF3277 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 318.0
+E-value: 1.917e-06
+Alignment Length: 102
+Percentage Identity: 0.205
+
+=== A0A521UGN0 ===
+DE   SubName: Full=DUF3277 family protein {ECO:0000313|EMBL:TAK30997.1};
+Bit Score: 304.0
+E-value: 2.533e-06
+Alignment Length: 109
+Percentage Identity: 0.229
+
+=== F7TAC0 ===
+DE   RecName: Full=DUF3277 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 307.0
+E-value: 2.678e-06
+Alignment Length: 109
+Percentage Identity: 0.256
+
+=== A0A523GQC6 ===
+DE   SubName: Full=DUF3277 family protein {ECO:0000313|EMBL:TDI74601.1};
+Bit Score: 308.0
+E-value: 2.831e-06
+Alignment Length: 109
+Percentage Identity: 0.229
+
+=== A0A1H8EHU9 ===
+DE   RecName: Full=Phage tail tube protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 307.0
+E-value: 2.994e-06
+Alignment Length: 108
+Percentage Identity: 0.277
+
+=== A0A0F8Y7F5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKK77283.1};
+DE   Flags: Fragment;
+Bit Score: 298.0
+E-value: 3.165e-06
+Alignment Length: 109
+Percentage Identity: 0.22
+
+=== R6PG25 ===
+DE   RecName: Full=DUF3277 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 308.0
+E-value: 3.347e-06
+Alignment Length: 102
+Percentage Identity: 0.254
+
+=== A0A4Q3L8L9 ===
+DE   SubName: Full=DUF3277 family protein {ECO:0000313|EMBL:RYF12583.1};
+DE   Flags: Fragment;
+Bit Score: 290.0
+E-value: 3.347e-06
+Alignment Length: 110
+Percentage Identity: 0.263
+
+=== A0A1I0CCL1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SET17303.1};
+Bit Score: 290.0
+E-value: 3.741e-06
+Alignment Length: 110
+Percentage Identity: 0.19
+
+=== A0A7W5Z2E7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB3808753.1};
+Bit Score: 279.0
+E-value: 3.955e-06
+Alignment Length: 104
+Percentage Identity: 0.173
+
+=== A0A661QX88 ===
+DE   SubName: Full=DUF3277 domain-containing protein {ECO:0000313|EMBL:RLB85535.1};
+Bit Score: 305.0
+E-value: 4.422e-06
+Alignment Length: 99
+Percentage Identity: 0.232
+
+=== A0A1W9V6M8 ===
+DE   RecName: Full=DUF3277 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 294.0
+E-value: 4.422e-06
+Alignment Length: 111
+Percentage Identity: 0.234
+
+=== A0A2E2D659 ===
+DE   RecName: Full=DUF3277 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 281.0
+E-value: 4.422e-06
+Alignment Length: 121
+Percentage Identity: 0.231
+
+=== A0A2E2D6B8 ===
+DE   SubName: Full=DUF3277 domain-containing protein {ECO:0000313|EMBL:MAX51287.1};
+Bit Score: 303.0
+E-value: 4.675e-06
+Alignment Length: 106
+Percentage Identity: 0.254
+
+=== A0A2M9GT00 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAB3904145.1};
+Bit Score: 291.0
+E-value: 4.675e-06
+Alignment Length: 110
+Percentage Identity: 0.263
+
+=== H0A2V2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EHL99382.1};
+Bit Score: 299.0
+E-value: 4.943e-06
+Alignment Length: 108
+Percentage Identity: 0.259
+
+=== A0A7C1QAA5 ===
+DE   SubName: Full=DUF3277 family protein {ECO:0000313|EMBL:HDY88912.1};
+Bit Score: 279.0
+E-value: 5.226e-06
+Alignment Length: 115
+Percentage Identity: 0.26
+
+=== A0A3A9ASA9 ===
+DE   SubName: Full=DUF3277 family protein {ECO:0000313|EMBL:RKI90433.1};
+Bit Score: 300.0
+E-value: 5.526e-06
+Alignment Length: 102
+Percentage Identity: 0.205
+
+=== J5XTT4 ===
+DE   SubName: Full=PF11681 family protein {ECO:0000313|EMBL:EJU31712.1};
+Bit Score: 273.0
+E-value: 6.531e-06
+Alignment Length: 104
+Percentage Identity: 0.144
+
+=== A0A084ZDM7 ===
+DE   SubName: Full=Putative bacteriophage protein {ECO:0000313|EMBL:KFB95571.1};
+Bit Score: 271.0
+E-value: 6.531e-06
+Alignment Length: 104
+Percentage Identity: 0.163
+
+=== A0A1A9WSJ1 ===
+DE   RecName: Full=Receptor ligand binding region domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 294.0
+E-value: 6.906e-06
+Alignment Length: 110
+Percentage Identity: 0.254
+
+=== A0A497BGZ3 ===
+DE   RecName: Full=DUF3277 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 291.0
+E-value: 7.302e-06
+Alignment Length: 110
+Percentage Identity: 0.209
+
+=== A0A4R1KSQ8 ===
+DE   SubName: Full=Uncharacterized protein DUF3277 {ECO:0000313|EMBL:TCK68105.1};
+Bit Score: 279.0
+E-value: 7.72e-06
+Alignment Length: 110
+Percentage Identity: 0.172
+
+=== A0A193QH55 ===
+DE   RecName: Full=Phage tail tube protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 289.0
+E-value: 9.648e-06
+Alignment Length: 110
+Percentage Identity: 0.263
+
+=== L7VWH3 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 260.0
+E-value: 1.781e-05
+Alignment Length: 111
+Percentage Identity: 0.198
+
+=== A0A1Y3QLA9 ===
+DE   RecName: Full=DUF3277 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 255.0
+E-value: 1.991e-05
+Alignment Length: 113
+Percentage Identity: 0.247
+
+=== A0A6S5RT52 ===
+DE   RecName: Full=DUF3277 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 268.0
+E-value: 2.353e-05
+Alignment Length: 111
+Percentage Identity: 0.207
+
+=== A0A6M3LPX8 ===
+DE   RecName: Full=Tail tube protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 250.0
+E-value: 2.353e-05
+Alignment Length: 111
+Percentage Identity: 0.234
+
+=== A0A833PAD1 ===
+DE   RecName: Full=DUF3277 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 254.0
+E-value: 2.631e-05
+Alignment Length: 104
+Percentage Identity: 0.153
+
+=== A0A6M3JLC6 ===
+DE   RecName: Full=Tail tube protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 240.0
+E-value: 3.287e-05
+Alignment Length: 111
+Percentage Identity: 0.234
+
+=== A0A5K7Z2B2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:BBO74399.1};
+Bit Score: 258.0
+E-value: 3.476e-05
+Alignment Length: 107
+Percentage Identity: 0.205
+
+=== A0A4Q5TLW3 ===
+DE   RecName: Full=DUF3277 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 255.0
+E-value: 4.108e-05
+Alignment Length: 107
+Percentage Identity: 0.214
+
+=== X0TEW2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAF85851.1};
+Bit Score: 248.0
+E-value: 4.108e-05
+Alignment Length: 110
+Percentage Identity: 0.181
+
+=== A0A254RRS7 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 261.0
+E-value: 4.856e-05
+Alignment Length: 102
+Percentage Identity: 0.166
+
+=== K4ZSY7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EJW20055.1};
+Bit Score: 200.0
+E-value: 4.856e-05
+Alignment Length: 135
+Percentage Identity: 0.14
+
+=== A0A1T5FL77 ===
+DE   RecName: Full=DUF3277 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 247.0
+E-value: 5.428e-05
+Alignment Length: 111
+Percentage Identity: 0.189
+
+=== A0A350TI71 ===
+DE   SubName: Full=DUF3277 domain-containing protein {ECO:0000313|EMBL:HAX29989.1};
+Bit Score: 249.0
+E-value: 5.739e-05
+Alignment Length: 103
+Percentage Identity: 0.223
+
+=== A0A849VM86 ===
+DE   SubName: Full=DUF3277 family protein {ECO:0000313|EMBL:NTS31265.1};
+Bit Score: 248.0
+E-value: 5.739e-05
+Alignment Length: 101
+Percentage Identity: 0.178
+
+=== A0A7C2A7Y0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HEC64373.1};
+Bit Score: 256.0
+E-value: 6.068e-05
+Alignment Length: 108
+Percentage Identity: 0.138
+
+=== A0A212J7U9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SBV95510.1};
+Bit Score: 239.0
+E-value: 6.784e-05
+Alignment Length: 112
+Percentage Identity: 0.16
+
+=== A0A843H1U4 ===
+DE   SubName: Full=DUF3277 family protein {ECO:0000313|EMBL:MBO7715320.1};
+Bit Score: 238.0
+E-value: 6.784e-05
+Alignment Length: 113
+Percentage Identity: 0.185
+
+=== A0A512PLI1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GEP72033.1};
+Bit Score: 224.0
+E-value: 6.784e-05
+Alignment Length: 110
+Percentage Identity: 0.172
+
+=== W7BCC6 ===
+DE   SubName: Full=Gp15 {ECO:0000313|EMBL:EUJ24764.1};
+Bit Score: 235.0
+E-value: 7.173e-05
+Alignment Length: 101
+Percentage Identity: 0.158
+
+=== N2BD33 ===
+DE   RecName: Full=DUF3277 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 250.0
+E-value: 8.478e-05
+Alignment Length: 97
+Percentage Identity: 0.164
+
+=== A0A252AP19 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OUI91432.1};
+Bit Score: 247.0
+E-value: 8.478e-05
+Alignment Length: 102
+Percentage Identity: 0.186
+
+=== A0A4R8GKR2 ===
+DE   SubName: Full=Uncharacterized protein DUF3277 {ECO:0000313|EMBL:TDX43704.1};
+Bit Score: 233.0
+E-value: 8.478e-05
+Alignment Length: 109
+Percentage Identity: 0.165
+
+=== A0A1X7LER4 ===
+DE   RecName: Full=DUF3277 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 248.0
+E-value: 9.477e-05
+Alignment Length: 104
+Percentage Identity: 0.153
+
+=== A0A4R2CPV7 ===
+DE   SubName: Full=Uncharacterized protein DUF3277 {ECO:0000313|EMBL:TCN41424.1};
+Bit Score: 232.0
+E-value: 9.477e-05
+Alignment Length: 109
+Percentage Identity: 0.155
+
+=== A0A7I0HSP2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TGL06721.1};
+Bit Score: 207.0
+E-value: 9.477e-05
+Alignment Length: 100
+Percentage Identity: 0.12
+
+=== A0A6M0RC76 ===
+DE   SubName: Full=DUF3277 family protein {ECO:0000313|EMBL:NEZ47782.1};
+Bit Score: 236.0
+E-value: 0.000112
+Alignment Length: 101
+Percentage Identity: 0.207
+
+=== A0A3N9P7D4 ===
+DE   SubName: Full=DUF3277 family protein {ECO:0000313|EMBL:RQW12128.1};
+Bit Score: 234.0
+E-value: 0.000112
+Alignment Length: 103
+Percentage Identity: 0.155
+
+=== A0A7T4FM26 ===
+DE   SubName: Full=DUF3277 family protein {ECO:0000313|EMBL:QQB73007.1};
+Bit Score: 230.0
+E-value: 0.000112
+Alignment Length: 107
+Percentage Identity: 0.177
+
+=== A0A431ICR1 ===
+DE   SubName: Full=DUF3277 family protein {ECO:0000313|EMBL:RTL04913.1};
+Bit Score: 245.0
+E-value: 0.0001252
+Alignment Length: 101
+Percentage Identity: 0.118
+
+=== A0A6G5QH75 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QCD44927.1};
+Bit Score: 233.0
+E-value: 0.0001252
+Alignment Length: 112
+Percentage Identity: 0.187
+
+=== A0A437ST42 ===
+DE   RecName: Full=DUF3277 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 223.0
+E-value: 0.0001252
+Alignment Length: 111
+Percentage Identity: 0.189
+
+=== A0A1H4K612 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SEB53726.1};
+Bit Score: 220.0
+E-value: 0.00014
+Alignment Length: 111
+Percentage Identity: 0.144
+
+=== A0A0B6X626 ===
+DE   SubName: Full=Putative phage protein {ECO:0000313|EMBL:CDM88173.1};
+Bit Score: 237.0
+E-value: 0.0001565
+Alignment Length: 102
+Percentage Identity: 0.166
+
+=== A0A0H3GNN3 ===
+DE   SubName: Full=Bacteriophage protein {ECO:0000313|EMBL:AEW60973.1};
+Bit Score: 231.0
+E-value: 0.0001655
+Alignment Length: 106
+Percentage Identity: 0.179
+
+=== A0A6M3KSW2 ===
+DE   RecName: Full=Tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 234.0
+E-value: 0.0001749
+Alignment Length: 101
+Percentage Identity: 0.188
+
+=== A0A653P5R8 ===
+DE   SubName: Full=Putative bacteriophage protein {ECO:0000313|EMBL:VXB25148.1};
+Bit Score: 235.0
+E-value: 0.000185
+Alignment Length: 110
+Percentage Identity: 0.145
+
+=== A0A0R1H2J4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KRK40797.1};
+Bit Score: 222.0
+E-value: 0.000185
+Alignment Length: 99
+Percentage Identity: 0.151
+
+=== A0A401FPZ4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAY74281.1};
+Bit Score: 182.0
+E-value: 0.0001956
+Alignment Length: 134
+Percentage Identity: 0.171
+
+=== A0A522DLA6 ===
+DE   SubName: Full=DUF3277 family protein {ECO:0000313|EMBL:TAL42928.1};
+Bit Score: 237.0
+E-value: 0.0002068
+Alignment Length: 109
+Percentage Identity: 0.165
+
+=== A0A2N5KYN3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PLT11347.1};
+Bit Score: 215.0
+E-value: 0.0002068
+Alignment Length: 109
+Percentage Identity: 0.174
+
+=== A0A1E7XCA3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OFA10750.1};
+Bit Score: 213.0
+E-value: 0.0002068
+Alignment Length: 109
+Percentage Identity: 0.119
+
+=== A0A317HH19 ===
+DE   SubName: Full=DUF3277 domain-containing protein {ECO:0000313|EMBL:PWT77523.1};
+Bit Score: 216.0
+E-value: 0.0002186
+Alignment Length: 114
+Percentage Identity: 0.149
+
+=== A0A3M0LWL4 ===
+DE   RecName: Full=DUF3277 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 215.0
+E-value: 0.0002186
+Alignment Length: 108
+Percentage Identity: 0.12
+
+=== A0A5M7KYF1 ===
+DE   SubName: Full=DUF3277 domain-containing protein {ECO:0000313|EMBL:KAA5944886.1};
+Bit Score: 223.0
+E-value: 0.0002444
+Alignment Length: 102
+Percentage Identity: 0.156
+
+=== A0A5C7P2V4 ===
+DE   RecName: Full=DUF192 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 218.0
+E-value: 0.0002584
+Alignment Length: 112
+Percentage Identity: 0.178
+
+=== A0A7C8GVH2 ===
+DE   SubName: Full=DUF3277 domain-containing protein {ECO:0000313|EMBL:KAB8139265.1};
+Bit Score: 224.0
+E-value: 0.0002732
+Alignment Length: 99
+Percentage Identity: 0.161
+
+=== A0A3B0J8J4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SPP31652.1};
+Bit Score: 223.0
+E-value: 0.0002732
+Alignment Length: 105
+Percentage Identity: 0.142
+
+=== R8W405 ===
+DE   RecName: Full=DUF3277 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 217.0
+E-value: 0.0002889
+Alignment Length: 100
+Percentage Identity: 0.18
+
+=== G1V865 ===
+DE   RecName: Full=Bacteriophage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 231.0
+E-value: 0.0003054
+Alignment Length: 102
+Percentage Identity: 0.176
+
+=== A0A354YT67 ===
+DE   RecName: Full=DUF3277 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 196.0
+E-value: 0.0003229
+Alignment Length: 105
+Percentage Identity: 0.161
+
+=== A0A2V2EAW9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PWM45212.1};
+Bit Score: 216.0
+E-value: 0.0003414
+Alignment Length: 102
+Percentage Identity: 0.225
+
+=== W7D4B5 ===
+DE   SubName: Full=Gp15 {ECO:0000313|EMBL:EUJ44042.1};
+Bit Score: 214.0
+E-value: 0.0003414
+Alignment Length: 103
+Percentage Identity: 0.145
+
+=== A0A2G1QM51 ===
+DE   RecName: Full=DUF3277 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 226.0
+E-value: 0.0003817
+Alignment Length: 100
+Percentage Identity: 0.16
+
+=== A0A559IVT9 ===
+DE   SubName: Full=DUF3277 domain-containing protein {ECO:0000313|EMBL:TVX91762.1};
+Bit Score: 207.0
+E-value: 0.0004036
+Alignment Length: 101
+Percentage Identity: 0.178
+
+=== A0A354WRG3 ===
+DE   SubName: Full=DUF3277 domain-containing protein {ECO:0000313|EMBL:HBK27305.1};
+Bit Score: 199.0
+E-value: 0.0004267
+Alignment Length: 106
+Percentage Identity: 0.141
+
+=== A0A143HFB6 ===
+DE   RecName: Full=DUF3277 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 214.0
+E-value: 0.000477
+Alignment Length: 101
+Percentage Identity: 0.138
+
+=== A0A6M3M9I2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QJB02860.1};
+Bit Score: 200.0
+E-value: 0.000477
+Alignment Length: 104
+Percentage Identity: 0.125
+
+=== A0A1I4Q6V4 ===
+DE   RecName: Full=Phage tail tube protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 198.0
+E-value: 0.000477
+Alignment Length: 104
+Percentage Identity: 0.192
+
+=== A0A653QW71 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VXB46275.1};
+Bit Score: 205.0
+E-value: 0.0005043
+Alignment Length: 102
+Percentage Identity: 0.196
+
+=== A0A0N0CVC6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KOY81575.1};
+Bit Score: 211.0
+E-value: 0.0005333
+Alignment Length: 99
+Percentage Identity: 0.181
+
+=== A0A1H1GX44 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SDR17693.1};
+Bit Score: 194.0
+E-value: 0.0005333
+Alignment Length: 112
+Percentage Identity: 0.142
+
+=== A0A5C7QGT0 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 197.0
+E-value: 0.0006303
+Alignment Length: 101
+Percentage Identity: 0.168
+
+=== R6AVH5 ===
+DE   SubName: Full=PF11681 family protein {ECO:0000313|EMBL:CDA50586.1};
+Bit Score: 197.0
+E-value: 0.0006303
+Alignment Length: 105
+Percentage Identity: 0.133
+
+=== A0A6C2C8J3 ===
+DE   RecName: Full=DUF3277 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 209.0
+E-value: 0.0006664
+Alignment Length: 105
+Percentage Identity: 0.123
+
+=== C0XGT4 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 197.0
+E-value: 0.0007046
+Alignment Length: 108
+Percentage Identity: 0.101
+
+=== A0A542B2U6 ===
+DE   SubName: Full=Uncharacterized protein DUF3277 {ECO:0000313|EMBL:TQI72908.1};
+Bit Score: 207.0
+E-value: 0.0007877
+Alignment Length: 105
+Percentage Identity: 0.142
+
+=== A0A1I1TQ85 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SFD60699.1};
+Bit Score: 206.0
+E-value: 0.0007877
+Alignment Length: 99
+Percentage Identity: 0.191
+
+=== A0A562GJN4 ===
+DE   SubName: Full=Uncharacterized protein DUF3277 {ECO:0000313|EMBL:TWH46333.1};
+Bit Score: 208.0
+E-value: 0.0008805
+Alignment Length: 104
+Percentage Identity: 0.105
+
+=== E6LJD9 ===
+DE   RecName: Full=DUF3277 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 203.0
+E-value: 0.000931
+Alignment Length: 102
+Percentage Identity: 0.137
+
+=== G9XHH5 ===
+DE   RecName: Full=DUF3277 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 185.0
+E-value: 0.000931
+Alignment Length: 105
+Percentage Identity: 0.133
+
+=== A0A0M9D2S2 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 180.0
+E-value: 0.000931
+Alignment Length: 112
+Percentage Identity: 0.142
+
+=== A0A4R7WDM6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TDV61243.1};
+Bit Score: 190.0
+E-value: 0.0009843
+Alignment Length: 101
+Percentage Identity: 0.138
+
+=== A0A3D4Z2S4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HCU24351.1};
+Bit Score: 182.0
+E-value: 0.0009843
+Alignment Length: 106
+Percentage Identity: 0.226
+
+=== A0A2A7B5E9 ===
+DE   RecName: Full=DUF3277 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 199.0
+E-value: 0.001301
+Alignment Length: 104
+Percentage Identity: 0.173
+
+=== A0A257QWL2 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 182.0
+E-value: 0.001301
+Alignment Length: 104
+Percentage Identity: 0.115
+
+=== A0A7Y5CY07 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NOT72459.1};
+Bit Score: 204.0
+E-value: 0.001537
+Alignment Length: 103
+Percentage Identity: 0.106
+
+=== A0A0H3ZZN3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AKN40067.1};
+Bit Score: 183.0
+E-value: 0.001537
+Alignment Length: 99
+Percentage Identity: 0.121
+
+=== H0TMA9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CCE07597.1};
+Bit Score: 177.0
+E-value: 0.001817
+Alignment Length: 103
+Percentage Identity: 0.135
+
+=== A0A660DX17 ===
+DE   RecName: Full=DUF3277 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 192.0
+E-value: 0.002031
+Alignment Length: 104
+Percentage Identity: 0.105
+
+=== A0A2A7RIU6 ===
+DE   RecName: Full=DUF3277 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 190.0
+E-value: 0.002271
+Alignment Length: 99
+Percentage Identity: 0.101
+
+=== A0A328C8W2 ===
+DE   RecName: Full=DUF3277 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 168.0
+E-value: 0.002271
+Alignment Length: 114
+Percentage Identity: 0.149
+
+=== A0A3B0BRC0 ===
+DE   SubName: Full=DUF3277 family protein {ECO:0000313|EMBL:RKN75001.1};
+Bit Score: 190.0
+E-value: 0.002684
+Alignment Length: 106
+Percentage Identity: 0.141
+
+=== A0A258BDC0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OYW81344.1};
+Bit Score: 161.0
+E-value: 0.002684
+Alignment Length: 104
+Percentage Identity: 0.125
+
+=== A0A5B0HDA2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAA1013030.1};
+Bit Score: 183.0
+E-value: 0.002838
+Alignment Length: 101
+Percentage Identity: 0.108
+
+=== A0A0U1KWD1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CQR71681.1};
+Bit Score: 159.0
+E-value: 0.003964
+Alignment Length: 104
+Percentage Identity: 0.115
+
+=== A0A6L9VWB5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NEL78724.1};
+Bit Score: 166.0
+E-value: 0.004192
+Alignment Length: 104
+Percentage Identity: 0.144
+
+=== A0A5E4TRG6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VVD90530.1};
+Bit Score: 148.0
+E-value: 0.004432
+Alignment Length: 104
+Percentage Identity: 0.163
+
+=== A0A843HIL9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBO7732868.1};
+Bit Score: 168.0
+E-value: 0.005238
+Alignment Length: 104
+Percentage Identity: 0.105
+
+=== A0A1G8IAT6 ===
+DE   RecName: Full=DUF3277 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 158.0
+E-value: 0.005539
+Alignment Length: 101
+Percentage Identity: 0.108
+
+=== A0A4P7WDA8 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 152.0
+E-value: 0.005539
+Alignment Length: 105
+Percentage Identity: 0.123
+
+=== A0A348HFP8 ===
+DE   SubName: Full=ABC-type multidrug transport system, ATPase {ECO:0000313|EMBL:BBG30450.1};
+Bit Score: 153.0
+E-value: 0.00865
+Alignment Length: 103
+Percentage Identity: 0.126
+
+=== A0A7S9CLQ6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QPF81677.1};
+Bit Score: 146.0
+E-value: 0.01081
+Alignment Length: 103
+Percentage Identity: 0.126
+
+=== A0A4Q5TP09 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RYY51268.1};
+Bit Score: 140.0
+E-value: 0.01081
+Alignment Length: 64
+Percentage Identity: 0.265
+
+=== H1XTC4 ===
+DE   SubName: Full=BNR repeat-containing family member {ECO:0000313|EMBL:APF20313.1};
+Bit Score: 106.0
+E-value: 0.01278
+Alignment Length: 102
+Percentage Identity: 0.186
+
+=== A0A0R1R245 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KRL50430.1};
+Bit Score: 137.0
+E-value: 0.01351
+Alignment Length: 100
+Percentage Identity: 0.14
+
+=== A0A5S9M3D2 ===
+DE   RecName: Full=DUF3277 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 140.0
+E-value: 0.01428
+Alignment Length: 102
+Percentage Identity: 0.127
+
+=== A0A7G2JWG0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EFA27792.1};
+Bit Score: 148.0
+E-value: 0.01995
+Alignment Length: 77
+Percentage Identity: 0.194
+
+=== A0A1Y4CYM3 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 152.0
+E-value: 0.02231
+Alignment Length: 103
+Percentage Identity: 0.135
+
+=== A0A2U3F5G2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PWI82007.1};
+Bit Score: 148.0
+E-value: 0.02231
+Alignment Length: 82
+Percentage Identity: 0.097
+
+=== A0A0H3GKS0 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 142.0
+E-value: 0.02231
+Alignment Length: 103
+Percentage Identity: 0.116
+
+=== W8VH56 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AHM79901.1};
+Bit Score: 121.0
+E-value: 0.04118
+Alignment Length: 105
+Percentage Identity: 0.142
+
+=== N9LIC9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ENW95978.1};
+Bit Score: 89.0
+E-value: 0.04603
+Alignment Length: 139
+Percentage Identity: 0.136
+
+=== A0A345ECQ5 ===
+DE   SubName: Full=Phage tail protein {ECO:0000313|EMBL:AXG09977.1};
+Bit Score: 76.0
+E-value: 0.04603
+Alignment Length: 147
+Percentage Identity: 0.142
+

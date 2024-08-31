@@ -1,0 +1,4852 @@
+=== A0A2T5HIR4 ===
+DE   SubName: Full=Putative XRE-type DNA-binding protein {ECO:0000313|EMBL:PTQ71465.1};
+Bit Score: 424.0
+E-value: 1.056e-08
+Alignment Length: 92
+Percentage Identity: 0.565
+
+=== A0A3M5N5U2 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 430.0
+E-value: 1.471e-08
+Alignment Length: 93
+Percentage Identity: 0.634
+
+=== A0A2G0YS34 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PHN60082.1};
+Bit Score: 393.0
+E-value: 4.697e-08
+Alignment Length: 94
+Percentage Identity: 0.531
+
+=== A0A2A3MTA2 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PBN42719.1};
+Bit Score: 398.0
+E-value: 5.246e-08
+Alignment Length: 93
+Percentage Identity: 0.516
+
+=== A0A095AT59 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:KGB53352.1};
+Bit Score: 394.0
+E-value: 7.309e-08
+Alignment Length: 93
+Percentage Identity: 0.559
+
+=== A0A2G0W5Y7 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PHN28143.1};
+Bit Score: 384.0
+E-value: 7.309e-08
+Alignment Length: 92
+Percentage Identity: 0.51
+
+=== S2L6Y8 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 383.0
+E-value: 7.309e-08
+Alignment Length: 94
+Percentage Identity: 0.5
+
+=== J2PNW9 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 362.0
+E-value: 1.018e-07
+Alignment Length: 97
+Percentage Identity: 0.546
+
+=== A3JEB4 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 383.0
+E-value: 1.202e-07
+Alignment Length: 92
+Percentage Identity: 0.521
+
+=== A0A6G4W9R0 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NGO50976.1};
+Bit Score: 382.0
+E-value: 1.202e-07
+Alignment Length: 93
+Percentage Identity: 0.43
+
+=== A0A7Y7WWV3 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NWB88957.1};
+Bit Score: 368.0
+E-value: 1.202e-07
+Alignment Length: 98
+Percentage Identity: 0.51
+
+=== A0A423CVT9 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:ROL63462.1};
+Bit Score: 378.0
+E-value: 1.343e-07
+Alignment Length: 89
+Percentage Identity: 0.494
+
+=== A0A430FXN1 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RSY76276.1};
+Bit Score: 376.0
+E-value: 1.5e-07
+Alignment Length: 93
+Percentage Identity: 0.483
+
+=== A0A1Q8T576 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:OLO08831.1};
+Bit Score: 369.0
+E-value: 1.977e-07
+Alignment Length: 92
+Percentage Identity: 0.478
+
+=== A0A857GNL5 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:QHD48571.1};
+Bit Score: 368.0
+E-value: 2.208e-07
+Alignment Length: 93
+Percentage Identity: 0.483
+
+=== A0A2E9CSA4 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MBS90093.1};
+Bit Score: 369.0
+E-value: 2.466e-07
+Alignment Length: 93
+Percentage Identity: 0.473
+
+=== A0A0N0E3C6 ===
+DE   SubName: Full=Putative conserved small protein {ECO:0000313|EMBL:KPA89896.1};
+Bit Score: 360.0
+E-value: 2.755e-07
+Alignment Length: 97
+Percentage Identity: 0.494
+
+=== A0A7Y8UWR6 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NWN61042.1};
+Bit Score: 351.0
+E-value: 2.755e-07
+Alignment Length: 99
+Percentage Identity: 0.474
+
+=== A0A2T5GLA6 ===
+DE   SubName: Full=Putative XRE-type DNA-binding protein {ECO:0000313|EMBL:PTQ60113.1};
+Bit Score: 362.0
+E-value: 3.252e-07
+Alignment Length: 93
+Percentage Identity: 0.462
+
+=== A0A7Z7LR76 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 355.0
+E-value: 3.252e-07
+Alignment Length: 95
+Percentage Identity: 0.452
+
+=== A0A418WG28 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RJF88932.1};
+Bit Score: 360.0
+E-value: 3.436e-07
+Alignment Length: 93
+Percentage Identity: 0.473
+
+=== A0A6A7MD92 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:MPZ34511.1};
+Bit Score: 365.0
+E-value: 3.632e-07
+Alignment Length: 93
+Percentage Identity: 0.462
+
+=== A0A1M7MK87 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:SHM91267.1};
+Bit Score: 361.0
+E-value: 3.838e-07
+Alignment Length: 89
+Percentage Identity: 0.46
+
+=== A0A418VKQ2 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RJF76726.1};
+Bit Score: 357.0
+E-value: 4.788e-07
+Alignment Length: 91
+Percentage Identity: 0.461
+
+=== A0A1J0ET02 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 341.0
+E-value: 7.05e-07
+Alignment Length: 93
+Percentage Identity: 0.408
+
+=== A0A6B8MHL2 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:QGN00131.1};
+Bit Score: 352.0
+E-value: 7.451e-07
+Alignment Length: 93
+Percentage Identity: 0.408
+
+=== A0A2N3C0Y5 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PKP77377.1};
+Bit Score: 352.0
+E-value: 7.875e-07
+Alignment Length: 93
+Percentage Identity: 0.365
+
+=== A0A1G5SGV0 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|SMART:SM00530};
+Bit Score: 342.0
+E-value: 8.322e-07
+Alignment Length: 93
+Percentage Identity: 0.483
+
+=== A0A1F6T253 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:OGI39019.1};
+Bit Score: 343.0
+E-value: 8.795e-07
+Alignment Length: 93
+Percentage Identity: 0.43
+
+=== A0A495V2F5 ===
+DE   SubName: Full=Putative XRE-type DNA-binding protein {ECO:0000313|EMBL:RKT43611.1};
+Bit Score: 328.0
+E-value: 1.295e-06
+Alignment Length: 96
+Percentage Identity: 0.395
+
+=== A0A2K8U442 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:AUB80348.1};
+Bit Score: 335.0
+E-value: 1.369e-06
+Alignment Length: 92
+Percentage Identity: 0.456
+
+=== A0A1H7KIN8 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:SEK86659.1};
+Bit Score: 331.0
+E-value: 1.369e-06
+Alignment Length: 82
+Percentage Identity: 0.463
+
+=== A0A849R818 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NOS74317.1};
+Bit Score: 330.0
+E-value: 1.529e-06
+Alignment Length: 92
+Percentage Identity: 0.434
+
+=== A0A7I7SI39 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:OSC25226.1};
+Bit Score: 329.0
+E-value: 1.529e-06
+Alignment Length: 96
+Percentage Identity: 0.406
+
+=== A0A0F3IR52 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:KJV09092.1};
+Bit Score: 319.0
+E-value: 1.529e-06
+Alignment Length: 101
+Percentage Identity: 0.396
+
+=== A0A1I6MZZ8 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:SFS21269.1};
+Bit Score: 332.0
+E-value: 1.616e-06
+Alignment Length: 92
+Percentage Identity: 0.402
+
+=== A0A1F6TNG7 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:OGI46599.1};
+Bit Score: 328.0
+E-value: 1.616e-06
+Alignment Length: 93
+Percentage Identity: 0.473
+
+=== A0A521P062 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:TAJ64046.1};
+Bit Score: 324.0
+E-value: 1.616e-06
+Alignment Length: 95
+Percentage Identity: 0.463
+
+=== A0A1A2DGP3 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 315.0
+E-value: 1.707e-06
+Alignment Length: 92
+Percentage Identity: 0.456
+
+=== A0A3D4SYP8 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:HCT14382.1};
+Bit Score: 316.0
+E-value: 1.804e-06
+Alignment Length: 90
+Percentage Identity: 0.477
+
+=== A0A318T0E0 ===
+DE   SubName: Full=Putative XRE-type DNA-binding protein {ECO:0000313|EMBL:PYE78944.1};
+Bit Score: 338.0
+E-value: 1.907e-06
+Alignment Length: 88
+Percentage Identity: 0.465
+
+=== A0A2U3KR88 ===
+DE   SubName: Full=Transcriptional regulator, XRE family {ECO:0000313|EMBL:SPF42130.1};
+Bit Score: 322.0
+E-value: 1.907e-06
+Alignment Length: 92
+Percentage Identity: 0.38
+
+=== A0A7X6VK46 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NLB82749.1};
+DE   Flags: Fragment;
+Bit Score: 316.0
+E-value: 1.907e-06
+Alignment Length: 84
+Percentage Identity: 0.464
+
+=== A0A6N7H1H6 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MPZ40392.1};
+Bit Score: 328.0
+E-value: 2.251e-06
+Alignment Length: 93
+Percentage Identity: 0.387
+
+=== A0A2N9W4I1 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PIO46649.1};
+Bit Score: 320.0
+E-value: 2.379e-06
+Alignment Length: 92
+Percentage Identity: 0.423
+
+=== A0A532CT92 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:TKB66729.1};
+Bit Score: 325.0
+E-value: 2.514e-06
+Alignment Length: 87
+Percentage Identity: 0.436
+
+=== A0A2A7UK11 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PEH78670.1};
+Bit Score: 324.0
+E-value: 2.514e-06
+Alignment Length: 91
+Percentage Identity: 0.428
+
+=== A0A0A1H5I3 ===
+DE   SubName: Full=Xre family transcriptional regulator {ECO:0000313|EMBL:BAP88529.1};
+Bit Score: 320.0
+E-value: 2.514e-06
+Alignment Length: 93
+Percentage Identity: 0.44
+
+=== A0A138A176 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:KXP04182.1};
+Bit Score: 308.0
+E-value: 2.514e-06
+Alignment Length: 91
+Percentage Identity: 0.494
+
+=== A0A3G9GHE2 ===
+DE   SubName: Full=Helix-turn-helix motif {ECO:0000313|EMBL:BBF85512.1};
+Bit Score: 327.0
+E-value: 2.657e-06
+Alignment Length: 88
+Percentage Identity: 0.42
+
+=== A0A172QXY9 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 302.0
+E-value: 2.657e-06
+Alignment Length: 94
+Percentage Identity: 0.404
+
+=== A0A5C4KQS5 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:TNB90627.1};
+Bit Score: 318.0
+E-value: 2.968e-06
+Alignment Length: 81
+Percentage Identity: 0.481
+
+=== A0A679I6I9 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:BBU70045.1};
+Bit Score: 309.0
+E-value: 3.315e-06
+Alignment Length: 93
+Percentage Identity: 0.354
+
+=== A0A450U095 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:VFJ75730.1};
+Bit Score: 315.0
+E-value: 3.503e-06
+Alignment Length: 93
+Percentage Identity: 0.44
+
+=== A0A2T0QKN4 ===
+DE   SubName: Full=Putative XRE-type DNA-binding protein {ECO:0000313|EMBL:PRY04870.1};
+Bit Score: 313.0
+E-value: 3.503e-06
+Alignment Length: 94
+Percentage Identity: 0.425
+
+=== A0A519YXX2 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RZL01170.1};
+Bit Score: 309.0
+E-value: 3.503e-06
+Alignment Length: 94
+Percentage Identity: 0.404
+
+=== A0A434SJF7 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RUW30384.1};
+Bit Score: 299.0
+E-value: 3.503e-06
+Alignment Length: 88
+Percentage Identity: 0.443
+
+=== A0A7K0CZI6 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 315.0
+E-value: 3.702e-06
+Alignment Length: 92
+Percentage Identity: 0.391
+
+=== A0A7I9XMI4 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 313.0
+E-value: 3.913e-06
+Alignment Length: 93
+Percentage Identity: 0.397
+
+=== B1MNE7 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 319.0
+E-value: 4.618e-06
+Alignment Length: 82
+Percentage Identity: 0.475
+
+=== A0A4Q3FTG0 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RYE37365.1};
+Bit Score: 306.0
+E-value: 4.618e-06
+Alignment Length: 93
+Percentage Identity: 0.408
+
+=== A0A225TI00 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 299.0
+E-value: 5.158e-06
+Alignment Length: 96
+Percentage Identity: 0.364
+
+=== A0A829QBH6 ===
+DE   SubName: Full=Helix-turn-helix motif domain protein {ECO:0000313|EMBL:EUA60268.1};
+Bit Score: 316.0
+E-value: 5.452e-06
+Alignment Length: 82
+Percentage Identity: 0.475
+
+=== A0A380MLV2 ===
+DE   SubName: Full=Uncharacterized conserved small protein {ECO:0000313|EMBL:SUO93036.1};
+Bit Score: 309.0
+E-value: 5.452e-06
+Alignment Length: 90
+Percentage Identity: 0.377
+
+=== A0A853IQQ7 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NZA01195.1};
+Bit Score: 296.0
+E-value: 5.452e-06
+Alignment Length: 93
+Percentage Identity: 0.354
+
+=== A0A2V0MZQ1 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 294.0
+E-value: 5.452e-06
+Alignment Length: 98
+Percentage Identity: 0.438
+
+=== A0A534CJS8 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:TLY79394.1};
+Bit Score: 302.0
+E-value: 5.761e-06
+Alignment Length: 92
+Percentage Identity: 0.434
+
+=== A0A2N4Y9E5 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PLK72847.1};
+Bit Score: 309.0
+E-value: 6.435e-06
+Alignment Length: 82
+Percentage Identity: 0.487
+
+=== A0A379LL87 ===
+DE   SubName: Full=Uncharacterized conserved small protein {ECO:0000313|EMBL:SUD90895.1};
+Bit Score: 315.0
+E-value: 6.801e-06
+Alignment Length: 88
+Percentage Identity: 0.397
+
+=== A0A329MBH6 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RAV16992.1};
+Bit Score: 295.0
+E-value: 7.187e-06
+Alignment Length: 92
+Percentage Identity: 0.413
+
+=== L7KR61 ===
+DE   SubName: Full=Putative Xre family DNA-binding protein {ECO:0000313|EMBL:GAC51099.1};
+Bit Score: 317.0
+E-value: 7.596e-06
+Alignment Length: 84
+Percentage Identity: 0.428
+
+=== A0A3B0VJC6 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 306.0
+E-value: 7.596e-06
+Alignment Length: 88
+Percentage Identity: 0.34
+
+=== A0A257QPC1 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:OYV49851.1};
+Bit Score: 300.0
+E-value: 7.596e-06
+Alignment Length: 94
+Percentage Identity: 0.425
+
+=== A0A2P7AW56 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PSH58423.1};
+Bit Score: 300.0
+E-value: 7.596e-06
+Alignment Length: 92
+Percentage Identity: 0.391
+
+=== R4UGR0 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 310.0
+E-value: 8.484e-06
+Alignment Length: 86
+Percentage Identity: 0.441
+
+=== A0A7S6ZXZ7 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:QOW25685.1};
+Bit Score: 298.0
+E-value: 8.484e-06
+Alignment Length: 97
+Percentage Identity: 0.35
+
+=== A0A2N2TWH7 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PKO71766.1};
+Bit Score: 309.0
+E-value: 8.966e-06
+Alignment Length: 88
+Percentage Identity: 0.363
+
+=== A0A059XW29 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:AIA31098.1};
+Bit Score: 289.0
+E-value: 8.966e-06
+Alignment Length: 95
+Percentage Identity: 0.431
+
+=== A0A661SD44 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RLC09267.1};
+Bit Score: 302.0
+E-value: 9.476e-06
+Alignment Length: 93
+Percentage Identity: 0.333
+
+=== A0A1X0DET1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ORA70330.1};
+Bit Score: 300.0
+E-value: 9.476e-06
+Alignment Length: 87
+Percentage Identity: 0.425
+
+=== Q2S4T5 ===
+DE   SubName: Full=Helix-turn-helix domain protein {ECO:0000313|EMBL:ABC44571.1};
+Bit Score: 289.0
+E-value: 9.476e-06
+Alignment Length: 94
+Percentage Identity: 0.382
+
+=== A0A1Q8YK66 ===
+DE   SubName: Full=Helix-turn-helix motif domain protein {ECO:0000313|EMBL:OLP08438.1};
+Bit Score: 285.0
+E-value: 9.476e-06
+Alignment Length: 94
+Percentage Identity: 0.361
+
+=== A0A1G7A0X0 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:SDE08459.1};
+Bit Score: 296.0
+E-value: 1.001e-05
+Alignment Length: 92
+Percentage Identity: 0.347
+
+=== A0A7C4IAF1 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:HGO57842.1};
+Bit Score: 307.0
+E-value: 1.058e-05
+Alignment Length: 85
+Percentage Identity: 0.447
+
+=== A0A1G0GMT4 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:OGT38948.1};
+Bit Score: 299.0
+E-value: 1.058e-05
+Alignment Length: 94
+Percentage Identity: 0.372
+
+=== A0A1G3HN07 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 298.0
+E-value: 1.058e-05
+Alignment Length: 90
+Percentage Identity: 0.444
+
+=== A0A315D5P4 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 294.0
+E-value: 1.058e-05
+Alignment Length: 92
+Percentage Identity: 0.434
+
+=== A0A4Q4ASV6 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RYH57419.1};
+Bit Score: 294.0
+E-value: 1.058e-05
+Alignment Length: 94
+Percentage Identity: 0.329
+
+=== A0A1H5XP45 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:SEG13403.1};
+Bit Score: 301.0
+E-value: 1.118e-05
+Alignment Length: 87
+Percentage Identity: 0.436
+
+=== A0A838LW33 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MBA3033135.1};
+Bit Score: 295.0
+E-value: 1.118e-05
+Alignment Length: 93
+Percentage Identity: 0.419
+
+=== U7QT70 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 290.0
+E-value: 1.118e-05
+Alignment Length: 89
+Percentage Identity: 0.382
+
+=== A0A5A9XIS2 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:KAA0892573.1};
+Bit Score: 262.0
+E-value: 1.118e-05
+Alignment Length: 96
+Percentage Identity: 0.406
+
+=== A0A831UL56 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:HER34506.1};
+Bit Score: 299.0
+E-value: 1.182e-05
+Alignment Length: 91
+Percentage Identity: 0.428
+
+=== A0A261W9Y9 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:OZI82840.1};
+Bit Score: 296.0
+E-value: 1.182e-05
+Alignment Length: 91
+Percentage Identity: 0.45
+
+=== A0A6V8IAF4 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:GFE94057.1};
+Bit Score: 295.0
+E-value: 1.182e-05
+Alignment Length: 92
+Percentage Identity: 0.38
+
+=== A0A806CDZ3 ===
+DE   SubName: Full=Uncharacterized conserved small protein {ECO:0000313|EMBL:ADC33825.1};
+Bit Score: 289.0
+E-value: 1.182e-05
+Alignment Length: 92
+Percentage Identity: 0.369
+
+=== A0A1G3H1A9 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 284.0
+E-value: 1.249e-05
+Alignment Length: 95
+Percentage Identity: 0.431
+
+=== A0A5E7XP78 ===
+DE   SubName: Full=Xre family transcriptional regulator {ECO:0000313|EMBL:VVS96262.1};
+Bit Score: 305.0
+E-value: 1.32e-05
+Alignment Length: 89
+Percentage Identity: 0.426
+
+=== A0A1Q9VK79 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 293.0
+E-value: 1.32e-05
+Alignment Length: 90
+Percentage Identity: 0.366
+
+=== A0A1J5C888 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:OIP16362.1};
+Bit Score: 282.0
+E-value: 1.32e-05
+Alignment Length: 90
+Percentage Identity: 0.366
+
+=== A0A5C9CKL3 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 289.0
+E-value: 1.395e-05
+Alignment Length: 93
+Percentage Identity: 0.376
+
+=== A0A7C3LS95 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:HFT93385.1};
+Bit Score: 286.0
+E-value: 1.475e-05
+Alignment Length: 92
+Percentage Identity: 0.413
+
+=== A0A0C2I1B5 ===
+DE   SubName: Full=Helix-turn-helix motif {ECO:0000313|EMBL:KIH80710.1};
+Bit Score: 305.0
+E-value: 1.558e-05
+Alignment Length: 71
+Percentage Identity: 0.591
+
+=== A0A522VX47 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:TAN54983.1};
+DE   Flags: Fragment;
+Bit Score: 298.0
+E-value: 1.647e-05
+Alignment Length: 88
+Percentage Identity: 0.375
+
+=== A0A838WBZ0 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MBA4159369.1};
+Bit Score: 296.0
+E-value: 1.944e-05
+Alignment Length: 86
+Percentage Identity: 0.43
+
+=== A0A0J6VU75 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 282.0
+E-value: 1.944e-05
+Alignment Length: 88
+Percentage Identity: 0.477
+
+=== A0A7X4KXW1 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 282.0
+E-value: 2.055e-05
+Alignment Length: 93
+Percentage Identity: 0.387
+
+=== Q131Q0 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:ABE41189.1};
+Bit Score: 302.0
+E-value: 2.171e-05
+Alignment Length: 68
+Percentage Identity: 0.544
+
+=== A0A3R8R573 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:RRQ03988.1};
+Bit Score: 270.0
+E-value: 2.171e-05
+Alignment Length: 94
+Percentage Identity: 0.404
+
+=== A0A3N5PP40 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RPI57860.1};
+Bit Score: 269.0
+E-value: 2.171e-05
+Alignment Length: 98
+Percentage Identity: 0.346
+
+=== A0A7W9TRJ2 ===
+DE   SubName: Full=Putative XRE-type DNA-binding protein {ECO:0000313|EMBL:MBB6084242.1};
+Bit Score: 281.0
+E-value: 2.295e-05
+Alignment Length: 82
+Percentage Identity: 0.463
+
+=== A0A5N0HQI3 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:KAA8956169.1};
+Bit Score: 285.0
+E-value: 2.425e-05
+Alignment Length: 84
+Percentage Identity: 0.452
+
+=== A0A1I5L4T6 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:SFO92218.1};
+Bit Score: 277.0
+E-value: 2.425e-05
+Alignment Length: 93
+Percentage Identity: 0.301
+
+=== A0A1F9J9B4 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:OGQ64928.1};
+Bit Score: 274.0
+E-value: 2.425e-05
+Alignment Length: 94
+Percentage Identity: 0.319
+
+=== A0A2T2SQB4 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PSQ71090.1};
+Bit Score: 273.0
+E-value: 2.425e-05
+Alignment Length: 96
+Percentage Identity: 0.375
+
+=== A0A2T2TBI0 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PSQ78487.1};
+Bit Score: 265.0
+E-value: 2.425e-05
+Alignment Length: 96
+Percentage Identity: 0.333
+
+=== H6MS08 ===
+DE   SubName: Full=Putative DNA-binding protein {ECO:0000313|EMBL:AFA75021.1};
+Bit Score: 289.0
+E-value: 2.709e-05
+Alignment Length: 81
+Percentage Identity: 0.395
+
+=== A0A2G9ZVZ4 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PIP37304.1};
+Bit Score: 277.0
+E-value: 2.863e-05
+Alignment Length: 94
+Percentage Identity: 0.404
+
+=== A0A7Z0VKB2 ===
+DE   SubName: Full=Helix-turn-helix protein {ECO:0000313|EMBL:ODJ86886.1};
+Bit Score: 280.0
+E-value: 3.025e-05
+Alignment Length: 90
+Percentage Identity: 0.388
+
+=== A0A1J1JL68 ===
+DE   SubName: Full=Helix-turn-helix domain protein {ECO:0000313|EMBL:CUM61481.1};
+Bit Score: 268.0
+E-value: 3.025e-05
+Alignment Length: 94
+Percentage Identity: 0.34
+
+=== A0A2U3LT77 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 264.0
+E-value: 3.025e-05
+Alignment Length: 95
+Percentage Identity: 0.368
+
+=== A0A4S3KL41 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 275.0
+E-value: 3.197e-05
+Alignment Length: 91
+Percentage Identity: 0.329
+
+=== A0A1G1IH38 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:OGW67399.1};
+Bit Score: 272.0
+E-value: 3.774e-05
+Alignment Length: 89
+Percentage Identity: 0.404
+
+=== A0A418WUQ2 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:RJF94859.1};
+Bit Score: 290.0
+E-value: 3.989e-05
+Alignment Length: 69
+Percentage Identity: 0.449
+
+=== A0A1U7DDH3 ===
+DE   SubName: Full=Putative conserved small protein {ECO:0000313|EMBL:APX26110.1};
+Bit Score: 265.0
+E-value: 3.989e-05
+Alignment Length: 81
+Percentage Identity: 0.407
+
+=== A0A2V8Z6C2 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PYT80163.1};
+Bit Score: 263.0
+E-value: 3.989e-05
+Alignment Length: 92
+Percentage Identity: 0.391
+
+=== A0A1G5QJM5 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:SCZ61796.1};
+Bit Score: 269.0
+E-value: 4.455e-05
+Alignment Length: 88
+Percentage Identity: 0.363
+
+=== I5B2T7 ===
+DE   SubName: Full=Putative small protein {ECO:0000313|EMBL:EIM63800.1};
+Bit Score: 266.0
+E-value: 4.455e-05
+Alignment Length: 91
+Percentage Identity: 0.384
+
+=== A0A1D3K934 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 278.0
+E-value: 4.708e-05
+Alignment Length: 92
+Percentage Identity: 0.26
+
+=== A0A7C1XSG2 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:HEB94770.1};
+Bit Score: 265.0
+E-value: 4.708e-05
+Alignment Length: 86
+Percentage Identity: 0.372
+
+=== A0A2N1D321 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PKG95983.1};
+Bit Score: 262.0
+E-value: 4.708e-05
+Alignment Length: 88
+Percentage Identity: 0.386
+
+=== F7XBS6 ===
+DE   SubName: Full=Uncharacterized conserved small protein {ECO:0000313|EMBL:AEH81298.1};
+Bit Score: 287.0
+E-value: 4.976e-05
+Alignment Length: 69
+Percentage Identity: 0.463
+
+=== A0A7W8M7X4 ===
+DE   SubName: Full=Putative XRE-type DNA-binding protein {ECO:0000313|EMBL:MBB5271228.1};
+Bit Score: 285.0
+E-value: 4.976e-05
+Alignment Length: 86
+Percentage Identity: 0.511
+
+=== A0A754B351 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:HAF8581050.1};
+Bit Score: 259.0
+E-value: 5.258e-05
+Alignment Length: 92
+Percentage Identity: 0.336
+
+=== A0A2H3NHU6 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PEN04624.1};
+Bit Score: 257.0
+E-value: 5.258e-05
+Alignment Length: 91
+Percentage Identity: 0.351
+
+=== A0A1G0JDG3 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 271.0
+E-value: 5.557e-05
+Alignment Length: 85
+Percentage Identity: 0.4
+
+=== A0A353XVD1 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:HBH34718.1};
+DE   Flags: Fragment;
+Bit Score: 276.0
+E-value: 6.207e-05
+Alignment Length: 77
+Percentage Identity: 0.415
+
+=== A0A2V7I967 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PYO59216.1};
+Bit Score: 263.0
+E-value: 6.207e-05
+Alignment Length: 92
+Percentage Identity: 0.347
+
+=== A0A2V8Q0K3 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PYS65514.1};
+Bit Score: 262.0
+E-value: 6.207e-05
+Alignment Length: 94
+Percentage Identity: 0.393
+
+=== A0A2E2JA92 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 254.0
+E-value: 6.56e-05
+Alignment Length: 94
+Percentage Identity: 0.287
+
+=== A0A3C1XZW8 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:HAP26065.1};
+Bit Score: 237.0
+E-value: 6.56e-05
+Alignment Length: 92
+Percentage Identity: 0.369
+
+=== A0A2A5G0C7 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PCJ86503.1};
+Bit Score: 261.0
+E-value: 6.933e-05
+Alignment Length: 93
+Percentage Identity: 0.397
+
+=== A0A2T2SZV6 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PSQ74439.1};
+Bit Score: 263.0
+E-value: 7.327e-05
+Alignment Length: 90
+Percentage Identity: 0.311
+
+=== A0A534EH46 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:TLZ36543.1};
+Bit Score: 260.0
+E-value: 7.327e-05
+Alignment Length: 91
+Percentage Identity: 0.329
+
+=== A0A4Y3WGA5 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 270.0
+E-value: 7.743e-05
+Alignment Length: 88
+Percentage Identity: 0.34
+
+=== A0A2E4W702 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 254.0
+E-value: 9.14e-05
+Alignment Length: 91
+Percentage Identity: 0.318
+
+=== A0A844M651 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:MUG91548.1};
+Bit Score: 261.0
+E-value: 9.659e-05
+Alignment Length: 88
+Percentage Identity: 0.306
+
+=== A0A6L7SSN6 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+DE   Flags: Fragment;
+Bit Score: 261.0
+E-value: 0.0001021
+Alignment Length: 78
+Percentage Identity: 0.41
+
+=== A0A2T1G7J4 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PSB53219.1};
+Bit Score: 246.0
+E-value: 0.0001021
+Alignment Length: 94
+Percentage Identity: 0.329
+
+=== A0A1T2L5D1 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 246.0
+E-value: 0.0001021
+Alignment Length: 93
+Percentage Identity: 0.322
+
+=== A0A1F4AHQ1 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+DE   Flags: Fragment;
+Bit Score: 235.0
+E-value: 0.0001021
+Alignment Length: 83
+Percentage Identity: 0.566
+
+=== A0A3B0ZW02 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 265.0
+E-value: 0.0001079
+Alignment Length: 78
+Percentage Identity: 0.397
+
+=== A0A661EXQ2 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RLA16627.1};
+DE   Flags: Fragment;
+Bit Score: 259.0
+E-value: 0.0001079
+Alignment Length: 85
+Percentage Identity: 0.364
+
+=== A0A285Z3C8 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:SOD04191.1};
+Bit Score: 224.0
+E-value: 0.0001079
+Alignment Length: 102
+Percentage Identity: 0.343
+
+=== A0A2V6X5S6 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PYM29233.1};
+Bit Score: 259.0
+E-value: 0.000114
+Alignment Length: 87
+Percentage Identity: 0.333
+
+=== A0A841GN55 ===
+DE   SubName: Full=Putative XRE-type DNA-binding protein {ECO:0000313|EMBL:MBB6070067.1};
+Bit Score: 247.0
+E-value: 0.000114
+Alignment Length: 93
+Percentage Identity: 0.344
+
+=== A0A368NMC4 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:KAA3518267.1};
+Bit Score: 242.0
+E-value: 0.000114
+Alignment Length: 93
+Percentage Identity: 0.322
+
+=== A0A1Q7BL62 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 257.0
+E-value: 0.0001205
+Alignment Length: 78
+Percentage Identity: 0.333
+
+=== A0A2A4UEA0 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PCI44136.1};
+Bit Score: 249.0
+E-value: 0.0001205
+Alignment Length: 90
+Percentage Identity: 0.333
+
+=== A0A6B0XEF0 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 248.0
+E-value: 0.0001205
+Alignment Length: 90
+Percentage Identity: 0.322
+
+=== A0A7V8DN81 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:KAF0184283.1};
+Bit Score: 249.0
+E-value: 0.0001273
+Alignment Length: 92
+Percentage Identity: 0.315
+
+=== A0A0N0XLA9 ===
+DE   SubName: Full=Helix-turn-helix protein {ECO:0000313|EMBL:KPC55047.1};
+Bit Score: 248.0
+E-value: 0.0001273
+Alignment Length: 97
+Percentage Identity: 0.298
+
+=== I3UXH0 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 236.0
+E-value: 0.0001273
+Alignment Length: 93
+Percentage Identity: 0.376
+
+=== A0A656HDP1 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 250.0
+E-value: 0.0001346
+Alignment Length: 97
+Percentage Identity: 0.34
+
+=== A0A2G4F0J8 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PHX55280.1};
+Bit Score: 250.0
+E-value: 0.0001346
+Alignment Length: 91
+Percentage Identity: 0.329
+
+=== A0A1H4QPK6 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:SEC21471.1};
+Bit Score: 240.0
+E-value: 0.0001346
+Alignment Length: 92
+Percentage Identity: 0.293
+
+=== A0A7K0CW82 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|SMART:SM00530};
+Bit Score: 256.0
+E-value: 0.0001422
+Alignment Length: 88
+Percentage Identity: 0.318
+
+=== A0A849RTK8 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NOS80608.1};
+Bit Score: 241.0
+E-value: 0.0001422
+Alignment Length: 94
+Percentage Identity: 0.351
+
+=== A0A2C9T0U1 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 238.0
+E-value: 0.0001503
+Alignment Length: 87
+Percentage Identity: 0.367
+
+=== A0A523P7N7 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:TDJ66328.1};
+DE   Flags: Fragment;
+Bit Score: 260.0
+E-value: 0.0001679
+Alignment Length: 78
+Percentage Identity: 0.384
+
+=== A0A068VN08 ===
+DE   SubName: Full=DH200=94 genomic scaffold, scaffold_9048 {ECO:0000313|EMBL:CDP22012.1};
+Bit Score: 258.0
+E-value: 0.0001679
+Alignment Length: 70
+Percentage Identity: 0.485
+
+=== A0A5Q0BG84 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:QFY42865.1};
+Bit Score: 244.0
+E-value: 0.0001774
+Alignment Length: 93
+Percentage Identity: 0.322
+
+=== A0A2U8XDF2 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:AWN55791.1};
+Bit Score: 240.0
+E-value: 0.0001774
+Alignment Length: 68
+Percentage Identity: 0.5
+
+=== A0A3R8N9N2 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RRN43599.1};
+Bit Score: 259.0
+E-value: 0.0001875
+Alignment Length: 68
+Percentage Identity: 0.47
+
+=== A0A377G8V3 ===
+DE   SubName: Full=Uncharacterized conserved small protein {ECO:0000313|EMBL:STO20900.1};
+Bit Score: 234.0
+E-value: 0.0001875
+Alignment Length: 90
+Percentage Identity: 0.366
+
+=== A0A7V4XS91 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:HGY94269.1};
+Bit Score: 233.0
+E-value: 0.0001875
+Alignment Length: 93
+Percentage Identity: 0.311
+
+=== A0A255Z6N0 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 249.0
+E-value: 0.0001982
+Alignment Length: 94
+Percentage Identity: 0.276
+
+=== A0A3D4Z4L0 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:HCU25583.1};
+DE   Flags: Fragment;
+Bit Score: 246.0
+E-value: 0.0001982
+Alignment Length: 86
+Percentage Identity: 0.348
+
+=== A0A7X6X0I7 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NLC37350.1};
+Bit Score: 245.0
+E-value: 0.0002339
+Alignment Length: 91
+Percentage Identity: 0.329
+
+=== A0A1W9KPY2 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:OQW86221.1};
+Bit Score: 233.0
+E-value: 0.0002339
+Alignment Length: 90
+Percentage Identity: 0.333
+
+=== A0A441TND1 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RWK45013.1};
+Bit Score: 223.0
+E-value: 0.0002339
+Alignment Length: 92
+Percentage Identity: 0.293
+
+=== A0A3B0UGC6 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 215.0
+E-value: 0.0002472
+Alignment Length: 94
+Percentage Identity: 0.34
+
+=== A0A6G6X176 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:QIG51053.1};
+Bit Score: 233.0
+E-value: 0.0002761
+Alignment Length: 85
+Percentage Identity: 0.27
+
+=== A0A496W7L9 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:RKZ88782.1};
+Bit Score: 244.0
+E-value: 0.0002918
+Alignment Length: 84
+Percentage Identity: 0.369
+
+=== A0A3B0WZ18 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 233.0
+E-value: 0.0002918
+Alignment Length: 81
+Percentage Identity: 0.358
+
+=== A0A420CXT5 ===
+DE   SubName: Full=Putative XRE-type DNA-binding protein {ECO:0000313|EMBL:RKE83274.1};
+Bit Score: 229.0
+E-value: 0.0002918
+Alignment Length: 90
+Percentage Identity: 0.333
+
+=== A0A2T9ZM86 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|SMART:SM00530};
+Bit Score: 219.0
+E-value: 0.0002918
+Alignment Length: 98
+Percentage Identity: 0.357
+
+=== A0A5N8UNS7 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MPY24457.1};
+Bit Score: 231.0
+E-value: 0.0003084
+Alignment Length: 81
+Percentage Identity: 0.358
+
+=== A0A2Z5G9W2 ===
+DE   SubName: Full=Helix-turn-helix motif {ECO:0000313|EMBL:AXC16023.1};
+Bit Score: 223.0
+E-value: 0.0003084
+Alignment Length: 97
+Percentage Identity: 0.247
+
+=== A0A1F3ZFQ5 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:OFZ98684.1};
+Bit Score: 233.0
+E-value: 0.0003259
+Alignment Length: 91
+Percentage Identity: 0.318
+
+=== A0A849RPZ8 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NOS79764.1};
+Bit Score: 232.0
+E-value: 0.0003259
+Alignment Length: 93
+Percentage Identity: 0.301
+
+=== D5H6L1 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 231.0
+E-value: 0.0003259
+Alignment Length: 93
+Percentage Identity: 0.376
+
+=== A0A522A1B2 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:TAK99133.1};
+Bit Score: 225.0
+E-value: 0.0003259
+Alignment Length: 87
+Percentage Identity: 0.287
+
+=== A0A6A7Y5T6 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MQT13052.1};
+Bit Score: 205.0
+E-value: 0.0003259
+Alignment Length: 91
+Percentage Identity: 0.417
+
+=== A0A2T1C9T3 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PSB04928.1};
+Bit Score: 239.0
+E-value: 0.0003445
+Alignment Length: 89
+Percentage Identity: 0.314
+
+=== A0A1Z3HSV4 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 249.0
+E-value: 0.000364
+Alignment Length: 75
+Percentage Identity: 0.333
+
+=== A0A0P0MFR3 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 237.0
+E-value: 0.000364
+Alignment Length: 89
+Percentage Identity: 0.224
+
+=== A0A3L7T0U5 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RLS87094.1};
+Bit Score: 222.0
+E-value: 0.000364
+Alignment Length: 98
+Percentage Identity: 0.367
+
+=== A0A532CB62 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:TKB60835.1};
+Bit Score: 221.0
+E-value: 0.000364
+Alignment Length: 93
+Percentage Identity: 0.311
+
+=== A0A1Q7IWG7 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:OLC67965.1};
+DE   Flags: Fragment;
+Bit Score: 245.0
+E-value: 0.0003847
+Alignment Length: 76
+Percentage Identity: 0.447
+
+=== A0A836SIR4 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:HIE02482.1};
+Bit Score: 229.0
+E-value: 0.0003847
+Alignment Length: 92
+Percentage Identity: 0.315
+
+=== A0A2T2TLT1 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PSQ82111.1};
+Bit Score: 216.0
+E-value: 0.0003847
+Alignment Length: 95
+Percentage Identity: 0.315
+
+=== A0A0P4UQT9 ===
+DE   SubName: Full=Helix-turn-helix domain protein {ECO:0000313|EMBL:GAP93652.1};
+Bit Score: 243.0
+E-value: 0.0004066
+Alignment Length: 89
+Percentage Identity: 0.325
+
+=== A0A5U5WST5 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:EBQ7318286.1};
+DE   Flags: Fragment;
+Bit Score: 228.0
+E-value: 0.0004066
+Alignment Length: 88
+Percentage Identity: 0.261
+
+=== A0A2S4HKD6 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:POP54457.1};
+Bit Score: 239.0
+E-value: 0.0004541
+Alignment Length: 78
+Percentage Identity: 0.41
+
+=== A0A1F4LW91 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 238.0
+E-value: 0.0004541
+Alignment Length: 74
+Percentage Identity: 0.378
+
+=== A0A2W4HQB3 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PZM77152.1};
+Bit Score: 236.0
+E-value: 0.0004541
+Alignment Length: 83
+Percentage Identity: 0.301
+
+=== A0A3B0X306 ===
+DE   SubName: Full=Helix-turn-helix motif {ECO:0000313|EMBL:VAW51026.1};
+Bit Score: 224.0
+E-value: 0.0004541
+Alignment Length: 80
+Percentage Identity: 0.375
+
+=== A0A3B0X379 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 221.0
+E-value: 0.0004541
+Alignment Length: 96
+Percentage Identity: 0.333
+
+=== A0A2N6G830 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PLY11727.1};
+Bit Score: 222.0
+E-value: 0.0004799
+Alignment Length: 81
+Percentage Identity: 0.358
+
+=== A0A1W9ILZ4 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 221.0
+E-value: 0.0005072
+Alignment Length: 94
+Percentage Identity: 0.297
+
+=== A0A3S4KW51 ===
+DE   SubName: Full=Putative DNA-binding protein {ECO:0000313|EMBL:VED14873.1};
+Bit Score: 219.0
+E-value: 0.0005072
+Alignment Length: 82
+Percentage Identity: 0.378
+
+=== A0A366CXP4 ===
+DE   SubName: Full=Putative XRE-type DNA-binding protein {ECO:0000313|EMBL:RBO82607.1};
+Bit Score: 219.0
+E-value: 0.0005072
+Alignment Length: 80
+Percentage Identity: 0.275
+
+=== A0A6M1ZCF2 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 207.0
+E-value: 0.0005072
+Alignment Length: 94
+Percentage Identity: 0.276
+
+=== A0A2I1DJA0 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PKY09942.1};
+Bit Score: 202.0
+E-value: 0.0005072
+Alignment Length: 97
+Percentage Identity: 0.319
+
+=== A0A6V7FJ13 ===
+DE   SubName: Full=PtxR {ECO:0000313|EMBL:CAD0362955.1};
+Bit Score: 220.0
+E-value: 0.0005361
+Alignment Length: 81
+Percentage Identity: 0.296
+
+=== A0A2V7HKD6 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 237.0
+E-value: 0.0005665
+Alignment Length: 75
+Percentage Identity: 0.306
+
+=== A0A525W4B1 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:THJ18445.1};
+Bit Score: 233.0
+E-value: 0.0005665
+Alignment Length: 81
+Percentage Identity: 0.333
+
+=== A0A2E2J8H1 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 230.0
+E-value: 0.0005665
+Alignment Length: 89
+Percentage Identity: 0.28
+
+=== Q82UU7 ===
+DE   SubName: Full=Helix-turn-helix motif {ECO:0000313|EMBL:CAD85286.1};
+Bit Score: 226.0
+E-value: 0.0005987
+Alignment Length: 85
+Percentage Identity: 0.329
+
+=== A0A7K4ELJ0 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NNJ18475.1};
+Bit Score: 206.0
+E-value: 0.0005987
+Alignment Length: 88
+Percentage Identity: 0.318
+
+=== A0A2E1BAX8 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:MAU22084.1};
+Bit Score: 209.0
+E-value: 0.0006327
+Alignment Length: 91
+Percentage Identity: 0.34
+
+=== A0A451CLC7 ===
+DE   SubName: Full=Transcriptional regulator, XRE family {ECO:0000313|EMBL:VFN03133.1};
+Bit Score: 220.0
+E-value: 0.0006687
+Alignment Length: 90
+Percentage Identity: 0.277
+
+=== A0A517MR09 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 215.0
+E-value: 0.0006687
+Alignment Length: 97
+Percentage Identity: 0.247
+
+=== A0A256FQX7 ===
+DE   SubName: Full=Helix-turn-helix family protein {ECO:0000313|EMBL:OYR16841.1};
+Bit Score: 214.0
+E-value: 0.0006687
+Alignment Length: 81
+Percentage Identity: 0.271
+
+=== A0A6J4K6F8 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 208.0
+E-value: 0.0006687
+Alignment Length: 83
+Percentage Identity: 0.349
+
+=== C5B6N5 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 204.0
+E-value: 0.0006687
+Alignment Length: 93
+Percentage Identity: 0.236
+
+=== A0A3B0XLK4 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 220.0
+E-value: 0.0007067
+Alignment Length: 97
+Percentage Identity: 0.298
+
+=== A0A1D9GYA0 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 236.0
+E-value: 0.0007469
+Alignment Length: 77
+Percentage Identity: 0.285
+
+=== A0A3B0ZH37 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 216.0
+E-value: 0.0007469
+Alignment Length: 79
+Percentage Identity: 0.392
+
+=== A0A7W8II36 ===
+DE   SubName: Full=Putative XRE-type DNA-binding protein {ECO:0000313|EMBL:MBB5317551.1};
+Bit Score: 220.0
+E-value: 0.0007893
+Alignment Length: 89
+Percentage Identity: 0.292
+
+=== A0A1F7FXL8 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 205.0
+E-value: 0.0007893
+Alignment Length: 94
+Percentage Identity: 0.351
+
+=== A0A1Z5HBQ6 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 209.0
+E-value: 0.0008342
+Alignment Length: 80
+Percentage Identity: 0.3
+
+=== A0A836Q2L7 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:HIA51751.1};
+Bit Score: 234.0
+E-value: 0.0008816
+Alignment Length: 76
+Percentage Identity: 0.302
+
+=== A0A370L073 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RDJ20252.1};
+Bit Score: 228.0
+E-value: 0.0008816
+Alignment Length: 71
+Percentage Identity: 0.422
+
+=== A0A2T7VMS1 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 225.0
+E-value: 0.0008816
+Alignment Length: 78
+Percentage Identity: 0.282
+
+=== A0A679HN42 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:BCA54920.1};
+Bit Score: 217.0
+E-value: 0.0008816
+Alignment Length: 93
+Percentage Identity: 0.301
+
+=== Q1II50 ===
+DE   SubName: Full=Transcriptional regulator, XRE family {ECO:0000313|EMBL:ABF43450.1};
+Bit Score: 217.0
+E-value: 0.0008816
+Alignment Length: 93
+Percentage Identity: 0.236
+
+=== A0A2G2GRI0 ===
+DE   RecName: Full=Transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 210.0
+E-value: 0.0008816
+Alignment Length: 92
+Percentage Identity: 0.293
+
+=== A0A6I5NMC7 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NEQ43775.1};
+Bit Score: 204.0
+E-value: 0.0008816
+Alignment Length: 92
+Percentage Identity: 0.315
+
+=== A0A3P3ZPG2 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 187.0
+E-value: 0.0008816
+Alignment Length: 101
+Percentage Identity: 0.227
+
+=== A0A1F2VBM6 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 220.0
+E-value: 0.0009317
+Alignment Length: 93
+Percentage Identity: 0.258
+
+=== A0A240UEP6 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|SMART:SM00530};
+Bit Score: 219.0
+E-value: 0.0009317
+Alignment Length: 72
+Percentage Identity: 0.416
+
+=== A0A022PFH1 ===
+DE   SubName: Full=Putative conserved small protein {ECO:0000313|EMBL:EYU14902.1};
+Bit Score: 215.0
+E-value: 0.0009317
+Alignment Length: 80
+Percentage Identity: 0.3
+
+=== A0A6J4LR46 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 203.0
+E-value: 0.0009317
+Alignment Length: 91
+Percentage Identity: 0.329
+
+=== A0A3C0N4Y0 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:HAJ59561.1};
+Bit Score: 221.0
+E-value: 0.0009847
+Alignment Length: 77
+Percentage Identity: 0.298
+
+=== I4VJT6 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 212.0
+E-value: 0.0009847
+Alignment Length: 70
+Percentage Identity: 0.428
+
+=== A0A0U1DJ44 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 200.0
+E-value: 0.0009847
+Alignment Length: 93
+Percentage Identity: 0.311
+
+=== A0A2G2JY71 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PHS03281.1};
+Bit Score: 198.0
+E-value: 0.0009847
+Alignment Length: 96
+Percentage Identity: 0.27
+
+=== A1VKY3 ===
+DE   SubName: Full=Uncharacterized conserved small protein-like protein {ECO:0000313|EMBL:ABM36311.1};
+Bit Score: 184.0
+E-value: 0.0009847
+Alignment Length: 103
+Percentage Identity: 0.271
+
+=== A0A439SV71 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 176.0
+E-value: 0.0009847
+Alignment Length: 95
+Percentage Identity: 0.284
+
+=== A0A7X9IIC1 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NMC50488.1};
+Bit Score: 189.0
+E-value: 0.001041
+Alignment Length: 93
+Percentage Identity: 0.301
+
+=== A0A6J4MUU1 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|SMART:SM00530};
+Bit Score: 223.0
+E-value: 0.0011
+Alignment Length: 75
+Percentage Identity: 0.28
+
+=== A0A2D6IUE2 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:MAF83038.1};
+Bit Score: 218.0
+E-value: 0.0011
+Alignment Length: 88
+Percentage Identity: 0.295
+
+=== A0A3D5EJD9 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:HCV03570.1};
+Bit Score: 211.0
+E-value: 0.0011
+Alignment Length: 82
+Percentage Identity: 0.292
+
+=== X6EPX4 ===
+DE   SubName: Full=Membrane protein {ECO:0000313|EMBL:ESY90494.1};
+Bit Score: 210.0
+E-value: 0.0011
+Alignment Length: 80
+Percentage Identity: 0.275
+
+=== A0A0F4TSK2 ===
+DE   SubName: Full=Cro/Cl family transcriptional regulator {ECO:0000313|EMBL:KJZ46965.1};
+Bit Score: 208.0
+E-value: 0.0011
+Alignment Length: 81
+Percentage Identity: 0.333
+
+=== A0A0C3R3K2 ===
+DE   SubName: Full=Cro/Cl family transcriptional regulator {ECO:0000313|EMBL:KIO38406.1};
+Bit Score: 205.0
+E-value: 0.0011
+Alignment Length: 81
+Percentage Identity: 0.296
+
+=== A0A2V8WWK7 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PYT52157.1};
+Bit Score: 203.0
+E-value: 0.0011
+Alignment Length: 92
+Percentage Identity: 0.26
+
+=== A0A2D8B9Z7 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:MAL03000.1};
+Bit Score: 214.0
+E-value: 0.001162
+Alignment Length: 91
+Percentage Identity: 0.285
+
+=== A0A523PME0 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:TDJ71509.1};
+Bit Score: 212.0
+E-value: 0.001162
+Alignment Length: 89
+Percentage Identity: 0.303
+
+=== A3YC29 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 210.0
+E-value: 0.001162
+Alignment Length: 81
+Percentage Identity: 0.234
+
+=== A0A7L5A7H3 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:QHN03411.1};
+Bit Score: 204.0
+E-value: 0.001162
+Alignment Length: 94
+Percentage Identity: 0.244
+
+=== A0A2A4XKD4 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PCI82751.1};
+Bit Score: 191.0
+E-value: 0.001162
+Alignment Length: 96
+Percentage Identity: 0.26
+
+=== A0A271IZI9 ===
+DE   RecName: Full=histidine kinase {ECO:0000256|ARBA:ARBA00012438};
+DE            EC=2.7.13.3 {ECO:0000256|ARBA:ARBA00012438};
+Bit Score: 185.0
+E-value: 0.001162
+Alignment Length: 80
+Percentage Identity: 0.412
+
+=== A0A537KC00 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:TMI93297.1};
+Bit Score: 230.0
+E-value: 0.001228
+Alignment Length: 68
+Percentage Identity: 0.382
+
+=== A0A7X7JD03 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NLE73045.1};
+Bit Score: 215.0
+E-value: 0.001228
+Alignment Length: 75
+Percentage Identity: 0.306
+
+=== A0A2T6MZ93 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 216.0
+E-value: 0.001298
+Alignment Length: 84
+Percentage Identity: 0.273
+
+=== A0A1G0GQT8 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 212.0
+E-value: 0.001298
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== A0A4Y5Z758 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:QDE40068.1};
+Bit Score: 210.0
+E-value: 0.001298
+Alignment Length: 83
+Percentage Identity: 0.253
+
+=== A0A1F3YHU7 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 190.0
+E-value: 0.001298
+Alignment Length: 98
+Percentage Identity: 0.255
+
+=== A0A1G1PIS5 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 189.0
+E-value: 0.001298
+Alignment Length: 94
+Percentage Identity: 0.287
+
+=== A0A261TM57 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 209.0
+E-value: 0.001372
+Alignment Length: 82
+Percentage Identity: 0.414
+
+=== A0A7V8AAY7 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:KAF0113756.1};
+Bit Score: 209.0
+E-value: 0.001372
+Alignment Length: 82
+Percentage Identity: 0.317
+
+=== M1FKL1 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 202.0
+E-value: 0.001372
+Alignment Length: 91
+Percentage Identity: 0.285
+
+=== A0A6L7QKB9 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MYA23666.1};
+Bit Score: 195.0
+E-value: 0.001372
+Alignment Length: 89
+Percentage Identity: 0.269
+
+=== A0A257FVR8 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:OYU30015.1};
+Bit Score: 192.0
+E-value: 0.001372
+Alignment Length: 90
+Percentage Identity: 0.277
+
+=== A0A4R8HYW0 ===
+DE   SubName: Full=Putative XRE-type DNA-binding protein {ECO:0000313|EMBL:TDX66548.1};
+Bit Score: 184.0
+E-value: 0.001372
+Alignment Length: 85
+Percentage Identity: 0.294
+
+=== A0A2G8TDX2 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 216.0
+E-value: 0.00145
+Alignment Length: 78
+Percentage Identity: 0.294
+
+=== A0A1G0JD43 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+DE   Flags: Fragment;
+Bit Score: 211.0
+E-value: 0.00145
+Alignment Length: 71
+Percentage Identity: 0.366
+
+=== A0A0U0ZTV3 ===
+DE   SubName: Full=Uncharacterized conserved small protein {ECO:0000313|EMBL:CPV66279.1};
+Bit Score: 207.0
+E-value: 0.00145
+Alignment Length: 82
+Percentage Identity: 0.243
+
+=== X1D503 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 204.0
+E-value: 0.00145
+Alignment Length: 85
+Percentage Identity: 0.247
+
+=== A0A496A664 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:RKU21958.1};
+Bit Score: 203.0
+E-value: 0.00145
+Alignment Length: 93
+Percentage Identity: 0.258
+
+=== A0A248JX64 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:ASG23307.1};
+Bit Score: 193.0
+E-value: 0.00145
+Alignment Length: 97
+Percentage Identity: 0.247
+
+=== A0A7Y0H7D7 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NMM36233.1};
+Bit Score: 219.0
+E-value: 0.001532
+Alignment Length: 81
+Percentage Identity: 0.32
+
+=== A0A6M2A621 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 208.0
+E-value: 0.001532
+Alignment Length: 77
+Percentage Identity: 0.35
+
+=== A0A7W1L0C5 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MBA3767542.1};
+Bit Score: 201.0
+E-value: 0.001532
+Alignment Length: 87
+Percentage Identity: 0.252
+
+=== A0A5H5ZGY2 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:EBX7357058.1};
+Bit Score: 183.0
+E-value: 0.001532
+Alignment Length: 95
+Percentage Identity: 0.284
+
+=== A0A2V8JDX0 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PYR97808.1};
+Bit Score: 197.0
+E-value: 0.001712
+Alignment Length: 82
+Percentage Identity: 0.243
+
+=== A0A5C8INR9 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:TXK23403.1};
+Bit Score: 201.0
+E-value: 0.001809
+Alignment Length: 78
+Percentage Identity: 0.256
+
+=== B8FLH4 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 197.0
+E-value: 0.001809
+Alignment Length: 82
+Percentage Identity: 0.28
+
+=== A0A1M6QWI1 ===
+DE   SubName: Full=Transcriptional regulator, XRE family {ECO:0000313|EMBL:SHK24536.1};
+Bit Score: 189.0
+E-value: 0.001809
+Alignment Length: 85
+Percentage Identity: 0.305
+
+=== A0A7W1CJT1 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MBA3604130.1};
+Bit Score: 186.0
+E-value: 0.001809
+Alignment Length: 97
+Percentage Identity: 0.278
+
+=== A0A3V4QAC9 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:HAF0804474.1};
+Bit Score: 180.0
+E-value: 0.001809
+Alignment Length: 95
+Percentage Identity: 0.294
+
+=== A0A3N5QIK4 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RPI73318.1};
+DE   Flags: Fragment;
+Bit Score: 213.0
+E-value: 0.001912
+Alignment Length: 78
+Percentage Identity: 0.32
+
+=== A0A4P5Z176 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 203.0
+E-value: 0.001912
+Alignment Length: 74
+Percentage Identity: 0.364
+
+=== A0A850AI37 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NUQ44298.1};
+Bit Score: 199.0
+E-value: 0.001912
+Alignment Length: 82
+Percentage Identity: 0.256
+
+=== A0A523L8A0 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:TDJ29842.1};
+Bit Score: 195.0
+E-value: 0.001912
+Alignment Length: 95
+Percentage Identity: 0.294
+
+=== A0A1G8WDV6 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:SDJ76519.1};
+Bit Score: 194.0
+E-value: 0.001912
+Alignment Length: 95
+Percentage Identity: 0.263
+
+=== A0A2T1GJH4 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PSB57959.1};
+Bit Score: 186.0
+E-value: 0.001912
+Alignment Length: 94
+Percentage Identity: 0.255
+
+=== A0A1I7BXY8 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:SFT92030.1};
+Bit Score: 183.0
+E-value: 0.001912
+Alignment Length: 89
+Percentage Identity: 0.292
+
+=== A0A3Z3KA86 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:ECT1904706.1};
+Bit Score: 179.0
+E-value: 0.001912
+Alignment Length: 95
+Percentage Identity: 0.294
+
+=== A0A136JTY7 ===
+DE   SubName: Full=Helix-turn-helix domain containing protein {ECO:0000313|EMBL:KXK00589.1};
+Bit Score: 216.0
+E-value: 0.00202
+Alignment Length: 74
+Percentage Identity: 0.337
+
+=== A0A7K3NL20 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NDY56898.1};
+Bit Score: 211.0
+E-value: 0.00202
+Alignment Length: 73
+Percentage Identity: 0.342
+
+=== A0A2G2GBM1 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PHR58738.1};
+Bit Score: 199.0
+E-value: 0.00202
+Alignment Length: 94
+Percentage Identity: 0.255
+
+=== A0A2M7MRA1 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PIX95590.1};
+Bit Score: 198.0
+E-value: 0.00202
+Alignment Length: 75
+Percentage Identity: 0.293
+
+=== A0A7C1WJU5 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:HED04228.1};
+Bit Score: 197.0
+E-value: 0.00202
+Alignment Length: 83
+Percentage Identity: 0.265
+
+=== A0A271IVM2 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 195.0
+E-value: 0.00202
+Alignment Length: 89
+Percentage Identity: 0.337
+
+=== W4LJ42 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 194.0
+E-value: 0.00202
+Alignment Length: 83
+Percentage Identity: 0.216
+
+=== A0A7X4CN71 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MYF99498.1};
+Bit Score: 190.0
+E-value: 0.00202
+Alignment Length: 93
+Percentage Identity: 0.268
+
+=== A0A4Q3WX14 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RYG65416.1};
+Bit Score: 175.0
+E-value: 0.00202
+Alignment Length: 103
+Percentage Identity: 0.242
+
+=== A0A2G2LQR0 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PHS24247.1};
+Bit Score: 170.0
+E-value: 0.00202
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== A0A3V7KUA9 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:ECS8478578.1};
+Bit Score: 204.0
+E-value: 0.002135
+Alignment Length: 81
+Percentage Identity: 0.333
+
+=== A0A522GUE3 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:TAL82581.1};
+Bit Score: 197.0
+E-value: 0.002135
+Alignment Length: 92
+Percentage Identity: 0.347
+
+=== A0A7C4VKF7 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:HGY14562.1};
+Bit Score: 186.0
+E-value: 0.002135
+Alignment Length: 94
+Percentage Identity: 0.255
+
+=== A0A1Q8QU39 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:OLN30869.1};
+Bit Score: 177.0
+E-value: 0.002135
+Alignment Length: 97
+Percentage Identity: 0.329
+
+=== A0A0S8GS74 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:KPK75147.1};
+Bit Score: 201.0
+E-value: 0.002256
+Alignment Length: 74
+Percentage Identity: 0.297
+
+=== A0A495Z0D8 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:RKU07810.1};
+Bit Score: 201.0
+E-value: 0.002256
+Alignment Length: 74
+Percentage Identity: 0.283
+
+=== A0A1G3IQL0 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+DE   Flags: Fragment;
+Bit Score: 196.0
+E-value: 0.002256
+Alignment Length: 75
+Percentage Identity: 0.32
+
+=== A0A0M2VLL9 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 189.0
+E-value: 0.002256
+Alignment Length: 82
+Percentage Identity: 0.256
+
+=== A0A1G2BVS2 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 183.0
+E-value: 0.002256
+Alignment Length: 97
+Percentage Identity: 0.257
+
+=== E6PPZ2 ===
+DE   SubName: Full=Transcriptional regulator, XRE family {ECO:0000313|EMBL:CBH96995.1};
+Bit Score: 182.0
+E-value: 0.002256
+Alignment Length: 93
+Percentage Identity: 0.29
+
+=== A0A1M3B935 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 182.0
+E-value: 0.002256
+Alignment Length: 93
+Percentage Identity: 0.236
+
+=== A0A2T2SD37 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 214.0
+E-value: 0.002385
+Alignment Length: 78
+Percentage Identity: 0.346
+
+=== A0A3B8ZZ60 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:HAD04966.1};
+Bit Score: 211.0
+E-value: 0.002385
+Alignment Length: 70
+Percentage Identity: 0.342
+
+=== A0A349MHH7 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:HAT49991.1};
+Bit Score: 205.0
+E-value: 0.002385
+Alignment Length: 74
+Percentage Identity: 0.283
+
+=== A0A1U1ANB8 ===
+DE   SubName: Full=Uncharacterized conserved small protein {ECO:0000313|EMBL:SKT99494.1};
+Bit Score: 199.0
+E-value: 0.002385
+Alignment Length: 81
+Percentage Identity: 0.283
+
+=== A0A0N8T1X7 ===
+DE   SubName: Full=Inorganic pyrophosphatase 2 {ECO:0000313|EMBL:KPY81224.1};
+Bit Score: 197.0
+E-value: 0.002385
+Alignment Length: 81
+Percentage Identity: 0.296
+
+=== A0A6N6SJ31 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:KAB2907045.1};
+Bit Score: 192.0
+E-value: 0.002385
+Alignment Length: 83
+Percentage Identity: 0.253
+
+=== A0A6N3HBJ3 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 176.0
+E-value: 0.002385
+Alignment Length: 102
+Percentage Identity: 0.235
+
+=== A0A538U202 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:TMQ69893.1};
+Bit Score: 173.0
+E-value: 0.002385
+Alignment Length: 102
+Percentage Identity: 0.245
+
+=== A0A172YKD1 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:ANF59669.1};
+Bit Score: 213.0
+E-value: 0.00252
+Alignment Length: 72
+Percentage Identity: 0.305
+
+=== A0A427KZY9 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 204.0
+E-value: 0.00252
+Alignment Length: 71
+Percentage Identity: 0.323
+
+=== A0A1F5RJP7 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 200.0
+E-value: 0.00252
+Alignment Length: 74
+Percentage Identity: 0.297
+
+=== A0A1F2S1I2 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 198.0
+E-value: 0.00252
+Alignment Length: 81
+Percentage Identity: 0.259
+
+=== A0A496AGP2 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:RKU26099.1};
+Bit Score: 194.0
+E-value: 0.00252
+Alignment Length: 83
+Percentage Identity: 0.265
+
+=== K9SNS6 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:AFY71641.1};
+Bit Score: 192.0
+E-value: 0.00252
+Alignment Length: 83
+Percentage Identity: 0.204
+
+=== A0A853FV09 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NYT48598.1};
+Bit Score: 186.0
+E-value: 0.00252
+Alignment Length: 91
+Percentage Identity: 0.307
+
+=== A0A7Y4RMR3 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NOT08758.1};
+Bit Score: 185.0
+E-value: 0.00252
+Alignment Length: 95
+Percentage Identity: 0.263
+
+=== A0A7W6NK22 ===
+DE   SubName: Full=Putative XRE-type DNA-binding protein {ECO:0000313|EMBL:MBB4064418.1};
+Bit Score: 200.0
+E-value: 0.002663
+Alignment Length: 75
+Percentage Identity: 0.253
+
+=== A0A7V9D153 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MBA2362659.1};
+Bit Score: 186.0
+E-value: 0.002663
+Alignment Length: 94
+Percentage Identity: 0.297
+
+=== A0A496A201 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:RKU20839.1};
+Bit Score: 186.0
+E-value: 0.002663
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== A0A2D7ZQQ8 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MAK83979.1};
+Bit Score: 184.0
+E-value: 0.002663
+Alignment Length: 96
+Percentage Identity: 0.281
+
+=== A0A7V9N8U9 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MBA2598936.1};
+Bit Score: 182.0
+E-value: 0.002663
+Alignment Length: 92
+Percentage Identity: 0.228
+
+=== A0A077ATS1 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 189.0
+E-value: 0.002815
+Alignment Length: 95
+Percentage Identity: 0.294
+
+=== A0A2A2ZAP7 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PBA23627.1};
+Bit Score: 185.0
+E-value: 0.002815
+Alignment Length: 86
+Percentage Identity: 0.337
+
+=== A0A1F7TDJ2 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 185.0
+E-value: 0.002815
+Alignment Length: 92
+Percentage Identity: 0.26
+
+=== A0A2W4T8D3 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PZN80964.1};
+Bit Score: 182.0
+E-value: 0.002815
+Alignment Length: 92
+Percentage Identity: 0.271
+
+=== A0A1E7QK96 ===
+DE   SubName: Full=DNA-binding protein {ECO:0000313|EMBL:OEY86888.1};
+Bit Score: 186.0
+E-value: 0.002975
+Alignment Length: 78
+Percentage Identity: 0.307
+
+=== A0A6I5QQ51 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NER71659.1};
+Bit Score: 185.0
+E-value: 0.002975
+Alignment Length: 97
+Percentage Identity: 0.226
+
+=== A0A525VHQ8 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:THI84935.1};
+Bit Score: 175.0
+E-value: 0.002975
+Alignment Length: 79
+Percentage Identity: 0.354
+
+=== Q9L6S6 ===
+DE   SubName: Full=Cytoplasmic protein {ECO:0000313|EMBL:AAL22757.1};
+DE   SubName: Full=STMD1.83 protein {ECO:0000313|EMBL:AAF33487.1};
+Bit Score: 174.0
+E-value: 0.002975
+Alignment Length: 95
+Percentage Identity: 0.294
+
+=== A0A1F3YEN7 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|SMART:SM00530};
+Bit Score: 172.0
+E-value: 0.002975
+Alignment Length: 97
+Percentage Identity: 0.237
+
+=== A0A1D3RL77 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 209.0
+E-value: 0.003144
+Alignment Length: 73
+Percentage Identity: 0.328
+
+=== A0A1H7BQL1 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:SEJ79496.1};
+Bit Score: 201.0
+E-value: 0.003144
+Alignment Length: 76
+Percentage Identity: 0.302
+
+=== B3E6M7 ===
+DE   SubName: Full=Transcriptional regulator, XRE family {ECO:0000313|EMBL:ACD94852.1};
+Bit Score: 198.0
+E-value: 0.003144
+Alignment Length: 75
+Percentage Identity: 0.266
+
+=== A0A401IMI9 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:GBF82456.1};
+Bit Score: 191.0
+E-value: 0.003144
+Alignment Length: 84
+Percentage Identity: 0.261
+
+=== A0A1F2T6N0 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:OFW16781.1};
+Bit Score: 182.0
+E-value: 0.003144
+Alignment Length: 93
+Percentage Identity: 0.29
+
+=== A0A0M1JA00 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 180.0
+E-value: 0.003144
+Alignment Length: 93
+Percentage Identity: 0.204
+
+=== A0A7V9KLT8 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MBA2524219.1};
+Bit Score: 179.0
+E-value: 0.003144
+Alignment Length: 93
+Percentage Identity: 0.236
+
+=== A0A2T3XK59 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PTB16910.1};
+Bit Score: 177.0
+E-value: 0.003144
+Alignment Length: 95
+Percentage Identity: 0.294
+
+=== A0A6H0IVL3 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:QIT55030.1};
+Bit Score: 172.0
+E-value: 0.003144
+Alignment Length: 93
+Percentage Identity: 0.301
+
+=== A0A5N0T6V9 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:KAA9130531.1};
+Bit Score: 195.0
+E-value: 0.003323
+Alignment Length: 83
+Percentage Identity: 0.313
+
+=== A0A349MI95 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:HAT50259.1};
+Bit Score: 195.0
+E-value: 0.003323
+Alignment Length: 82
+Percentage Identity: 0.268
+
+=== A0A1Z4C3T8 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:ASF48207.1};
+Bit Score: 185.0
+E-value: 0.003323
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== A0A068NVJ5 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:AIE87471.1};
+Bit Score: 182.0
+E-value: 0.003323
+Alignment Length: 91
+Percentage Identity: 0.307
+
+=== A0A849RUV0 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NOS81108.1};
+Bit Score: 181.0
+E-value: 0.003323
+Alignment Length: 95
+Percentage Identity: 0.273
+
+=== A0A1Q7XT95 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 180.0
+E-value: 0.003323
+Alignment Length: 92
+Percentage Identity: 0.26
+
+=== A0A496XEJ2 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RLA58374.1};
+Bit Score: 193.0
+E-value: 0.003511
+Alignment Length: 78
+Percentage Identity: 0.269
+
+=== A0A345IFF0 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:AXG98422.1};
+Bit Score: 190.0
+E-value: 0.003511
+Alignment Length: 80
+Percentage Identity: 0.262
+
+=== A0A0G0J6U7 ===
+DE   SubName: Full=Transcriptional regulator, XRE family {ECO:0000313|EMBL:KKQ32274.1};
+Bit Score: 188.0
+E-value: 0.003511
+Alignment Length: 83
+Percentage Identity: 0.301
+
+=== A0A218KP69 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:APR98474.1};
+Bit Score: 183.0
+E-value: 0.003511
+Alignment Length: 79
+Percentage Identity: 0.265
+
+=== N8W3P0 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 174.0
+E-value: 0.003511
+Alignment Length: 96
+Percentage Identity: 0.26
+
+=== A0A0N0K9U1 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:KPF86155.1};
+Bit Score: 173.0
+E-value: 0.003511
+Alignment Length: 96
+Percentage Identity: 0.281
+
+=== A0A090V1D0 ===
+DE   SubName: Full=Putative Xre family DNA-binding protein {ECO:0000313|EMBL:GAL57059.1};
+Bit Score: 169.0
+E-value: 0.003511
+Alignment Length: 96
+Percentage Identity: 0.27
+
+=== A0A1Q8YGW1 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 163.0
+E-value: 0.003511
+Alignment Length: 104
+Percentage Identity: 0.24
+
+=== A0A7Z0NE55 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NYT80646.1};
+Bit Score: 192.0
+E-value: 0.003711
+Alignment Length: 74
+Percentage Identity: 0.31
+
+=== A0A321LJQ8 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 192.0
+E-value: 0.003711
+Alignment Length: 86
+Percentage Identity: 0.244
+
+=== H5THY1 ===
+DE   SubName: Full=Putative Xre family DNA-binding protein {ECO:0000313|EMBL:GAB33089.1};
+DE   Flags: Fragment;
+Bit Score: 191.0
+E-value: 0.003711
+Alignment Length: 76
+Percentage Identity: 0.328
+
+=== A0A0F3NLW9 ===
+DE   SubName: Full=Helix-turn-helix family protein {ECO:0000313|EMBL:KJV68692.1};
+Bit Score: 187.0
+E-value: 0.003711
+Alignment Length: 79
+Percentage Identity: 0.24
+
+=== A0A856MJG4 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:QDL11453.1};
+Bit Score: 175.0
+E-value: 0.003711
+Alignment Length: 96
+Percentage Identity: 0.229
+
+=== A0A564JGY0 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 168.0
+E-value: 0.003711
+Alignment Length: 101
+Percentage Identity: 0.237
+
+=== A0A7X3XQT2 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MYC77180.1};
+Bit Score: 192.0
+E-value: 0.003922
+Alignment Length: 75
+Percentage Identity: 0.28
+
+=== A0A2N3F3F1 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PKQ14926.1};
+Bit Score: 181.0
+E-value: 0.003922
+Alignment Length: 81
+Percentage Identity: 0.308
+
+=== A0A1H5Y6B5 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:SEG19609.1};
+Bit Score: 179.0
+E-value: 0.003922
+Alignment Length: 88
+Percentage Identity: 0.306
+
+=== A0A348DB24 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:BBE76691.1};
+Bit Score: 169.0
+E-value: 0.003922
+Alignment Length: 104
+Percentage Identity: 0.23
+
+=== A0A2V8XT12 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PYT85176.1};
+Bit Score: 169.0
+E-value: 0.003922
+Alignment Length: 101
+Percentage Identity: 0.207
+
+=== A0A849T1B0 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NOT69498.1};
+Bit Score: 202.0
+E-value: 0.004145
+Alignment Length: 73
+Percentage Identity: 0.328
+
+=== A0A7X7L2A2 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NLF25364.1};
+Bit Score: 186.0
+E-value: 0.004145
+Alignment Length: 98
+Percentage Identity: 0.204
+
+=== A0A7X9AGD8 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NMA28457.1};
+Bit Score: 182.0
+E-value: 0.004145
+Alignment Length: 92
+Percentage Identity: 0.271
+
+=== A0A2U3K4E9 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 179.0
+E-value: 0.004145
+Alignment Length: 92
+Percentage Identity: 0.26
+
+=== A0A1N6KWX5 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:SIO61042.1};
+Bit Score: 167.0
+E-value: 0.004145
+Alignment Length: 102
+Percentage Identity: 0.225
+
+=== A0A1H7RGJ7 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:SEL59356.1};
+Bit Score: 209.0
+E-value: 0.00438
+Alignment Length: 67
+Percentage Identity: 0.343
+
+=== A0A2M6VMI4 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 205.0
+E-value: 0.00438
+Alignment Length: 67
+Percentage Identity: 0.343
+
+=== A0A227JL60 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 195.0
+E-value: 0.00438
+Alignment Length: 70
+Percentage Identity: 0.3
+
+=== A0A410UJ76 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:QAU24303.1};
+Bit Score: 192.0
+E-value: 0.00438
+Alignment Length: 66
+Percentage Identity: 0.378
+
+=== A0A225DC96 ===
+DE   SubName: Full=Transcriptional regulator, XRE family {ECO:0000313|EMBL:OWK39210.1};
+Bit Score: 192.0
+E-value: 0.00438
+Alignment Length: 74
+Percentage Identity: 0.297
+
+=== A0A401IM77 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:GBF82357.1};
+Bit Score: 189.0
+E-value: 0.00438
+Alignment Length: 84
+Percentage Identity: 0.25
+
+=== A0A2N2RKS1 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 188.0
+E-value: 0.00438
+Alignment Length: 88
+Percentage Identity: 0.227
+
+=== K9YXR8 ===
+DE   SubName: Full=Putative conserved small protein {ECO:0000313|EMBL:AFZ51694.1};
+Bit Score: 183.0
+E-value: 0.00438
+Alignment Length: 83
+Percentage Identity: 0.24
+
+=== A0A7G2S053 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:MAC13299.1};
+Bit Score: 182.0
+E-value: 0.00438
+Alignment Length: 85
+Percentage Identity: 0.294
+
+=== A0A1C2JC52 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 181.0
+E-value: 0.00438
+Alignment Length: 90
+Percentage Identity: 0.244
+
+=== A0A2H0IBW8 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PIQ44247.1};
+Bit Score: 179.0
+E-value: 0.00438
+Alignment Length: 93
+Percentage Identity: 0.225
+
+=== X6FM92 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 172.0
+E-value: 0.00438
+Alignment Length: 97
+Percentage Identity: 0.278
+
+=== A0A2U1UFX3 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PWC20569.1};
+Bit Score: 167.0
+E-value: 0.00438
+Alignment Length: 102
+Percentage Identity: 0.245
+
+=== A0A2P4ESI9 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 200.0
+E-value: 0.004629
+Alignment Length: 78
+Percentage Identity: 0.205
+
+=== T0ZQV2 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:EQD50676.1};
+DE   Flags: Fragment;
+Bit Score: 194.0
+E-value: 0.004629
+Alignment Length: 74
+Percentage Identity: 0.283
+
+=== A0A238HF24 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 193.0
+E-value: 0.004629
+Alignment Length: 62
+Percentage Identity: 0.37
+
+=== A0A2J6JDQ2 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PLX95428.1};
+Bit Score: 186.0
+E-value: 0.004629
+Alignment Length: 83
+Percentage Identity: 0.277
+
+=== A0A1D8TPD0 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:AOW99466.1};
+Bit Score: 178.0
+E-value: 0.004629
+Alignment Length: 95
+Percentage Identity: 0.263
+
+=== A0A496AT90 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:RKU30189.1};
+Bit Score: 174.0
+E-value: 0.004629
+Alignment Length: 100
+Percentage Identity: 0.26
+
+=== A0A849I8D4 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NNM72669.1};
+Bit Score: 174.0
+E-value: 0.004629
+Alignment Length: 94
+Percentage Identity: 0.244
+
+=== A0A4S1CC29 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:TGU70929.1};
+Bit Score: 193.0
+E-value: 0.004893
+Alignment Length: 74
+Percentage Identity: 0.324
+
+=== A0A517TY72 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 189.0
+E-value: 0.004893
+Alignment Length: 92
+Percentage Identity: 0.206
+
+=== A0A518D8N6 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 180.0
+E-value: 0.004893
+Alignment Length: 97
+Percentage Identity: 0.247
+
+=== A0A1Q7Q2E6 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 172.0
+E-value: 0.004893
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== K8PSK4 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 165.0
+E-value: 0.004893
+Alignment Length: 88
+Percentage Identity: 0.272
+
+=== A0A2T7V246 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PVE51257.1};
+Bit Score: 161.0
+E-value: 0.004893
+Alignment Length: 88
+Percentage Identity: 0.295
+
+=== A0A2S5CS66 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:POZ53670.1};
+Bit Score: 192.0
+E-value: 0.005171
+Alignment Length: 75
+Percentage Identity: 0.266
+
+=== A0A164K636 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 181.0
+E-value: 0.005171
+Alignment Length: 82
+Percentage Identity: 0.292
+
+=== A0A3C0Y2J2 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:HAL36804.1};
+Bit Score: 177.0
+E-value: 0.005171
+Alignment Length: 92
+Percentage Identity: 0.293
+
+=== A0A1Q7YAL2 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:OLE52308.1};
+Bit Score: 176.0
+E-value: 0.005171
+Alignment Length: 97
+Percentage Identity: 0.247
+
+=== A0A6B1D8B1 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MYC95836.1};
+Bit Score: 171.0
+E-value: 0.005171
+Alignment Length: 95
+Percentage Identity: 0.252
+
+=== A0A1F3BV24 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 165.0
+E-value: 0.005171
+Alignment Length: 102
+Percentage Identity: 0.235
+
+=== A0A2S5LSP5 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 193.0
+E-value: 0.005465
+Alignment Length: 75
+Percentage Identity: 0.32
+
+=== A0A1X1RDS2 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 185.0
+E-value: 0.005465
+Alignment Length: 64
+Percentage Identity: 0.406
+
+=== A0A1F4CPA1 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|SMART:SM00530};
+DE   Flags: Fragment;
+Bit Score: 184.0
+E-value: 0.005465
+Alignment Length: 76
+Percentage Identity: 0.276
+
+=== A0A3Q0L5Y3 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 182.0
+E-value: 0.005465
+Alignment Length: 86
+Percentage Identity: 0.313
+
+=== A0A7C1SQP4 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 181.0
+E-value: 0.005465
+Alignment Length: 85
+Percentage Identity: 0.282
+
+=== A0A1G0HAD3 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 180.0
+E-value: 0.005465
+Alignment Length: 74
+Percentage Identity: 0.405
+
+=== A0A2V7Q446 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PYP45111.1};
+Bit Score: 178.0
+E-value: 0.005465
+Alignment Length: 95
+Percentage Identity: 0.305
+
+=== A0A7X5TD83 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 174.0
+E-value: 0.005465
+Alignment Length: 92
+Percentage Identity: 0.293
+
+=== A0A6L4YEI4 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:KAF0162917.1};
+Bit Score: 167.0
+E-value: 0.005465
+Alignment Length: 94
+Percentage Identity: 0.255
+
+=== A0A6P0R6P9 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NEQ36681.1};
+Bit Score: 164.0
+E-value: 0.005465
+Alignment Length: 94
+Percentage Identity: 0.265
+
+=== A0A2H0IZP9 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PIQ52176.1};
+Bit Score: 160.0
+E-value: 0.005465
+Alignment Length: 110
+Percentage Identity: 0.254
+
+=== A0A537KSS0 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:TMI98804.1};
+Bit Score: 182.0
+E-value: 0.005775
+Alignment Length: 73
+Percentage Identity: 0.356
+
+=== A0A847DC23 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NLD36011.1};
+Bit Score: 172.0
+E-value: 0.005775
+Alignment Length: 98
+Percentage Identity: 0.224
+
+=== A0A2U2HJY0 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 166.0
+E-value: 0.005775
+Alignment Length: 107
+Percentage Identity: 0.186
+
+=== K2BNR7 ===
+DE   SubName: Full=Transcriptional regulator, XRE family {ECO:0000313|EMBL:EKD75186.1};
+Bit Score: 162.0
+E-value: 0.005775
+Alignment Length: 101
+Percentage Identity: 0.237
+
+=== A0A321LW04 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PYP91289.1};
+Bit Score: 188.0
+E-value: 0.006103
+Alignment Length: 75
+Percentage Identity: 0.293
+
+=== A0A7W1U147 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MBA3957965.1};
+Bit Score: 188.0
+E-value: 0.006103
+Alignment Length: 77
+Percentage Identity: 0.246
+
+=== A0A0N1JRH5 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 166.0
+E-value: 0.006103
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== A0A1V1UNM1 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 164.0
+E-value: 0.006103
+Alignment Length: 102
+Percentage Identity: 0.215
+
+=== D3GMZ9 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 185.0
+E-value: 0.00645
+Alignment Length: 80
+Percentage Identity: 0.25
+
+=== A0A1G0D1M3 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:OGS94685.1};
+Bit Score: 179.0
+E-value: 0.00645
+Alignment Length: 75
+Percentage Identity: 0.28
+
+=== A0A1M3BC67 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 177.0
+E-value: 0.00645
+Alignment Length: 88
+Percentage Identity: 0.215
+
+=== A0A2U3LXR3 ===
+DE   SubName: Full=Transcriptional regulator, XRE family {ECO:0000313|EMBL:SPF56646.1};
+Bit Score: 175.0
+E-value: 0.00645
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== A0A2U3KX55 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:SPF44235.1};
+Bit Score: 172.0
+E-value: 0.00645
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== E6Q5G7 ===
+DE   SubName: Full=Putative Transcriptional regulator, XRE family {ECO:0000313|EMBL:CBI02433.1};
+Bit Score: 163.0
+E-value: 0.00645
+Alignment Length: 103
+Percentage Identity: 0.203
+
+=== A0A0S4L7R4 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 178.0
+E-value: 0.006817
+Alignment Length: 77
+Percentage Identity: 0.259
+
+=== A0A7Z9BMC0 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 177.0
+E-value: 0.006817
+Alignment Length: 82
+Percentage Identity: 0.268
+
+=== A0A411WLV9 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:QBH97213.1};
+Bit Score: 168.0
+E-value: 0.006817
+Alignment Length: 92
+Percentage Identity: 0.25
+
+=== A0A1F3YHP2 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 187.0
+E-value: 0.007204
+Alignment Length: 73
+Percentage Identity: 0.301
+
+=== A0A838W9U5 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MBA4158614.1};
+Bit Score: 186.0
+E-value: 0.007204
+Alignment Length: 74
+Percentage Identity: 0.283
+
+=== A0A073CFF7 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 168.0
+E-value: 0.007204
+Alignment Length: 62
+Percentage Identity: 0.338
+
+=== A0A249E1N0 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:ASX26912.1};
+Bit Score: 168.0
+E-value: 0.007204
+Alignment Length: 90
+Percentage Identity: 0.266
+
+=== A0A431HUK6 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RTK98552.1};
+Bit Score: 167.0
+E-value: 0.007204
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A1J5QPF3 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 196.0
+E-value: 0.007614
+Alignment Length: 61
+Percentage Identity: 0.393
+
+=== A0A7W1GTC3 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MBA3721134.1};
+Bit Score: 174.0
+E-value: 0.007614
+Alignment Length: 88
+Percentage Identity: 0.284
+
+=== A0A521XYP9 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:TAK73748.1};
+Bit Score: 170.0
+E-value: 0.007614
+Alignment Length: 93
+Percentage Identity: 0.279
+
+=== A0A068NR68 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:AIE85260.1};
+Bit Score: 166.0
+E-value: 0.007614
+Alignment Length: 97
+Percentage Identity: 0.257
+
+=== A0A191ZFJ3 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 195.0
+E-value: 0.008047
+Alignment Length: 74
+Percentage Identity: 0.297
+
+=== A0A7V9N4X0 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MBA2596902.1};
+Bit Score: 188.0
+E-value: 0.008047
+Alignment Length: 74
+Percentage Identity: 0.27
+
+=== A0A6I2GSB0 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MRI91077.1};
+Bit Score: 177.0
+E-value: 0.008047
+Alignment Length: 75
+Percentage Identity: 0.306
+
+=== A0A534TZQ6 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 168.0
+E-value: 0.008047
+Alignment Length: 94
+Percentage Identity: 0.202
+
+=== A0A522GPW9 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:TAL81023.1};
+Bit Score: 160.0
+E-value: 0.008047
+Alignment Length: 77
+Percentage Identity: 0.272
+
+=== J7Q8N3 ===
+DE   SubName: Full=Helix-turn-helix domain containing XRE family transcriptional regulator {ECO:0000313|EMBL:CCJ07157.1};
+Bit Score: 152.0
+E-value: 0.008047
+Alignment Length: 93
+Percentage Identity: 0.279
+
+=== J9DDC6 ===
+DE   SubName: Full=Transcriptional regulator, XRE family {ECO:0000313|EMBL:EJW09326.1};
+Bit Score: 152.0
+E-value: 0.008047
+Alignment Length: 92
+Percentage Identity: 0.25
+
+=== A0A6B8KK89 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:QGM47048.1};
+Bit Score: 175.0
+E-value: 0.008504
+Alignment Length: 75
+Percentage Identity: 0.266
+
+=== A0A7W0TWJ2 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MBA3415296.1};
+Bit Score: 166.0
+E-value: 0.008504
+Alignment Length: 96
+Percentage Identity: 0.218
+
+=== A0A5R2N4S2 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:TGW04788.1};
+DE   Flags: Fragment;
+Bit Score: 165.0
+E-value: 0.008504
+Alignment Length: 90
+Percentage Identity: 0.244
+
+=== A0A7Y2W324 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NNH61685.1};
+Bit Score: 164.0
+E-value: 0.008504
+Alignment Length: 88
+Percentage Identity: 0.215
+
+=== A0A1G0GNL9 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:OGT39231.1};
+Bit Score: 183.0
+E-value: 0.008987
+Alignment Length: 75
+Percentage Identity: 0.32
+
+=== A0A1G0GN93 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 182.0
+E-value: 0.008987
+Alignment Length: 74
+Percentage Identity: 0.256
+
+=== A0A225SWS6 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:OWY35633.1};
+Bit Score: 180.0
+E-value: 0.008987
+Alignment Length: 98
+Percentage Identity: 0.163
+
+=== A0A2A4XJR0 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PCI82531.1};
+Bit Score: 172.0
+E-value: 0.008987
+Alignment Length: 80
+Percentage Identity: 0.262
+
+=== A0A7Y4UAD4 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NOT60067.1};
+Bit Score: 172.0
+E-value: 0.008987
+Alignment Length: 85
+Percentage Identity: 0.258
+
+=== A0A7Z3DXK1 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:QKX01870.1};
+Bit Score: 169.0
+E-value: 0.008987
+Alignment Length: 79
+Percentage Identity: 0.24
+
+=== A0A1Z7M0G0 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 145.0
+E-value: 0.008987
+Alignment Length: 89
+Percentage Identity: 0.191
+
+=== A0A3Q9BNE7 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 184.0
+E-value: 0.009498
+Alignment Length: 76
+Percentage Identity: 0.223
+
+=== A0A2T3W4Y2 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PTA66929.1};
+Bit Score: 175.0
+E-value: 0.009498
+Alignment Length: 84
+Percentage Identity: 0.273
+
+=== A0A7X2PTU5 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MSV35286.1};
+Bit Score: 174.0
+E-value: 0.009498
+Alignment Length: 74
+Percentage Identity: 0.256
+
+=== A0A327L5A0 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RAI45364.1};
+Bit Score: 173.0
+E-value: 0.009498
+Alignment Length: 73
+Percentage Identity: 0.315
+
+=== A0A6B1CNI6 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MYC71119.1};
+Bit Score: 173.0
+E-value: 0.009498
+Alignment Length: 76
+Percentage Identity: 0.289
+
+=== A0A418UYR9 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RJF68336.1};
+Bit Score: 171.0
+E-value: 0.009498
+Alignment Length: 85
+Percentage Identity: 0.211
+
+=== A0A7X3S847 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MXN65461.1};
+Bit Score: 157.0
+E-value: 0.009498
+Alignment Length: 96
+Percentage Identity: 0.239
+
+=== A0A1H0KXA0 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:SDO60401.1};
+Bit Score: 153.0
+E-value: 0.009498
+Alignment Length: 103
+Percentage Identity: 0.242
+
+=== A0A2T0XQ52 ===
+DE   SubName: Full=Putative XRE-type DNA-binding protein {ECO:0000313|EMBL:PRZ01088.1};
+Bit Score: 150.0
+E-value: 0.009498
+Alignment Length: 92
+Percentage Identity: 0.217
+
+=== A0A1F7PID4 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 142.0
+E-value: 0.009498
+Alignment Length: 83
+Percentage Identity: 0.228
+
+=== A0A5M6I369 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:KAA5602238.1};
+Bit Score: 175.0
+E-value: 0.01004
+Alignment Length: 75
+Percentage Identity: 0.28
+
+=== A0A2U8I6C3 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:AWK14731.1};
+Bit Score: 167.0
+E-value: 0.01004
+Alignment Length: 88
+Percentage Identity: 0.284
+
+=== A0A1W9GZY4 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:OQW40664.1};
+Bit Score: 167.0
+E-value: 0.01004
+Alignment Length: 78
+Percentage Identity: 0.282
+
+=== A0A1I4GSU4 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:SFL33084.1};
+Bit Score: 165.0
+E-value: 0.01004
+Alignment Length: 92
+Percentage Identity: 0.282
+
+=== A0A0D5M8L3 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 151.0
+E-value: 0.01004
+Alignment Length: 93
+Percentage Identity: 0.236
+
+=== A0A177RE96 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 180.0
+E-value: 0.01061
+Alignment Length: 78
+Percentage Identity: 0.192
+
+=== A0A5C4JSH3 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:TNB48124.1};
+Bit Score: 160.0
+E-value: 0.01061
+Alignment Length: 89
+Percentage Identity: 0.191
+
+=== A0A6P1ZIU3 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:TVM34901.1};
+Bit Score: 151.0
+E-value: 0.01061
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== A0A1F3SFU3 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 149.0
+E-value: 0.01061
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== A0A1M4TK90 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:SHE44816.1};
+Bit Score: 148.0
+E-value: 0.01061
+Alignment Length: 86
+Percentage Identity: 0.279
+
+=== A0A399WSU5 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 180.0
+E-value: 0.01121
+Alignment Length: 79
+Percentage Identity: 0.189
+
+=== A0A2U1WSJ0 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 172.0
+E-value: 0.01121
+Alignment Length: 73
+Percentage Identity: 0.219
+
+=== A0A7X3WSY4 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MYB93229.1};
+Bit Score: 171.0
+E-value: 0.01121
+Alignment Length: 80
+Percentage Identity: 0.262
+
+=== B6ALF1 ===
+DE   SubName: Full=Probable XRE family transcriptional regulator {ECO:0000313|EMBL:EDZ40405.1};
+Bit Score: 162.0
+E-value: 0.01121
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== A0A525C6R7 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:THB66527.1};
+Bit Score: 160.0
+E-value: 0.01121
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== A0A532C317 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 160.0
+E-value: 0.01121
+Alignment Length: 98
+Percentage Identity: 0.234
+
+=== A0A7W1GS94 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MBA3721242.1};
+Bit Score: 175.0
+E-value: 0.01185
+Alignment Length: 79
+Percentage Identity: 0.24
+
+=== A0A6L7U181 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MYC61947.1};
+Bit Score: 173.0
+E-value: 0.01185
+Alignment Length: 76
+Percentage Identity: 0.289
+
+=== A0A1Y0H6R0 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 172.0
+E-value: 0.01185
+Alignment Length: 83
+Percentage Identity: 0.24
+
+=== A0A6M4A3X3 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:QJQ05500.1};
+Bit Score: 170.0
+E-value: 0.01185
+Alignment Length: 81
+Percentage Identity: 0.234
+
+=== A0A6L5FRN5 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:MPZ59213.1};
+Bit Score: 168.0
+E-value: 0.01185
+Alignment Length: 74
+Percentage Identity: 0.283
+
+=== A0A3N9RRP4 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RQW42624.1};
+Bit Score: 154.0
+E-value: 0.01185
+Alignment Length: 97
+Percentage Identity: 0.268
+
+=== A0A1Y5FAW0 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 126.0
+E-value: 0.01185
+Alignment Length: 95
+Percentage Identity: 0.2
+
+=== A0A5E4YLT7 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 182.0
+E-value: 0.01252
+Alignment Length: 78
+Percentage Identity: 0.23
+
+=== A0A6M1ZCQ7 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 175.0
+E-value: 0.01252
+Alignment Length: 75
+Percentage Identity: 0.28
+
+=== A0A6L7TW10 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MYC39887.1};
+Bit Score: 171.0
+E-value: 0.01252
+Alignment Length: 76
+Percentage Identity: 0.289
+
+=== A0A1E7I7S6 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 169.0
+E-value: 0.01252
+Alignment Length: 77
+Percentage Identity: 0.233
+
+=== A0A359LW05 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 167.0
+E-value: 0.01252
+Alignment Length: 89
+Percentage Identity: 0.179
+
+=== A0A2V8AXB5 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 156.0
+E-value: 0.01252
+Alignment Length: 92
+Percentage Identity: 0.239
+
+=== A0A5E7ZG26 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 155.0
+E-value: 0.01252
+Alignment Length: 96
+Percentage Identity: 0.239
+
+=== A0A5D3WJL2 ===
+DE   SubName: Full=Putative XRE-type DNA-binding protein {ECO:0000313|EMBL:TYO99162.1};
+Bit Score: 172.0
+E-value: 0.01323
+Alignment Length: 65
+Percentage Identity: 0.261
+
+=== A0A6P0V0E1 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NER22416.1};
+Bit Score: 171.0
+E-value: 0.01323
+Alignment Length: 79
+Percentage Identity: 0.265
+
+=== A0A7Y2E706 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NNF06404.1};
+Bit Score: 169.0
+E-value: 0.01323
+Alignment Length: 87
+Percentage Identity: 0.241
+
+=== A0A351KWV3 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:HAZ43023.1};
+Bit Score: 168.0
+E-value: 0.01323
+Alignment Length: 81
+Percentage Identity: 0.222
+
+=== D5BXJ4 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 165.0
+E-value: 0.01323
+Alignment Length: 98
+Percentage Identity: 0.224
+
+=== A0A1Q5S5B9 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|SMART:SM00530};
+Bit Score: 161.0
+E-value: 0.01323
+Alignment Length: 93
+Percentage Identity: 0.139
+
+=== A0A1F9CGB8 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 148.0
+E-value: 0.01323
+Alignment Length: 77
+Percentage Identity: 0.22
+
+=== A0A563W4Q8 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 133.0
+E-value: 0.01323
+Alignment Length: 100
+Percentage Identity: 0.17
+
+=== A0A7X2PQF3 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:MSV32801.1};
+Bit Score: 128.0
+E-value: 0.01323
+Alignment Length: 101
+Percentage Identity: 0.198
+
+=== A0A838NMU4 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MBA3319310.1};
+Bit Score: 172.0
+E-value: 0.01399
+Alignment Length: 75
+Percentage Identity: 0.266
+
+=== A0A2U3LV57 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|SMART:SM00530};
+Bit Score: 172.0
+E-value: 0.01399
+Alignment Length: 79
+Percentage Identity: 0.151
+
+=== A0A534XQY1 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:TMB26645.1};
+Bit Score: 171.0
+E-value: 0.01399
+Alignment Length: 78
+Percentage Identity: 0.23
+
+=== A0A523CHA5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TDB39818.1};
+Bit Score: 160.0
+E-value: 0.01399
+Alignment Length: 78
+Percentage Identity: 0.205
+
+=== A0A1G0GFM9 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 158.0
+E-value: 0.01399
+Alignment Length: 93
+Percentage Identity: 0.225
+
+=== A0A225MAB2 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:OWT58247.1};
+Bit Score: 151.0
+E-value: 0.01399
+Alignment Length: 93
+Percentage Identity: 0.225
+
+=== A0A399WSX1 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MBC6970666.1};
+Bit Score: 150.0
+E-value: 0.01399
+Alignment Length: 92
+Percentage Identity: 0.228
+
+=== G7Q6U8 ===
+DE   SubName: Full=Helix-turn-helix domain protein {ECO:0000313|EMBL:EHJ48033.1};
+Bit Score: 146.0
+E-value: 0.01399
+Alignment Length: 98
+Percentage Identity: 0.204
+
+=== A0A439MRX9 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 142.0
+E-value: 0.01399
+Alignment Length: 104
+Percentage Identity: 0.259
+
+=== A0A0Q7NGX5 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 178.0
+E-value: 0.01478
+Alignment Length: 84
+Percentage Identity: 0.285
+
+=== A0A060PZ58 ===
+DE   SubName: Full=Predicted transcriptional regulator XRE family {ECO:0000313|EMBL:BAO99631.1};
+Bit Score: 174.0
+E-value: 0.01478
+Alignment Length: 71
+Percentage Identity: 0.309
+
+=== A0A6J4UZI4 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 171.0
+E-value: 0.01478
+Alignment Length: 75
+Percentage Identity: 0.24
+
+=== A0A2E6YF98 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 168.0
+E-value: 0.01478
+Alignment Length: 75
+Percentage Identity: 0.2
+
+=== A0A7V5WNV9 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:HHO56026.1};
+Bit Score: 164.0
+E-value: 0.01478
+Alignment Length: 83
+Percentage Identity: 0.24
+
+=== A0A0W0XND1 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 156.0
+E-value: 0.01478
+Alignment Length: 98
+Percentage Identity: 0.265
+
+=== A0A4V1V7V6 ===
+DE   RecName: Full=XRE family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 150.0
+E-value: 0.01478
+Alignment Length: 81
+Percentage Identity: 0.222
+
+=== A0A2P5NRF5 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PPD45144.1};
+Bit Score: 143.0
+E-value: 0.01478
+Alignment Length: 93
+Percentage Identity: 0.258
+
+=== A0A2E2EIB0 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 120.0
+E-value: 0.01478
+Alignment Length: 96
+Percentage Identity: 0.187
+
+=== A0A218KMC3 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 175.0
+E-value: 0.01562
+Alignment Length: 68
+Percentage Identity: 0.25
+
+=== G5JCP7 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:EHJ10038.1};
+DE   Flags: Fragment;
+Bit Score: 174.0
+E-value: 0.01562
+Alignment Length: 72
+Percentage Identity: 0.236
+
+=== A0A2V8LN09 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PYS27353.1};
+Bit Score: 173.0
+E-value: 0.01562
+Alignment Length: 71
+Percentage Identity: 0.281
+
+=== A0A511MGW2 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 152.0
+E-value: 0.01562
+Alignment Length: 83
+Percentage Identity: 0.265
+
+=== A0A3C0TYM4 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:HAK64162.1};
+Bit Score: 167.0
+E-value: 0.01651
+Alignment Length: 80
+Percentage Identity: 0.225
+
+=== A0A4Q5NM65 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RYX81064.1};
+Bit Score: 164.0
+E-value: 0.01651
+Alignment Length: 74
+Percentage Identity: 0.229
+
+=== N8V438 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 160.0
+E-value: 0.01651
+Alignment Length: 86
+Percentage Identity: 0.302
+
+=== A0A1F9MX55 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 160.0
+E-value: 0.01651
+Alignment Length: 93
+Percentage Identity: 0.215
+
+=== A0A2U3PUQ2 ===
+DE   SubName: Full=XRE family transcriptional regulator (Modular protein) {ECO:0000313|EMBL:SPP92838.1};
+Bit Score: 156.0
+E-value: 0.01651
+Alignment Length: 95
+Percentage Identity: 0.2
+
+=== A0A7V9N4U7 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MBA2596871.1};
+Bit Score: 151.0
+E-value: 0.01651
+Alignment Length: 101
+Percentage Identity: 0.247
+
+=== A0A397FU30 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 146.0
+E-value: 0.01651
+Alignment Length: 105
+Percentage Identity: 0.161
+
+=== A0A2T5I550 ===
+DE   SubName: Full=Putative XRE-type DNA-binding protein {ECO:0000313|EMBL:PTQ78918.1};
+Bit Score: 166.0
+E-value: 0.01745
+Alignment Length: 69
+Percentage Identity: 0.304
+
+=== A0A846EJE3 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NET01982.1};
+Bit Score: 166.0
+E-value: 0.01745
+Alignment Length: 84
+Percentage Identity: 0.19
+
+=== A0A1F3XSR8 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 164.0
+E-value: 0.01745
+Alignment Length: 88
+Percentage Identity: 0.204
+
+=== E0WV14 ===
+DE   SubName: Full=HTH domain-containing putative transcriptional regulator {ECO:0000313|EMBL:EFL91151.1};
+Bit Score: 157.0
+E-value: 0.01745
+Alignment Length: 83
+Percentage Identity: 0.253
+
+=== A0A2D2DLH5 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 149.0
+E-value: 0.01745
+Alignment Length: 113
+Percentage Identity: 0.203
+
+=== A0A4S0W1Y9 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:TGT71804.1};
+Bit Score: 144.0
+E-value: 0.01745
+Alignment Length: 92
+Percentage Identity: 0.25
+
+=== A0A2U8WKS3 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 144.0
+E-value: 0.01745
+Alignment Length: 94
+Percentage Identity: 0.212
+
+=== A0A7Y4X579 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NOT55005.1};
+Bit Score: 137.0
+E-value: 0.01745
+Alignment Length: 76
+Percentage Identity: 0.263
+
+=== A0A1M6TR71 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:SHK59471.1};
+Bit Score: 172.0
+E-value: 0.01844
+Alignment Length: 70
+Percentage Identity: 0.3
+
+=== A0A534TIP4 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:TMA74469.1};
+Bit Score: 170.0
+E-value: 0.01844
+Alignment Length: 75
+Percentage Identity: 0.253
+
+=== A0A1C2J0G5 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 163.0
+E-value: 0.01844
+Alignment Length: 80
+Percentage Identity: 0.162
+
+=== A0A521SL10 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 159.0
+E-value: 0.01844
+Alignment Length: 79
+Percentage Identity: 0.291
+
+=== A0A439UB48 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RWC31125.1};
+Bit Score: 157.0
+E-value: 0.01844
+Alignment Length: 96
+Percentage Identity: 0.218
+
+=== A0A849WND0 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NUM59121.1};
+Bit Score: 164.0
+E-value: 0.01949
+Alignment Length: 82
+Percentage Identity: 0.219
+
+=== A0A7C5FVJ4 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:HHA46407.1};
+Bit Score: 162.0
+E-value: 0.01949
+Alignment Length: 76
+Percentage Identity: 0.263
+
+=== A0A355ULU7 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:HBN07796.1};
+Bit Score: 156.0
+E-value: 0.01949
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A218KPM1 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 156.0
+E-value: 0.01949
+Alignment Length: 80
+Percentage Identity: 0.225
+
+=== H8YXQ1 ===
+DE   SubName: Full=Helix-turn-helix protein {ECO:0000313|EMBL:EIC23227.1};
+Bit Score: 129.0
+E-value: 0.01949
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A5K7XJY5 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 123.0
+E-value: 0.01949
+Alignment Length: 99
+Percentage Identity: 0.191
+
+=== A0A1V4WSH5 ===
+DE   SubName: Full=Antitoxin HigA {ECO:0000313|EMBL:OPX99838.1};
+Bit Score: 120.0
+E-value: 0.01949
+Alignment Length: 98
+Percentage Identity: 0.214
+
+=== A0A858PYL4 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:QJC27662.1};
+Bit Score: 165.0
+E-value: 0.02059
+Alignment Length: 83
+Percentage Identity: 0.228
+
+=== A0A1F2QGQ9 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|SMART:SM00530};
+Bit Score: 161.0
+E-value: 0.02059
+Alignment Length: 97
+Percentage Identity: 0.154
+
+=== A0A1F4API5 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:OGA13980.1};
+Bit Score: 157.0
+E-value: 0.02059
+Alignment Length: 86
+Percentage Identity: 0.255
+
+=== A0A0Q8RWS1 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 153.0
+E-value: 0.02059
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A2T1GBS1 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PSB54795.1};
+Bit Score: 151.0
+E-value: 0.02059
+Alignment Length: 92
+Percentage Identity: 0.217
+
+=== A0A2T7B8X0 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PUX25435.1};
+Bit Score: 144.0
+E-value: 0.02059
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A6L8F2L7 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MYH83866.1};
+Bit Score: 143.0
+E-value: 0.02059
+Alignment Length: 101
+Percentage Identity: 0.227
+
+=== A0A1G2ZUZ7 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 116.0
+E-value: 0.02059
+Alignment Length: 93
+Percentage Identity: 0.182
+
+=== A0A1H8PAP0 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:SEO38613.1};
+Bit Score: 156.0
+E-value: 0.02177
+Alignment Length: 73
+Percentage Identity: 0.301
+
+=== A0A2V6STQ0 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+DE   Flags: Fragment;
+Bit Score: 121.0
+E-value: 0.02177
+Alignment Length: 98
+Percentage Identity: 0.244
+
+=== A0A369T8A8 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RDD61559.1};
+Bit Score: 167.0
+E-value: 0.023
+Alignment Length: 68
+Percentage Identity: 0.338
+
+=== A0A3D1U7Q1 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:HCG03048.1};
+Bit Score: 161.0
+E-value: 0.023
+Alignment Length: 82
+Percentage Identity: 0.231
+
+=== A0A7Y4SFH7 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NOT23322.1};
+Bit Score: 156.0
+E-value: 0.023
+Alignment Length: 79
+Percentage Identity: 0.253
+
+=== A0A0M3AGS5 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:KKW89272.1};
+Bit Score: 152.0
+E-value: 0.023
+Alignment Length: 78
+Percentage Identity: 0.243
+
+=== A0A1H5IR47 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:SEE42547.1};
+Bit Score: 151.0
+E-value: 0.023
+Alignment Length: 82
+Percentage Identity: 0.243
+
+=== A0A4R3YGA7 ===
+DE   SubName: Full=Xre family transcriptional regulator {ECO:0000313|EMBL:TCV91625.1};
+Bit Score: 148.0
+E-value: 0.023
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A346QXZ6 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:AXS39105.1};
+Bit Score: 145.0
+E-value: 0.023
+Alignment Length: 96
+Percentage Identity: 0.208
+
+=== A0A239NY33 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:SNT59338.1};
+Bit Score: 142.0
+E-value: 0.023
+Alignment Length: 90
+Percentage Identity: 0.2
+
+=== A0A353T944 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:HBR18833.1};
+Bit Score: 126.0
+E-value: 0.023
+Alignment Length: 99
+Percentage Identity: 0.141
+
+=== A0A7W0J5X7 ===
+DE   SubName: Full=Helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:MBA3071907.1};
+Bit Score: 116.0
+E-value: 0.023
+Alignment Length: 100
+Percentage Identity: 0.25
+
+=== A0A7X4JNR3 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 161.0
+E-value: 0.02431
+Alignment Length: 80
+Percentage Identity: 0.275
+
+=== A0A6M5YP90 ===
+DE   SubName: Full=Transcriptional regulator, XRE family {ECO:0000313|EMBL:QJW95788.1};
+Bit Score: 152.0
+E-value: 0.02431
+Alignment Length: 93
+Percentage Identity: 0.215
+
+=== A0A6J4URJ4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAA9556981.1};
+Bit Score: 129.0
+E-value: 0.02431
+Alignment Length: 93
+Percentage Identity: 0.172
+
+=== A0A552HA44 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:TRU68091.1};
+Bit Score: 161.0
+E-value: 0.02569
+Alignment Length: 75
+Percentage Identity: 0.266
+
+=== A0A1F9MA70 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:OGR01796.1};
+DE   Flags: Fragment;
+Bit Score: 152.0
+E-value: 0.02569
+Alignment Length: 83
+Percentage Identity: 0.228
+
+=== A0A6I6SKL2 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 137.0
+E-value: 0.02569
+Alignment Length: 82
+Percentage Identity: 0.268
+
+=== A0A2K4KZH8 ===
+DE   SubName: Full=Fis family transcriptional regulator {ECO:0000313|EMBL:POA78016.1};
+Bit Score: 133.0
+E-value: 0.02569
+Alignment Length: 94
+Percentage Identity: 0.159
+
+=== A0A6N8TFY6 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:MXO01869.1};
+Bit Score: 125.0
+E-value: 0.02569
+Alignment Length: 97
+Percentage Identity: 0.226
+
+=== A0A5B9QL71 ===
+DE   SubName: Full=Antitoxin HipB {ECO:0000313|EMBL:QEG37806.1};
+Bit Score: 125.0
+E-value: 0.02569
+Alignment Length: 102
+Percentage Identity: 0.156
+
+=== A0A328AAP6 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 118.0
+E-value: 0.02569
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A1W9HUB2 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 171.0
+E-value: 0.02715
+Alignment Length: 73
+Percentage Identity: 0.26
+
+=== B1ZA25 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 164.0
+E-value: 0.02715
+Alignment Length: 77
+Percentage Identity: 0.155
+
+=== A0A845XDD3 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NEP31020.1};
+Bit Score: 159.0
+E-value: 0.02715
+Alignment Length: 82
+Percentage Identity: 0.28
+
+=== A0A7K1ZGT8 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MXW64040.1};
+Bit Score: 158.0
+E-value: 0.02715
+Alignment Length: 76
+Percentage Identity: 0.276
+
+=== A0A6J4FZ57 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 148.0
+E-value: 0.02715
+Alignment Length: 73
+Percentage Identity: 0.219
+
+=== A0A397FU97 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RHZ35893.1};
+Bit Score: 133.0
+E-value: 0.02715
+Alignment Length: 110
+Percentage Identity: 0.209
+
+=== A0A511M9Z0 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 160.0
+E-value: 0.02869
+Alignment Length: 71
+Percentage Identity: 0.225
+
+=== A0A3C0TDY6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HAK53726.1};
+Bit Score: 148.0
+E-value: 0.02869
+Alignment Length: 78
+Percentage Identity: 0.205
+
+=== A0A495ZMY0 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RKU15765.1};
+Bit Score: 146.0
+E-value: 0.02869
+Alignment Length: 99
+Percentage Identity: 0.232
+
+=== A0A495ZZ16 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:RKU19871.1};
+Bit Score: 142.0
+E-value: 0.02869
+Alignment Length: 87
+Percentage Identity: 0.229
+
+=== A0A2H0Q599 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 139.0
+E-value: 0.02869
+Alignment Length: 83
+Percentage Identity: 0.216
+
+=== A0A1F9KU61 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 132.0
+E-value: 0.02869
+Alignment Length: 74
+Percentage Identity: 0.243
+
+=== G3A759 ===
+DE   SubName: Full=Putative transcriptional regulator, XRE family {ECO:0000313|EMBL:CCA86323.1};
+Bit Score: 160.0
+E-value: 0.03033
+Alignment Length: 75
+Percentage Identity: 0.253
+
+=== A0A1F2REC5 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 155.0
+E-value: 0.03033
+Alignment Length: 91
+Percentage Identity: 0.186
+
+=== A0A433USJ3 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 151.0
+E-value: 0.03033
+Alignment Length: 82
+Percentage Identity: 0.231
+
+=== A0A218KPL6 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 143.0
+E-value: 0.03033
+Alignment Length: 81
+Percentage Identity: 0.16
+
+=== A0A1F3SZX5 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 137.0
+E-value: 0.03033
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A843RUU0 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:MPZ18102.1};
+Bit Score: 134.0
+E-value: 0.03033
+Alignment Length: 86
+Percentage Identity: 0.186
+
+=== A0A6P2AB37 ===
+DE   SubName: Full=Fis family transcriptional regulator {ECO:0000313|EMBL:TVQ44853.1};
+Bit Score: 129.0
+E-value: 0.03033
+Alignment Length: 92
+Percentage Identity: 0.152
+
+=== A0A496XJ75 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 161.0
+E-value: 0.03205
+Alignment Length: 82
+Percentage Identity: 0.134
+
+=== A0A1V4BN73 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:OPF15531.1};
+Bit Score: 152.0
+E-value: 0.03205
+Alignment Length: 85
+Percentage Identity: 0.223
+
+=== A0A1F3XZ54 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 150.0
+E-value: 0.03205
+Alignment Length: 70
+Percentage Identity: 0.228
+
+=== U2FQZ8 ===
+DE   SubName: Full=Transcriptional regulator, XRE family {ECO:0000313|EMBL:ERJ39186.1};
+Bit Score: 148.0
+E-value: 0.03205
+Alignment Length: 67
+Percentage Identity: 0.283
+
+=== W9BYJ1 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:ESZ87500.1};
+Bit Score: 145.0
+E-value: 0.03205
+Alignment Length: 96
+Percentage Identity: 0.281
+
+=== A0A679HU41 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:BBU69106.1};
+Bit Score: 144.0
+E-value: 0.03205
+Alignment Length: 93
+Percentage Identity: 0.215
+
+=== A0A1Y0HZQ8 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 141.0
+E-value: 0.03205
+Alignment Length: 68
+Percentage Identity: 0.264
+
+=== A0A427C8M4 ===
+DE   SubName: Full=Fis family transcriptional regulator {ECO:0000313|EMBL:RRU08736.1};
+Bit Score: 127.0
+E-value: 0.03205
+Alignment Length: 96
+Percentage Identity: 0.145
+
+=== A0A0H2XVR5 ===
+DE   RecName: Full=Fis family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.03205
+Alignment Length: 95
+Percentage Identity: 0.178
+
+=== A0A1I7IZL2 ===
+DE   SubName: Full=Predicted DNA-binding protein, contains XRE-type HTH domain {ECO:0000313|EMBL:SFU78324.1};
+Bit Score: 160.0
+E-value: 0.03387
+Alignment Length: 69
+Percentage Identity: 0.275
+
+=== A0A2T1CYG2 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 158.0
+E-value: 0.03387
+Alignment Length: 69
+Percentage Identity: 0.246
+
+=== A0A2G2LXY1 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PHS27632.1};
+Bit Score: 151.0
+E-value: 0.03387
+Alignment Length: 97
+Percentage Identity: 0.206
+
+=== A0A2H0Q7R4 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 151.0
+E-value: 0.03387
+Alignment Length: 83
+Percentage Identity: 0.192
+
+=== A0A5E7BG27 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 144.0
+E-value: 0.03387
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A543PYQ8 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 154.0
+E-value: 0.0358
+Alignment Length: 79
+Percentage Identity: 0.189
+
+=== A0A150ZYQ2 ===
+DE   SubName: Full=Expression regulator NrxR {ECO:0000313|EMBL:KYH12237.1};
+Bit Score: 149.0
+E-value: 0.0358
+Alignment Length: 78
+Percentage Identity: 0.192
+
+=== A0A845D4M4 ===
+DE   SubName: Full=Acyltransferase family protein {ECO:0000313|EMBL:MYC21932.1};
+Bit Score: 142.0
+E-value: 0.0358
+Alignment Length: 100
+Percentage Identity: 0.27
+
+=== A0A0Q7PBW3 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 140.0
+E-value: 0.0358
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A426CJX0 ===
+DE   SubName: Full=Fis family transcriptional regulator {ECO:0000313|EMBL:RRJ96391.1};
+Bit Score: 125.0
+E-value: 0.0358
+Alignment Length: 95
+Percentage Identity: 0.168
+
+=== A0A352DDQ7 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 114.0
+E-value: 0.0358
+Alignment Length: 101
+Percentage Identity: 0.227
+
+=== A0A7W1JNF9 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:MBA3722645.1};
+Bit Score: 143.0
+E-value: 0.03783
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A1Q5RC30 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 142.0
+E-value: 0.03783
+Alignment Length: 90
+Percentage Identity: 0.188
+
+=== A0A1G1HZZ9 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 133.0
+E-value: 0.03783
+Alignment Length: 76
+Percentage Identity: 0.276
+
+=== A0A2J0MEJ3 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PIZ83811.1};
+Bit Score: 130.0
+E-value: 0.03783
+Alignment Length: 76
+Percentage Identity: 0.21
+
+=== A0A3C0X6I0 ===
+DE   SubName: Full=Fis family transcriptional regulator {ECO:0000313|EMBL:HAL22122.1};
+Bit Score: 129.0
+E-value: 0.03783
+Alignment Length: 95
+Percentage Identity: 0.136
+
+=== A0A1G7A0L4 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:SDE08320.1};
+Bit Score: 120.0
+E-value: 0.03783
+Alignment Length: 90
+Percentage Identity: 0.233
+
+=== A0A1F6LPQ9 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 114.0
+E-value: 0.03783
+Alignment Length: 98
+Percentage Identity: 0.183
+
+=== A0A2V7DM28 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 110.0
+E-value: 0.03783
+Alignment Length: 75
+Percentage Identity: 0.28
+
+=== A0A218KPT3 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:APR98708.1};
+Bit Score: 155.0
+E-value: 0.03998
+Alignment Length: 80
+Percentage Identity: 0.262
+
+=== A0A495ZZR7 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:RKU20111.1};
+Bit Score: 149.0
+E-value: 0.03998
+Alignment Length: 84
+Percentage Identity: 0.214
+
+=== A0A4R3A235 ===
+DE   SubName: Full=Putative XRE-type DNA-binding protein {ECO:0000313|EMBL:TCR04415.1};
+Bit Score: 148.0
+E-value: 0.03998
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A086BPC0 ===
+DE   SubName: Full=Transcriptional regulator, XRE family {ECO:0000313|EMBL:KFF31784.1};
+Bit Score: 139.0
+E-value: 0.03998
+Alignment Length: 68
+Percentage Identity: 0.235
+
+=== A0A2V7RWH0 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|Pfam:PF13443};
+Bit Score: 137.0
+E-value: 0.03998
+Alignment Length: 73
+Percentage Identity: 0.287
+
+=== D5EET8 ===
+DE   SubName: Full=Transcriptional regulator, XRE family {ECO:0000313|EMBL:ADE57070.1};
+Bit Score: 134.0
+E-value: 0.03998
+Alignment Length: 78
+Percentage Identity: 0.179
+
+=== A0A3B9YJ12 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 130.0
+E-value: 0.03998
+Alignment Length: 73
+Percentage Identity: 0.232
+
+=== A0A522B5Y8 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:TAL12863.1};
+Bit Score: 124.0
+E-value: 0.03998
+Alignment Length: 77
+Percentage Identity: 0.22
+
+=== A0A2H0LF72 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PIQ83073.1};
+Bit Score: 121.0
+E-value: 0.03998
+Alignment Length: 87
+Percentage Identity: 0.252
+
+=== A0A7W5KU08 ===
+DE   SubName: Full=Putative XRE-type DNA-binding protein {ECO:0000313|EMBL:MBB3388378.1};
+Bit Score: 137.0
+E-value: 0.04225
+Alignment Length: 103
+Percentage Identity: 0.184
+
+=== A0A1F2RJL8 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:OFV93882.1};
+Bit Score: 123.0
+E-value: 0.04225
+Alignment Length: 82
+Percentage Identity: 0.231
+
+=== A0A5C1QH70 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:QEN06837.1};
+Bit Score: 121.0
+E-value: 0.04225
+Alignment Length: 76
+Percentage Identity: 0.25
+
+=== A0A354F2X6 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:HBI23114.1};
+Bit Score: 113.0
+E-value: 0.04225
+Alignment Length: 84
+Percentage Identity: 0.178
+
+=== A0A151JGS8 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 157.0
+E-value: 0.04465
+Alignment Length: 59
+Percentage Identity: 0.338
+
+=== A0A1F3ABQ3 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:OFX03739.1};
+Bit Score: 154.0
+E-value: 0.04465
+Alignment Length: 84
+Percentage Identity: 0.214
+
+=== A0A4Y7ZYA4 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 148.0
+E-value: 0.04465
+Alignment Length: 70
+Percentage Identity: 0.285
+
+=== A0A6P0KSF2 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:NEO39046.1};
+Bit Score: 133.0
+E-value: 0.04465
+Alignment Length: 98
+Percentage Identity: 0.224
+
+=== A0A1F9QKS2 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 125.0
+E-value: 0.04465
+Alignment Length: 77
+Percentage Identity: 0.272
+
+=== A0A840LHP6 ===
+DE   SubName: Full=DNA-binding Xre family transcriptional regulator {ECO:0000313|EMBL:MBB4846133.1};
+Bit Score: 121.0
+E-value: 0.04465
+Alignment Length: 96
+Percentage Identity: 0.187
+
+=== A0A2N6LAR6 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:PMB19586.1};
+Bit Score: 117.0
+E-value: 0.04465
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== A0A1Z4RPD4 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 112.0
+E-value: 0.04465
+Alignment Length: 98
+Percentage Identity: 0.163
+
+=== A0A7C2M4D4 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:HER25344.1};
+Bit Score: 112.0
+E-value: 0.04465
+Alignment Length: 92
+Percentage Identity: 0.163
+
+=== A0A1G0IZ22 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 158.0
+E-value: 0.04719
+Alignment Length: 74
+Percentage Identity: 0.256
+
+=== S7VA05 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 151.0
+E-value: 0.04719
+Alignment Length: 76
+Percentage Identity: 0.302
+
+=== A0A353ENG0 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|Pfam:PF13443};
+Bit Score: 145.0
+E-value: 0.04719
+Alignment Length: 77
+Percentage Identity: 0.168
+
+=== A0A2H0J0Y6 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:PIQ51963.1};
+Bit Score: 138.0
+E-value: 0.04719
+Alignment Length: 92
+Percentage Identity: 0.282
+
+=== A0A5C8IQS0 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 127.0
+E-value: 0.04719
+Alignment Length: 102
+Percentage Identity: 0.166
+
+=== A0A267AM15 ===
+DE   SubName: Full=Uncharacterized conserved small protein {ECO:0000313|EMBL:VFB19840.1};
+Bit Score: 126.0
+E-value: 0.04719
+Alignment Length: 96
+Percentage Identity: 0.187
+
+=== A0A1A8XRC3 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 123.0
+E-value: 0.04719
+Alignment Length: 95
+Percentage Identity: 0.189
+
+=== A0A535P7L3 ===
+DE   SubName: Full=Helix-turn-helix transcriptional regulator {ECO:0000313|EMBL:TMD28368.1};
+Bit Score: 121.0
+E-value: 0.04719
+Alignment Length: 83
+Percentage Identity: 0.228
+
+=== A0A071M3N5 ===
+DE   SubName: Full=Fis family transcriptional regulator {ECO:0000313|EMBL:KEA55574.1};
+Bit Score: 119.0
+E-value: 0.04719
+Alignment Length: 95
+Percentage Identity: 0.178
+
+=== A0A3A5AZZ8 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:RJR47370.1};
+Bit Score: 113.0
+E-value: 0.04719
+Alignment Length: 100
+Percentage Identity: 0.24
+
+=== A0A397FWI7 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:RHZ36717.1};
+Bit Score: 156.0
+E-value: 0.04988
+Alignment Length: 69
+Percentage Identity: 0.202
+
+=== A0A161LWK7 ===
+DE   RecName: Full=HigA2-like helix-turn-helix domain-containing protein {ECO:0000259|Pfam:PF13744};
+Bit Score: 142.0
+E-value: 0.04988
+Alignment Length: 82
+Percentage Identity: 0.207
+
+=== A0A126NW28 ===
+DE   SubName: Full=XRE family transcriptional regulator {ECO:0000313|EMBL:AMJ60803.1};
+Bit Score: 140.0
+E-value: 0.04988
+Alignment Length: 98
+Percentage Identity: 0.173
+
+=== A0A218KQU5 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 131.0
+E-value: 0.04988
+Alignment Length: 92
+Percentage Identity: 0.228
+

@@ -1,0 +1,469 @@
+=== A0A3N7GR62 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RQP10233.1};
+Bit Score: 852.0
+E-value: 2.283e-22
+Alignment Length: 116
+Percentage Identity: 0.827
+
+=== A0A2D5TSR0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAD98722.1};
+Bit Score: 612.0
+E-value: 7.075e-16
+Alignment Length: 110
+Percentage Identity: 0.463
+
+=== A0A2D8BQC1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAL08387.1};
+Bit Score: 542.0
+E-value: 2.78e-14
+Alignment Length: 111
+Percentage Identity: 0.342
+
+=== A0A1F4YL18 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OGC93933.1};
+Bit Score: 508.0
+E-value: 8.473e-14
+Alignment Length: 115
+Percentage Identity: 0.33
+
+=== A0A2E3MWD3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBB76546.1};
+Bit Score: 474.0
+E-value: 6.904e-13
+Alignment Length: 113
+Percentage Identity: 0.415
+
+=== A0A1F4YPF1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OGC95842.1};
+Bit Score: 466.0
+E-value: 1.516e-12
+Alignment Length: 109
+Percentage Identity: 0.275
+
+=== A0A2D5GQG5 ===
+DE   RecName: Full=SMODS-associated and fused to various effectors domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 449.0
+E-value: 2.562e-12
+Alignment Length: 110
+Percentage Identity: 0.336
+
+=== A0A0F9E545 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKL25031.1};
+DE   Flags: Fragment;
+Bit Score: 444.0
+E-value: 5.625e-12
+Alignment Length: 98
+Percentage Identity: 0.448
+
+=== A0A2G2GAY6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PHR58727.1};
+Bit Score: 447.0
+E-value: 6.006e-12
+Alignment Length: 105
+Percentage Identity: 0.352
+
+=== A0A2W1B2J3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PZC48498.1};
+Bit Score: 401.0
+E-value: 1.714e-11
+Alignment Length: 120
+Percentage Identity: 0.3
+
+=== A0A2D6Q252 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAG59267.1};
+Bit Score: 418.0
+E-value: 2.541e-11
+Alignment Length: 107
+Percentage Identity: 0.317
+
+=== A0A1Z8VZC4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OUU64562.1};
+Bit Score: 422.0
+E-value: 2.897e-11
+Alignment Length: 116
+Percentage Identity: 0.293
+
+=== A0A3D5IWB4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HCV80165.1};
+DE   Flags: Fragment;
+Bit Score: 409.0
+E-value: 2.897e-11
+Alignment Length: 118
+Percentage Identity: 0.279
+
+=== A0A2D8BTQ3 ===
+DE   RecName: Full=SMODS-associated and fused to various effectors domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 417.0
+E-value: 3.302e-11
+Alignment Length: 111
+Percentage Identity: 0.288
+
+=== A0A7K4MYD8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NWJ57851.1};
+Bit Score: 404.0
+E-value: 3.302e-11
+Alignment Length: 117
+Percentage Identity: 0.29
+
+=== A0A5C7PVX6 ===
+DE   RecName: Full=CRISPR-associated protein Csx3 {ECO:0008006|Google:ProtNLM};
+Bit Score: 419.0
+E-value: 4.02e-11
+Alignment Length: 112
+Percentage Identity: 0.339
+
+=== A0A2E7RP42 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBO47968.1};
+Bit Score: 404.0
+E-value: 5.958e-11
+Alignment Length: 118
+Percentage Identity: 0.355
+
+=== A0A497NYB6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RLI44003.1};
+DE   Flags: Fragment;
+Bit Score: 390.0
+E-value: 5.958e-11
+Alignment Length: 116
+Percentage Identity: 0.293
+
+=== A0A2E4HHM0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBE16845.1};
+Bit Score: 411.0
+E-value: 6.361e-11
+Alignment Length: 111
+Percentage Identity: 0.333
+
+=== A0A1Z9UIF3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OUX52886.1};
+Bit Score: 386.0
+E-value: 1.225e-10
+Alignment Length: 108
+Percentage Identity: 0.333
+
+=== A0A2D7WW54 ===
+DE   RecName: Full=SAVED domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 391.0
+E-value: 2.07e-10
+Alignment Length: 116
+Percentage Identity: 0.275
+
+=== A0A382JAY0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SVC09270.1};
+Bit Score: 369.0
+E-value: 3.988e-10
+Alignment Length: 116
+Percentage Identity: 0.301
+
+=== A0A0F9WPQ3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKN88171.1};
+Bit Score: 329.0
+E-value: 2.669e-09
+Alignment Length: 117
+Percentage Identity: 0.29
+
+=== A0A2E1RUY7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAW12611.1};
+Bit Score: 334.0
+E-value: 5.141e-09
+Alignment Length: 116
+Percentage Identity: 0.258
+
+=== A0A2D6XLT5 ===
+DE   RecName: Full=CRISPR-associated protein Csx3 {ECO:0008006|Google:ProtNLM};
+Bit Score: 321.0
+E-value: 1.374e-08
+Alignment Length: 110
+Percentage Identity: 0.245
+
+=== A0A521ZMU6 ===
+DE   RecName: Full=SMODS-associated and fused to various effectors domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 319.0
+E-value: 4.776e-08
+Alignment Length: 111
+Percentage Identity: 0.306
+
+=== A0A356PEX7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HBP66249.1};
+Bit Score: 291.0
+E-value: 8.068e-08
+Alignment Length: 113
+Percentage Identity: 0.336
+
+=== A0A7Z9SZS1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HIC51183.1};
+Bit Score: 292.0
+E-value: 1.277e-07
+Alignment Length: 95
+Percentage Identity: 0.326
+
+=== A0A0F9G7R4 ===
+DE   RecName: Full=SMODS-associated and fused to various effectors domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 271.0
+E-value: 1.277e-07
+Alignment Length: 115
+Percentage Identity: 0.278
+
+=== A0A0F9TWS7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKN53601.1};
+Bit Score: 277.0
+E-value: 2.303e-07
+Alignment Length: 114
+Percentage Identity: 0.263
+
+=== A0A0F8XX70 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKK73707.1};
+Bit Score: 276.0
+E-value: 2.626e-07
+Alignment Length: 117
+Percentage Identity: 0.256
+
+=== A0A0F8YQN7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKK83753.1};
+Bit Score: 276.0
+E-value: 2.994e-07
+Alignment Length: 110
+Percentage Identity: 0.209
+
+=== A0A661THL0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RLC32207.1};
+Bit Score: 263.0
+E-value: 3.196e-07
+Alignment Length: 117
+Percentage Identity: 0.162
+
+=== A0A7V3H351 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HFS82848.1};
+Bit Score: 262.0
+E-value: 3.891e-07
+Alignment Length: 109
+Percentage Identity: 0.229
+
+=== A0A7V9U0V9 ===
+DE   RecName: Full=SMODS-associated and fused to various effectors domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 260.0
+E-value: 4.737e-07
+Alignment Length: 111
+Percentage Identity: 0.207
+
+=== A0A0F9T9A8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKN77770.1};
+Bit Score: 222.0
+E-value: 4.737e-07
+Alignment Length: 120
+Percentage Identity: 0.291
+
+=== A0A2U1K1R0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PWA11099.1};
+Bit Score: 266.0
+E-value: 5.058e-07
+Alignment Length: 111
+Percentage Identity: 0.234
+
+=== A0A661CS41 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RKZ84571.1};
+Bit Score: 245.0
+E-value: 5.766e-07
+Alignment Length: 116
+Percentage Identity: 0.232
+
+=== A0A2M7SXZ5 ===
+DE   RecName: Full=SMODS-associated and fused to various effectors domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 243.0
+E-value: 6.157e-07
+Alignment Length: 117
+Percentage Identity: 0.222
+
+=== A0A6H1ZPH7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QJA49474.1};
+Bit Score: 254.0
+E-value: 7.019e-07
+Alignment Length: 121
+Percentage Identity: 0.214
+
+=== A0A6M3L6Z2 ===
+DE   RecName: Full=CRISPR-associated protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 250.0
+E-value: 9.742e-07
+Alignment Length: 115
+Percentage Identity: 0.234
+
+=== A0A6M3LTH4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QJA95998.1};
+Bit Score: 268.0
+E-value: 1.111e-06
+Alignment Length: 109
+Percentage Identity: 0.183
+
+=== A0A0F9TEV0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKN73362.1};
+Bit Score: 206.0
+E-value: 1.352e-06
+Alignment Length: 121
+Percentage Identity: 0.173
+
+=== A0A0F9ETY8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKL77593.1};
+Bit Score: 246.0
+E-value: 1.757e-06
+Alignment Length: 111
+Percentage Identity: 0.189
+
+=== A0A7J2KKY9 ===
+DE   RecName: Full=CRISPR-associated protein Csx3 {ECO:0008006|Google:ProtNLM};
+Bit Score: 253.0
+E-value: 2.439e-06
+Alignment Length: 109
+Percentage Identity: 0.201
+
+=== A0A7X7BY86 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NLD21656.1};
+Bit Score: 225.0
+E-value: 3.385e-06
+Alignment Length: 114
+Percentage Identity: 0.21
+
+=== A0A7C1NS81 ===
+DE   RecName: Full=CRISPR-associated protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 235.0
+E-value: 4.121e-06
+Alignment Length: 118
+Percentage Identity: 0.203
+
+=== A0A0F9T6C6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKN70467.1};
+Bit Score: 216.0
+E-value: 7.434e-06
+Alignment Length: 113
+Percentage Identity: 0.247
+
+=== A0A0F9VKE5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKN73981.1};
+Bit Score: 216.0
+E-value: 1.256e-05
+Alignment Length: 106
+Percentage Identity: 0.207
+
+=== A0A0F9HL33 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKM03877.1};
+Bit Score: 209.0
+E-value: 1.256e-05
+Alignment Length: 113
+Percentage Identity: 0.194
+
+=== A0A1Z9PLW0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OUW93012.1};
+DE   Flags: Fragment;
+Bit Score: 208.0
+E-value: 1.256e-05
+Alignment Length: 95
+Percentage Identity: 0.326
+
+=== A0A0F9JZ86 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKM75119.1};
+Bit Score: 213.0
+E-value: 2.419e-05
+Alignment Length: 109
+Percentage Identity: 0.174
+
+=== A0A3E0QWP9 ===
+DE   RecName: Full=SMODS-associated and fused to various effectors domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 181.0
+E-value: 3.145e-05
+Alignment Length: 117
+Percentage Identity: 0.188
+
+=== A0A0F9QLL6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKN43309.1};
+Bit Score: 185.0
+E-value: 3.585e-05
+Alignment Length: 112
+Percentage Identity: 0.205
+
+=== X0SRW0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAF83863.1};
+DE   Flags: Fragment;
+Bit Score: 157.0
+E-value: 0.000333
+Alignment Length: 102
+Percentage Identity: 0.274
+
+=== A0A2E8DYT5 ===
+DE   RecName: Full=CRISPR-associated protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 127.0
+E-value: 0.002229
+Alignment Length: 110
+Percentage Identity: 0.136
+
+=== A0A850AH04 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NUQ43918.1};
+Bit Score: 129.0
+E-value: 0.003527
+Alignment Length: 114
+Percentage Identity: 0.122
+
+=== A0A1E2UTD7 ===
+DE   RecName: Full=SMODS-associated and fused to various effectors domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.004021
+Alignment Length: 119
+Percentage Identity: 0.168
+
+=== H1XUD9 ===
+DE   SubName: Full=CRISPR-associated (Cas) DxTHG family protein {ECO:0000313|EMBL:APF18787.1};
+DE   SubName: Full=CRISPR-associated protein TM1812 {ECO:0000313|EMBL:EHO42765.1};
+Bit Score: 120.0
+E-value: 0.005227
+Alignment Length: 119
+Percentage Identity: 0.1
+
+=== A0A419GEQ3 ===
+DE   RecName: Full=SMODS-associated and fused to various effectors domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 100.0
+E-value: 0.007746
+Alignment Length: 117
+Percentage Identity: 0.162
+
+=== A0A0F8W1N5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKK50617.1};
+DE   Flags: Fragment;
+Bit Score: 139.0
+E-value: 0.008831
+Alignment Length: 85
+Percentage Identity: 0.164
+
+=== A0A654BR44 ===
+DE   RecName: Full=SMODS-associated and fused to various effectors domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 98.0
+E-value: 0.008831
+Alignment Length: 115
+Percentage Identity: 0.156
+
+=== A0A6N9T916 ===
+DE   SubName: Full=Recombinase family protein {ECO:0000313|EMBL:NDW07780.1};
+Bit Score: 83.0
+E-value: 0.01148
+Alignment Length: 125
+Percentage Identity: 0.152
+
+=== A0A0F9SDN0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKN66965.1};
+Bit Score: 101.0
+E-value: 0.02521
+Alignment Length: 109
+Percentage Identity: 0.165
+
+=== C9L7P3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EEX21788.1};
+Bit Score: 78.0
+E-value: 0.03276
+Alignment Length: 132
+Percentage Identity: 0.121
+
+=== H2C4W0 ===
+DE   SubName: Full=CRISPR locus-related DNA-binding protein {ECO:0000313|EMBL:EHP69902.1};
+Bit Score: 68.0
+E-value: 0.04547
+Alignment Length: 139
+Percentage Identity: 0.1
+

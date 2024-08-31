@@ -1,0 +1,105 @@
+=== A0A3C1YVS5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HAP38286.1};
+Bit Score: 188.0
+E-value: 0.0001647
+Alignment Length: 115
+Percentage Identity: 0.286
+
+=== A0A366G4L5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RBP21741.1};
+Bit Score: 166.0
+E-value: 0.0001971
+Alignment Length: 141
+Percentage Identity: 0.241
+
+=== A0A3M4S4G1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RMR09799.1};
+Bit Score: 183.0
+E-value: 0.0002222
+Alignment Length: 119
+Percentage Identity: 0.302
+
+=== A0A510XGS6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GEK48940.1};
+Bit Score: 147.0
+E-value: 0.0003587
+Alignment Length: 153
+Percentage Identity: 0.235
+
+=== A0A6N3J6A4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ABM25352.1};
+Bit Score: 163.0
+E-value: 0.0008294
+Alignment Length: 124
+Percentage Identity: 0.282
+
+=== A0A1G8V5B6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SDJ60545.1};
+Bit Score: 158.0
+E-value: 0.001261
+Alignment Length: 112
+Percentage Identity: 0.294
+
+=== A0A6G6INU9 ===
+DE   RecName: Full=Chromosome partitioning protein ParB {ECO:0008006|Google:ProtNLM};
+Bit Score: 155.0
+E-value: 0.001261
+Alignment Length: 116
+Percentage Identity: 0.336
+
+=== A0A6N7D783 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAF1049693.1};
+Bit Score: 120.0
+E-value: 0.002162
+Alignment Length: 147
+Percentage Identity: 0.265
+
+=== A0A0P9YTN3 ===
+DE   SubName: Full=Fimbrial protein {ECO:0000313|EMBL:KPY49270.1};
+Bit Score: 152.0
+E-value: 0.002916
+Alignment Length: 118
+Percentage Identity: 0.271
+
+=== A0A3M2W3L4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RML45993.1};
+Bit Score: 128.0
+E-value: 0.004177
+Alignment Length: 172
+Percentage Identity: 0.209
+
+=== A0A1P8ENF7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:APV37709.1};
+Bit Score: 158.0
+E-value: 0.004708
+Alignment Length: 92
+Percentage Identity: 0.326
+
+=== G0ER05 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AEI76523.1};
+Bit Score: 155.0
+E-value: 0.004708
+Alignment Length: 122
+Percentage Identity: 0.221
+
+=== A0A656G811 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EGH21754.1};
+Bit Score: 125.0
+E-value: 0.02837
+Alignment Length: 80
+Percentage Identity: 0.262
+
+=== A0A378YY06 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SUA81964.1};
+Bit Score: 97.0
+E-value: 0.02837
+Alignment Length: 165
+Percentage Identity: 0.206
+
+=== A0A0V0PWN6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KRW94305.1};
+Bit Score: 95.0
+E-value: 0.03198
+Alignment Length: 148
+Percentage Identity: 0.222
+

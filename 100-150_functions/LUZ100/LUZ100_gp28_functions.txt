@@ -1,0 +1,154 @@
+=== A0A136Q9E4 ===
+DE   RecName: Full=DUF3310 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 431.0
+E-value: 4.504e-09
+Alignment Length: 83
+Percentage Identity: 0.927
+
+=== A0A0F8YAP1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKK78448.1};
+Bit Score: 356.0
+E-value: 1.052e-07
+Alignment Length: 106
+Percentage Identity: 0.5
+
+=== A0A3R9MYK8 ===
+DE   RecName: Full=DUF3310 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 150.0
+E-value: 0.002945
+Alignment Length: 98
+Percentage Identity: 0.336
+
+=== A0A1F0THF5 ===
+DE   RecName: Full=DUF3310 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.006121
+Alignment Length: 100
+Percentage Identity: 0.32
+
+=== A0A414CII1 ===
+DE   SubName: Full=DUF3310 domain-containing protein {ECO:0000313|EMBL:RHC94815.1};
+Bit Score: 173.0
+E-value: 0.006475
+Alignment Length: 102
+Percentage Identity: 0.303
+
+=== A0A2M9P0F8 ===
+DE   RecName: Full=DUF3310 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 148.0
+E-value: 0.007666
+Alignment Length: 105
+Percentage Identity: 0.304
+
+=== A0A0U0KTY0 ===
+DE   SubName: Full=Phage protein {ECO:0000313|EMBL:COR87272.1};
+Bit Score: 143.0
+E-value: 0.007666
+Alignment Length: 94
+Percentage Identity: 0.319
+
+=== A0A3D4KYY7 ===
+DE   RecName: Full=DUF3310 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.008109
+Alignment Length: 97
+Percentage Identity: 0.36
+
+=== A0A382F1F0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SVB56033.1};
+Bit Score: 130.0
+E-value: 0.008109
+Alignment Length: 99
+Percentage Identity: 0.363
+
+=== A0A5R9FB36 ===
+DE   SubName: Full=DUF3310 domain-containing protein {ECO:0000313|EMBL:TLS37754.1};
+Bit Score: 147.0
+E-value: 0.01506
+Alignment Length: 105
+Percentage Identity: 0.276
+
+=== A0A7C1ZK19 ===
+DE   SubName: Full=DUF3310 domain-containing protein {ECO:0000313|EMBL:HEC66685.1};
+Bit Score: 139.0
+E-value: 0.01506
+Alignment Length: 91
+Percentage Identity: 0.329
+
+=== A0A3C0GH98 ===
+DE   RecName: Full=DUF3310 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 138.0
+E-value: 0.01593
+Alignment Length: 88
+Percentage Identity: 0.409
+
+=== U2M4N3 ===
+DE   RecName: Full=DUF3310 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.01593
+Alignment Length: 96
+Percentage Identity: 0.333
+
+=== A0A3E0QT16 ===
+DE   SubName: Full=DUF3310 domain-containing protein {ECO:0000313|EMBL:REK53347.1};
+Bit Score: 141.0
+E-value: 0.02362
+Alignment Length: 92
+Percentage Identity: 0.304
+
+=== A0A1C6L091 ===
+DE   SubName: Full=Protein of unknwon function (DUF3310) {ECO:0000313|EMBL:SCJ99983.1};
+Bit Score: 130.0
+E-value: 0.02362
+Alignment Length: 89
+Percentage Identity: 0.314
+
+=== A0A2E0K198 ===
+DE   RecName: Full=DUF3310 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 136.0
+E-value: 0.02958
+Alignment Length: 87
+Percentage Identity: 0.344
+
+=== K8ME86 ===
+DE   RecName: Full=Protein of unknwon function (DUF3310) {ECO:0008006|Google:ProtNLM};
+Bit Score: 148.0
+E-value: 0.03129
+Alignment Length: 100
+Percentage Identity: 0.28
+
+=== A0A1F1CDE2 ===
+DE   RecName: Full=DUF3310 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 146.0
+E-value: 0.03129
+Alignment Length: 102
+Percentage Identity: 0.284
+
+=== A0A2T6EDW3 ===
+DE   RecName: Full=DUF3310 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.03129
+Alignment Length: 91
+Percentage Identity: 0.285
+
+=== A0A2I1M1I6 ===
+DE   SubName: Full=DUF3310 domain-containing protein {ECO:0000313|EMBL:PKZ13949.1};
+Bit Score: 121.0
+E-value: 0.03502
+Alignment Length: 98
+Percentage Identity: 0.326
+
+=== A0A3C0G2B3 ===
+DE   RecName: Full=DUF3310 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 127.0
+E-value: 0.04146
+Alignment Length: 85
+Percentage Identity: 0.317
+
+=== V6Z2M2 ===
+DE   RecName: Full=Gp29 {ECO:0008006|Google:ProtNLM};
+Bit Score: 131.0
+E-value: 0.0464
+Alignment Length: 90
+Percentage Identity: 0.322
+

@@ -1,0 +1,7 @@
+=== A0A849BJ78 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NNH14068.1};
+Bit Score: 162.0
+E-value: 0.006968
+Alignment Length: 59
+Percentage Identity: 0.22
+

@@ -1,0 +1,15 @@
+=== A0A2H0L7D4 ===
+DE   SubName: Full=AAA family ATPase {ECO:0000313|EMBL:PIQ79564.1};
+Bit Score: 120.0
+E-value: 0.02306
+Alignment Length: 72
+Percentage Identity: 0.152
+
+=== C4FJP1 ===
+DE   SubName: Full=AAA ATPase {ECO:0000313|EMBL:EEP60716.1};
+DE   Flags: Fragment;
+Bit Score: 122.0
+E-value: 0.02907
+Alignment Length: 76
+Percentage Identity: 0.144
+

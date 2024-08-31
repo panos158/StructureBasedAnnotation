@@ -1,0 +1,1671 @@
+=== A0A2E8I5U8 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 438.0
+E-value: 1.114e-11
+Alignment Length: 121
+Percentage Identity: 0.371
+
+=== A0A1G9ISG6 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 395.0
+E-value: 9.764e-11
+Alignment Length: 114
+Percentage Identity: 0.385
+
+=== A0A5W3ES62 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:EBW6073444.1};
+Bit Score: 387.0
+E-value: 3.886e-10
+Alignment Length: 123
+Percentage Identity: 0.39
+
+=== A0A357BQT2 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 360.0
+E-value: 1.884e-09
+Alignment Length: 120
+Percentage Identity: 0.391
+
+=== A0A1V4M5G1 ===
+DE   RecName: Full=DUF2493 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 361.0
+E-value: 2.617e-09
+Alignment Length: 113
+Percentage Identity: 0.371
+
+=== A0A5U8XK44 ===
+DE   RecName: Full=DUF488 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 340.0
+E-value: 7.019e-09
+Alignment Length: 127
+Percentage Identity: 0.338
+
+=== A0A2E0L1S3 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 330.0
+E-value: 7.019e-09
+Alignment Length: 127
+Percentage Identity: 0.338
+
+=== A0A662MBB0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RLF65865.1};
+Bit Score: 313.0
+E-value: 8.55e-09
+Alignment Length: 123
+Percentage Identity: 0.373
+
+=== A0A6M3M0L9 ===
+DE   RecName: Full=DUF488 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 308.0
+E-value: 2.01e-08
+Alignment Length: 124
+Percentage Identity: 0.306
+
+=== A0A2D6U058 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 306.0
+E-value: 2.983e-08
+Alignment Length: 104
+Percentage Identity: 0.403
+
+=== A0A357YR63 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 311.0
+E-value: 3.186e-08
+Alignment Length: 120
+Percentage Identity: 0.366
+
+=== A0A7C1ZHI6 ===
+DE   RecName: Full=DUF488 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 309.0
+E-value: 4.426e-08
+Alignment Length: 121
+Percentage Identity: 0.314
+
+=== A0A662BE42 ===
+DE   RecName: Full=DUF4326 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 295.0
+E-value: 9.746e-08
+Alignment Length: 120
+Percentage Identity: 0.316
+
+=== A0A7Y4TYY2 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 286.0
+E-value: 1.112e-07
+Alignment Length: 117
+Percentage Identity: 0.341
+
+=== A0A7C3I8M6 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 273.0
+E-value: 5.388e-07
+Alignment Length: 115
+Percentage Identity: 0.2
+
+=== A0A7X8XIC2 ===
+DE   RecName: Full=DUF488 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 280.0
+E-value: 8.539e-07
+Alignment Length: 98
+Percentage Identity: 0.408
+
+=== A0A524MAM1 ===
+DE   RecName: Full=DUF488 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 224.0
+E-value: 1.04e-06
+Alignment Length: 124
+Percentage Identity: 0.306
+
+=== A0A0A2HYG5 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 225.0
+E-value: 1.445e-06
+Alignment Length: 123
+Percentage Identity: 0.243
+
+=== K2ED13 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 210.0
+E-value: 2.612e-06
+Alignment Length: 125
+Percentage Identity: 0.296
+
+=== A0A7Y5NVS7 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 228.0
+E-value: 3.629e-06
+Alignment Length: 137
+Percentage Identity: 0.255
+
+=== A0A3E4YBL0 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:RGM72157.1};
+Bit Score: 214.0
+E-value: 4.139e-06
+Alignment Length: 124
+Percentage Identity: 0.266
+
+=== A0A1V5BAW4 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 197.0
+E-value: 7.006e-06
+Alignment Length: 123
+Percentage Identity: 0.243
+
+=== A0A843I0Q1 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:MBO7735919.1};
+Bit Score: 198.0
+E-value: 7.482e-06
+Alignment Length: 123
+Percentage Identity: 0.211
+
+=== A0A7V9JDP0 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:MBA2453802.1};
+Bit Score: 200.0
+E-value: 9.734e-06
+Alignment Length: 146
+Percentage Identity: 0.219
+
+=== D7CPL9 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 208.0
+E-value: 1.04e-05
+Alignment Length: 147
+Percentage Identity: 0.204
+
+=== A0A7C4VLB7 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:HGY24545.1};
+Bit Score: 208.0
+E-value: 1.444e-05
+Alignment Length: 127
+Percentage Identity: 0.251
+
+=== A0A1G3A5T8 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 192.0
+E-value: 1.542e-05
+Alignment Length: 146
+Percentage Identity: 0.178
+
+=== A0A642PQ01 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:KAA5412721.1};
+Bit Score: 193.0
+E-value: 1.759e-05
+Alignment Length: 127
+Percentage Identity: 0.267
+
+=== A0A1V6CK93 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 180.0
+E-value: 2.143e-05
+Alignment Length: 128
+Percentage Identity: 0.242
+
+=== A0A7X5D5B4 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:NBH48288.1};
+Bit Score: 174.0
+E-value: 2.289e-05
+Alignment Length: 124
+Percentage Identity: 0.233
+
+=== A0A178TEQ8 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:RWU07907.1};
+Bit Score: 184.0
+E-value: 2.788e-05
+Alignment Length: 144
+Percentage Identity: 0.18
+
+=== A0A7X7LMK9 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:NLF45347.1};
+Bit Score: 192.0
+E-value: 3.18e-05
+Alignment Length: 147
+Percentage Identity: 0.197
+
+=== A0A7C3L1F3 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:HFP63793.1};
+Bit Score: 188.0
+E-value: 3.396e-05
+Alignment Length: 120
+Percentage Identity: 0.241
+
+=== A0A7J4M525 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:HIH51439.1};
+Bit Score: 193.0
+E-value: 3.874e-05
+Alignment Length: 139
+Percentage Identity: 0.215
+
+=== A0A2Z5PH53 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 191.0
+E-value: 4.137e-05
+Alignment Length: 150
+Percentage Identity: 0.206
+
+=== A0A7W1XC70 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 174.0
+E-value: 4.137e-05
+Alignment Length: 120
+Percentage Identity: 0.25
+
+=== A0A7C4N3J0 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:HGP76763.1};
+Bit Score: 185.0
+E-value: 4.418e-05
+Alignment Length: 142
+Percentage Identity: 0.161
+
+=== A0A132GVL0 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 184.0
+E-value: 4.718e-05
+Alignment Length: 149
+Percentage Identity: 0.194
+
+=== A0A497PNE4 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 178.0
+E-value: 5.039e-05
+Alignment Length: 127
+Percentage Identity: 0.251
+
+=== A0A7C2V5V1 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:HEW46462.1};
+Bit Score: 178.0
+E-value: 5.039e-05
+Alignment Length: 149
+Percentage Identity: 0.174
+
+=== A0A432I1A4 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 188.0
+E-value: 5.382e-05
+Alignment Length: 127
+Percentage Identity: 0.196
+
+=== A0A2W4MEV1 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 186.0
+E-value: 5.382e-05
+Alignment Length: 146
+Percentage Identity: 0.171
+
+=== A0A2V2DGJ6 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 178.0
+E-value: 5.382e-05
+Alignment Length: 122
+Percentage Identity: 0.27
+
+=== A0A7C1XM61 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:HEB86835.1};
+Bit Score: 175.0
+E-value: 5.748e-05
+Alignment Length: 147
+Percentage Identity: 0.19
+
+=== A0A511BBA8 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 185.0
+E-value: 6.138e-05
+Alignment Length: 146
+Percentage Identity: 0.219
+
+=== A0A2S5R315 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 175.0
+E-value: 6.556e-05
+Alignment Length: 129
+Percentage Identity: 0.193
+
+=== A0A2W1APZ3 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 170.0
+E-value: 7.477e-05
+Alignment Length: 130
+Percentage Identity: 0.23
+
+=== A0A3A0E418 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 167.0
+E-value: 7.477e-05
+Alignment Length: 148
+Percentage Identity: 0.195
+
+=== A0A0F9K407 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 164.0
+E-value: 8.529e-05
+Alignment Length: 123
+Percentage Identity: 0.252
+
+=== A0A0A2TNY5 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 177.0
+E-value: 9.728e-05
+Alignment Length: 146
+Percentage Identity: 0.198
+
+=== A0A7X6DT08 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:NKE72795.1};
+Bit Score: 177.0
+E-value: 0.0001039
+Alignment Length: 122
+Percentage Identity: 0.221
+
+=== A0A6N8YXF0 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:MYC29404.1};
+Bit Score: 178.0
+E-value: 0.000111
+Alignment Length: 125
+Percentage Identity: 0.152
+
+=== A0A7X7AI06 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:NLC30553.1};
+Bit Score: 162.0
+E-value: 0.000111
+Alignment Length: 135
+Percentage Identity: 0.207
+
+=== A0A416WB06 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:RHR81383.1};
+Bit Score: 177.0
+E-value: 0.0001265
+Alignment Length: 148
+Percentage Identity: 0.202
+
+=== C1DVS7 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 156.0
+E-value: 0.0001265
+Alignment Length: 147
+Percentage Identity: 0.197
+
+=== A0A2E0C6F1 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 162.0
+E-value: 0.0001352
+Alignment Length: 118
+Percentage Identity: 0.22
+
+=== A0A1V4BYH4 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 156.0
+E-value: 0.0001352
+Alignment Length: 130
+Percentage Identity: 0.2
+
+=== A0A822IIT1 ===
+DE   RecName: Full=DUF488 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 173.0
+E-value: 0.0001542
+Alignment Length: 108
+Percentage Identity: 0.259
+
+=== A0A375JD25 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 162.0
+E-value: 0.0001646
+Alignment Length: 146
+Percentage Identity: 0.171
+
+=== A0A5E4HFL9 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 156.0
+E-value: 0.0001878
+Alignment Length: 151
+Percentage Identity: 0.205
+
+=== A0A4R4TVL2 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:TDC79243.1};
+Bit Score: 164.0
+E-value: 0.0002005
+Alignment Length: 146
+Percentage Identity: 0.205
+
+=== A0A7V3JJB7 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:HFZ64913.1};
+Bit Score: 164.0
+E-value: 0.0002005
+Alignment Length: 146
+Percentage Identity: 0.191
+
+=== A0A6N7IPP9 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:MQL51950.1};
+Bit Score: 174.0
+E-value: 0.0002142
+Alignment Length: 147
+Percentage Identity: 0.17
+
+=== A0A832BTX5 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:HGJ07817.1};
+Bit Score: 161.0
+E-value: 0.0002142
+Alignment Length: 142
+Percentage Identity: 0.218
+
+=== A0A661LVF1 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 157.0
+E-value: 0.0002287
+Alignment Length: 125
+Percentage Identity: 0.216
+
+=== H0JXI0 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 172.0
+E-value: 0.0002443
+Alignment Length: 146
+Percentage Identity: 0.184
+
+=== A0A851ISI2 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:NWO28292.1};
+Bit Score: 164.0
+E-value: 0.0002443
+Alignment Length: 146
+Percentage Identity: 0.212
+
+=== A0A5E4KK82 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 158.0
+E-value: 0.0002609
+Alignment Length: 113
+Percentage Identity: 0.23
+
+=== A0A353YZN0 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 162.0
+E-value: 0.0002786
+Alignment Length: 147
+Percentage Identity: 0.183
+
+=== A0A832MRW2 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:HHA55849.1};
+Bit Score: 168.0
+E-value: 0.0003178
+Alignment Length: 146
+Percentage Identity: 0.164
+
+=== A0A7X9H359 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:NMB10551.1};
+Bit Score: 156.0
+E-value: 0.0003394
+Alignment Length: 128
+Percentage Identity: 0.179
+
+=== A0A1G0WNI4 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 164.0
+E-value: 0.0003625
+Alignment Length: 146
+Percentage Identity: 0.191
+
+=== A0A7C3MGL2 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:HFW32590.1};
+Bit Score: 150.0
+E-value: 0.0003871
+Alignment Length: 141
+Percentage Identity: 0.198
+
+=== A0A552E0R1 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:TRU28080.1};
+Bit Score: 141.0
+E-value: 0.0004716
+Alignment Length: 127
+Percentage Identity: 0.228
+
+=== W4M5U1 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 152.0
+E-value: 0.0005378
+Alignment Length: 148
+Percentage Identity: 0.168
+
+=== A0A7J4EJI0 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:HID26429.1};
+Bit Score: 151.0
+E-value: 0.0005378
+Alignment Length: 153
+Percentage Identity: 0.189
+
+=== A0A7J4QAH2 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:HII14991.1};
+Bit Score: 138.0
+E-value: 0.0005378
+Alignment Length: 146
+Percentage Identity: 0.184
+
+=== A0A0P9I4K8 ===
+DE   RecName: Full=DUF488 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 146.0
+E-value: 0.0005744
+Alignment Length: 109
+Percentage Identity: 0.22
+
+=== X1K0W5 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.0005744
+Alignment Length: 122
+Percentage Identity: 0.254
+
+=== A0A1Z9NC08 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 135.0
+E-value: 0.0005744
+Alignment Length: 133
+Percentage Identity: 0.21
+
+=== A0A0F8ZNA6 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 153.0
+E-value: 0.0006552
+Alignment Length: 113
+Percentage Identity: 0.212
+
+=== A0A1V5K598 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 152.0
+E-value: 0.0007473
+Alignment Length: 146
+Percentage Identity: 0.164
+
+=== A0A2N5KMP7 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.0007981
+Alignment Length: 119
+Percentage Identity: 0.168
+
+=== A0A522X8F8 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:TAN82782.1};
+Bit Score: 124.0
+E-value: 0.0008523
+Alignment Length: 131
+Percentage Identity: 0.213
+
+=== A0A327JTI6 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 156.0
+E-value: 0.0009103
+Alignment Length: 149
+Percentage Identity: 0.174
+
+=== A0A842Y2R0 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:MBE0522582.1};
+Bit Score: 150.0
+E-value: 0.0009103
+Alignment Length: 109
+Percentage Identity: 0.22
+
+=== A0A316N1Z2 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 145.0
+E-value: 0.0009103
+Alignment Length: 150
+Percentage Identity: 0.2
+
+=== A0A7T0C1D1 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:QPJ64731.1};
+Bit Score: 134.0
+E-value: 0.0009103
+Alignment Length: 127
+Percentage Identity: 0.173
+
+=== V7I9K5 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 148.0
+E-value: 0.0009721
+Alignment Length: 146
+Percentage Identity: 0.123
+
+=== A0A6J5FTP7 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 151.0
+E-value: 0.001184
+Alignment Length: 147
+Percentage Identity: 0.17
+
+=== A0A1Z4IJ22 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:BAY42034.1};
+Bit Score: 135.0
+E-value: 0.001184
+Alignment Length: 135
+Percentage Identity: 0.162
+
+=== A0A1I6UHX8 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.001265
+Alignment Length: 118
+Percentage Identity: 0.203
+
+=== A0A2M8S8Y7 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.001351
+Alignment Length: 147
+Percentage Identity: 0.183
+
+=== A0A1V2YDT3 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.001351
+Alignment Length: 143
+Percentage Identity: 0.174
+
+=== A0A7K1Z2Z6 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:MXW15052.1};
+Bit Score: 133.0
+E-value: 0.001351
+Alignment Length: 166
+Percentage Identity: 0.186
+
+=== A0A5N9FKS0 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:MQG61568.1};
+Bit Score: 147.0
+E-value: 0.001541
+Alignment Length: 84
+Percentage Identity: 0.226
+
+=== A0A832VN93 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:HIM13678.1};
+Bit Score: 145.0
+E-value: 0.001645
+Alignment Length: 147
+Percentage Identity: 0.163
+
+=== A0A1F5YNK7 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.001877
+Alignment Length: 118
+Percentage Identity: 0.228
+
+=== A0A7W0Z2V5 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:MBA3415629.1};
+Bit Score: 131.0
+E-value: 0.001877
+Alignment Length: 146
+Percentage Identity: 0.212
+
+=== A0A1Z4IGZ0 ===
+DE   RecName: Full=DUF488 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 126.0
+E-value: 0.001877
+Alignment Length: 114
+Percentage Identity: 0.192
+
+=== A0A2G9MWN3 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 136.0
+E-value: 0.002004
+Alignment Length: 119
+Percentage Identity: 0.226
+
+=== A0A7C4UZZ6 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:HGX34542.1};
+Bit Score: 134.0
+E-value: 0.00214
+Alignment Length: 130
+Percentage Identity: 0.2
+
+=== A0A2N2DIN2 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 127.0
+E-value: 0.002286
+Alignment Length: 146
+Percentage Identity: 0.184
+
+=== B7KIY6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ACK70822.1};
+Bit Score: 127.0
+E-value: 0.002286
+Alignment Length: 143
+Percentage Identity: 0.174
+
+=== A0A2V2U717 ===
+DE   RecName: Full=DUF488 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 110.0
+E-value: 0.002286
+Alignment Length: 131
+Percentage Identity: 0.175
+
+=== A0A2D8NAF7 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 129.0
+E-value: 0.002441
+Alignment Length: 111
+Percentage Identity: 0.243
+
+=== A0A4P6MU74 ===
+DE   RecName: Full=DUF488 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.002441
+Alignment Length: 130
+Percentage Identity: 0.153
+
+=== A0A0F9UDS6 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 136.0
+E-value: 0.002607
+Alignment Length: 122
+Percentage Identity: 0.221
+
+=== A0A3A5APL5 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 125.0
+E-value: 0.002607
+Alignment Length: 122
+Percentage Identity: 0.229
+
+=== A0A6N3F4I8 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 116.0
+E-value: 0.002607
+Alignment Length: 126
+Percentage Identity: 0.142
+
+=== A0A2M7VH57 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 135.0
+E-value: 0.002785
+Alignment Length: 121
+Percentage Identity: 0.181
+
+=== A0A317JMV1 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.002785
+Alignment Length: 135
+Percentage Identity: 0.185
+
+=== A0A0D8ZRI2 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 127.0
+E-value: 0.002785
+Alignment Length: 115
+Percentage Identity: 0.226
+
+=== A0A2E5KL16 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.003176
+Alignment Length: 116
+Percentage Identity: 0.224
+
+=== A0A843AG94 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:MBF4468116.1};
+Bit Score: 137.0
+E-value: 0.003392
+Alignment Length: 147
+Percentage Identity: 0.163
+
+=== A0A1N7JG94 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 128.0
+E-value: 0.003392
+Alignment Length: 145
+Percentage Identity: 0.172
+
+=== A0A3M1HGX3 ===
+DE   RecName: Full=DUF488 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 125.0
+E-value: 0.003622
+Alignment Length: 128
+Percentage Identity: 0.242
+
+=== A0A2I1INM4 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:PKY72724.1};
+Bit Score: 122.0
+E-value: 0.003622
+Alignment Length: 119
+Percentage Identity: 0.193
+
+=== A0A1W9MZP9 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 129.0
+E-value: 0.003869
+Alignment Length: 146
+Percentage Identity: 0.157
+
+=== A0A497HSK7 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:RLF72177.1};
+Bit Score: 125.0
+E-value: 0.003869
+Alignment Length: 142
+Percentage Identity: 0.154
+
+=== A0A7C4ZH18 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:HGY26775.1};
+Bit Score: 119.0
+E-value: 0.003869
+Alignment Length: 146
+Percentage Identity: 0.157
+
+=== A0A369LSZ4 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 136.0
+E-value: 0.004413
+Alignment Length: 138
+Percentage Identity: 0.173
+
+=== A0A7G9WDF5 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:QNO16717.1};
+Bit Score: 126.0
+E-value: 0.004413
+Alignment Length: 145
+Percentage Identity: 0.186
+
+=== A0A3N0J008 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 136.0
+E-value: 0.004713
+Alignment Length: 138
+Percentage Identity: 0.181
+
+=== A0A1E7GCX7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OEU42829.1};
+Bit Score: 131.0
+E-value: 0.005741
+Alignment Length: 119
+Percentage Identity: 0.21
+
+=== A0A7J4KMZ8 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:HIH29547.1};
+Bit Score: 131.0
+E-value: 0.005741
+Alignment Length: 105
+Percentage Identity: 0.2
+
+=== A0A7C5BI39 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:HHA13334.1};
+Bit Score: 123.0
+E-value: 0.005741
+Alignment Length: 117
+Percentage Identity: 0.23
+
+=== J0RZJ4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EJG06991.1};
+Bit Score: 115.0
+E-value: 0.005741
+Alignment Length: 154
+Percentage Identity: 0.162
+
+=== A0A7V5CKE4 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:HGY83087.1};
+Bit Score: 124.0
+E-value: 0.006548
+Alignment Length: 148
+Percentage Identity: 0.155
+
+=== A0A1V5DMR3 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 91.0
+E-value: 0.006548
+Alignment Length: 140
+Percentage Identity: 0.207
+
+=== A0A523TD88 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:TET28300.1};
+Bit Score: 124.0
+E-value: 0.006993
+Alignment Length: 109
+Percentage Identity: 0.211
+
+=== A0A7J4F8U3 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:HID73592.1};
+Bit Score: 131.0
+E-value: 0.007468
+Alignment Length: 115
+Percentage Identity: 0.165
+
+=== A0A1V6HU50 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OQC41672.1};
+Bit Score: 120.0
+E-value: 0.007976
+Alignment Length: 109
+Percentage Identity: 0.211
+
+=== A0A7C4VE67 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:HGY23710.1};
+Bit Score: 111.0
+E-value: 0.007976
+Alignment Length: 122
+Percentage Identity: 0.204
+
+=== A0A2N6L6R6 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 103.0
+E-value: 0.007976
+Alignment Length: 161
+Percentage Identity: 0.167
+
+=== A0A847SEN2 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:NLR75658.1};
+Bit Score: 122.0
+E-value: 0.008518
+Alignment Length: 143
+Percentage Identity: 0.153
+
+=== A0A4P5RPV7 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.008518
+Alignment Length: 146
+Percentage Identity: 0.184
+
+=== A0A512M8T7 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 120.0
+E-value: 0.009097
+Alignment Length: 122
+Percentage Identity: 0.172
+
+=== A0A660UET6 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.009097
+Alignment Length: 120
+Percentage Identity: 0.225
+
+=== A0A1F5ZJZ2 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 111.0
+E-value: 0.009097
+Alignment Length: 148
+Percentage Identity: 0.135
+
+=== A0A1Q6JVG0 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.009097
+Alignment Length: 131
+Percentage Identity: 0.183
+
+=== A0A7Y9UEQ9 ===
+DE   SubName: Full=Uncharacterized protein (DUF488 family) {ECO:0000313|EMBL:NYG45951.1};
+Bit Score: 109.0
+E-value: 0.009097
+Alignment Length: 148
+Percentage Identity: 0.155
+
+=== A0A1F5AZ75 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.009097
+Alignment Length: 144
+Percentage Identity: 0.159
+
+=== E0U8D2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ADN12568.1};
+Bit Score: 123.0
+E-value: 0.009715
+Alignment Length: 143
+Percentage Identity: 0.174
+
+=== A0A537A6N9 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:TMH68898.1};
+Bit Score: 111.0
+E-value: 0.009715
+Alignment Length: 104
+Percentage Identity: 0.201
+
+=== A0A2N2KJ27 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 105.0
+E-value: 0.009715
+Alignment Length: 143
+Percentage Identity: 0.174
+
+=== A0A6S4QIC6 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 97.0
+E-value: 0.009715
+Alignment Length: 141
+Percentage Identity: 0.184
+
+=== F6BDG6 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 115.0
+E-value: 0.01038
+Alignment Length: 140
+Percentage Identity: 0.157
+
+=== M5RMG6 ===
+DE   SubName: Full=Protein containing DUF1130 {ECO:0000313|EMBL:EMI20518.1};
+Bit Score: 115.0
+E-value: 0.01038
+Alignment Length: 143
+Percentage Identity: 0.132
+
+=== A0A173LNG2 ===
+DE   SubName: Full=Uncharacterized protein YeaO {ECO:0000313|EMBL:ANI92100.1};
+Bit Score: 122.0
+E-value: 0.01108
+Alignment Length: 125
+Percentage Identity: 0.16
+
+=== A0A1I4X5E3 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 120.0
+E-value: 0.01108
+Alignment Length: 144
+Percentage Identity: 0.166
+
+=== A0A5E6N3Y1 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.01108
+Alignment Length: 144
+Percentage Identity: 0.159
+
+=== A0A7J9R2H0 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:MBA4460875.1};
+Bit Score: 94.0
+E-value: 0.01183
+Alignment Length: 112
+Percentage Identity: 0.205
+
+=== A0A7V4JFP4 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:HGT69274.1};
+Bit Score: 118.0
+E-value: 0.01264
+Alignment Length: 150
+Percentage Identity: 0.153
+
+=== A0A0Q4BFB2 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.01264
+Alignment Length: 140
+Percentage Identity: 0.164
+
+=== A0A7W0S571 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:MBA3336732.1};
+Bit Score: 108.0
+E-value: 0.01264
+Alignment Length: 142
+Percentage Identity: 0.133
+
+=== A0A178IL67 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.0135
+Alignment Length: 123
+Percentage Identity: 0.17
+
+=== A0A1V4MHZ1 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 100.0
+E-value: 0.0135
+Alignment Length: 87
+Percentage Identity: 0.275
+
+=== A0A0F9IK17 ===
+DE   RecName: Full=DUF488 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.01442
+Alignment Length: 116
+Percentage Identity: 0.181
+
+=== A0A2H0W566 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 115.0
+E-value: 0.01442
+Alignment Length: 133
+Percentage Identity: 0.18
+
+=== A0A1E7GCW2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OEU42828.1};
+Bit Score: 109.0
+E-value: 0.01442
+Alignment Length: 114
+Percentage Identity: 0.175
+
+=== A0A0G0DYX8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKP68220.1};
+Bit Score: 106.0
+E-value: 0.01442
+Alignment Length: 139
+Percentage Identity: 0.143
+
+=== A0A3D5Z7Y0 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 103.0
+E-value: 0.01442
+Alignment Length: 121
+Percentage Identity: 0.206
+
+=== A0A2H9R945 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.0154
+Alignment Length: 116
+Percentage Identity: 0.206
+
+=== A0A399F1N1 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 100.0
+E-value: 0.0154
+Alignment Length: 106
+Percentage Identity: 0.245
+
+=== A0A090I4P8 ===
+DE   RecName: Full=ParB/Sulfiredoxin domain-containing protein {ECO:0000259|SMART:SM00470};
+Bit Score: 116.0
+E-value: 0.01644
+Alignment Length: 150
+Percentage Identity: 0.146
+
+=== A0A4Q2YBK9 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:RYD35375.1};
+Bit Score: 110.0
+E-value: 0.01644
+Alignment Length: 124
+Percentage Identity: 0.177
+
+=== A0A7V4LCQ7 ===
+DE   RecName: Full=DUF488 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 103.0
+E-value: 0.01644
+Alignment Length: 120
+Percentage Identity: 0.183
+
+=== A0A2E9R030 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 94.0
+E-value: 0.01644
+Alignment Length: 163
+Percentage Identity: 0.141
+
+=== A0A2E8GCP0 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 118.0
+E-value: 0.01756
+Alignment Length: 144
+Percentage Identity: 0.152
+
+=== A0A2V1K9S0 ===
+DE   SubName: Full=Histidine phosphatase family protein {ECO:0000313|EMBL:PWF27050.1};
+Bit Score: 114.0
+E-value: 0.01756
+Alignment Length: 118
+Percentage Identity: 0.152
+
+=== A0A1I5J947 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 103.0
+E-value: 0.01756
+Alignment Length: 148
+Percentage Identity: 0.155
+
+=== A0A843BJ09 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:MBI1658075.1};
+Bit Score: 108.0
+E-value: 0.01875
+Alignment Length: 115
+Percentage Identity: 0.217
+
+=== A0A085AGW4 ===
+DE   SubName: Full=YeaO family protein {ECO:0000313|EMBL:KFC09459.1};
+Bit Score: 106.0
+E-value: 0.01875
+Alignment Length: 115
+Percentage Identity: 0.139
+
+=== A0A0Q5YDS5 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 105.0
+E-value: 0.01875
+Alignment Length: 152
+Percentage Identity: 0.144
+
+=== A0A2N8T2Y6 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:PNG09108.1};
+Bit Score: 103.0
+E-value: 0.01875
+Alignment Length: 119
+Percentage Identity: 0.151
+
+=== A0A2N0TS02 ===
+DE   RecName: Full=MarR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 89.0
+E-value: 0.01875
+Alignment Length: 114
+Percentage Identity: 0.157
+
+=== A0A495KNK0 ===
+DE   SubName: Full=Uncharacterized protein YeaO (DUF488 family) {ECO:0000313|EMBL:RKS01653.1};
+Bit Score: 105.0
+E-value: 0.02003
+Alignment Length: 113
+Percentage Identity: 0.15
+
+=== A0A450UIY6 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 96.0
+E-value: 0.02003
+Alignment Length: 92
+Percentage Identity: 0.228
+
+=== A0A7C1SMG4 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:HEM26513.1};
+Bit Score: 95.0
+E-value: 0.02003
+Alignment Length: 163
+Percentage Identity: 0.141
+
+=== A0A6A8FKN1 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:MRN68737.1};
+Bit Score: 111.0
+E-value: 0.02139
+Alignment Length: 122
+Percentage Identity: 0.18
+
+=== A0A2H5XFC7 ===
+DE   RecName: Full=DUF488 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 105.0
+E-value: 0.02139
+Alignment Length: 102
+Percentage Identity: 0.186
+
+=== M0AH67 ===
+DE   SubName: Full=ParB domain protein {ECO:0000313|EMBL:ELY97904.1};
+Bit Score: 115.0
+E-value: 0.02285
+Alignment Length: 153
+Percentage Identity: 0.156
+
+=== E3GGG4 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:NZA40333.1};
+Bit Score: 110.0
+E-value: 0.02285
+Alignment Length: 120
+Percentage Identity: 0.183
+
+=== A0A2V7EWK0 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.02285
+Alignment Length: 119
+Percentage Identity: 0.201
+
+=== A0A3N5UV09 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:RPJ27100.1};
+Bit Score: 105.0
+E-value: 0.02285
+Alignment Length: 117
+Percentage Identity: 0.196
+
+=== A0A7Y3XIP7 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:NOG55796.1};
+Bit Score: 113.0
+E-value: 0.0244
+Alignment Length: 146
+Percentage Identity: 0.136
+
+=== A0A368CXS8 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:RCL64427.1};
+DE   Flags: Fragment;
+Bit Score: 104.0
+E-value: 0.0244
+Alignment Length: 86
+Percentage Identity: 0.29
+
+=== A0A7X8ECA0 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:NLK13502.1};
+Bit Score: 84.0
+E-value: 0.0244
+Alignment Length: 147
+Percentage Identity: 0.19
+
+=== A0A1Q7I6Q4 ===
+DE   RecName: Full=DUF488 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.02606
+Alignment Length: 115
+Percentage Identity: 0.208
+
+=== A0A2V5N3Z4 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.02606
+Alignment Length: 145
+Percentage Identity: 0.137
+
+=== R5KAL0 ===
+DE   RecName: Full=PF04343 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 102.0
+E-value: 0.02606
+Alignment Length: 88
+Percentage Identity: 0.227
+
+=== A0A6L8HZ80 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:MYK25419.1};
+Bit Score: 96.0
+E-value: 0.02606
+Alignment Length: 153
+Percentage Identity: 0.183
+
+=== A0A086YMU9 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 106.0
+E-value: 0.02783
+Alignment Length: 80
+Percentage Identity: 0.262
+
+=== A0A1E7GCX6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OEU42830.1};
+Bit Score: 105.0
+E-value: 0.02783
+Alignment Length: 114
+Percentage Identity: 0.192
+
+=== K2GE66 ===
+DE   RecName: Full=DUF488 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.02783
+Alignment Length: 130
+Percentage Identity: 0.169
+
+=== A0A1H0PNC5 ===
+DE   SubName: Full=Uncharacterized conserved protein YeaO, DUF488 family {ECO:0000313|EMBL:SDP06622.1};
+Bit Score: 104.0
+E-value: 0.02783
+Alignment Length: 104
+Percentage Identity: 0.163
+
+=== A0A1I6HG21 ===
+DE   SubName: Full=Uncharacterized conserved protein YeaO, DUF488 family {ECO:0000313|EMBL:SFR53456.1};
+Bit Score: 104.0
+E-value: 0.02783
+Alignment Length: 118
+Percentage Identity: 0.152
+
+=== A0A2H0AA88 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.02783
+Alignment Length: 147
+Percentage Identity: 0.142
+
+=== A0A838IZX1 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:MBA2668360.1};
+Bit Score: 104.0
+E-value: 0.02783
+Alignment Length: 152
+Percentage Identity: 0.125
+
+=== A0A0C1FA98 ===
+DE   RecName: Full=Uroporphyrin-III methyltransferase {ECO:0008006|Google:ProtNLM};
+Bit Score: 115.0
+E-value: 0.02972
+Alignment Length: 118
+Percentage Identity: 0.135
+
+=== A0A847AFD5 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:NLB05096.1};
+Bit Score: 84.0
+E-value: 0.02972
+Alignment Length: 147
+Percentage Identity: 0.129
+
+=== A0A336NHA2 ===
+DE   SubName: Full=Uncharacterized conserved protein {ECO:0000313|EMBL:SSZ40464.1};
+Bit Score: 104.0
+E-value: 0.03174
+Alignment Length: 150
+Percentage Identity: 0.153
+
+=== A0A1W1ZAN5 ===
+DE   SubName: Full=Uncharacterized conserved protein YeaO, DUF488 family {ECO:0000313|EMBL:SMC45479.1};
+Bit Score: 104.0
+E-value: 0.03174
+Alignment Length: 119
+Percentage Identity: 0.126
+
+=== A0A2S0LVF7 ===
+DE   SubName: Full=Histidine phosphatase family protein {ECO:0000313|EMBL:AVM64261.1};
+Bit Score: 107.0
+E-value: 0.0339
+Alignment Length: 122
+Percentage Identity: 0.139
+
+=== A0A7X1TRF4 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:MPY66356.1};
+Bit Score: 99.0
+E-value: 0.0339
+Alignment Length: 146
+Percentage Identity: 0.164
+
+=== A0A5E5QR84 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 92.0
+E-value: 0.0339
+Alignment Length: 144
+Percentage Identity: 0.159
+
+=== A0A358S877 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 90.0
+E-value: 0.0339
+Alignment Length: 83
+Percentage Identity: 0.192
+
+=== A0A6L7PA81 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:MXZ62376.1};
+Bit Score: 84.0
+E-value: 0.0339
+Alignment Length: 149
+Percentage Identity: 0.154
+
+=== G9WJL6 ===
+DE   RecName: Full=Uroporphyrin-III c-methyltransferase {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.0362
+Alignment Length: 121
+Percentage Identity: 0.123
+
+=== A3IWI1 ===
+DE   RecName: Full=DUF488 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 100.0
+E-value: 0.0362
+Alignment Length: 76
+Percentage Identity: 0.302
+
+=== B1VE60 ===
+DE   RecName: Full=DUF488 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 97.0
+E-value: 0.0362
+Alignment Length: 149
+Percentage Identity: 0.114
+
+=== A0A7X4KZQ7 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:MYN67113.1};
+Bit Score: 93.0
+E-value: 0.0362
+Alignment Length: 132
+Percentage Identity: 0.159
+
+=== X1JIH1 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 106.0
+E-value: 0.03866
+Alignment Length: 88
+Percentage Identity: 0.181
+
+=== A0A737XZI6 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:HAE8610793.1};
+Bit Score: 103.0
+E-value: 0.03866
+Alignment Length: 117
+Percentage Identity: 0.128
+
+=== A0A2V6XBZ7 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 99.0
+E-value: 0.03866
+Alignment Length: 117
+Percentage Identity: 0.196
+
+=== A0A0A6P1M2 ===
+DE   SubName: Full=Protein containing DUF488 {ECO:0000313|EMBL:OAD24074.1};
+DE   Flags: Fragment;
+Bit Score: 92.0
+E-value: 0.03866
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A3A4V476 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:RJQ31747.1};
+Bit Score: 87.0
+E-value: 0.03866
+Alignment Length: 148
+Percentage Identity: 0.168
+
+=== A0A258GUD0 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 84.0
+E-value: 0.03866
+Alignment Length: 146
+Percentage Identity: 0.123
+
+=== A0A7V6VV40 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:HHX19368.1};
+Bit Score: 82.0
+E-value: 0.03866
+Alignment Length: 147
+Percentage Identity: 0.149
+
+=== A0A2C6MJB2 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 102.0
+E-value: 0.04129
+Alignment Length: 146
+Percentage Identity: 0.136
+
+=== A0A847BN29 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:NLC25958.1};
+Bit Score: 100.0
+E-value: 0.04129
+Alignment Length: 119
+Percentage Identity: 0.142
+
+=== A0A517PDI2 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 75.0
+E-value: 0.04129
+Alignment Length: 154
+Percentage Identity: 0.149
+
+=== J1J5C6 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 74.0
+E-value: 0.04129
+Alignment Length: 149
+Percentage Identity: 0.154
+
+=== A0A1F8RE12 ===
+DE   RecName: Full=DUF488 family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 102.0
+E-value: 0.0441
+Alignment Length: 97
+Percentage Identity: 0.206
+
+=== L0GHA1 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.0441
+Alignment Length: 77
+Percentage Identity: 0.246
+
+=== A0A4R2C3E0 ===
+DE   SubName: Full=Uncharacterized protein DUF488 {ECO:0000313|EMBL:TCN34082.1};
+Bit Score: 95.0
+E-value: 0.0441
+Alignment Length: 144
+Percentage Identity: 0.166
+
+=== U6Q1B3 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 95.0
+E-value: 0.0441
+Alignment Length: 144
+Percentage Identity: 0.159
+
+=== A0A2N8S4Y3 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:PNF81686.1};
+Bit Score: 93.0
+E-value: 0.0441
+Alignment Length: 102
+Percentage Identity: 0.166
+
+=== A0A2T4VWH3 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 88.0
+E-value: 0.0441
+Alignment Length: 149
+Percentage Identity: 0.14
+
+=== A0A3S4J7S5 ===
+DE   SubName: Full=Uncharacterized conserved protein {ECO:0000313|EMBL:VEB21923.1};
+Bit Score: 103.0
+E-value: 0.0471
+Alignment Length: 118
+Percentage Identity: 0.152
+
+=== A0A0F9QLR6 ===
+DE   RecName: Full=ParB/Sulfiredoxin domain-containing protein {ECO:0000259|SMART:SM00470};
+Bit Score: 102.0
+E-value: 0.0471
+Alignment Length: 156
+Percentage Identity: 0.121
+
+=== A0A521WIN5 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:TAK56198.1};
+Bit Score: 100.0
+E-value: 0.0471
+Alignment Length: 118
+Percentage Identity: 0.22
+
+=== A0A7V3XKF5 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:HGH13573.1};
+Bit Score: 99.0
+E-value: 0.0471
+Alignment Length: 91
+Percentage Identity: 0.186
+
+=== A0A329B2P2 ===
+DE   SubName: Full=Uncharacterized protein YeaO (DUF488 family) {ECO:0000313|EMBL:RAS11929.1};
+Bit Score: 98.0
+E-value: 0.0471
+Alignment Length: 120
+Percentage Identity: 0.116
+
+=== A0A506VBQ9 ===
+DE   SubName: Full=DUF488 family protein {ECO:0000313|EMBL:TPW42670.1};
+Bit Score: 93.0
+E-value: 0.0471
+Alignment Length: 118
+Percentage Identity: 0.135
+
+=== A0A015Z8T6 ===
+DE   RecName: Full=DUF488 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 92.0
+E-value: 0.0471
+Alignment Length: 150
+Percentage Identity: 0.146
+
+=== A0A7C3CHR3 ===
+DE   SubName: Full=DUF488 domain-containing protein {ECO:0000313|EMBL:HFC08861.1};
+Bit Score: 77.0
+E-value: 0.0471
+Alignment Length: 144
+Percentage Identity: 0.194
+

@@ -1,0 +1,6774 @@
+=== A0A3A8L071 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 501.0
+E-value: 1.342e-15
+Alignment Length: 149
+Percentage Identity: 0.402
+
+=== I4EG34 ===
+DE   SubName: Full=Uncharacterized gene 7.7 protein (Modular protein) {ECO:0000313|EMBL:CCF83646.1};
+Bit Score: 464.0
+E-value: 5.86e-15
+Alignment Length: 161
+Percentage Identity: 0.409
+
+=== A0A7C1VLY5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 479.0
+E-value: 1.225e-14
+Alignment Length: 147
+Percentage Identity: 0.374
+
+=== A0A0G1Z3Q7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 494.0
+E-value: 1.302e-14
+Alignment Length: 152
+Percentage Identity: 0.361
+
+=== A0A0F9ECZ8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 500.0
+E-value: 1.77e-14
+Alignment Length: 147
+Percentage Identity: 0.428
+
+=== A0A0F9J2V7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 533.0
+E-value: 2.407e-14
+Alignment Length: 150
+Percentage Identity: 0.393
+
+=== A0A521PWL3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 433.0
+E-value: 3.272e-14
+Alignment Length: 164
+Percentage Identity: 0.384
+
+=== A0A0F9ATI9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 501.0
+E-value: 3.479e-14
+Alignment Length: 145
+Percentage Identity: 0.413
+
+=== A0A7Y6XJL2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:NVJ27312.1};
+Bit Score: 484.0
+E-value: 4.73e-14
+Alignment Length: 159
+Percentage Identity: 0.389
+
+=== A0A661TPZ9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 424.0
+E-value: 5.03e-14
+Alignment Length: 159
+Percentage Identity: 0.377
+
+=== A0A522JJU6 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TAM15933.1};
+Bit Score: 472.0
+E-value: 6.048e-14
+Alignment Length: 152
+Percentage Identity: 0.394
+
+=== A0A4Q7FVG2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RZN19478.1};
+Bit Score: 466.0
+E-value: 6.048e-14
+Alignment Length: 147
+Percentage Identity: 0.428
+
+=== A0A3C1GK71 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 442.0
+E-value: 6.048e-14
+Alignment Length: 151
+Percentage Identity: 0.35
+
+=== A0A3A8KSU1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 437.0
+E-value: 6.431e-14
+Alignment Length: 187
+Percentage Identity: 0.326
+
+=== A0A6M3ISD8 ===
+DE   SubName: Full=Putative DNA binding, helix-turn-helix domain containing protein {ECO:0000313|EMBL:QJA60466.1};
+Bit Score: 470.0
+E-value: 7.271e-14
+Alignment Length: 146
+Percentage Identity: 0.376
+
+=== A0A0F9TGP2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 415.0
+E-value: 7.732e-14
+Alignment Length: 164
+Percentage Identity: 0.329
+
+=== A0A7Z7HUF4 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SNY95513.1};
+Bit Score: 504.0
+E-value: 8.742e-14
+Alignment Length: 148
+Percentage Identity: 0.371
+
+=== A0A3C1GJ54 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 446.0
+E-value: 9.885e-14
+Alignment Length: 152
+Percentage Identity: 0.394
+
+=== A0A6M1ZVP5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 489.0
+E-value: 1.118e-13
+Alignment Length: 149
+Percentage Identity: 0.322
+
+=== A0A7V9ZE11 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MBA2706170.1};
+Bit Score: 430.0
+E-value: 1.118e-13
+Alignment Length: 162
+Percentage Identity: 0.364
+
+=== A0A517SH93 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 424.0
+E-value: 1.118e-13
+Alignment Length: 153
+Percentage Identity: 0.366
+
+=== A0A0A2WJA2 ===
+DE   SubName: Full=Phage protein {ECO:0000313|EMBL:KGQ19903.1};
+Bit Score: 475.0
+E-value: 1.344e-13
+Alignment Length: 147
+Percentage Identity: 0.312
+
+=== A0A2V8NNQ8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 433.0
+E-value: 1.429e-13
+Alignment Length: 154
+Percentage Identity: 0.344
+
+=== A0A7C1QMF2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HDY90093.1};
+Bit Score: 428.0
+E-value: 1.429e-13
+Alignment Length: 158
+Percentage Identity: 0.341
+
+=== A0A7W0SPX6 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MBA3361774.1};
+Bit Score: 413.0
+E-value: 1.429e-13
+Alignment Length: 153
+Percentage Identity: 0.359
+
+=== A0A0C6NZA8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 437.0
+E-value: 1.52e-13
+Alignment Length: 147
+Percentage Identity: 0.36
+
+=== A0A6M3JU08 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJA72868.1};
+Bit Score: 462.0
+E-value: 1.616e-13
+Alignment Length: 150
+Percentage Identity: 0.34
+
+=== A0A6G6IXZ4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 429.0
+E-value: 1.718e-13
+Alignment Length: 149
+Percentage Identity: 0.382
+
+=== A0A357BM55 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 414.0
+E-value: 1.718e-13
+Alignment Length: 178
+Percentage Identity: 0.331
+
+=== C6BBU5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 485.0
+E-value: 1.827e-13
+Alignment Length: 145
+Percentage Identity: 0.337
+
+=== A0A0F9KG99 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 470.0
+E-value: 1.827e-13
+Alignment Length: 154
+Percentage Identity: 0.363
+
+=== A0A0F8Y3F1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 433.0
+E-value: 1.827e-13
+Alignment Length: 138
+Percentage Identity: 0.405
+
+=== A0A4Q3I147 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RYE67377.1};
+Bit Score: 484.0
+E-value: 2.066e-13
+Alignment Length: 147
+Percentage Identity: 0.306
+
+=== A0A0F9X116 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 429.0
+E-value: 2.066e-13
+Alignment Length: 148
+Percentage Identity: 0.371
+
+=== A0A3C1F4P8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 405.0
+E-value: 2.066e-13
+Alignment Length: 163
+Percentage Identity: 0.355
+
+=== A0A0F5QIN4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 421.0
+E-value: 2.197e-13
+Alignment Length: 152
+Percentage Identity: 0.328
+
+=== A0A6P1B8G9 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:NEU94827.1};
+Bit Score: 415.0
+E-value: 2.484e-13
+Alignment Length: 155
+Percentage Identity: 0.361
+
+=== A0A439H450 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RWA81464.1};
+Bit Score: 458.0
+E-value: 2.641e-13
+Alignment Length: 152
+Percentage Identity: 0.368
+
+=== A0A0F9FX89 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 455.0
+E-value: 2.641e-13
+Alignment Length: 129
+Percentage Identity: 0.472
+
+=== N6XNK5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 433.0
+E-value: 2.808e-13
+Alignment Length: 154
+Percentage Identity: 0.37
+
+=== A0A0F9NVH3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 422.0
+E-value: 2.808e-13
+Alignment Length: 154
+Percentage Identity: 0.337
+
+=== A0A7V9U208 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MBA2706616.1};
+Bit Score: 420.0
+E-value: 2.986e-13
+Alignment Length: 156
+Percentage Identity: 0.371
+
+=== A0A1L3ZV48 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 473.0
+E-value: 3.377e-13
+Alignment Length: 152
+Percentage Identity: 0.401
+
+=== A0A6M3JC30 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJA66517.1};
+Bit Score: 413.0
+E-value: 3.377e-13
+Alignment Length: 164
+Percentage Identity: 0.365
+
+=== A0A7W9FSN8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 475.0
+E-value: 3.591e-13
+Alignment Length: 150
+Percentage Identity: 0.326
+
+=== A0A2S9AUK4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 481.0
+E-value: 3.818e-13
+Alignment Length: 151
+Percentage Identity: 0.39
+
+=== A0A6H1ZB63 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJA44702.1};
+Bit Score: 455.0
+E-value: 3.818e-13
+Alignment Length: 153
+Percentage Identity: 0.372
+
+=== A0A0F9FJY7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 453.0
+E-value: 3.818e-13
+Alignment Length: 147
+Percentage Identity: 0.36
+
+=== A0A6I5NSR2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:NEQ45595.1};
+Bit Score: 400.0
+E-value: 3.818e-13
+Alignment Length: 158
+Percentage Identity: 0.386
+
+=== U6SQE2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 450.0
+E-value: 4.06e-13
+Alignment Length: 150
+Percentage Identity: 0.353
+
+=== A0A522DJW4 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TAL42411.1};
+Bit Score: 413.0
+E-value: 4.06e-13
+Alignment Length: 154
+Percentage Identity: 0.35
+
+=== A0A5C5RTX8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 429.0
+E-value: 4.317e-13
+Alignment Length: 151
+Percentage Identity: 0.344
+
+=== A0A662EHX9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 416.0
+E-value: 4.317e-13
+Alignment Length: 175
+Percentage Identity: 0.337
+
+=== A0A653B1M1 ===
+DE   SubName: Full=Phage integrase protein (Modular protein) {ECO:0000313|EMBL:VDN62127.1};
+Bit Score: 437.0
+E-value: 4.881e-13
+Alignment Length: 149
+Percentage Identity: 0.288
+
+=== A0A2W4KR70 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:PZN13049.1};
+Bit Score: 411.0
+E-value: 4.881e-13
+Alignment Length: 149
+Percentage Identity: 0.362
+
+=== A0A7C0VWJ6 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HDK16972.1};
+Bit Score: 484.0
+E-value: 5.191e-13
+Alignment Length: 148
+Percentage Identity: 0.371
+
+=== A0A7W1C5R0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MBA3583021.1};
+Bit Score: 412.0
+E-value: 5.519e-13
+Alignment Length: 153
+Percentage Identity: 0.346
+
+=== A0A850H4K8 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:NVD45550.1};
+Bit Score: 411.0
+E-value: 5.519e-13
+Alignment Length: 159
+Percentage Identity: 0.383
+
+=== A0A0F9FK50 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 450.0
+E-value: 5.869e-13
+Alignment Length: 150
+Percentage Identity: 0.36
+
+=== A0A5Z0V2D5 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MMP87009.1};
+Bit Score: 450.0
+E-value: 5.869e-13
+Alignment Length: 155
+Percentage Identity: 0.341
+
+=== X0YSF1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 443.0
+E-value: 6.636e-13
+Alignment Length: 149
+Percentage Identity: 0.362
+
+=== A0A6B8TPR6 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:QGS35292.1};
+Bit Score: 433.0
+E-value: 6.636e-13
+Alignment Length: 150
+Percentage Identity: 0.326
+
+=== A0A4P7C045 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:QBQ54929.1};
+Bit Score: 397.0
+E-value: 6.636e-13
+Alignment Length: 148
+Percentage Identity: 0.337
+
+=== A0A379Q7B8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 428.0
+E-value: 7.056e-13
+Alignment Length: 155
+Percentage Identity: 0.335
+
+=== A0A2L0II59 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:AUX94258.1};
+Bit Score: 434.0
+E-value: 7.503e-13
+Alignment Length: 148
+Percentage Identity: 0.364
+
+=== I4EFZ9 ===
+DE   SubName: Full=Putative bacteriophage t7-related gene protein (Modular protein) {ECO:0000313|EMBL:CCF83611.1};
+Bit Score: 428.0
+E-value: 8.484e-13
+Alignment Length: 144
+Percentage Identity: 0.347
+
+=== A0A0F9HMW0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 420.0
+E-value: 8.484e-13
+Alignment Length: 151
+Percentage Identity: 0.331
+
+=== A0A661PJL9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 410.0
+E-value: 8.484e-13
+Alignment Length: 151
+Percentage Identity: 0.337
+
+=== A0A0F9J1V4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 410.0
+E-value: 8.484e-13
+Alignment Length: 146
+Percentage Identity: 0.335
+
+=== A0A0F9SEV4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 386.0
+E-value: 8.484e-13
+Alignment Length: 154
+Percentage Identity: 0.35
+
+=== E1VAF3 ===
+DE   SubName: Full=Homolog to phage protein T7-7.7 {ECO:0000313|EMBL:CBV41999.1};
+Bit Score: 453.0
+E-value: 1.02e-12
+Alignment Length: 152
+Percentage Identity: 0.401
+
+=== A0A6H1Z9W5 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJA44696.1};
+Bit Score: 440.0
+E-value: 1.085e-12
+Alignment Length: 145
+Percentage Identity: 0.324
+
+=== A0A6A7RXD5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 427.0
+E-value: 1.226e-12
+Alignment Length: 158
+Percentage Identity: 0.348
+
+=== A0A7C1R2C2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 392.0
+E-value: 1.226e-12
+Alignment Length: 171
+Percentage Identity: 0.298
+
+=== A0A833ND66 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 391.0
+E-value: 1.226e-12
+Alignment Length: 155
+Percentage Identity: 0.329
+
+=== A0A0F9A0K3 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 431.0
+E-value: 1.304e-12
+Alignment Length: 148
+Percentage Identity: 0.351
+
+=== A0A1V5MM52 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 394.0
+E-value: 1.387e-12
+Alignment Length: 154
+Percentage Identity: 0.331
+
+=== A0A0F9J4N3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 471.0
+E-value: 1.475e-12
+Alignment Length: 115
+Percentage Identity: 0.478
+
+=== A0A524QNC3 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TFH51589.1};
+Bit Score: 415.0
+E-value: 1.475e-12
+Alignment Length: 147
+Percentage Identity: 0.299
+
+=== A0A0F9T6L3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 388.0
+E-value: 1.475e-12
+Alignment Length: 153
+Percentage Identity: 0.339
+
+=== A0A1G3M366 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 423.0
+E-value: 1.568e-12
+Alignment Length: 156
+Percentage Identity: 0.346
+
+=== A0A4R8ER33 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TDX14599.1};
+Bit Score: 421.0
+E-value: 1.568e-12
+Alignment Length: 146
+Percentage Identity: 0.28
+
+=== A0A0F9ATQ0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 428.0
+E-value: 1.667e-12
+Alignment Length: 148
+Percentage Identity: 0.385
+
+=== A0A3N5RGT9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 474.0
+E-value: 1.773e-12
+Alignment Length: 147
+Percentage Identity: 0.333
+
+=== A0A432QY18 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RUM43298.1};
+Bit Score: 455.0
+E-value: 1.773e-12
+Alignment Length: 149
+Percentage Identity: 0.355
+
+=== A0A497QWT2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 445.0
+E-value: 1.773e-12
+Alignment Length: 146
+Percentage Identity: 0.308
+
+=== A0A0F9M8H8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 392.0
+E-value: 1.885e-12
+Alignment Length: 150
+Percentage Identity: 0.373
+
+=== A0A0F9VTP6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 422.0
+E-value: 2.132e-12
+Alignment Length: 152
+Percentage Identity: 0.335
+
+=== A0A0F9V8L5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 402.0
+E-value: 2.132e-12
+Alignment Length: 151
+Percentage Identity: 0.311
+
+=== A0A6M1ZDX1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 385.0
+E-value: 2.132e-12
+Alignment Length: 160
+Percentage Identity: 0.325
+
+=== A0A2L0VVF5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 410.0
+E-value: 2.267e-12
+Alignment Length: 156
+Percentage Identity: 0.339
+
+=== A6T071 ===
+DE   SubName: Full=Phage-related protein {ECO:0000313|EMBL:ABR91766.1};
+Bit Score: 435.0
+E-value: 2.41e-12
+Alignment Length: 149
+Percentage Identity: 0.348
+
+=== A0A6M3KG70 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJA80977.1};
+Bit Score: 391.0
+E-value: 2.41e-12
+Alignment Length: 152
+Percentage Identity: 0.381
+
+=== A0A7Y5RIK3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 426.0
+E-value: 2.563e-12
+Alignment Length: 148
+Percentage Identity: 0.337
+
+=== A0A521RPD5 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TAJ96990.1};
+Bit Score: 414.0
+E-value: 2.725e-12
+Alignment Length: 157
+Percentage Identity: 0.369
+
+=== A0A0S4WF53 ===
+DE   SubName: Full=Putative bacteriophage t7-related gene protein {ECO:0000313|EMBL:CUV45433.1};
+Bit Score: 409.0
+E-value: 2.725e-12
+Alignment Length: 151
+Percentage Identity: 0.304
+
+=== A0A0F9Q6A9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 388.0
+E-value: 2.725e-12
+Alignment Length: 161
+Percentage Identity: 0.322
+
+=== A0A3A4U7R2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 379.0
+E-value: 2.725e-12
+Alignment Length: 159
+Percentage Identity: 0.345
+
+=== A0A7L5BKM4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 387.0
+E-value: 2.898e-12
+Alignment Length: 149
+Percentage Identity: 0.355
+
+=== A0A0G3BTH8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 438.0
+E-value: 3.082e-12
+Alignment Length: 151
+Percentage Identity: 0.364
+
+=== A0A0F8ZU58 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 458.0
+E-value: 3.277e-12
+Alignment Length: 150
+Percentage Identity: 0.326
+
+=== A0A0F8XWI5 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 381.0
+E-value: 3.277e-12
+Alignment Length: 151
+Percentage Identity: 0.311
+
+=== A0A0F8W9J4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 379.0
+E-value: 3.484e-12
+Alignment Length: 153
+Percentage Identity: 0.346
+
+=== A0A0F9TWU5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 373.0
+E-value: 3.484e-12
+Alignment Length: 154
+Percentage Identity: 0.396
+
+=== A0A0F9L124 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 391.0
+E-value: 3.705e-12
+Alignment Length: 149
+Percentage Identity: 0.315
+
+=== A0A5E8VF74 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 386.0
+E-value: 3.705e-12
+Alignment Length: 139
+Percentage Identity: 0.381
+
+=== A0A6C0AJW4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 428.0
+E-value: 4.19e-12
+Alignment Length: 148
+Percentage Identity: 0.29
+
+=== A0A7V2N1Q4 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HEV56478.1};
+Bit Score: 391.0
+E-value: 4.19e-12
+Alignment Length: 153
+Percentage Identity: 0.366
+
+=== A0A2A5C6B8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 410.0
+E-value: 4.455e-12
+Alignment Length: 149
+Percentage Identity: 0.328
+
+=== A0A4R1MBK5 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TCK87369.1};
+Bit Score: 409.0
+E-value: 4.455e-12
+Alignment Length: 148
+Percentage Identity: 0.324
+
+=== A0A6M3J2R7 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJA63451.1};
+Bit Score: 405.0
+E-value: 4.455e-12
+Alignment Length: 152
+Percentage Identity: 0.309
+
+=== A0A0F9JCX9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 404.0
+E-value: 4.455e-12
+Alignment Length: 155
+Percentage Identity: 0.309
+
+=== A0A0F9W8K4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 428.0
+E-value: 4.737e-12
+Alignment Length: 146
+Percentage Identity: 0.321
+
+=== A0A0F9DI59 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 437.0
+E-value: 5.037e-12
+Alignment Length: 149
+Percentage Identity: 0.322
+
+=== A0A1X9M853 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 410.0
+E-value: 5.037e-12
+Alignment Length: 141
+Percentage Identity: 0.34
+
+=== A0A3N4V1R8 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RPE76876.1};
+Bit Score: 383.0
+E-value: 5.356e-12
+Alignment Length: 141
+Percentage Identity: 0.354
+
+=== A0A1V2ZFH4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 426.0
+E-value: 5.696e-12
+Alignment Length: 152
+Percentage Identity: 0.282
+
+=== A0A0G0C7V4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 403.0
+E-value: 5.696e-12
+Alignment Length: 156
+Percentage Identity: 0.333
+
+=== B2JD42 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 388.0
+E-value: 5.696e-12
+Alignment Length: 143
+Percentage Identity: 0.328
+
+=== A0A1I7GPE6 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SFU50221.1};
+Bit Score: 382.0
+E-value: 5.696e-12
+Alignment Length: 147
+Percentage Identity: 0.374
+
+=== A0A7W9Q3Y6 ===
+DE   SubName: Full=Transposase-like protein {ECO:0000313|EMBL:MBB5932367.1};
+Bit Score: 365.0
+E-value: 5.696e-12
+Alignment Length: 151
+Percentage Identity: 0.291
+
+=== A0A0F9HS99 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 366.0
+E-value: 6.056e-12
+Alignment Length: 172
+Percentage Identity: 0.331
+
+=== A0A2N2LUV2 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 366.0
+E-value: 6.44e-12
+Alignment Length: 165
+Percentage Identity: 0.296
+
+=== A0A1G9NU93 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SDL90152.1};
+Bit Score: 416.0
+E-value: 6.848e-12
+Alignment Length: 148
+Percentage Identity: 0.304
+
+=== A0A433WYQ7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 403.0
+E-value: 6.848e-12
+Alignment Length: 144
+Percentage Identity: 0.326
+
+=== A0A1C0ZX12 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 381.0
+E-value: 6.848e-12
+Alignment Length: 148
+Percentage Identity: 0.344
+
+=== A0A0F9HSR1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 373.0
+E-value: 6.848e-12
+Alignment Length: 150
+Percentage Identity: 0.366
+
+=== A0A5A7ZQ23 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:KAA0117929.1};
+Bit Score: 386.0
+E-value: 7.282e-12
+Alignment Length: 136
+Percentage Identity: 0.367
+
+=== A0A4U3CKQ9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 369.0
+E-value: 7.282e-12
+Alignment Length: 149
+Percentage Identity: 0.355
+
+=== A0A0F9KXU0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 392.0
+E-value: 7.743e-12
+Alignment Length: 152
+Percentage Identity: 0.322
+
+=== A0A1G7ZNU4 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SDH10421.1};
+Bit Score: 380.0
+E-value: 7.743e-12
+Alignment Length: 146
+Percentage Identity: 0.328
+
+=== A0A544WYK3 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TQR97324.1};
+Bit Score: 429.0
+E-value: 8.234e-12
+Alignment Length: 142
+Percentage Identity: 0.359
+
+=== A0A0Q8BT96 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 344.0
+E-value: 8.234e-12
+Alignment Length: 151
+Percentage Identity: 0.35
+
+=== A0A073CMH9 ===
+DE   SubName: Full=Putative bacteriophage-related protein {ECO:0000313|EMBL:KEI65185.1};
+Bit Score: 447.0
+E-value: 8.755e-12
+Alignment Length: 147
+Percentage Identity: 0.353
+
+=== A0A0S4U1S3 ===
+DE   SubName: Full=Uncharacterized gene 7.7 protein (Modular protein) (Modular protein) {ECO:0000313|EMBL:CUV15681.1};
+Bit Score: 381.0
+E-value: 8.755e-12
+Alignment Length: 151
+Percentage Identity: 0.331
+
+=== A0A0F9EPM3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 369.0
+E-value: 8.755e-12
+Alignment Length: 155
+Percentage Identity: 0.303
+
+=== A0A3D0RYA5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 426.0
+E-value: 9.31e-12
+Alignment Length: 160
+Percentage Identity: 0.3
+
+=== A0A423KIA9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 400.0
+E-value: 9.31e-12
+Alignment Length: 152
+Percentage Identity: 0.348
+
+=== A0A0G1RYC5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 396.0
+E-value: 9.31e-12
+Alignment Length: 138
+Percentage Identity: 0.347
+
+=== A0A2N6IGY6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 375.0
+E-value: 9.31e-12
+Alignment Length: 155
+Percentage Identity: 0.348
+
+=== A0A0U1NY79 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 395.0
+E-value: 9.9e-12
+Alignment Length: 140
+Percentage Identity: 0.328
+
+=== A0A6L9KYF0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:NDU91583.1};
+Bit Score: 390.0
+E-value: 9.9e-12
+Alignment Length: 152
+Percentage Identity: 0.328
+
+=== A0A0F9TFZ5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 389.0
+E-value: 9.9e-12
+Alignment Length: 147
+Percentage Identity: 0.367
+
+=== A0A352QQ01 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 375.0
+E-value: 9.9e-12
+Alignment Length: 150
+Percentage Identity: 0.34
+
+=== A0A428JD23 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RSK29880.1};
+Bit Score: 470.0
+E-value: 1.053e-11
+Alignment Length: 103
+Percentage Identity: 0.446
+
+=== A0A2T9XML4 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:PVU81347.1};
+Bit Score: 422.0
+E-value: 1.053e-11
+Alignment Length: 148
+Percentage Identity: 0.297
+
+=== A0A2T6F953 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:PUA19611.1};
+Bit Score: 369.0
+E-value: 1.053e-11
+Alignment Length: 157
+Percentage Identity: 0.324
+
+=== A0A6M3JN44 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJA70277.1};
+Bit Score: 360.0
+E-value: 1.053e-11
+Alignment Length: 183
+Percentage Identity: 0.322
+
+=== A0A0F9AEU2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 411.0
+E-value: 1.119e-11
+Alignment Length: 146
+Percentage Identity: 0.321
+
+=== A0A2A5C5X0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:PCJ39197.1};
+Bit Score: 365.0
+E-value: 1.119e-11
+Alignment Length: 152
+Percentage Identity: 0.348
+
+=== A0A0F8WDP2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 361.0
+E-value: 1.119e-11
+Alignment Length: 163
+Percentage Identity: 0.306
+
+=== A0A0Q8KE13 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 399.0
+E-value: 1.19e-11
+Alignment Length: 151
+Percentage Identity: 0.311
+
+=== A0A1R3WE01 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SIT74622.1};
+Bit Score: 391.0
+E-value: 1.266e-11
+Alignment Length: 149
+Percentage Identity: 0.302
+
+=== A0A1F4LLL3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OGB47766.1};
+Bit Score: 382.0
+E-value: 1.266e-11
+Alignment Length: 156
+Percentage Identity: 0.32
+
+=== A0A0F9CFB3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 385.0
+E-value: 1.346e-11
+Alignment Length: 147
+Percentage Identity: 0.319
+
+=== A0A0F9CBU5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 374.0
+E-value: 1.346e-11
+Alignment Length: 164
+Percentage Identity: 0.31
+
+=== A0A509L326 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 422.0
+E-value: 1.431e-11
+Alignment Length: 153
+Percentage Identity: 0.313
+
+=== A0A0F9IK73 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 380.0
+E-value: 1.431e-11
+Alignment Length: 162
+Percentage Identity: 0.29
+
+=== A0A2V9F8C6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 369.0
+E-value: 1.522e-11
+Alignment Length: 156
+Percentage Identity: 0.294
+
+=== A0A7C1R3N5 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HDZ39497.1};
+Bit Score: 365.0
+E-value: 1.522e-11
+Alignment Length: 159
+Percentage Identity: 0.333
+
+=== A0A2S0JU89 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 380.0
+E-value: 1.618e-11
+Alignment Length: 147
+Percentage Identity: 0.34
+
+=== A0A519HHL2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RZI99824.1};
+Bit Score: 372.0
+E-value: 1.618e-11
+Alignment Length: 160
+Percentage Identity: 0.312
+
+=== A0A1G9HSZ4 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SDL15955.1};
+Bit Score: 427.0
+E-value: 1.721e-11
+Alignment Length: 148
+Percentage Identity: 0.304
+
+=== A0A0F9X932 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 357.0
+E-value: 1.721e-11
+Alignment Length: 147
+Percentage Identity: 0.367
+
+=== A0A258NY01 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 374.0
+E-value: 1.83e-11
+Alignment Length: 151
+Percentage Identity: 0.344
+
+=== A0A7C2DCR6 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HEJ68169.1};
+Bit Score: 381.0
+E-value: 1.946e-11
+Alignment Length: 146
+Percentage Identity: 0.308
+
+=== A0A2S7IUH9 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:PQA71673.1};
+Bit Score: 357.0
+E-value: 1.946e-11
+Alignment Length: 154
+Percentage Identity: 0.298
+
+=== C5B0P5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 350.0
+E-value: 1.946e-11
+Alignment Length: 154
+Percentage Identity: 0.318
+
+=== A0A1H1WPC1 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SDS99168.1};
+Bit Score: 413.0
+E-value: 2.069e-11
+Alignment Length: 148
+Percentage Identity: 0.283
+
+=== A0A7W9CMU8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 371.0
+E-value: 2.069e-11
+Alignment Length: 140
+Percentage Identity: 0.328
+
+=== A0A6M3KWQ8 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJA85688.1};
+Bit Score: 344.0
+E-value: 2.2e-11
+Alignment Length: 149
+Percentage Identity: 0.328
+
+=== A0A521R3N2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TAJ89749.1};
+Bit Score: 379.0
+E-value: 2.339e-11
+Alignment Length: 147
+Percentage Identity: 0.367
+
+=== A0A292Z780 ===
+DE   SubName: Full=Phage protein {ECO:0000313|EMBL:GAY12053.1};
+Bit Score: 366.0
+E-value: 2.339e-11
+Alignment Length: 152
+Percentage Identity: 0.296
+
+=== A0A0F8YJI5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 346.0
+E-value: 2.339e-11
+Alignment Length: 155
+Percentage Identity: 0.316
+
+=== E6VL69 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 373.0
+E-value: 2.487e-11
+Alignment Length: 156
+Percentage Identity: 0.352
+
+=== A0A329MBQ3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 354.0
+E-value: 2.487e-11
+Alignment Length: 142
+Percentage Identity: 0.345
+
+=== A0A4U6N768 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TKV29719.1};
+Bit Score: 418.0
+E-value: 2.645e-11
+Alignment Length: 147
+Percentage Identity: 0.299
+
+=== A0A8B3VMT0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 367.0
+E-value: 2.645e-11
+Alignment Length: 145
+Percentage Identity: 0.289
+
+=== A0A0F9DWR4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 364.0
+E-value: 2.645e-11
+Alignment Length: 138
+Percentage Identity: 0.391
+
+=== A0A3A4K3X8 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RJO72884.1};
+Bit Score: 355.0
+E-value: 2.645e-11
+Alignment Length: 155
+Percentage Identity: 0.322
+
+=== A0A497E7M8 ===
+DE   RecName: Full=AP2/ERF domain-containing protein {ECO:0000259|PROSITE:PS51032};
+Bit Score: 352.0
+E-value: 2.645e-11
+Alignment Length: 149
+Percentage Identity: 0.355
+
+=== A0A6M3KQV3 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJA83874.1};
+Bit Score: 372.0
+E-value: 2.813e-11
+Alignment Length: 130
+Percentage Identity: 0.407
+
+=== A0A3N5U984 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RPJ19493.1};
+DE   Flags: Fragment;
+Bit Score: 379.0
+E-value: 2.991e-11
+Alignment Length: 127
+Percentage Identity: 0.44
+
+=== A0A0F9GCT7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 450.0
+E-value: 3.18e-11
+Alignment Length: 103
+Percentage Identity: 0.475
+
+=== A0A1I4UR84 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SFM91517.1};
+Bit Score: 347.0
+E-value: 3.18e-11
+Alignment Length: 149
+Percentage Identity: 0.308
+
+=== A0A7V0IST6 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HDH03240.1};
+Bit Score: 486.0
+E-value: 3.382e-11
+Alignment Length: 93
+Percentage Identity: 0.516
+
+=== A0A2D6E1T6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 436.0
+E-value: 3.382e-11
+Alignment Length: 105
+Percentage Identity: 0.428
+
+=== A0A7X6VIM0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:NLB81931.1};
+Bit Score: 358.0
+E-value: 3.596e-11
+Alignment Length: 142
+Percentage Identity: 0.359
+
+=== X0U4P5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 353.0
+E-value: 4.066e-11
+Alignment Length: 146
+Percentage Identity: 0.383
+
+=== A0A6M6JHZ3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 349.0
+E-value: 4.066e-11
+Alignment Length: 149
+Percentage Identity: 0.295
+
+=== A0A0F9SLG2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 382.0
+E-value: 4.323e-11
+Alignment Length: 155
+Percentage Identity: 0.329
+
+=== A0A0F9E435 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 350.0
+E-value: 4.323e-11
+Alignment Length: 149
+Percentage Identity: 0.369
+
+=== A0A429WSU9 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RST54098.1};
+Bit Score: 380.0
+E-value: 4.597e-11
+Alignment Length: 149
+Percentage Identity: 0.288
+
+=== A0A7C1SEE0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HEA68309.1};
+Bit Score: 348.0
+E-value: 4.597e-11
+Alignment Length: 149
+Percentage Identity: 0.322
+
+=== N6YFL0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 443.0
+E-value: 4.888e-11
+Alignment Length: 105
+Percentage Identity: 0.476
+
+=== A0A496PMT6 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RKW71776.1};
+Bit Score: 380.0
+E-value: 4.888e-11
+Alignment Length: 151
+Percentage Identity: 0.317
+
+=== K9W5J0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 375.0
+E-value: 4.888e-11
+Alignment Length: 153
+Percentage Identity: 0.346
+
+=== A0A0F9JU90 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 343.0
+E-value: 4.888e-11
+Alignment Length: 152
+Percentage Identity: 0.296
+
+=== A0A6M3J6Y5 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJA65666.1};
+Bit Score: 455.0
+E-value: 5.198e-11
+Alignment Length: 96
+Percentage Identity: 0.468
+
+=== A0A352V7A0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HBD93398.1};
+Bit Score: 380.0
+E-value: 5.198e-11
+Alignment Length: 149
+Percentage Identity: 0.355
+
+=== A0A497BU68 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 385.0
+E-value: 5.527e-11
+Alignment Length: 151
+Percentage Identity: 0.298
+
+=== A0A285D813 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SNX75959.1};
+Bit Score: 370.0
+E-value: 5.527e-11
+Alignment Length: 142
+Percentage Identity: 0.33
+
+=== A0A418XEG8 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RJG10905.1};
+Bit Score: 368.0
+E-value: 5.527e-11
+Alignment Length: 149
+Percentage Identity: 0.281
+
+=== A0A661WN91 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 343.0
+E-value: 5.527e-11
+Alignment Length: 156
+Percentage Identity: 0.32
+
+=== A0A6M3K4F7 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJA76521.1};
+Bit Score: 339.0
+E-value: 5.527e-11
+Alignment Length: 149
+Percentage Identity: 0.348
+
+=== A0A7C3CW02 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HFD86895.1};
+Bit Score: 341.0
+E-value: 5.878e-11
+Alignment Length: 172
+Percentage Identity: 0.296
+
+=== A0A0F8X4B1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 360.0
+E-value: 6.25e-11
+Alignment Length: 148
+Percentage Identity: 0.27
+
+=== A0A7W1JS91 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MBA3727566.1};
+Bit Score: 351.0
+E-value: 6.25e-11
+Alignment Length: 151
+Percentage Identity: 0.344
+
+=== A0A0F9QUH8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 474.0
+E-value: 6.646e-11
+Alignment Length: 91
+Percentage Identity: 0.494
+
+=== A0A7Y9WIM0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 361.0
+E-value: 6.646e-11
+Alignment Length: 150
+Percentage Identity: 0.286
+
+=== A0A5C1ALK5 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:QEL19067.1};
+Bit Score: 352.0
+E-value: 6.646e-11
+Alignment Length: 150
+Percentage Identity: 0.34
+
+=== A0A7J4VHD5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 340.0
+E-value: 6.646e-11
+Alignment Length: 151
+Percentage Identity: 0.317
+
+=== A0A0F9HCZ8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 322.0
+E-value: 6.646e-11
+Alignment Length: 183
+Percentage Identity: 0.306
+
+=== A0A497QDL8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 407.0
+E-value: 7.067e-11
+Alignment Length: 107
+Percentage Identity: 0.457
+
+=== A0A0N1MVV0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 323.0
+E-value: 7.067e-11
+Alignment Length: 153
+Percentage Identity: 0.333
+
+=== A0A726L1A8 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HAE1439300.1};
+DE   Flags: Fragment;
+Bit Score: 402.0
+E-value: 7.514e-11
+Alignment Length: 122
+Percentage Identity: 0.385
+
+=== A0A4P7SIG4 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:QCB93317.1};
+Bit Score: 382.0
+E-value: 7.514e-11
+Alignment Length: 147
+Percentage Identity: 0.319
+
+=== A0A348UV09 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HAR33871.1};
+Bit Score: 376.0
+E-value: 7.99e-11
+Alignment Length: 155
+Percentage Identity: 0.296
+
+=== A0A2W4QSM3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 333.0
+E-value: 7.99e-11
+Alignment Length: 149
+Percentage Identity: 0.342
+
+=== A0A0G1JKA8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 382.0
+E-value: 8.497e-11
+Alignment Length: 149
+Percentage Identity: 0.295
+
+=== Q39FD2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 380.0
+E-value: 8.497e-11
+Alignment Length: 128
+Percentage Identity: 0.39
+
+=== A0A7V8UDX9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 361.0
+E-value: 8.497e-11
+Alignment Length: 158
+Percentage Identity: 0.284
+
+=== A0A2E8ISH6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 344.0
+E-value: 8.497e-11
+Alignment Length: 164
+Percentage Identity: 0.286
+
+=== A0A7C1VNF2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 331.0
+E-value: 8.497e-11
+Alignment Length: 147
+Percentage Identity: 0.285
+
+=== A0A117IC20 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 357.0
+E-value: 9.035e-11
+Alignment Length: 153
+Percentage Identity: 0.307
+
+=== A0A225DLZ1 ===
+DE   SubName: Full=Phage protein {ECO:0000313|EMBL:OWK35220.1};
+Bit Score: 355.0
+E-value: 9.035e-11
+Alignment Length: 149
+Percentage Identity: 0.328
+
+=== A0A5C7VK35 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:TXI24598.1};
+Bit Score: 307.0
+E-value: 9.035e-11
+Alignment Length: 154
+Percentage Identity: 0.331
+
+=== A0A0F9KRU2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 430.0
+E-value: 1.022e-10
+Alignment Length: 104
+Percentage Identity: 0.442
+
+=== A0A5C8VHE9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 386.0
+E-value: 1.022e-10
+Alignment Length: 149
+Percentage Identity: 0.308
+
+=== A0A518HRD9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 357.0
+E-value: 1.086e-10
+Alignment Length: 151
+Percentage Identity: 0.298
+
+=== A0A1V6EL30 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 339.0
+E-value: 1.086e-10
+Alignment Length: 164
+Percentage Identity: 0.262
+
+=== A0A6M3KRH2 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJA84430.1};
+Bit Score: 352.0
+E-value: 1.228e-10
+Alignment Length: 141
+Percentage Identity: 0.333
+
+=== A0A6P1CMP2 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:NEW33849.1};
+Bit Score: 342.0
+E-value: 1.228e-10
+Alignment Length: 155
+Percentage Identity: 0.303
+
+=== A0A7D6I3A5 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:QLL08994.1};
+Bit Score: 378.0
+E-value: 1.389e-10
+Alignment Length: 152
+Percentage Identity: 0.302
+
+=== A0A352VD63 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 366.0
+E-value: 1.389e-10
+Alignment Length: 151
+Percentage Identity: 0.271
+
+=== A0A518IL46 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 356.0
+E-value: 1.389e-10
+Alignment Length: 142
+Percentage Identity: 0.288
+
+=== A0A258NWQ2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 353.0
+E-value: 1.389e-10
+Alignment Length: 147
+Percentage Identity: 0.38
+
+=== A0A6M1YN17 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 337.0
+E-value: 1.389e-10
+Alignment Length: 144
+Percentage Identity: 0.333
+
+=== A0A1V1X346 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 318.0
+E-value: 1.57e-10
+Alignment Length: 138
+Percentage Identity: 0.369
+
+=== A0A849ACL4 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:NNG36898.1};
+Bit Score: 289.0
+E-value: 1.57e-10
+Alignment Length: 153
+Percentage Identity: 0.294
+
+=== A0A5C7QH56 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TXH57941.1};
+Bit Score: 319.0
+E-value: 1.67e-10
+Alignment Length: 147
+Percentage Identity: 0.306
+
+=== A0A5C7PR86 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 310.0
+E-value: 1.67e-10
+Alignment Length: 146
+Percentage Identity: 0.328
+
+=== A0A243ID75 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 337.0
+E-value: 1.776e-10
+Alignment Length: 142
+Percentage Identity: 0.316
+
+=== A0A0F9S6I1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 348.0
+E-value: 1.888e-10
+Alignment Length: 141
+Percentage Identity: 0.319
+
+=== A0A6M3IM37 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJA57482.1};
+Bit Score: 330.0
+E-value: 1.888e-10
+Alignment Length: 139
+Percentage Identity: 0.323
+
+=== A0A3C1GB10 ===
+DE   RecName: Full=Nuclease associated modular domain-containing protein {ECO:0000259|SMART:SM00496};
+Bit Score: 411.0
+E-value: 2.135e-10
+Alignment Length: 105
+Percentage Identity: 0.438
+
+=== A0A0F9EQL4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 413.0
+E-value: 2.27e-10
+Alignment Length: 106
+Percentage Identity: 0.424
+
+=== B2HPG6 ===
+DE   SubName: Full=Conserved hypothetical phage protein {ECO:0000313|EMBL:ACC42318.1};
+Bit Score: 346.0
+E-value: 2.27e-10
+Alignment Length: 139
+Percentage Identity: 0.302
+
+=== A0A1H7KZ52 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SEK91830.1};
+Bit Score: 354.0
+E-value: 2.414e-10
+Alignment Length: 146
+Percentage Identity: 0.267
+
+=== A0A2A5JEW0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 347.0
+E-value: 2.414e-10
+Alignment Length: 148
+Percentage Identity: 0.31
+
+=== A0A0F9H8P9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 324.0
+E-value: 2.414e-10
+Alignment Length: 145
+Percentage Identity: 0.337
+
+=== A0A6M3M1L8 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJB01447.1};
+Bit Score: 333.0
+E-value: 2.729e-10
+Alignment Length: 154
+Percentage Identity: 0.305
+
+=== A0A0S4TN92 ===
+DE   SubName: Full=Putative bacteriophage-related protein {ECO:0000313|EMBL:CUV10925.1};
+Bit Score: 360.0
+E-value: 2.902e-10
+Alignment Length: 143
+Percentage Identity: 0.349
+
+=== A0A2E3RM76 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 314.0
+E-value: 3.086e-10
+Alignment Length: 147
+Percentage Identity: 0.319
+
+=== A0A176WWT9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 335.0
+E-value: 3.282e-10
+Alignment Length: 138
+Percentage Identity: 0.289
+
+=== A0A0F8Y3A1 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+DE   Flags: Fragment;
+Bit Score: 324.0
+E-value: 3.282e-10
+Alignment Length: 170
+Percentage Identity: 0.276
+
+=== A0A7K0UMV8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 318.0
+E-value: 3.282e-10
+Alignment Length: 148
+Percentage Identity: 0.331
+
+=== A0A0D6QFY6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 317.0
+E-value: 3.282e-10
+Alignment Length: 151
+Percentage Identity: 0.304
+
+=== A0A418UZE9 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RJF68870.1};
+Bit Score: 362.0
+E-value: 3.711e-10
+Alignment Length: 159
+Percentage Identity: 0.283
+
+=== A0A2V8R9J4 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:PYS81461.1};
+Bit Score: 325.0
+E-value: 3.711e-10
+Alignment Length: 128
+Percentage Identity: 0.351
+
+=== A0A1Y2NSI3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 338.0
+E-value: 3.946e-10
+Alignment Length: 135
+Percentage Identity: 0.333
+
+=== A0A7W6S7X1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 332.0
+E-value: 3.946e-10
+Alignment Length: 152
+Percentage Identity: 0.276
+
+=== A0A2D6E5Q8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 344.0
+E-value: 4.461e-10
+Alignment Length: 150
+Percentage Identity: 0.273
+
+=== A0A7X3SQN6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 333.0
+E-value: 4.461e-10
+Alignment Length: 165
+Percentage Identity: 0.254
+
+=== A0A2D6XKU9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 331.0
+E-value: 4.461e-10
+Alignment Length: 150
+Percentage Identity: 0.266
+
+=== A0A1F8QX90 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 320.0
+E-value: 4.461e-10
+Alignment Length: 164
+Percentage Identity: 0.317
+
+=== A0A7D8AFC4 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:QMU98741.1};
+Bit Score: 414.0
+E-value: 4.744e-10
+Alignment Length: 97
+Percentage Identity: 0.515
+
+=== A0A7U3UTJ0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 337.0
+E-value: 4.744e-10
+Alignment Length: 138
+Percentage Identity: 0.318
+
+=== A0A0F9TC12 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 404.0
+E-value: 5.045e-10
+Alignment Length: 104
+Percentage Identity: 0.403
+
+=== A0A7W1PIV2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MBA3891683.1};
+DE   Flags: Fragment;
+Bit Score: 374.0
+E-value: 5.045e-10
+Alignment Length: 109
+Percentage Identity: 0.412
+
+=== A0A259LU59 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 370.0
+E-value: 5.045e-10
+Alignment Length: 141
+Percentage Identity: 0.297
+
+=== A0A559KCL8 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TVY09877.1};
+Bit Score: 313.0
+E-value: 5.364e-10
+Alignment Length: 145
+Percentage Identity: 0.324
+
+=== A0A7K1LAH5 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:MUN41437.1};
+Bit Score: 295.0
+E-value: 5.364e-10
+Alignment Length: 186
+Percentage Identity: 0.247
+
+=== A0A260S5A4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 331.0
+E-value: 6.065e-10
+Alignment Length: 149
+Percentage Identity: 0.255
+
+=== A0A382RDU3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 312.0
+E-value: 6.065e-10
+Alignment Length: 147
+Percentage Identity: 0.258
+
+=== A0A0F9C722 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 429.0
+E-value: 6.449e-10
+Alignment Length: 84
+Percentage Identity: 0.523
+
+=== X0SH09 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 338.0
+E-value: 6.449e-10
+Alignment Length: 133
+Percentage Identity: 0.285
+
+=== A0A0F8YT40 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 417.0
+E-value: 8.768e-10
+Alignment Length: 98
+Percentage Identity: 0.469
+
+=== A0A519PLH3 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RZJ86864.1};
+Bit Score: 410.0
+E-value: 8.768e-10
+Alignment Length: 98
+Percentage Identity: 0.469
+
+=== A0A6L9KWB2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:NDU91582.1};
+Bit Score: 399.0
+E-value: 8.768e-10
+Alignment Length: 96
+Percentage Identity: 0.427
+
+=== A0A0F9SN96 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 420.0
+E-value: 9.323e-10
+Alignment Length: 90
+Percentage Identity: 0.466
+
+=== A0A0F9LR90 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 357.0
+E-value: 9.323e-10
+Alignment Length: 127
+Percentage Identity: 0.37
+
+=== A0A0F9LZW4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 309.0
+E-value: 9.323e-10
+Alignment Length: 141
+Percentage Identity: 0.297
+
+=== A0A5C7TXM0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TXI02259.1};
+Bit Score: 308.0
+E-value: 9.914e-10
+Alignment Length: 162
+Percentage Identity: 0.277
+
+=== A0A5B9DY56 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:QEE24479.1};
+Bit Score: 281.0
+E-value: 9.914e-10
+Alignment Length: 170
+Percentage Identity: 0.276
+
+=== A0A6C0CFN2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 348.0
+E-value: 1.054e-09
+Alignment Length: 148
+Percentage Identity: 0.236
+
+=== A0A4Q3L8Z5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 339.0
+E-value: 1.121e-09
+Alignment Length: 147
+Percentage Identity: 0.251
+
+=== A0A439H449 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 319.0
+E-value: 1.121e-09
+Alignment Length: 149
+Percentage Identity: 0.295
+
+=== A0A1T1AP42 ===
+DE   RecName: Full=Zinc-binding loop region of homing endonuclease domain-containing protein {ECO:0000259|Pfam:PF05551};
+Bit Score: 318.0
+E-value: 1.121e-09
+Alignment Length: 158
+Percentage Identity: 0.253
+
+=== A0A6H0ZMH5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 317.0
+E-value: 1.121e-09
+Alignment Length: 151
+Percentage Identity: 0.251
+
+=== A0A142WWL9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 312.0
+E-value: 1.121e-09
+Alignment Length: 144
+Percentage Identity: 0.291
+
+=== A0A1C0ZWW9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 312.0
+E-value: 1.121e-09
+Alignment Length: 142
+Percentage Identity: 0.281
+
+=== A0A0F9BN85 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 423.0
+E-value: 1.192e-09
+Alignment Length: 95
+Percentage Identity: 0.41
+
+=== A0A0F8ZPG8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 393.0
+E-value: 1.192e-09
+Alignment Length: 98
+Percentage Identity: 0.438
+
+=== A0A177G6P5 ===
+DE   SubName: Full=Endonuclease {ECO:0000313|EMBL:OAG75932.1};
+Bit Score: 301.0
+E-value: 1.268e-09
+Alignment Length: 149
+Percentage Identity: 0.315
+
+=== A0A0F9R3H5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 419.0
+E-value: 1.348e-09
+Alignment Length: 91
+Percentage Identity: 0.362
+
+=== A0A3D1CH09 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 301.0
+E-value: 1.348e-09
+Alignment Length: 148
+Percentage Identity: 0.263
+
+=== A0A5Q0UPR7 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 286.0
+E-value: 1.348e-09
+Alignment Length: 150
+Percentage Identity: 0.313
+
+=== A0A3C1G702 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 310.0
+E-value: 1.433e-09
+Alignment Length: 132
+Percentage Identity: 0.333
+
+=== A0A0U1NQS0 ===
+DE   SubName: Full=Sigma-70, region 4 {ECO:0000313|EMBL:CRK80390.1};
+Bit Score: 299.0
+E-value: 1.433e-09
+Alignment Length: 157
+Percentage Identity: 0.305
+
+=== A0A0F8WPZ4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 413.0
+E-value: 1.524e-09
+Alignment Length: 95
+Percentage Identity: 0.4
+
+=== A0A5C7LJM8 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TXH09407.1};
+Bit Score: 385.0
+E-value: 1.524e-09
+Alignment Length: 102
+Percentage Identity: 0.48
+
+=== A0A1B3XMN8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 359.0
+E-value: 1.524e-09
+Alignment Length: 129
+Percentage Identity: 0.286
+
+=== A0A353HAH4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 312.0
+E-value: 1.524e-09
+Alignment Length: 136
+Percentage Identity: 0.301
+
+=== A0A317H7Y7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 379.0
+E-value: 1.621e-09
+Alignment Length: 101
+Percentage Identity: 0.465
+
+=== A0A252C626 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 319.0
+E-value: 1.621e-09
+Alignment Length: 159
+Percentage Identity: 0.289
+
+=== A0A0F9F2S7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 401.0
+E-value: 1.832e-09
+Alignment Length: 92
+Percentage Identity: 0.358
+
+=== A0A429FV88 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 360.0
+E-value: 1.832e-09
+Alignment Length: 108
+Percentage Identity: 0.388
+
+=== A0A2U8X8Z4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 278.0
+E-value: 1.832e-09
+Alignment Length: 145
+Percentage Identity: 0.248
+
+=== A0A0F9G770 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 416.0
+E-value: 1.948e-09
+Alignment Length: 89
+Percentage Identity: 0.46
+
+=== A0A7K3GDD7 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MZE56535.1};
+Bit Score: 327.0
+E-value: 1.948e-09
+Alignment Length: 131
+Percentage Identity: 0.312
+
+=== A0A2Z3GEZ0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 373.0
+E-value: 2.072e-09
+Alignment Length: 99
+Percentage Identity: 0.494
+
+=== A0A7W1N6B8 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MBA3843622.1};
+Bit Score: 287.0
+E-value: 2.072e-09
+Alignment Length: 135
+Percentage Identity: 0.318
+
+=== A0A0F8YN34 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 410.0
+E-value: 2.491e-09
+Alignment Length: 93
+Percentage Identity: 0.43
+
+=== A0A0M3QDD6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 375.0
+E-value: 2.491e-09
+Alignment Length: 97
+Percentage Identity: 0.453
+
+=== A0A3D5AQI6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 325.0
+E-value: 2.491e-09
+Alignment Length: 144
+Percentage Identity: 0.326
+
+=== A0A4Y6QZW2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 320.0
+E-value: 2.491e-09
+Alignment Length: 157
+Percentage Identity: 0.235
+
+=== A0A3A0D8U1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 332.0
+E-value: 2.649e-09
+Alignment Length: 108
+Percentage Identity: 0.398
+
+=== R4UBQ8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 301.0
+E-value: 2.649e-09
+Alignment Length: 140
+Percentage Identity: 0.292
+
+=== A0A4Y7WI72 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TES48059.1};
+Bit Score: 299.0
+E-value: 2.649e-09
+Alignment Length: 142
+Percentage Identity: 0.274
+
+=== A0A7C1VSJ0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 386.0
+E-value: 2.995e-09
+Alignment Length: 90
+Percentage Identity: 0.455
+
+=== A0A2E0S335 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 290.0
+E-value: 2.995e-09
+Alignment Length: 139
+Percentage Identity: 0.273
+
+=== A0A2A4R5Y4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 368.0
+E-value: 3.185e-09
+Alignment Length: 97
+Percentage Identity: 0.453
+
+=== A0A1G3XU18 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 363.0
+E-value: 3.185e-09
+Alignment Length: 102
+Percentage Identity: 0.421
+
+=== A0A2K3JAD1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 294.0
+E-value: 3.185e-09
+Alignment Length: 159
+Percentage Identity: 0.238
+
+=== A0A4R5YGQ9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 288.0
+E-value: 3.185e-09
+Alignment Length: 149
+Percentage Identity: 0.228
+
+=== A0A2G2A4J3 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:PHQ82916.1};
+Bit Score: 391.0
+E-value: 3.387e-09
+Alignment Length: 95
+Percentage Identity: 0.41
+
+=== A0A2T1E305 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 290.0
+E-value: 3.387e-09
+Alignment Length: 135
+Percentage Identity: 0.266
+
+=== A0A4Q3V7E0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RYG35406.1};
+Bit Score: 290.0
+E-value: 3.387e-09
+Alignment Length: 152
+Percentage Identity: 0.243
+
+=== A0A0F9UXZ8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 392.0
+E-value: 3.601e-09
+Alignment Length: 93
+Percentage Identity: 0.397
+
+=== A0A6H1ZWW3 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJA51952.1};
+Bit Score: 290.0
+E-value: 3.829e-09
+Alignment Length: 142
+Percentage Identity: 0.295
+
+=== A0A1K1QFI8 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SFW58509.1};
+Bit Score: 289.0
+E-value: 3.829e-09
+Alignment Length: 152
+Percentage Identity: 0.269
+
+=== A0A0F9RGT0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 285.0
+E-value: 3.829e-09
+Alignment Length: 132
+Percentage Identity: 0.333
+
+=== A0A0L6CK23 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 397.0
+E-value: 4.072e-09
+Alignment Length: 91
+Percentage Identity: 0.428
+
+=== A0A2D5F768 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MAC32257.1};
+Bit Score: 383.0
+E-value: 4.33e-09
+Alignment Length: 95
+Percentage Identity: 0.389
+
+=== A0A0F9JUG1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 349.0
+E-value: 4.33e-09
+Alignment Length: 108
+Percentage Identity: 0.314
+
+=== A0A382YUQ1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 301.0
+E-value: 4.33e-09
+Alignment Length: 138
+Percentage Identity: 0.304
+
+=== A0A1X7G8K2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SMF65904.1};
+Bit Score: 289.0
+E-value: 4.33e-09
+Alignment Length: 151
+Percentage Identity: 0.264
+
+=== A0A0F8ZS95 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 368.0
+E-value: 4.896e-09
+Alignment Length: 83
+Percentage Identity: 0.493
+
+=== A0A0F9M2Z7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 397.0
+E-value: 5.206e-09
+Alignment Length: 94
+Percentage Identity: 0.436
+
+=== A0A0F8X538 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 313.0
+E-value: 5.206e-09
+Alignment Length: 139
+Percentage Identity: 0.316
+
+=== A0A7D7WI80 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:QMU97813.1};
+Bit Score: 363.0
+E-value: 5.535e-09
+Alignment Length: 98
+Percentage Identity: 0.438
+
+=== A0A4R1UVD9 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TCM21521.1};
+Bit Score: 352.0
+E-value: 5.535e-09
+Alignment Length: 104
+Percentage Identity: 0.384
+
+=== A0A4Q7YEY5 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RZU35962.1};
+Bit Score: 295.0
+E-value: 5.535e-09
+Alignment Length: 141
+Percentage Identity: 0.29
+
+=== A0A2N7RZI3 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:PMQ19299.1};
+Bit Score: 396.0
+E-value: 6.655e-09
+Alignment Length: 82
+Percentage Identity: 0.451
+
+=== A0A0F9T7Y4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 381.0
+E-value: 6.655e-09
+Alignment Length: 99
+Percentage Identity: 0.444
+
+=== A0A2D6W0T9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 290.0
+E-value: 6.655e-09
+Alignment Length: 148
+Percentage Identity: 0.283
+
+=== A0A271IYS7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 288.0
+E-value: 6.655e-09
+Alignment Length: 149
+Percentage Identity: 0.288
+
+=== A0A0F9AS96 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 258.0
+E-value: 6.655e-09
+Alignment Length: 126
+Percentage Identity: 0.396
+
+=== A0A0F8ZYA2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 352.0
+E-value: 7.077e-09
+Alignment Length: 105
+Percentage Identity: 0.333
+
+=== A0A6N9QYK2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:NDO78259.1};
+Bit Score: 378.0
+E-value: 8.002e-09
+Alignment Length: 84
+Percentage Identity: 0.476
+
+=== A0A656QCI1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 372.0
+E-value: 8.002e-09
+Alignment Length: 93
+Percentage Identity: 0.397
+
+=== A0A0F9A715 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 269.0
+E-value: 8.002e-09
+Alignment Length: 147
+Percentage Identity: 0.238
+
+=== A0A2X1CCB9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 254.0
+E-value: 8.002e-09
+Alignment Length: 169
+Percentage Identity: 0.254
+
+=== A0A1X0DY75 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 392.0
+E-value: 8.509e-09
+Alignment Length: 78
+Percentage Identity: 0.461
+
+=== A0A0F9DB27 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 265.0
+E-value: 9.048e-09
+Alignment Length: 153
+Percentage Identity: 0.281
+
+=== A0A1H5LZ19 ===
+DE   SubName: Full=AP2 domain-containing protein {ECO:0000313|EMBL:SEE82375.1};
+Bit Score: 397.0
+E-value: 9.621e-09
+Alignment Length: 78
+Percentage Identity: 0.435
+
+=== A0A0F9CGH7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 382.0
+E-value: 9.621e-09
+Alignment Length: 93
+Percentage Identity: 0.44
+
+=== A0A0F9B4X6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 376.0
+E-value: 9.621e-09
+Alignment Length: 91
+Percentage Identity: 0.417
+
+=== A0A0F9BA34 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 336.0
+E-value: 9.621e-09
+Alignment Length: 107
+Percentage Identity: 0.411
+
+=== A0A850AX03 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:NUQ70382.1};
+Bit Score: 274.0
+E-value: 9.621e-09
+Alignment Length: 141
+Percentage Identity: 0.283
+
+=== A0A0F9FTI2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 352.0
+E-value: 1.023e-08
+Alignment Length: 92
+Percentage Identity: 0.434
+
+=== A0A2E1GRU2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 383.0
+E-value: 1.23e-08
+Alignment Length: 90
+Percentage Identity: 0.366
+
+=== A0A7C1VJ99 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HEC64922.1};
+Bit Score: 362.0
+E-value: 1.23e-08
+Alignment Length: 92
+Percentage Identity: 0.402
+
+=== A0A850B6X3 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:NUQ73376.1};
+Bit Score: 245.0
+E-value: 1.23e-08
+Alignment Length: 170
+Percentage Identity: 0.282
+
+=== A0A0F9FWF2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 340.0
+E-value: 1.308e-08
+Alignment Length: 94
+Percentage Identity: 0.393
+
+=== A0A3D0R2D5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 333.0
+E-value: 1.308e-08
+Alignment Length: 99
+Percentage Identity: 0.424
+
+=== A0A7T7VS36 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:QQN73915.1};
+Bit Score: 309.0
+E-value: 1.308e-08
+Alignment Length: 103
+Percentage Identity: 0.388
+
+=== A0A243B524 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 280.0
+E-value: 1.308e-08
+Alignment Length: 133
+Percentage Identity: 0.315
+
+=== A0A542YF52 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 300.0
+E-value: 1.391e-08
+Alignment Length: 149
+Percentage Identity: 0.228
+
+=== A0A800M5R6 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HIG76150.1};
+Bit Score: 268.0
+E-value: 1.391e-08
+Alignment Length: 152
+Percentage Identity: 0.309
+
+=== A0A6H1ZI21 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJA47178.1};
+Bit Score: 374.0
+E-value: 1.573e-08
+Alignment Length: 90
+Percentage Identity: 0.444
+
+=== A0A6H0SM81 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:QIV87529.1};
+Bit Score: 374.0
+E-value: 1.672e-08
+Alignment Length: 82
+Percentage Identity: 0.414
+
+=== A0A1T4LMN9 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SJZ55896.1};
+Bit Score: 317.0
+E-value: 1.672e-08
+Alignment Length: 105
+Percentage Identity: 0.314
+
+=== I4B1R7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 273.0
+E-value: 1.672e-08
+Alignment Length: 146
+Percentage Identity: 0.226
+
+=== A0A4Y3M7T2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 263.0
+E-value: 1.672e-08
+Alignment Length: 157
+Percentage Identity: 0.28
+
+=== A0A0F9B186 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 340.0
+E-value: 1.778e-08
+Alignment Length: 91
+Percentage Identity: 0.351
+
+=== A0A0F9HHA9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 253.0
+E-value: 1.778e-08
+Alignment Length: 145
+Percentage Identity: 0.31
+
+=== A0A2T5GYR7 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:PTQ64481.1};
+Bit Score: 360.0
+E-value: 1.891e-08
+Alignment Length: 98
+Percentage Identity: 0.346
+
+=== A0A0F9A6T8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 322.0
+E-value: 1.891e-08
+Alignment Length: 86
+Percentage Identity: 0.383
+
+=== A0A318DDY3 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:PXV54182.1};
+Bit Score: 321.0
+E-value: 1.891e-08
+Alignment Length: 110
+Percentage Identity: 0.372
+
+=== A0A496Z708 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 290.0
+E-value: 1.891e-08
+Alignment Length: 142
+Percentage Identity: 0.253
+
+=== A0A0F9HPY2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 315.0
+E-value: 2.011e-08
+Alignment Length: 107
+Percentage Identity: 0.373
+
+=== A0A225D1N7 ===
+DE   SubName: Full=Phage-associated homing endonuclease {ECO:0000313|EMBL:OWK35432.1};
+Bit Score: 315.0
+E-value: 2.011e-08
+Alignment Length: 118
+Percentage Identity: 0.364
+
+=== A0A0F9ERG4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 375.0
+E-value: 2.138e-08
+Alignment Length: 91
+Percentage Identity: 0.406
+
+=== A0A7W5AMS4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 262.0
+E-value: 2.138e-08
+Alignment Length: 139
+Percentage Identity: 0.28
+
+=== A0A7C3GTQ2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 251.0
+E-value: 2.273e-08
+Alignment Length: 108
+Percentage Identity: 0.379
+
+=== A0A0F9WTE7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 367.0
+E-value: 2.571e-08
+Alignment Length: 89
+Percentage Identity: 0.393
+
+=== A0A0F8ZXL4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 364.0
+E-value: 2.571e-08
+Alignment Length: 92
+Percentage Identity: 0.326
+
+=== A0A495KZ62 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RKS06677.1};
+Bit Score: 325.0
+E-value: 2.571e-08
+Alignment Length: 107
+Percentage Identity: 0.383
+
+=== A0A0F9H1C8 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 252.0
+E-value: 2.571e-08
+Alignment Length: 153
+Percentage Identity: 0.248
+
+=== A0A0F9AL83 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 358.0
+E-value: 2.733e-08
+Alignment Length: 83
+Percentage Identity: 0.469
+
+=== A0A0M3ARY1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 333.0
+E-value: 2.733e-08
+Alignment Length: 100
+Percentage Identity: 0.28
+
+=== A0A7K2JM88 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MYR43094.1};
+Bit Score: 329.0
+E-value: 2.733e-08
+Alignment Length: 102
+Percentage Identity: 0.362
+
+=== A0A0F9NU71 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 292.0
+E-value: 2.733e-08
+Alignment Length: 111
+Percentage Identity: 0.36
+
+=== A0A329Q0L5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RAW05937.1};
+Bit Score: 279.0
+E-value: 2.733e-08
+Alignment Length: 107
+Percentage Identity: 0.429
+
+=== A0A3C2BRY1 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HAP89102.1};
+Bit Score: 372.0
+E-value: 3.091e-08
+Alignment Length: 78
+Percentage Identity: 0.474
+
+=== A0A175RGQ8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 305.0
+E-value: 3.091e-08
+Alignment Length: 106
+Percentage Identity: 0.349
+
+=== A0A2A6JTD4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 269.0
+E-value: 3.091e-08
+Alignment Length: 146
+Percentage Identity: 0.232
+
+=== A0A382A0M6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 375.0
+E-value: 3.286e-08
+Alignment Length: 85
+Percentage Identity: 0.4
+
+=== A0A0F9DBH5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 287.0
+E-value: 3.286e-08
+Alignment Length: 139
+Percentage Identity: 0.316
+
+=== A0A0B9AP09 ===
+DE   SubName: Full=Pathogenesis-related transcriptional factor and ERF protein {ECO:0000313|EMBL:KHS52557.1};
+Bit Score: 343.0
+E-value: 3.495e-08
+Alignment Length: 90
+Percentage Identity: 0.433
+
+=== A0A0F9KUW7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 254.0
+E-value: 3.716e-08
+Alignment Length: 106
+Percentage Identity: 0.415
+
+=== A0A6A7LPE0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 354.0
+E-value: 3.951e-08
+Alignment Length: 89
+Percentage Identity: 0.37
+
+=== A0A0F8VYS0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 251.0
+E-value: 4.202e-08
+Alignment Length: 141
+Percentage Identity: 0.304
+
+=== A0A537N8T1 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TMJ28950.1};
+Bit Score: 351.0
+E-value: 4.751e-08
+Alignment Length: 92
+Percentage Identity: 0.358
+
+=== A0A7W7W792 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 335.0
+E-value: 4.751e-08
+Alignment Length: 91
+Percentage Identity: 0.373
+
+=== A0A4R8WN78 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TFC12818.1};
+Bit Score: 315.0
+E-value: 4.751e-08
+Alignment Length: 99
+Percentage Identity: 0.363
+
+=== A0A0F9CK34 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 273.0
+E-value: 4.751e-08
+Alignment Length: 110
+Percentage Identity: 0.345
+
+=== A0A7H2BLU7 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:QNV40643.1};
+Bit Score: 236.0
+E-value: 4.751e-08
+Alignment Length: 145
+Percentage Identity: 0.31
+
+=== A0A0F9A1V6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 336.0
+E-value: 5.372e-08
+Alignment Length: 95
+Percentage Identity: 0.442
+
+=== A0A0F8YD79 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 323.0
+E-value: 5.372e-08
+Alignment Length: 94
+Percentage Identity: 0.351
+
+=== A0A851HHQ0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:NWN89184.1};
+Bit Score: 307.0
+E-value: 5.372e-08
+Alignment Length: 104
+Percentage Identity: 0.355
+
+=== A0A0F9H3D4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 254.0
+E-value: 5.712e-08
+Alignment Length: 108
+Percentage Identity: 0.324
+
+=== A0A0F9IS79 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 311.0
+E-value: 6.074e-08
+Alignment Length: 100
+Percentage Identity: 0.32
+
+=== A0A3D2SQR9 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HCK31819.1};
+Bit Score: 284.0
+E-value: 6.074e-08
+Alignment Length: 121
+Percentage Identity: 0.314
+
+=== A0A0D6Q1U3 ===
+DE   SubName: Full=Endonuclease {ECO:0000313|EMBL:GAN96731.1};
+Bit Score: 247.0
+E-value: 6.074e-08
+Alignment Length: 151
+Percentage Identity: 0.218
+
+=== A0A0F8ZBN5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 344.0
+E-value: 6.459e-08
+Alignment Length: 81
+Percentage Identity: 0.432
+
+=== A0A3C1F3Q2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 237.0
+E-value: 6.459e-08
+Alignment Length: 118
+Percentage Identity: 0.338
+
+=== A0A0F9BEW8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 233.0
+E-value: 6.459e-08
+Alignment Length: 149
+Percentage Identity: 0.194
+
+=== A0A1A1YK62 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 347.0
+E-value: 6.868e-08
+Alignment Length: 84
+Percentage Identity: 0.428
+
+=== A0A2A6JTR7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 270.0
+E-value: 6.868e-08
+Alignment Length: 141
+Percentage Identity: 0.276
+
+=== A0A2A5NP49 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 337.0
+E-value: 7.303e-08
+Alignment Length: 94
+Percentage Identity: 0.361
+
+=== A0A5Z7W7L5 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:ECS7436840.1};
+Bit Score: 282.0
+E-value: 7.303e-08
+Alignment Length: 143
+Percentage Identity: 0.237
+
+=== A0A0F9F9T5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 240.0
+E-value: 7.766e-08
+Alignment Length: 143
+Percentage Identity: 0.216
+
+=== A0A0F9MVY6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 331.0
+E-value: 8.258e-08
+Alignment Length: 92
+Percentage Identity: 0.38
+
+=== A0A2N3VH00 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 275.0
+E-value: 8.258e-08
+Alignment Length: 109
+Percentage Identity: 0.357
+
+=== A0A0P1ECP6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 266.0
+E-value: 8.258e-08
+Alignment Length: 151
+Percentage Identity: 0.185
+
+=== A0A7C6W9M1 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:HHW90960.1};
+Bit Score: 249.0
+E-value: 8.258e-08
+Alignment Length: 143
+Percentage Identity: 0.244
+
+=== A0A0M0EBY2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 243.0
+E-value: 8.258e-08
+Alignment Length: 156
+Percentage Identity: 0.217
+
+=== A0A098BVL3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 242.0
+E-value: 8.258e-08
+Alignment Length: 140
+Percentage Identity: 0.271
+
+=== X0U8W1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 303.0
+E-value: 8.781e-08
+Alignment Length: 104
+Percentage Identity: 0.317
+
+=== A0A0F9B8G7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 296.0
+E-value: 8.781e-08
+Alignment Length: 96
+Percentage Identity: 0.364
+
+=== A0A1H1LDH0 ===
+DE   SubName: Full=AP2 domain-containing protein {ECO:0000313|EMBL:SDR72390.1};
+Bit Score: 345.0
+E-value: 9.337e-08
+Alignment Length: 83
+Percentage Identity: 0.373
+
+=== A0A2D6MD39 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MAG26340.1};
+Bit Score: 233.0
+E-value: 9.337e-08
+Alignment Length: 154
+Percentage Identity: 0.272
+
+=== A0A1Q4ZKA5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 232.0
+E-value: 9.929e-08
+Alignment Length: 145
+Percentage Identity: 0.282
+
+=== A0A1G3ZKQ8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 338.0
+E-value: 1.056e-07
+Alignment Length: 95
+Percentage Identity: 0.378
+
+=== A0A7K2Z7N0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MYW28322.1};
+Bit Score: 280.0
+E-value: 1.056e-07
+Alignment Length: 111
+Percentage Identity: 0.36
+
+=== A0A259TXA7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 247.0
+E-value: 1.056e-07
+Alignment Length: 151
+Percentage Identity: 0.264
+
+=== A0A2R9UF53 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 323.0
+E-value: 1.123e-07
+Alignment Length: 92
+Percentage Identity: 0.38
+
+=== A0A7W8HFW1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 301.0
+E-value: 1.123e-07
+Alignment Length: 97
+Percentage Identity: 0.36
+
+=== A0A0F9VDB4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 286.0
+E-value: 1.123e-07
+Alignment Length: 110
+Percentage Identity: 0.327
+
+=== A0A0F9T6T0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 262.0
+E-value: 1.123e-07
+Alignment Length: 103
+Percentage Identity: 0.339
+
+=== A0A2R4T1F4 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:AVZ72963.1};
+Bit Score: 223.0
+E-value: 1.123e-07
+Alignment Length: 144
+Percentage Identity: 0.284
+
+=== A0A0F9D4P7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 288.0
+E-value: 1.194e-07
+Alignment Length: 93
+Percentage Identity: 0.322
+
+=== A0A0F9C898 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 339.0
+E-value: 1.269e-07
+Alignment Length: 83
+Percentage Identity: 0.421
+
+=== A0A841QJ88 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 238.0
+E-value: 1.269e-07
+Alignment Length: 147
+Percentage Identity: 0.278
+
+=== A0A1N6DP33 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SIN72545.1};
+Bit Score: 230.0
+E-value: 1.269e-07
+Alignment Length: 154
+Percentage Identity: 0.253
+
+=== A0A2V2RLT4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 219.0
+E-value: 1.269e-07
+Alignment Length: 150
+Percentage Identity: 0.22
+
+=== A0A2D6XIJ1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 344.0
+E-value: 1.35e-07
+Alignment Length: 84
+Percentage Identity: 0.416
+
+=== A0A6L7PW65 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MXZ90446.1};
+Bit Score: 289.0
+E-value: 1.35e-07
+Alignment Length: 107
+Percentage Identity: 0.392
+
+=== A0A0F9JQP6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 274.0
+E-value: 1.35e-07
+Alignment Length: 110
+Percentage Identity: 0.3
+
+=== A0A1H0UL28 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 265.0
+E-value: 1.35e-07
+Alignment Length: 147
+Percentage Identity: 0.197
+
+=== A0A5C5RTN3 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TWS25581.1};
+Bit Score: 341.0
+E-value: 1.435e-07
+Alignment Length: 80
+Percentage Identity: 0.35
+
+=== A0A850DTE0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:NUU27929.1};
+Bit Score: 337.0
+E-value: 1.435e-07
+Alignment Length: 80
+Percentage Identity: 0.437
+
+=== A0A7Y9N192 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 281.0
+E-value: 1.435e-07
+Alignment Length: 104
+Percentage Identity: 0.336
+
+=== A0A429BJW6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 270.0
+E-value: 1.435e-07
+Alignment Length: 122
+Percentage Identity: 0.327
+
+=== A0A0Q6YIZ0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 248.0
+E-value: 1.435e-07
+Alignment Length: 151
+Percentage Identity: 0.211
+
+=== A0A401AUK2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HAE0896690.1};
+Bit Score: 247.0
+E-value: 1.435e-07
+Alignment Length: 143
+Percentage Identity: 0.272
+
+=== A0A6I5FA30 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MYT39020.1};
+Bit Score: 329.0
+E-value: 1.526e-07
+Alignment Length: 88
+Percentage Identity: 0.386
+
+=== A0A5M8H6L6 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:KAA6204276.1};
+Bit Score: 215.0
+E-value: 1.526e-07
+Alignment Length: 163
+Percentage Identity: 0.282
+
+=== A0A0F9MH32 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 323.0
+E-value: 1.623e-07
+Alignment Length: 81
+Percentage Identity: 0.345
+
+=== A0A7W9FGQ4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 275.0
+E-value: 1.623e-07
+Alignment Length: 108
+Percentage Identity: 0.305
+
+=== A0A7D7WF09 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 250.0
+E-value: 1.623e-07
+Alignment Length: 127
+Percentage Identity: 0.307
+
+=== A0A0F9P734 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 236.0
+E-value: 1.623e-07
+Alignment Length: 144
+Percentage Identity: 0.263
+
+=== A0A5C7QL27 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TXH59165.1};
+Bit Score: 291.0
+E-value: 1.726e-07
+Alignment Length: 93
+Percentage Identity: 0.419
+
+=== A0A0F8Z0N4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 262.0
+E-value: 1.726e-07
+Alignment Length: 115
+Percentage Identity: 0.313
+
+=== A0A2A9M0K6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 241.0
+E-value: 1.726e-07
+Alignment Length: 153
+Percentage Identity: 0.281
+
+=== A0A7C6BM83 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HHT09992.1};
+Bit Score: 230.0
+E-value: 1.726e-07
+Alignment Length: 134
+Percentage Identity: 0.305
+
+=== A0A0F9GXN2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 291.0
+E-value: 1.835e-07
+Alignment Length: 104
+Percentage Identity: 0.384
+
+=== A0A4Y9QFE2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TFV91394.1};
+Bit Score: 238.0
+E-value: 1.835e-07
+Alignment Length: 142
+Percentage Identity: 0.246
+
+=== A0A0F9B310 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 311.0
+E-value: 1.951e-07
+Alignment Length: 87
+Percentage Identity: 0.367
+
+=== A0A2D6XB93 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 275.0
+E-value: 1.951e-07
+Alignment Length: 108
+Percentage Identity: 0.333
+
+=== A0A0F9N7J3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 273.0
+E-value: 1.951e-07
+Alignment Length: 112
+Percentage Identity: 0.33
+
+=== A0A0F9TAL9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 223.0
+E-value: 1.951e-07
+Alignment Length: 144
+Percentage Identity: 0.25
+
+=== A0A1H1XHA2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SDT08511.1};
+Bit Score: 332.0
+E-value: 2.075e-07
+Alignment Length: 88
+Percentage Identity: 0.397
+
+=== A0A554SP65 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 331.0
+E-value: 2.075e-07
+Alignment Length: 90
+Percentage Identity: 0.355
+
+=== A0A0F9VRU5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 299.0
+E-value: 2.075e-07
+Alignment Length: 101
+Percentage Identity: 0.346
+
+=== A0A7Y0GSG3 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 235.0
+E-value: 2.075e-07
+Alignment Length: 152
+Percentage Identity: 0.171
+
+=== A0A6J7ZE78 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 224.0
+E-value: 2.075e-07
+Alignment Length: 143
+Percentage Identity: 0.237
+
+=== A0A0M8KP26 ===
+DE   SubName: Full=Phage-associated homing endonuclease {ECO:0000313|EMBL:GAP78518.1};
+Bit Score: 321.0
+E-value: 2.206e-07
+Alignment Length: 93
+Percentage Identity: 0.333
+
+=== A0A6G3WN79 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:NEE06902.1};
+Bit Score: 273.0
+E-value: 2.206e-07
+Alignment Length: 106
+Percentage Identity: 0.358
+
+=== A0A0F9TII3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 271.0
+E-value: 2.206e-07
+Alignment Length: 111
+Percentage Identity: 0.387
+
+=== A0A315DJV0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 222.0
+E-value: 2.206e-07
+Alignment Length: 139
+Percentage Identity: 0.294
+
+=== A0A0F8YS81 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 214.0
+E-value: 2.206e-07
+Alignment Length: 170
+Percentage Identity: 0.252
+
+=== A0A2H1IXR5 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SMX79938.1};
+Bit Score: 213.0
+E-value: 2.206e-07
+Alignment Length: 189
+Percentage Identity: 0.248
+
+=== A0A0Q9F5K0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 209.0
+E-value: 2.206e-07
+Alignment Length: 148
+Percentage Identity: 0.256
+
+=== A0A6M3XRV0 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJI00068.1};
+Bit Score: 339.0
+E-value: 2.346e-07
+Alignment Length: 82
+Percentage Identity: 0.39
+
+=== A0A522JJT1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 288.0
+E-value: 2.346e-07
+Alignment Length: 101
+Percentage Identity: 0.316
+
+=== A0A0F9HFW7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 232.0
+E-value: 2.346e-07
+Alignment Length: 133
+Percentage Identity: 0.27
+
+=== A0A7C1N6A2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HEA68236.1};
+Bit Score: 230.0
+E-value: 2.346e-07
+Alignment Length: 152
+Percentage Identity: 0.21
+
+=== A0A126Z860 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 221.0
+E-value: 2.495e-07
+Alignment Length: 166
+Percentage Identity: 0.228
+
+=== A0A0F9IUH5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 215.0
+E-value: 2.495e-07
+Alignment Length: 131
+Percentage Identity: 0.274
+
+=== A0A0F9APV7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 335.0
+E-value: 2.653e-07
+Alignment Length: 81
+Percentage Identity: 0.395
+
+=== A0A4R9QFP9 ===
+DE   SubName: Full=Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:TGP29076.1};
+Bit Score: 324.0
+E-value: 2.653e-07
+Alignment Length: 90
+Percentage Identity: 0.288
+
+=== A0A0L8PFF4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 288.0
+E-value: 2.653e-07
+Alignment Length: 94
+Percentage Identity: 0.361
+
+=== A0A429QW80 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RSS52163.1};
+Bit Score: 277.0
+E-value: 2.653e-07
+Alignment Length: 107
+Percentage Identity: 0.327
+
+=== A0A2D5TJC8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 201.0
+E-value: 2.653e-07
+Alignment Length: 121
+Percentage Identity: 0.33
+
+=== A0A2A3Y5Y3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 333.0
+E-value: 2.821e-07
+Alignment Length: 81
+Percentage Identity: 0.407
+
+=== A0A8B3L8B6 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RUW04026.1};
+Bit Score: 295.0
+E-value: 2.821e-07
+Alignment Length: 78
+Percentage Identity: 0.525
+
+=== A0A410WXB5 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:QAV18932.1};
+Bit Score: 256.0
+E-value: 2.821e-07
+Alignment Length: 145
+Percentage Identity: 0.193
+
+=== A0A2D5XZA9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 233.0
+E-value: 2.821e-07
+Alignment Length: 136
+Percentage Identity: 0.294
+
+=== A0A850FAK2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:NUU68432.1};
+Bit Score: 329.0
+E-value: 2.999e-07
+Alignment Length: 87
+Percentage Identity: 0.356
+
+=== A0A0F8XGN0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 327.0
+E-value: 2.999e-07
+Alignment Length: 81
+Percentage Identity: 0.419
+
+=== A0A1C3N4Q3 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SBV27570.1};
+Bit Score: 300.0
+E-value: 2.999e-07
+Alignment Length: 97
+Percentage Identity: 0.35
+
+=== A0A1I4SH25 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SFM63714.1};
+Bit Score: 296.0
+E-value: 2.999e-07
+Alignment Length: 96
+Percentage Identity: 0.385
+
+=== A0A840J408 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 280.0
+E-value: 2.999e-07
+Alignment Length: 106
+Percentage Identity: 0.301
+
+=== A0A2A5JFY2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 332.0
+E-value: 3.189e-07
+Alignment Length: 82
+Percentage Identity: 0.414
+
+=== A0A542YF19 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TQL46685.1};
+Bit Score: 272.0
+E-value: 3.189e-07
+Alignment Length: 104
+Percentage Identity: 0.326
+
+=== A0A0F9LD42 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|SMART:SM00507};
+DE   Flags: Fragment;
+Bit Score: 259.0
+E-value: 3.189e-07
+Alignment Length: 125
+Percentage Identity: 0.232
+
+=== A0A511X6V7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 235.0
+E-value: 3.189e-07
+Alignment Length: 130
+Percentage Identity: 0.253
+
+=== A0A3P3E763 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 214.0
+E-value: 3.189e-07
+Alignment Length: 152
+Percentage Identity: 0.203
+
+=== A0A0F9RFQ2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 322.0
+E-value: 3.391e-07
+Alignment Length: 91
+Percentage Identity: 0.285
+
+=== A0A838BR72 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MBA1156926.1};
+Bit Score: 201.0
+E-value: 3.391e-07
+Alignment Length: 145
+Percentage Identity: 0.2
+
+=== A0A6L7TBT9 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MYC24286.1};
+Bit Score: 297.0
+E-value: 3.606e-07
+Alignment Length: 93
+Percentage Identity: 0.322
+
+=== A0A7C1ZJ27 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HEC61086.1};
+Bit Score: 293.0
+E-value: 3.606e-07
+Alignment Length: 94
+Percentage Identity: 0.329
+
+=== A0A7Y7SUX2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:NWA62995.1};
+Bit Score: 272.0
+E-value: 3.606e-07
+Alignment Length: 109
+Percentage Identity: 0.311
+
+=== A0A3C1F2W3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 220.0
+E-value: 3.606e-07
+Alignment Length: 155
+Percentage Identity: 0.212
+
+=== A0A367HZ60 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RCH70426.1};
+Bit Score: 331.0
+E-value: 4.078e-07
+Alignment Length: 79
+Percentage Identity: 0.367
+
+=== A0A318QXT7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 313.0
+E-value: 4.078e-07
+Alignment Length: 80
+Percentage Identity: 0.412
+
+=== A0A7J0D4G9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 321.0
+E-value: 4.336e-07
+Alignment Length: 82
+Percentage Identity: 0.378
+
+=== A0A7X7HSE7 ===
+DE   SubName: Full=Tyrosine-type recombinase/integrase {ECO:0000313|EMBL:NLD76794.1};
+Bit Score: 300.0
+E-value: 4.336e-07
+Alignment Length: 79
+Percentage Identity: 0.379
+
+=== A0A317HE56 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 275.0
+E-value: 4.336e-07
+Alignment Length: 108
+Percentage Identity: 0.324
+
+=== A0A3A0A5E5 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RIK36052.1};
+Bit Score: 224.0
+E-value: 4.336e-07
+Alignment Length: 136
+Percentage Identity: 0.308
+
+=== A0A117IC07 ===
+DE   SubName: Full=HNH domain protein {ECO:0000313|EMBL:GAS98807.1};
+Bit Score: 215.0
+E-value: 4.336e-07
+Alignment Length: 162
+Percentage Identity: 0.216
+
+=== A0A7K0A865 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MQB01861.1};
+Bit Score: 214.0
+E-value: 4.336e-07
+Alignment Length: 164
+Percentage Identity: 0.262
+
+=== A0A0F9JFB8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 286.0
+E-value: 4.611e-07
+Alignment Length: 89
+Percentage Identity: 0.415
+
+=== A0A1S1LWV7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 261.0
+E-value: 4.611e-07
+Alignment Length: 106
+Percentage Identity: 0.301
+
+=== A0A7C1QQX5 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HDZ25327.1};
+Bit Score: 225.0
+E-value: 4.611e-07
+Alignment Length: 127
+Percentage Identity: 0.322
+
+=== A0A0W8IG93 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 325.0
+E-value: 4.903e-07
+Alignment Length: 78
+Percentage Identity: 0.333
+
+=== A0A162JWQ0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:OAA28239.1};
+Bit Score: 308.0
+E-value: 4.903e-07
+Alignment Length: 93
+Percentage Identity: 0.322
+
+=== A0A0F9NTV8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 301.0
+E-value: 4.903e-07
+Alignment Length: 91
+Percentage Identity: 0.362
+
+=== A0A2V1NV23 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:PWG13936.1};
+Bit Score: 295.0
+E-value: 4.903e-07
+Alignment Length: 94
+Percentage Identity: 0.319
+
+=== A0A1G0R5N2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 244.0
+E-value: 4.903e-07
+Alignment Length: 131
+Percentage Identity: 0.259
+
+=== A0A259MQT1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 238.0
+E-value: 4.903e-07
+Alignment Length: 136
+Percentage Identity: 0.25
+
+=== A0A0F9G4E2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 230.0
+E-value: 4.903e-07
+Alignment Length: 95
+Percentage Identity: 0.368
+
+=== A0A426TRF8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 291.0
+E-value: 5.213e-07
+Alignment Length: 79
+Percentage Identity: 0.392
+
+=== A0A0F9BZ37 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 268.0
+E-value: 5.213e-07
+Alignment Length: 101
+Percentage Identity: 0.346
+
+=== A0A367A094 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RBY82659.1};
+Bit Score: 260.0
+E-value: 5.213e-07
+Alignment Length: 104
+Percentage Identity: 0.298
+
+=== A0A0F9DI87 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 215.0
+E-value: 5.213e-07
+Alignment Length: 154
+Percentage Identity: 0.266
+
+=== A0A640WJN0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:KAA0020741.1};
+Bit Score: 269.0
+E-value: 5.544e-07
+Alignment Length: 98
+Percentage Identity: 0.336
+
+=== A0A244E877 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 227.0
+E-value: 5.544e-07
+Alignment Length: 144
+Percentage Identity: 0.166
+
+=== A0A7V9TIH4 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MBA2683465.1};
+Bit Score: 314.0
+E-value: 5.895e-07
+Alignment Length: 78
+Percentage Identity: 0.397
+
+=== A0A1V1WAG6 ===
+DE   SubName: Full=Putative HNH endonuclease {ECO:0000313|EMBL:GAW57325.1};
+Bit Score: 295.0
+E-value: 5.895e-07
+Alignment Length: 94
+Percentage Identity: 0.329
+
+=== A0A0F9WBP9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 267.0
+E-value: 5.895e-07
+Alignment Length: 92
+Percentage Identity: 0.391
+
+=== A0A2M9VHB4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 249.0
+E-value: 5.895e-07
+Alignment Length: 131
+Percentage Identity: 0.221
+
+=== A0A6N7FNZ7 ===
+DE   RecName: Full=Core-binding (CB) domain-containing protein {ECO:0000259|PROSITE:PS51900};
+Bit Score: 283.0
+E-value: 6.268e-07
+Alignment Length: 81
+Percentage Identity: 0.37
+
+=== A0A3C1F219 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HAM40032.1};
+Bit Score: 264.0
+E-value: 6.268e-07
+Alignment Length: 107
+Percentage Identity: 0.308
+
+=== A0A0F8WXH2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 249.0
+E-value: 6.268e-07
+Alignment Length: 108
+Percentage Identity: 0.305
+
+=== A0A1V2ZET1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|SMART:SM00507};
+Bit Score: 243.0
+E-value: 6.268e-07
+Alignment Length: 123
+Percentage Identity: 0.211
+
+=== A0A7M2XH65 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:QOV97166.1};
+Bit Score: 243.0
+E-value: 6.665e-07
+Alignment Length: 108
+Percentage Identity: 0.25
+
+=== A0A7W9HMU3 ===
+DE   SubName: Full=Transposase-like protein {ECO:0000313|EMBL:MBB5804669.1};
+Bit Score: 200.0
+E-value: 6.665e-07
+Alignment Length: 156
+Percentage Identity: 0.198
+
+=== A0A0J7Y3F7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 309.0
+E-value: 7.087e-07
+Alignment Length: 80
+Percentage Identity: 0.375
+
+=== A0A367HXY9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 303.0
+E-value: 7.087e-07
+Alignment Length: 79
+Percentage Identity: 0.341
+
+=== A0A530Z9M7 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TJV23011.1};
+Bit Score: 251.0
+E-value: 7.087e-07
+Alignment Length: 112
+Percentage Identity: 0.285
+
+=== A0A5C7QHG2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TXH57895.1};
+Bit Score: 238.0
+E-value: 7.087e-07
+Alignment Length: 116
+Percentage Identity: 0.275
+
+=== A0A6M3M4T6 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJB00012.1};
+Bit Score: 298.0
+E-value: 7.536e-07
+Alignment Length: 85
+Percentage Identity: 0.329
+
+=== A0A1M6KH81 ===
+DE   SubName: Full=Helix-turn-helix {ECO:0000313|EMBL:SHJ58333.1};
+Bit Score: 216.0
+E-value: 7.536e-07
+Alignment Length: 135
+Percentage Identity: 0.318
+
+=== A0A7J2R2S5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|SMART:SM00507};
+Bit Score: 207.0
+E-value: 7.536e-07
+Alignment Length: 164
+Percentage Identity: 0.176
+
+=== A0A0F9CQ06 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 273.0
+E-value: 8.014e-07
+Alignment Length: 97
+Percentage Identity: 0.309
+
+=== A0A0F9LR13 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 257.0
+E-value: 8.014e-07
+Alignment Length: 105
+Percentage Identity: 0.257
+
+=== A0A0F9LUH2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 236.0
+E-value: 8.014e-07
+Alignment Length: 113
+Percentage Identity: 0.336
+
+=== A0A7V3EMK6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 235.0
+E-value: 8.014e-07
+Alignment Length: 160
+Percentage Identity: 0.212
+
+=== A0A0F9HU21 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 195.0
+E-value: 8.014e-07
+Alignment Length: 144
+Percentage Identity: 0.256
+
+=== A0A522DIN0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TAL41999.1};
+Bit Score: 306.0
+E-value: 8.521e-07
+Alignment Length: 83
+Percentage Identity: 0.337
+
+=== A0A7X6K849 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 292.0
+E-value: 8.521e-07
+Alignment Length: 93
+Percentage Identity: 0.301
+
+=== A0A1V1W398 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 268.0
+E-value: 8.521e-07
+Alignment Length: 115
+Percentage Identity: 0.286
+
+=== A0A0F9T6E7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 243.0
+E-value: 8.521e-07
+Alignment Length: 109
+Percentage Identity: 0.321
+
+=== A0A843S5T0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MPZ20106.1};
+Bit Score: 205.0
+E-value: 8.521e-07
+Alignment Length: 143
+Percentage Identity: 0.293
+
+=== A0A0F9GIL1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 312.0
+E-value: 9.061e-07
+Alignment Length: 77
+Percentage Identity: 0.402
+
+=== A0A5C7VJP6 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TXI24602.1};
+Bit Score: 294.0
+E-value: 9.061e-07
+Alignment Length: 91
+Percentage Identity: 0.362
+
+=== A0A0F9Q0H6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 281.0
+E-value: 9.061e-07
+Alignment Length: 91
+Percentage Identity: 0.34
+
+=== A0A0F9RH29 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 207.0
+E-value: 9.061e-07
+Alignment Length: 150
+Percentage Identity: 0.193
+
+=== D6A4E0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:EFE65780.2};
+Bit Score: 269.0
+E-value: 9.635e-07
+Alignment Length: 104
+Percentage Identity: 0.317
+
+=== A0A6A7LPL2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MPZ13792.1};
+Bit Score: 295.0
+E-value: 1.025e-06
+Alignment Length: 90
+Percentage Identity: 0.388
+
+=== A0A2A3Y1K5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 280.0
+E-value: 1.025e-06
+Alignment Length: 95
+Percentage Identity: 0.305
+
+=== A0A3C1F168 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 270.0
+E-value: 1.025e-06
+Alignment Length: 99
+Percentage Identity: 0.373
+
+=== K7RWQ0 ===
+DE   RecName: Full=AP2/ERF domain-containing protein {ECO:0000259|PROSITE:PS51032};
+Bit Score: 263.0
+E-value: 1.025e-06
+Alignment Length: 98
+Percentage Identity: 0.336
+
+=== A0A839RSV3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 262.0
+E-value: 1.025e-06
+Alignment Length: 110
+Percentage Identity: 0.29
+
+=== A0A1S1TAW0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 206.0
+E-value: 1.025e-06
+Alignment Length: 154
+Percentage Identity: 0.22
+
+=== A0A7U3UT60 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 258.0
+E-value: 1.089e-06
+Alignment Length: 95
+Percentage Identity: 0.347
+
+=== A0A1F9E1C7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 256.0
+E-value: 1.089e-06
+Alignment Length: 106
+Percentage Identity: 0.311
+
+=== A0A1D2I4W2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|SMART:SM00507};
+Bit Score: 216.0
+E-value: 1.089e-06
+Alignment Length: 149
+Percentage Identity: 0.201
+
+=== A0A0F9UAI7 ===
+DE   RecName: Full=HTH cro/C1-type domain-containing protein {ECO:0000259|PROSITE:PS50943};
+Bit Score: 196.0
+E-value: 1.089e-06
+Alignment Length: 103
+Percentage Identity: 0.407
+
+=== A0A2H1IWC5 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SMX79485.1};
+Bit Score: 306.0
+E-value: 1.158e-06
+Alignment Length: 79
+Percentage Identity: 0.417
+
+=== W4LD75 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:ETW95942.1};
+Bit Score: 299.0
+E-value: 1.158e-06
+Alignment Length: 88
+Percentage Identity: 0.318
+
+=== A0A0F8Z2J0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 293.0
+E-value: 1.158e-06
+Alignment Length: 88
+Percentage Identity: 0.34
+
+=== A0A497BKG2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 241.0
+E-value: 1.158e-06
+Alignment Length: 142
+Percentage Identity: 0.161
+
+=== A0A4Q7U272 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RZT66780.1};
+Bit Score: 308.0
+E-value: 1.232e-06
+Alignment Length: 86
+Percentage Identity: 0.372
+
+=== A0A7X6NTJ0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 302.0
+E-value: 1.232e-06
+Alignment Length: 75
+Percentage Identity: 0.373
+
+=== A0A124I7G6 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:KUN96176.1};
+Bit Score: 292.0
+E-value: 1.232e-06
+Alignment Length: 92
+Percentage Identity: 0.315
+
+=== A0A0F9HK27 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|SMART:SM00507};
+Bit Score: 285.0
+E-value: 1.232e-06
+Alignment Length: 85
+Percentage Identity: 0.341
+
+=== A0A535MKF1 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TMD08313.1};
+Bit Score: 268.0
+E-value: 1.232e-06
+Alignment Length: 101
+Percentage Identity: 0.336
+
+=== A0A426QWZ4 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RRQ26287.1};
+Bit Score: 267.0
+E-value: 1.232e-06
+Alignment Length: 100
+Percentage Identity: 0.33
+
+=== A0A6I5F4M3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MYT38989.1};
+Bit Score: 247.0
+E-value: 1.232e-06
+Alignment Length: 121
+Percentage Identity: 0.231
+
+=== A0A066YZ08 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 221.0
+E-value: 1.232e-06
+Alignment Length: 135
+Percentage Identity: 0.237
+
+=== A0A3D8VCV6 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RDY67223.1};
+Bit Score: 214.0
+E-value: 1.232e-06
+Alignment Length: 139
+Percentage Identity: 0.258
+
+=== A0A6P2FRQ3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VTU41374.1};
+Bit Score: 234.0
+E-value: 1.31e-06
+Alignment Length: 124
+Percentage Identity: 0.258
+
+=== A0A1C3N4R4 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SBV27567.1};
+Bit Score: 272.0
+E-value: 1.393e-06
+Alignment Length: 89
+Percentage Identity: 0.325
+
+=== A0A0F9VPV7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 253.0
+E-value: 1.393e-06
+Alignment Length: 109
+Percentage Identity: 0.293
+
+=== A0A0F9GE31 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 252.0
+E-value: 1.393e-06
+Alignment Length: 98
+Percentage Identity: 0.316
+
+=== A0A0F9GKW8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 307.0
+E-value: 1.481e-06
+Alignment Length: 82
+Percentage Identity: 0.39
+
+=== A0A0F8XZR9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 233.0
+E-value: 1.481e-06
+Alignment Length: 112
+Percentage Identity: 0.357
+
+=== A0A7Y9I2N8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 234.0
+E-value: 1.575e-06
+Alignment Length: 100
+Percentage Identity: 0.28
+
+=== A0A537KYH2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 226.0
+E-value: 1.575e-06
+Alignment Length: 140
+Percentage Identity: 0.228
+
+=== A0A7W9Z161 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 223.0
+E-value: 1.575e-06
+Alignment Length: 119
+Percentage Identity: 0.302
+
+=== A0A522NUG3 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TAM68316.1};
+Bit Score: 247.0
+E-value: 1.675e-06
+Alignment Length: 108
+Percentage Identity: 0.324
+
+=== A0A4Y7WIZ7 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TES48061.1};
+Bit Score: 233.0
+E-value: 1.675e-06
+Alignment Length: 131
+Percentage Identity: 0.282
+
+=== A0A375YY16 ===
+DE   RecName: Full=AP2/ERF domain-containing protein {ECO:0000259|PROSITE:PS51032};
+Bit Score: 232.0
+E-value: 1.675e-06
+Alignment Length: 110
+Percentage Identity: 0.381
+
+=== A0A7K2NVP8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 231.0
+E-value: 1.675e-06
+Alignment Length: 117
+Percentage Identity: 0.299
+
+=== A0A679JNC3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 197.0
+E-value: 1.781e-06
+Alignment Length: 148
+Percentage Identity: 0.236
+
+=== A0A0F8ZQE9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 265.0
+E-value: 1.894e-06
+Alignment Length: 104
+Percentage Identity: 0.326
+
+=== A0A3P1T1Q7 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RRD03205.1};
+Bit Score: 248.0
+E-value: 2.014e-06
+Alignment Length: 107
+Percentage Identity: 0.345
+
+=== A0A6A7LPS1 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MPZ13755.1};
+Bit Score: 197.0
+E-value: 2.014e-06
+Alignment Length: 156
+Percentage Identity: 0.288
+
+=== A0A0Q5Q2B5 ===
+DE   RecName: Full=NUMOD4 domain-containing protein {ECO:0000259|Pfam:PF07463};
+Bit Score: 189.0
+E-value: 2.014e-06
+Alignment Length: 141
+Percentage Identity: 0.163
+
+=== A0A0F9TXD0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 263.0
+E-value: 2.141e-06
+Alignment Length: 96
+Percentage Identity: 0.291
+
+=== A0A2D6X873 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 273.0
+E-value: 2.277e-06
+Alignment Length: 84
+Percentage Identity: 0.369
+
+=== A0A2W6DIA3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 239.0
+E-value: 2.277e-06
+Alignment Length: 117
+Percentage Identity: 0.316
+
+=== A0A0F9PDV5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 239.0
+E-value: 2.277e-06
+Alignment Length: 120
+Percentage Identity: 0.233
+
+=== A0A2A5KVZ5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 203.0
+E-value: 2.277e-06
+Alignment Length: 131
+Percentage Identity: 0.198
+
+=== A0A1G8D796 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SDH53627.1};
+Bit Score: 282.0
+E-value: 2.421e-06
+Alignment Length: 92
+Percentage Identity: 0.315
+
+=== A0A6S5JWM1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|SMART:SM00507};
+Bit Score: 281.0
+E-value: 2.421e-06
+Alignment Length: 82
+Percentage Identity: 0.292
+
+=== A0A722LUN7 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HAD9000115.1};
+DE   Flags: Fragment;
+Bit Score: 270.0
+E-value: 2.421e-06
+Alignment Length: 68
+Percentage Identity: 0.5
+
+=== A0A5J4L8P2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 258.0
+E-value: 2.421e-06
+Alignment Length: 93
+Percentage Identity: 0.344
+
+=== A0A6J7ZS18 ===
+DE   SubName: Full=SPBc2 prophage-derived putative HNH homing endonuclease YosQ (Modular protein) {ECO:0000313|EMBL:CAC5344816.1};
+DE            EC=3.1.-.- {ECO:0000313|EMBL:CAC5344816.1};
+Bit Score: 255.0
+E-value: 2.421e-06
+Alignment Length: 128
+Percentage Identity: 0.226
+
+=== A0A508A0K8 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TQD42371.1};
+Bit Score: 214.0
+E-value: 2.421e-06
+Alignment Length: 128
+Percentage Identity: 0.234
+
+=== A0A0F9TX64 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 251.0
+E-value: 2.574e-06
+Alignment Length: 99
+Percentage Identity: 0.313
+
+=== A0A5C6TTF0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 238.0
+E-value: 2.574e-06
+Alignment Length: 127
+Percentage Identity: 0.267
+
+=== O34479 ===
+DE   RecName: Full=SPbeta prophage-derived putative HNH homing endonuclease YosQ;
+DE            EC=3.1.-.-;
+Bit Score: 234.0
+E-value: 2.574e-06
+Alignment Length: 161
+Percentage Identity: 0.18
+
+=== A0A5A7M8L1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 203.0
+E-value: 2.574e-06
+Alignment Length: 141
+Percentage Identity: 0.219
+
+=== A0A660UPF5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|SMART:SM00507};
+Bit Score: 173.0
+E-value: 2.574e-06
+Alignment Length: 139
+Percentage Identity: 0.237
+
+=== A0A7C3H434 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 246.0
+E-value: 2.737e-06
+Alignment Length: 102
+Percentage Identity: 0.284
+
+=== A0A2J7Z8G4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 246.0
+E-value: 2.911e-06
+Alignment Length: 99
+Percentage Identity: 0.313
+
+=== A0A367B0Z6 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RBY95070.1};
+Bit Score: 187.0
+E-value: 2.911e-06
+Alignment Length: 144
+Percentage Identity: 0.229
+
+=== A0A0F9H3J2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 272.0
+E-value: 3.095e-06
+Alignment Length: 98
+Percentage Identity: 0.255
+
+=== A0A2N5JD46 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:PLS32109.1};
+Bit Score: 279.0
+E-value: 3.291e-06
+Alignment Length: 85
+Percentage Identity: 0.341
+
+=== A0A0F9T186 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 235.0
+E-value: 3.291e-06
+Alignment Length: 109
+Percentage Identity: 0.293
+
+=== A0A7X8YVF0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:NLV71142.1};
+Bit Score: 209.0
+E-value: 3.291e-06
+Alignment Length: 94
+Percentage Identity: 0.319
+
+=== A0A0F9F8Y6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 200.0
+E-value: 3.291e-06
+Alignment Length: 139
+Percentage Identity: 0.215
+
+=== A0A4Q2USA4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 191.0
+E-value: 3.291e-06
+Alignment Length: 143
+Percentage Identity: 0.181
+
+=== A0A7W8BV74 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 180.0
+E-value: 3.291e-06
+Alignment Length: 154
+Percentage Identity: 0.266
+
+=== A0A5P2CQL2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 236.0
+E-value: 3.5e-06
+Alignment Length: 104
+Percentage Identity: 0.288
+
+=== A0A0Q8ESD7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 275.0
+E-value: 3.721e-06
+Alignment Length: 76
+Percentage Identity: 0.368
+
+=== A0A7C2HT69 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HEJ69722.1};
+Bit Score: 208.0
+E-value: 3.721e-06
+Alignment Length: 131
+Percentage Identity: 0.206
+
+=== A0A1I3LPG0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SFI86440.1};
+Bit Score: 237.0
+E-value: 3.957e-06
+Alignment Length: 106
+Percentage Identity: 0.273
+
+=== A0A6G7Z777 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:QIK84866.1};
+Bit Score: 236.0
+E-value: 3.957e-06
+Alignment Length: 104
+Percentage Identity: 0.288
+
+=== A0A0F9MKF1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 250.0
+E-value: 4.208e-06
+Alignment Length: 102
+Percentage Identity: 0.284
+
+=== A0A7W2A9U2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MBA4495258.1};
+Bit Score: 257.0
+E-value: 4.474e-06
+Alignment Length: 85
+Percentage Identity: 0.329
+
+=== A0A6G9Y0R4 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:QIS06795.1};
+Bit Score: 238.0
+E-value: 4.474e-06
+Alignment Length: 99
+Percentage Identity: 0.323
+
+=== A0A2H1KEN2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SMX98166.1};
+Bit Score: 288.0
+E-value: 4.758e-06
+Alignment Length: 83
+Percentage Identity: 0.361
+
+=== A0A0F9DMN0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 188.0
+E-value: 4.758e-06
+Alignment Length: 142
+Percentage Identity: 0.267
+
+=== A0A7Y1F803 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 186.0
+E-value: 4.758e-06
+Alignment Length: 150
+Percentage Identity: 0.2
+
+=== X1CQ94 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 194.0
+E-value: 5.059e-06
+Alignment Length: 161
+Percentage Identity: 0.198
+
+=== A0A6M3JDF6 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJA67132.1};
+Bit Score: 275.0
+E-value: 5.38e-06
+Alignment Length: 78
+Percentage Identity: 0.397
+
+=== A0A2K3J8L3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 200.0
+E-value: 5.38e-06
+Alignment Length: 153
+Percentage Identity: 0.143
+
+=== A0A845D4U8 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MYC22885.1};
+Bit Score: 258.0
+E-value: 5.721e-06
+Alignment Length: 77
+Percentage Identity: 0.376
+
+=== A0A5M3WES7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 235.0
+E-value: 5.721e-06
+Alignment Length: 101
+Percentage Identity: 0.326
+
+=== A0A497BIK6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 203.0
+E-value: 5.721e-06
+Alignment Length: 141
+Percentage Identity: 0.177
+
+=== A0A0F8X052 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 198.0
+E-value: 5.721e-06
+Alignment Length: 139
+Percentage Identity: 0.179
+
+=== A0A517XLX8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 186.0
+E-value: 5.721e-06
+Alignment Length: 142
+Percentage Identity: 0.204
+
+=== A0A0F9CKH4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 232.0
+E-value: 6.083e-06
+Alignment Length: 93
+Percentage Identity: 0.311
+
+=== A0A0S9N1S5 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 191.0
+E-value: 6.083e-06
+Alignment Length: 157
+Percentage Identity: 0.184
+
+=== F2R0R6 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:CCA55433.1};
+Bit Score: 283.0
+E-value: 6.468e-06
+Alignment Length: 81
+Percentage Identity: 0.345
+
+=== A0A7V9ZF22 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MBA2707160.1};
+Bit Score: 232.0
+E-value: 6.468e-06
+Alignment Length: 89
+Percentage Identity: 0.325
+
+=== A0A5B7V6P7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 215.0
+E-value: 6.468e-06
+Alignment Length: 115
+Percentage Identity: 0.286
+
+=== A0A5C7PDV6 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 204.0
+E-value: 6.468e-06
+Alignment Length: 151
+Percentage Identity: 0.211
+
+=== A0A1G9JRM5 ===
+DE   SubName: Full=NUMOD4 motif-containing protein {ECO:0000313|EMBL:SDL40071.1};
+Bit Score: 203.0
+E-value: 6.468e-06
+Alignment Length: 114
+Percentage Identity: 0.263
+
+=== A0A1V5KBG9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 190.0
+E-value: 6.468e-06
+Alignment Length: 130
+Percentage Identity: 0.184
+
+=== A0A2W5NQG8 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:PZQ55761.1};
+Bit Score: 181.0
+E-value: 6.468e-06
+Alignment Length: 107
+Percentage Identity: 0.317
+
+=== A0A353ZVJ3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 251.0
+E-value: 6.878e-06
+Alignment Length: 90
+Percentage Identity: 0.277
+
+=== A0A6J4L6D4 ===
+DE   SubName: Full=Endonuclease {ECO:0000313|EMBL:CAA9323420.1};
+Bit Score: 267.0
+E-value: 7.314e-06
+Alignment Length: 74
+Percentage Identity: 0.391
+
+=== A0A413RJC7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 267.0
+E-value: 7.314e-06
+Alignment Length: 79
+Percentage Identity: 0.354
+
+=== A0A7V3EK35 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HFK15517.1};
+Bit Score: 266.0
+E-value: 7.314e-06
+Alignment Length: 82
+Percentage Identity: 0.317
+
+=== A0A7X3RII0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 245.0
+E-value: 7.314e-06
+Alignment Length: 95
+Percentage Identity: 0.294
+
+=== B8INW1 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:ACL58477.1};
+Bit Score: 196.0
+E-value: 7.314e-06
+Alignment Length: 136
+Percentage Identity: 0.264
+
+=== A0A3D5RVY9 ===
+DE   SubName: Full=HNH nuclease {ECO:0000313|EMBL:HCX20566.1};
+Bit Score: 182.0
+E-value: 7.314e-06
+Alignment Length: 142
+Percentage Identity: 0.225
+
+=== A0A0F9C6D4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 230.0
+E-value: 7.777e-06
+Alignment Length: 115
+Percentage Identity: 0.252
+
+=== A0A7W1E4H2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MBA3655649.1};
+Bit Score: 189.0
+E-value: 7.777e-06
+Alignment Length: 141
+Percentage Identity: 0.184
+
+=== A0A5C7VIK7 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TXI24595.1};
+Bit Score: 188.0
+E-value: 7.777e-06
+Alignment Length: 152
+Percentage Identity: 0.197
+
+=== C5E9V7 ===
+DE   SubName: Full=HNH endonuclease domain protein {ECO:0000313|EMBL:EEQ54801.1};
+Bit Score: 258.0
+E-value: 8.27e-06
+Alignment Length: 71
+Percentage Identity: 0.366
+
+=== A0A6M3J763 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJA65663.1};
+Bit Score: 232.0
+E-value: 8.27e-06
+Alignment Length: 83
+Percentage Identity: 0.373
+
+=== A0A2H1IWM9 ===
+DE   SubName: Full=AP2 domain-containing protein {ECO:0000313|EMBL:SMX79627.1};
+Bit Score: 228.0
+E-value: 8.27e-06
+Alignment Length: 106
+Percentage Identity: 0.226
+
+=== A0A345BUJ0 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:AXF54621.1};
+Bit Score: 202.0
+E-value: 8.27e-06
+Alignment Length: 132
+Percentage Identity: 0.212
+
+=== A0A0F9K0Y6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 245.0
+E-value: 8.794e-06
+Alignment Length: 96
+Percentage Identity: 0.291
+
+=== A0A2U1CS66 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:PVY68651.1};
+Bit Score: 196.0
+E-value: 8.794e-06
+Alignment Length: 142
+Percentage Identity: 0.197
+
+=== A0A6G8PZE8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 244.0
+E-value: 9.351e-06
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A522YH05 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TBR17487.1};
+Bit Score: 168.0
+E-value: 9.351e-06
+Alignment Length: 149
+Percentage Identity: 0.214
+
+=== A0A260QPY8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 257.0
+E-value: 9.943e-06
+Alignment Length: 83
+Percentage Identity: 0.277
+
+=== A0A1I4BJ20 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SFK68834.1};
+Bit Score: 204.0
+E-value: 9.943e-06
+Alignment Length: 120
+Percentage Identity: 0.233
+
+=== A0A6M3M5L6 ===
+DE   SubName: Full=Putative HNH endonuclease {ECO:0000313|EMBL:QJB01093.1};
+Bit Score: 200.0
+E-value: 9.943e-06
+Alignment Length: 130
+Percentage Identity: 0.192
+
+=== A0A5B9DYA9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 177.0
+E-value: 9.943e-06
+Alignment Length: 135
+Percentage Identity: 0.177
+
+=== A0A0F8ZS70 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|SMART:SM00507};
+Bit Score: 159.0
+E-value: 9.943e-06
+Alignment Length: 144
+Percentage Identity: 0.215
+
+=== A0A497BIB6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 178.0
+E-value: 1.057e-05
+Alignment Length: 131
+Percentage Identity: 0.236
+
+=== A0A7Y5P5Q5 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:NUP33639.1};
+Bit Score: 219.0
+E-value: 1.124e-05
+Alignment Length: 105
+Percentage Identity: 0.247
+
+=== A0A2W4Z9C4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 197.0
+E-value: 1.124e-05
+Alignment Length: 158
+Percentage Identity: 0.196
+
+=== A0A7V9JSS4 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MBA2480460.1};
+Bit Score: 185.0
+E-value: 1.124e-05
+Alignment Length: 145
+Percentage Identity: 0.172
+
+=== A0A7W8BRW9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 182.0
+E-value: 1.124e-05
+Alignment Length: 162
+Percentage Identity: 0.203
+
+=== A0A4Y4M5J0 ===
+DE   RecName: Full=NUMOD4 domain-containing protein {ECO:0000259|Pfam:PF07463};
+Bit Score: 175.0
+E-value: 1.124e-05
+Alignment Length: 141
+Percentage Identity: 0.134
+
+=== A0A6M0HW88 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:NEU14031.1};
+Bit Score: 249.0
+E-value: 1.195e-05
+Alignment Length: 87
+Percentage Identity: 0.264
+
+=== A0A1A1X5H8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 235.0
+E-value: 1.195e-05
+Alignment Length: 82
+Percentage Identity: 0.292
+
+=== A0A2E3XNT8 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:MBC96392.1};
+Bit Score: 198.0
+E-value: 1.195e-05
+Alignment Length: 161
+Percentage Identity: 0.167
+
+=== I4B1R6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 197.0
+E-value: 1.195e-05
+Alignment Length: 105
+Percentage Identity: 0.228
+
+=== A0A523WJV6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 183.0
+E-value: 1.195e-05
+Alignment Length: 157
+Percentage Identity: 0.184
+
+=== A0A0F8Y5B2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 215.0
+E-value: 1.271e-05
+Alignment Length: 105
+Percentage Identity: 0.266
+
+=== A0A401UQ95 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 212.0
+E-value: 1.271e-05
+Alignment Length: 133
+Percentage Identity: 0.24
+
+=== A0A0F9U3W5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 189.0
+E-value: 1.271e-05
+Alignment Length: 147
+Percentage Identity: 0.21
+
+=== A0A5Y4VXY8 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:ECK2442958.1};
+Bit Score: 174.0
+E-value: 1.271e-05
+Alignment Length: 174
+Percentage Identity: 0.183
+
+=== A0A1I0SRB1 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 244.0
+E-value: 1.352e-05
+Alignment Length: 79
+Percentage Identity: 0.24
+
+=== A0A164B2S4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 243.0
+E-value: 1.352e-05
+Alignment Length: 88
+Percentage Identity: 0.272
+
+=== A0A7W1EQ75 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MBA3678586.1};
+Bit Score: 240.0
+E-value: 1.352e-05
+Alignment Length: 74
+Percentage Identity: 0.364
+
+=== A0A4R5WD79 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TDK87624.1};
+Bit Score: 213.0
+E-value: 1.437e-05
+Alignment Length: 98
+Percentage Identity: 0.255
+
+=== A0A383D5I5 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 270.0
+E-value: 1.528e-05
+Alignment Length: 69
+Percentage Identity: 0.405
+
+=== A0A7K3BI72 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MYX37817.1};
+Bit Score: 238.0
+E-value: 1.528e-05
+Alignment Length: 95
+Percentage Identity: 0.263
+
+=== A0A4P6F8F9 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:QAY71796.1};
+Bit Score: 203.0
+E-value: 1.528e-05
+Alignment Length: 103
+Percentage Identity: 0.3
+
+=== A0A7C7PXH1 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HIC81054.1};
+Bit Score: 244.0
+E-value: 1.625e-05
+Alignment Length: 95
+Percentage Identity: 0.263
+
+=== A0A1M5XA98 ===
+DE   SubName: Full=NUMOD4 motif-containing protein {ECO:0000313|EMBL:SHH96133.1};
+Bit Score: 175.0
+E-value: 1.625e-05
+Alignment Length: 143
+Percentage Identity: 0.167
+
+=== A0A2S9DJG1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 252.0
+E-value: 1.728e-05
+Alignment Length: 70
+Percentage Identity: 0.371
+
+=== A0A0F9CEP2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 220.0
+E-value: 1.728e-05
+Alignment Length: 74
+Percentage Identity: 0.432
+
+=== A0A0F9GNJ4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 168.0
+E-value: 1.728e-05
+Alignment Length: 149
+Percentage Identity: 0.167
+
+=== D2J8C8 ===
+DE   SubName: Full=ORF069 {ECO:0000313|EMBL:ACZ59028.1};
+Bit Score: 158.0
+E-value: 1.728e-05
+Alignment Length: 158
+Percentage Identity: 0.17
+
+=== A0A0N9NDS5 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:ALG85838.1};
+Bit Score: 247.0
+E-value: 1.838e-05
+Alignment Length: 86
+Percentage Identity: 0.337
+
+=== A0A6N7QVG7 ===
+DE   SubName: Full=Endonuclease {ECO:0000313|EMBL:MRI65142.1};
+Bit Score: 199.0
+E-value: 1.838e-05
+Alignment Length: 138
+Percentage Identity: 0.188
+
+=== A0A0F9KRK8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKM77446.1};
+Bit Score: 177.0
+E-value: 1.838e-05
+Alignment Length: 142
+Percentage Identity: 0.204
+
+=== A0A1S2JY73 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 239.0
+E-value: 1.954e-05
+Alignment Length: 95
+Percentage Identity: 0.326
+
+=== A0A2W6B481 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 202.0
+E-value: 1.954e-05
+Alignment Length: 118
+Percentage Identity: 0.279
+
+=== A0A0F9D7Q3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 180.0
+E-value: 1.954e-05
+Alignment Length: 144
+Percentage Identity: 0.243
+
+=== A0A125VAD7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AKP44079.1};
+Bit Score: 167.0
+E-value: 1.954e-05
+Alignment Length: 146
+Percentage Identity: 0.246
+
+=== A0A6N9DJE1 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MYF79057.1};
+Bit Score: 205.0
+E-value: 2.078e-05
+Alignment Length: 108
+Percentage Identity: 0.305
+
+=== A0A4Y6PMM4 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 153.0
+E-value: 2.078e-05
+Alignment Length: 134
+Percentage Identity: 0.216
+
+=== A0A7W0A1F7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 151.0
+E-value: 2.078e-05
+Alignment Length: 152
+Percentage Identity: 0.217
+
+=== A0A844EGS9 ===
+DE   SubName: Full=Endonuclease {ECO:0000313|EMBL:MSE21795.1};
+Bit Score: 167.0
+E-value: 2.21e-05
+Alignment Length: 147
+Percentage Identity: 0.19
+
+=== A0A517SHB9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 159.0
+E-value: 2.21e-05
+Alignment Length: 130
+Percentage Identity: 0.215
+
+=== A0A1M4ZJG2 ===
+DE   SubName: Full=NUMOD4 motif-containing protein {ECO:0000313|EMBL:SHF17947.1};
+Bit Score: 147.0
+E-value: 2.21e-05
+Alignment Length: 143
+Percentage Identity: 0.195
+
+=== A0A4R2Q7H2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TCP43964.1};
+Bit Score: 235.0
+E-value: 2.349e-05
+Alignment Length: 93
+Percentage Identity: 0.279
+
+=== A0A0S8G1C4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 186.0
+E-value: 2.349e-05
+Alignment Length: 144
+Percentage Identity: 0.173
+
+=== A0A256BR32 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|SMART:SM00507};
+Bit Score: 182.0
+E-value: 2.349e-05
+Alignment Length: 150
+Percentage Identity: 0.166
+
+=== A0A1Y5YWN6 ===
+DE   SubName: Full=NUMOD4 motif protein {ECO:0000313|EMBL:SMD67738.1};
+Bit Score: 173.0
+E-value: 2.349e-05
+Alignment Length: 140
+Percentage Identity: 0.142
+
+=== I2Q068 ===
+DE   SubName: Full=NUMOD4 motif protein {ECO:0000313|EMBL:EIG53174.1};
+Bit Score: 210.0
+E-value: 2.498e-05
+Alignment Length: 133
+Percentage Identity: 0.187
+
+=== A0A2Z3H835 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 163.0
+E-value: 2.657e-05
+Alignment Length: 129
+Percentage Identity: 0.186
+
+=== A0A5T9SKN9 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:EBO1428362.1};
+Bit Score: 224.0
+E-value: 2.825e-05
+Alignment Length: 103
+Percentage Identity: 0.233
+
+=== A0A2W6EU28 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 203.0
+E-value: 3.004e-05
+Alignment Length: 122
+Percentage Identity: 0.229
+
+=== A0A2S0KB30 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:AVL98904.1};
+Bit Score: 197.0
+E-value: 3.004e-05
+Alignment Length: 111
+Percentage Identity: 0.207
+
+=== A0A7X7K1F1 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 159.0
+E-value: 3.004e-05
+Alignment Length: 151
+Percentage Identity: 0.172
+
+=== A0A367FQT5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|SMART:SM00507};
+Bit Score: 169.0
+E-value: 3.194e-05
+Alignment Length: 148
+Percentage Identity: 0.263
+
+=== A0A7V9U3U3 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MBA2707576.1};
+Bit Score: 220.0
+E-value: 3.396e-05
+Alignment Length: 67
+Percentage Identity: 0.402
+
+=== A0A0F9GXP4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 167.0
+E-value: 3.396e-05
+Alignment Length: 144
+Percentage Identity: 0.166
+
+=== A0A1H7CDA8 ===
+DE   SubName: Full=NUMOD4 motif-containing protein {ECO:0000313|EMBL:SEJ87679.1};
+Bit Score: 151.0
+E-value: 3.396e-05
+Alignment Length: 147
+Percentage Identity: 0.142
+
+=== A0A0F9A386 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 215.0
+E-value: 3.612e-05
+Alignment Length: 92
+Percentage Identity: 0.304
+
+=== A0A6B3W3S0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MBA4538274.1};
+Bit Score: 189.0
+E-value: 3.612e-05
+Alignment Length: 157
+Percentage Identity: 0.165
+
+=== A0A5C7LTY0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TXH13452.1};
+Bit Score: 167.0
+E-value: 3.612e-05
+Alignment Length: 134
+Percentage Identity: 0.179
+
+=== A0A0F8YZU8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|SMART:SM00507};
+DE   Flags: Fragment;
+Bit Score: 161.0
+E-value: 3.612e-05
+Alignment Length: 158
+Percentage Identity: 0.177
+
+=== A0A4Q8ALJ0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RZU64921.1};
+Bit Score: 223.0
+E-value: 3.84e-05
+Alignment Length: 102
+Percentage Identity: 0.274
+
+=== A0A2J0UCL5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|SMART:SM00507};
+Bit Score: 155.0
+E-value: 3.84e-05
+Alignment Length: 144
+Percentage Identity: 0.18
+
+=== A0A0F9BNQ1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 146.0
+E-value: 3.84e-05
+Alignment Length: 133
+Percentage Identity: 0.195
+
+=== A0A1U7DFC6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 221.0
+E-value: 4.617e-05
+Alignment Length: 70
+Percentage Identity: 0.428
+
+=== A0A7K0PA31 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MSW49562.1};
+Bit Score: 160.0
+E-value: 4.617e-05
+Alignment Length: 139
+Percentage Identity: 0.215
+
+=== A0A0F9M7S1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 151.0
+E-value: 4.617e-05
+Alignment Length: 151
+Percentage Identity: 0.251
+
+=== A0A4R5MF57 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TDG25889.1};
+Bit Score: 152.0
+E-value: 5.221e-05
+Alignment Length: 140
+Percentage Identity: 0.157
+
+=== H0JNC4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 209.0
+E-value: 5.552e-05
+Alignment Length: 103
+Percentage Identity: 0.262
+
+=== A0A1X9T2H5 ===
+DE   SubName: Full=HNH endonuclease domain protein {ECO:0000313|EMBL:ARR02732.1};
+Bit Score: 167.0
+E-value: 5.552e-05
+Alignment Length: 142
+Percentage Identity: 0.169
+
+=== A0A317H4C3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 146.0
+E-value: 5.552e-05
+Alignment Length: 154
+Percentage Identity: 0.175
+
+=== A0A0F9CA41 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 235.0
+E-value: 5.903e-05
+Alignment Length: 69
+Percentage Identity: 0.405
+
+=== A0A367AE24 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 219.0
+E-value: 5.903e-05
+Alignment Length: 90
+Percentage Identity: 0.277
+
+=== A0A2W0C853 ===
+DE   SubName: Full=SPbeta phage endodeoxyribonuclease Homing endonuclease responsible for intron mobility {ECO:0000313|EMBL:PYY28184.1};
+Bit Score: 202.0
+E-value: 5.903e-05
+Alignment Length: 101
+Percentage Identity: 0.247
+
+=== A0A5C7LEV3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 189.0
+E-value: 5.903e-05
+Alignment Length: 122
+Percentage Identity: 0.245
+
+=== A0A0F8XPC3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 232.0
+E-value: 6.675e-05
+Alignment Length: 56
+Percentage Identity: 0.607
+
+=== A0A4Q3YCE0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RYG90144.1};
+DE   Flags: Fragment;
+Bit Score: 163.0
+E-value: 6.675e-05
+Alignment Length: 150
+Percentage Identity: 0.193
+
+=== M5FKK8 ===
+DE   SubName: Full=DNA endonuclease I-HmuI (HNH homing endonuclease I-HmuI) {ECO:0000313|EMBL:CCV12899.1};
+DE            EC=3.1.-.- {ECO:0000313|EMBL:CCV12899.1};
+Bit Score: 159.0
+E-value: 6.675e-05
+Alignment Length: 143
+Percentage Identity: 0.23
+
+=== A0A6S6XPQ2 ===
+DE   SubName: Full=NUMOD4 motif protein {ECO:0000313|EMBL:CAB1254192.1};
+Bit Score: 144.0
+E-value: 7.098e-05
+Alignment Length: 152
+Percentage Identity: 0.177
+
+=== L8EY74 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:QST85976.1};
+Bit Score: 138.0
+E-value: 7.098e-05
+Alignment Length: 144
+Percentage Identity: 0.236
+
+=== A0A0F9TXB7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 195.0
+E-value: 7.547e-05
+Alignment Length: 88
+Percentage Identity: 0.284
+
+=== C5T1T8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 178.0
+E-value: 7.547e-05
+Alignment Length: 124
+Percentage Identity: 0.193
+
+=== A0A2T6GBB8 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:PUA41458.1};
+Bit Score: 177.0
+E-value: 7.547e-05
+Alignment Length: 146
+Percentage Identity: 0.184
+
+=== A0A3S0I6F1 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RTM07456.1};
+Bit Score: 224.0
+E-value: 8.026e-05
+Alignment Length: 69
+Percentage Identity: 0.333
+
+=== A0A3A5MDF7 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RJT88160.1};
+Bit Score: 215.0
+E-value: 8.026e-05
+Alignment Length: 87
+Percentage Identity: 0.321
+
+=== A0A840CYC2 ===
+DE   SubName: Full=Antitoxin component HigA of HigAB toxin-antitoxin module {ECO:0000313|EMBL:MBB4043861.1};
+Bit Score: 154.0
+E-value: 8.026e-05
+Alignment Length: 147
+Percentage Identity: 0.149
+
+=== A0A0F9NV12 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 218.0
+E-value: 8.534e-05
+Alignment Length: 78
+Percentage Identity: 0.371
+
+=== A0A5C7PR72 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TXH49113.1};
+Bit Score: 208.0
+E-value: 8.534e-05
+Alignment Length: 92
+Percentage Identity: 0.293
+
+=== A0A6M3KVH1 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJA85742.1};
+Bit Score: 167.0
+E-value: 9.075e-05
+Alignment Length: 131
+Percentage Identity: 0.213
+
+=== A0A4Q3L7Q2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 223.0
+E-value: 9.649e-05
+Alignment Length: 80
+Percentage Identity: 0.25
+
+=== A0A0F9FCK4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 170.0
+E-value: 0.0001026
+Alignment Length: 105
+Percentage Identity: 0.228
+
+=== A0A1H9U2G4 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SES03438.1};
+Bit Score: 148.0
+E-value: 0.0001026
+Alignment Length: 142
+Percentage Identity: 0.204
+
+=== A0A3S0U9P3 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.0001026
+Alignment Length: 145
+Percentage Identity: 0.186
+
+=== A0A653X9H8 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 194.0
+E-value: 0.0001091
+Alignment Length: 94
+Percentage Identity: 0.244
+
+=== A0A894KKV0 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:QRW39881.1};
+Bit Score: 137.0
+E-value: 0.0001091
+Alignment Length: 148
+Percentage Identity: 0.162
+
+=== A0A6N1VJX8 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:QKV20743.1};
+Bit Score: 176.0
+E-value: 0.000116
+Alignment Length: 107
+Percentage Identity: 0.214
+
+=== A0A0K2B1E6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 164.0
+E-value: 0.000116
+Alignment Length: 113
+Percentage Identity: 0.212
+
+=== I3YEH1 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:AFL75389.1};
+Bit Score: 139.0
+E-value: 0.000116
+Alignment Length: 130
+Percentage Identity: 0.184
+
+=== A0A0F9CEU0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 147.0
+E-value: 0.0001312
+Alignment Length: 151
+Percentage Identity: 0.165
+
+=== A0A661TMA0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RLC35878.1};
+DE   Flags: Fragment;
+Bit Score: 213.0
+E-value: 0.0001395
+Alignment Length: 72
+Percentage Identity: 0.291
+
+=== A0A2D6JTR8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 181.0
+E-value: 0.0001395
+Alignment Length: 98
+Percentage Identity: 0.255
+
+=== A0A5C7UH25 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 127.0
+E-value: 0.0001395
+Alignment Length: 140
+Percentage Identity: 0.185
+
+=== A0A498C445 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RLK47598.1};
+Bit Score: 196.0
+E-value: 0.0001483
+Alignment Length: 92
+Percentage Identity: 0.239
+
+=== A0A7C1KJJ0 ===
+DE   SubName: Full=Endonuclease {ECO:0000313|EMBL:HDY66240.1};
+Bit Score: 164.0
+E-value: 0.0001483
+Alignment Length: 142
+Percentage Identity: 0.197
+
+=== A0A0F9WMC5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 144.0
+E-value: 0.0001483
+Alignment Length: 132
+Percentage Identity: 0.212
+
+=== A0A0F9TY34 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.0001483
+Alignment Length: 136
+Percentage Identity: 0.169
+
+=== A0A1H0B245 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SDN39686.1};
+Bit Score: 177.0
+E-value: 0.0001577
+Alignment Length: 121
+Percentage Identity: 0.198
+
+=== A0A0F9HY72 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 174.0
+E-value: 0.0001577
+Alignment Length: 103
+Percentage Identity: 0.271
+
+=== A0A0F9J3D9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|SMART:SM00507};
+Bit Score: 155.0
+E-value: 0.0001783
+Alignment Length: 143
+Percentage Identity: 0.167
+
+=== A0A0Q2QU58 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 178.0
+E-value: 0.0001896
+Alignment Length: 108
+Percentage Identity: 0.212
+
+=== A0A1A5XGQ1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 164.0
+E-value: 0.0001896
+Alignment Length: 129
+Percentage Identity: 0.155
+
+=== A0A7W2X6C7 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MBA7854118.1};
+Bit Score: 161.0
+E-value: 0.0002017
+Alignment Length: 133
+Percentage Identity: 0.195
+
+=== N2JMM0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 164.0
+E-value: 0.0002144
+Alignment Length: 153
+Percentage Identity: 0.176
+
+=== X6DE39 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 154.0
+E-value: 0.0002144
+Alignment Length: 141
+Percentage Identity: 0.177
+
+=== A0A0F9MD04 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 171.0
+E-value: 0.000228
+Alignment Length: 105
+Percentage Identity: 0.2
+
+=== Q08PU1 ===
+DE   SubName: Full=p15 {ECO:0000313|EMBL:EAU62505.1};
+Bit Score: 148.0
+E-value: 0.000228
+Alignment Length: 108
+Percentage Identity: 0.231
+
+=== A0A3A8J3X6 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 130.0
+E-value: 0.000228
+Alignment Length: 142
+Percentage Identity: 0.197
+
+=== A0A0K2B1M9 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:AKZ59184.1};
+Bit Score: 182.0
+E-value: 0.0002741
+Alignment Length: 73
+Percentage Identity: 0.315
+
+=== A0A0F9IKQ7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 162.0
+E-value: 0.00031
+Alignment Length: 102
+Percentage Identity: 0.186
+
+=== A0A126PDJ9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 146.0
+E-value: 0.00031
+Alignment Length: 113
+Percentage Identity: 0.238
+
+=== A0A1L4C2G9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|SMART:SM00507};
+Bit Score: 142.0
+E-value: 0.00031
+Alignment Length: 146
+Percentage Identity: 0.164
+
+=== A0A449D3K0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 192.0
+E-value: 0.0003296
+Alignment Length: 85
+Percentage Identity: 0.27
+
+=== A0A2D6X7Z0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 146.0
+E-value: 0.0003296
+Alignment Length: 117
+Percentage Identity: 0.205
+
+=== A0A736RB50 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HAE7767366.1};
+Bit Score: 159.0
+E-value: 0.0003505
+Alignment Length: 111
+Percentage Identity: 0.189
+
+=== A0A0F9IU65 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 139.0
+E-value: 0.0003505
+Alignment Length: 151
+Percentage Identity: 0.172
+
+=== A0A517R792 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 188.0
+E-value: 0.0004214
+Alignment Length: 79
+Percentage Identity: 0.227
+
+=== A0A0A7G0K1 ===
+DE   SubName: Full=Helix-turn-helix domain of resolvase family protein {ECO:0000313|EMBL:AIY85357.1};
+Bit Score: 140.0
+E-value: 0.0004765
+Alignment Length: 154
+Percentage Identity: 0.194
+
+=== A0A6Y5YNT8 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HAB6612444.1};
+Bit Score: 139.0
+E-value: 0.0004765
+Alignment Length: 142
+Percentage Identity: 0.14
+
+=== A0A1Y1WMN7 ===
+DE   RecName: Full=Zinc-binding loop region of homing endonuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 165.0
+E-value: 0.0005067
+Alignment Length: 109
+Percentage Identity: 0.229
+
+=== H0F737 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:EHK65951.1};
+Bit Score: 152.0
+E-value: 0.0005067
+Alignment Length: 90
+Percentage Identity: 0.255
+
+=== A0A1N0F343 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SHV52147.1};
+Bit Score: 186.0
+E-value: 0.0005388
+Alignment Length: 93
+Percentage Identity: 0.258
+
+=== A0A143P9P7 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:QRP94624.1};
+Bit Score: 158.0
+E-value: 0.0005388
+Alignment Length: 81
+Percentage Identity: 0.185
+
+=== L8H052 ===
+DE   RecName: Full=Zinc-binding loop region of homing endonuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 152.0
+E-value: 0.0005388
+Alignment Length: 111
+Percentage Identity: 0.189
+
+=== E3FJF5 ===
+DE   SubName: Full=Myxococcus pahge protein P15 {ECO:0000313|EMBL:ADO70450.1};
+Bit Score: 140.0
+E-value: 0.0005729
+Alignment Length: 108
+Percentage Identity: 0.231
+
+=== A0A0F9ILF9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 137.0
+E-value: 0.0005729
+Alignment Length: 139
+Percentage Identity: 0.194
+
+=== A0A6I1TWC2 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:MQQ29293.1};
+Bit Score: 142.0
+E-value: 0.0006092
+Alignment Length: 146
+Percentage Identity: 0.164
+
+=== A0A370S1Q0 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RDL13574.1};
+Bit Score: 158.0
+E-value: 0.0006478
+Alignment Length: 93
+Percentage Identity: 0.215
+
+=== A0A5V5ATB5 ===
+DE   SubName: Full=Endodeoxyribonuclease {ECO:0000313|EMBL:EBO7150166.1};
+Bit Score: 139.0
+E-value: 0.0006478
+Alignment Length: 148
+Percentage Identity: 0.189
+
+=== A0A497PFH0 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 135.0
+E-value: 0.0006478
+Alignment Length: 143
+Percentage Identity: 0.195
+
+=== A0A4Z0NZA6 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 153.0
+E-value: 0.0006888
+Alignment Length: 127
+Percentage Identity: 0.196
+
+=== A0A3S4I994 ===
+DE   SubName: Full=Endonuclease {ECO:0000313|EMBL:VEA75932.1};
+Bit Score: 140.0
+E-value: 0.0006888
+Alignment Length: 92
+Percentage Identity: 0.239
+
+=== A0A511MND2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 169.0
+E-value: 0.0007324
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A0F9UF39 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 160.0
+E-value: 0.0007324
+Alignment Length: 79
+Percentage Identity: 0.265
+
+=== A0A754EA47 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|SMART:SM00507};
+Bit Score: 147.0
+E-value: 0.0007324
+Alignment Length: 128
+Percentage Identity: 0.203
+
+=== A0A2E8LEB4 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 138.0
+E-value: 0.0007324
+Alignment Length: 156
+Percentage Identity: 0.198
+
+=== A0A1U6J9Q2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SLK17014.1};
+Bit Score: 179.0
+E-value: 0.0007788
+Alignment Length: 88
+Percentage Identity: 0.261
+
+=== A0A0F9BTP5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 178.0
+E-value: 0.0007788
+Alignment Length: 85
+Percentage Identity: 0.282
+
+=== A0A0D5A196 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:AJW30169.1};
+Bit Score: 141.0
+E-value: 0.0007788
+Alignment Length: 158
+Percentage Identity: 0.164
+
+=== A0A4Q9HY01 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TBO59895.1};
+Bit Score: 174.0
+E-value: 0.0008282
+Alignment Length: 72
+Percentage Identity: 0.305
+
+=== A0A2P4V636 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 146.0
+E-value: 0.0008282
+Alignment Length: 144
+Percentage Identity: 0.173
+
+=== A0A1W1V346 ===
+DE   RecName: Full=DNA (cytosine-5-)-methyltransferase {ECO:0000256|ARBA:ARBA00011975};
+DE            EC=2.1.1.37 {ECO:0000256|ARBA:ARBA00011975};
+Bit Score: 116.0
+E-value: 0.0008806
+Alignment Length: 161
+Percentage Identity: 0.142
+
+=== R2XS98 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 145.0
+E-value: 0.0009364
+Alignment Length: 145
+Percentage Identity: 0.158
+
+=== A0A0F9L649 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 132.0
+E-value: 0.0009364
+Alignment Length: 103
+Percentage Identity: 0.194
+
+=== A0A6X9JWZ1 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HAB2629658.1};
+Bit Score: 143.0
+E-value: 0.0009958
+Alignment Length: 102
+Percentage Identity: 0.205
+
+=== A0A0F9FM90 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 155.0
+E-value: 0.001059
+Alignment Length: 81
+Percentage Identity: 0.308
+
+=== A0A6N7H3G3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 141.0
+E-value: 0.001059
+Alignment Length: 118
+Percentage Identity: 0.237
+
+=== A0A163CJB4 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:EAA6666033.1};
+Bit Score: 146.0
+E-value: 0.001126
+Alignment Length: 88
+Percentage Identity: 0.238
+
+=== A0A8B4I3C9 ===
+DE   SubName: Full=EndY protein {ECO:0000313|EMBL:SQF90277.1};
+Bit Score: 140.0
+E-value: 0.001126
+Alignment Length: 109
+Percentage Identity: 0.174
+
+=== A0A7T0DTL8 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:QPJ99300.1};
+Bit Score: 129.0
+E-value: 0.001197
+Alignment Length: 89
+Percentage Identity: 0.269
+
+=== X0TJ86 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 123.0
+E-value: 0.001273
+Alignment Length: 131
+Percentage Identity: 0.19
+
+=== A0A725MEV4 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HAE0881507.1};
+Bit Score: 132.0
+E-value: 0.001354
+Alignment Length: 96
+Percentage Identity: 0.229
+
+=== A0A3P2EJB5 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 127.0
+E-value: 0.001354
+Alignment Length: 123
+Percentage Identity: 0.186
+
+=== A0A090UZ72 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|SMART:SM00507};
+Bit Score: 107.0
+E-value: 0.001531
+Alignment Length: 140
+Percentage Identity: 0.1
+
+=== A0A2S8WJH6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 178.0
+E-value: 0.001628
+Alignment Length: 84
+Percentage Identity: 0.202
+
+=== A0A7C7GLC6 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HHZ94471.1};
+Bit Score: 137.0
+E-value: 0.001628
+Alignment Length: 96
+Percentage Identity: 0.187
+
+=== A0A510WRW2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 139.0
+E-value: 0.001731
+Alignment Length: 108
+Percentage Identity: 0.148
+
+=== A0A0S7WHF7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 171.0
+E-value: 0.00184
+Alignment Length: 66
+Percentage Identity: 0.242
+
+=== A0A1N6KC59 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SIO53916.1};
+Bit Score: 94.0
+E-value: 0.00184
+Alignment Length: 147
+Percentage Identity: 0.156
+
+=== W9GWQ9 ===
+DE   SubName: Full=Endonuclease {ECO:0000313|EMBL:EWY36887.1};
+Bit Score: 133.0
+E-value: 0.001957
+Alignment Length: 144
+Percentage Identity: 0.173
+
+=== A0A7X5U4A3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 130.0
+E-value: 0.001957
+Alignment Length: 86
+Percentage Identity: 0.197
+
+=== A0A5X8YNS8 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:ECB1987393.1};
+Bit Score: 127.0
+E-value: 0.001957
+Alignment Length: 84
+Percentage Identity: 0.214
+
+=== A0A7I9V432 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 173.0
+E-value: 0.002081
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A5U5UUK4 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:EBQ6858918.1};
+Bit Score: 123.0
+E-value: 0.002213
+Alignment Length: 107
+Percentage Identity: 0.196
+
+=== A0A0F0LWG5 ===
+DE   SubName: Full=NUMOD4 motif protein {ECO:0000313|EMBL:KJL37044.1};
+Bit Score: 102.0
+E-value: 0.002213
+Alignment Length: 150
+Percentage Identity: 0.16
+
+=== A0A1A1YPM3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 156.0
+E-value: 0.002353
+Alignment Length: 73
+Percentage Identity: 0.26
+
+=== A0A359IKB8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 152.0
+E-value: 0.002502
+Alignment Length: 77
+Percentage Identity: 0.22
+
+=== A0A260A453 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.002502
+Alignment Length: 163
+Percentage Identity: 0.177
+
+=== A0A7R8VZY0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAD7222183.1};
+Bit Score: 96.0
+E-value: 0.002502
+Alignment Length: 113
+Percentage Identity: 0.238
+
+=== A0A512RPQ5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 91.0
+E-value: 0.002502
+Alignment Length: 154
+Percentage Identity: 0.162
+
+=== A0A4Q2R4I8 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RYB01455.1};
+Bit Score: 96.0
+E-value: 0.00266
+Alignment Length: 136
+Percentage Identity: 0.213
+
+=== A0A831QMA6 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HEA19690.1};
+Bit Score: 146.0
+E-value: 0.003008
+Alignment Length: 71
+Percentage Identity: 0.225
+
+=== A0A0F8YE69 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 120.0
+E-value: 0.003008
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A7C3CE14 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 118.0
+E-value: 0.003008
+Alignment Length: 150
+Percentage Identity: 0.166
+
+=== A0A1I7AU79 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SFT78465.1};
+Bit Score: 131.0
+E-value: 0.003199
+Alignment Length: 83
+Percentage Identity: 0.168
+
+=== H8KPT2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 138.0
+E-value: 0.003401
+Alignment Length: 82
+Percentage Identity: 0.243
+
+=== A0A0C5EQ77 ===
+DE   SubName: Full=Endonuclease {ECO:0000313|EMBL:EAC1535099.1, ECO:0000313|EMBL:STF40053.1};
+Bit Score: 130.0
+E-value: 0.003401
+Alignment Length: 97
+Percentage Identity: 0.195
+
+=== A0A1V5XAS9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 120.0
+E-value: 0.00409
+Alignment Length: 147
+Percentage Identity: 0.183
+
+=== A0A367YRZ2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RCK68319.1};
+Bit Score: 115.0
+E-value: 0.00409
+Alignment Length: 139
+Percentage Identity: 0.151
+
+=== A0A069D2Q3 ===
+DE   SubName: Full=KilA protein {ECO:0000313|EMBL:GAK36575.1};
+Bit Score: 106.0
+E-value: 0.00409
+Alignment Length: 140
+Percentage Identity: 0.107
+
+=== M3VH63 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 161.0
+E-value: 0.004349
+Alignment Length: 73
+Percentage Identity: 0.246
+
+=== A0A1S7P2W3 ===
+DE   SubName: Full=Putative Pathogenesis-related transcriptional factor and ERF protein {ECO:0000313|EMBL:CUX15228.1};
+Bit Score: 101.0
+E-value: 0.004624
+Alignment Length: 113
+Percentage Identity: 0.221
+
+=== A0A1I3E1B5 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 91.0
+E-value: 0.004624
+Alignment Length: 145
+Percentage Identity: 0.172
+
+=== A0A5C7UPP8 ===
+DE   RecName: Full=AP2/ERF domain-containing protein {ECO:0000259|PROSITE:PS51032};
+Bit Score: 133.0
+E-value: 0.004917
+Alignment Length: 96
+Percentage Identity: 0.208
+
+=== A0A1A3P789 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 122.0
+E-value: 0.004917
+Alignment Length: 96
+Percentage Identity: 0.239
+
+=== A0A176Z2B8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 117.0
+E-value: 0.004917
+Alignment Length: 93
+Percentage Identity: 0.204
+
+=== A0A7M1KJI3 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:QOQ76457.1};
+Bit Score: 164.0
+E-value: 0.005229
+Alignment Length: 61
+Percentage Identity: 0.262
+
+=== A0A0F9Q693 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 116.0
+E-value: 0.005229
+Alignment Length: 84
+Percentage Identity: 0.178
+
+=== A0A7T4A1G6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.005229
+Alignment Length: 132
+Percentage Identity: 0.196
+
+=== A0A645HDL3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 127.0
+E-value: 0.00556
+Alignment Length: 155
+Percentage Identity: 0.148
+
+=== A0A4R2KJQ1 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TCO70238.1};
+Bit Score: 88.0
+E-value: 0.00556
+Alignment Length: 206
+Percentage Identity: 0.135
+
+=== A0A6M3K7A0 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJA77662.1};
+Bit Score: 119.0
+E-value: 0.005912
+Alignment Length: 85
+Percentage Identity: 0.164
+
+=== A0A6M3LYY8 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJA97925.1};
+Bit Score: 113.0
+E-value: 0.005912
+Alignment Length: 143
+Percentage Identity: 0.139
+
+=== A0A521ZWK9 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TAK97510.1};
+DE   Flags: Fragment;
+Bit Score: 104.0
+E-value: 0.005912
+Alignment Length: 120
+Percentage Identity: 0.133
+
+=== A0A6I2R125 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 128.0
+E-value: 0.006286
+Alignment Length: 98
+Percentage Identity: 0.183
+
+=== A0A5Y6EZR8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 121.0
+E-value: 0.006286
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== R6WN60 ===
+DE   RecName: Full=NUMOD4 domain-containing protein {ECO:0000259|Pfam:PF07463};
+Bit Score: 138.0
+E-value: 0.006685
+Alignment Length: 68
+Percentage Identity: 0.147
+
+=== A0A1G3YGZ2 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 133.0
+E-value: 0.006685
+Alignment Length: 81
+Percentage Identity: 0.222
+
+=== A0A5Y1WE35 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:ECC1605464.1};
+Bit Score: 119.0
+E-value: 0.006685
+Alignment Length: 90
+Percentage Identity: 0.2
+
+=== A0A349YHB6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 110.0
+E-value: 0.006685
+Alignment Length: 132
+Percentage Identity: 0.166
+
+=== A0A6M3JYD9 ===
+DE   SubName: Full=Putative homing endonuclease {ECO:0000313|EMBL:QJA74458.1};
+Bit Score: 95.0
+E-value: 0.006685
+Alignment Length: 136
+Percentage Identity: 0.147
+
+=== A0A369XKQ4 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RDE49486.1};
+Bit Score: 149.0
+E-value: 0.007108
+Alignment Length: 68
+Percentage Identity: 0.264
+
+=== A0A1A3HYT8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.007108
+Alignment Length: 92
+Percentage Identity: 0.239
+
+=== A0A415FLP6 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:RHK23807.1};
+Bit Score: 118.0
+E-value: 0.007108
+Alignment Length: 95
+Percentage Identity: 0.178
+
+=== A0A0F9UXF1 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|SMART:SM00507};
+Bit Score: 115.0
+E-value: 0.007108
+Alignment Length: 86
+Percentage Identity: 0.244
+
+=== A0A0F9CWE3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 142.0
+E-value: 0.007558
+Alignment Length: 77
+Percentage Identity: 0.207
+
+=== A0A0B6X903 ===
+DE   SubName: Full=Putative phage associated protein {ECO:0000313|EMBL:CDM90060.1};
+Bit Score: 147.0
+E-value: 0.008037
+Alignment Length: 67
+Percentage Identity: 0.238
+
+=== A0A413RSZ5 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:KAB6525446.1};
+Bit Score: 97.0
+E-value: 0.008037
+Alignment Length: 116
+Percentage Identity: 0.163
+
+=== A0A736VE82 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HAE7766624.1};
+Bit Score: 116.0
+E-value: 0.008546
+Alignment Length: 99
+Percentage Identity: 0.171
+
+=== A0A2K9CNX9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 136.0
+E-value: 0.009088
+Alignment Length: 75
+Percentage Identity: 0.226
+
+=== A0A0F9L116 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|SMART:SM00507};
+Bit Score: 122.0
+E-value: 0.009088
+Alignment Length: 82
+Percentage Identity: 0.195
+
+=== A0A660ZWQ6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 102.0
+E-value: 0.009088
+Alignment Length: 94
+Percentage Identity: 0.191
+
+=== A0A2W5TWI1 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 137.0
+E-value: 0.009663
+Alignment Length: 72
+Percentage Identity: 0.222
+
+=== A0A534ZKK8 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.009663
+Alignment Length: 84
+Percentage Identity: 0.202
+
+=== L7LHP9 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 131.0
+E-value: 0.009663
+Alignment Length: 72
+Percentage Identity: 0.222
+
+=== A0A3B9Z5X9 ===
+DE   RecName: Full=NUMOD4 domain-containing protein {ECO:0000259|Pfam:PF07463};
+Bit Score: 109.0
+E-value: 0.009663
+Alignment Length: 155
+Percentage Identity: 0.141
+
+=== A0A179CUC4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 133.0
+E-value: 0.01028
+Alignment Length: 96
+Percentage Identity: 0.135
+
+=== A0A496UL16 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 110.0
+E-value: 0.01028
+Alignment Length: 84
+Percentage Identity: 0.214
+
+=== A0A6N2XTU6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 111.0
+E-value: 0.01093
+Alignment Length: 92
+Percentage Identity: 0.206
+
+=== A0A7X1BT97 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MBC2622671.1};
+Bit Score: 127.0
+E-value: 0.01162
+Alignment Length: 85
+Percentage Identity: 0.2
+
+=== A0A3M2UGF4 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+DE   Flags: Fragment;
+Bit Score: 112.0
+E-value: 0.01162
+Alignment Length: 84
+Percentage Identity: 0.154
+
+=== A0A2W0GA47 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:PYZ31125.1};
+Bit Score: 146.0
+E-value: 0.01235
+Alignment Length: 60
+Percentage Identity: 0.233
+
+=== A0A1E3SDP9 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:ORB01895.1};
+Bit Score: 119.0
+E-value: 0.01235
+Alignment Length: 86
+Percentage Identity: 0.244
+
+=== A0A0F9S0F5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 115.0
+E-value: 0.01235
+Alignment Length: 83
+Percentage Identity: 0.216
+
+=== A0A3G2EBX9 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:AYM76929.1};
+Bit Score: 91.0
+E-value: 0.01235
+Alignment Length: 93
+Percentage Identity: 0.172
+
+=== J3H6T7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 108.0
+E-value: 0.01314
+Alignment Length: 109
+Percentage Identity: 0.119
+
+=== A0A4R8SHI5 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 95.0
+E-value: 0.01314
+Alignment Length: 155
+Percentage Identity: 0.141
+
+=== A0A0W0H902 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 128.0
+E-value: 0.01397
+Alignment Length: 71
+Percentage Identity: 0.225
+
+=== A0A0F9GLV0 ===
+DE   RecName: Full=Nuclease associated modular domain-containing protein {ECO:0000259|SMART:SM00496};
+Bit Score: 120.0
+E-value: 0.01397
+Alignment Length: 84
+Percentage Identity: 0.226
+
+=== A0A6L3IIG2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:KAA5300146.1};
+DE   Flags: Fragment;
+Bit Score: 83.0
+E-value: 0.01397
+Alignment Length: 121
+Percentage Identity: 0.173
+
+=== A0A515D596 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:QDL35582.1};
+Bit Score: 127.0
+E-value: 0.01485
+Alignment Length: 82
+Percentage Identity: 0.195
+
+=== A0A6B2D8P4 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 127.0
+E-value: 0.01485
+Alignment Length: 84
+Percentage Identity: 0.178
+
+=== A0A380G319 ===
+DE   RecName: Full=HNH endonuclease {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.01485
+Alignment Length: 94
+Percentage Identity: 0.159
+
+=== A0A0R2A274 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|SMART:SM00507};
+Bit Score: 127.0
+E-value: 0.0158
+Alignment Length: 84
+Percentage Identity: 0.214
+
+=== A0A7Y7WCW8 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:NWB47041.1};
+Bit Score: 125.0
+E-value: 0.0158
+Alignment Length: 71
+Percentage Identity: 0.253
+
+=== A0A2T3FZE7 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:PST40632.1};
+Bit Score: 125.0
+E-value: 0.0158
+Alignment Length: 70
+Percentage Identity: 0.228
+
+=== A0A761LZQ6 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HAG3179132.1};
+Bit Score: 111.0
+E-value: 0.0158
+Alignment Length: 106
+Percentage Identity: 0.169
+
+=== A0A661PFL6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 75.0
+E-value: 0.0158
+Alignment Length: 143
+Percentage Identity: 0.167
+
+=== A0A1B3JHZ6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 109.0
+E-value: 0.0168
+Alignment Length: 91
+Percentage Identity: 0.164
+
+=== B7ULS6 ===
+DE   SubName: Full=Predicted endonuclease {ECO:0000313|EMBL:CAS08228.1};
+Bit Score: 132.0
+E-value: 0.01786
+Alignment Length: 72
+Percentage Identity: 0.222
+
+=== A0A7J2RG70 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:HEA10636.1};
+Bit Score: 130.0
+E-value: 0.01786
+Alignment Length: 69
+Percentage Identity: 0.188
+
+=== A0A1M5WT32 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SHH90274.1};
+Bit Score: 88.0
+E-value: 0.01786
+Alignment Length: 145
+Percentage Identity: 0.179
+
+=== A0A3M3HBT7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 99.0
+E-value: 0.01899
+Alignment Length: 96
+Percentage Identity: 0.135
+
+=== A0A557P9M6 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TVO37360.1};
+Bit Score: 142.0
+E-value: 0.02019
+Alignment Length: 57
+Percentage Identity: 0.263
+
+=== A0A239LRY2 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:SNT32702.1};
+Bit Score: 123.0
+E-value: 0.02147
+Alignment Length: 71
+Percentage Identity: 0.225
+
+=== A0A6N3FVH9 ===
+DE   SubName: Full=AP2 domain protein {ECO:0000313|EMBL:VYU56041.1};
+Bit Score: 114.0
+E-value: 0.02283
+Alignment Length: 94
+Percentage Identity: 0.191
+
+=== A0A7M3LVQ6 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|SMART:SM00507};
+Bit Score: 140.0
+E-value: 0.02428
+Alignment Length: 61
+Percentage Identity: 0.213
+
+=== A0A3P8J2P7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 126.0
+E-value: 0.02428
+Alignment Length: 70
+Percentage Identity: 0.2
+
+=== A0A412EXP7 ===
+DE   RecName: Full=NUMOD4 domain-containing protein {ECO:0000259|Pfam:PF07463};
+Bit Score: 104.0
+E-value: 0.02428
+Alignment Length: 71
+Percentage Identity: 0.14
+
+=== A0A843HPN4 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:MBO7732924.1};
+Bit Score: 79.0
+E-value: 0.02428
+Alignment Length: 116
+Percentage Identity: 0.224
+
+=== A0A7W8E3D3 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 123.0
+E-value: 0.02745
+Alignment Length: 86
+Percentage Identity: 0.162
+
+=== A0A515CR20 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:QDL30615.1};
+Bit Score: 108.0
+E-value: 0.02745
+Alignment Length: 91
+Percentage Identity: 0.164
+
+=== A0A0F8ZXJ3 ===
+DE   RecName: Full=Nuclease associated modular domain-containing protein {ECO:0000259|SMART:SM00496};
+Bit Score: 111.0
+E-value: 0.02919
+Alignment Length: 84
+Percentage Identity: 0.178
+
+=== K1UG28 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:EKC78974.1};
+DE   Flags: Fragment;
+Bit Score: 110.0
+E-value: 0.03104
+Alignment Length: 85
+Percentage Identity: 0.188
+
+=== A0A3F2ZSG9 ===
+DE   SubName: Full=HNH endonuclease domain protein {ECO:0000313|EMBL:ACQ54142.1};
+Bit Score: 111.0
+E-value: 0.03301
+Alignment Length: 88
+Percentage Identity: 0.159
+
+=== M1MZU7 ===
+DE   RecName: Full=3'-phosphate/5'-hydroxy nucleic acid ligase {ECO:0000256|ARBA:ARBA00012726};
+DE            EC=6.5.1.8 {ECO:0000256|ARBA:ARBA00012726};
+Bit Score: 71.0
+E-value: 0.03732
+Alignment Length: 148
+Percentage Identity: 0.141
+
+=== A0A497N8M7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 107.0
+E-value: 0.03969
+Alignment Length: 81
+Percentage Identity: 0.111
+
+=== A0A1X1C2S7 ===
+DE   RecName: Full=HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392};
+Bit Score: 97.0
+E-value: 0.0422
+Alignment Length: 92
+Percentage Identity: 0.206
+
+=== D8LPE7 ===
+DE   SubName: Full=EsV-1-119 {ECO:0000313|EMBL:CBN80419.1};
+Bit Score: 93.0
+E-value: 0.04488
+Alignment Length: 88
+Percentage Identity: 0.147
+
+=== A0A4V6PPQ1 ===
+DE   SubName: Full=HNH endonuclease {ECO:0000313|EMBL:TDM03165.1};
+Bit Score: 85.0
+E-value: 0.04488
+Alignment Length: 133
+Percentage Identity: 0.142
+

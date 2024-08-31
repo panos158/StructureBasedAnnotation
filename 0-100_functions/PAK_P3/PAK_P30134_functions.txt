@@ -1,0 +1,7 @@
+=== R6NQY0 ===
+DE   SubName: Full=Putative phage resolvase/integrase {ECO:0000313|EMBL:CDC08646.1};
+Bit Score: 120.0
+E-value: 0.03866
+Alignment Length: 53
+Percentage Identity: 0.226
+

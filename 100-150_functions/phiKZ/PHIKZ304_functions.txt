@@ -1,0 +1,1550 @@
+=== A0A1S8FG92 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 153.0
+E-value: 2.983e-05
+Alignment Length: 127
+Percentage Identity: 0.22
+
+=== A0A4Y9RGN4 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 149.0
+E-value: 3.155e-05
+Alignment Length: 136
+Percentage Identity: 0.242
+
+=== A0A1T4X0I3 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:SKA83076.1};
+Bit Score: 143.0
+E-value: 5.224e-05
+Alignment Length: 123
+Percentage Identity: 0.227
+
+=== A0A370P277 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 136.0
+E-value: 9.148e-05
+Alignment Length: 119
+Percentage Identity: 0.243
+
+=== A0A7Y2TRF5 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 143.0
+E-value: 9.675e-05
+Alignment Length: 131
+Percentage Identity: 0.259
+
+=== A0A090AGQ3 ===
+DE   SubName: Full=17 kDa surface antigen {ECO:0000313|EMBL:BAP56349.1};
+Bit Score: 139.0
+E-value: 9.675e-05
+Alignment Length: 128
+Percentage Identity: 0.226
+
+=== A0A1Q6T0R0 ===
+DE   RecName: Full=17 kDa surface antigen {ECO:0000256|ARBA:ARBA00015281};
+Bit Score: 135.0
+E-value: 9.675e-05
+Alignment Length: 146
+Percentage Identity: 0.232
+
+=== A0A1M7RXR3 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:SHN51099.1};
+Bit Score: 130.0
+E-value: 9.675e-05
+Alignment Length: 132
+Percentage Identity: 0.242
+
+=== A0A239SUH6 ===
+DE   SubName: Full=Membrane protein {ECO:0000313|EMBL:VVE82275.1};
+DE   SubName: Full=PAL cross-reacting lipoprotein {ECO:0000313|EMBL:SNU88986.1};
+Bit Score: 136.0
+E-value: 0.0001082
+Alignment Length: 127
+Percentage Identity: 0.212
+
+=== A0A6S6U7Q7 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.0001211
+Alignment Length: 151
+Percentage Identity: 0.231
+
+=== A0A7C2RVR8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HES76696.1};
+Bit Score: 137.0
+E-value: 0.0001432
+Alignment Length: 146
+Percentage Identity: 0.15
+
+=== A0A5K1I9H4 ===
+DE   SubName: Full=Outer membrane lipoprotein pcp {ECO:0000313|EMBL:VVZ96943.1};
+Bit Score: 133.0
+E-value: 0.0001515
+Alignment Length: 160
+Percentage Identity: 0.206
+
+=== A0A7V5G027 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:HHD75219.1};
+Bit Score: 131.0
+E-value: 0.0001792
+Alignment Length: 146
+Percentage Identity: 0.273
+
+=== V4YRA5 ===
+DE   RecName: Full=Outer membrane lipoprotein SlyB {ECO:0008006|Google:ProtNLM};
+Bit Score: 131.0
+E-value: 0.0001895
+Alignment Length: 122
+Percentage Identity: 0.196
+
+=== A0A1Q7IQ08 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 126.0
+E-value: 0.0002004
+Alignment Length: 156
+Percentage Identity: 0.224
+
+=== A0A6L9KZW7 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 127.0
+E-value: 0.000212
+Alignment Length: 136
+Percentage Identity: 0.22
+
+=== A0A3E1DZX1 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:RFC42852.1};
+Bit Score: 134.0
+E-value: 0.0002652
+Alignment Length: 127
+Percentage Identity: 0.244
+
+=== A0A7W1HFU9 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:MBA3602593.1};
+Bit Score: 128.0
+E-value: 0.0002805
+Alignment Length: 129
+Percentage Identity: 0.201
+
+=== A0A317PA11 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:PWV83124.1};
+Bit Score: 127.0
+E-value: 0.0002805
+Alignment Length: 155
+Percentage Identity: 0.193
+
+=== A0A1B9C1Q2 ===
+DE   RecName: Full=Outer membrane lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.0002805
+Alignment Length: 134
+Percentage Identity: 0.201
+
+=== A0A7D7N619 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:QMT40563.1};
+Bit Score: 118.0
+E-value: 0.0003318
+Alignment Length: 122
+Percentage Identity: 0.18
+
+=== A0A193FRD6 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 129.0
+E-value: 0.000351
+Alignment Length: 153
+Percentage Identity: 0.261
+
+=== A0A316MK47 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 129.0
+E-value: 0.0003712
+Alignment Length: 128
+Percentage Identity: 0.265
+
+=== A0A520U8I4 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:RZP03286.1};
+Bit Score: 125.0
+E-value: 0.0003712
+Alignment Length: 154
+Percentage Identity: 0.253
+
+=== A0A382LPG9 ===
+DE   RecName: Full=Glycine zipper domain-containing protein {ECO:0000259|Pfam:PF13488};
+DE   Flags: Fragment;
+Bit Score: 122.0
+E-value: 0.0003926
+Alignment Length: 143
+Percentage Identity: 0.258
+
+=== A0A316EX43 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:PWK35513.1};
+Bit Score: 127.0
+E-value: 0.0004152
+Alignment Length: 118
+Percentage Identity: 0.237
+
+=== A0A0F5VJX1 ===
+DE   SubName: Full=Membrane protein {ECO:0000313|EMBL:KKD01770.1};
+Bit Score: 125.0
+E-value: 0.0004152
+Alignment Length: 129
+Percentage Identity: 0.263
+
+=== A0A6J5E9M0 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:CAB3763219.1};
+Bit Score: 129.0
+E-value: 0.0004391
+Alignment Length: 144
+Percentage Identity: 0.187
+
+=== A0A7Y6XZT1 ===
+DE   RecName: Full=17 kDa surface antigen {ECO:0008006|Google:ProtNLM};
+Bit Score: 118.0
+E-value: 0.0004391
+Alignment Length: 153
+Percentage Identity: 0.209
+
+=== A0A6J4JNP7 ===
+DE   RecName: Full=Outer membrane lipoprotein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 122.0
+E-value: 0.0004644
+Alignment Length: 126
+Percentage Identity: 0.222
+
+=== A0A257QZW2 ===
+DE   RecName: Full=17 kDa surface antigen {ECO:0008006|Google:ProtNLM};
+Bit Score: 115.0
+E-value: 0.0004644
+Alignment Length: 159
+Percentage Identity: 0.264
+
+=== A0A356FVZ3 ===
+DE   RecName: Full=17 kDa surface antigen {ECO:0008006|Google:ProtNLM};
+Bit Score: 115.0
+E-value: 0.0005811
+Alignment Length: 125
+Percentage Identity: 0.216
+
+=== A0A350J284 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.0006874
+Alignment Length: 147
+Percentage Identity: 0.224
+
+=== A0A7D5ZKA4 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:QLI83249.1};
+Bit Score: 123.0
+E-value: 0.0006874
+Alignment Length: 147
+Percentage Identity: 0.21
+
+=== A0A1A6C6S6 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.0006874
+Alignment Length: 148
+Percentage Identity: 0.209
+
+=== A0A1G7C7C6 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:SDE34660.1};
+Bit Score: 118.0
+E-value: 0.000727
+Alignment Length: 134
+Percentage Identity: 0.276
+
+=== A0A3P3VMX6 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:RRJ84045.1};
+Bit Score: 122.0
+E-value: 0.0007689
+Alignment Length: 119
+Percentage Identity: 0.21
+
+=== A0A4R1EPD9 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:TCJ82853.1};
+Bit Score: 121.0
+E-value: 0.0007689
+Alignment Length: 142
+Percentage Identity: 0.225
+
+=== A0A5F0KDV7 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:TFF82555.1};
+Bit Score: 117.0
+E-value: 0.0007689
+Alignment Length: 147
+Percentage Identity: 0.224
+
+=== A0A6J5GR84 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:CAB3804975.1};
+Bit Score: 117.0
+E-value: 0.0007689
+Alignment Length: 120
+Percentage Identity: 0.2
+
+=== A0A1G0ISY5 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 107.0
+E-value: 0.0007689
+Alignment Length: 148
+Percentage Identity: 0.27
+
+=== E6X3I6 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 107.0
+E-value: 0.0007689
+Alignment Length: 135
+Percentage Identity: 0.222
+
+=== A0A4R3NBR3 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:TCT24519.1};
+Bit Score: 106.0
+E-value: 0.0007689
+Alignment Length: 126
+Percentage Identity: 0.23
+
+=== A0A845U5C2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NDU42073.1};
+Bit Score: 128.0
+E-value: 0.0008133
+Alignment Length: 127
+Percentage Identity: 0.212
+
+=== A0A3M0C406 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:RMB04458.1};
+Bit Score: 119.0
+E-value: 0.0008133
+Alignment Length: 136
+Percentage Identity: 0.25
+
+=== A0A1D8KA50 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 110.0
+E-value: 0.0008133
+Alignment Length: 155
+Percentage Identity: 0.206
+
+=== R5EZW1 ===
+DE   RecName: Full=Glycine zipper domain-containing protein {ECO:0000259|Pfam:PF13488};
+Bit Score: 126.0
+E-value: 0.0008601
+Alignment Length: 151
+Percentage Identity: 0.238
+
+=== A0A1D9HCP5 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.0008601
+Alignment Length: 128
+Percentage Identity: 0.179
+
+=== A0A349K0G3 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.0008601
+Alignment Length: 147
+Percentage Identity: 0.156
+
+=== A0A354V094 ===
+DE   RecName: Full=Outer membrane lipoprotein SlyB {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.0009097
+Alignment Length: 124
+Percentage Identity: 0.241
+
+=== A0A7W6JCQ1 ===
+DE   RecName: Full=17 kDa surface antigen {ECO:0000256|ARBA:ARBA00015281};
+Bit Score: 111.0
+E-value: 0.0009097
+Alignment Length: 133
+Percentage Identity: 0.218
+
+=== A0A257PHV1 ===
+DE   RecName: Full=17 kDa surface antigen {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.0009621
+Alignment Length: 121
+Percentage Identity: 0.239
+
+=== A0A2T4MWS9 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 112.0
+E-value: 0.0009621
+Alignment Length: 137
+Percentage Identity: 0.24
+
+=== A0A7X3SAX4 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:MXP56204.1};
+Bit Score: 104.0
+E-value: 0.0009621
+Alignment Length: 134
+Percentage Identity: 0.156
+
+=== A0A7C1Y7K5 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 132.0
+E-value: 0.001018
+Alignment Length: 144
+Percentage Identity: 0.201
+
+=== A0A0N0GPQ6 ===
+DE   SubName: Full=Outer membrane lipoprotein pcp {ECO:0000313|EMBL:KPC53962.1};
+Bit Score: 123.0
+E-value: 0.001018
+Alignment Length: 142
+Percentage Identity: 0.225
+
+=== A0A809PJD0 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 116.0
+E-value: 0.001018
+Alignment Length: 128
+Percentage Identity: 0.265
+
+=== A0A2N7DFX9 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 115.0
+E-value: 0.001018
+Alignment Length: 130
+Percentage Identity: 0.238
+
+=== A0A841G979 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:MBB6054479.1};
+Bit Score: 113.0
+E-value: 0.001076
+Alignment Length: 135
+Percentage Identity: 0.266
+
+=== A0A7X8TU39 ===
+DE   RecName: Full=Glycine zipper family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 113.0
+E-value: 0.001076
+Alignment Length: 150
+Percentage Identity: 0.193
+
+=== A0A2E3HE60 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.001204
+Alignment Length: 149
+Percentage Identity: 0.174
+
+=== J9Z246 ===
+DE   SubName: Full=Outer membrane lipoprotein {ECO:0000313|EMBL:AFS49335.1};
+Bit Score: 119.0
+E-value: 0.001273
+Alignment Length: 125
+Percentage Identity: 0.184
+
+=== A0A4Q7DIF9 ===
+DE   RecName: Full=17 kDa surface antigen {ECO:0000256|ARBA:ARBA00015281};
+Bit Score: 116.0
+E-value: 0.001346
+Alignment Length: 129
+Percentage Identity: 0.263
+
+=== A0A809PPR6 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 107.0
+E-value: 0.001346
+Alignment Length: 136
+Percentage Identity: 0.205
+
+=== A0A212JUX0 ===
+DE   SubName: Full=Rickettsia surface antigen {ECO:0000313|EMBL:SBW03254.1};
+Bit Score: 119.0
+E-value: 0.001424
+Alignment Length: 126
+Percentage Identity: 0.214
+
+=== A0A1V5LDW8 ===
+DE   RecName: Full=17 kDa surface antigen {ECO:0000256|ARBA:ARBA00015281};
+Bit Score: 109.0
+E-value: 0.001424
+Alignment Length: 145
+Percentage Identity: 0.268
+
+=== A0A248LJB0 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 113.0
+E-value: 0.001506
+Alignment Length: 135
+Percentage Identity: 0.207
+
+=== A0A520TQA2 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:RZO96920.1};
+Bit Score: 113.0
+E-value: 0.001593
+Alignment Length: 117
+Percentage Identity: 0.256
+
+=== A0A212QRH9 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:SNB62120.1};
+Bit Score: 112.0
+E-value: 0.001593
+Alignment Length: 125
+Percentage Identity: 0.232
+
+=== A0A3A3FP25 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:RJF97766.1};
+Bit Score: 108.0
+E-value: 0.001593
+Alignment Length: 132
+Percentage Identity: 0.212
+
+=== A0A840RKW7 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:MBB5193158.1};
+Bit Score: 113.0
+E-value: 0.001685
+Alignment Length: 121
+Percentage Identity: 0.206
+
+=== A0A5B2TB29 ===
+DE   RecName: Full=17 kDa surface antigen {ECO:0008006|Google:ProtNLM};
+Bit Score: 110.0
+E-value: 0.001685
+Alignment Length: 129
+Percentage Identity: 0.232
+
+=== A0A259E2D9 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 111.0
+E-value: 0.001782
+Alignment Length: 130
+Percentage Identity: 0.215
+
+=== A0A7S9E135 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:QPG07532.1};
+Bit Score: 107.0
+E-value: 0.001782
+Alignment Length: 145
+Percentage Identity: 0.22
+
+=== A0A1E4LKU2 ===
+DE   RecName: Full=17 kDa surface antigen {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.001782
+Alignment Length: 151
+Percentage Identity: 0.198
+
+=== A0A496PX08 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.001782
+Alignment Length: 144
+Percentage Identity: 0.187
+
+=== A0A1M4T9L0 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:SHE41028.1};
+Bit Score: 102.0
+E-value: 0.001782
+Alignment Length: 126
+Percentage Identity: 0.198
+
+=== A0A251XB48 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.001884
+Alignment Length: 127
+Percentage Identity: 0.204
+
+=== A0A525C450 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:THB65459.1};
+Bit Score: 110.0
+E-value: 0.001884
+Alignment Length: 154
+Percentage Identity: 0.24
+
+=== A0A1W6N2R1 ===
+DE   RecName: Full=17 kDa surface antigen {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.001993
+Alignment Length: 160
+Percentage Identity: 0.143
+
+=== A0A014NPJ4 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 98.0
+E-value: 0.001993
+Alignment Length: 145
+Percentage Identity: 0.296
+
+=== A0A5C6U5X2 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:TXC67541.1};
+Bit Score: 114.0
+E-value: 0.002229
+Alignment Length: 118
+Percentage Identity: 0.228
+
+=== Q2C9H9 ===
+DE   SubName: Full=Acetate/propionate kinase {ECO:0000313|EMBL:EAR57506.1};
+DE            EC=2.7.2.1 {ECO:0000313|EMBL:EAR57506.1};
+Bit Score: 110.0
+E-value: 0.002229
+Alignment Length: 137
+Percentage Identity: 0.189
+
+=== A0A7C7ZLV1 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:HIG79406.1};
+Bit Score: 110.0
+E-value: 0.002358
+Alignment Length: 127
+Percentage Identity: 0.173
+
+=== A0A2J4P826 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+DE   Flags: Fragment;
+Bit Score: 115.0
+E-value: 0.002494
+Alignment Length: 120
+Percentage Identity: 0.266
+
+=== A0A2D6EMA7 ===
+DE   RecName: Full=17 kDa surface antigen {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.002494
+Alignment Length: 149
+Percentage Identity: 0.174
+
+=== A0A1M3PZG4 ===
+DE   RecName: Full=17 kDa surface antigen {ECO:0000256|ARBA:ARBA00015281};
+Bit Score: 110.0
+E-value: 0.002494
+Alignment Length: 127
+Percentage Identity: 0.291
+
+=== A0A2W6SSL4 ===
+DE   RecName: Full=17 kDa surface antigen {ECO:0008006|Google:ProtNLM};
+Bit Score: 88.0
+E-value: 0.002494
+Alignment Length: 130
+Percentage Identity: 0.215
+
+=== A0A1Z9S2F9 ===
+DE   RecName: Full=17 kDa surface antigen {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.002637
+Alignment Length: 146
+Percentage Identity: 0.178
+
+=== A0A1Y5DVQ6 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 98.0
+E-value: 0.002637
+Alignment Length: 122
+Percentage Identity: 0.221
+
+=== A0A6B2KQZ7 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:NDV12513.1};
+Bit Score: 114.0
+E-value: 0.002789
+Alignment Length: 124
+Percentage Identity: 0.193
+
+=== A0A5C7PQ19 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:TXH48758.1};
+Bit Score: 103.0
+E-value: 0.00312
+Alignment Length: 122
+Percentage Identity: 0.196
+
+=== A0A7X7SPW1 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 96.0
+E-value: 0.00312
+Alignment Length: 136
+Percentage Identity: 0.176
+
+=== A0A5C7ETU9 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:TXF11614.1};
+Bit Score: 113.0
+E-value: 0.0033
+Alignment Length: 124
+Percentage Identity: 0.209
+
+=== A0A0C1K0B9 ===
+DE   SubName: Full=Putative peptidoglycan-associated lipoprotein (Pal) {ECO:0000313|EMBL:KIC72952.1};
+Bit Score: 109.0
+E-value: 0.0033
+Alignment Length: 149
+Percentage Identity: 0.187
+
+=== A0A516SJM5 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.0033
+Alignment Length: 124
+Percentage Identity: 0.241
+
+=== A0A848HCT8 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:NML46353.1};
+Bit Score: 90.0
+E-value: 0.003691
+Alignment Length: 176
+Percentage Identity: 0.221
+
+=== A0A7C9FSW8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MPV68637.1};
+Bit Score: 108.0
+E-value: 0.003904
+Alignment Length: 151
+Percentage Identity: 0.205
+
+=== T0ZIF2 ===
+DE   SubName: Full=Outer membrane lipoprotein {ECO:0000313|EMBL:EQD44468.1};
+DE   Flags: Fragment;
+Bit Score: 101.0
+E-value: 0.003904
+Alignment Length: 133
+Percentage Identity: 0.248
+
+=== A0A411HIQ0 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:QBB70373.1};
+Bit Score: 93.0
+E-value: 0.003904
+Alignment Length: 161
+Percentage Identity: 0.186
+
+=== A0A2E2D324 ===
+DE   RecName: Full=Glycine zipper domain-containing protein {ECO:0000259|Pfam:PF13488};
+Bit Score: 101.0
+E-value: 0.004129
+Alignment Length: 129
+Percentage Identity: 0.224
+
+=== A0A2P8R0U3 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 98.0
+E-value: 0.004129
+Alignment Length: 158
+Percentage Identity: 0.246
+
+=== A0A1H4DKM6 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:SEA73331.1};
+Bit Score: 105.0
+E-value: 0.004367
+Alignment Length: 128
+Percentage Identity: 0.21
+
+=== A0A849K7E9 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:NNU41967.1};
+Bit Score: 80.0
+E-value: 0.004618
+Alignment Length: 131
+Percentage Identity: 0.244
+
+=== A0A2D8RSN4 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.004885
+Alignment Length: 138
+Percentage Identity: 0.166
+
+=== A0A370WX45 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:RDS80555.1};
+Bit Score: 81.0
+E-value: 0.004885
+Alignment Length: 138
+Percentage Identity: 0.181
+
+=== B5JL33 ===
+DE   SubName: Full=Rickettsia 17 kDa surface antigen family {ECO:0000313|EMBL:EDY83578.1};
+Bit Score: 104.0
+E-value: 0.005464
+Alignment Length: 122
+Percentage Identity: 0.221
+
+=== A0A257ST86 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 92.0
+E-value: 0.005464
+Alignment Length: 127
+Percentage Identity: 0.173
+
+=== A0A523Q151 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 87.0
+E-value: 0.005464
+Alignment Length: 122
+Percentage Identity: 0.27
+
+=== A0A7W2EPB6 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:MBA5636035.1};
+Bit Score: 83.0
+E-value: 0.005464
+Alignment Length: 138
+Percentage Identity: 0.224
+
+=== A0A369WHG3 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.005778
+Alignment Length: 157
+Percentage Identity: 0.191
+
+=== A0A2Z6G807 ===
+DE   RecName: Full=Outer membrane lipoprotein pcp {ECO:0008006|Google:ProtNLM};
+Bit Score: 99.0
+E-value: 0.005778
+Alignment Length: 143
+Percentage Identity: 0.174
+
+=== A0A1G3ETJ9 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 94.0
+E-value: 0.005778
+Alignment Length: 133
+Percentage Identity: 0.21
+
+=== A0A847BUC6 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:NLC28653.1};
+Bit Score: 94.0
+E-value: 0.005778
+Alignment Length: 142
+Percentage Identity: 0.204
+
+=== A0A5C8NW75 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:TXL65230.1};
+Bit Score: 77.0
+E-value: 0.005778
+Alignment Length: 151
+Percentage Identity: 0.205
+
+=== A0A536X141 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:TMH30237.1};
+Bit Score: 96.0
+E-value: 0.006111
+Alignment Length: 138
+Percentage Identity: 0.195
+
+=== A0A127JPQ5 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 87.0
+E-value: 0.006111
+Alignment Length: 143
+Percentage Identity: 0.195
+
+=== L8JC35 ===
+DE   SubName: Full=Putative outer membrane lipoprotein Pcp {ECO:0000313|EMBL:ELR65813.1};
+Bit Score: 101.0
+E-value: 0.006464
+Alignment Length: 130
+Percentage Identity: 0.215
+
+=== A0A7C5KTP2 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 99.0
+E-value: 0.006464
+Alignment Length: 157
+Percentage Identity: 0.133
+
+=== A0A4Q8M2J6 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 96.0
+E-value: 0.006464
+Alignment Length: 157
+Percentage Identity: 0.191
+
+=== A0A7C6FE92 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:HHS92791.1};
+Bit Score: 94.0
+E-value: 0.006464
+Alignment Length: 122
+Percentage Identity: 0.303
+
+=== A0A839LFR4 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:MBB2486014.1};
+Bit Score: 80.0
+E-value: 0.006464
+Alignment Length: 122
+Percentage Identity: 0.204
+
+=== A0A2R5F8K8 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:GBG14556.1};
+Bit Score: 96.0
+E-value: 0.006836
+Alignment Length: 131
+Percentage Identity: 0.236
+
+=== A0A351BGW6 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:HAY27535.1};
+Bit Score: 96.0
+E-value: 0.006836
+Alignment Length: 135
+Percentage Identity: 0.214
+
+=== A0A1N6DC55 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:SIN68375.1};
+Bit Score: 93.0
+E-value: 0.006836
+Alignment Length: 123
+Percentage Identity: 0.227
+
+=== A0A1T1AWB4 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 89.0
+E-value: 0.006836
+Alignment Length: 153
+Percentage Identity: 0.228
+
+=== A0A4R6QRB0 ===
+DE   SubName: Full=Glycine zipper 2TM protein {ECO:0000313|EMBL:TDP74120.1};
+Bit Score: 82.0
+E-value: 0.006836
+Alignment Length: 133
+Percentage Identity: 0.218
+
+=== A0A557REX5 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:TVO75464.1};
+Bit Score: 69.0
+E-value: 0.006836
+Alignment Length: 118
+Percentage Identity: 0.262
+
+=== A0A1I5CF65 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:SFN85563.1};
+Bit Score: 100.0
+E-value: 0.00723
+Alignment Length: 130
+Percentage Identity: 0.146
+
+=== A0A7X1E8W6 ===
+DE   RecName: Full=Outer membrane lipoprotein SlyB {ECO:0008006|Google:ProtNLM};
+Bit Score: 99.0
+E-value: 0.00723
+Alignment Length: 129
+Percentage Identity: 0.209
+
+=== A0A2T6FN62 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 99.0
+E-value: 0.00723
+Alignment Length: 145
+Percentage Identity: 0.206
+
+=== A0A254N9E0 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 91.0
+E-value: 0.00723
+Alignment Length: 141
+Percentage Identity: 0.205
+
+=== A0A254UQ54 ===
+DE   RecName: Full=17 kDa surface antigen {ECO:0000256|ARBA:ARBA00015281};
+Bit Score: 87.0
+E-value: 0.00723
+Alignment Length: 139
+Percentage Identity: 0.208
+
+=== F5Y2X9 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 83.0
+E-value: 0.007647
+Alignment Length: 153
+Percentage Identity: 0.248
+
+=== A0A1G0EEK4 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 85.0
+E-value: 0.008087
+Alignment Length: 141
+Percentage Identity: 0.219
+
+=== A0A7L6A9A7 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:QLQ25706.1};
+Bit Score: 80.0
+E-value: 0.008087
+Alignment Length: 116
+Percentage Identity: 0.25
+
+=== A0A2N4ULV2 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 93.0
+E-value: 0.009046
+Alignment Length: 159
+Percentage Identity: 0.226
+
+=== A0A2X0WZT7 ===
+DE   RecName: Full=YMGG-like Gly-zipper domain-containing protein {ECO:0000259|Pfam:PF13441};
+Bit Score: 103.0
+E-value: 0.009567
+Alignment Length: 152
+Percentage Identity: 0.263
+
+=== A0A7C2UPT7 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:HEU62922.1};
+Bit Score: 85.0
+E-value: 0.009567
+Alignment Length: 133
+Percentage Identity: 0.218
+
+=== N6Y7F0 ===
+DE   SubName: Full=Outer membrane lipoprotein {ECO:0000313|EMBL:ENO77978.1};
+Bit Score: 89.0
+E-value: 0.01012
+Alignment Length: 149
+Percentage Identity: 0.201
+
+=== A0A2D7C594 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.0107
+Alignment Length: 117
+Percentage Identity: 0.179
+
+=== A0A4S3KHC2 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 77.0
+E-value: 0.0107
+Alignment Length: 116
+Percentage Identity: 0.241
+
+=== A0A2N2SZQ6 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 66.0
+E-value: 0.0107
+Alignment Length: 142
+Percentage Identity: 0.225
+
+=== A0A348YMA7 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.01132
+Alignment Length: 142
+Percentage Identity: 0.211
+
+=== A0A840VER0 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:MBB5374186.1};
+Bit Score: 89.0
+E-value: 0.01197
+Alignment Length: 161
+Percentage Identity: 0.161
+
+=== A0A523ME97 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 94.0
+E-value: 0.01266
+Alignment Length: 136
+Percentage Identity: 0.198
+
+=== A0A3Q8T7F5 ===
+DE   RecName: Full=17 kDa surface antigen {ECO:0008006|Google:ProtNLM};
+Bit Score: 89.0
+E-value: 0.01266
+Alignment Length: 142
+Percentage Identity: 0.197
+
+=== A0A5C4RU35 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:TNJ34726.1};
+Bit Score: 75.0
+E-value: 0.01266
+Alignment Length: 118
+Percentage Identity: 0.245
+
+=== A0A1H9P4N6 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:SER42845.1};
+Bit Score: 74.0
+E-value: 0.01266
+Alignment Length: 141
+Percentage Identity: 0.177
+
+=== A0A537A3Q3 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:TMH67843.1};
+Bit Score: 73.0
+E-value: 0.01266
+Alignment Length: 141
+Percentage Identity: 0.248
+
+=== A0A3M1GH95 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 91.0
+E-value: 0.01339
+Alignment Length: 157
+Percentage Identity: 0.222
+
+=== A0A4S8F3W7 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:THU02053.1};
+Bit Score: 84.0
+E-value: 0.01339
+Alignment Length: 150
+Percentage Identity: 0.18
+
+=== A0A4Z0BD01 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:TFY97132.1};
+Bit Score: 79.0
+E-value: 0.01339
+Alignment Length: 154
+Percentage Identity: 0.246
+
+=== A0A840RU02 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:MBB5200528.1};
+Bit Score: 69.0
+E-value: 0.01339
+Alignment Length: 131
+Percentage Identity: 0.221
+
+=== A0A1I1JWR2 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:SFC52691.1};
+Bit Score: 71.0
+E-value: 0.01416
+Alignment Length: 139
+Percentage Identity: 0.187
+
+=== A0A257PI38 ===
+DE   RecName: Full=17 kDa surface antigen {ECO:0000256|ARBA:ARBA00015281};
+Bit Score: 75.0
+E-value: 0.01498
+Alignment Length: 148
+Percentage Identity: 0.25
+
+=== A0A0M3TU07 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 92.0
+E-value: 0.01675
+Alignment Length: 126
+Percentage Identity: 0.166
+
+=== A0A536UBN0 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:TMH63645.1};
+Bit Score: 79.0
+E-value: 0.01675
+Alignment Length: 128
+Percentage Identity: 0.203
+
+=== A0A2X0QTK9 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 76.0
+E-value: 0.01675
+Alignment Length: 133
+Percentage Identity: 0.233
+
+=== A0A2T5L620 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:PTR30118.1};
+Bit Score: 73.0
+E-value: 0.01675
+Alignment Length: 140
+Percentage Identity: 0.228
+
+=== A0A1F4F850 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 79.0
+E-value: 0.01772
+Alignment Length: 115
+Percentage Identity: 0.243
+
+=== A0A6L9KH54 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:NDP38395.1};
+Bit Score: 77.0
+E-value: 0.01772
+Alignment Length: 144
+Percentage Identity: 0.187
+
+=== A0A1Q4F6N4 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 76.0
+E-value: 0.01772
+Alignment Length: 142
+Percentage Identity: 0.204
+
+=== A0A7V9CH17 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 75.0
+E-value: 0.01772
+Alignment Length: 146
+Percentage Identity: 0.212
+
+=== A0A329B1K2 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:RAS12015.1};
+Bit Score: 73.0
+E-value: 0.01772
+Alignment Length: 118
+Percentage Identity: 0.203
+
+=== A0A4V1EIJ8 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:QCP54020.1};
+Bit Score: 83.0
+E-value: 0.01874
+Alignment Length: 119
+Percentage Identity: 0.252
+
+=== A0A515DCT0 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:QDL38205.1};
+Bit Score: 78.0
+E-value: 0.01874
+Alignment Length: 119
+Percentage Identity: 0.226
+
+=== A0A6B2QUW6 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 78.0
+E-value: 0.01874
+Alignment Length: 161
+Percentage Identity: 0.204
+
+=== A0A0J1DB57 ===
+DE   SubName: Full=Membrane protein {ECO:0000313|EMBL:KLU36320.1};
+Bit Score: 76.0
+E-value: 0.01874
+Alignment Length: 122
+Percentage Identity: 0.27
+
+=== A1TLT3 ===
+DE   SubName: Full=17 kDa surface antigen {ECO:0000313|EMBL:ABM31921.1};
+Bit Score: 73.0
+E-value: 0.01874
+Alignment Length: 139
+Percentage Identity: 0.237
+
+=== A0A3C1MSU3 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 70.0
+E-value: 0.01874
+Alignment Length: 146
+Percentage Identity: 0.219
+
+=== A0A2M9QT74 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 87.0
+E-value: 0.01982
+Alignment Length: 126
+Percentage Identity: 0.198
+
+=== A0A7X6DDM6 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:NKE65224.1};
+Bit Score: 83.0
+E-value: 0.01982
+Alignment Length: 152
+Percentage Identity: 0.203
+
+=== A0A1P8JTE5 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 73.0
+E-value: 0.01982
+Alignment Length: 121
+Percentage Identity: 0.239
+
+=== A0A1F3ZTN4 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 71.0
+E-value: 0.01982
+Alignment Length: 141
+Percentage Identity: 0.198
+
+=== A0A7X7PYC7 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 91.0
+E-value: 0.02096
+Alignment Length: 122
+Percentage Identity: 0.262
+
+=== A0A3B8QTS1 ===
+DE   RecName: Full=17 kDa surface antigen {ECO:0008006|Google:ProtNLM};
+Bit Score: 82.0
+E-value: 0.02096
+Alignment Length: 119
+Percentage Identity: 0.184
+
+=== A0A3N5FDE1 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:RPH45099.1};
+Bit Score: 70.0
+E-value: 0.02096
+Alignment Length: 126
+Percentage Identity: 0.222
+
+=== A0A1D9H5T4 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 66.0
+E-value: 0.02096
+Alignment Length: 122
+Percentage Identity: 0.221
+
+=== A0A536XLU9 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:TMH37513.1};
+Bit Score: 68.0
+E-value: 0.02217
+Alignment Length: 138
+Percentage Identity: 0.181
+
+=== A0A1T1AU02 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 63.0
+E-value: 0.02217
+Alignment Length: 130
+Percentage Identity: 0.246
+
+=== A0A5B0KWG1 ===
+DE   RecName: Full=Outer membrane lipoprotein SlyB {ECO:0008006|Google:ProtNLM};
+Bit Score: 91.0
+E-value: 0.02345
+Alignment Length: 156
+Percentage Identity: 0.192
+
+=== A0A3D4K9Z4 ===
+DE   RecName: Full=17 kDa surface antigen {ECO:0008006|Google:ProtNLM};
+Bit Score: 80.0
+E-value: 0.02345
+Alignment Length: 158
+Percentage Identity: 0.208
+
+=== A0A5P2GZG2 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:QET00978.1};
+Bit Score: 73.0
+E-value: 0.0248
+Alignment Length: 122
+Percentage Identity: 0.254
+
+=== A0A537A9P1 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:TMH69935.1};
+Bit Score: 73.0
+E-value: 0.0248
+Alignment Length: 127
+Percentage Identity: 0.236
+
+=== C8PGE2 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 93.0
+E-value: 0.02623
+Alignment Length: 133
+Percentage Identity: 0.225
+
+=== A0A7C5Z6K4 ===
+DE   RecName: Full=DUF3592 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 93.0
+E-value: 0.02623
+Alignment Length: 137
+Percentage Identity: 0.065
+
+=== A0A4R5U4S2 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 87.0
+E-value: 0.02623
+Alignment Length: 147
+Percentage Identity: 0.231
+
+=== A0A1I4Z6P9 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:SFN45659.1};
+Bit Score: 73.0
+E-value: 0.02623
+Alignment Length: 130
+Percentage Identity: 0.192
+
+=== A0A4V1D3W2 ===
+DE   RecName: Full=Glycine zipper domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 69.0
+E-value: 0.02774
+Alignment Length: 140
+Percentage Identity: 0.207
+
+=== A0A077DJD4 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 76.0
+E-value: 0.02934
+Alignment Length: 122
+Percentage Identity: 0.213
+
+=== A0A2E9A9B0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBS59343.1};
+Bit Score: 79.0
+E-value: 0.03103
+Alignment Length: 144
+Percentage Identity: 0.104
+
+=== A0A2X0R948 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 67.0
+E-value: 0.03103
+Alignment Length: 132
+Percentage Identity: 0.196
+
+=== A0A5C8J7T2 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:TXK33488.1};
+Bit Score: 65.0
+E-value: 0.03103
+Alignment Length: 119
+Percentage Identity: 0.21
+
+=== N6YUZ5 ===
+DE   SubName: Full=17 kDa surface antigen {ECO:0000313|EMBL:ENO98101.1};
+Bit Score: 76.0
+E-value: 0.03282
+Alignment Length: 150
+Percentage Identity: 0.193
+
+=== A0A4R3VE05 ===
+DE   SubName: Full=Glycine zipper 2TM protein {ECO:0000313|EMBL:TCV03597.1};
+Bit Score: 72.0
+E-value: 0.03282
+Alignment Length: 124
+Percentage Identity: 0.233
+
+=== A0A2G6YYP7 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:PIG00074.1};
+Bit Score: 71.0
+E-value: 0.03282
+Alignment Length: 139
+Percentage Identity: 0.266
+
+=== A0A7Y7D6T7 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:NVK40997.1};
+Bit Score: 71.0
+E-value: 0.03282
+Alignment Length: 153
+Percentage Identity: 0.15
+
+=== A0A2N7VBQ9 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 66.0
+E-value: 0.03282
+Alignment Length: 114
+Percentage Identity: 0.228
+
+=== H5WKC9 ===
+DE   SubName: Full=Putative outer membrane lipoprotein {ECO:0000313|EMBL:EHR71845.1};
+Bit Score: 64.0
+E-value: 0.03471
+Alignment Length: 170
+Percentage Identity: 0.176
+
+=== A0A091B474 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 72.0
+E-value: 0.03671
+Alignment Length: 122
+Percentage Identity: 0.196
+
+=== A0A2Z6GAF6 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 75.0
+E-value: 0.04106
+Alignment Length: 145
+Percentage Identity: 0.227
+
+=== A0A511BQB7 ===
+DE   RecName: Full=Glycine zipper domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 75.0
+E-value: 0.04106
+Alignment Length: 131
+Percentage Identity: 0.206
+
+=== A0A2D7J7L1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAI93919.1};
+Bit Score: 73.0
+E-value: 0.04106
+Alignment Length: 138
+Percentage Identity: 0.123
+
+=== V2KGS0 ===
+DE   SubName: Full=Membrane protein {ECO:0000313|EMBL:ESJ25668.1};
+Bit Score: 66.0
+E-value: 0.04106
+Alignment Length: 138
+Percentage Identity: 0.202
+
+=== A0A844B9I1 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:MRD48259.1};
+Bit Score: 69.0
+E-value: 0.04342
+Alignment Length: 143
+Percentage Identity: 0.167
+
+=== A0A1G0DM64 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 66.0
+E-value: 0.04342
+Alignment Length: 133
+Percentage Identity: 0.233
+
+=== A0A424WFJ8 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:RPJ92048.1};
+DE   Flags: Fragment;
+Bit Score: 61.0
+E-value: 0.04342
+Alignment Length: 120
+Percentage Identity: 0.191
+
+=== A0A512L6G7 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 64.0
+E-value: 0.04593
+Alignment Length: 119
+Percentage Identity: 0.226
+
+=== A0A838ZZE6 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:MBA5671648.1};
+Bit Score: 87.0
+E-value: 0.04857
+Alignment Length: 152
+Percentage Identity: 0.177
+
+=== A0A2D7KQ48 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAJ12329.1};
+Bit Score: 78.0
+E-value: 0.04857
+Alignment Length: 121
+Percentage Identity: 0.239
+
+=== A0A4T0UP78 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:TIC80599.1};
+Bit Score: 76.0
+E-value: 0.04857
+Alignment Length: 134
+Percentage Identity: 0.216
+
+=== A0A369WK67 ===
+DE   SubName: Full=Flagellar hook-length control protein FliK {ECO:0000313|EMBL:RDE22440.1};
+Bit Score: 73.0
+E-value: 0.04857
+Alignment Length: 141
+Percentage Identity: 0.141
+
+=== A0A1Y2Q6Y7 ===
+DE   RecName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000259|Pfam:PF05433};
+Bit Score: 69.0
+E-value: 0.04857
+Alignment Length: 140
+Percentage Identity: 0.185
+
+=== A0A5B8RQH8 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:QEA11796.1};
+Bit Score: 68.0
+E-value: 0.04857
+Alignment Length: 125
+Percentage Identity: 0.24
+
+=== A0A1H8EPS3 ===
+DE   SubName: Full=Outer membrane lipoprotein SlyB {ECO:0000313|EMBL:SEN21396.1};
+Bit Score: 67.0
+E-value: 0.04857
+Alignment Length: 130
+Percentage Identity: 0.184
+
+=== A0A522RUA2 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:TAN04910.1};
+Bit Score: 65.0
+E-value: 0.04857
+Alignment Length: 118
+Percentage Identity: 0.22
+
+=== A0A3C0HLS4 ===
+DE   SubName: Full=Peptidoglycan-associated outer membrane lipoprotein {ECO:0000313|EMBL:HAI60236.1};
+Bit Score: 64.0
+E-value: 0.04857
+Alignment Length: 141
+Percentage Identity: 0.191
+
+=== A0A4Y9SJF6 ===
+DE   SubName: Full=Glycine zipper 2TM domain-containing protein {ECO:0000313|EMBL:TFW21050.1};
+DE   Flags: Fragment;
+Bit Score: 61.0
+E-value: 0.04857
+Alignment Length: 116
+Percentage Identity: 0.275
+
+=== F2LJ87 ===
+DE   SubName: Full=Surface antigen family protein {ECO:0000313|EMBL:AEA63777.1};
+Bit Score: 59.0
+E-value: 0.04857
+Alignment Length: 138
+Percentage Identity: 0.202
+

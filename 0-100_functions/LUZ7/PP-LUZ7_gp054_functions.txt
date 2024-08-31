@@ -1,0 +1,119 @@
+=== A0A2I0TJM2 ===
+DE   RecName: Full=DUF1983 domain-containing protein {ECO:0000259|Pfam:PF09327};
+Bit Score: 330.0
+E-value: 2.547e-07
+Alignment Length: 75
+Percentage Identity: 0.72
+
+=== A6V411 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ABR81212.1};
+Bit Score: 331.0
+E-value: 2.894e-07
+Alignment Length: 75
+Percentage Identity: 0.68
+
+=== A0A3N7CN70 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 328.0
+E-value: 3.981e-07
+Alignment Length: 78
+Percentage Identity: 0.551
+
+=== A0A367MI97 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RCI76861.1};
+Bit Score: 285.0
+E-value: 1.255e-06
+Alignment Length: 75
+Percentage Identity: 0.56
+
+=== A0A6B1Y4I8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MZZ12455.1};
+Bit Score: 246.0
+E-value: 3.462e-05
+Alignment Length: 69
+Percentage Identity: 0.521
+
+=== A0A485GC98 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VFT31944.1};
+Bit Score: 252.0
+E-value: 7.933e-05
+Alignment Length: 58
+Percentage Identity: 0.62
+
+=== A0A1H6WY42 ===
+DE   RecName: Full=Virus tail fibre assembly protein, lambda gpK {ECO:0008006|Google:ProtNLM};
+Bit Score: 241.0
+E-value: 0.0001091
+Alignment Length: 59
+Percentage Identity: 0.593
+
+=== A0A485I9P2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VFT55371.1};
+Bit Score: 214.0
+E-value: 0.000124
+Alignment Length: 76
+Percentage Identity: 0.46
+
+=== A0A654AL37 ===
+DE   RecName: Full=Phage tail protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 238.0
+E-value: 0.0001706
+Alignment Length: 55
+Percentage Identity: 0.672
+
+=== A0A1N6W0L0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SIQ83667.1};
+Bit Score: 216.0
+E-value: 0.0005045
+Alignment Length: 57
+Percentage Identity: 0.526
+
+=== A0A0Q8IKS0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KRA97224.1};
+Bit Score: 187.0
+E-value: 0.0005045
+Alignment Length: 75
+Percentage Identity: 0.453
+
+=== A0A7X3L9Z0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MWV13753.1};
+Bit Score: 211.0
+E-value: 0.0006511
+Alignment Length: 57
+Percentage Identity: 0.578
+
+=== A0A0B3C1B7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KHO66714.1};
+Bit Score: 206.0
+E-value: 0.001018
+Alignment Length: 52
+Percentage Identity: 0.596
+
+=== A0A1C3EBN3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ODA30653.1};
+Bit Score: 142.0
+E-value: 0.0204
+Alignment Length: 71
+Percentage Identity: 0.366
+
+=== A8T450 ===
+DE   RecName: Full=TubC N-terminal docking domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 128.0
+E-value: 0.02806
+Alignment Length: 73
+Percentage Identity: 0.438
+
+=== A0A853HZY9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NYZ66743.1};
+Bit Score: 122.0
+E-value: 0.02991
+Alignment Length: 75
+Percentage Identity: 0.293
+
+=== A0A166JYP4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KZN12595.1};
+Bit Score: 117.0
+E-value: 0.03188
+Alignment Length: 84
+Percentage Identity: 0.369
+

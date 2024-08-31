@@ -1,0 +1,2397 @@
+=== A0A0T1WUZ7 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 154.0
+E-value: 0.0001954
+Alignment Length: 115
+Percentage Identity: 0.191
+
+=== A0A3D2F079 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 163.0
+E-value: 0.0005497
+Alignment Length: 94
+Percentage Identity: 0.191
+
+=== A0A3S0DIH8 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 165.0
+E-value: 0.0008944
+Alignment Length: 96
+Percentage Identity: 0.187
+
+=== A0A6L9XH16 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:NEL78792.1};
+Bit Score: 160.0
+E-value: 0.0009505
+Alignment Length: 96
+Percentage Identity: 0.208
+
+=== A0A1Z4RIT5 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|SMART:SM00465};
+Bit Score: 146.0
+E-value: 0.001073
+Alignment Length: 95
+Percentage Identity: 0.242
+
+=== A0A1W6EHP8 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:ARK14896.1};
+Bit Score: 176.0
+E-value: 0.001141
+Alignment Length: 95
+Percentage Identity: 0.21
+
+=== A0A0F9QMS8 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 161.0
+E-value: 0.001288
+Alignment Length: 92
+Percentage Identity: 0.184
+
+=== A0A7Y0EL91 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:NMM65481.1};
+Bit Score: 157.0
+E-value: 0.001369
+Alignment Length: 93
+Percentage Identity: 0.215
+
+=== A0A7Z7N5L3 ===
+DE   SubName: Full=Group I intron endonuclease {ECO:0000313|EMBL:SOE87957.1};
+Bit Score: 157.0
+E-value: 0.001369
+Alignment Length: 87
+Percentage Identity: 0.183
+
+=== A0A3S0CZM6 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 151.0
+E-value: 0.001546
+Alignment Length: 97
+Percentage Identity: 0.154
+
+=== C0JWR2 ===
+DE   SubName: Full=Putative site-specific DNA endonuclease {ECO:0000313|EMBL:ACK36926.1};
+Bit Score: 144.0
+E-value: 0.001546
+Alignment Length: 100
+Percentage Identity: 0.25
+
+=== A0A2H4FVX6 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:AOY36053.1};
+Bit Score: 164.0
+E-value: 0.001972
+Alignment Length: 95
+Percentage Identity: 0.178
+
+=== A0A2K3IVA0 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 140.0
+E-value: 0.001972
+Alignment Length: 97
+Percentage Identity: 0.226
+
+=== K2DJJ6 ===
+DE   SubName: Full=GIY-YIG catalytic protein {ECO:0000313|EMBL:EKD97506.1};
+Bit Score: 138.0
+E-value: 0.001972
+Alignment Length: 99
+Percentage Identity: 0.262
+
+=== A0A0S2IDA0 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:ALO21472.1};
+Bit Score: 139.0
+E-value: 0.002096
+Alignment Length: 99
+Percentage Identity: 0.212
+
+=== A0A431HZ43 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 152.0
+E-value: 0.002228
+Alignment Length: 94
+Percentage Identity: 0.191
+
+=== A0A0S2LQ76 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:ALO63637.1};
+Bit Score: 129.0
+E-value: 0.002228
+Alignment Length: 105
+Percentage Identity: 0.19
+
+=== A0A3S0DJT8 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 158.0
+E-value: 0.002367
+Alignment Length: 94
+Percentage Identity: 0.17
+
+=== A0A0F9RFQ9 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 140.0
+E-value: 0.002367
+Alignment Length: 98
+Percentage Identity: 0.214
+
+=== A0A896YSZ1 ===
+DE   SubName: Full=GIY-YIG endonuclease {ECO:0000313|EMBL:QSE34010.1};
+Bit Score: 127.0
+E-value: 0.002367
+Alignment Length: 93
+Percentage Identity: 0.225
+
+=== A0A2D6E4L4 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 158.0
+E-value: 0.002516
+Alignment Length: 92
+Percentage Identity: 0.217
+
+=== A0A534BNY9 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+DE   Flags: Fragment;
+Bit Score: 143.0
+E-value: 0.002516
+Alignment Length: 97
+Percentage Identity: 0.247
+
+=== A0A7X8JPZ8 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:NLK96809.1};
+Bit Score: 161.0
+E-value: 0.002674
+Alignment Length: 89
+Percentage Identity: 0.179
+
+=== A0A3M0S9K6 ===
+DE   SubName: Full=Endonuclease {ECO:0000313|EMBL:RMC95192.1};
+Bit Score: 148.0
+E-value: 0.002674
+Alignment Length: 94
+Percentage Identity: 0.202
+
+=== A0A7T6VRK4 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:QQK08788.1};
+Bit Score: 136.0
+E-value: 0.002674
+Alignment Length: 100
+Percentage Identity: 0.16
+
+=== A0A2N2JF89 ===
+DE   SubName: Full=LuxR family transcriptional regulator {ECO:0000313|EMBL:PKN55869.1};
+Bit Score: 111.0
+E-value: 0.002842
+Alignment Length: 109
+Percentage Identity: 0.229
+
+=== A0A3S0JG67 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 156.0
+E-value: 0.00302
+Alignment Length: 94
+Percentage Identity: 0.234
+
+=== Q637A6 ===
+DE   SubName: Full=GIY-YIG catalytic domain containing protein possible intron encoded endonuclease {ECO:0000313|EMBL:AAU16837.1};
+Bit Score: 149.0
+E-value: 0.00302
+Alignment Length: 92
+Percentage Identity: 0.195
+
+=== A0A1F7BPR3 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.00302
+Alignment Length: 99
+Percentage Identity: 0.212
+
+=== A0A1V5TFS7 ===
+DE   SubName: Full=GIY-YIG catalytic domain protein {ECO:0000313|EMBL:OQA65635.1};
+Bit Score: 123.0
+E-value: 0.00302
+Alignment Length: 116
+Percentage Identity: 0.155
+
+=== A0A4Z0QJ13 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 142.0
+E-value: 0.003209
+Alignment Length: 96
+Percentage Identity: 0.166
+
+=== A0A5C7M3K7 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 137.0
+E-value: 0.003209
+Alignment Length: 92
+Percentage Identity: 0.25
+
+=== B1C7C4 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 123.0
+E-value: 0.003209
+Alignment Length: 85
+Percentage Identity: 0.141
+
+=== A0A1M5SD57 ===
+DE   SubName: Full=Group I intron endonuclease {ECO:0000313|EMBL:SHH36527.1};
+Bit Score: 139.0
+E-value: 0.003411
+Alignment Length: 94
+Percentage Identity: 0.202
+
+=== A0A0F9KMM3 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 132.0
+E-value: 0.003411
+Alignment Length: 98
+Percentage Identity: 0.193
+
+=== A0A097KME3 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:AIT94361.1};
+Bit Score: 131.0
+E-value: 0.003411
+Alignment Length: 121
+Percentage Identity: 0.165
+
+=== A0A6M3M7F7 ===
+DE   SubName: Full=Putative endonuclease {ECO:0000313|EMBL:QJB03707.1};
+Bit Score: 126.0
+E-value: 0.003411
+Alignment Length: 100
+Percentage Identity: 0.19
+
+=== A0A521IR94 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 155.0
+E-value: 0.003625
+Alignment Length: 90
+Percentage Identity: 0.188
+
+=== A0A1W6EHL7 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:ARK14899.1};
+Bit Score: 154.0
+E-value: 0.003625
+Alignment Length: 91
+Percentage Identity: 0.197
+
+=== A0A1C8XRI7 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:AOH77110.1};
+Bit Score: 146.0
+E-value: 0.003625
+Alignment Length: 93
+Percentage Identity: 0.215
+
+=== A0A2Z4MAU0 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 157.0
+E-value: 0.003852
+Alignment Length: 91
+Percentage Identity: 0.197
+
+=== A0A5C7JB99 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 143.0
+E-value: 0.003852
+Alignment Length: 93
+Percentage Identity: 0.204
+
+=== A0A3S0U1L4 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 141.0
+E-value: 0.003852
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A6M3XC99 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 134.0
+E-value: 0.003852
+Alignment Length: 105
+Percentage Identity: 0.161
+
+=== A0A7X9DJT5 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:NMB69752.1};
+Bit Score: 131.0
+E-value: 0.003852
+Alignment Length: 102
+Percentage Identity: 0.186
+
+=== A0A2H4FMF3 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:AOY36052.1};
+Bit Score: 130.0
+E-value: 0.003852
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A0F9LZ39 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 124.0
+E-value: 0.003852
+Alignment Length: 106
+Percentage Identity: 0.179
+
+=== A0A0F9Q473 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 119.0
+E-value: 0.003852
+Alignment Length: 120
+Percentage Identity: 0.183
+
+=== A0A0S2LQG8 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:ALO63636.1};
+Bit Score: 140.0
+E-value: 0.004094
+Alignment Length: 96
+Percentage Identity: 0.166
+
+=== A0A1T1AP43 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 140.0
+E-value: 0.004094
+Alignment Length: 96
+Percentage Identity: 0.166
+
+=== A0A0F9B2N2 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 130.0
+E-value: 0.004094
+Alignment Length: 91
+Percentage Identity: 0.197
+
+=== A0A7C9BLI5 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 119.0
+E-value: 0.004094
+Alignment Length: 106
+Percentage Identity: 0.179
+
+=== A0A0S2LNY6 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:ALO63086.1};
+Bit Score: 152.0
+E-value: 0.00435
+Alignment Length: 91
+Percentage Identity: 0.175
+
+=== A0A4Q2USG9 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 137.0
+E-value: 0.00435
+Alignment Length: 102
+Percentage Identity: 0.196
+
+=== A0A6N7Y2U2 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 133.0
+E-value: 0.00435
+Alignment Length: 99
+Percentage Identity: 0.161
+
+=== A0A259TK29 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 158.0
+E-value: 0.004623
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A0F9FDD4 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 152.0
+E-value: 0.004623
+Alignment Length: 88
+Percentage Identity: 0.204
+
+=== A0A097KP45 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:AIT94984.1};
+Bit Score: 121.0
+E-value: 0.004623
+Alignment Length: 114
+Percentage Identity: 0.184
+
+=== A0A285SFW5 ===
+DE   SubName: Full=GIY-YIG catalytic domain-containing protein {ECO:0000313|EMBL:SOC06479.1};
+Bit Score: 119.0
+E-value: 0.004623
+Alignment Length: 115
+Percentage Identity: 0.147
+
+=== A0A4Q5PQA6 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:RYX96698.1};
+Bit Score: 118.0
+E-value: 0.004623
+Alignment Length: 100
+Percentage Identity: 0.19
+
+=== A0A7V9TYI7 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 116.0
+E-value: 0.004623
+Alignment Length: 104
+Percentage Identity: 0.192
+
+=== A0A3A4V568 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 144.0
+E-value: 0.004913
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A0S2LMY8 ===
+DE   SubName: Full=Putative GIY YIG homing endonuclease {ECO:0000313|EMBL:ALO62837.1};
+Bit Score: 133.0
+E-value: 0.004913
+Alignment Length: 99
+Percentage Identity: 0.202
+
+=== A0A0F9AB77 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+DE   Flags: Fragment;
+Bit Score: 130.0
+E-value: 0.004913
+Alignment Length: 94
+Percentage Identity: 0.191
+
+=== A0A0S2IBC7 ===
+DE   SubName: Full=Putative GIY YIG homing endonuclease {ECO:0000313|EMBL:ALO20953.1};
+Bit Score: 122.0
+E-value: 0.004913
+Alignment Length: 95
+Percentage Identity: 0.189
+
+=== A0A1G8CHU9 ===
+DE   SubName: Full=Group I intron endonuclease {ECO:0000313|EMBL:SDH45051.1};
+Bit Score: 121.0
+E-value: 0.004913
+Alignment Length: 92
+Percentage Identity: 0.239
+
+=== A0A0S2IDC7 ===
+DE   SubName: Full=Putative GIY YIG homing endonuclease {ECO:0000313|EMBL:ALO21550.1};
+Bit Score: 116.0
+E-value: 0.004913
+Alignment Length: 106
+Percentage Identity: 0.169
+
+=== A0A5C7P6D2 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 144.0
+E-value: 0.005221
+Alignment Length: 96
+Percentage Identity: 0.187
+
+=== A0A0F9RE68 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 143.0
+E-value: 0.005221
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A318II81 ===
+DE   RecName: Full=GIY-YIG catalytic domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 135.0
+E-value: 0.005221
+Alignment Length: 104
+Percentage Identity: 0.134
+
+=== A0A1Y6G081 ===
+DE   SubName: Full=GIY-YIG catalytic domain-containing protein {ECO:0000313|EMBL:SMQ81524.1};
+Bit Score: 131.0
+E-value: 0.005221
+Alignment Length: 86
+Percentage Identity: 0.197
+
+=== A0A7Z7IC48 ===
+DE   SubName: Full=GIY-YIG catalytic domain-containing protein {ECO:0000313|EMBL:SOE87961.1};
+Bit Score: 131.0
+E-value: 0.005221
+Alignment Length: 115
+Percentage Identity: 0.147
+
+=== A0A1E4BE62 ===
+DE   RecName: Full=LuxR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 128.0
+E-value: 0.005221
+Alignment Length: 100
+Percentage Identity: 0.21
+
+=== A0A3N0B599 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.005221
+Alignment Length: 95
+Percentage Identity: 0.21
+
+=== Q9ANR6 ===
+DE   SubName: Full=Intron encoded BmoI {ECO:0000313|EMBL:AAK09365.1};
+Bit Score: 152.0
+E-value: 0.005549
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== A0A0S2LNC9 ===
+DE   SubName: Full=Putative GIY YIG homing endonuclease {ECO:0000313|EMBL:ALO62839.1};
+Bit Score: 148.0
+E-value: 0.005549
+Alignment Length: 93
+Percentage Identity: 0.204
+
+=== A0A4Z0CA26 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:TFZ07844.1};
+Bit Score: 130.0
+E-value: 0.005549
+Alignment Length: 92
+Percentage Identity: 0.228
+
+=== A0A5C7JI92 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 129.0
+E-value: 0.005549
+Alignment Length: 81
+Percentage Identity: 0.234
+
+=== A0A5C7LIY5 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 128.0
+E-value: 0.005549
+Alignment Length: 106
+Percentage Identity: 0.179
+
+=== A0A3N5DK81 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 127.0
+E-value: 0.005549
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A4Q5TT04 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 123.0
+E-value: 0.005549
+Alignment Length: 99
+Percentage Identity: 0.202
+
+=== A0A0F9IUP7 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 118.0
+E-value: 0.005549
+Alignment Length: 120
+Percentage Identity: 0.216
+
+=== A0A6S7B2G0 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 143.0
+E-value: 0.005897
+Alignment Length: 95
+Percentage Identity: 0.2
+
+=== A0A2M9T7S9 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 136.0
+E-value: 0.005897
+Alignment Length: 94
+Percentage Identity: 0.18
+
+=== A0A084XW75 ===
+DE   SubName: Full=Group I intron endonuclease {ECO:0000313|EMBL:KFB66719.1};
+Bit Score: 120.0
+E-value: 0.005897
+Alignment Length: 84
+Percentage Identity: 0.178
+
+=== A0A0S2LPS7 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:ALO63403.1};
+Bit Score: 146.0
+E-value: 0.006267
+Alignment Length: 91
+Percentage Identity: 0.153
+
+=== A0A7V9Q8H1 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:MBA2647712.1};
+Bit Score: 138.0
+E-value: 0.006267
+Alignment Length: 99
+Percentage Identity: 0.171
+
+=== A0A1F7BPK5 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 137.0
+E-value: 0.006267
+Alignment Length: 90
+Percentage Identity: 0.244
+
+=== A0A6S6XNH3 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 135.0
+E-value: 0.006267
+Alignment Length: 98
+Percentage Identity: 0.224
+
+=== A0A4Q5NNA7 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 135.0
+E-value: 0.006267
+Alignment Length: 98
+Percentage Identity: 0.183
+
+=== A0A0G0M2D8 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 130.0
+E-value: 0.006267
+Alignment Length: 94
+Percentage Identity: 0.17
+
+=== Q3ZJ44 ===
+DE   SubName: Full=Putative site-specific DNA endonuclease {ECO:0000313|EMBL:AAV80646.1};
+Bit Score: 145.0
+E-value: 0.00666
+Alignment Length: 94
+Percentage Identity: 0.191
+
+=== A0A0S2IBU7 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:ALO21030.1};
+Bit Score: 142.0
+E-value: 0.00666
+Alignment Length: 95
+Percentage Identity: 0.2
+
+=== A0A1B2RZA7 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:AOC61647.1};
+Bit Score: 141.0
+E-value: 0.00666
+Alignment Length: 96
+Percentage Identity: 0.135
+
+=== A0A142BYF8 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:AMP43450.1};
+Bit Score: 137.0
+E-value: 0.00666
+Alignment Length: 104
+Percentage Identity: 0.163
+
+=== A0A534BAI3 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+DE   Flags: Fragment;
+Bit Score: 131.0
+E-value: 0.00666
+Alignment Length: 98
+Percentage Identity: 0.193
+
+=== A0A2G5R1S8 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 120.0
+E-value: 0.00666
+Alignment Length: 106
+Percentage Identity: 0.188
+
+=== A0A3C1F1C5 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 147.0
+E-value: 0.007078
+Alignment Length: 93
+Percentage Identity: 0.161
+
+=== A0A100HQP6 ===
+DE   SubName: Full=GIY-YIG catalytic domain containing protein {ECO:0000313|EMBL:GAQ23914.1};
+Bit Score: 137.0
+E-value: 0.007078
+Alignment Length: 96
+Percentage Identity: 0.229
+
+=== A0A7J2R110 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 136.0
+E-value: 0.007078
+Alignment Length: 91
+Percentage Identity: 0.186
+
+=== U4T908 ===
+DE   SubName: Full=GIY-YIG catalytic domain containing protein {ECO:0000313|EMBL:ERL54968.1};
+Bit Score: 135.0
+E-value: 0.007078
+Alignment Length: 92
+Percentage Identity: 0.152
+
+=== A0A7W1XDD0 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:MBA4544592.1};
+Bit Score: 129.0
+E-value: 0.007078
+Alignment Length: 87
+Percentage Identity: 0.218
+
+=== A0A348V963 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 123.0
+E-value: 0.007078
+Alignment Length: 82
+Percentage Identity: 0.292
+
+=== A0A3Q9RKB3 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 138.0
+E-value: 0.007522
+Alignment Length: 89
+Percentage Identity: 0.179
+
+=== A0A3S0BY30 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 130.0
+E-value: 0.007522
+Alignment Length: 100
+Percentage Identity: 0.21
+
+=== A0A6B3SUX1 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:NEX64850.1};
+Bit Score: 129.0
+E-value: 0.007522
+Alignment Length: 92
+Percentage Identity: 0.217
+
+=== A0A2U8GIB9 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:AWI68422.1};
+Bit Score: 129.0
+E-value: 0.007522
+Alignment Length: 109
+Percentage Identity: 0.174
+
+=== A0A6J5CAB9 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 122.0
+E-value: 0.007522
+Alignment Length: 97
+Percentage Identity: 0.226
+
+=== A0A257J5T4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OYU70403.1};
+Bit Score: 119.0
+E-value: 0.007522
+Alignment Length: 90
+Percentage Identity: 0.2
+
+=== D3DZI3 ===
+DE   RecName: Full=DUF4145 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 118.0
+E-value: 0.007522
+Alignment Length: 97
+Percentage Identity: 0.164
+
+=== A0A0S2LQM8 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:ALO63562.1};
+Bit Score: 113.0
+E-value: 0.007522
+Alignment Length: 111
+Percentage Identity: 0.162
+
+=== A0A0F9C8Y0 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+DE   Flags: Fragment;
+Bit Score: 139.0
+E-value: 0.007994
+Alignment Length: 76
+Percentage Identity: 0.197
+
+=== A0A2D5TJ64 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 134.0
+E-value: 0.007994
+Alignment Length: 78
+Percentage Identity: 0.205
+
+=== A0A562QYS2 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 130.0
+E-value: 0.007994
+Alignment Length: 90
+Percentage Identity: 0.177
+
+=== A0A846V059 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 129.0
+E-value: 0.007994
+Alignment Length: 96
+Percentage Identity: 0.166
+
+=== A0A7C9RGB6 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:NGX96337.1};
+Bit Score: 143.0
+E-value: 0.008495
+Alignment Length: 89
+Percentage Identity: 0.191
+
+=== A0A212S7W2 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.008495
+Alignment Length: 90
+Percentage Identity: 0.166
+
+=== A0A5M9TWG5 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 132.0
+E-value: 0.008495
+Alignment Length: 94
+Percentage Identity: 0.18
+
+=== X1FAB9 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+DE   Flags: Fragment;
+Bit Score: 131.0
+E-value: 0.008495
+Alignment Length: 79
+Percentage Identity: 0.189
+
+=== A0A2S0PB77 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 128.0
+E-value: 0.008495
+Alignment Length: 95
+Percentage Identity: 0.21
+
+=== A0A1G3LKX9 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 128.0
+E-value: 0.008495
+Alignment Length: 99
+Percentage Identity: 0.181
+
+=== A0A3D2EYS1 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 126.0
+E-value: 0.008495
+Alignment Length: 90
+Percentage Identity: 0.2
+
+=== A0A2N3F405 ===
+DE   SubName: Full=LuxR family transcriptional regulator {ECO:0000313|EMBL:PKQ15267.1};
+Bit Score: 115.0
+E-value: 0.008495
+Alignment Length: 107
+Percentage Identity: 0.196
+
+=== A0A097KP96 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:AIT94982.1};
+Bit Score: 132.0
+E-value: 0.009028
+Alignment Length: 107
+Percentage Identity: 0.177
+
+=== A0A3C1F125 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 126.0
+E-value: 0.009028
+Alignment Length: 98
+Percentage Identity: 0.214
+
+=== A0A1V4HS04 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 118.0
+E-value: 0.009028
+Alignment Length: 82
+Percentage Identity: 0.243
+
+=== A0A7W5FQ06 ===
+DE   SubName: Full=Aspartate/tyrosine/aromatic aminotransferase {ECO:0000313|EMBL:MBB3112991.1};
+Bit Score: 106.0
+E-value: 0.009028
+Alignment Length: 122
+Percentage Identity: 0.172
+
+=== A0A317UCE9 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 143.0
+E-value: 0.009595
+Alignment Length: 91
+Percentage Identity: 0.164
+
+=== A0A0T1WVE9 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 139.0
+E-value: 0.009595
+Alignment Length: 73
+Percentage Identity: 0.246
+
+=== A0A2E9XCL0 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 133.0
+E-value: 0.009595
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A844MW61 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 123.0
+E-value: 0.009595
+Alignment Length: 86
+Percentage Identity: 0.267
+
+=== A0A848K573 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.009595
+Alignment Length: 87
+Percentage Identity: 0.264
+
+=== A0A4Y9RLT8 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:TFW10267.1};
+Bit Score: 116.0
+E-value: 0.009595
+Alignment Length: 91
+Percentage Identity: 0.175
+
+=== A0A126QYG4 ===
+DE   SubName: Full=Group I intron GIY-YIG endonuclease {ECO:0000313|EMBL:AMK14842.1};
+Bit Score: 144.0
+E-value: 0.0102
+Alignment Length: 88
+Percentage Identity: 0.147
+
+=== A0A1H0VNR2 ===
+DE   SubName: Full=Group I intron endonuclease {ECO:0000313|EMBL:SDP80242.1};
+Bit Score: 139.0
+E-value: 0.0102
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A2A8ZRS6 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 136.0
+E-value: 0.0102
+Alignment Length: 92
+Percentage Identity: 0.195
+
+=== A0A318S5G1 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.0102
+Alignment Length: 103
+Percentage Identity: 0.194
+
+=== A0A0S2IE11 ===
+DE   SubName: Full=Putative GIY YIG homing endonuclease {ECO:0000313|EMBL:ALO21551.1};
+Bit Score: 133.0
+E-value: 0.0102
+Alignment Length: 95
+Percentage Identity: 0.189
+
+=== A0A246BJ62 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 132.0
+E-value: 0.0102
+Alignment Length: 95
+Percentage Identity: 0.2
+
+=== A0A5R9E079 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:TLQ41435.1};
+Bit Score: 129.0
+E-value: 0.0102
+Alignment Length: 103
+Percentage Identity: 0.145
+
+=== A0A1Q3WST3 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 126.0
+E-value: 0.0102
+Alignment Length: 96
+Percentage Identity: 0.166
+
+=== A0A6M0ILK0 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:NEU67773.1};
+Bit Score: 125.0
+E-value: 0.0102
+Alignment Length: 95
+Percentage Identity: 0.189
+
+=== A0A1E8GIV2 ===
+DE   RecName: Full=LuxR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.0102
+Alignment Length: 99
+Percentage Identity: 0.171
+
+=== A0A3A9GBF8 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 117.0
+E-value: 0.0102
+Alignment Length: 83
+Percentage Identity: 0.253
+
+=== A0A6M3LWL7 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+DE   Flags: Fragment;
+Bit Score: 116.0
+E-value: 0.0102
+Alignment Length: 89
+Percentage Identity: 0.179
+
+=== Q20ET1 ===
+DE   SubName: Full=Putative site-specific DNA endonuclease {ECO:0000313|EMBL:ABB81982.1};
+Bit Score: 106.0
+E-value: 0.0102
+Alignment Length: 110
+Percentage Identity: 0.154
+
+=== A0A7C6WW50 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:HHX23826.1};
+Bit Score: 122.0
+E-value: 0.01084
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A7C7EKZ3 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:HHZ02294.1};
+Bit Score: 121.0
+E-value: 0.01084
+Alignment Length: 95
+Percentage Identity: 0.168
+
+=== A0A0S2LNM2 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:ALO63008.1};
+Bit Score: 119.0
+E-value: 0.01084
+Alignment Length: 104
+Percentage Identity: 0.182
+
+=== A0A7W5FME6 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 102.0
+E-value: 0.01084
+Alignment Length: 123
+Percentage Identity: 0.154
+
+=== A0A7K1CUT1 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 127.0
+E-value: 0.01152
+Alignment Length: 94
+Percentage Identity: 0.17
+
+=== A0A7W1XAD3 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:MBA4542918.1};
+Bit Score: 125.0
+E-value: 0.01152
+Alignment Length: 87
+Percentage Identity: 0.229
+
+=== A0A1W6EHB8 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:ARK14812.1};
+Bit Score: 123.0
+E-value: 0.01152
+Alignment Length: 102
+Percentage Identity: 0.156
+
+=== A0A7C7D7L0 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:HHY28272.1};
+Bit Score: 122.0
+E-value: 0.01152
+Alignment Length: 96
+Percentage Identity: 0.135
+
+=== A0A097KN84 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:AIT94654.1};
+Bit Score: 119.0
+E-value: 0.01152
+Alignment Length: 109
+Percentage Identity: 0.165
+
+=== A0A100HG94 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 136.0
+E-value: 0.01224
+Alignment Length: 87
+Percentage Identity: 0.195
+
+=== A0A0F9JZ03 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+DE   Flags: Fragment;
+Bit Score: 132.0
+E-value: 0.01224
+Alignment Length: 77
+Percentage Identity: 0.194
+
+=== A0A3R6M162 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 128.0
+E-value: 0.01224
+Alignment Length: 97
+Percentage Identity: 0.175
+
+=== A0A4S4B4M7 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 127.0
+E-value: 0.01224
+Alignment Length: 81
+Percentage Identity: 0.209
+
+=== B4RFE6 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.01224
+Alignment Length: 101
+Percentage Identity: 0.198
+
+=== A0A7G8W122 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:QNK74065.1};
+Bit Score: 120.0
+E-value: 0.01224
+Alignment Length: 92
+Percentage Identity: 0.206
+
+=== A0A0F9S206 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 117.0
+E-value: 0.01224
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== A0A1S8FMV0 ===
+DE   RecName: Full=ArsR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 110.0
+E-value: 0.01224
+Alignment Length: 98
+Percentage Identity: 0.173
+
+=== A0A1W6EHK6 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:ARK14897.1};
+Bit Score: 136.0
+E-value: 0.01301
+Alignment Length: 93
+Percentage Identity: 0.182
+
+=== A0A518VCR6 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 125.0
+E-value: 0.01301
+Alignment Length: 97
+Percentage Identity: 0.175
+
+=== A0A315ZYP3 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.01301
+Alignment Length: 99
+Percentage Identity: 0.181
+
+=== A0A7G7FXK7 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:QNF29641.1};
+Bit Score: 110.0
+E-value: 0.01301
+Alignment Length: 98
+Percentage Identity: 0.163
+
+=== A0A843GIP4 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:MBO7692970.1};
+Bit Score: 141.0
+E-value: 0.01382
+Alignment Length: 88
+Percentage Identity: 0.181
+
+=== A0A6C0LHB1 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 134.0
+E-value: 0.01382
+Alignment Length: 94
+Percentage Identity: 0.18
+
+=== A0A1G3M0A2 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 134.0
+E-value: 0.01382
+Alignment Length: 87
+Percentage Identity: 0.149
+
+=== A0A2K9YRS0 ===
+DE   SubName: Full=GIY-YIG endonuclease {ECO:0000313|EMBL:AUW36441.1};
+Bit Score: 125.0
+E-value: 0.01382
+Alignment Length: 90
+Percentage Identity: 0.188
+
+=== A0A0F9BDS1 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 124.0
+E-value: 0.01382
+Alignment Length: 94
+Percentage Identity: 0.191
+
+=== A0A0G0LYM2 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 118.0
+E-value: 0.01382
+Alignment Length: 80
+Percentage Identity: 0.187
+
+=== A0A173MLK6 ===
+DE   RecName: Full=LuxR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 118.0
+E-value: 0.01382
+Alignment Length: 105
+Percentage Identity: 0.152
+
+=== K6VAG0 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 116.0
+E-value: 0.01382
+Alignment Length: 87
+Percentage Identity: 0.264
+
+=== A0A257SNQ3 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 109.0
+E-value: 0.01382
+Alignment Length: 88
+Percentage Identity: 0.181
+
+=== A0A7K1SKD2 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 108.0
+E-value: 0.01382
+Alignment Length: 109
+Percentage Identity: 0.192
+
+=== Q93L78 ===
+DE   SubName: Full=Putative GIY-YIG endonuclease {ECO:0000313|EMBL:CAC51107.1};
+Bit Score: 138.0
+E-value: 0.01469
+Alignment Length: 90
+Percentage Identity: 0.2
+
+=== M5NYR2 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 128.0
+E-value: 0.01469
+Alignment Length: 91
+Percentage Identity: 0.175
+
+=== A7HP25 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 123.0
+E-value: 0.01469
+Alignment Length: 91
+Percentage Identity: 0.175
+
+=== A0A515EQW8 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:QDL55053.1};
+Bit Score: 114.0
+E-value: 0.01469
+Alignment Length: 102
+Percentage Identity: 0.176
+
+=== A0A1C8XRL1 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:AOH77126.1};
+Bit Score: 107.0
+E-value: 0.01469
+Alignment Length: 100
+Percentage Identity: 0.13
+
+=== A0A7W8CRP8 ===
+DE   SubName: Full=Group I intron endonuclease {ECO:0000313|EMBL:MBB5180321.1};
+Bit Score: 133.0
+E-value: 0.01561
+Alignment Length: 90
+Percentage Identity: 0.211
+
+=== A0A7Y2SNT8 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:NNJ11235.1};
+Bit Score: 133.0
+E-value: 0.01561
+Alignment Length: 95
+Percentage Identity: 0.126
+
+=== D6TZN2 ===
+DE   SubName: Full=Group I intron endonuclease {ECO:0000313|EMBL:EFH82022.1};
+Bit Score: 127.0
+E-value: 0.01561
+Alignment Length: 90
+Percentage Identity: 0.177
+
+=== A0A1W6EHJ7 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:ARK14894.1};
+Bit Score: 126.0
+E-value: 0.01561
+Alignment Length: 98
+Percentage Identity: 0.173
+
+=== A0A6I1HL78 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:KAB8059344.1};
+Bit Score: 122.0
+E-value: 0.01561
+Alignment Length: 88
+Percentage Identity: 0.181
+
+=== A0A2N1VYR8 ===
+DE   SubName: Full=Excinuclease ABC subunit C {ECO:0000313|EMBL:PKL89616.1};
+Bit Score: 120.0
+E-value: 0.01561
+Alignment Length: 102
+Percentage Identity: 0.196
+
+=== A0A534CXU5 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 119.0
+E-value: 0.01561
+Alignment Length: 104
+Percentage Identity: 0.211
+
+=== A0A255YAR8 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 116.0
+E-value: 0.01561
+Alignment Length: 87
+Percentage Identity: 0.206
+
+=== A0A503WGY8 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:TPM28747.1};
+Bit Score: 111.0
+E-value: 0.01561
+Alignment Length: 90
+Percentage Identity: 0.2
+
+=== A0A259TK15 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 94.0
+E-value: 0.01561
+Alignment Length: 113
+Percentage Identity: 0.185
+
+=== A0A1V5X5G0 ===
+DE   SubName: Full=GIY-YIG catalytic domain protein {ECO:0000313|EMBL:OQB10831.1};
+Bit Score: 135.0
+E-value: 0.01659
+Alignment Length: 79
+Percentage Identity: 0.202
+
+=== A0A4R8GQV1 ===
+DE   SubName: Full=GIY-YIG catalytic domain-containing protein {ECO:0000313|EMBL:TDX47178.1};
+Bit Score: 127.0
+E-value: 0.01659
+Alignment Length: 92
+Percentage Identity: 0.184
+
+=== A0A1I3LH54 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 125.0
+E-value: 0.01659
+Alignment Length: 89
+Percentage Identity: 0.168
+
+=== A0A1B2RZ85 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:AOC61651.1};
+Bit Score: 121.0
+E-value: 0.01659
+Alignment Length: 96
+Percentage Identity: 0.145
+
+=== A0A2M7CN94 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 116.0
+E-value: 0.01659
+Alignment Length: 82
+Percentage Identity: 0.17
+
+=== A0A845ZWE8 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:NEQ29615.1};
+Bit Score: 113.0
+E-value: 0.01659
+Alignment Length: 89
+Percentage Identity: 0.191
+
+=== J2L547 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.01659
+Alignment Length: 102
+Percentage Identity: 0.215
+
+=== A0A259CYK1 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 138.0
+E-value: 0.01763
+Alignment Length: 87
+Percentage Identity: 0.149
+
+=== A0A7U9XBA3 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 126.0
+E-value: 0.01763
+Alignment Length: 92
+Percentage Identity: 0.173
+
+=== A0A7X6DJN6 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:NKE68407.1};
+Bit Score: 126.0
+E-value: 0.01763
+Alignment Length: 91
+Percentage Identity: 0.164
+
+=== A0A7J2QZH9 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 125.0
+E-value: 0.01763
+Alignment Length: 95
+Percentage Identity: 0.168
+
+=== A0A0F9RA46 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 123.0
+E-value: 0.01763
+Alignment Length: 98
+Percentage Identity: 0.173
+
+=== A0A415MEB1 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 123.0
+E-value: 0.01763
+Alignment Length: 99
+Percentage Identity: 0.171
+
+=== A0A2U1C2D1 ===
+DE   RecName: Full=GIY-YIG catalytic domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.01763
+Alignment Length: 104
+Percentage Identity: 0.153
+
+=== A0A352Z3W4 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 115.0
+E-value: 0.01763
+Alignment Length: 93
+Percentage Identity: 0.161
+
+=== A0A2K9YRJ9 ===
+DE   SubName: Full=Group I intron GIY-YIG endonuclease {ECO:0000313|EMBL:AUW36442.1};
+Bit Score: 111.0
+E-value: 0.01763
+Alignment Length: 97
+Percentage Identity: 0.185
+
+=== K4IWX8 ===
+DE   SubName: Full=Group I intron endonuclease {ECO:0000313|EMBL:AFU69955.1};
+Bit Score: 111.0
+E-value: 0.01763
+Alignment Length: 92
+Percentage Identity: 0.141
+
+=== R4KDE5 ===
+DE   SubName: Full=Putative endonuclease {ECO:0000313|EMBL:AGK97645.1};
+Bit Score: 102.0
+E-value: 0.01763
+Alignment Length: 98
+Percentage Identity: 0.214
+
+=== A0A650ANT6 ===
+DE   SubName: Full=Endonuclease protein {ECO:0000313|EMBL:QGN75048.1};
+Bit Score: 132.0
+E-value: 0.01874
+Alignment Length: 99
+Percentage Identity: 0.131
+
+=== A0A519PLZ0 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:RZJ87279.1};
+Bit Score: 122.0
+E-value: 0.01874
+Alignment Length: 91
+Percentage Identity: 0.186
+
+=== A0A0S8FLX4 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.01874
+Alignment Length: 91
+Percentage Identity: 0.208
+
+=== A0A1W6EHS1 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:ARK14895.1};
+Bit Score: 116.0
+E-value: 0.01874
+Alignment Length: 106
+Percentage Identity: 0.179
+
+=== A0A2D6XL78 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 112.0
+E-value: 0.01874
+Alignment Length: 99
+Percentage Identity: 0.232
+
+=== A0A1Q7RID1 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 111.0
+E-value: 0.01874
+Alignment Length: 106
+Percentage Identity: 0.169
+
+=== G8QVG1 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 110.0
+E-value: 0.01874
+Alignment Length: 103
+Percentage Identity: 0.165
+
+=== A0A7W9ZFB2 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 105.0
+E-value: 0.01874
+Alignment Length: 100
+Percentage Identity: 0.16
+
+=== A0A5C7JL94 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 127.0
+E-value: 0.01991
+Alignment Length: 87
+Percentage Identity: 0.16
+
+=== A0A2N3H0A7 ===
+DE   SubName: Full=LuxR family transcriptional regulator {ECO:0000313|EMBL:PKQ38363.1};
+Bit Score: 118.0
+E-value: 0.01991
+Alignment Length: 85
+Percentage Identity: 0.223
+
+=== A0A1B9YWU4 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.01991
+Alignment Length: 90
+Percentage Identity: 0.177
+
+=== A0A4R2GQB2 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 113.0
+E-value: 0.01991
+Alignment Length: 92
+Percentage Identity: 0.195
+
+=== A0A4R2S7Y6 ===
+DE   SubName: Full=GIY-YIG catalytic domain-containing protein {ECO:0000313|EMBL:TCP68521.1};
+Bit Score: 111.0
+E-value: 0.01991
+Alignment Length: 103
+Percentage Identity: 0.213
+
+=== A0A7Y7M5S9 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:NVN12235.1};
+Bit Score: 110.0
+E-value: 0.01991
+Alignment Length: 85
+Percentage Identity: 0.152
+
+=== A0A6N2V7S1 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.01991
+Alignment Length: 104
+Percentage Identity: 0.134
+
+=== C9L7B8 ===
+DE   SubName: Full=Group I intron endonuclease {ECO:0000313|EMBL:EEX22002.1};
+Bit Score: 126.0
+E-value: 0.02116
+Alignment Length: 91
+Percentage Identity: 0.164
+
+=== A0A1Q7RHB7 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 122.0
+E-value: 0.02116
+Alignment Length: 93
+Percentage Identity: 0.215
+
+=== A0A7Y5T2G9 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:NUQ81893.1};
+Bit Score: 121.0
+E-value: 0.02116
+Alignment Length: 101
+Percentage Identity: 0.178
+
+=== A0A0U3P9G2 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 120.0
+E-value: 0.02116
+Alignment Length: 92
+Percentage Identity: 0.195
+
+=== I0BHM4 ===
+DE   RecName: Full=DUF2087 domain-containing protein {ECO:0000259|Pfam:PF09860};
+Bit Score: 110.0
+E-value: 0.02116
+Alignment Length: 87
+Percentage Identity: 0.206
+
+=== A0A2D8RX78 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.02116
+Alignment Length: 89
+Percentage Identity: 0.146
+
+=== A0A366HCJ3 ===
+DE   SubName: Full=Group I intron endonuclease {ECO:0000313|EMBL:RBP39282.1};
+Bit Score: 124.0
+E-value: 0.02249
+Alignment Length: 90
+Percentage Identity: 0.222
+
+=== A0A2D5ZHY0 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 123.0
+E-value: 0.02249
+Alignment Length: 89
+Percentage Identity: 0.191
+
+=== A0A1C5MKK3 ===
+DE   SubName: Full=Group I intron endonuclease {ECO:0000313|EMBL:SCH13040.1};
+Bit Score: 123.0
+E-value: 0.02249
+Alignment Length: 90
+Percentage Identity: 0.177
+
+=== A0A1G4FMY2 ===
+DE   SubName: Full=Group I intron endonuclease {ECO:0000313|EMBL:SCL93769.1};
+Bit Score: 115.0
+E-value: 0.02249
+Alignment Length: 101
+Percentage Identity: 0.138
+
+=== A0A2E2M5V5 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.02249
+Alignment Length: 101
+Percentage Identity: 0.148
+
+=== A0A2N6IPX6 ===
+DE   SubName: Full=LuxR family transcriptional regulator {ECO:0000313|EMBL:PLY47475.1};
+Bit Score: 110.0
+E-value: 0.02249
+Alignment Length: 96
+Percentage Identity: 0.166
+
+=== A0A502GW00 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 110.0
+E-value: 0.02249
+Alignment Length: 97
+Percentage Identity: 0.144
+
+=== A0A7X5ISP2 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:NBI84215.1};
+Bit Score: 105.0
+E-value: 0.02249
+Alignment Length: 104
+Percentage Identity: 0.182
+
+=== A0A6M3IEQ2 ===
+DE   SubName: Full=Putative endonuclease {ECO:0000313|EMBL:QJA55895.1};
+Bit Score: 104.0
+E-value: 0.02249
+Alignment Length: 84
+Percentage Identity: 0.214
+
+=== A0A0F9HZZ9 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 125.0
+E-value: 0.0239
+Alignment Length: 65
+Percentage Identity: 0.23
+
+=== A0A2X3AFQ7 ===
+DE   SubName: Full=Group I intron endonuclease {ECO:0000313|EMBL:SQB60910.1};
+Bit Score: 119.0
+E-value: 0.0239
+Alignment Length: 97
+Percentage Identity: 0.134
+
+=== A0A414ZRA0 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 114.0
+E-value: 0.0239
+Alignment Length: 103
+Percentage Identity: 0.213
+
+=== W7Z490 ===
+DE   SubName: Full=Transcriptional regulator {ECO:0000313|EMBL:GAF09169.1};
+Bit Score: 105.0
+E-value: 0.0239
+Alignment Length: 90
+Percentage Identity: 0.222
+
+=== A0A1R1GQJ3 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|Pfam:PF01541};
+Bit Score: 103.0
+E-value: 0.0239
+Alignment Length: 90
+Percentage Identity: 0.211
+
+=== A0A848CXF7 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 101.0
+E-value: 0.0239
+Alignment Length: 127
+Percentage Identity: 0.173
+
+=== A0A511NBJ6 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.0239
+Alignment Length: 111
+Percentage Identity: 0.171
+
+=== A0A3D5H8C2 ===
+DE   SubName: Full=LuxR family transcriptional regulator {ECO:0000313|EMBL:HCV42962.1};
+Bit Score: 100.0
+E-value: 0.0239
+Alignment Length: 110
+Percentage Identity: 0.154
+
+=== H5Y583 ===
+DE   SubName: Full=Group I intron endonuclease {ECO:0000313|EMBL:EHQ90187.1};
+Bit Score: 129.0
+E-value: 0.0254
+Alignment Length: 88
+Percentage Identity: 0.17
+
+=== A0A418N8R8 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:RIV71128.1};
+Bit Score: 118.0
+E-value: 0.0254
+Alignment Length: 91
+Percentage Identity: 0.153
+
+=== F0RQ89 ===
+DE   SubName: Full=Type III restriction protein res subunit {ECO:0000313|EMBL:ADY27448.1};
+Bit Score: 116.0
+E-value: 0.0254
+Alignment Length: 90
+Percentage Identity: 0.155
+
+=== A0A4Y8SYA7 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 112.0
+E-value: 0.0254
+Alignment Length: 100
+Percentage Identity: 0.17
+
+=== A0A317U8P7 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 109.0
+E-value: 0.0254
+Alignment Length: 104
+Percentage Identity: 0.221
+
+=== A0A7C1RHZ1 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+DE   Flags: Fragment;
+Bit Score: 104.0
+E-value: 0.0254
+Alignment Length: 95
+Percentage Identity: 0.189
+
+=== A0A3D4VTB3 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 118.0
+E-value: 0.02699
+Alignment Length: 93
+Percentage Identity: 0.172
+
+=== A0A1V5P7R9 ===
+DE   SubName: Full=NUMOD3 motif (2 copies) {ECO:0000313|EMBL:OQA13819.1};
+Bit Score: 118.0
+E-value: 0.02699
+Alignment Length: 84
+Percentage Identity: 0.154
+
+=== A0A4Q7YP68 ===
+DE   SubName: Full=Group I intron endonuclease {ECO:0000313|EMBL:RZU39178.1};
+Bit Score: 115.0
+E-value: 0.02699
+Alignment Length: 101
+Percentage Identity: 0.138
+
+=== A0A6F8UPT6 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.02699
+Alignment Length: 78
+Percentage Identity: 0.166
+
+=== A0A259MR05 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 114.0
+E-value: 0.02699
+Alignment Length: 97
+Percentage Identity: 0.164
+
+=== A0A858AU65 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:QHX37031.1};
+Bit Score: 112.0
+E-value: 0.02699
+Alignment Length: 98
+Percentage Identity: 0.193
+
+=== A0A520E927 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:RZL66232.1};
+Bit Score: 112.0
+E-value: 0.02699
+Alignment Length: 101
+Percentage Identity: 0.188
+
+=== A0A0H3JAH2 ===
+DE   SubName: Full=Endonuclease {ECO:0000313|EMBL:AJA53536.1};
+DE   SubName: Full=Excinuclease ABC C subunit domain protein {ECO:0000313|EMBL:KRU14439.1};
+Bit Score: 110.0
+E-value: 0.02699
+Alignment Length: 91
+Percentage Identity: 0.208
+
+=== A0A645HJF6 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.02699
+Alignment Length: 88
+Percentage Identity: 0.136
+
+=== A0A1V5RTJ9 ===
+DE   SubName: Full=GIY-YIG catalytic domain protein {ECO:0000313|EMBL:OQA45548.1};
+Bit Score: 98.0
+E-value: 0.02699
+Alignment Length: 99
+Percentage Identity: 0.222
+
+=== A0A3N9VF28 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:RQW81946.1};
+Bit Score: 97.0
+E-value: 0.02699
+Alignment Length: 91
+Percentage Identity: 0.131
+
+=== A0A0S2LN37 ===
+DE   SubName: Full=Putative GIY YIG homing endonuclease {ECO:0000313|EMBL:ALO62831.1};
+Bit Score: 127.0
+E-value: 0.02868
+Alignment Length: 93
+Percentage Identity: 0.204
+
+=== A0A7C1VR11 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 125.0
+E-value: 0.02868
+Alignment Length: 85
+Percentage Identity: 0.164
+
+=== A0A2K4ZKN7 ===
+DE   SubName: Full=GIY-YIG catalytic domain protein {ECO:0000313|EMBL:SOY31010.1};
+Bit Score: 113.0
+E-value: 0.02868
+Alignment Length: 111
+Percentage Identity: 0.153
+
+=== A0A068SLE6 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.02868
+Alignment Length: 87
+Percentage Identity: 0.172
+
+=== A0A0L6JHL3 ===
+DE   SubName: Full=Excinuclease ABC C subunit domain protein {ECO:0000313|EMBL:KNY24982.1};
+Bit Score: 106.0
+E-value: 0.02868
+Alignment Length: 96
+Percentage Identity: 0.145
+
+=== A0A6I6CA20 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:QGS52396.1};
+Bit Score: 104.0
+E-value: 0.02868
+Alignment Length: 99
+Percentage Identity: 0.171
+
+=== A0A2P8KLA8 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 103.0
+E-value: 0.02868
+Alignment Length: 96
+Percentage Identity: 0.166
+
+=== A0A401IA25 ===
+DE   RecName: Full=LuxR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 99.0
+E-value: 0.02868
+Alignment Length: 112
+Percentage Identity: 0.178
+
+=== A0A081BPM5 ===
+DE   SubName: Full=Transcriptional regulator, ArsR family {ECO:0000313|EMBL:GAK52341.1};
+Bit Score: 122.0
+E-value: 0.03048
+Alignment Length: 97
+Percentage Identity: 0.206
+
+=== A0A5C7LN14 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 121.0
+E-value: 0.03048
+Alignment Length: 97
+Percentage Identity: 0.195
+
+=== A0A0Q5MHR1 ===
+DE   RecName: Full=ArsR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.03048
+Alignment Length: 95
+Percentage Identity: 0.157
+
+=== A0A1V5KBB5 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 117.0
+E-value: 0.03048
+Alignment Length: 89
+Percentage Identity: 0.157
+
+=== A0A5C7LPF8 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 115.0
+E-value: 0.03048
+Alignment Length: 106
+Percentage Identity: 0.179
+
+=== A0A0G0I321 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 112.0
+E-value: 0.03048
+Alignment Length: 92
+Percentage Identity: 0.206
+
+=== A0A0C7G745 ===
+DE   SubName: Full=Nuclease {ECO:0000313|EMBL:CEQ03568.1};
+Bit Score: 103.0
+E-value: 0.03048
+Alignment Length: 85
+Percentage Identity: 0.164
+
+=== A0A6A3MKS9 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 91.0
+E-value: 0.03048
+Alignment Length: 92
+Percentage Identity: 0.195
+
+=== A0A1N6PW76 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.0324
+Alignment Length: 90
+Percentage Identity: 0.144
+
+=== A0A645G270 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.0324
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A1X7NHW8 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 111.0
+E-value: 0.0324
+Alignment Length: 92
+Percentage Identity: 0.217
+
+=== A0A0U5B3A4 ===
+DE   SubName: Full=NUMOD3 motif protein {ECO:0000313|EMBL:BAU27807.1};
+Bit Score: 111.0
+E-value: 0.0324
+Alignment Length: 94
+Percentage Identity: 0.18
+
+=== A0A3D1JN42 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.0324
+Alignment Length: 86
+Percentage Identity: 0.197
+
+=== A0A2S0U456 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 98.0
+E-value: 0.0324
+Alignment Length: 98
+Percentage Identity: 0.142
+
+=== A0A4Q2WSE8 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|Pfam:PF01541};
+Bit Score: 96.0
+E-value: 0.0324
+Alignment Length: 91
+Percentage Identity: 0.186
+
+=== A0A7X2PBT9 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:MSU05971.1};
+Bit Score: 111.0
+E-value: 0.03443
+Alignment Length: 100
+Percentage Identity: 0.16
+
+=== T0QCG2 ===
+DE   RecName: Full=WW domain-containing protein {ECO:0000259|PROSITE:PS50020};
+Bit Score: 99.0
+E-value: 0.03443
+Alignment Length: 87
+Percentage Identity: 0.183
+
+=== A0A395D0Y1 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 98.0
+E-value: 0.03443
+Alignment Length: 87
+Percentage Identity: 0.206
+
+=== A0A6M3IFD4 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 123.0
+E-value: 0.03659
+Alignment Length: 84
+Percentage Identity: 0.166
+
+=== A0A1S8SA09 ===
+DE   SubName: Full=GIY-YIG catalytic domain protein {ECO:0000313|EMBL:OOM62217.1};
+Bit Score: 122.0
+E-value: 0.03659
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A2L2NI93 ===
+DE   SubName: Full=GIY-YIG nuclease domain protein {ECO:0000313|EMBL:AVH68465.1};
+Bit Score: 121.0
+E-value: 0.03659
+Alignment Length: 87
+Percentage Identity: 0.206
+
+=== A0A285R9H3 ===
+DE   SubName: Full=GIY-YIG catalytic domain-containing protein {ECO:0000313|EMBL:SOB90408.1};
+Bit Score: 116.0
+E-value: 0.03659
+Alignment Length: 71
+Percentage Identity: 0.14
+
+=== A0A1I6RKD2 ===
+DE   SubName: Full=Group I intron endonuclease {ECO:0000313|EMBL:SFS65104.1};
+Bit Score: 113.0
+E-value: 0.03659
+Alignment Length: 94
+Percentage Identity: 0.18
+
+=== F0SY57 ===
+DE   RecName: Full=LuxR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 110.0
+E-value: 0.03659
+Alignment Length: 102
+Percentage Identity: 0.166
+
+=== A0A3S0GYJ3 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:RTQ36581.1};
+Bit Score: 107.0
+E-value: 0.03659
+Alignment Length: 102
+Percentage Identity: 0.196
+
+=== A0A7T3PCR8 ===
+DE   SubName: Full=GIY-YIG endonuclease {ECO:0000313|EMBL:QPZ51049.1};
+Bit Score: 107.0
+E-value: 0.03659
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A1Q8Q9U9 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|SMART:SM00465};
+Bit Score: 107.0
+E-value: 0.03659
+Alignment Length: 94
+Percentage Identity: 0.17
+
+=== A0A1M4M9R0 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.03659
+Alignment Length: 104
+Percentage Identity: 0.125
+
+=== A0A3G8YKU8 ===
+DE   SubName: Full=Endonuclease {ECO:0000313|EMBL:AZI45300.1};
+Bit Score: 103.0
+E-value: 0.03659
+Alignment Length: 96
+Percentage Identity: 0.25
+
+=== A0A0S8A4V3 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 95.0
+E-value: 0.03659
+Alignment Length: 98
+Percentage Identity: 0.163
+
+=== A0A2D0HDJ9 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+DE   Flags: Fragment;
+Bit Score: 120.0
+E-value: 0.03888
+Alignment Length: 72
+Percentage Identity: 0.263
+
+=== A0A1G3BZS8 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 120.0
+E-value: 0.03888
+Alignment Length: 83
+Percentage Identity: 0.18
+
+=== A0A0G1ADE3 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 119.0
+E-value: 0.03888
+Alignment Length: 93
+Percentage Identity: 0.161
+
+=== A0A511QKL5 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 118.0
+E-value: 0.03888
+Alignment Length: 90
+Percentage Identity: 0.188
+
+=== A0A1S9I8V7 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 112.0
+E-value: 0.03888
+Alignment Length: 90
+Percentage Identity: 0.166
+
+=== A0A0F9PFW8 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 106.0
+E-value: 0.03888
+Alignment Length: 95
+Percentage Identity: 0.147
+
+=== A0A5Q0N279 ===
+DE   SubName: Full=GIY-YIG homing endonuclease {ECO:0000313|EMBL:QFZ98644.1};
+Bit Score: 102.0
+E-value: 0.03888
+Alignment Length: 127
+Percentage Identity: 0.133
+
+=== A0A401ZKJ0 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 91.0
+E-value: 0.03888
+Alignment Length: 98
+Percentage Identity: 0.173
+
+=== A0A2N1PRV0 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 116.0
+E-value: 0.04132
+Alignment Length: 53
+Percentage Identity: 0.226
+
+=== A0A3A4V9Y7 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 112.0
+E-value: 0.04132
+Alignment Length: 76
+Percentage Identity: 0.223
+
+=== H8H3V0 ===
+DE   SubName: Full=GIY-YIG catalytic domain containing protein {ECO:0000313|EMBL:AFD28197.1};
+Bit Score: 109.0
+E-value: 0.04132
+Alignment Length: 91
+Percentage Identity: 0.186
+
+=== A0A2E4Z7K6 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|Pfam:PF01541};
+Bit Score: 109.0
+E-value: 0.04132
+Alignment Length: 92
+Percentage Identity: 0.173
+
+=== A0A425YB95 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:MUP39379.1};
+Bit Score: 109.0
+E-value: 0.04132
+Alignment Length: 88
+Percentage Identity: 0.17
+
+=== A0A3D6B980 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|Pfam:PF01541};
+Bit Score: 99.0
+E-value: 0.04132
+Alignment Length: 86
+Percentage Identity: 0.151
+
+=== A0A088CAK4 ===
+DE   SubName: Full=Truncated GIY-YIG endonuclease {ECO:0000313|EMBL:AHX83028.1};
+Bit Score: 83.0
+E-value: 0.04132
+Alignment Length: 117
+Percentage Identity: 0.179
+
+=== A0A1I2E5L4 ===
+DE   RecName: Full=GIY-YIG catalytic domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 118.0
+E-value: 0.04392
+Alignment Length: 53
+Percentage Identity: 0.188
+
+=== A0A3A5A5K6 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 113.0
+E-value: 0.04392
+Alignment Length: 90
+Percentage Identity: 0.211
+
+=== A0A3T0HZ94 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 112.0
+E-value: 0.04392
+Alignment Length: 91
+Percentage Identity: 0.175
+
+=== A0A1J4UCB3 ===
+DE   RecName: Full=LuxR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 110.0
+E-value: 0.04392
+Alignment Length: 101
+Percentage Identity: 0.148
+
+=== E2DSJ6 ===
+DE   SubName: Full=Uncharacterized protein orf412 {ECO:0000313|EMBL:ACZ58502.1};
+Bit Score: 109.0
+E-value: 0.04392
+Alignment Length: 99
+Percentage Identity: 0.171
+
+=== A0A318S9X6 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.04392
+Alignment Length: 91
+Percentage Identity: 0.186
+
+=== A0A0R1RAE3 ===
+DE   RecName: Full=LuxR family transcriptional regulator {ECO:0008006|Google:ProtNLM};
+Bit Score: 105.0
+E-value: 0.04392
+Alignment Length: 101
+Percentage Identity: 0.158
+
+=== Q1IV25 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 103.0
+E-value: 0.04392
+Alignment Length: 97
+Percentage Identity: 0.206
+
+=== A0A0F9MIT9 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 100.0
+E-value: 0.04392
+Alignment Length: 99
+Percentage Identity: 0.131
+
+=== A0A841HYK2 ===
+DE   RecName: Full=GIY-YIG nuclease family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 99.0
+E-value: 0.04392
+Alignment Length: 93
+Percentage Identity: 0.161
+
+=== A0A0M2NNY9 ===
+DE   SubName: Full=LuxR family transcriptional regulator {ECO:0000313|EMBL:KKI52112.1};
+Bit Score: 89.0
+E-value: 0.04392
+Alignment Length: 102
+Percentage Identity: 0.156
+
+=== A0A0D6R0R7 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0000259|PROSITE:PS50164};
+Bit Score: 116.0
+E-value: 0.04667
+Alignment Length: 97
+Percentage Identity: 0.144
+
+=== A0A0S2LQ48 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:ALO63256.1};
+Bit Score: 113.0
+E-value: 0.04667
+Alignment Length: 57
+Percentage Identity: 0.21
+
+=== C6VUX1 ===
+DE   SubName: Full=LuxR family transcriptional regulator {ECO:0000313|EMBL:ACT93108.1};
+Bit Score: 110.0
+E-value: 0.04667
+Alignment Length: 103
+Percentage Identity: 0.116
+
+=== A0A1I0CQ33 ===
+DE   SubName: Full=GIY-YIG catalytic domain-containing protein {ECO:0000313|EMBL:SET21809.1};
+Bit Score: 98.0
+E-value: 0.04667
+Alignment Length: 93
+Percentage Identity: 0.182
+
+=== A0A7W6TWZ2 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.0496
+Alignment Length: 70
+Percentage Identity: 0.2
+
+=== A0A097KNA7 ===
+DE   SubName: Full=Putative GIY-YIG homing endonuclease {ECO:0000313|EMBL:AIT94653.1};
+Bit Score: 109.0
+E-value: 0.0496
+Alignment Length: 104
+Percentage Identity: 0.144
+
+=== G5IF64 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.0496
+Alignment Length: 99
+Percentage Identity: 0.151
+
+=== A0A0S2LP79 ===
+DE   SubName: Full=Putative GIY YIG homing endonuclease {ECO:0000313|EMBL:ALO63175.1};
+Bit Score: 104.0
+E-value: 0.0496
+Alignment Length: 113
+Percentage Identity: 0.176
+
+=== A0A5A9EX44 ===
+DE   SubName: Full=GIY-YIG nuclease family protein {ECO:0000313|EMBL:KAA0574146.1};
+Bit Score: 103.0
+E-value: 0.0496
+Alignment Length: 90
+Percentage Identity: 0.144
+
+=== A0A1M6WZN5 ===
+DE   SubName: Full=GIY-YIG catalytic domain-containing protein {ECO:0000313|EMBL:SHK99146.1};
+Bit Score: 101.0
+E-value: 0.0496
+Alignment Length: 58
+Percentage Identity: 0.258
+
+=== A0A1F7FFM9 ===
+DE   RecName: Full=GIY-YIG domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 100.0
+E-value: 0.0496
+Alignment Length: 89
+Percentage Identity: 0.157
+
+=== A0A1V9ZYE8 ===
+DE   RecName: Full=WW domain-containing protein {ECO:0000259|PROSITE:PS50020};
+Bit Score: 90.0
+E-value: 0.0496
+Alignment Length: 92
+Percentage Identity: 0.184
+

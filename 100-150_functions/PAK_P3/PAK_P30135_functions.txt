@@ -1,0 +1,148 @@
+=== A0A7S6C7L9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QLG05304.1};
+Bit Score: 290.0
+E-value: 1.768e-06
+Alignment Length: 68
+Percentage Identity: 0.661
+
+=== A0A7Y1ADF1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NMY13742.1};
+Bit Score: 168.0
+E-value: 8.114e-05
+Alignment Length: 109
+Percentage Identity: 0.33
+
+=== A0A0Q0EWS5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KPY55700.1};
+Bit Score: 141.0
+E-value: 8.114e-05
+Alignment Length: 126
+Percentage Identity: 0.285
+
+=== A0A166QPK6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KZN20645.1};
+Bit Score: 207.0
+E-value: 0.0004444
+Alignment Length: 65
+Percentage Identity: 0.415
+
+=== A0A7X2BNH2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MQT58003.1};
+Bit Score: 222.0
+E-value: 0.000602
+Alignment Length: 53
+Percentage Identity: 0.528
+
+=== A0A2S1PJH5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AWH58618.1};
+Bit Score: 144.0
+E-value: 0.0007223
+Alignment Length: 103
+Percentage Identity: 0.271
+
+=== A0A3R8U1J3 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RRV08848.1};
+Bit Score: 159.0
+E-value: 0.001409
+Alignment Length: 75
+Percentage Identity: 0.373
+
+=== A0A7Y1ACN3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NMY13352.1};
+Bit Score: 190.0
+E-value: 0.00292
+Alignment Length: 52
+Percentage Identity: 0.519
+
+=== A0A0H3GZT3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AEW92226.1};
+Bit Score: 145.0
+E-value: 0.005044
+Alignment Length: 72
+Percentage Identity: 0.208
+
+=== A0A212BF15 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OWJ92317.1};
+Bit Score: 165.0
+E-value: 0.009258
+Alignment Length: 61
+Percentage Identity: 0.377
+
+=== U4R600 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EPR13465.1};
+Bit Score: 103.0
+E-value: 0.009837
+Alignment Length: 117
+Percentage Identity: 0.136
+
+=== A0A2M9YKV2 ===
+DE   RecName: Full=DUF5683 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 99.0
+E-value: 0.0118
+Alignment Length: 89
+Percentage Identity: 0.202
+
+=== E6XSG1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ADV56169.1};
+Bit Score: 151.0
+E-value: 0.01254
+Alignment Length: 59
+Percentage Identity: 0.22
+
+=== A0A416HAX2 ===
+DE   RecName: Full=HTH LytTR-type domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.02302
+Alignment Length: 80
+Percentage Identity: 0.15
+
+=== A0A498CWU1 ===
+DE   SubName: Full=DUF2726 domain-containing protein {ECO:0000313|EMBL:RLL13194.1};
+Bit Score: 76.0
+E-value: 0.02302
+Alignment Length: 117
+Percentage Identity: 0.102
+
+=== A0A0F9UCF6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKN85072.1};
+Bit Score: 145.0
+E-value: 0.02446
+Alignment Length: 55
+Percentage Identity: 0.272
+
+=== A0A6A6K281 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAF2282423.1};
+Bit Score: 82.0
+E-value: 0.0449
+Alignment Length: 96
+Percentage Identity: 0.125
+
+=== A0A3M0Z9R3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RMD79735.1};
+DE   Flags: Fragment;
+Bit Score: 67.0
+E-value: 0.0449
+Alignment Length: 116
+Percentage Identity: 0.137
+
+=== S0FPU4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EMS73872.1};
+Bit Score: 111.0
+E-value: 0.04771
+Alignment Length: 93
+Percentage Identity: 0.15
+
+=== A0A7Y5BH97 ===
+DE   RecName: Full=DUF5683 domain-containing protein {ECO:0000259|Pfam:PF18935};
+Bit Score: 83.0
+E-value: 0.04771
+Alignment Length: 100
+Percentage Identity: 0.17
+
+=== A0A7C4L583 ===
+DE   RecName: Full=DUF3592 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 79.0
+E-value: 0.04771
+Alignment Length: 94
+Percentage Identity: 0.159
+

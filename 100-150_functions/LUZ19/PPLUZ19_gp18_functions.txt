@@ -1,0 +1,37 @@
+=== A0A4R0Z4P6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TCI49023.1};
+DE   Flags: Fragment;
+Bit Score: 366.0
+E-value: 4.476e-09
+Alignment Length: 95
+Percentage Identity: 0.547
+
+=== A0A843HZB4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBO7735439.1};
+Bit Score: 104.0
+E-value: 0.01662
+Alignment Length: 87
+Percentage Identity: 0.103
+
+=== A0A2T4MWI5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PTH78939.1};
+Bit Score: 94.0
+E-value: 0.02403
+Alignment Length: 118
+Percentage Identity: 0.11
+
+=== A0A2A8BXH4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PEM61889.1};
+DE   Flags: Fragment;
+Bit Score: 59.0
+E-value: 0.03476
+Alignment Length: 98
+Percentage Identity: 0.153
+
+=== A0A0G4E877 ===
+DE   RecName: Full=AP2/ERF domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 73.0
+E-value: 0.0418
+Alignment Length: 108
+Percentage Identity: 0.101
+

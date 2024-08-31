@@ -1,0 +1,6475 @@
+=== A0A5C5RHH9 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TWS21661.1};
+DE   Flags: Fragment;
+Bit Score: 282.0
+E-value: 1.12e-06
+Alignment Length: 96
+Percentage Identity: 0.239
+
+=== A0A087EDS6 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:KFJ05927.1};
+DE            EC=6.3.5.2 {ECO:0000313|EMBL:KFJ05927.1};
+Bit Score: 265.0
+E-value: 3.327e-06
+Alignment Length: 94
+Percentage Identity: 0.255
+
+=== A0A645F715 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:MPN09139.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:MPN09139.1};
+Bit Score: 262.0
+E-value: 3.534e-06
+Alignment Length: 95
+Percentage Identity: 0.231
+
+=== A0A6G7ZD71 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QIK86977.1};
+Bit Score: 262.0
+E-value: 3.755e-06
+Alignment Length: 91
+Percentage Identity: 0.318
+
+=== S1QZW4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ESK60895.1};
+Bit Score: 254.0
+E-value: 5.08e-06
+Alignment Length: 97
+Percentage Identity: 0.278
+
+=== A0A075KG08 ===
+DE   SubName: Full=GCN5-related N-acetyltransferase {ECO:0000313|EMBL:AIF52995.1};
+Bit Score: 259.0
+E-value: 6.47e-06
+Alignment Length: 94
+Percentage Identity: 0.223
+
+=== A0A1B5CZ98 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:CRM16306.1};
+Bit Score: 255.0
+E-value: 6.873e-06
+Alignment Length: 98
+Percentage Identity: 0.265
+
+=== A0A562NBY1 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:TWI29679.1};
+Bit Score: 251.0
+E-value: 6.873e-06
+Alignment Length: 93
+Percentage Identity: 0.29
+
+=== V8R994 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:ETF08477.1};
+Bit Score: 250.0
+E-value: 6.873e-06
+Alignment Length: 93
+Percentage Identity: 0.301
+
+=== J2GC52 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:EJL27435.1};
+Bit Score: 247.0
+E-value: 7.302e-06
+Alignment Length: 94
+Percentage Identity: 0.244
+
+=== K0WFR7 ===
+DE   SubName: Full=N-acetyltransferase GCN5 {ECO:0000313|EMBL:EJZ22164.1};
+Bit Score: 242.0
+E-value: 7.302e-06
+Alignment Length: 87
+Percentage Identity: 0.275
+
+=== A0A4Y9T353 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:TFW31367.1};
+Bit Score: 255.0
+E-value: 7.757e-06
+Alignment Length: 95
+Percentage Identity: 0.252
+
+=== A0A316P0A5 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:PWL79970.1};
+Bit Score: 253.0
+E-value: 7.757e-06
+Alignment Length: 93
+Percentage Identity: 0.311
+
+=== A0A367GHN0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RCH53004.1};
+Bit Score: 253.0
+E-value: 7.757e-06
+Alignment Length: 93
+Percentage Identity: 0.29
+
+=== A0A1I3IW64 ===
+DE   SubName: Full=Acetyltransferase (GNAT) domain-containing protein {ECO:0000313|EMBL:SFI52095.1};
+Bit Score: 248.0
+E-value: 7.757e-06
+Alignment Length: 91
+Percentage Identity: 0.274
+
+=== A0A1I6TQH6 ===
+DE   SubName: Full=Phosphoglycolate phosphatase, HAD superfamily {ECO:0000313|EMBL:SFS91446.1};
+Bit Score: 245.0
+E-value: 7.757e-06
+Alignment Length: 96
+Percentage Identity: 0.302
+
+=== A0A386UNJ1 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:AYF01939.1};
+Bit Score: 245.0
+E-value: 8.24e-06
+Alignment Length: 98
+Percentage Identity: 0.234
+
+=== A0A2S2FGP9 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:AWL30124.1};
+Bit Score: 243.0
+E-value: 8.24e-06
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A5J6QRR7 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QEY65203.1};
+Bit Score: 256.0
+E-value: 8.754e-06
+Alignment Length: 92
+Percentage Identity: 0.26
+
+=== A0A1B3EDZ7 ===
+DE   SubName: Full=Histone acetyltransferase {ECO:0000313|EMBL:AOE87734.1};
+Bit Score: 254.0
+E-value: 9.3e-06
+Alignment Length: 92
+Percentage Identity: 0.25
+
+=== A0A0X8FCR2 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:AMB94936.1};
+Bit Score: 253.0
+E-value: 9.3e-06
+Alignment Length: 98
+Percentage Identity: 0.234
+
+=== A0A447LSK8 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:VDZ74723.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:VDZ74723.1};
+Bit Score: 257.0
+E-value: 9.879e-06
+Alignment Length: 92
+Percentage Identity: 0.282
+
+=== A0A0M2DQQ0 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:GAO71542.1};
+Bit Score: 250.0
+E-value: 9.879e-06
+Alignment Length: 95
+Percentage Identity: 0.263
+
+=== A0A1M5DGE4 ===
+DE   SubName: Full=N-acetylglutamate synthase, GNAT family {ECO:0000313|EMBL:SHF66099.1};
+Bit Score: 241.0
+E-value: 9.879e-06
+Alignment Length: 84
+Percentage Identity: 0.321
+
+=== A0A2S5DDY4 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:POZ61320.1};
+Bit Score: 251.0
+E-value: 1.115e-05
+Alignment Length: 98
+Percentage Identity: 0.255
+
+=== D2TXQ3 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:CBA72174.1};
+Bit Score: 250.0
+E-value: 1.115e-05
+Alignment Length: 96
+Percentage Identity: 0.208
+
+=== A0A4P7L0H8 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:QBY44500.1, ECO:0000313|EMBL:WGM00733.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:QBY44500.1};
+Bit Score: 251.0
+E-value: 1.184e-05
+Alignment Length: 95
+Percentage Identity: 0.21
+
+=== K1S0P4 ===
+DE   SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:EKC48904.1};
+Bit Score: 248.0
+E-value: 1.184e-05
+Alignment Length: 98
+Percentage Identity: 0.142
+
+=== A0A1Q9LE41 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:OLR90284.1};
+Bit Score: 245.0
+E-value: 1.258e-05
+Alignment Length: 94
+Percentage Identity: 0.255
+
+=== A0A4R4NVM7 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TDC13861.1};
+DE   Flags: Fragment;
+Bit Score: 245.0
+E-value: 1.337e-05
+Alignment Length: 94
+Percentage Identity: 0.265
+
+=== A0A3G6IVM6 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:AZA09696.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:AZA09696.1};
+Bit Score: 240.0
+E-value: 1.337e-05
+Alignment Length: 87
+Percentage Identity: 0.321
+
+=== H3KFS5 ===
+DE   SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:EHY31028.1};
+Bit Score: 235.0
+E-value: 1.337e-05
+Alignment Length: 86
+Percentage Identity: 0.255
+
+=== A0A7G5XCA9 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:QNA43112.1};
+Bit Score: 247.0
+E-value: 1.42e-05
+Alignment Length: 93
+Percentage Identity: 0.236
+
+=== A0A0A1I135 ===
+DE   SubName: Full=Histone acetyltransferase HPA2 and related acetyltransferases {ECO:0000313|EMBL:CDF95989.1};
+Bit Score: 245.0
+E-value: 1.508e-05
+Alignment Length: 98
+Percentage Identity: 0.275
+
+=== A0A7X5Y544 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:NJC04950.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:NJC04950.1};
+Bit Score: 245.0
+E-value: 1.508e-05
+Alignment Length: 96
+Percentage Identity: 0.27
+
+=== A0A701V2B0 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:HAC6521604.1};
+DE   Flags: Fragment;
+Bit Score: 243.0
+E-value: 1.602e-05
+Alignment Length: 93
+Percentage Identity: 0.268
+
+=== A0A546XU99 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:TRB04315.1};
+Bit Score: 240.0
+E-value: 1.602e-05
+Alignment Length: 100
+Percentage Identity: 0.27
+
+=== A0A1S1BMG0 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:OHO43243.1};
+Bit Score: 247.0
+E-value: 1.702e-05
+Alignment Length: 95
+Percentage Identity: 0.252
+
+=== A0A1H0XD13 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:SDQ00749.1};
+Bit Score: 244.0
+E-value: 1.702e-05
+Alignment Length: 92
+Percentage Identity: 0.293
+
+=== A0A502I4H3 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TPG80552.1};
+Bit Score: 243.0
+E-value: 1.702e-05
+Alignment Length: 95
+Percentage Identity: 0.284
+
+=== A0A7W8ZHW4 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:MBB5634336.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:MBB5634336.1};
+Bit Score: 240.0
+E-value: 1.702e-05
+Alignment Length: 92
+Percentage Identity: 0.26
+
+=== A0A2K4MP22 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:POA98749.1};
+Bit Score: 244.0
+E-value: 1.808e-05
+Alignment Length: 97
+Percentage Identity: 0.288
+
+=== A0A1T2YJW1 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:OPA92435.1};
+Bit Score: 242.0
+E-value: 1.808e-05
+Alignment Length: 95
+Percentage Identity: 0.284
+
+=== F4QS42 ===
+DE   SubName: Full=Acetyltransferase GNAT family protein {ECO:0000313|EMBL:EGF89562.1};
+Bit Score: 236.0
+E-value: 1.808e-05
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== A0A1H4LCB2 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:SEB68367.1};
+Bit Score: 237.0
+E-value: 1.921e-05
+Alignment Length: 97
+Percentage Identity: 0.278
+
+=== V5U4S2 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:AHB72541.1};
+Bit Score: 235.0
+E-value: 1.921e-05
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== A0A6M1MJV8 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NGM45172.1};
+Bit Score: 221.0
+E-value: 1.921e-05
+Alignment Length: 97
+Percentage Identity: 0.257
+
+=== A0A4D7E1E5 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QCJ00077.1};
+Bit Score: 221.0
+E-value: 1.921e-05
+Alignment Length: 83
+Percentage Identity: 0.253
+
+=== A0A7X3BW01 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MTT76126.1};
+Bit Score: 245.0
+E-value: 2.041e-05
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== A0A3A9G3S5 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RKJ57804.1};
+DE   Flags: Fragment;
+Bit Score: 241.0
+E-value: 2.041e-05
+Alignment Length: 98
+Percentage Identity: 0.193
+
+=== A0A6L5BYQ7 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:KAF2393125.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:KAF2393125.1};
+Bit Score: 239.0
+E-value: 2.041e-05
+Alignment Length: 93
+Percentage Identity: 0.29
+
+=== A0A447RBA7 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:VEA79539.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:VEA79539.1};
+Bit Score: 238.0
+E-value: 2.041e-05
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== A0A517VU85 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:QDT96549.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:QDT96549.1};
+Bit Score: 237.0
+E-value: 2.041e-05
+Alignment Length: 96
+Percentage Identity: 0.291
+
+=== A0A7Z0LE00 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NYS49723.1};
+Bit Score: 234.0
+E-value: 2.041e-05
+Alignment Length: 102
+Percentage Identity: 0.205
+
+=== A0A7G8Q5G6 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:QNK02024.1};
+Bit Score: 232.0
+E-value: 2.041e-05
+Alignment Length: 96
+Percentage Identity: 0.291
+
+=== A0A3N7CBS8 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RQO57795.1};
+Bit Score: 239.0
+E-value: 2.168e-05
+Alignment Length: 97
+Percentage Identity: 0.257
+
+=== A0A346SMD9 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:AXT28552.1};
+Bit Score: 225.0
+E-value: 2.168e-05
+Alignment Length: 99
+Percentage Identity: 0.212
+
+=== B0PBU3 ===
+DE   SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:EDS11068.1};
+Bit Score: 240.0
+E-value: 2.303e-05
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== K6WJ04 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:GAB99300.1};
+Bit Score: 228.0
+E-value: 2.303e-05
+Alignment Length: 92
+Percentage Identity: 0.282
+
+=== A0A3G8QX70 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:AZH27110.1};
+Bit Score: 210.0
+E-value: 2.303e-05
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== A0A2V2A2D4 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:PWK29992.1};
+Bit Score: 238.0
+E-value: 2.447e-05
+Alignment Length: 93
+Percentage Identity: 0.279
+
+=== A0A2Z4RR87 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:AWY43155.1};
+Bit Score: 237.0
+E-value: 2.447e-05
+Alignment Length: 93
+Percentage Identity: 0.29
+
+=== A0A1H1RPN3 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:SDS37665.1};
+Bit Score: 237.0
+E-value: 2.447e-05
+Alignment Length: 95
+Percentage Identity: 0.273
+
+=== A0A0L1M8T5 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:KNH24851.1};
+Bit Score: 236.0
+E-value: 2.447e-05
+Alignment Length: 93
+Percentage Identity: 0.279
+
+=== A0A0D0TJ09 ===
+DE   SubName: Full=YjaB_1 protein {ECO:0000313|EMBL:KIR22044.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:KIR22044.1};
+Bit Score: 240.0
+E-value: 2.599e-05
+Alignment Length: 95
+Percentage Identity: 0.252
+
+=== A0A2G5LXV1 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:PIB46372.1};
+Bit Score: 238.0
+E-value: 2.599e-05
+Alignment Length: 95
+Percentage Identity: 0.263
+
+=== A0A5E7F214 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:VVO33290.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:VVO33290.1};
+Bit Score: 236.0
+E-value: 2.599e-05
+Alignment Length: 94
+Percentage Identity: 0.287
+
+=== A0A2S2DJ57 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:AWL05351.1};
+Bit Score: 236.0
+E-value: 2.599e-05
+Alignment Length: 93
+Percentage Identity: 0.258
+
+=== A0A355YEY5 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:HBN53851.1};
+Bit Score: 235.0
+E-value: 2.599e-05
+Alignment Length: 95
+Percentage Identity: 0.294
+
+=== S9SEB2 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:EPY02408.1};
+Bit Score: 232.0
+E-value: 2.599e-05
+Alignment Length: 97
+Percentage Identity: 0.278
+
+=== A0A410WA18 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:QAU52801.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:QAU52801.1};
+Bit Score: 231.0
+E-value: 2.599e-05
+Alignment Length: 87
+Percentage Identity: 0.31
+
+=== A0A1X7DRR5 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:SMF20346.1};
+Bit Score: 229.0
+E-value: 2.599e-05
+Alignment Length: 94
+Percentage Identity: 0.244
+
+=== A0A0Q7DZH7 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:KQW82482.1};
+Bit Score: 226.0
+E-value: 2.599e-05
+Alignment Length: 92
+Percentage Identity: 0.271
+
+=== A0A241WJV3 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:OTG94329.1};
+Bit Score: 225.0
+E-value: 2.599e-05
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A2S8W8Q5 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:PQZ83402.1};
+Bit Score: 223.0
+E-value: 2.599e-05
+Alignment Length: 84
+Percentage Identity: 0.345
+
+=== A0A660L8W3 ===
+DE   SubName: Full=Acetyltransferase (GNAT) family protein {ECO:0000313|EMBL:RKQ90959.1};
+Bit Score: 239.0
+E-value: 2.761e-05
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A239Q945 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:SNT82753.1};
+Bit Score: 232.0
+E-value: 2.761e-05
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== A0A139TQL5 ===
+DE   SubName: Full=Toxin-antitoxin system, toxin component, GNAT domain protein {ECO:0000313|EMBL:KXU53889.1};
+Bit Score: 231.0
+E-value: 2.761e-05
+Alignment Length: 92
+Percentage Identity: 0.195
+
+=== Q5NPK3 ===
+DE   SubName: Full=GCN5-related N-acetyltransferase {ECO:0000313|EMBL:AAV89357.2};
+Bit Score: 228.0
+E-value: 2.761e-05
+Alignment Length: 100
+Percentage Identity: 0.27
+
+=== A0A211ZL17 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 228.0
+E-value: 2.761e-05
+Alignment Length: 95
+Percentage Identity: 0.221
+
+=== A0A840AD55 ===
+DE   SubName: Full=Ribosomal protein S18 acetylase RimI-like enzyme {ECO:0000313|EMBL:MBB3898852.1};
+Bit Score: 222.0
+E-value: 2.761e-05
+Alignment Length: 92
+Percentage Identity: 0.26
+
+=== A0A2D1IMC1 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:ATO18804.1};
+Bit Score: 238.0
+E-value: 2.933e-05
+Alignment Length: 94
+Percentage Identity: 0.212
+
+=== A0A0A2WN42 ===
+DE   SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:KGQ19670.1};
+Bit Score: 237.0
+E-value: 2.933e-05
+Alignment Length: 98
+Percentage Identity: 0.244
+
+=== A0A7X1GCU2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBC2690106.1};
+Bit Score: 236.0
+E-value: 2.933e-05
+Alignment Length: 95
+Percentage Identity: 0.242
+
+=== A0A2U2AL65 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 236.0
+E-value: 2.933e-05
+Alignment Length: 95
+Percentage Identity: 0.231
+
+=== A0A3M4RJP5 ===
+DE   SubName: Full=GNAT family acetyltransferase {ECO:0000313|EMBL:RMR02930.1};
+Bit Score: 236.0
+E-value: 2.933e-05
+Alignment Length: 97
+Percentage Identity: 0.226
+
+=== A0A4R5N7G7 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 233.0
+E-value: 2.933e-05
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A7Z2ZKF6 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:QJD82928.1};
+Bit Score: 232.0
+E-value: 2.933e-05
+Alignment Length: 94
+Percentage Identity: 0.223
+
+=== A0A7G5LIC8 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QMW61800.1};
+Bit Score: 223.0
+E-value: 2.933e-05
+Alignment Length: 91
+Percentage Identity: 0.285
+
+=== A0A7G1KEW1 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:BCK53441.1};
+Bit Score: 215.0
+E-value: 2.933e-05
+Alignment Length: 90
+Percentage Identity: 0.288
+
+=== A0A1J0A8E8 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 234.0
+E-value: 3.116e-05
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A6J5JPZ8 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:CAB3973237.1};
+Bit Score: 233.0
+E-value: 3.116e-05
+Alignment Length: 97
+Percentage Identity: 0.278
+
+=== A0A3M4LS52 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:RMQ43831.1};
+Bit Score: 240.0
+E-value: 3.311e-05
+Alignment Length: 98
+Percentage Identity: 0.224
+
+=== A0A1C6K087 ===
+DE   SubName: Full=Uncharacterized N-acetyltransferase YjaB {ECO:0000313|EMBL:SCJ87720.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:SCJ87720.1};
+Bit Score: 235.0
+E-value: 3.311e-05
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== A0A4P6HGN3 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:QAZ46730.1};
+Bit Score: 234.0
+E-value: 3.311e-05
+Alignment Length: 95
+Percentage Identity: 0.252
+
+=== A0A5B8IVX5 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QDY70282.1};
+Bit Score: 229.0
+E-value: 3.311e-05
+Alignment Length: 92
+Percentage Identity: 0.26
+
+=== A0A560B3R1 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:TWA67182.1};
+Bit Score: 227.0
+E-value: 3.311e-05
+Alignment Length: 98
+Percentage Identity: 0.275
+
+=== A0A0B2BTT7 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:KHL24844.1};
+Bit Score: 227.0
+E-value: 3.311e-05
+Alignment Length: 92
+Percentage Identity: 0.26
+
+=== A0A2S0U9W0 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:AWB44520.1};
+Bit Score: 227.0
+E-value: 3.311e-05
+Alignment Length: 93
+Percentage Identity: 0.258
+
+=== A0A4D7CU50 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QCI85907.1};
+Bit Score: 224.0
+E-value: 3.311e-05
+Alignment Length: 100
+Percentage Identity: 0.2
+
+=== A0A553X6J3 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TSB12561.1};
+DE   Flags: Fragment;
+Bit Score: 207.0
+E-value: 3.311e-05
+Alignment Length: 99
+Percentage Identity: 0.272
+
+=== A0A845FGA0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MYL72881.1};
+Bit Score: 202.0
+E-value: 3.311e-05
+Alignment Length: 99
+Percentage Identity: 0.232
+
+=== A0A6B2FHX7 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:NDJ56402.1};
+Bit Score: 237.0
+E-value: 3.517e-05
+Alignment Length: 98
+Percentage Identity: 0.275
+
+=== A0A4R0IH57 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TCC31929.1};
+Bit Score: 237.0
+E-value: 3.517e-05
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== A0A1Y4CES7 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:OUO45275.1};
+Bit Score: 234.0
+E-value: 3.517e-05
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== A0A1E7RNC3 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:OEZ00871.1};
+Bit Score: 232.0
+E-value: 3.517e-05
+Alignment Length: 93
+Percentage Identity: 0.29
+
+=== A0A4U9HE41 ===
+DE   SubName: Full=Uncharacterized N-acetyltransferase YjaB {ECO:0000313|EMBL:VTP61934.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:VTP61934.1};
+Bit Score: 228.0
+E-value: 3.517e-05
+Alignment Length: 94
+Percentage Identity: 0.287
+
+=== A0A318UHM7 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:PYF75643.1};
+Bit Score: 219.0
+E-value: 3.517e-05
+Alignment Length: 89
+Percentage Identity: 0.314
+
+=== A0A1V4ZKA4 ===
+DE   SubName: Full=Putative acyltransferase {ECO:0000313|EMBL:OPY34473.1};
+Bit Score: 205.0
+E-value: 3.517e-05
+Alignment Length: 93
+Percentage Identity: 0.225
+
+=== D4ILF3 ===
+DE   SubName: Full=Acetyltransferase (GNAT) family {ECO:0000313|EMBL:CBK63765.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:CBK63765.1};
+Bit Score: 233.0
+E-value: 3.736e-05
+Alignment Length: 92
+Percentage Identity: 0.228
+
+=== A0A4P7BIE6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GGZ08463.1};
+Bit Score: 230.0
+E-value: 3.736e-05
+Alignment Length: 94
+Percentage Identity: 0.287
+
+=== A0A7D5DBQ3 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QKZ06281.1};
+Bit Score: 230.0
+E-value: 3.736e-05
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== A0A411ZTW4 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RGQ06272.1};
+Bit Score: 229.0
+E-value: 3.736e-05
+Alignment Length: 92
+Percentage Identity: 0.195
+
+=== A0A6G8RSA9 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QIO04603.1};
+Bit Score: 226.0
+E-value: 3.736e-05
+Alignment Length: 93
+Percentage Identity: 0.236
+
+=== M0QEG1 ===
+DE   SubName: Full=Putative ADP-ribose pyrophosphatase/acetyltransferase {ECO:0000313|EMBL:GAC66965.1};
+Bit Score: 218.0
+E-value: 3.736e-05
+Alignment Length: 92
+Percentage Identity: 0.282
+
+=== A0A5N6AW76 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:KAB8172375.1};
+Bit Score: 214.0
+E-value: 3.736e-05
+Alignment Length: 101
+Percentage Identity: 0.217
+
+=== A0A3M4LEX7 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:RMQ40049.1};
+Bit Score: 234.0
+E-value: 3.969e-05
+Alignment Length: 92
+Percentage Identity: 0.228
+
+=== A0A0F3RNY1 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:KJW11661.1};
+Bit Score: 232.0
+E-value: 3.969e-05
+Alignment Length: 95
+Percentage Identity: 0.273
+
+=== A0A2S9X7H8 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 232.0
+E-value: 3.969e-05
+Alignment Length: 97
+Percentage Identity: 0.237
+
+=== A0A031FQT8 ===
+DE   SubName: Full=GCN5-like N-acetyltransferase {ECO:0000313|EMBL:EZP27169.1};
+Bit Score: 231.0
+E-value: 3.969e-05
+Alignment Length: 95
+Percentage Identity: 0.263
+
+=== A0A2T7AWR0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:PUX16679.1};
+Bit Score: 230.0
+E-value: 3.969e-05
+Alignment Length: 92
+Percentage Identity: 0.304
+
+=== A0A1E7XCX6 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:OFA10983.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:OFA10983.1};
+Bit Score: 235.0
+E-value: 4.216e-05
+Alignment Length: 95
+Percentage Identity: 0.242
+
+=== A0A1G5UVU2 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:SDA37709.1};
+Bit Score: 230.0
+E-value: 4.216e-05
+Alignment Length: 97
+Percentage Identity: 0.206
+
+=== A3D5V8 ===
+DE   SubName: Full=GCN5-related N-acetyltransferase {ECO:0000313|EMBL:ABN62121.1};
+Bit Score: 229.0
+E-value: 4.216e-05
+Alignment Length: 93
+Percentage Identity: 0.279
+
+=== A0A0X1T0G2 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:AMB85542.1};
+Bit Score: 229.0
+E-value: 4.216e-05
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== A0A2U2CEN8 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:PWE30301.1};
+Bit Score: 228.0
+E-value: 4.216e-05
+Alignment Length: 92
+Percentage Identity: 0.228
+
+=== A0A536EJI1 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TMF16077.1};
+Bit Score: 201.0
+E-value: 4.216e-05
+Alignment Length: 95
+Percentage Identity: 0.242
+
+=== A0A7W6IG52 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:MBB4040704.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:MBB4040704.1};
+Bit Score: 226.0
+E-value: 4.479e-05
+Alignment Length: 91
+Percentage Identity: 0.285
+
+=== A0A1J5ML78 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:OIQ46786.1};
+Bit Score: 226.0
+E-value: 4.479e-05
+Alignment Length: 93
+Percentage Identity: 0.258
+
+=== A0A7W4YYJ5 ===
+DE   SubName: Full=Ribosomal protein S18 acetylase RimI-like enzyme {ECO:0000313|EMBL:MBB3020389.1};
+Bit Score: 224.0
+E-value: 4.479e-05
+Alignment Length: 95
+Percentage Identity: 0.263
+
+=== S9QKT9 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 220.0
+E-value: 4.479e-05
+Alignment Length: 101
+Percentage Identity: 0.237
+
+=== A0A1M6F260 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:SHI91760.1};
+Bit Score: 218.0
+E-value: 4.479e-05
+Alignment Length: 91
+Percentage Identity: 0.274
+
+=== A0A851GTS2 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:NWK67056.1};
+Bit Score: 234.0
+E-value: 4.758e-05
+Alignment Length: 92
+Percentage Identity: 0.239
+
+=== A0A2I1INM5 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:PKY72726.1};
+Bit Score: 228.0
+E-value: 4.758e-05
+Alignment Length: 99
+Percentage Identity: 0.232
+
+=== A0A2R5EXM3 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 227.0
+E-value: 4.758e-05
+Alignment Length: 92
+Percentage Identity: 0.25
+
+=== A0A1L8SYF8 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 227.0
+E-value: 4.758e-05
+Alignment Length: 97
+Percentage Identity: 0.237
+
+=== A0A1I0XPY2 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:SFB03189.1};
+Bit Score: 226.0
+E-value: 4.758e-05
+Alignment Length: 96
+Percentage Identity: 0.208
+
+=== A0A385TY55 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:AYB47908.1};
+Bit Score: 224.0
+E-value: 4.758e-05
+Alignment Length: 94
+Percentage Identity: 0.234
+
+=== A0A1T1HG82 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 217.0
+E-value: 4.758e-05
+Alignment Length: 99
+Percentage Identity: 0.222
+
+=== A0A1I4Q7K0 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:SFM35610.1};
+Bit Score: 234.0
+E-value: 5.055e-05
+Alignment Length: 98
+Percentage Identity: 0.234
+
+=== A0A7X0F6Q2 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:MBB6354161.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:MBB6354161.1};
+Bit Score: 227.0
+E-value: 5.055e-05
+Alignment Length: 93
+Percentage Identity: 0.258
+
+=== A0A0H3GGR8 ===
+DE   SubName: Full=Acyltransferase {ECO:0000313|EMBL:AEW58925.1};
+Bit Score: 226.0
+E-value: 5.055e-05
+Alignment Length: 95
+Percentage Identity: 0.21
+
+=== A0A1V2EV24 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:ONF96315.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:ONF96315.1};
+Bit Score: 225.0
+E-value: 5.055e-05
+Alignment Length: 93
+Percentage Identity: 0.279
+
+=== A0A126R9B7 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:AMK18654.1};
+Bit Score: 217.0
+E-value: 5.055e-05
+Alignment Length: 99
+Percentage Identity: 0.252
+
+=== A0A4Q4H2W4 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RYL29404.1};
+Bit Score: 217.0
+E-value: 5.055e-05
+Alignment Length: 86
+Percentage Identity: 0.232
+
+=== A0A7W2JWM0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBA6066496.1};
+Bit Score: 229.0
+E-value: 5.37e-05
+Alignment Length: 95
+Percentage Identity: 0.273
+
+=== A0A0W0HSB6 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:KTB63716.1};
+Bit Score: 228.0
+E-value: 5.37e-05
+Alignment Length: 97
+Percentage Identity: 0.247
+
+=== A0A3M5X4N2 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:RMU77338.1};
+Bit Score: 228.0
+E-value: 5.37e-05
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== A0A848KBD0 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:NMN94012.1};
+Bit Score: 224.0
+E-value: 5.37e-05
+Alignment Length: 94
+Percentage Identity: 0.287
+
+=== U7R0E8 ===
+DE   SubName: Full=GCN5 family N-acetyltransferase {ECO:0000313|EMBL:ERT12306.1};
+Bit Score: 224.0
+E-value: 5.37e-05
+Alignment Length: 95
+Percentage Identity: 0.231
+
+=== A0A4Y1X0B8 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 222.0
+E-value: 5.37e-05
+Alignment Length: 92
+Percentage Identity: 0.25
+
+=== G7W178 ===
+DE   SubName: Full=GNAT family acetyltransferase {ECO:0000313|EMBL:AET60567.1};
+Bit Score: 222.0
+E-value: 5.37e-05
+Alignment Length: 94
+Percentage Identity: 0.234
+
+=== A0A446C7H5 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:SSW63701.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:SSW63701.1};
+Bit Score: 221.0
+E-value: 5.37e-05
+Alignment Length: 95
+Percentage Identity: 0.231
+
+=== A0A0R1KHS9 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 216.0
+E-value: 5.37e-05
+Alignment Length: 92
+Percentage Identity: 0.239
+
+=== A0A4R3GBD2 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:TCR98734.1};
+Bit Score: 213.0
+E-value: 5.37e-05
+Alignment Length: 93
+Percentage Identity: 0.268
+
+=== A0A6G7Z9Y6 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QIK85798.1};
+Bit Score: 213.0
+E-value: 5.37e-05
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A5R9QG36 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TLX64114.1};
+Bit Score: 206.0
+E-value: 5.37e-05
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A354R7D1 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:HBJ58896.1};
+Bit Score: 234.0
+E-value: 5.705e-05
+Alignment Length: 95
+Percentage Identity: 0.284
+
+=== A0A1G9NAR0 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:SDL83411.1};
+Bit Score: 232.0
+E-value: 5.705e-05
+Alignment Length: 93
+Percentage Identity: 0.204
+
+=== A0A318KHD9 ===
+DE   SubName: Full=GrpB-like predicted nucleotidyltransferase (UPF0157 family) {ECO:0000313|EMBL:PXX76910.1};
+Bit Score: 230.0
+E-value: 5.705e-05
+Alignment Length: 93
+Percentage Identity: 0.172
+
+=== A0A0W8H5D3 ===
+DE   SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:RMR69552.1};
+Bit Score: 228.0
+E-value: 5.705e-05
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== A0A212LM81 ===
+DE   SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:SCM78618.1};
+Bit Score: 227.0
+E-value: 5.705e-05
+Alignment Length: 97
+Percentage Identity: 0.226
+
+=== A0A4Y8KV03 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TFD93226.1};
+Bit Score: 221.0
+E-value: 5.705e-05
+Alignment Length: 93
+Percentage Identity: 0.204
+
+=== A0A318RYE0 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:PYE15364.1};
+Bit Score: 218.0
+E-value: 5.705e-05
+Alignment Length: 98
+Percentage Identity: 0.224
+
+=== A0A2D9UGT0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MAQ32150.1};
+Bit Score: 193.0
+E-value: 5.705e-05
+Alignment Length: 100
+Percentage Identity: 0.19
+
+=== A0A4Q0Y3N1 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RXJ63269.1};
+Bit Score: 228.0
+E-value: 6.06e-05
+Alignment Length: 93
+Percentage Identity: 0.204
+
+=== A0A1C6BNC8 ===
+DE   SubName: Full=Uncharacterized N-acetyltransferase YjaB {ECO:0000313|EMBL:SCI85645.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:SCI85645.1};
+Bit Score: 222.0
+E-value: 6.06e-05
+Alignment Length: 92
+Percentage Identity: 0.25
+
+=== A0A4V6RZC2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:THG41847.1};
+Bit Score: 218.0
+E-value: 6.06e-05
+Alignment Length: 86
+Percentage Identity: 0.255
+
+=== A0A7V9T693 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBA2639114.1};
+Bit Score: 213.0
+E-value: 6.06e-05
+Alignment Length: 93
+Percentage Identity: 0.225
+
+=== A0A087AM55 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:KFI59855.1};
+DE            EC=6.3.5.2 {ECO:0000313|EMBL:KFI59855.1};
+Bit Score: 207.0
+E-value: 6.06e-05
+Alignment Length: 94
+Percentage Identity: 0.244
+
+=== A0A0R2F9E8 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 228.0
+E-value: 6.438e-05
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A4R7G083 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:TDS84450.1};
+Bit Score: 225.0
+E-value: 6.438e-05
+Alignment Length: 95
+Percentage Identity: 0.284
+
+=== A0A132TLJ0 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 225.0
+E-value: 6.438e-05
+Alignment Length: 92
+Percentage Identity: 0.282
+
+=== I2BDZ6 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:AFJ48750.1};
+Bit Score: 222.0
+E-value: 6.438e-05
+Alignment Length: 98
+Percentage Identity: 0.234
+
+=== A0A3G2IJS7 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:AYN29826.1};
+Bit Score: 219.0
+E-value: 6.438e-05
+Alignment Length: 94
+Percentage Identity: 0.276
+
+=== A0A517Y893 ===
+DE   SubName: Full=Putative acyltransferase {ECO:0000313|EMBL:QDU26362.1};
+Bit Score: 212.0
+E-value: 6.438e-05
+Alignment Length: 95
+Percentage Identity: 0.252
+
+=== A0A4Q3BMI3 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RYD79989.1};
+Bit Score: 224.0
+E-value: 6.839e-05
+Alignment Length: 93
+Percentage Identity: 0.236
+
+=== A0A1I6LKB8 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:SFS03924.1};
+Bit Score: 223.0
+E-value: 6.839e-05
+Alignment Length: 95
+Percentage Identity: 0.284
+
+=== A0A846QK32 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:NJB66842.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:NJB66842.1};
+Bit Score: 222.0
+E-value: 6.839e-05
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== A0A370UZX1 ===
+DE   SubName: Full=Putative N-acetyltransferase YafP {ECO:0000313|EMBL:RDR20283.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:RDR20283.1, ECO:0000313|EMBL:VED74407.1};
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:VED74407.1};
+Bit Score: 212.0
+E-value: 6.839e-05
+Alignment Length: 95
+Percentage Identity: 0.189
+
+=== G1UXI5 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 210.0
+E-value: 6.839e-05
+Alignment Length: 90
+Percentage Identity: 0.266
+
+=== A0A7W3W6B5 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBB1159062.1};
+Bit Score: 210.0
+E-value: 6.839e-05
+Alignment Length: 88
+Percentage Identity: 0.25
+
+=== A0A6N8TPA5 ===
+DE   RecName: Full=GNAT family N-acetyltransferase {ECO:0008006|Google:ProtNLM};
+Bit Score: 210.0
+E-value: 6.839e-05
+Alignment Length: 83
+Percentage Identity: 0.24
+
+=== A0A370HNN4 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:RDI59950.1};
+Bit Score: 207.0
+E-value: 6.839e-05
+Alignment Length: 104
+Percentage Identity: 0.23
+
+=== A0A6G8RSH2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QIO04882.1};
+Bit Score: 207.0
+E-value: 6.839e-05
+Alignment Length: 88
+Percentage Identity: 0.204
+
+=== A0A0A1PRH5 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:CEJ11819.1};
+Bit Score: 221.0
+E-value: 7.266e-05
+Alignment Length: 98
+Percentage Identity: 0.265
+
+=== A0A127Q0R5 ===
+DE   SubName: Full=Acetyltransferase family protein {ECO:0000313|EMBL:AMP03670.1};
+Bit Score: 220.0
+E-value: 7.266e-05
+Alignment Length: 94
+Percentage Identity: 0.212
+
+=== A0A1Y4R1I7 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 219.0
+E-value: 7.266e-05
+Alignment Length: 99
+Percentage Identity: 0.282
+
+=== A0A7G8WUA7 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QNK83950.1};
+Bit Score: 215.0
+E-value: 7.266e-05
+Alignment Length: 97
+Percentage Identity: 0.237
+
+=== A0A0R1PMN3 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:KRL31034.1};
+Bit Score: 215.0
+E-value: 7.266e-05
+Alignment Length: 93
+Percentage Identity: 0.236
+
+=== A0A1C6AJ85 ===
+DE   SubName: Full=Uncharacterized N-acetyltransferase YjaB {ECO:0000313|EMBL:SCI71933.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:SCI71933.1};
+Bit Score: 213.0
+E-value: 7.266e-05
+Alignment Length: 83
+Percentage Identity: 0.216
+
+=== R5H8C1 ===
+DE   SubName: Full=Acetyltransferase GNAT family {ECO:0000313|EMBL:CCY25733.1};
+Bit Score: 210.0
+E-value: 7.266e-05
+Alignment Length: 92
+Percentage Identity: 0.217
+
+=== A0A0E3L6Z1 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:AKB25861.1};
+Bit Score: 205.0
+E-value: 7.266e-05
+Alignment Length: 102
+Percentage Identity: 0.205
+
+=== A0A416WFA0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RHR82867.1};
+Bit Score: 228.0
+E-value: 7.718e-05
+Alignment Length: 100
+Percentage Identity: 0.19
+
+=== A0A373FLM6 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:RGE45060.1};
+Bit Score: 220.0
+E-value: 7.718e-05
+Alignment Length: 91
+Percentage Identity: 0.274
+
+=== I6CE20 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 217.0
+E-value: 7.718e-05
+Alignment Length: 93
+Percentage Identity: 0.268
+
+=== A0A1H4F2G1 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:SEA91429.1};
+Bit Score: 217.0
+E-value: 7.718e-05
+Alignment Length: 92
+Percentage Identity: 0.228
+
+=== A0A161UGJ0 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:KZL05002.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:KZL05002.1};
+Bit Score: 211.0
+E-value: 7.718e-05
+Alignment Length: 91
+Percentage Identity: 0.274
+
+=== A0A2N3YIS3 ===
+DE   SubName: Full=ElaA protein {ECO:0000313|EMBL:PKW26756.1};
+Bit Score: 192.0
+E-value: 7.718e-05
+Alignment Length: 95
+Percentage Identity: 0.221
+
+=== A0A166GNM7 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 222.0
+E-value: 8.199e-05
+Alignment Length: 91
+Percentage Identity: 0.208
+
+=== A0A1E5L3F4 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 220.0
+E-value: 8.199e-05
+Alignment Length: 97
+Percentage Identity: 0.164
+
+=== Q2SCT8 ===
+DE   SubName: Full=Histone acetyltransferase HPA2/related acetyltransferase {ECO:0000313|EMBL:ABC31536.1};
+Bit Score: 219.0
+E-value: 8.199e-05
+Alignment Length: 98
+Percentage Identity: 0.234
+
+=== A0A1I1MF42 ===
+DE   SubName: Full=Ribosomal protein S18 acetylase RimI {ECO:0000313|EMBL:SFC84091.1};
+Bit Score: 219.0
+E-value: 8.199e-05
+Alignment Length: 95
+Percentage Identity: 0.2
+
+=== A0A1H8FS65 ===
+DE   SubName: Full=Acetyltransferase (GNAT) family protein {ECO:0000313|EMBL:SEN34374.1};
+Bit Score: 214.0
+E-value: 8.199e-05
+Alignment Length: 95
+Percentage Identity: 0.2
+
+=== A0A0Q8ULP1 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:KRC43552.1};
+Bit Score: 212.0
+E-value: 8.199e-05
+Alignment Length: 90
+Percentage Identity: 0.288
+
+=== A0A3N0AHE8 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RNL21485.1};
+Bit Score: 212.0
+E-value: 8.199e-05
+Alignment Length: 99
+Percentage Identity: 0.262
+
+=== A0A1Y3CKI7 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:OTG67102.1};
+Bit Score: 212.0
+E-value: 8.199e-05
+Alignment Length: 87
+Percentage Identity: 0.206
+
+=== A0A0E3Q871 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:AKB44823.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:AKB44823.1};
+Bit Score: 209.0
+E-value: 8.199e-05
+Alignment Length: 87
+Percentage Identity: 0.241
+
+=== A0A651G0D7 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:TVR09614.1};
+Bit Score: 206.0
+E-value: 8.199e-05
+Alignment Length: 99
+Percentage Identity: 0.313
+
+=== A0A1Y2MMI9 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:OSY36450.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:OSY36450.1};
+Bit Score: 205.0
+E-value: 8.199e-05
+Alignment Length: 86
+Percentage Identity: 0.279
+
+=== A0A316MI29 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:PWL58006.1};
+Bit Score: 203.0
+E-value: 8.199e-05
+Alignment Length: 97
+Percentage Identity: 0.237
+
+=== A0A2X3IX15 ===
+DE   SubName: Full=[citrate (Pro-3S)-lyase] ligase {ECO:0000313|EMBL:SQC87265.1};
+DE            EC=6.2.1.22 {ECO:0000313|EMBL:SQC87265.1};
+Bit Score: 187.0
+E-value: 8.199e-05
+Alignment Length: 96
+Percentage Identity: 0.208
+
+=== A0A4R6KIE1 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:TDO50689.1};
+Bit Score: 223.0
+E-value: 8.711e-05
+Alignment Length: 96
+Percentage Identity: 0.25
+
+=== A0A6F9Y5R9 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 213.0
+E-value: 8.711e-05
+Alignment Length: 80
+Percentage Identity: 0.25
+
+=== H0R1H3 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:GAB18924.1};
+Bit Score: 208.0
+E-value: 8.711e-05
+Alignment Length: 92
+Percentage Identity: 0.304
+
+=== A0A1X1FFT0 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:ORN30017.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:ORN30017.1};
+Bit Score: 208.0
+E-value: 8.711e-05
+Alignment Length: 87
+Percentage Identity: 0.218
+
+=== A0A5J6MPM7 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 201.0
+E-value: 8.711e-05
+Alignment Length: 105
+Percentage Identity: 0.247
+
+=== A0A6C0UR48 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QIB76871.1};
+Bit Score: 200.0
+E-value: 8.711e-05
+Alignment Length: 88
+Percentage Identity: 0.261
+
+=== A0A660PZM3 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 194.0
+E-value: 8.711e-05
+Alignment Length: 97
+Percentage Identity: 0.247
+
+=== A0A3M3R7H1 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:RMN92452.1};
+Bit Score: 221.0
+E-value: 9.253e-05
+Alignment Length: 97
+Percentage Identity: 0.268
+
+=== A0A1H2WAL6 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:SDW77733.1};
+Bit Score: 218.0
+E-value: 9.253e-05
+Alignment Length: 95
+Percentage Identity: 0.273
+
+=== A0A2V1MZF5 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:PWG00357.1};
+Bit Score: 217.0
+E-value: 9.253e-05
+Alignment Length: 91
+Percentage Identity: 0.208
+
+=== A0A1I4GXV6 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:SFL34785.1};
+Bit Score: 215.0
+E-value: 9.253e-05
+Alignment Length: 99
+Percentage Identity: 0.232
+
+=== A0A5C5VLM9 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:TWT38632.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:TWT38632.1};
+Bit Score: 214.0
+E-value: 9.253e-05
+Alignment Length: 94
+Percentage Identity: 0.223
+
+=== A0A4U7BLB4 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TKX28817.1};
+Bit Score: 214.0
+E-value: 9.253e-05
+Alignment Length: 87
+Percentage Identity: 0.206
+
+=== A0A383R9N0 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 210.0
+E-value: 9.253e-05
+Alignment Length: 94
+Percentage Identity: 0.244
+
+=== S0KX00 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 206.0
+E-value: 9.253e-05
+Alignment Length: 87
+Percentage Identity: 0.229
+
+=== A0A0P1IS65 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:CUK26389.1};
+Bit Score: 202.0
+E-value: 9.253e-05
+Alignment Length: 93
+Percentage Identity: 0.215
+
+=== A0A2W4IMC3 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 188.0
+E-value: 9.253e-05
+Alignment Length: 96
+Percentage Identity: 0.25
+
+=== A0A1U7MCG8 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:OLS55136.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:OLS55136.1};
+Bit Score: 222.0
+E-value: 9.83e-05
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== A0A6N8AYP8 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:MTI74942.1};
+Bit Score: 220.0
+E-value: 9.83e-05
+Alignment Length: 95
+Percentage Identity: 0.263
+
+=== A0A0R2BH68 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 220.0
+E-value: 9.83e-05
+Alignment Length: 91
+Percentage Identity: 0.208
+
+=== A0A5B8LT46 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QDZ10945.1};
+Bit Score: 211.0
+E-value: 9.83e-05
+Alignment Length: 92
+Percentage Identity: 0.271
+
+=== A0A0E3S7S4 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:AKB77454.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:AKB77454.1};
+Bit Score: 209.0
+E-value: 9.83e-05
+Alignment Length: 91
+Percentage Identity: 0.197
+
+=== A0A0R1LU25 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 209.0
+E-value: 9.83e-05
+Alignment Length: 102
+Percentage Identity: 0.196
+
+=== A0A522AHT8 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TAL04976.1};
+DE   Flags: Fragment;
+Bit Score: 202.0
+E-value: 9.83e-05
+Alignment Length: 96
+Percentage Identity: 0.25
+
+=== A0A1H6K167 ===
+DE   SubName: Full=Ribosomal protein S18 acetylase RimI {ECO:0000313|EMBL:SEH65125.1};
+Bit Score: 202.0
+E-value: 9.83e-05
+Alignment Length: 92
+Percentage Identity: 0.206
+
+=== I3R706 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:AFK20016.1, ECO:0000313|EMBL:QCQ76533.1};
+DE   SubName: Full=Peptide N-acetyltransferase {ECO:0000313|EMBL:AHZ23394.1};
+Bit Score: 200.0
+E-value: 9.83e-05
+Alignment Length: 93
+Percentage Identity: 0.215
+
+=== A0A0M8V1T2 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 193.0
+E-value: 9.83e-05
+Alignment Length: 95
+Percentage Identity: 0.252
+
+=== A0A7Y0E263 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NMM45783.1};
+Bit Score: 191.0
+E-value: 9.83e-05
+Alignment Length: 98
+Percentage Identity: 0.214
+
+=== A0A433Y6J5 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RUT44545.1};
+Bit Score: 187.0
+E-value: 9.83e-05
+Alignment Length: 91
+Percentage Identity: 0.164
+
+=== F7K4D7 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 223.0
+E-value: 0.0001044
+Alignment Length: 93
+Percentage Identity: 0.172
+
+=== A0A1Y2SJ21 ===
+DE   SubName: Full=GCN5 family acetyltransferase {ECO:0000313|EMBL:OTA17555.1};
+Bit Score: 220.0
+E-value: 0.0001044
+Alignment Length: 93
+Percentage Identity: 0.215
+
+=== A0A2W7R3A6 ===
+DE   SubName: Full=Acetyltransferase (GNAT) family protein {ECO:0000313|EMBL:PZX53696.1};
+Bit Score: 213.0
+E-value: 0.0001044
+Alignment Length: 95
+Percentage Identity: 0.242
+
+=== A0A1C3EKG5 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 213.0
+E-value: 0.0001044
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A1E4ZGY3 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 205.0
+E-value: 0.0001044
+Alignment Length: 102
+Percentage Identity: 0.186
+
+=== A0A1I5GGB5 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:SFO34611.1};
+Bit Score: 204.0
+E-value: 0.0001044
+Alignment Length: 88
+Percentage Identity: 0.238
+
+=== A0A1S1NZJ0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QEL10499.1};
+Bit Score: 203.0
+E-value: 0.0001044
+Alignment Length: 96
+Percentage Identity: 0.25
+
+=== C7BTF6 ===
+DE   SubName: Full=Hypothetical acetyltransferase {ECO:0000313|EMBL:CAQ83811.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:CAQ83811.1};
+Bit Score: 202.0
+E-value: 0.0001044
+Alignment Length: 90
+Percentage Identity: 0.188
+
+=== A0A5N7MHA1 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MPR26110.1};
+Bit Score: 197.0
+E-value: 0.0001044
+Alignment Length: 84
+Percentage Identity: 0.273
+
+=== A0A4Y1WSX7 ===
+DE   RecName: Full=Orotate phosphoribosyltransferase {ECO:0000256|ARBA:ARBA00011971, ECO:0000256|HAMAP-Rule:MF_01208};
+DE            Short=OPRT {ECO:0000256|HAMAP-Rule:MF_01208};
+DE            Short=OPRTase {ECO:0000256|HAMAP-Rule:MF_01208};
+DE            EC=2.4.2.10 {ECO:0000256|ARBA:ARBA00011971, ECO:0000256|HAMAP-Rule:MF_01208};
+Bit Score: 221.0
+E-value: 0.0001109
+Alignment Length: 94
+Percentage Identity: 0.244
+
+=== A0A369BTI4 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:RCX23727.1};
+Bit Score: 217.0
+E-value: 0.0001109
+Alignment Length: 96
+Percentage Identity: 0.187
+
+=== M0N5N0 ===
+DE   SubName: Full=N-acetyltransferase GCN5 {ECO:0000313|EMBL:EMA52863.1};
+Bit Score: 211.0
+E-value: 0.0001109
+Alignment Length: 90
+Percentage Identity: 0.277
+
+=== A0A3N2KKG0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:ROS86122.1};
+Bit Score: 210.0
+E-value: 0.0001109
+Alignment Length: 86
+Percentage Identity: 0.279
+
+=== A0A2K8MAT0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:ATY16848.1};
+Bit Score: 206.0
+E-value: 0.0001109
+Alignment Length: 88
+Percentage Identity: 0.238
+
+=== A0A4Q0V9R8 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RXI45335.1};
+Bit Score: 206.0
+E-value: 0.0001109
+Alignment Length: 82
+Percentage Identity: 0.219
+
+=== A0A1R0KH80 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:OLZ45025.1};
+Bit Score: 198.0
+E-value: 0.0001109
+Alignment Length: 92
+Percentage Identity: 0.25
+
+=== A0A7D4PVE2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QKJ19734.1};
+Bit Score: 198.0
+E-value: 0.0001109
+Alignment Length: 101
+Percentage Identity: 0.237
+
+=== A0A2K2TXX0 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 197.0
+E-value: 0.0001109
+Alignment Length: 103
+Percentage Identity: 0.203
+
+=== A0A7C3AWV4 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:HEY41367.1};
+Bit Score: 183.0
+E-value: 0.0001109
+Alignment Length: 93
+Percentage Identity: 0.182
+
+=== A0A3M5F0P8 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:RMS68212.1};
+Bit Score: 218.0
+E-value: 0.0001179
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== A0A4Q7PBV4 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:RZS97806.1};
+Bit Score: 218.0
+E-value: 0.0001179
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== I4N8U6 ===
+DE   SubName: Full=GCN5-like N-acetyltransferase {ECO:0000313|EMBL:EIK97886.1};
+Bit Score: 216.0
+E-value: 0.0001179
+Alignment Length: 94
+Percentage Identity: 0.234
+
+=== A0A511QU37 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:GEM80547.1};
+Bit Score: 214.0
+E-value: 0.0001179
+Alignment Length: 95
+Percentage Identity: 0.273
+
+=== A0A2P8FMJ8 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:PSL22964.1};
+Bit Score: 213.0
+E-value: 0.0001179
+Alignment Length: 94
+Percentage Identity: 0.234
+
+=== A0A535IK87 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TMC59284.1};
+Bit Score: 207.0
+E-value: 0.0001179
+Alignment Length: 85
+Percentage Identity: 0.235
+
+=== A0A1D2SUV7 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:ODT08091.1};
+Bit Score: 205.0
+E-value: 0.0001179
+Alignment Length: 90
+Percentage Identity: 0.277
+
+=== A0A369B381 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RSU04312.1};
+Bit Score: 203.0
+E-value: 0.0001179
+Alignment Length: 87
+Percentage Identity: 0.183
+
+=== A0A6S7F8J1 ===
+DE   SubName: Full=Peptidyl-lysine N-acetyltransferase YjaB {ECO:0000313|EMBL:CAB3931021.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:CAB3931021.1};
+Bit Score: 215.0
+E-value: 0.0001252
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== A0A1Y4FMD5 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:OUO81071.1};
+Bit Score: 208.0
+E-value: 0.0001252
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== I9VXT5 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 208.0
+E-value: 0.0001252
+Alignment Length: 98
+Percentage Identity: 0.214
+
+=== A0A7Y0KPF2 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:NMO93758.1};
+Bit Score: 206.0
+E-value: 0.0001252
+Alignment Length: 102
+Percentage Identity: 0.274
+
+=== A0A2S6PLQ9 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:PPQ57011.1};
+Bit Score: 205.0
+E-value: 0.0001252
+Alignment Length: 98
+Percentage Identity: 0.255
+
+=== A0A5P0JI55 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MQK28400.1};
+DE   Flags: Fragment;
+Bit Score: 205.0
+E-value: 0.0001252
+Alignment Length: 95
+Percentage Identity: 0.2
+
+=== A0A4Z0W4H1 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TGG91661.1};
+Bit Score: 201.0
+E-value: 0.0001252
+Alignment Length: 97
+Percentage Identity: 0.226
+
+=== A0A2E0LGC1 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 191.0
+E-value: 0.0001252
+Alignment Length: 105
+Percentage Identity: 0.266
+
+=== A0A0R1N0E4 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 216.0
+E-value: 0.000133
+Alignment Length: 91
+Percentage Identity: 0.208
+
+=== A0A1X7AM94 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:SMA49371.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:SMA49371.1};
+Bit Score: 216.0
+E-value: 0.000133
+Alignment Length: 93
+Percentage Identity: 0.204
+
+=== A0A5R8PDN2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TLG10317.1};
+Bit Score: 212.0
+E-value: 0.000133
+Alignment Length: 91
+Percentage Identity: 0.274
+
+=== A0A059FBB7 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:KCZ87851.1};
+Bit Score: 212.0
+E-value: 0.000133
+Alignment Length: 95
+Percentage Identity: 0.221
+
+=== A0A2D8QD92 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:MAM75661.1};
+Bit Score: 207.0
+E-value: 0.000133
+Alignment Length: 94
+Percentage Identity: 0.265
+
+=== A0A6B0TST0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MXU64272.1};
+Bit Score: 204.0
+E-value: 0.000133
+Alignment Length: 99
+Percentage Identity: 0.242
+
+=== A0A849L1G7 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NNU80148.1};
+Bit Score: 198.0
+E-value: 0.000133
+Alignment Length: 90
+Percentage Identity: 0.277
+
+=== A0A2X3E9H2 ===
+DE   SubName: Full=Uncharacterized N-acetyltransferase YjaB {ECO:0000313|EMBL:VFS57851.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:VFS57851.1};
+Bit Score: 193.0
+E-value: 0.000133
+Alignment Length: 91
+Percentage Identity: 0.274
+
+=== G8WQ69 ===
+DE   SubName: Full=GCN5-related N-acetyltransferase {ECO:0000313|EMBL:AEW94129.1};
+Bit Score: 186.0
+E-value: 0.000133
+Alignment Length: 103
+Percentage Identity: 0.213
+
+=== A0A1Q6SZG4 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:OLA64568.1};
+Bit Score: 220.0
+E-value: 0.0001413
+Alignment Length: 93
+Percentage Identity: 0.161
+
+=== R5HIE9 ===
+DE   SubName: Full=Acetyltransferase GNAT family {ECO:0000313|EMBL:CCY27904.1};
+Bit Score: 217.0
+E-value: 0.0001413
+Alignment Length: 95
+Percentage Identity: 0.189
+
+=== A0A0R1TZR2 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 216.0
+E-value: 0.0001413
+Alignment Length: 91
+Percentage Identity: 0.208
+
+=== A0A5J5FYY3 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:KAA8998417.1};
+Bit Score: 215.0
+E-value: 0.0001413
+Alignment Length: 94
+Percentage Identity: 0.244
+
+=== A0A1K2HG69 ===
+DE   SubName: Full=Acetyltransferase (GNAT) family protein {ECO:0000313|EMBL:SFZ75780.1};
+Bit Score: 210.0
+E-value: 0.0001413
+Alignment Length: 95
+Percentage Identity: 0.242
+
+=== Q88L62 ===
+DE   SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:AAN67687.1};
+Bit Score: 209.0
+E-value: 0.0001413
+Alignment Length: 94
+Percentage Identity: 0.255
+
+=== A0A242H1Y9 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 199.0
+E-value: 0.0001413
+Alignment Length: 90
+Percentage Identity: 0.177
+
+=== A0A372K5V2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RFU47661.1};
+Bit Score: 196.0
+E-value: 0.0001413
+Alignment Length: 102
+Percentage Identity: 0.254
+
+=== J9D687 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 191.0
+E-value: 0.0001413
+Alignment Length: 112
+Percentage Identity: 0.151
+
+=== A0A1E7JTK9 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 190.0
+E-value: 0.0001413
+Alignment Length: 95
+Percentage Identity: 0.21
+
+=== A0A6N9PS59 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NBI16566.1};
+Bit Score: 168.0
+E-value: 0.0001413
+Alignment Length: 100
+Percentage Identity: 0.19
+
+=== A0A176TJH1 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 213.0
+E-value: 0.0001501
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A2U9STC1 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:AWU99939.1};
+Bit Score: 211.0
+E-value: 0.0001501
+Alignment Length: 95
+Percentage Identity: 0.273
+
+=== Q39F79 ===
+DE   SubName: Full=GCN5-related N-acetyltransferase {ECO:0000313|EMBL:ABB08887.1};
+Bit Score: 211.0
+E-value: 0.0001501
+Alignment Length: 97
+Percentage Identity: 0.257
+
+=== A0A1G8Z6Q5 ===
+DE   SubName: Full=N-acetylglutamate synthase, GNAT family {ECO:0000313|EMBL:SDK10759.1};
+Bit Score: 207.0
+E-value: 0.0001501
+Alignment Length: 94
+Percentage Identity: 0.234
+
+=== A0A850KPY5 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:NVJ97659.1};
+Bit Score: 205.0
+E-value: 0.0001501
+Alignment Length: 92
+Percentage Identity: 0.217
+
+=== A0A0F5FNM2 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 204.0
+E-value: 0.0001501
+Alignment Length: 84
+Percentage Identity: 0.261
+
+=== A0A1H4FES2 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:SEA95786.1};
+Bit Score: 203.0
+E-value: 0.0001501
+Alignment Length: 92
+Percentage Identity: 0.239
+
+=== Q897T4 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:AAO35252.1};
+Bit Score: 203.0
+E-value: 0.0001501
+Alignment Length: 82
+Percentage Identity: 0.219
+
+=== J5QEB1 ===
+DE   SubName: Full=GNAT family acetyltransferase {ECO:0000313|EMBL:EJT06758.1};
+Bit Score: 202.0
+E-value: 0.0001501
+Alignment Length: 93
+Percentage Identity: 0.236
+
+=== A0A371L6V5 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:RDZ41734.1};
+Bit Score: 193.0
+E-value: 0.0001501
+Alignment Length: 88
+Percentage Identity: 0.261
+
+=== A0A1G9PCF5 ===
+DE   SubName: Full=Ribosomal protein S18 acetylase RimI {ECO:0000313|EMBL:SDL96439.1};
+Bit Score: 189.0
+E-value: 0.0001501
+Alignment Length: 95
+Percentage Identity: 0.252
+
+=== A0A2M8U6W5 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:PJI40249.1};
+Bit Score: 188.0
+E-value: 0.0001501
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== M5PWH0 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:EMG38399.1};
+Bit Score: 213.0
+E-value: 0.0001595
+Alignment Length: 92
+Percentage Identity: 0.239
+
+=== A0A329QFT3 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:RAW10182.1};
+Bit Score: 211.0
+E-value: 0.0001595
+Alignment Length: 99
+Percentage Identity: 0.181
+
+=== A0A3S1C050 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 210.0
+E-value: 0.0001595
+Alignment Length: 93
+Percentage Identity: 0.215
+
+=== A0A3D2XI31 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:HCL06679.1};
+Bit Score: 210.0
+E-value: 0.0001595
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A544YPR6 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TQS18763.1};
+Bit Score: 206.0
+E-value: 0.0001595
+Alignment Length: 95
+Percentage Identity: 0.2
+
+=== A0A416G9M0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RHP61799.1};
+Bit Score: 198.0
+E-value: 0.0001595
+Alignment Length: 89
+Percentage Identity: 0.202
+
+=== A0A5P2DCH9 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QES52796.1};
+Bit Score: 194.0
+E-value: 0.0001595
+Alignment Length: 96
+Percentage Identity: 0.27
+
+=== A0A1Y0IEW1 ===
+DE   SubName: Full=GNAT family acetyltransferase {ECO:0000313|EMBL:ARU59078.1};
+Bit Score: 194.0
+E-value: 0.0001595
+Alignment Length: 94
+Percentage Identity: 0.223
+
+=== A0A1H0F803 ===
+DE   SubName: Full=Acetyltransferase (GNAT) domain-containing protein {ECO:0000313|EMBL:SDN90720.1};
+Bit Score: 194.0
+E-value: 0.0001595
+Alignment Length: 100
+Percentage Identity: 0.2
+
+=== M0HW35 ===
+DE   SubName: Full=N-acetyltransferase GCN5 {ECO:0000313|EMBL:ELZ87329.1};
+Bit Score: 192.0
+E-value: 0.0001595
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A0W1R470 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 190.0
+E-value: 0.0001595
+Alignment Length: 89
+Percentage Identity: 0.235
+
+=== A0A7V9NAQ5 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBA2599930.1};
+Bit Score: 188.0
+E-value: 0.0001595
+Alignment Length: 93
+Percentage Identity: 0.268
+
+=== A0A1C6NL25 ===
+DE   SubName: Full=Ribosomal protein S18 acetylase RimI {ECO:0000313|EMBL:SCK31821.1};
+Bit Score: 186.0
+E-value: 0.0001595
+Alignment Length: 95
+Percentage Identity: 0.273
+
+=== A0A7G5DK24 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QMV62099.1};
+Bit Score: 178.0
+E-value: 0.0001595
+Alignment Length: 98
+Percentage Identity: 0.244
+
+=== A0A2G0VRQ9 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:PHN23157.1};
+Bit Score: 215.0
+E-value: 0.0001694
+Alignment Length: 97
+Percentage Identity: 0.226
+
+=== A0A4Y8ST73 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TFF42032.1};
+Bit Score: 210.0
+E-value: 0.0001694
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== G9YY26 ===
+DE   SubName: Full=Toxin-antitoxin system, toxin component, GNAT family {ECO:0000313|EMBL:EHM51697.1};
+Bit Score: 210.0
+E-value: 0.0001694
+Alignment Length: 95
+Percentage Identity: 0.242
+
+=== A0A7K0GBL6 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MRX80486.1};
+Bit Score: 208.0
+E-value: 0.0001694
+Alignment Length: 93
+Percentage Identity: 0.225
+
+=== A0A5C5SDF9 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TWS97907.1};
+Bit Score: 207.0
+E-value: 0.0001694
+Alignment Length: 94
+Percentage Identity: 0.223
+
+=== N1ZMP4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:USF30467.1};
+Bit Score: 207.0
+E-value: 0.0001694
+Alignment Length: 96
+Percentage Identity: 0.104
+
+=== A0A430A7D1 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 205.0
+E-value: 0.0001694
+Alignment Length: 91
+Percentage Identity: 0.186
+
+=== A0A1H4L6M7 ===
+DE   SubName: Full=Acetyltransferase (GNAT) family protein {ECO:0000313|EMBL:SEB66384.1};
+Bit Score: 202.0
+E-value: 0.0001694
+Alignment Length: 100
+Percentage Identity: 0.19
+
+=== A0A4R6CRI0 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:TDN29435.1};
+Bit Score: 200.0
+E-value: 0.0001694
+Alignment Length: 97
+Percentage Identity: 0.247
+
+=== M4RZM2 ===
+DE   SubName: Full=N-acetyltransferase GCN5 {ECO:0000313|EMBL:AGH48113.1};
+Bit Score: 199.0
+E-value: 0.0001694
+Alignment Length: 98
+Percentage Identity: 0.244
+
+=== A0A0E3WXM9 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:AKB83099.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:AKB83099.1};
+Bit Score: 197.0
+E-value: 0.0001694
+Alignment Length: 92
+Percentage Identity: 0.206
+
+=== A0A081N1S6 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 191.0
+E-value: 0.0001694
+Alignment Length: 93
+Percentage Identity: 0.225
+
+=== D6U3Y5 ===
+DE   SubName: Full=GCN5-related N-acetyltransferase {ECO:0000313|EMBL:EFH81223.1};
+Bit Score: 190.0
+E-value: 0.0001694
+Alignment Length: 101
+Percentage Identity: 0.188
+
+=== A0A1H8U4C2 ===
+DE   SubName: Full=Acetyltransferase (GNAT) domain-containing protein {ECO:0000313|EMBL:SEO98120.1};
+Bit Score: 176.0
+E-value: 0.0001694
+Alignment Length: 99
+Percentage Identity: 0.252
+
+=== A0A260QP30 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 174.0
+E-value: 0.0001694
+Alignment Length: 101
+Percentage Identity: 0.227
+
+=== A0A6C8G021 ===
+DE   SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:EHB39155.1};
+Bit Score: 210.0
+E-value: 0.00018
+Alignment Length: 94
+Percentage Identity: 0.276
+
+=== A0A3N7CEP8 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RQO30358.1};
+Bit Score: 209.0
+E-value: 0.00018
+Alignment Length: 93
+Percentage Identity: 0.215
+
+=== A0A0R1KV93 ===
+DE   SubName: Full=N-acetyltransferase GCN5 {ECO:0000313|EMBL:KRK87645.1};
+Bit Score: 208.0
+E-value: 0.00018
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A094R4A6 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 201.0
+E-value: 0.00018
+Alignment Length: 91
+Percentage Identity: 0.197
+
+=== A0A1L4BXM3 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 199.0
+E-value: 0.00018
+Alignment Length: 87
+Percentage Identity: 0.183
+
+=== J0NBG7 ===
+DE   SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:EJF41982.1};
+Bit Score: 196.0
+E-value: 0.00018
+Alignment Length: 92
+Percentage Identity: 0.217
+
+=== A0A810L7A9 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 186.0
+E-value: 0.00018
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== B8J4B7 ===
+DE   SubName: Full=GCN5-related N-acetyltransferase {ECO:0000313|EMBL:ACL48375.1};
+Bit Score: 186.0
+E-value: 0.00018
+Alignment Length: 94
+Percentage Identity: 0.234
+
+=== A0A085F503 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:KFC66548.1};
+Bit Score: 175.0
+E-value: 0.00018
+Alignment Length: 87
+Percentage Identity: 0.31
+
+=== A0A7S8IDE4 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QPC81451.1};
+Bit Score: 173.0
+E-value: 0.00018
+Alignment Length: 95
+Percentage Identity: 0.263
+
+=== A0A6B1EM81 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MYF67911.1};
+Bit Score: 205.0
+E-value: 0.0001912
+Alignment Length: 107
+Percentage Identity: 0.196
+
+=== A0A5E4P1T1 ===
+DE   SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:VVC56212.1};
+Bit Score: 203.0
+E-value: 0.0001912
+Alignment Length: 94
+Percentage Identity: 0.234
+
+=== A0A6G8G3A8 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QIM23156.1};
+Bit Score: 190.0
+E-value: 0.0001912
+Alignment Length: 95
+Percentage Identity: 0.21
+
+=== G8PLY1 ===
+DE   SubName: Full=Protein containing GCN5-related N-acetyltransferase domain {ECO:0000313|EMBL:AEV39401.1};
+Bit Score: 188.0
+E-value: 0.0001912
+Alignment Length: 95
+Percentage Identity: 0.221
+
+=== A0A7W0SSA2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBA3377323.1};
+Bit Score: 164.0
+E-value: 0.0001912
+Alignment Length: 95
+Percentage Identity: 0.252
+
+=== F4FGC4 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 208.0
+E-value: 0.0002031
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== A0A6G6STU5 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBG2913021.1};
+Bit Score: 207.0
+E-value: 0.0002031
+Alignment Length: 95
+Percentage Identity: 0.221
+
+=== A0A242CX32 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 206.0
+E-value: 0.0002031
+Alignment Length: 91
+Percentage Identity: 0.142
+
+=== Q9I3R6 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 203.0
+E-value: 0.0002031
+Alignment Length: 92
+Percentage Identity: 0.25
+
+=== A0A5C4JSA1 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TNB48034.1};
+Bit Score: 201.0
+E-value: 0.0002031
+Alignment Length: 95
+Percentage Identity: 0.284
+
+=== A0A2P4NRI8 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:POG55698.1};
+Bit Score: 201.0
+E-value: 0.0002031
+Alignment Length: 98
+Percentage Identity: 0.265
+
+=== A0A840A1X6 ===
+DE   SubName: Full=Ribosomal protein S18 acetylase RimI-like enzyme {ECO:0000313|EMBL:MBB3891999.1};
+Bit Score: 196.0
+E-value: 0.0002031
+Alignment Length: 89
+Percentage Identity: 0.258
+
+=== A0A2A3JVL9 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:PBD18857.1};
+Bit Score: 191.0
+E-value: 0.0002031
+Alignment Length: 97
+Percentage Identity: 0.247
+
+=== A0A2W1JBP1 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 187.0
+E-value: 0.0002031
+Alignment Length: 99
+Percentage Identity: 0.262
+
+=== A0A5N7MYG4 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MPR31054.1};
+Bit Score: 185.0
+E-value: 0.0002031
+Alignment Length: 102
+Percentage Identity: 0.274
+
+=== A0A830EM93 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:GGK57888.1};
+Bit Score: 184.0
+E-value: 0.0002031
+Alignment Length: 90
+Percentage Identity: 0.266
+
+=== A0A2N2M1E9 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 183.0
+E-value: 0.0002031
+Alignment Length: 97
+Percentage Identity: 0.226
+
+=== A0A847WXL4 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 160.0
+E-value: 0.0002031
+Alignment Length: 93
+Percentage Identity: 0.258
+
+=== A0A1Y4HL35 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:OUP05272.1};
+Bit Score: 208.0
+E-value: 0.0002157
+Alignment Length: 95
+Percentage Identity: 0.178
+
+=== A0A6G7YP84 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:QIK78549.1};
+Bit Score: 207.0
+E-value: 0.0002157
+Alignment Length: 92
+Percentage Identity: 0.239
+
+=== A0A1H0AHM1 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:SDN33082.1};
+Bit Score: 202.0
+E-value: 0.0002157
+Alignment Length: 90
+Percentage Identity: 0.255
+
+=== A0A2T5ATY7 ===
+DE   RecName: Full=Glutamate racemase {ECO:0000256|ARBA:ARBA00013090, ECO:0000256|HAMAP-Rule:MF_00258};
+DE            EC=5.1.1.3 {ECO:0000256|ARBA:ARBA00013090, ECO:0000256|HAMAP-Rule:MF_00258};
+Bit Score: 201.0
+E-value: 0.0002157
+Alignment Length: 100
+Percentage Identity: 0.22
+
+=== A0A6P2KYU6 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:VWB62368.1};
+Bit Score: 200.0
+E-value: 0.0002157
+Alignment Length: 86
+Percentage Identity: 0.267
+
+=== A0A6I5X983 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QGN59388.1};
+Bit Score: 198.0
+E-value: 0.0002157
+Alignment Length: 94
+Percentage Identity: 0.202
+
+=== A0A175S0R7 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 197.0
+E-value: 0.0002157
+Alignment Length: 94
+Percentage Identity: 0.191
+
+=== A0A7K1TQT2 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:MVQ41952.1};
+Bit Score: 204.0
+E-value: 0.0002292
+Alignment Length: 87
+Percentage Identity: 0.241
+
+=== A0A2S8GJ08 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:PQO44024.1};
+Bit Score: 204.0
+E-value: 0.0002292
+Alignment Length: 95
+Percentage Identity: 0.21
+
+=== A0A6G4XRB1 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NGO79743.1};
+Bit Score: 202.0
+E-value: 0.0002292
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== A0A1V0U2Y1 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:ARF59579.1};
+Bit Score: 201.0
+E-value: 0.0002292
+Alignment Length: 102
+Percentage Identity: 0.215
+
+=== A0A1Y4GE13 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 200.0
+E-value: 0.0002292
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== A0A5R9REQ7 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TLX72720.1};
+Bit Score: 198.0
+E-value: 0.0002292
+Alignment Length: 92
+Percentage Identity: 0.282
+
+=== A0A7X1J7T3 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBC2905818.1};
+Bit Score: 196.0
+E-value: 0.0002292
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== D4LBA8 ===
+DE   SubName: Full=Acetyltransferase (GNAT) family {ECO:0000313|EMBL:CBL16903.1};
+Bit Score: 194.0
+E-value: 0.0002292
+Alignment Length: 93
+Percentage Identity: 0.182
+
+=== A0A2K9Z873 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:AUW44455.1};
+Bit Score: 192.0
+E-value: 0.0002292
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A1C3NMZ1 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:SBV51770.1};
+Bit Score: 190.0
+E-value: 0.0002292
+Alignment Length: 101
+Percentage Identity: 0.277
+
+=== A0A1V4QYG3 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 182.0
+E-value: 0.0002292
+Alignment Length: 93
+Percentage Identity: 0.225
+
+=== A0A7Y0KN63 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NMO93603.1};
+Bit Score: 179.0
+E-value: 0.0002292
+Alignment Length: 102
+Percentage Identity: 0.225
+
+=== A0A7T7AMN3 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 170.0
+E-value: 0.0002292
+Alignment Length: 91
+Percentage Identity: 0.175
+
+=== A0A4R7ZES1 ===
+DE   SubName: Full=Ribosomal protein S18 acetylase RimI-like enzyme {ECO:0000313|EMBL:TDW15772.1};
+Bit Score: 207.0
+E-value: 0.0002435
+Alignment Length: 97
+Percentage Identity: 0.237
+
+=== A0A423DTP2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:ROL75380.1};
+Bit Score: 202.0
+E-value: 0.0002435
+Alignment Length: 95
+Percentage Identity: 0.252
+
+=== A0A3E4U1F8 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RGL99721.1};
+Bit Score: 201.0
+E-value: 0.0002435
+Alignment Length: 95
+Percentage Identity: 0.21
+
+=== A0A412FQ87 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RGR70284.1};
+Bit Score: 195.0
+E-value: 0.0002435
+Alignment Length: 93
+Percentage Identity: 0.204
+
+=== A0A847X4G3 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NMB14388.1};
+Bit Score: 193.0
+E-value: 0.0002435
+Alignment Length: 92
+Percentage Identity: 0.184
+
+=== A3X2J3 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:EAQ33548.1};
+Bit Score: 193.0
+E-value: 0.0002435
+Alignment Length: 91
+Percentage Identity: 0.175
+
+=== A0A1I2JJA2 ===
+DE   SubName: Full=N-acetylglutamate synthase, GNAT family {ECO:0000313|EMBL:SFF53933.1};
+Bit Score: 190.0
+E-value: 0.0002435
+Alignment Length: 93
+Percentage Identity: 0.258
+
+=== A0A850HP87 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NVH58233.1};
+Bit Score: 180.0
+E-value: 0.0002435
+Alignment Length: 90
+Percentage Identity: 0.188
+
+=== A0A7K3L353 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NBI32783.1};
+Bit Score: 199.0
+E-value: 0.0002586
+Alignment Length: 102
+Percentage Identity: 0.235
+
+=== A0A7J4PJY3 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:HII00956.1};
+Bit Score: 194.0
+E-value: 0.0002586
+Alignment Length: 87
+Percentage Identity: 0.218
+
+=== R1GTN1 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 193.0
+E-value: 0.0002586
+Alignment Length: 99
+Percentage Identity: 0.242
+
+=== A0A5P9PTL4 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:QFU91524.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:QFU91524.1};
+Bit Score: 186.0
+E-value: 0.0002586
+Alignment Length: 96
+Percentage Identity: 0.25
+
+=== A0A536TU46 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TMG90978.1};
+Bit Score: 169.0
+E-value: 0.0002586
+Alignment Length: 96
+Percentage Identity: 0.208
+
+=== Q1JZB8 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 154.0
+E-value: 0.0002586
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A6N8TKG4 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:MXO02905.1};
+Bit Score: 204.0
+E-value: 0.0002748
+Alignment Length: 93
+Percentage Identity: 0.258
+
+=== A0A1T3FH02 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:OOH94479.1};
+Bit Score: 196.0
+E-value: 0.0002748
+Alignment Length: 90
+Percentage Identity: 0.188
+
+=== A0A6C0BLG8 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 191.0
+E-value: 0.0002748
+Alignment Length: 101
+Percentage Identity: 0.198
+
+=== A0A6P0DV38 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NEK56012.1};
+DE   Flags: Fragment;
+Bit Score: 190.0
+E-value: 0.0002748
+Alignment Length: 99
+Percentage Identity: 0.222
+
+=== A0A367YX35 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:RCK70465.1};
+Bit Score: 190.0
+E-value: 0.0002748
+Alignment Length: 98
+Percentage Identity: 0.204
+
+=== A0A7W4VP07 ===
+DE   SubName: Full=Ribosomal protein S18 acetylase RimI-like enzyme {ECO:0000313|EMBL:MBB3020386.1};
+Bit Score: 188.0
+E-value: 0.0002748
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== K2JRR7 ===
+DE   SubName: Full=GCN5-like N-acetyltransferase {ECO:0000313|EMBL:EKE77162.1};
+Bit Score: 187.0
+E-value: 0.0002748
+Alignment Length: 92
+Percentage Identity: 0.184
+
+=== A0A5C8ZIJ3 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TXR56746.1};
+Bit Score: 180.0
+E-value: 0.0002748
+Alignment Length: 89
+Percentage Identity: 0.258
+
+=== A0A151AHA7 ===
+DE   SubName: Full=Acetyltransferase (GNAT) family protein {ECO:0000313|EMBL:KYH26930.1};
+Bit Score: 174.0
+E-value: 0.0002748
+Alignment Length: 92
+Percentage Identity: 0.271
+
+=== A0A2E0UTB6 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 168.0
+E-value: 0.0002748
+Alignment Length: 96
+Percentage Identity: 0.239
+
+=== A0A7W1GKA1 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBA3717387.1};
+Bit Score: 201.0
+E-value: 0.0002919
+Alignment Length: 98
+Percentage Identity: 0.214
+
+=== A0A1E5KVB7 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 198.0
+E-value: 0.0002919
+Alignment Length: 91
+Percentage Identity: 0.142
+
+=== A0A0Q9PVA4 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 193.0
+E-value: 0.0002919
+Alignment Length: 93
+Percentage Identity: 0.279
+
+=== A0A0Q6ULT6 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:KQV66234.1};
+Bit Score: 191.0
+E-value: 0.0002919
+Alignment Length: 92
+Percentage Identity: 0.271
+
+=== A0A1C5BGA5 ===
+DE   SubName: Full=L-amino acid N-acyltransferase YncA {ECO:0000313|EMBL:SCF57514.1};
+Bit Score: 191.0
+E-value: 0.0002919
+Alignment Length: 86
+Percentage Identity: 0.209
+
+=== A0A238L4C5 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:SMX49176.1};
+Bit Score: 190.0
+E-value: 0.0002919
+Alignment Length: 91
+Percentage Identity: 0.274
+
+=== N1ZGS9 ===
+DE   SubName: Full=Peptidyl-lysine N-acetyltransferase YiaC {ECO:0000313|EMBL:USF30421.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:USF30421.1};
+Bit Score: 189.0
+E-value: 0.0002919
+Alignment Length: 94
+Percentage Identity: 0.191
+
+=== A8S3Z8 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 189.0
+E-value: 0.0002919
+Alignment Length: 88
+Percentage Identity: 0.181
+
+=== A0A2V6TF09 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 187.0
+E-value: 0.0002919
+Alignment Length: 93
+Percentage Identity: 0.225
+
+=== A0A805ZX64 ===
+DE   SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:ABJ60127.1};
+Bit Score: 185.0
+E-value: 0.0002919
+Alignment Length: 96
+Percentage Identity: 0.208
+
+=== A0A4T3FJF4 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TIX90157.1};
+Bit Score: 181.0
+E-value: 0.0002919
+Alignment Length: 89
+Percentage Identity: 0.258
+
+=== A0A6J4J4Q1 ===
+DE   SubName: Full=N-acetyltransferase ElaA {ECO:0000313|EMBL:CAA9268866.1};
+Bit Score: 179.0
+E-value: 0.0002919
+Alignment Length: 97
+Percentage Identity: 0.195
+
+=== A0A4R7TI06 ===
+DE   SubName: Full=Ribosomal protein S18 acetylase RimI-like enzyme {ECO:0000313|EMBL:TDU91276.1};
+Bit Score: 202.0
+E-value: 0.0003101
+Alignment Length: 97
+Percentage Identity: 0.247
+
+=== B1C6P0 ===
+DE   SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:EDS72677.1};
+Bit Score: 202.0
+E-value: 0.0003101
+Alignment Length: 91
+Percentage Identity: 0.208
+
+=== A0A4Q2SJZ2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RYC05281.1};
+Bit Score: 194.0
+E-value: 0.0003101
+Alignment Length: 93
+Percentage Identity: 0.268
+
+=== A0A7C4MIX0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:HGU22146.1};
+Bit Score: 194.0
+E-value: 0.0003101
+Alignment Length: 92
+Percentage Identity: 0.152
+
+=== A0A0Q7XE59 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 192.0
+E-value: 0.0003101
+Alignment Length: 93
+Percentage Identity: 0.258
+
+=== A0A372YUC9 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RGD46850.1};
+Bit Score: 192.0
+E-value: 0.0003101
+Alignment Length: 87
+Percentage Identity: 0.172
+
+=== A0A7X0MAM1 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:MBB6483609.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:MBB6483609.1};
+Bit Score: 191.0
+E-value: 0.0003101
+Alignment Length: 92
+Percentage Identity: 0.25
+
+=== A0A511UNQ9 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 189.0
+E-value: 0.0003101
+Alignment Length: 96
+Percentage Identity: 0.218
+
+=== A0A385YY09 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:AYC30817.1};
+Bit Score: 187.0
+E-value: 0.0003101
+Alignment Length: 94
+Percentage Identity: 0.18
+
+=== A0A344L6E2 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 185.0
+E-value: 0.0003101
+Alignment Length: 96
+Percentage Identity: 0.26
+
+=== A0A848X726 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NNF15048.1};
+Bit Score: 183.0
+E-value: 0.0003101
+Alignment Length: 109
+Percentage Identity: 0.229
+
+=== A0A1E4GBY1 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 169.0
+E-value: 0.0003101
+Alignment Length: 96
+Percentage Identity: 0.25
+
+=== A0A081ND49 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 197.0
+E-value: 0.0003294
+Alignment Length: 94
+Percentage Identity: 0.191
+
+=== A0A416SL66 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RHR30764.1};
+Bit Score: 196.0
+E-value: 0.0003294
+Alignment Length: 91
+Percentage Identity: 0.164
+
+=== B8C153 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 193.0
+E-value: 0.0003294
+Alignment Length: 109
+Percentage Identity: 0.22
+
+=== A0A0U4CL42 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 193.0
+E-value: 0.0003294
+Alignment Length: 92
+Percentage Identity: 0.195
+
+=== A0A640TJD2 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:GFE23679.1};
+Bit Score: 191.0
+E-value: 0.0003294
+Alignment Length: 101
+Percentage Identity: 0.237
+
+=== A0A844FP39 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MST80166.1};
+Bit Score: 191.0
+E-value: 0.0003294
+Alignment Length: 90
+Percentage Identity: 0.2
+
+=== A0A2M8K994 ===
+DE   SubName: Full=GNAT family acetyltransferase {ECO:0000313|EMBL:PJE56493.1};
+Bit Score: 190.0
+E-value: 0.0003294
+Alignment Length: 87
+Percentage Identity: 0.218
+
+=== A0A0G3GNU9 ===
+DE   SubName: Full=Putative acyltransferase {ECO:0000313|EMBL:AKK02220.1};
+Bit Score: 184.0
+E-value: 0.0003294
+Alignment Length: 95
+Percentage Identity: 0.2
+
+=== A0A255YWP1 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:OYQ33618.1};
+Bit Score: 197.0
+E-value: 0.0003499
+Alignment Length: 90
+Percentage Identity: 0.244
+
+=== A0A4Y4DNA1 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 194.0
+E-value: 0.0003499
+Alignment Length: 96
+Percentage Identity: 0.156
+
+=== A0A4S2USD4 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:THA75521.1};
+Bit Score: 188.0
+E-value: 0.0003499
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== H6NFA2 ===
+DE   SubName: Full=GCN5-like N-acetyltransferase {ECO:0000313|EMBL:AFC29511.1};
+Bit Score: 187.0
+E-value: 0.0003499
+Alignment Length: 100
+Percentage Identity: 0.24
+
+=== A0A645BJF4 ===
+DE   RecName: Full=HTH-type transcriptional repressor ComR {ECO:0008006|Google:ProtNLM};
+Bit Score: 181.0
+E-value: 0.0003499
+Alignment Length: 85
+Percentage Identity: 0.188
+
+=== A0A7J4USI3 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:HIJ12550.1};
+Bit Score: 180.0
+E-value: 0.0003499
+Alignment Length: 87
+Percentage Identity: 0.195
+
+=== A0A090NE15 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:ESU78182.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:ESU78182.1};
+Bit Score: 179.0
+E-value: 0.0003499
+Alignment Length: 94
+Percentage Identity: 0.212
+
+=== A0A650A0U4 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:QGN05936.1};
+Bit Score: 165.0
+E-value: 0.0003499
+Alignment Length: 86
+Percentage Identity: 0.255
+
+=== A0A101HJ03 ===
+DE   SubName: Full=GNAT family acetyltransferase {ECO:0000313|EMBL:KUK77735.1};
+Bit Score: 196.0
+E-value: 0.0003718
+Alignment Length: 93
+Percentage Identity: 0.236
+
+=== A0A558DCB1 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TVT58659.1};
+Bit Score: 196.0
+E-value: 0.0003718
+Alignment Length: 99
+Percentage Identity: 0.222
+
+=== A0A7W5B6S3 ===
+DE   SubName: Full=GNAT superfamily N-acetyltransferase {ECO:0000313|EMBL:MBB3117583.1};
+Bit Score: 194.0
+E-value: 0.0003718
+Alignment Length: 91
+Percentage Identity: 0.285
+
+=== A0A430AG21 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 193.0
+E-value: 0.0003718
+Alignment Length: 98
+Percentage Identity: 0.173
+
+=== I7KLR1 ===
+DE   SubName: Full=G5L3F5 (Acetyltransferase) {ECO:0000313|EMBL:CCI85534.1};
+Bit Score: 189.0
+E-value: 0.0003718
+Alignment Length: 97
+Percentage Identity: 0.257
+
+=== Q831U8 ===
+DE   SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:AAO82120.1};
+Bit Score: 188.0
+E-value: 0.0003718
+Alignment Length: 99
+Percentage Identity: 0.161
+
+=== A0A7D5GFS5 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QLG28488.1};
+Bit Score: 183.0
+E-value: 0.0003718
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A7W9QBA3 ===
+DE   SubName: Full=Ribosomal protein S18 acetylase RimI-like enzyme {ECO:0000313|EMBL:MBB5937091.1};
+Bit Score: 182.0
+E-value: 0.0003718
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== W4FBY4 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 178.0
+E-value: 0.0003718
+Alignment Length: 117
+Percentage Identity: 0.179
+
+=== A0A366ZNV0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RBY77066.1};
+Bit Score: 175.0
+E-value: 0.0003718
+Alignment Length: 98
+Percentage Identity: 0.193
+
+=== A0A1I7DPI3 ===
+DE   SubName: Full=Acetyltransferase (GNAT) domain-containing protein {ECO:0000313|EMBL:SFU13608.1};
+Bit Score: 173.0
+E-value: 0.0003718
+Alignment Length: 87
+Percentage Identity: 0.252
+
+=== D5T052 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:ADG39651.1};
+Bit Score: 200.0
+E-value: 0.0003949
+Alignment Length: 91
+Percentage Identity: 0.131
+
+=== E2CCX4 ===
+DE   SubName: Full=Acetyltransferase, gnat family protein {ECO:0000313|EMBL:EFO33756.1};
+Bit Score: 197.0
+E-value: 0.0003949
+Alignment Length: 98
+Percentage Identity: 0.173
+
+=== A0A845LXN5 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MZR12545.1};
+Bit Score: 196.0
+E-value: 0.0003949
+Alignment Length: 92
+Percentage Identity: 0.195
+
+=== A0A519G5R9 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RZI83299.1};
+DE   Flags: Fragment;
+Bit Score: 193.0
+E-value: 0.0003949
+Alignment Length: 99
+Percentage Identity: 0.232
+
+=== A0A1I5D3W9 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:SFN93944.1};
+Bit Score: 191.0
+E-value: 0.0003949
+Alignment Length: 90
+Percentage Identity: 0.255
+
+=== A0A841LWT2 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:MBB6261786.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:MBB6261786.1};
+Bit Score: 191.0
+E-value: 0.0003949
+Alignment Length: 84
+Percentage Identity: 0.214
+
+=== A4FP50 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 191.0
+E-value: 0.0003949
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A2T2PWK3 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 188.0
+E-value: 0.0003949
+Alignment Length: 93
+Percentage Identity: 0.279
+
+=== C6LBN9 ===
+DE   SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:EET61842.1};
+Bit Score: 188.0
+E-value: 0.0003949
+Alignment Length: 93
+Percentage Identity: 0.258
+
+=== A0A7Y4XE60 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NOT65787.1};
+Bit Score: 182.0
+E-value: 0.0003949
+Alignment Length: 99
+Percentage Identity: 0.151
+
+=== A0A521IJZ6 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TAH55997.1};
+Bit Score: 176.0
+E-value: 0.0003949
+Alignment Length: 89
+Percentage Identity: 0.224
+
+=== A0A645J0Q7 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 175.0
+E-value: 0.0003949
+Alignment Length: 100
+Percentage Identity: 0.19
+
+=== A0A436GHD2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RVB33272.1};
+DE   Flags: Fragment;
+Bit Score: 174.0
+E-value: 0.0003949
+Alignment Length: 98
+Percentage Identity: 0.193
+
+=== A0A0R2KXD1 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 174.0
+E-value: 0.0003949
+Alignment Length: 88
+Percentage Identity: 0.193
+
+=== V6KN66 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 173.0
+E-value: 0.0003949
+Alignment Length: 92
+Percentage Identity: 0.217
+
+=== A0A7W5B2B6 ===
+DE   SubName: Full=RimJ/RimL family protein N-acetyltransferase {ECO:0000313|EMBL:MBB3113145.1};
+Bit Score: 196.0
+E-value: 0.0004195
+Alignment Length: 93
+Percentage Identity: 0.236
+
+=== A0A1D8G680 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:AOT60938.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:AOT60938.1};
+Bit Score: 194.0
+E-value: 0.0004195
+Alignment Length: 97
+Percentage Identity: 0.185
+
+=== R3W621 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 193.0
+E-value: 0.0004195
+Alignment Length: 91
+Percentage Identity: 0.164
+
+=== A0A316C4P1 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:PWJ83966.1};
+Bit Score: 192.0
+E-value: 0.0004195
+Alignment Length: 86
+Percentage Identity: 0.279
+
+=== A0A3B8TQZ8 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 192.0
+E-value: 0.0004195
+Alignment Length: 105
+Percentage Identity: 0.228
+
+=== A0A381WED1 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+DE   Flags: Fragment;
+Bit Score: 184.0
+E-value: 0.0004195
+Alignment Length: 93
+Percentage Identity: 0.225
+
+=== A0A3A4ANI4 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:RJL20794.1};
+Bit Score: 183.0
+E-value: 0.0004195
+Alignment Length: 99
+Percentage Identity: 0.202
+
+=== A0A428XK83 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RSM55731.1};
+Bit Score: 172.0
+E-value: 0.0004195
+Alignment Length: 95
+Percentage Identity: 0.231
+
+=== R5QH41 ===
+DE   SubName: Full=Acetyltransferase GNAT family {ECO:0000313|EMBL:CCZ28005.1};
+Bit Score: 167.0
+E-value: 0.0004195
+Alignment Length: 94
+Percentage Identity: 0.223
+
+=== A0A1V9VCF6 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 160.0
+E-value: 0.0004195
+Alignment Length: 93
+Percentage Identity: 0.139
+
+=== A0A2D8K6W1 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MAM12196.1};
+Bit Score: 202.0
+E-value: 0.0004457
+Alignment Length: 94
+Percentage Identity: 0.202
+
+=== A0A4R3NQH9 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:TCT37327.1};
+Bit Score: 198.0
+E-value: 0.0004457
+Alignment Length: 98
+Percentage Identity: 0.183
+
+=== A0A1L5PL65 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:APO80872.1};
+Bit Score: 196.0
+E-value: 0.0004457
+Alignment Length: 94
+Percentage Identity: 0.234
+
+=== A0A2U2M0L5 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:PWG50385.1};
+Bit Score: 195.0
+E-value: 0.0004457
+Alignment Length: 91
+Percentage Identity: 0.164
+
+=== A0A425Y366 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RRG22228.1};
+Bit Score: 191.0
+E-value: 0.0004457
+Alignment Length: 91
+Percentage Identity: 0.197
+
+=== A0A7W8VEC5 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:MBB5433361.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:MBB5433361.1};
+Bit Score: 190.0
+E-value: 0.0004457
+Alignment Length: 94
+Percentage Identity: 0.255
+
+=== A0A1Y1WQY9 ===
+DE   SubName: Full=Acyl-CoA N-acyltransferase {ECO:0000313|EMBL:ORX75708.1};
+Bit Score: 189.0
+E-value: 0.0004457
+Alignment Length: 94
+Percentage Identity: 0.159
+
+=== A0A2S1JRR1 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:AWF81101.1};
+Bit Score: 184.0
+E-value: 0.0004457
+Alignment Length: 99
+Percentage Identity: 0.222
+
+=== A0A348WDL9 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:HAR52631.1};
+Bit Score: 180.0
+E-value: 0.0004457
+Alignment Length: 91
+Percentage Identity: 0.197
+
+=== A0A640UXY1 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 177.0
+E-value: 0.0004457
+Alignment Length: 89
+Percentage Identity: 0.235
+
+=== A0A1I0ZYP3 ===
+DE   RecName: Full=ethanolamine-phosphate cytidylyltransferase {ECO:0000256|ARBA:ARBA00024221};
+DE            EC=2.7.7.14 {ECO:0000256|ARBA:ARBA00024221};
+DE   AltName: Full=CTP:phosphoethanolamine cytidylyltransferase {ECO:0000256|ARBA:ARBA00031473};
+Bit Score: 173.0
+E-value: 0.0004457
+Alignment Length: 101
+Percentage Identity: 0.257
+
+=== A0A0C3CCW0 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 172.0
+E-value: 0.0004457
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A1V6B1D6 ===
+DE   SubName: Full=Amino-acid acetyltransferase {ECO:0000313|EMBL:OQB58449.1};
+DE            EC=2.3.1.1 {ECO:0000313|EMBL:OQB58449.1};
+Bit Score: 152.0
+E-value: 0.0004457
+Alignment Length: 100
+Percentage Identity: 0.21
+
+=== A0A3B8VZD1 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:HAC23094.1};
+Bit Score: 194.0
+E-value: 0.0004735
+Alignment Length: 92
+Percentage Identity: 0.206
+
+=== A0A562IVJ4 ===
+DE   SubName: Full=Ribosomal protein S18 acetylase RimI-like enzyme {ECO:0000313|EMBL:TWH74803.1};
+Bit Score: 193.0
+E-value: 0.0004735
+Alignment Length: 96
+Percentage Identity: 0.25
+
+=== A0A4R2LFI0 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:TCO83537.1};
+Bit Score: 192.0
+E-value: 0.0004735
+Alignment Length: 91
+Percentage Identity: 0.142
+
+=== A0A415PQN2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RHM15008.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:MBS4883179.1};
+Bit Score: 189.0
+E-value: 0.0004735
+Alignment Length: 92
+Percentage Identity: 0.163
+
+=== A0A502CPG3 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TPG14009.1};
+Bit Score: 183.0
+E-value: 0.0004735
+Alignment Length: 92
+Percentage Identity: 0.206
+
+=== A0A2E8YZ11 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBS43145.1};
+Bit Score: 182.0
+E-value: 0.0004735
+Alignment Length: 96
+Percentage Identity: 0.239
+
+=== A0A1G5PN16 ===
+DE   SubName: Full=Acetyltransferase (GNAT) domain-containing protein {ECO:0000313|EMBL:SCZ50853.1};
+Bit Score: 181.0
+E-value: 0.0004735
+Alignment Length: 90
+Percentage Identity: 0.222
+
+=== A0A444QID8 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:RWZ72375.1};
+Bit Score: 179.0
+E-value: 0.0004735
+Alignment Length: 96
+Percentage Identity: 0.302
+
+=== A0A848Z9G8 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NNG05717.1};
+Bit Score: 178.0
+E-value: 0.0004735
+Alignment Length: 94
+Percentage Identity: 0.234
+
+=== A0A1Y6F9I7 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:SMQ71554.1};
+Bit Score: 173.0
+E-value: 0.0004735
+Alignment Length: 95
+Percentage Identity: 0.231
+
+=== A0A1T5JQA3 ===
+DE   SubName: Full=[citrate (Pro-3S)-lyase] ligase {ECO:0000313|EMBL:SKC53576.1};
+Bit Score: 167.0
+E-value: 0.0004735
+Alignment Length: 91
+Percentage Identity: 0.197
+
+=== A0A3R6MSQ9 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:RHP22450.1};
+Bit Score: 199.0
+E-value: 0.000503
+Alignment Length: 95
+Percentage Identity: 0.168
+
+=== A0A1S6QH46 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:AQW20920.1};
+Bit Score: 195.0
+E-value: 0.000503
+Alignment Length: 97
+Percentage Identity: 0.206
+
+=== A0A6A7K4P9 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:MPW24351.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:MPW24351.1};
+Bit Score: 192.0
+E-value: 0.000503
+Alignment Length: 91
+Percentage Identity: 0.153
+
+=== K5Z502 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 191.0
+E-value: 0.000503
+Alignment Length: 93
+Percentage Identity: 0.161
+
+=== A0A6L5QH05 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MRX09016.1};
+Bit Score: 187.0
+E-value: 0.000503
+Alignment Length: 93
+Percentage Identity: 0.204
+
+=== A0A0R1J383 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 185.0
+E-value: 0.000503
+Alignment Length: 86
+Percentage Identity: 0.209
+
+=== A0A1I5U3G2 ===
+DE   RecName: Full=Translation initiation factor IF-3 {ECO:0000256|HAMAP-Rule:MF_00080, ECO:0000256|NCBIfam:TIGR00168};
+Bit Score: 181.0
+E-value: 0.000503
+Alignment Length: 87
+Percentage Identity: 0.252
+
+=== J9H604 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 181.0
+E-value: 0.000503
+Alignment Length: 87
+Percentage Identity: 0.137
+
+=== A0A1H4YXX5 ===
+DE   SubName: Full=Ribosomal protein S18 acetylase RimI {ECO:0000313|EMBL:SED22693.1};
+Bit Score: 179.0
+E-value: 0.000503
+Alignment Length: 100
+Percentage Identity: 0.16
+
+=== A0A542ZLN4 ===
+DE   SubName: Full=Enterochelin esterase-like enzyme {ECO:0000313|EMBL:TQL61090.1};
+Bit Score: 177.0
+E-value: 0.000503
+Alignment Length: 100
+Percentage Identity: 0.25
+
+=== A0A2P5Z998 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:PPU85177.1};
+Bit Score: 171.0
+E-value: 0.000503
+Alignment Length: 102
+Percentage Identity: 0.294
+
+=== A0A5C6WHN8 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TXC98142.1};
+Bit Score: 169.0
+E-value: 0.000503
+Alignment Length: 99
+Percentage Identity: 0.222
+
+=== A0A2D6KHD2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MAG03301.1};
+Bit Score: 162.0
+E-value: 0.000503
+Alignment Length: 97
+Percentage Identity: 0.195
+
+=== A0A536VHJ4 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TMH11513.1};
+Bit Score: 159.0
+E-value: 0.000503
+Alignment Length: 91
+Percentage Identity: 0.197
+
+=== A0A0C3NFS1 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:PXZ42859.1};
+Bit Score: 197.0
+E-value: 0.0005343
+Alignment Length: 94
+Percentage Identity: 0.212
+
+=== A0A0R2B965 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 194.0
+E-value: 0.0005343
+Alignment Length: 92
+Percentage Identity: 0.163
+
+=== A0A4U9XLP8 ===
+DE   SubName: Full=N-acetyltransferase GCN5 {ECO:0000313|EMBL:VTS13251.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:VTS13251.1};
+Bit Score: 193.0
+E-value: 0.0005343
+Alignment Length: 92
+Percentage Identity: 0.163
+
+=== A0A543B2G8 ===
+DE   SubName: Full=Ribosomal protein S18 acetylase RimI-like enzyme {ECO:0000313|EMBL:TQL79033.1};
+Bit Score: 191.0
+E-value: 0.0005343
+Alignment Length: 98
+Percentage Identity: 0.224
+
+=== A0A7Y9H6S1 ===
+DE   SubName: Full=GNAT superfamily N-acetyltransferase {ECO:0000313|EMBL:NYE38930.1};
+Bit Score: 188.0
+E-value: 0.0005343
+Alignment Length: 92
+Percentage Identity: 0.26
+
+=== A0A366WA50 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RBW46316.1};
+Bit Score: 188.0
+E-value: 0.0005343
+Alignment Length: 92
+Percentage Identity: 0.195
+
+=== A0A2V7T1H7 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:PYP81669.1};
+Bit Score: 187.0
+E-value: 0.0005343
+Alignment Length: 104
+Percentage Identity: 0.211
+
+=== A0A6N4R3R2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TKW61566.1};
+Bit Score: 178.0
+E-value: 0.0005343
+Alignment Length: 90
+Percentage Identity: 0.222
+
+=== A0A525HKA9 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:THD36983.1};
+Bit Score: 178.0
+E-value: 0.0005343
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A6N2T533 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:VYS99581.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:VYS99581.1};
+Bit Score: 178.0
+E-value: 0.0005343
+Alignment Length: 86
+Percentage Identity: 0.186
+
+=== A0A3E2NCP3 ===
+DE   SubName: Full=[citrate (Pro-3S)-lyase] ligase {ECO:0000313|EMBL:RFZ78743.1};
+DE            EC=6.2.1.22 {ECO:0000313|EMBL:RFZ78743.1};
+Bit Score: 171.0
+E-value: 0.0005343
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A848CF59 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NME51519.1};
+Bit Score: 167.0
+E-value: 0.0005343
+Alignment Length: 101
+Percentage Identity: 0.247
+
+=== Q7VLZ3 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 166.0
+E-value: 0.0005343
+Alignment Length: 91
+Percentage Identity: 0.12
+
+=== A8LKQ4 ===
+DE   SubName: Full=GCN5-related N-acetyltransferase {ECO:0000313|EMBL:ABV91897.1};
+Bit Score: 164.0
+E-value: 0.0005343
+Alignment Length: 90
+Percentage Identity: 0.288
+
+=== E6LIA4 ===
+DE   SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:EFU73070.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:EFU73070.1};
+Bit Score: 192.0
+E-value: 0.0005676
+Alignment Length: 91
+Percentage Identity: 0.153
+
+=== A0A7K3DLX4 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MZD06742.1};
+Bit Score: 185.0
+E-value: 0.0005676
+Alignment Length: 97
+Percentage Identity: 0.237
+
+=== A0A4R1ANN1 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TCI97791.1};
+Bit Score: 185.0
+E-value: 0.0005676
+Alignment Length: 92
+Percentage Identity: 0.184
+
+=== A0A2G6IRL3 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:PIE12949.1};
+Bit Score: 181.0
+E-value: 0.0005676
+Alignment Length: 97
+Percentage Identity: 0.123
+
+=== A0A3R6HQS4 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RHJ85448.1};
+Bit Score: 192.0
+E-value: 0.000603
+Alignment Length: 94
+Percentage Identity: 0.17
+
+=== R4WWW8 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:BAN28984.1};
+Bit Score: 190.0
+E-value: 0.000603
+Alignment Length: 92
+Percentage Identity: 0.13
+
+=== A0A1M4VN76 ===
+DE   SubName: Full=Ribosomal protein S18 acetylase RimI {ECO:0000313|EMBL:SHE70303.1};
+Bit Score: 189.0
+E-value: 0.000603
+Alignment Length: 95
+Percentage Identity: 0.189
+
+=== A0A1H1L8D1 ===
+DE   SubName: Full=Chorismate mutase {ECO:0000313|EMBL:SDR70844.1};
+Bit Score: 180.0
+E-value: 0.000603
+Alignment Length: 90
+Percentage Identity: 0.2
+
+=== A0A2Z2H7S7 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 179.0
+E-value: 0.000603
+Alignment Length: 95
+Percentage Identity: 0.263
+
+=== A0A5J6NAH6 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 177.0
+E-value: 0.000603
+Alignment Length: 96
+Percentage Identity: 0.239
+
+=== A0A1Y3SR49 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 177.0
+E-value: 0.000603
+Alignment Length: 98
+Percentage Identity: 0.193
+
+=== A0A0Q6KCL8 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:KQU48503.1};
+Bit Score: 176.0
+E-value: 0.000603
+Alignment Length: 94
+Percentage Identity: 0.202
+
+=== A0A7V7D690 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:HIJ53015.1};
+Bit Score: 176.0
+E-value: 0.000603
+Alignment Length: 93
+Percentage Identity: 0.15
+
+=== A0A167KHX1 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:KZN62822.1};
+Bit Score: 174.0
+E-value: 0.000603
+Alignment Length: 91
+Percentage Identity: 0.208
+
+=== A0A2E5BUA0 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 173.0
+E-value: 0.000603
+Alignment Length: 99
+Percentage Identity: 0.212
+
+=== R7WQL7 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 169.0
+E-value: 0.000603
+Alignment Length: 100
+Percentage Identity: 0.23
+
+=== A0A2R4C6V2 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:AVR95301.1};
+Bit Score: 167.0
+E-value: 0.000603
+Alignment Length: 85
+Percentage Identity: 0.2
+
+=== A0A5Q2RUZ9 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QGG97005.1};
+Bit Score: 164.0
+E-value: 0.000603
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A081PGK9 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 192.0
+E-value: 0.0006406
+Alignment Length: 97
+Percentage Identity: 0.206
+
+=== B2VKI0 ===
+DE   SubName: Full=Acetyltransferase YjaB {ECO:0000313|EMBL:CAO96772.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:CAO96772.1};
+Bit Score: 191.0
+E-value: 0.0006406
+Alignment Length: 92
+Percentage Identity: 0.239
+
+=== A0A849KRS7 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NNU62983.1};
+Bit Score: 187.0
+E-value: 0.0006406
+Alignment Length: 91
+Percentage Identity: 0.186
+
+=== A0A6G7Z9A6 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QIK85545.1};
+Bit Score: 176.0
+E-value: 0.0006406
+Alignment Length: 91
+Percentage Identity: 0.186
+
+=== A0A1Q4YN92 ===
+DE   SubName: Full=GCN5 family acetyltransferase {ECO:0000313|EMBL:OKI36073.1};
+Bit Score: 174.0
+E-value: 0.0006406
+Alignment Length: 87
+Percentage Identity: 0.275
+
+=== A0A357X0F5 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:HBT66036.1};
+DE   Flags: Fragment;
+Bit Score: 171.0
+E-value: 0.0006406
+Alignment Length: 95
+Percentage Identity: 0.2
+
+=== A0A2T6BMA2 ===
+DE   SubName: Full=Acetyltransferase (GNAT) family protein {ECO:0000313|EMBL:PTX57210.1};
+Bit Score: 170.0
+E-value: 0.0006406
+Alignment Length: 86
+Percentage Identity: 0.232
+
+=== A0A6C0E7A2 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 166.0
+E-value: 0.0006406
+Alignment Length: 96
+Percentage Identity: 0.239
+
+=== A0A842VGT8 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBD3340052.1};
+Bit Score: 166.0
+E-value: 0.0006406
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A3N5SXL9 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:RPJ03706.1};
+DE   Flags: Fragment;
+Bit Score: 166.0
+E-value: 0.0006406
+Alignment Length: 101
+Percentage Identity: 0.128
+
+=== A0A7Y3M1R3 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NNN35555.1};
+Bit Score: 163.0
+E-value: 0.0006406
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A430A105 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RSU00078.1};
+Bit Score: 191.0
+E-value: 0.0006805
+Alignment Length: 94
+Percentage Identity: 0.148
+
+=== A0A4Q3VA46 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:RYG36449.1};
+Bit Score: 187.0
+E-value: 0.0006805
+Alignment Length: 95
+Percentage Identity: 0.21
+
+=== A0A1Y4IJ32 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:OUP19506.1};
+Bit Score: 187.0
+E-value: 0.0006805
+Alignment Length: 91
+Percentage Identity: 0.164
+
+=== A0A3D3TIR2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:HCO67925.1};
+Bit Score: 186.0
+E-value: 0.0006805
+Alignment Length: 94
+Percentage Identity: 0.191
+
+=== A0A4R2TI03 ===
+DE   SubName: Full=GNAT family acetyltransferase {ECO:0000313|EMBL:TCQ01872.1};
+Bit Score: 181.0
+E-value: 0.0006805
+Alignment Length: 85
+Percentage Identity: 0.211
+
+=== A0A2S6IJ50 ===
+DE   SubName: Full=Acetyltransferase (GNAT) family protein {ECO:0000313|EMBL:PPK94247.1};
+Bit Score: 181.0
+E-value: 0.0006805
+Alignment Length: 89
+Percentage Identity: 0.191
+
+=== A0A419EI10 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RJP55057.1};
+Bit Score: 179.0
+E-value: 0.0006805
+Alignment Length: 87
+Percentage Identity: 0.172
+
+=== A0A318EWI6 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 175.0
+E-value: 0.0006805
+Alignment Length: 97
+Percentage Identity: 0.185
+
+=== A0A2E7HHZ4 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBN35686.1};
+Bit Score: 166.0
+E-value: 0.0006805
+Alignment Length: 93
+Percentage Identity: 0.258
+
+=== A0A6C0DET4 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 164.0
+E-value: 0.0006805
+Alignment Length: 95
+Percentage Identity: 0.242
+
+=== A0A7V8X0W0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBA2282117.1};
+Bit Score: 164.0
+E-value: 0.0006805
+Alignment Length: 97
+Percentage Identity: 0.237
+
+=== A0A6N2WZI2 ===
+DE   SubName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000313|EMBL:VYT46980.1};
+DE            EC=6.2.1.22 {ECO:0000313|EMBL:VYT46980.1};
+Bit Score: 164.0
+E-value: 0.0006805
+Alignment Length: 97
+Percentage Identity: 0.206
+
+=== A0A2E8N6H9 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBR11536.1};
+Bit Score: 163.0
+E-value: 0.0006805
+Alignment Length: 95
+Percentage Identity: 0.147
+
+=== A0A7X7XN87 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NLI50925.1};
+Bit Score: 159.0
+E-value: 0.0006805
+Alignment Length: 92
+Percentage Identity: 0.217
+
+=== A0A379M548 ===
+DE   SubName: Full=Putative acyltransferase {ECO:0000313|EMBL:SUE16733.1};
+Bit Score: 158.0
+E-value: 0.0006805
+Alignment Length: 95
+Percentage Identity: 0.189
+
+=== G4A5Z6 ===
+DE   SubName: Full=Citrate lyase ligase {ECO:0000313|EMBL:EGY35129.1};
+Bit Score: 150.0
+E-value: 0.0006805
+Alignment Length: 91
+Percentage Identity: 0.175
+
+=== A0A562E8L8 ===
+DE   SubName: Full=ElaA protein {ECO:0000313|EMBL:TWH18097.1};
+Bit Score: 148.0
+E-value: 0.0006805
+Alignment Length: 87
+Percentage Identity: 0.218
+
+=== A0A0R2FMY6 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 187.0
+E-value: 0.0007229
+Alignment Length: 91
+Percentage Identity: 0.142
+
+=== A0A3B9I0B1 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:HAE41261.1};
+Bit Score: 185.0
+E-value: 0.0007229
+Alignment Length: 84
+Percentage Identity: 0.226
+
+=== A0A2T4HRI7 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 183.0
+E-value: 0.0007229
+Alignment Length: 101
+Percentage Identity: 0.217
+
+=== A0A4S2UL23 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:THA71447.1};
+Bit Score: 180.0
+E-value: 0.0007229
+Alignment Length: 85
+Percentage Identity: 0.235
+
+=== A0A653J2Q6 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 178.0
+E-value: 0.0007229
+Alignment Length: 98
+Percentage Identity: 0.224
+
+=== R2PNB6 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 178.0
+E-value: 0.0007229
+Alignment Length: 87
+Percentage Identity: 0.183
+
+=== A0A7C7JMZ2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:HIC09107.1};
+Bit Score: 172.0
+E-value: 0.0007229
+Alignment Length: 93
+Percentage Identity: 0.161
+
+=== A0A0K1PFS6 ===
+DE   SubName: Full=Histone acetyltransferase HPA2 {ECO:0000313|EMBL:AKU91969.1};
+Bit Score: 170.0
+E-value: 0.0007229
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== A0A7E4W059 ===
+DE   SubName: Full=N-acetyltransferase domain-containing protein {ECO:0000313|WBParaSite:Pan_g5312.t1};
+Bit Score: 168.0
+E-value: 0.0007229
+Alignment Length: 123
+Percentage Identity: 0.138
+
+=== A0A1X7HPA7 ===
+DE   SubName: Full=Ribosomal protein S18 acetylase RimI {ECO:0000313|EMBL:SMF89760.1};
+Bit Score: 163.0
+E-value: 0.0007229
+Alignment Length: 103
+Percentage Identity: 0.242
+
+=== A0A6M0LB10 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 162.0
+E-value: 0.0007229
+Alignment Length: 91
+Percentage Identity: 0.153
+
+=== U2WBI5 ===
+DE   SubName: Full=Citrate lyase ligase C-terminal-like domain protein {ECO:0000313|EMBL:ERL22051.1};
+DE   Flags: Fragment;
+Bit Score: 159.0
+E-value: 0.0007229
+Alignment Length: 92
+Percentage Identity: 0.152
+
+=== A0A1M7TVL2 ===
+DE   SubName: Full=Acetyltransferase (GNAT) domain-containing protein {ECO:0000313|EMBL:SHN74767.1};
+Bit Score: 156.0
+E-value: 0.0007229
+Alignment Length: 98
+Percentage Identity: 0.183
+
+=== E0UK79 ===
+DE   SubName: Full=GCN5-related N-acetyltransferase {ECO:0000313|EMBL:ADN15841.1};
+Bit Score: 156.0
+E-value: 0.0007229
+Alignment Length: 86
+Percentage Identity: 0.162
+
+=== A0A7D4Q1B4 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QKJ30486.1};
+Bit Score: 191.0
+E-value: 0.000768
+Alignment Length: 92
+Percentage Identity: 0.228
+
+=== A0A4U0SPA9 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TKA11666.1};
+Bit Score: 189.0
+E-value: 0.000768
+Alignment Length: 94
+Percentage Identity: 0.18
+
+=== A0A7V0Y3U6 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:HDU63385.1};
+Bit Score: 179.0
+E-value: 0.000768
+Alignment Length: 96
+Percentage Identity: 0.208
+
+=== A0A851IHQ9 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 174.0
+E-value: 0.000768
+Alignment Length: 96
+Percentage Identity: 0.145
+
+=== A0A2E9XAA2 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 171.0
+E-value: 0.000768
+Alignment Length: 95
+Percentage Identity: 0.147
+
+=== A0A4S2VLF9 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:THA85846.1};
+Bit Score: 170.0
+E-value: 0.000768
+Alignment Length: 108
+Percentage Identity: 0.231
+
+=== A0A350AGW9 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:HAV09035.1};
+Bit Score: 167.0
+E-value: 0.000768
+Alignment Length: 97
+Percentage Identity: 0.237
+
+=== A0A7Z9JGU9 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:HIB01574.1};
+Bit Score: 163.0
+E-value: 0.000768
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== A0A1Y5FNM5 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 163.0
+E-value: 0.000768
+Alignment Length: 97
+Percentage Identity: 0.185
+
+=== A0A4V3DAQ5 ===
+DE   SubName: Full=ElaA protein {ECO:0000313|EMBL:TDQ63183.1};
+Bit Score: 161.0
+E-value: 0.000768
+Alignment Length: 95
+Percentage Identity: 0.189
+
+=== A0A1M7QGY2 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 193.0
+E-value: 0.0008159
+Alignment Length: 92
+Percentage Identity: 0.163
+
+=== F3YUY2 ===
+DE   SubName: Full=GCN5-related N-acetyltransferase {ECO:0000313|EMBL:EGJ49232.1};
+Bit Score: 184.0
+E-value: 0.0008159
+Alignment Length: 98
+Percentage Identity: 0.244
+
+=== A0A1F6GRN5 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 184.0
+E-value: 0.0008159
+Alignment Length: 94
+Percentage Identity: 0.159
+
+=== A0A350IWJ3 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:HAW12160.1};
+Bit Score: 181.0
+E-value: 0.0008159
+Alignment Length: 92
+Percentage Identity: 0.206
+
+=== A0A563E1F7 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TWP35734.1};
+Bit Score: 176.0
+E-value: 0.0008159
+Alignment Length: 83
+Percentage Identity: 0.216
+
+=== K1XVM6 ===
+DE   SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:EKD34575.1};
+Bit Score: 171.0
+E-value: 0.0008159
+Alignment Length: 90
+Percentage Identity: 0.222
+
+=== A0A161HTU0 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 156.0
+E-value: 0.0008159
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A5M6ISN6 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:KAA5610455.1};
+Bit Score: 151.0
+E-value: 0.0008159
+Alignment Length: 97
+Percentage Identity: 0.257
+
+=== A0A2K1EMK0 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:PNQ81512.1};
+Bit Score: 191.0
+E-value: 0.0008667
+Alignment Length: 91
+Percentage Identity: 0.175
+
+=== A0A2S0VM45 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 181.0
+E-value: 0.0008667
+Alignment Length: 98
+Percentage Identity: 0.224
+
+=== A0A2E1VU66 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 181.0
+E-value: 0.0008667
+Alignment Length: 94
+Percentage Identity: 0.17
+
+=== A0A839A2K9 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBA5728426.1};
+Bit Score: 178.0
+E-value: 0.0008667
+Alignment Length: 87
+Percentage Identity: 0.126
+
+=== C5BSS5 ===
+DE   SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:ACR12215.1};
+Bit Score: 176.0
+E-value: 0.0008667
+Alignment Length: 103
+Percentage Identity: 0.233
+
+=== A0A3A1U309 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RIX28237.1};
+Bit Score: 174.0
+E-value: 0.0008667
+Alignment Length: 92
+Percentage Identity: 0.239
+
+=== J1QPE5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EJI93393.1};
+Bit Score: 172.0
+E-value: 0.0008667
+Alignment Length: 111
+Percentage Identity: 0.207
+
+=== A0A358GP04 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:HBU84454.1};
+Bit Score: 171.0
+E-value: 0.0008667
+Alignment Length: 85
+Percentage Identity: 0.2
+
+=== A0A1M5MQ98 ===
+DE   SubName: Full=Predicted N-acetyltransferase YhbS {ECO:0000313|EMBL:SHG78953.1};
+Bit Score: 170.0
+E-value: 0.0008667
+Alignment Length: 107
+Percentage Identity: 0.186
+
+=== A0A0N7F5K8 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 167.0
+E-value: 0.0008667
+Alignment Length: 91
+Percentage Identity: 0.208
+
+=== A0A1B8TCQ8 ===
+DE   SubName: Full=GNAT family acetyltransferase {ECO:0000313|EMBL:OBY57415.1};
+Bit Score: 164.0
+E-value: 0.0008667
+Alignment Length: 89
+Percentage Identity: 0.235
+
+=== A0A1F8U3D2 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 162.0
+E-value: 0.0008667
+Alignment Length: 93
+Percentage Identity: 0.161
+
+=== A0A7R7DJU0 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:BCJ33040.1};
+Bit Score: 176.0
+E-value: 0.0009208
+Alignment Length: 109
+Percentage Identity: 0.192
+
+=== A0A4R6VRG4 ===
+DE   SubName: Full=Acetyltransferase (GNAT) family protein {ECO:0000313|EMBL:TDQ66623.1};
+Bit Score: 173.0
+E-value: 0.0009208
+Alignment Length: 95
+Percentage Identity: 0.284
+
+=== A0A1I1V1I6 ===
+DE   SubName: Full=Ribosomal protein S18 acetylase RimI {ECO:0000313|EMBL:SFD76739.1};
+Bit Score: 173.0
+E-value: 0.0009208
+Alignment Length: 103
+Percentage Identity: 0.223
+
+=== A0A380AG66 ===
+DE   SubName: Full=Uncharacterized N-acetyltransferase YjaB {ECO:0000313|EMBL:SUI80590.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:SUI80590.1};
+Bit Score: 173.0
+E-value: 0.0009208
+Alignment Length: 121
+Percentage Identity: 0.19
+
+=== A0A2S6HSK6 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:PPK80668.1};
+Bit Score: 167.0
+E-value: 0.0009208
+Alignment Length: 91
+Percentage Identity: 0.197
+
+=== A0A4P8I9B6 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 187.0
+E-value: 0.0009781
+Alignment Length: 97
+Percentage Identity: 0.175
+
+=== I9C4R0 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 185.0
+E-value: 0.0009781
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A2P2BYS1 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 174.0
+E-value: 0.0009781
+Alignment Length: 96
+Percentage Identity: 0.187
+
+=== A0A3P3R532 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:RRJ28591.1};
+Bit Score: 171.0
+E-value: 0.0009781
+Alignment Length: 92
+Percentage Identity: 0.217
+
+=== A0A162BFM7 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 168.0
+E-value: 0.0009781
+Alignment Length: 91
+Percentage Identity: 0.197
+
+=== A0A3N2R4X4 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:ROU02411.1};
+Bit Score: 166.0
+E-value: 0.0009781
+Alignment Length: 94
+Percentage Identity: 0.244
+
+=== A0A3D2SS33 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:HCK32287.1};
+Bit Score: 173.0
+E-value: 0.001039
+Alignment Length: 94
+Percentage Identity: 0.212
+
+=== A0A7Y3D8A3 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NNL64933.1};
+Bit Score: 169.0
+E-value: 0.001039
+Alignment Length: 97
+Percentage Identity: 0.237
+
+=== A0A5M3VUX8 ===
+DE   SubName: Full=Histone acetyltransferase {ECO:0000313|EMBL:GER99481.1};
+Bit Score: 168.0
+E-value: 0.001039
+Alignment Length: 86
+Percentage Identity: 0.29
+
+=== A0A3B9RRM2 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 162.0
+E-value: 0.001039
+Alignment Length: 93
+Percentage Identity: 0.139
+
+=== A0A7X8H010 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 154.0
+E-value: 0.001039
+Alignment Length: 91
+Percentage Identity: 0.142
+
+=== A0A1Y0IMJ1 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 153.0
+E-value: 0.001039
+Alignment Length: 114
+Percentage Identity: 0.201
+
+=== A0A6J4JDC3 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 186.0
+E-value: 0.001104
+Alignment Length: 93
+Percentage Identity: 0.204
+
+=== A0A2T8FAT3 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:PVG82814.1};
+Bit Score: 182.0
+E-value: 0.001104
+Alignment Length: 96
+Percentage Identity: 0.25
+
+=== A0A087CE76 ===
+DE   SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:KFI81576.1};
+Bit Score: 172.0
+E-value: 0.001104
+Alignment Length: 90
+Percentage Identity: 0.177
+
+=== A0A544YA45 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TQS13610.1};
+Bit Score: 169.0
+E-value: 0.001104
+Alignment Length: 88
+Percentage Identity: 0.215
+
+=== A0A7J4GEK0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:HIE81314.1};
+Bit Score: 164.0
+E-value: 0.001104
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A2S0WPX6 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:AWB93294.1};
+Bit Score: 163.0
+E-value: 0.001104
+Alignment Length: 86
+Percentage Identity: 0.209
+
+=== A0A350WRQ0 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 157.0
+E-value: 0.001104
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== V7EJK8 ===
+DE   SubName: Full=GNAT family acetyltransferase {ECO:0000313|EMBL:ESW61198.1};
+Bit Score: 155.0
+E-value: 0.001104
+Alignment Length: 100
+Percentage Identity: 0.21
+
+=== A0A7G7VJ97 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 154.0
+E-value: 0.001104
+Alignment Length: 91
+Percentage Identity: 0.197
+
+=== A0A2E2V434 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MAZ58755.1};
+Bit Score: 151.0
+E-value: 0.001104
+Alignment Length: 96
+Percentage Identity: 0.156
+
+=== A0A2E5HZY1 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBH28998.1};
+Bit Score: 179.0
+E-value: 0.001173
+Alignment Length: 92
+Percentage Identity: 0.206
+
+=== A0A644WWL4 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:MPM08306.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:MPM08306.1};
+Bit Score: 173.0
+E-value: 0.001173
+Alignment Length: 87
+Percentage Identity: 0.16
+
+=== A0A6G8AW39 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QIL49274.1};
+Bit Score: 172.0
+E-value: 0.001173
+Alignment Length: 87
+Percentage Identity: 0.137
+
+=== A0A7W5TD51 ===
+DE   SubName: Full=GNAT superfamily N-acetyltransferase {ECO:0000313|EMBL:MBB3649680.1};
+Bit Score: 170.0
+E-value: 0.001173
+Alignment Length: 90
+Percentage Identity: 0.233
+
+=== G8PQT2 ===
+DE   SubName: Full=Protein containing GCN5-related N-acetyltransferase domain {ECO:0000313|EMBL:AEV35971.1};
+Bit Score: 167.0
+E-value: 0.001173
+Alignment Length: 96
+Percentage Identity: 0.208
+
+=== A0A1Q8ZWY3 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 165.0
+E-value: 0.001173
+Alignment Length: 90
+Percentage Identity: 0.222
+
+=== A0A2A2V2L1 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:PAY03228.1};
+Bit Score: 165.0
+E-value: 0.001173
+Alignment Length: 94
+Percentage Identity: 0.212
+
+=== A0A1F8M491 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 165.0
+E-value: 0.001173
+Alignment Length: 92
+Percentage Identity: 0.152
+
+=== A0A7G7BV38 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QNE79203.1};
+Bit Score: 162.0
+E-value: 0.001173
+Alignment Length: 88
+Percentage Identity: 0.238
+
+=== A0A847LSE5 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 153.0
+E-value: 0.001173
+Alignment Length: 95
+Percentage Identity: 0.105
+
+=== A0A416YLW0 ===
+DE   SubName: Full=[citrate (Pro-3S)-lyase] ligase {ECO:0000313|EMBL:RHS23499.1};
+DE            EC=6.2.1.22 {ECO:0000313|EMBL:RHS23499.1};
+Bit Score: 152.0
+E-value: 0.001173
+Alignment Length: 91
+Percentage Identity: 0.186
+
+=== A0A348HCI9 ===
+DE   SubName: Full=Citrate lyase synthetase {ECO:0000313|EMBL:BBG29341.1};
+Bit Score: 151.0
+E-value: 0.001173
+Alignment Length: 94
+Percentage Identity: 0.223
+
+=== A0A0D0RER4 ===
+DE   RecName: Full=[Ribosomal protein bS18]-alanine N-acetyltransferase {ECO:0000256|RuleBase:RU363094};
+DE            EC=2.3.1.266 {ECO:0000256|RuleBase:RU363094};
+Bit Score: 150.0
+E-value: 0.001173
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A6J4UL97 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 150.0
+E-value: 0.001173
+Alignment Length: 94
+Percentage Identity: 0.191
+
+=== Q24XN8 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 180.0
+E-value: 0.001246
+Alignment Length: 99
+Percentage Identity: 0.181
+
+=== A0A536YEJ2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TMH47181.1};
+Bit Score: 179.0
+E-value: 0.001246
+Alignment Length: 92
+Percentage Identity: 0.217
+
+=== A0A2D8PCB2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MAM63095.1};
+Bit Score: 168.0
+E-value: 0.001246
+Alignment Length: 84
+Percentage Identity: 0.238
+
+=== A0A2A3VJR2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:PBS12208.1};
+Bit Score: 166.0
+E-value: 0.001246
+Alignment Length: 87
+Percentage Identity: 0.229
+
+=== A0A6I5NI92 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NEQ42019.1};
+Bit Score: 165.0
+E-value: 0.001246
+Alignment Length: 91
+Percentage Identity: 0.252
+
+=== U4KQG7 ===
+DE   SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:CCV64575.1};
+Bit Score: 165.0
+E-value: 0.001246
+Alignment Length: 97
+Percentage Identity: 0.082
+
+=== A0A1D8G8A2 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:AOT61674.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:AOT61674.1};
+Bit Score: 164.0
+E-value: 0.001246
+Alignment Length: 90
+Percentage Identity: 0.233
+
+=== A0A535PDQ2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TMD30541.1};
+Bit Score: 159.0
+E-value: 0.001246
+Alignment Length: 91
+Percentage Identity: 0.186
+
+=== A0A1I5EW33 ===
+DE   SubName: Full=Predicted N-acetyltransferase YhbS {ECO:0000313|EMBL:SFO15623.1};
+Bit Score: 158.0
+E-value: 0.001246
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A2D6MRF4 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 154.0
+E-value: 0.001246
+Alignment Length: 99
+Percentage Identity: 0.232
+
+=== B4CU72 ===
+DE   SubName: Full=GCN5-related N-acetyltransferase {ECO:0000313|EMBL:EDY22110.1};
+Bit Score: 181.0
+E-value: 0.001323
+Alignment Length: 92
+Percentage Identity: 0.163
+
+=== A0A2V9B4G1 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 175.0
+E-value: 0.001323
+Alignment Length: 102
+Percentage Identity: 0.215
+
+=== W7D4F0 ===
+DE   SubName: Full=N-acetyltransferase GCN5 {ECO:0000313|EMBL:EUJ40183.1};
+Bit Score: 173.0
+E-value: 0.001323
+Alignment Length: 99
+Percentage Identity: 0.191
+
+=== A0A256FS94 ===
+DE   SubName: Full=Acetyltransferase family protein {ECO:0000313|EMBL:OYR17586.1};
+Bit Score: 172.0
+E-value: 0.001323
+Alignment Length: 89
+Percentage Identity: 0.191
+
+=== A0A1I5KCE5 ===
+DE   SubName: Full=Acetyltransferase (GNAT) domain-containing protein {ECO:0000313|EMBL:SFO82742.1};
+Bit Score: 168.0
+E-value: 0.001323
+Alignment Length: 96
+Percentage Identity: 0.25
+
+=== A0A848KAY9 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NMN94374.1};
+Bit Score: 165.0
+E-value: 0.001323
+Alignment Length: 94
+Percentage Identity: 0.255
+
+=== A0A6G7P4D5 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QIJ62087.1};
+Bit Score: 164.0
+E-value: 0.001323
+Alignment Length: 100
+Percentage Identity: 0.23
+
+=== A0A2V2EF61 ===
+DE   SubName: Full=[citrate (Pro-3S)-lyase] ligase {ECO:0000313|EMBL:PWM48735.1};
+Bit Score: 163.0
+E-value: 0.001323
+Alignment Length: 92
+Percentage Identity: 0.195
+
+=== D5GXN0 ===
+DE   SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:CBL50539.1};
+Bit Score: 154.0
+E-value: 0.001323
+Alignment Length: 92
+Percentage Identity: 0.195
+
+=== K1KPZ5 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:EKB44586.1};
+Bit Score: 151.0
+E-value: 0.001323
+Alignment Length: 84
+Percentage Identity: 0.238
+
+=== A0A222FH81 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:ASP38427.1};
+Bit Score: 151.0
+E-value: 0.001323
+Alignment Length: 86
+Percentage Identity: 0.232
+
+=== A0A1K1LBT2 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 151.0
+E-value: 0.001323
+Alignment Length: 91
+Percentage Identity: 0.164
+
+=== A0A344UT26 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:AXE38424.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:AXE38424.1};
+Bit Score: 145.0
+E-value: 0.001323
+Alignment Length: 85
+Percentage Identity: 0.211
+
+=== A0A7X7XN95 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 144.0
+E-value: 0.001323
+Alignment Length: 95
+Percentage Identity: 0.157
+
+=== A0A839JZK2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBB2182089.1};
+Bit Score: 181.0
+E-value: 0.001406
+Alignment Length: 95
+Percentage Identity: 0.136
+
+=== A0A4Q3W391 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:RYG49467.1};
+Bit Score: 180.0
+E-value: 0.001406
+Alignment Length: 95
+Percentage Identity: 0.178
+
+=== A0A4T0V9M4 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TIC88630.1};
+Bit Score: 176.0
+E-value: 0.001406
+Alignment Length: 93
+Percentage Identity: 0.258
+
+=== A0A6I3JC40 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MTB95623.1};
+Bit Score: 172.0
+E-value: 0.001406
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== A0A0K1F2M1 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|Pfam:PF13673};
+Bit Score: 171.0
+E-value: 0.001406
+Alignment Length: 100
+Percentage Identity: 0.21
+
+=== A0A414U6K2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RYS82150.1};
+Bit Score: 167.0
+E-value: 0.001406
+Alignment Length: 87
+Percentage Identity: 0.172
+
+=== A0A2N3G9T8 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 160.0
+E-value: 0.001406
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A4R3AFV4 ===
+DE   SubName: Full=Acetyltransferase (GNAT) family protein {ECO:0000313|EMBL:TCR04859.1};
+Bit Score: 158.0
+E-value: 0.001406
+Alignment Length: 87
+Percentage Identity: 0.229
+
+=== A0A327ZBL8 ===
+DE   SubName: Full=Putative N-acetyltransferase YhbS {ECO:0000313|EMBL:RAK36701.1};
+Bit Score: 157.0
+E-value: 0.001406
+Alignment Length: 95
+Percentage Identity: 0.189
+
+=== A0A3N2FHW8 ===
+DE   SubName: Full=Ribosomal protein S18 acetylase RimI-like enzyme {ECO:0000313|EMBL:ROS23938.1};
+Bit Score: 154.0
+E-value: 0.001406
+Alignment Length: 90
+Percentage Identity: 0.211
+
+=== A0A5P8JP62 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QFQ90499.1};
+Bit Score: 179.0
+E-value: 0.001494
+Alignment Length: 93
+Percentage Identity: 0.182
+
+=== A0A2A4ZP28 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:PCJ08641.1};
+Bit Score: 174.0
+E-value: 0.001494
+Alignment Length: 97
+Percentage Identity: 0.185
+
+=== A0A843D2F9 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBO5002681.1};
+Bit Score: 164.0
+E-value: 0.001494
+Alignment Length: 86
+Percentage Identity: 0.279
+
+=== F9EK73 ===
+DE   SubName: Full=[citrate [pro-3S]-lyase] ligase {ECO:0000313|EMBL:EGQ80637.1};
+DE            EC=6.2.1.22 {ECO:0000313|EMBL:EGQ80637.1};
+Bit Score: 156.0
+E-value: 0.001494
+Alignment Length: 91
+Percentage Identity: 0.164
+
+=== A0A2A8V2I2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:PFA62837.1};
+Bit Score: 150.0
+E-value: 0.001494
+Alignment Length: 89
+Percentage Identity: 0.224
+
+=== A0A7Z9Z996 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:HID79230.1};
+Bit Score: 150.0
+E-value: 0.001494
+Alignment Length: 88
+Percentage Identity: 0.125
+
+=== A0A1M5QG95 ===
+DE   SubName: Full=Acetyltransferase (GNAT) domain-containing protein {ECO:0000313|EMBL:SHH13092.1};
+Bit Score: 148.0
+E-value: 0.001494
+Alignment Length: 95
+Percentage Identity: 0.252
+
+=== A0A6L3ZFV7 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:KAB2816244.1};
+Bit Score: 148.0
+E-value: 0.001494
+Alignment Length: 97
+Percentage Identity: 0.154
+
+=== A0A4Q9KI34 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TBT92174.1};
+Bit Score: 146.0
+E-value: 0.001494
+Alignment Length: 92
+Percentage Identity: 0.206
+
+=== A0A1G4VPF2 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:SCX09860.1};
+Bit Score: 174.0
+E-value: 0.001587
+Alignment Length: 91
+Percentage Identity: 0.175
+
+=== A0A7X6XW63 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NLC64461.1};
+Bit Score: 170.0
+E-value: 0.001587
+Alignment Length: 105
+Percentage Identity: 0.19
+
+=== A0A2S1EU19 ===
+DE   SubName: Full=Membrane protein {ECO:0000313|EMBL:AWD63460.1};
+Bit Score: 165.0
+E-value: 0.001587
+Alignment Length: 90
+Percentage Identity: 0.122
+
+=== A0A2T0R7J6 ===
+DE   SubName: Full=Acetyltransferase (GNAT) family protein {ECO:0000313|EMBL:PRY17127.1};
+Bit Score: 163.0
+E-value: 0.001587
+Alignment Length: 93
+Percentage Identity: 0.268
+
+=== A0A0F5VNA5 ===
+DE   SubName: Full=Histone acetyltransferase {ECO:0000313|EMBL:KKD03586.1};
+Bit Score: 163.0
+E-value: 0.001587
+Alignment Length: 89
+Percentage Identity: 0.202
+
+=== A0A7X7T8M0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NLH15073.1};
+Bit Score: 157.0
+E-value: 0.001587
+Alignment Length: 102
+Percentage Identity: 0.205
+
+=== A0A7K3C680 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MYY13724.1};
+Bit Score: 156.0
+E-value: 0.001587
+Alignment Length: 93
+Percentage Identity: 0.215
+
+=== A0A3D4YH41 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 148.0
+E-value: 0.001587
+Alignment Length: 95
+Percentage Identity: 0.147
+
+=== A0A442E8U0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RWL81361.1};
+Bit Score: 172.0
+E-value: 0.001686
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A7W7HY02 ===
+DE   SubName: Full=GNAT superfamily N-acetyltransferase {ECO:0000313|EMBL:MBB4762867.1};
+Bit Score: 170.0
+E-value: 0.001686
+Alignment Length: 93
+Percentage Identity: 0.204
+
+=== A0A7C7U301 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:HIF93627.1};
+Bit Score: 166.0
+E-value: 0.001686
+Alignment Length: 82
+Percentage Identity: 0.146
+
+=== A0A1H9DN57 ===
+DE   SubName: Full=Ribosomal protein S18 acetylase RimI {ECO:0000313|EMBL:SEQ14924.1};
+Bit Score: 157.0
+E-value: 0.001686
+Alignment Length: 88
+Percentage Identity: 0.261
+
+=== A0A7H0F1P3 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QNP29959.1};
+Bit Score: 152.0
+E-value: 0.001686
+Alignment Length: 89
+Percentage Identity: 0.157
+
+=== A0A1I1NRG8 ===
+DE   SubName: Full=Acetyltransferase (GNAT) domain-containing protein {ECO:0000313|EMBL:SFC96320.1};
+Bit Score: 140.0
+E-value: 0.001686
+Alignment Length: 97
+Percentage Identity: 0.154
+
+=== L1LVG0 ===
+DE   SubName: Full=GCN5-related N-acetyltransferase {ECO:0000313|EMBL:EKX82664.1};
+Bit Score: 133.0
+E-value: 0.001686
+Alignment Length: 96
+Percentage Identity: 0.27
+
+=== A0A2E1BD07 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MAU22816.1};
+Bit Score: 179.0
+E-value: 0.001791
+Alignment Length: 94
+Percentage Identity: 0.191
+
+=== A0A2W1B6M1 ===
+DE   SubName: Full=Ribosomal protein S18 acetylase RimI {ECO:0000313|EMBL:PZC50358.1};
+Bit Score: 172.0
+E-value: 0.001791
+Alignment Length: 92
+Percentage Identity: 0.152
+
+=== A0A345P3H9 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:AXI01838.1};
+Bit Score: 167.0
+E-value: 0.001791
+Alignment Length: 93
+Percentage Identity: 0.247
+
+=== A6NQA3 ===
+DE   SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:EDN01708.1};
+Bit Score: 165.0
+E-value: 0.001791
+Alignment Length: 94
+Percentage Identity: 0.212
+
+=== I7KP53 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 165.0
+E-value: 0.001791
+Alignment Length: 94
+Percentage Identity: 0.18
+
+=== A0A381VNC5 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 158.0
+E-value: 0.001791
+Alignment Length: 100
+Percentage Identity: 0.14
+
+=== A0A6C0LA65 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 147.0
+E-value: 0.001791
+Alignment Length: 94
+Percentage Identity: 0.17
+
+=== A0A7S9CMH0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QPF82097.1};
+Bit Score: 174.0
+E-value: 0.001902
+Alignment Length: 92
+Percentage Identity: 0.184
+
+=== F0SXV3 ===
+DE   SubName: Full=GCN5-related N-acetyltransferase {ECO:0000313|EMBL:ADY57014.1};
+Bit Score: 172.0
+E-value: 0.001902
+Alignment Length: 93
+Percentage Identity: 0.236
+
+=== A0A4P6L750 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QBE67551.1};
+Bit Score: 165.0
+E-value: 0.001902
+Alignment Length: 99
+Percentage Identity: 0.171
+
+=== A0A4S8QBG3 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:THV40155.1};
+Bit Score: 163.0
+E-value: 0.001902
+Alignment Length: 95
+Percentage Identity: 0.221
+
+=== A0A7Y2DE28 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NNE75023.1};
+Bit Score: 157.0
+E-value: 0.001902
+Alignment Length: 98
+Percentage Identity: 0.255
+
+=== A0A5J5JYI5 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:KAA9375500.1};
+Bit Score: 156.0
+E-value: 0.001902
+Alignment Length: 95
+Percentage Identity: 0.178
+
+=== A0A7W0QSA2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBA3276705.1};
+Bit Score: 136.0
+E-value: 0.001902
+Alignment Length: 87
+Percentage Identity: 0.264
+
+=== A0A239QI54 ===
+DE   SubName: Full=Predicted phosphodiesterase {ECO:0000313|EMBL:SNT93508.1};
+Bit Score: 173.0
+E-value: 0.002021
+Alignment Length: 98
+Percentage Identity: 0.193
+
+=== A0A2V7CNF3 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+DE   Flags: Fragment;
+Bit Score: 159.0
+E-value: 0.002021
+Alignment Length: 105
+Percentage Identity: 0.19
+
+=== A0A7C4E6R5 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:HGO59479.1};
+Bit Score: 159.0
+E-value: 0.002021
+Alignment Length: 95
+Percentage Identity: 0.189
+
+=== A0A7C6BRL6 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 157.0
+E-value: 0.002021
+Alignment Length: 94
+Percentage Identity: 0.202
+
+=== A0A517SHL5 ===
+DE   SubName: Full=Putative acyltransferase {ECO:0000313|EMBL:QDT55616.1};
+Bit Score: 156.0
+E-value: 0.002021
+Alignment Length: 101
+Percentage Identity: 0.217
+
+=== A0A3D4MUS8 ===
+DE   SubName: Full=[citrate (Pro-3S)-lyase] ligase {ECO:0000313|EMBL:HCS33582.1};
+Bit Score: 156.0
+E-value: 0.002021
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== A0A1E7IKE9 ===
+DE   RecName: Full=Citrate lyase ligase C-terminal domain-containing protein {ECO:0000259|SMART:SM00764};
+DE   Flags: Fragment;
+Bit Score: 151.0
+E-value: 0.002021
+Alignment Length: 91
+Percentage Identity: 0.197
+
+=== A0A6B8QUD7 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QGQ72145.1};
+Bit Score: 168.0
+E-value: 0.002147
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A0R1UQA0 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 167.0
+E-value: 0.002147
+Alignment Length: 90
+Percentage Identity: 0.155
+
+=== A0A372FUJ6 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RFS44236.1};
+Bit Score: 166.0
+E-value: 0.002147
+Alignment Length: 98
+Percentage Identity: 0.163
+
+=== C7QI07 ===
+DE   SubName: Full=GCN5-related N-acetyltransferase {ECO:0000313|EMBL:ACU73052.1};
+Bit Score: 162.0
+E-value: 0.002147
+Alignment Length: 90
+Percentage Identity: 0.188
+
+=== M2NIR9 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+DE   Flags: Fragment;
+Bit Score: 160.0
+E-value: 0.002147
+Alignment Length: 139
+Percentage Identity: 0.136
+
+=== A0A6N7AYU5 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 138.0
+E-value: 0.002147
+Alignment Length: 95
+Percentage Identity: 0.157
+
+=== A0A1C6E9M8 ===
+DE   SubName: Full=Uncharacterized N-acetyltransferase YjaB {ECO:0000313|EMBL:SCJ17204.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:SCJ17204.1};
+Bit Score: 178.0
+E-value: 0.00228
+Alignment Length: 98
+Percentage Identity: 0.183
+
+=== A0A7W0Q044 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBA3384135.1};
+Bit Score: 169.0
+E-value: 0.00228
+Alignment Length: 93
+Percentage Identity: 0.204
+
+=== A0A174HHU6 ===
+DE   SubName: Full=Uncharacterized N-acetyltransferase YjaB {ECO:0000313|EMBL:CUO72549.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:CUO72549.1};
+Bit Score: 163.0
+E-value: 0.00228
+Alignment Length: 93
+Percentage Identity: 0.15
+
+=== A0A7Z9BMJ0 ===
+DE   SubName: Full=Putative GCN5-related N-acetyltransferase {ECO:0000313|EMBL:VXD11911.1};
+DE            EC=2.-.-.- {ECO:0000313|EMBL:VXD11911.1};
+Bit Score: 162.0
+E-value: 0.00228
+Alignment Length: 87
+Percentage Identity: 0.206
+
+=== A0A1G8RTP7 ===
+DE   SubName: Full=Acetyltransferase (GNAT) family protein {ECO:0000313|EMBL:SDJ20444.1};
+Bit Score: 161.0
+E-value: 0.00228
+Alignment Length: 97
+Percentage Identity: 0.185
+
+=== A0A1C5LJ38 ===
+DE   SubName: Full=Uncharacterized N-acetyltransferase YjaB {ECO:0000313|EMBL:SCH00344.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:SCH00344.1};
+Bit Score: 157.0
+E-value: 0.00228
+Alignment Length: 92
+Percentage Identity: 0.141
+
+=== A0A239GS02 ===
+DE   SubName: Full=Ribosomal protein S18 acetylase RimI {ECO:0000313|EMBL:SNS71558.1};
+Bit Score: 150.0
+E-value: 0.00228
+Alignment Length: 92
+Percentage Identity: 0.271
+
+=== A0A6N7H244 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MPZ79189.1};
+Bit Score: 144.0
+E-value: 0.00228
+Alignment Length: 93
+Percentage Identity: 0.204
+
+=== A0A177SSP2 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:OAI93974.1};
+Bit Score: 137.0
+E-value: 0.00228
+Alignment Length: 109
+Percentage Identity: 0.256
+
+=== A0A536Z5Z8 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TMH56430.1};
+Bit Score: 168.0
+E-value: 0.002423
+Alignment Length: 99
+Percentage Identity: 0.202
+
+=== C8P553 ===
+DE   SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:EEW54264.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:EEW54264.1};
+Bit Score: 167.0
+E-value: 0.002423
+Alignment Length: 92
+Percentage Identity: 0.173
+
+=== A0A653V6T6 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:VXC01946.1};
+Bit Score: 166.0
+E-value: 0.002423
+Alignment Length: 94
+Percentage Identity: 0.202
+
+=== A0A840X227 ===
+DE   SubName: Full=GNAT superfamily N-acetyltransferase {ECO:0000313|EMBL:MBB5516854.1};
+Bit Score: 164.0
+E-value: 0.002423
+Alignment Length: 90
+Percentage Identity: 0.211
+
+=== A0A258FGK8 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 151.0
+E-value: 0.002423
+Alignment Length: 89
+Percentage Identity: 0.168
+
+=== A0A1Y4F466 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 149.0
+E-value: 0.002423
+Alignment Length: 97
+Percentage Identity: 0.175
+
+=== A0A3L6G3C3 ===
+DE   SubName: Full=N-alpha-acetyltransferase MAK3 {ECO:0000313|EMBL:PWZ41526.1};
+Bit Score: 148.0
+E-value: 0.002423
+Alignment Length: 111
+Percentage Identity: 0.198
+
+=== A0A660MGT3 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 141.0
+E-value: 0.002423
+Alignment Length: 96
+Percentage Identity: 0.156
+
+=== A0A539EPA1 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 134.0
+E-value: 0.002423
+Alignment Length: 94
+Percentage Identity: 0.223
+
+=== A0A1C0TW62 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 165.0
+E-value: 0.002574
+Alignment Length: 93
+Percentage Identity: 0.172
+
+=== A0A6N8DR04 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MTV31975.1};
+Bit Score: 161.0
+E-value: 0.002574
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A3C1Y9K6 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 150.0
+E-value: 0.002574
+Alignment Length: 96
+Percentage Identity: 0.156
+
+=== A0A7J4LU60 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:HIH44678.1};
+Bit Score: 148.0
+E-value: 0.002574
+Alignment Length: 102
+Percentage Identity: 0.186
+
+=== A0A336N7L5 ===
+DE   SubName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000313|EMBL:SSZ30437.1};
+DE            EC=6.2.1.22 {ECO:0000313|EMBL:SSZ30437.1};
+Bit Score: 147.0
+E-value: 0.002574
+Alignment Length: 91
+Percentage Identity: 0.153
+
+=== A0A3B8Y980 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:HAC65595.1};
+Bit Score: 144.0
+E-value: 0.002574
+Alignment Length: 85
+Percentage Identity: 0.176
+
+=== A0A414UW73 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RHG84981.1};
+Bit Score: 163.0
+E-value: 0.002734
+Alignment Length: 99
+Percentage Identity: 0.171
+
+=== A0A1F4TJC7 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 128.0
+E-value: 0.002734
+Alignment Length: 97
+Percentage Identity: 0.164
+
+=== A0A2D6BQS1 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MAE96017.1};
+Bit Score: 165.0
+E-value: 0.002904
+Alignment Length: 102
+Percentage Identity: 0.166
+
+=== A0A7G1HW48 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:BCI62408.1};
+Bit Score: 163.0
+E-value: 0.002904
+Alignment Length: 89
+Percentage Identity: 0.179
+
+=== A0A377J8L5 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:STO98624.1};
+Bit Score: 156.0
+E-value: 0.002904
+Alignment Length: 97
+Percentage Identity: 0.175
+
+=== A0A556MJQ0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TSJ40137.1};
+Bit Score: 150.0
+E-value: 0.002904
+Alignment Length: 104
+Percentage Identity: 0.134
+
+=== A0A0L6Z8D4 ===
+DE   SubName: Full=Acetyltransferase (GNAT) family protein {ECO:0000313|EMBL:KOA19209.1};
+Bit Score: 147.0
+E-value: 0.002904
+Alignment Length: 94
+Percentage Identity: 0.18
+
+=== S6A4K7 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 141.0
+E-value: 0.002904
+Alignment Length: 95
+Percentage Identity: 0.157
+
+=== A0A1J1LQ71 ===
+DE   SubName: Full=N-acetyltransferase GCN5 {ECO:0000313|EMBL:CUR33713.1};
+Bit Score: 157.0
+E-value: 0.003085
+Alignment Length: 85
+Percentage Identity: 0.211
+
+=== A0A1F4B303 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 150.0
+E-value: 0.003085
+Alignment Length: 89
+Percentage Identity: 0.168
+
+=== A0A316PB43 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 149.0
+E-value: 0.003085
+Alignment Length: 96
+Percentage Identity: 0.145
+
+=== A0A4Q2ZN21 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RYD53464.1};
+Bit Score: 147.0
+E-value: 0.003085
+Alignment Length: 92
+Percentage Identity: 0.141
+
+=== C7D9M6 ===
+DE   SubName: Full=Acetyltransferase, gnat family {ECO:0000313|EMBL:EET47457.1};
+Bit Score: 144.0
+E-value: 0.003085
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A7V8YBR6 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBA2319810.1};
+Bit Score: 134.0
+E-value: 0.003085
+Alignment Length: 97
+Percentage Identity: 0.237
+
+=== A0A4Q3DX57 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RYE11046.1};
+Bit Score: 171.0
+E-value: 0.003278
+Alignment Length: 93
+Percentage Identity: 0.161
+
+=== A0A7W8GA22 ===
+DE   SubName: Full=Ubiquinone/menaquinone biosynthesis C-methylase UbiE {ECO:0000313|EMBL:MBB5226633.1};
+Bit Score: 152.0
+E-value: 0.003278
+Alignment Length: 94
+Percentage Identity: 0.223
+
+=== A0A7Z0TYN6 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NYZ62557.1};
+Bit Score: 140.0
+E-value: 0.003278
+Alignment Length: 92
+Percentage Identity: 0.228
+
+=== A0A222EPB3 ===
+DE   SubName: Full=[citrate (Pro-3S)-lyase] ligase {ECO:0000313|EMBL:ASP28337.1};
+Bit Score: 140.0
+E-value: 0.003278
+Alignment Length: 91
+Percentage Identity: 0.131
+
+=== A0A2W6BPH7 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:PZS11283.1};
+Bit Score: 137.0
+E-value: 0.003278
+Alignment Length: 87
+Percentage Identity: 0.172
+
+=== A0A069F020 ===
+DE   SubName: Full=GCN5 family acetyltransferase {ECO:0000313|EMBL:KDN59453.1};
+Bit Score: 134.0
+E-value: 0.003278
+Alignment Length: 104
+Percentage Identity: 0.163
+
+=== A0A7Z0Q2P4 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NYV78867.1};
+Bit Score: 161.0
+E-value: 0.003482
+Alignment Length: 86
+Percentage Identity: 0.209
+
+=== A0A7Y0CTQ3 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NMM23066.1};
+Bit Score: 160.0
+E-value: 0.003482
+Alignment Length: 85
+Percentage Identity: 0.223
+
+=== A0A522A7J3 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:TAL01366.1};
+Bit Score: 157.0
+E-value: 0.003482
+Alignment Length: 85
+Percentage Identity: 0.235
+
+=== A0A1D8T9H6 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:AOW94264.1};
+Bit Score: 154.0
+E-value: 0.003482
+Alignment Length: 94
+Percentage Identity: 0.202
+
+=== W1SKF3 ===
+DE   SubName: Full=N-acetyltransferase GCN5 {ECO:0000313|EMBL:ETI68484.1};
+Bit Score: 150.0
+E-value: 0.003482
+Alignment Length: 85
+Percentage Identity: 0.176
+
+=== A0A4Q7KJF3 ===
+DE   SubName: Full=Acetyltransferase (GNAT) family protein {ECO:0000313|EMBL:RZS34744.1};
+Bit Score: 145.0
+E-value: 0.003482
+Alignment Length: 128
+Percentage Identity: 0.203
+
+=== A0A7C6SS71 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 145.0
+E-value: 0.003482
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A7C6YCZ1 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 140.0
+E-value: 0.003482
+Alignment Length: 93
+Percentage Identity: 0.172
+
+=== A0A2E5P300 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBI03623.1};
+Bit Score: 140.0
+E-value: 0.003482
+Alignment Length: 100
+Percentage Identity: 0.16
+
+=== A0A2N2EE17 ===
+DE   SubName: Full=Histone acetyltransferase {ECO:0000313|EMBL:PKM94193.1};
+Bit Score: 138.0
+E-value: 0.003699
+Alignment Length: 85
+Percentage Identity: 0.2
+
+=== A0A2Z4UC31 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 136.0
+E-value: 0.003699
+Alignment Length: 89
+Percentage Identity: 0.157
+
+=== R6YNU9 ===
+DE   SubName: Full=Acetyltransferase GNAT family {ECO:0000313|EMBL:CDD30296.1};
+Bit Score: 127.0
+E-value: 0.003699
+Alignment Length: 92
+Percentage Identity: 0.173
+
+=== A0A4Q7NZ83 ===
+DE   SubName: Full=Acetyltransferase (GNAT) family protein {ECO:0000313|EMBL:RZS92763.1};
+Bit Score: 155.0
+E-value: 0.00393
+Alignment Length: 90
+Percentage Identity: 0.2
+
+=== R9M1F9 ===
+DE   SubName: Full=[citrate (Pro-3S)-lyase] ligase {ECO:0000313|EMBL:EOS64531.1};
+Bit Score: 146.0
+E-value: 0.00393
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A7X7DMT5 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NLD93587.1};
+Bit Score: 135.0
+E-value: 0.00393
+Alignment Length: 92
+Percentage Identity: 0.173
+
+=== A0A3D4DIF7 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:HCQ55755.1};
+Bit Score: 135.0
+E-value: 0.00393
+Alignment Length: 99
+Percentage Identity: 0.161
+
+=== A0A1S9M0X2 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 135.0
+E-value: 0.00393
+Alignment Length: 91
+Percentage Identity: 0.109
+
+=== A0A0Q8ED80 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 161.0
+E-value: 0.004175
+Alignment Length: 91
+Percentage Identity: 0.208
+
+=== E3C6Z2 ===
+DE   SubName: Full=Toxin-antitoxin system, toxin component, GNAT family {ECO:0000313|EMBL:EFQ53526.1};
+Bit Score: 159.0
+E-value: 0.004175
+Alignment Length: 92
+Percentage Identity: 0.184
+
+=== A0A399ZIY2 ===
+DE   SubName: Full=Histone acetyltransferase {ECO:0000313|EMBL:RIK29290.1};
+Bit Score: 157.0
+E-value: 0.004175
+Alignment Length: 90
+Percentage Identity: 0.155
+
+=== A0A7G9BQT9 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QNL51920.1};
+Bit Score: 153.0
+E-value: 0.004175
+Alignment Length: 85
+Percentage Identity: 0.152
+
+=== A0A256AD77 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 151.0
+E-value: 0.004175
+Alignment Length: 100
+Percentage Identity: 0.15
+
+=== A0A7Y3Z7R3 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NOH48077.1};
+Bit Score: 117.0
+E-value: 0.004175
+Alignment Length: 104
+Percentage Identity: 0.153
+
+=== A0A0Q9TGN4 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 160.0
+E-value: 0.004435
+Alignment Length: 97
+Percentage Identity: 0.206
+
+=== A0A1G2HY11 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 137.0
+E-value: 0.004435
+Alignment Length: 104
+Percentage Identity: 0.144
+
+=== A0A1U9Z4W1 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:AQZ52704.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:AQZ52704.1};
+Bit Score: 162.0
+E-value: 0.004711
+Alignment Length: 87
+Percentage Identity: 0.195
+
+=== A0A660VLE5 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RKY18311.1};
+Bit Score: 154.0
+E-value: 0.004711
+Alignment Length: 88
+Percentage Identity: 0.204
+
+=== A0A7X8W9K3 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 141.0
+E-value: 0.004711
+Alignment Length: 91
+Percentage Identity: 0.142
+
+=== A0A522Z0B0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TBR23964.1};
+DE   Flags: Fragment;
+Bit Score: 134.0
+E-value: 0.004711
+Alignment Length: 100
+Percentage Identity: 0.24
+
+=== A0A1Z3HIQ4 ===
+DE   SubName: Full=Putative N-acetyltransferase YjdG {ECO:0000313|EMBL:ASC70185.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:ASC70185.1};
+Bit Score: 156.0
+E-value: 0.005005
+Alignment Length: 92
+Percentage Identity: 0.184
+
+=== A0A6J4KY02 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+DE   Flags: Fragment;
+Bit Score: 152.0
+E-value: 0.005005
+Alignment Length: 96
+Percentage Identity: 0.166
+
+=== A0A644ZWE9 ===
+DE   RecName: Full=3-dehydroquinate dehydratase {ECO:0000256|ARBA:ARBA00012060};
+DE            EC=4.2.1.10 {ECO:0000256|ARBA:ARBA00012060};
+Bit Score: 146.0
+E-value: 0.005005
+Alignment Length: 89
+Percentage Identity: 0.146
+
+=== A0A165NGX3 ===
+DE   SubName: Full=Putative N-acetyltransferase YjaB {ECO:0000313|EMBL:KZK94269.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:KZK94269.1};
+Bit Score: 145.0
+E-value: 0.005005
+Alignment Length: 86
+Percentage Identity: 0.209
+
+=== A0A2S8NUT2 ===
+DE   SubName: Full=[citrate (Pro-3S)-lyase] ligase {ECO:0000313|EMBL:PQP79746.1};
+DE   Flags: Fragment;
+Bit Score: 137.0
+E-value: 0.005005
+Alignment Length: 91
+Percentage Identity: 0.131
+
+=== A0A2S4UBF6 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 138.0
+E-value: 0.005317
+Alignment Length: 101
+Percentage Identity: 0.118
+
+=== A0A7Y9E0G1 ===
+DE   SubName: Full=ElaA protein {ECO:0000313|EMBL:NYD38864.1};
+Bit Score: 137.0
+E-value: 0.005317
+Alignment Length: 101
+Percentage Identity: 0.168
+
+=== A0A838K1W3 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBA2729953.1};
+Bit Score: 128.0
+E-value: 0.005317
+Alignment Length: 96
+Percentage Identity: 0.145
+
+=== A0A7C6ETI1 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:HHS73585.1};
+Bit Score: 120.0
+E-value: 0.005317
+Alignment Length: 105
+Percentage Identity: 0.142
+
+=== A0A3Q8S7V6 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 140.0
+E-value: 0.005648
+Alignment Length: 95
+Percentage Identity: 0.126
+
+=== A0A0L0W441 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 138.0
+E-value: 0.005648
+Alignment Length: 101
+Percentage Identity: 0.108
+
+=== A0A1Y3YQW7 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 156.0
+E-value: 0.006374
+Alignment Length: 101
+Percentage Identity: 0.168
+
+=== K1RRP3 ===
+DE   SubName: Full=GCN5-related N-acetyltransferase {ECO:0000313|EMBL:EKC46234.1};
+DE   Flags: Fragment;
+Bit Score: 154.0
+E-value: 0.006374
+Alignment Length: 83
+Percentage Identity: 0.192
+
+=== A0A420W999 ===
+DE   SubName: Full=Acetyltransferase (GNAT) family protein {ECO:0000313|EMBL:RKQ63906.1};
+Bit Score: 148.0
+E-value: 0.006374
+Alignment Length: 95
+Percentage Identity: 0.126
+
+=== A0A291ISH1 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 147.0
+E-value: 0.006374
+Alignment Length: 92
+Percentage Identity: 0.086
+
+=== A0A502IN59 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:TPG88269.1};
+Bit Score: 143.0
+E-value: 0.006374
+Alignment Length: 100
+Percentage Identity: 0.16
+
+=== A0A7W3T6M8 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBB0231915.1};
+Bit Score: 142.0
+E-value: 0.006374
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A1F4TIQ7 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 121.0
+E-value: 0.006374
+Alignment Length: 105
+Percentage Identity: 0.152
+
+=== A0A3A8YM76 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RKI63551.1};
+Bit Score: 154.0
+E-value: 0.006772
+Alignment Length: 58
+Percentage Identity: 0.206
+
+=== A0A4R5TR27 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TDK24109.1};
+Bit Score: 147.0
+E-value: 0.006772
+Alignment Length: 95
+Percentage Identity: 0.2
+
+=== A0A7Y8HBK9 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NWF54049.1};
+Bit Score: 129.0
+E-value: 0.006772
+Alignment Length: 90
+Percentage Identity: 0.144
+
+=== A0A520AUD8 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RZL24342.1};
+DE   Flags: Fragment;
+Bit Score: 128.0
+E-value: 0.006772
+Alignment Length: 90
+Percentage Identity: 0.177
+
+=== A0A4Q3EXA2 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RYE24894.1};
+Bit Score: 154.0
+E-value: 0.007194
+Alignment Length: 102
+Percentage Identity: 0.166
+
+=== A0A7V9NYC0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBA2611792.1};
+Bit Score: 138.0
+E-value: 0.007194
+Alignment Length: 92
+Percentage Identity: 0.141
+
+=== A0A1F5C278 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 128.0
+E-value: 0.007194
+Alignment Length: 103
+Percentage Identity: 0.174
+
+=== A0A5C8AW97 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TXI90344.1};
+Bit Score: 134.0
+E-value: 0.007642
+Alignment Length: 97
+Percentage Identity: 0.175
+
+=== A0A3P7X7J1 ===
+DE   RecName: Full=Glycine N-acyltransferase-like protein {ECO:0000256|RuleBase:RU368002};
+DE            EC=2.3.1.- {ECO:0000256|RuleBase:RU368002};
+Bit Score: 118.0
+E-value: 0.007642
+Alignment Length: 99
+Percentage Identity: 0.161
+
+=== A0A7Y2CLB1 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NNE43432.1};
+Bit Score: 141.0
+E-value: 0.008118
+Alignment Length: 96
+Percentage Identity: 0.26
+
+=== A0A2A5RIM3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PCR98922.1};
+Bit Score: 139.0
+E-value: 0.008118
+Alignment Length: 95
+Percentage Identity: 0.157
+
+=== A0A7C6Y5C9 ===
+DE   SubName: Full=Adenylyltransferase/cytidyltransferase family protein {ECO:0000313|EMBL:HHX78587.1};
+Bit Score: 132.0
+E-value: 0.008118
+Alignment Length: 93
+Percentage Identity: 0.064
+
+=== A0A5U8XKJ1 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:EBS0563334.1};
+Bit Score: 149.0
+E-value: 0.008624
+Alignment Length: 92
+Percentage Identity: 0.173
+
+=== A0A1F4SHP8 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 125.0
+E-value: 0.008624
+Alignment Length: 105
+Percentage Identity: 0.114
+
+=== A0A2H0XYZ3 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 115.0
+E-value: 0.008624
+Alignment Length: 99
+Percentage Identity: 0.131
+
+=== A0A7Y4KZ48 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NOL41353.1};
+DE   SubName: Full=GNAT superfamily N-acetyltransferase {ECO:0000313|EMBL:MBB6565082.1};
+Bit Score: 130.0
+E-value: 0.009162
+Alignment Length: 123
+Percentage Identity: 0.17
+
+=== A0A1Q3MLA7 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 113.0
+E-value: 0.009162
+Alignment Length: 106
+Percentage Identity: 0.207
+
+=== A0A1V5RSJ8 ===
+DE   SubName: Full=N-acetyltransferase YjcF {ECO:0000313|EMBL:OQA45235.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:OQA45235.1};
+Bit Score: 133.0
+E-value: 0.009733
+Alignment Length: 93
+Percentage Identity: 0.215
+
+=== A0A2M6NSI3 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 130.0
+E-value: 0.009733
+Alignment Length: 88
+Percentage Identity: 0.125
+
+=== A0A1F4RII4 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 125.0
+E-value: 0.009733
+Alignment Length: 105
+Percentage Identity: 0.161
+
+=== A0A2V9MC87 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 117.0
+E-value: 0.009733
+Alignment Length: 99
+Percentage Identity: 0.181
+
+=== A0A2V9JMF7 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 116.0
+E-value: 0.01034
+Alignment Length: 99
+Percentage Identity: 0.181
+
+=== A0A127VBX5 ===
+DE   SubName: Full=MarR family transcriptional regulator {ECO:0000313|EMBL:AMP98843.1};
+Bit Score: 129.0
+E-value: 0.01098
+Alignment Length: 89
+Percentage Identity: 0.146
+
+=== A0A3A9S9U6 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RKM55805.1};
+Bit Score: 136.0
+E-value: 0.01167
+Alignment Length: 89
+Percentage Identity: 0.157
+
+=== A0A7W1FVV4 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBA3704513.1};
+Bit Score: 133.0
+E-value: 0.01167
+Alignment Length: 105
+Percentage Identity: 0.2
+
+=== F0RXG2 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 130.0
+E-value: 0.01167
+Alignment Length: 84
+Percentage Identity: 0.19
+
+=== A0A2T5TXG0 ===
+DE   SubName: Full=Putative GNAT family N-acyltransferase {ECO:0000313|EMBL:PTW43960.1};
+Bit Score: 121.0
+E-value: 0.01167
+Alignment Length: 90
+Percentage Identity: 0.177
+
+=== A0A1F4Q499 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 115.0
+E-value: 0.01167
+Alignment Length: 98
+Percentage Identity: 0.153
+
+=== A0A315SEQ0 ===
+DE   SubName: Full=Acetyltransferase (GNAT) family protein {ECO:0000313|EMBL:PVY33730.1};
+Bit Score: 120.0
+E-value: 0.0124
+Alignment Length: 85
+Percentage Identity: 0.152
+
+=== A0A1Y4T7B6 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 149.0
+E-value: 0.01317
+Alignment Length: 93
+Percentage Identity: 0.182
+
+=== A0A4R7F751 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.01399
+Alignment Length: 104
+Percentage Identity: 0.134
+
+=== A0A233RD93 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:OXY81368.1};
+Bit Score: 101.0
+E-value: 0.01399
+Alignment Length: 95
+Percentage Identity: 0.189
+
+=== A0A2W1KA08 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 140.0
+E-value: 0.01486
+Alignment Length: 112
+Percentage Identity: 0.125
+
+=== A0A2R4X0C0 ===
+DE   SubName: Full=N-acetyltransferase {ECO:0000313|EMBL:AWB27248.1};
+Bit Score: 135.0
+E-value: 0.01486
+Alignment Length: 95
+Percentage Identity: 0.136
+
+=== A0A7V9LRD0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:MBA2551216.1};
+Bit Score: 132.0
+E-value: 0.01486
+Alignment Length: 94
+Percentage Identity: 0.202
+
+=== A0A4U0XES2 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 124.0
+E-value: 0.01486
+Alignment Length: 86
+Percentage Identity: 0.186
+
+=== A0A7C2CJB8 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:HEI27689.1};
+Bit Score: 111.0
+E-value: 0.01486
+Alignment Length: 97
+Percentage Identity: 0.144
+
+=== A0A010YSY9 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:EXG83270.1};
+Bit Score: 135.0
+E-value: 0.01579
+Alignment Length: 95
+Percentage Identity: 0.2
+
+=== A0A0C1ZTW8 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 135.0
+E-value: 0.01677
+Alignment Length: 70
+Percentage Identity: 0.228
+
+=== A0A073IMW7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KEJ91698.1};
+Bit Score: 127.0
+E-value: 0.01677
+Alignment Length: 117
+Percentage Identity: 0.128
+
+=== A0A4Y9F254 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TFU20948.1};
+Bit Score: 126.0
+E-value: 0.01782
+Alignment Length: 103
+Percentage Identity: 0.174
+
+=== A0A535IX96 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TMC63093.1};
+Bit Score: 116.0
+E-value: 0.01782
+Alignment Length: 106
+Percentage Identity: 0.16
+
+=== A0A379TIG0 ===
+DE   SubName: Full=Acetyltransferase {ECO:0000313|EMBL:SUG50241.1};
+DE            EC=2.3.1.- {ECO:0000313|EMBL:SUG50241.1};
+Bit Score: 147.0
+E-value: 0.01893
+Alignment Length: 49
+Percentage Identity: 0.326
+
+=== A0A6C0LRC5 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 117.0
+E-value: 0.01893
+Alignment Length: 92
+Percentage Identity: 0.173
+
+=== A0A355TQ67 ===
+DE   RecName: Full=[Citrate [pro-3S]-lyase] ligase {ECO:0000256|PIRNR:PIRNR005751};
+DE            EC=6.2.1.22 {ECO:0000256|PIRNR:PIRNR005751};
+Bit Score: 116.0
+E-value: 0.01893
+Alignment Length: 91
+Percentage Identity: 0.131
+
+=== C5PAE7 ===
+DE   SubName: Full=GNAT family acetyltransferase, putative {ECO:0000313|EMBL:EER26709.1};
+Bit Score: 126.0
+E-value: 0.02011
+Alignment Length: 151
+Percentage Identity: 0.139
+
+=== A0A1H7IA53 ===
+DE   RecName: Full=Phage Mu protein F like protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 125.0
+E-value: 0.02011
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A661J5L2 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 123.0
+E-value: 0.02011
+Alignment Length: 107
+Percentage Identity: 0.102
+
+=== A0A3A9ELV7 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:RKJ40351.1};
+Bit Score: 139.0
+E-value: 0.02269
+Alignment Length: 50
+Percentage Identity: 0.36
+
+=== R9M3E1 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 138.0
+E-value: 0.02269
+Alignment Length: 57
+Percentage Identity: 0.228
+
+=== A0A090CJ78 ===
+DE   SubName: Full=Acetyltransferase, GNAT family {ECO:0000313|EMBL:CDP25784.1};
+Bit Score: 119.0
+E-value: 0.02411
+Alignment Length: 78
+Percentage Identity: 0.153
+
+=== A0A1F3R327 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 111.0
+E-value: 0.02411
+Alignment Length: 102
+Percentage Identity: 0.137
+
+=== A0A0F5ZN86 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 144.0
+E-value: 0.0272
+Alignment Length: 47
+Percentage Identity: 0.276
+
+=== W2RN36 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 119.0
+E-value: 0.0272
+Alignment Length: 72
+Percentage Identity: 0.18
+
+=== A0A562QDX2 ===
+DE   SubName: Full=Putative acetyltransferase {ECO:0000313|EMBL:TWI54899.1};
+Bit Score: 122.0
+E-value: 0.0289
+Alignment Length: 88
+Percentage Identity: 0.215
+
+=== A0A316PKE9 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 118.0
+E-value: 0.03262
+Alignment Length: 88
+Percentage Identity: 0.204
+
+=== A0A7S7FZF0 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:QOX89371.1};
+Bit Score: 107.0
+E-value: 0.04154
+Alignment Length: 89
+Percentage Identity: 0.123
+
+=== A0A5C8NHQ4 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:TXL57686.1};
+Bit Score: 106.0
+E-value: 0.04154
+Alignment Length: 120
+Percentage Identity: 0.175
+
+=== K2EBA2 ===
+DE   RecName: Full=N-acetyltransferase domain-containing protein {ECO:0000259|PROSITE:PS51186};
+Bit Score: 117.0
+E-value: 0.04688
+Alignment Length: 91
+Percentage Identity: 0.164
+
+=== A0A2X3CR71 ===
+DE   SubName: Full=Acetyltransferase YafP {ECO:0000313|EMBL:SQC19712.1};
+Bit Score: 126.0
+E-value: 0.0498
+Alignment Length: 69
+Percentage Identity: 0.246
+
+=== A0A1H0JMK8 ===
+DE   RecName: Full=Mycothiol acetyltransferase {ECO:0000256|HAMAP-Rule:MF_01698};
+DE            Short=MSH acetyltransferase {ECO:0000256|HAMAP-Rule:MF_01698};
+DE            EC=2.3.1.189 {ECO:0000256|HAMAP-Rule:MF_01698};
+DE   AltName: Full=Mycothiol synthase {ECO:0000256|HAMAP-Rule:MF_01698};
+Bit Score: 112.0
+E-value: 0.0498
+Alignment Length: 76
+Percentage Identity: 0.276
+
+=== A0A7Y8LX36 ===
+DE   SubName: Full=GNAT family N-acetyltransferase {ECO:0000313|EMBL:NWG12781.1};
+Bit Score: 98.0
+E-value: 0.0498
+Alignment Length: 95
+Percentage Identity: 0.157
+

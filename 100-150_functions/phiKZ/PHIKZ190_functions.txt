@@ -1,0 +1,7 @@
+=== A0A7W1N283 ===
+DE   RecName: Full=Suppressor of fused-like domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 86.0
+E-value: 0.04418
+Alignment Length: 163
+Percentage Identity: 0.079
+

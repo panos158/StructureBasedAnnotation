@@ -1,0 +1,7 @@
+=== A0A7S9LCE3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QPH51632.1};
+Bit Score: 253.0
+E-value: 1.935e-07
+Alignment Length: 71
+Percentage Identity: 0.619
+

@@ -1,0 +1,204 @@
+=== A0A7S0HNY1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAD8487864.1};
+DE   Flags: Fragment;
+Bit Score: 99.0
+E-value: 0.002222
+Alignment Length: 120
+Percentage Identity: 0.166
+
+=== A0A5J6MVQ1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QEX20230.1};
+Bit Score: 109.0
+E-value: 0.008067
+Alignment Length: 92
+Percentage Identity: 0.184
+
+=== A0A7Z9QJB7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HIB83896.1};
+Bit Score: 117.0
+E-value: 0.008578
+Alignment Length: 73
+Percentage Identity: 0.191
+
+=== A0A0P1FJ79 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CUH67848.1};
+Bit Score: 93.0
+E-value: 0.0124
+Alignment Length: 105
+Percentage Identity: 0.133
+
+=== A0A085F458 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KFC66253.1};
+Bit Score: 107.0
+E-value: 0.01906
+Alignment Length: 76
+Percentage Identity: 0.184
+
+=== A0A7Z0SKQ2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NYT64322.1};
+Bit Score: 98.0
+E-value: 0.01906
+Alignment Length: 83
+Percentage Identity: 0.156
+
+=== A0A059AL07 ===
+DE   RecName: Full=SANTA domain-containing protein {ECO:0000259|Pfam:PF09133};
+Bit Score: 90.0
+E-value: 0.01906
+Alignment Length: 90
+Percentage Identity: 0.133
+
+=== A0A397GQ54 ===
+DE   RecName: Full=SANTA domain-containing protein {ECO:0000259|Pfam:PF09133};
+Bit Score: 74.0
+E-value: 0.01906
+Alignment Length: 94
+Percentage Identity: 0.138
+
+=== A0A564FXZ8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VUF13035.1};
+Bit Score: 85.0
+E-value: 0.02155
+Alignment Length: 92
+Percentage Identity: 0.173
+
+=== A0A6F8UPY2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:BCB17120.1};
+Bit Score: 109.0
+E-value: 0.02291
+Alignment Length: 69
+Percentage Identity: 0.159
+
+=== A0A3D8US59 ===
+DE   RecName: Full=DUF2591 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 105.0
+E-value: 0.02291
+Alignment Length: 71
+Percentage Identity: 0.183
+
+=== M5Q3J9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EMG38578.1};
+Bit Score: 107.0
+E-value: 0.02436
+Alignment Length: 67
+Percentage Identity: 0.149
+
+=== A0A844B1P5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MQY44454.1};
+Bit Score: 104.0
+E-value: 0.02436
+Alignment Length: 80
+Percentage Identity: 0.137
+
+=== K8P7Z5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EKS34518.1};
+Bit Score: 86.0
+E-value: 0.02754
+Alignment Length: 98
+Percentage Identity: 0.142
+
+=== A0A2I0L0A4 ===
+DE   SubName: Full=Uncharacterized protein LOC116213101 isoform X1 {ECO:0000313|RefSeq:XP_031403775.1};
+Bit Score: 96.0
+E-value: 0.02929
+Alignment Length: 81
+Percentage Identity: 0.135
+
+=== A0A0D3FUF8 ===
+DE   RecName: Full=SANTA domain-containing protein {ECO:0000259|Pfam:PF09133};
+Bit Score: 94.0
+E-value: 0.02929
+Alignment Length: 81
+Percentage Identity: 0.148
+
+=== A0A0K0DHL1 ===
+DE   SubName: Full=SANTA domain-containing protein {ECO:0000313|WBParaSite:ACAC_0001068701-mRNA-1};
+Bit Score: 85.0
+E-value: 0.02929
+Alignment Length: 73
+Percentage Identity: 0.123
+
+=== A0A316UJ55 ===
+DE   RecName: Full=SANTA domain-containing protein {ECO:0000259|Pfam:PF09133};
+Bit Score: 76.0
+E-value: 0.02929
+Alignment Length: 92
+Percentage Identity: 0.163
+
+=== A0A2W5K593 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PZQ12346.1};
+Bit Score: 99.0
+E-value: 0.03312
+Alignment Length: 79
+Percentage Identity: 0.189
+
+=== A0A0R3VWU2 ===
+DE   SubName: Full=RAMA domain-containing protein {ECO:0000313|WBParaSite:TASK_0000188601-mRNA-1};
+Bit Score: 85.0
+E-value: 0.03312
+Alignment Length: 82
+Percentage Identity: 0.121
+
+=== A0A0N1N2T1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KPH81418.1};
+Bit Score: 95.0
+E-value: 0.03521
+Alignment Length: 88
+Percentage Identity: 0.147
+
+=== A0A0D9X3N9 ===
+DE   RecName: Full=SANTA domain-containing protein {ECO:0000259|Pfam:PF09133};
+Bit Score: 79.0
+E-value: 0.03521
+Alignment Length: 79
+Percentage Identity: 0.215
+
+=== A0A3S4GEV7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VDS02927.1};
+Bit Score: 99.0
+E-value: 0.03744
+Alignment Length: 78
+Percentage Identity: 0.153
+
+=== A0A0E0P7N0 ===
+DE   RecName: Full=SANTA domain-containing protein {ECO:0000259|Pfam:PF09133};
+Bit Score: 86.0
+E-value: 0.03981
+Alignment Length: 84
+Percentage Identity: 0.178
+
+=== A0A418ZZW1 ===
+DE   SubName: Full=ATP-dependent Lon protease {ECO:0000313|EMBL:RJL06024.1};
+Bit Score: 92.0
+E-value: 0.04234
+Alignment Length: 80
+Percentage Identity: 0.187
+
+=== A0A6P5GFV9 ===
+DE   SubName: Full=Uncharacterized protein LOC109722965 {ECO:0000313|RefSeq:XP_020106727.1};
+Bit Score: 89.0
+E-value: 0.04234
+Alignment Length: 82
+Percentage Identity: 0.158
+
+=== A0A4U5LYF0 ===
+DE   RecName: Full=SANTA domain-containing protein {ECO:0000259|Pfam:PF09133};
+Bit Score: 79.0
+E-value: 0.04234
+Alignment Length: 82
+Percentage Identity: 0.146
+
+=== A0A1X0T0J5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ORE93256.1};
+Bit Score: 102.0
+E-value: 0.04787
+Alignment Length: 67
+Percentage Identity: 0.134
+
+=== A0A850Q8D1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NVO25203.1};
+Bit Score: 88.0
+E-value: 0.04787
+Alignment Length: 78
+Percentage Identity: 0.141
+

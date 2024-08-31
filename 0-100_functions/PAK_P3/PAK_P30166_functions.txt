@@ -1,0 +1,28 @@
+=== A0A6P2Y0I7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VWD15224.1};
+Bit Score: 125.0
+E-value: 0.003617
+Alignment Length: 38
+Percentage Identity: 0.552
+
+=== A0A7X9ZFZ6 ===
+DE   SubName: Full=DUF1643 domain-containing protein {ECO:0000313|EMBL:NMK48886.1};
+Bit Score: 122.0
+E-value: 0.01996
+Alignment Length: 39
+Percentage Identity: 0.461
+
+=== A0PBB2 ===
+DE   RecName: Full=DUF1643 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.02653
+Alignment Length: 37
+Percentage Identity: 0.54
+
+=== A0A2W5T2G4 ===
+DE   RecName: Full=DUF1643 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 115.0
+E-value: 0.03787
+Alignment Length: 37
+Percentage Identity: 0.486
+

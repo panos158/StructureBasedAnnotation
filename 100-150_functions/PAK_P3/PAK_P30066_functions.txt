@@ -1,0 +1,7 @@
+=== A0A4Q5TM35 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RYY51355.1};
+Bit Score: 350.0
+E-value: 6.872e-10
+Alignment Length: 120
+Percentage Identity: 0.416
+

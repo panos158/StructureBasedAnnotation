@@ -1,0 +1,893 @@
+=== A0A7M2QN33 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QOV05540.1};
+Bit Score: 161.0
+E-value: 2.53e-05
+Alignment Length: 124
+Percentage Identity: 0.225
+
+=== A0A0E1WIT6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EET09537.1};
+Bit Score: 201.0
+E-value: 7.442e-05
+Alignment Length: 106
+Percentage Identity: 0.207
+
+=== A0A1V5ZK65 ===
+DE   RecName: Full=50S ribosomal protein L19 {ECO:0008006|Google:ProtNLM};
+Bit Score: 125.0
+E-value: 0.0002189
+Alignment Length: 142
+Percentage Identity: 0.19
+
+=== A0A6S7BDB6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAB3795589.1};
+Bit Score: 167.0
+E-value: 0.001173
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A2D6WU15 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAH42173.1};
+Bit Score: 142.0
+E-value: 0.001245
+Alignment Length: 99
+Percentage Identity: 0.222
+
+=== A0A1G1RP37 ===
+DE   RecName: Full=Flagellar hook capping protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 90.0
+E-value: 0.001784
+Alignment Length: 139
+Percentage Identity: 0.179
+
+=== A0A840I9U0 ===
+DE   SubName: Full=Flagellar basal-body rod modification protein FlgD {ECO:0000313|EMBL:MBB4661003.1};
+Bit Score: 98.0
+E-value: 0.002267
+Alignment Length: 138
+Percentage Identity: 0.181
+
+=== A0A660TFD9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RKX86208.1};
+Bit Score: 100.0
+E-value: 0.002556
+Alignment Length: 90
+Percentage Identity: 0.177
+
+=== A0A0F6A3W5 ===
+DE   RecName: Full=Basal-body rod modification protein FlgD {ECO:0000256|ARBA:ARBA00016013};
+Bit Score: 95.0
+E-value: 0.002882
+Alignment Length: 141
+Percentage Identity: 0.205
+
+=== A0A830I5G6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GHP12327.1};
+Bit Score: 95.0
+E-value: 0.00306
+Alignment Length: 129
+Percentage Identity: 0.17
+
+=== A0A1C6ICJ9 ===
+DE   SubName: Full=Flagellar basal body rod modification protein {ECO:0000313|EMBL:SCJ67218.1};
+Bit Score: 89.0
+E-value: 0.003249
+Alignment Length: 136
+Percentage Identity: 0.176
+
+=== A0A101WN75 ===
+DE   RecName: Full=Basal-body rod modification protein FlgD {ECO:0000256|RuleBase:RU362076};
+Bit Score: 103.0
+E-value: 0.004655
+Alignment Length: 146
+Percentage Identity: 0.116
+
+=== A0A1R1G8H0 ===
+DE   SubName: Full=Flagellar hook capping protein {ECO:0000313|EMBL:OMF92942.1};
+Bit Score: 91.0
+E-value: 0.004655
+Alignment Length: 140
+Percentage Identity: 0.2
+
+=== A0A1I2M1M1 ===
+DE   SubName: Full=Flagellar basal-body rod modification protein FlgD {ECO:0000313|EMBL:SFF83437.1};
+Bit Score: 89.0
+E-value: 0.004943
+Alignment Length: 139
+Percentage Identity: 0.115
+
+=== A0A2T6KGZ6 ===
+DE   SubName: Full=Flagellar basal-body rod modification protein FlgD {ECO:0000313|EMBL:PUB14666.1};
+Bit Score: 84.0
+E-value: 0.004943
+Alignment Length: 141
+Percentage Identity: 0.17
+
+=== A0A3D5KED4 ===
+DE   RecName: Full=Basal-body rod modification protein FlgD {ECO:0000256|RuleBase:RU362076};
+Bit Score: 100.0
+E-value: 0.005916
+Alignment Length: 139
+Percentage Identity: 0.129
+
+=== A0A4Y2LV63 ===
+DE   RecName: Full=DUF5641 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 115.0
+E-value: 0.00667
+Alignment Length: 126
+Percentage Identity: 0.095
+
+=== A0A1H7AAG3 ===
+DE   SubName: Full=Flagellar basal-body rod modification protein FlgD {ECO:0000313|EMBL:SEJ62643.1};
+Bit Score: 84.0
+E-value: 0.00667
+Alignment Length: 141
+Percentage Identity: 0.141
+
+=== A0A1Z8T5G6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OUU29965.1};
+Bit Score: 118.0
+E-value: 0.007082
+Alignment Length: 117
+Percentage Identity: 0.162
+
+=== A0A644WAA5 ===
+DE   RecName: Full=Basal-body rod modification protein FlgD {ECO:0008006|Google:ProtNLM};
+Bit Score: 100.0
+E-value: 0.008477
+Alignment Length: 124
+Percentage Identity: 0.129
+
+=== A0A6N9Q2Z9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NBI29153.1};
+Bit Score: 126.0
+E-value: 0.009001
+Alignment Length: 79
+Percentage Identity: 0.139
+
+=== A0A4Y8LX45 ===
+DE   SubName: Full=Flagellar hook assembly protein FlgD {ECO:0000313|EMBL:TFE24425.1};
+Bit Score: 98.0
+E-value: 0.009001
+Alignment Length: 124
+Percentage Identity: 0.145
+
+=== A0A522LK38 ===
+DE   SubName: Full=DUF3560 domain-containing protein {ECO:0000313|EMBL:TAL95510.1};
+Bit Score: 103.0
+E-value: 0.009557
+Alignment Length: 114
+Percentage Identity: 0.201
+
+=== A0A371IVN6 ===
+DE   SubName: Full=Flagellar biosynthesis protein FlgD {ECO:0000313|EMBL:RDY24536.1};
+Bit Score: 84.0
+E-value: 0.009557
+Alignment Length: 137
+Percentage Identity: 0.131
+
+=== A0A1I0EF79 ===
+DE   SubName: Full=Flagellar basal-body rod modification protein FlgD {ECO:0000313|EMBL:SET43661.1};
+Bit Score: 84.0
+E-value: 0.01077
+Alignment Length: 131
+Percentage Identity: 0.175
+
+=== A0A4R4NFW9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TDC06410.1};
+Bit Score: 74.0
+E-value: 0.01077
+Alignment Length: 118
+Percentage Identity: 0.211
+
+=== A0A0A5I8C4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KGX92082.1};
+Bit Score: 96.0
+E-value: 0.01144
+Alignment Length: 88
+Percentage Identity: 0.181
+
+=== A0A7Z0DA96 ===
+DE   RecName: Full=Helicase XPB/Ssl2 N-terminal domain-containing protein {ECO:0000259|Pfam:PF13625};
+Bit Score: 126.0
+E-value: 0.01215
+Alignment Length: 104
+Percentage Identity: 0.163
+
+=== A0A6C0FC95 ===
+DE   RecName: Full=ATPase AAA-type core domain-containing protein {ECO:0000259|Pfam:PF00004};
+Bit Score: 97.0
+E-value: 0.01215
+Alignment Length: 125
+Percentage Identity: 0.144
+
+=== A0A1T4W654 ===
+DE   SubName: Full=Flagellar basal-body rod modification protein FlgD {ECO:0000313|EMBL:SKA72677.1};
+Bit Score: 100.0
+E-value: 0.0129
+Alignment Length: 125
+Percentage Identity: 0.16
+
+=== W9APU5 ===
+DE   RecName: Full=Veg protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 96.0
+E-value: 0.0129
+Alignment Length: 139
+Percentage Identity: 0.129
+
+=== A0A0B1TTD0 ===
+DE   SubName: Full=Gemin6 protein {ECO:0000313|EMBL:KHJ99401.1};
+Bit Score: 77.0
+E-value: 0.0129
+Alignment Length: 125
+Percentage Identity: 0.136
+
+=== A0A6V7UF69 ===
+DE   RecName: Full=Integrase catalytic domain-containing protein {ECO:0000259|PROSITE:PS50994};
+Bit Score: 89.0
+E-value: 0.01369
+Alignment Length: 124
+Percentage Identity: 0.161
+
+=== A0A089N6T5 ===
+DE   SubName: Full=Flagellar hook capping protein {ECO:0000313|EMBL:AIQ64449.1};
+Bit Score: 85.0
+E-value: 0.01369
+Alignment Length: 129
+Percentage Identity: 0.178
+
+=== A0A1T4K888 ===
+DE   RecName: Full=Spore coat protein Z {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.01454
+Alignment Length: 73
+Percentage Identity: 0.178
+
+=== A0A1V4ITQ3 ===
+DE   RecName: Full=Basal-body rod modification protein FlgD {ECO:0000256|RuleBase:RU362076};
+Bit Score: 97.0
+E-value: 0.01544
+Alignment Length: 126
+Percentage Identity: 0.174
+
+=== A0A3T1D8R1 ===
+DE   RecName: Full=Flagellar hook capping protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 96.0
+E-value: 0.01544
+Alignment Length: 114
+Percentage Identity: 0.166
+
+=== Q2PNM5 ===
+DE   SubName: Full=Always early {ECO:0000313|EMBL:ABC48781.1};
+Bit Score: 81.0
+E-value: 0.01544
+Alignment Length: 156
+Percentage Identity: 0.153
+
+=== A0A7X3FGE9 ===
+DE   SubName: Full=Flagellar hook capping protein {ECO:0000313|EMBL:MVO99155.1};
+Bit Score: 81.0
+E-value: 0.01544
+Alignment Length: 140
+Percentage Identity: 0.15
+
+=== A0A839PG67 ===
+DE   SubName: Full=Uncharacterized protein YegJ (DUF2314 family) {ECO:0000313|EMBL:MBB2970184.1};
+Bit Score: 111.0
+E-value: 0.01639
+Alignment Length: 90
+Percentage Identity: 0.2
+
+=== A0A4U0XRG4 ===
+DE   RecName: Full=AD domain-containing protein {ECO:0000259|PROSITE:PS52001};
+Bit Score: 100.0
+E-value: 0.01639
+Alignment Length: 102
+Percentage Identity: 0.156
+
+=== A0A3A4REK5 ===
+DE   RecName: Full=Flagellar hook capping protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 98.0
+E-value: 0.01639
+Alignment Length: 110
+Percentage Identity: 0.218
+
+=== A0A1M6AUW5 ===
+DE   RecName: Full=Basal-body rod modification protein FlgD {ECO:0000256|RuleBase:RU362076};
+Bit Score: 93.0
+E-value: 0.01639
+Alignment Length: 115
+Percentage Identity: 0.113
+
+=== A0A846UQA8 ===
+DE   RecName: Full=Basal-body rod modification protein FlgD {ECO:0000256|ARBA:ARBA00016013};
+Bit Score: 81.0
+E-value: 0.01639
+Alignment Length: 131
+Percentage Identity: 0.16
+
+=== A0A431IPJ2 ===
+DE   SubName: Full=Signal peptidase I {ECO:0000313|EMBL:RTL09366.1};
+DE            EC=3.4.21.89 {ECO:0000313|EMBL:RTL09366.1};
+Bit Score: 67.0
+E-value: 0.01639
+Alignment Length: 145
+Percentage Identity: 0.151
+
+=== A0A847NLB9 ===
+DE   SubName: Full=Veg protein {ECO:0000313|EMBL:NLK44436.1};
+Bit Score: 113.0
+E-value: 0.0174
+Alignment Length: 79
+Percentage Identity: 0.126
+
+=== A0A644XUE0 ===
+DE   RecName: Full=FlgD Tudor-like domain-containing protein {ECO:0000259|Pfam:PF13861};
+Bit Score: 99.0
+E-value: 0.0174
+Alignment Length: 123
+Percentage Identity: 0.178
+
+=== A0A1L8RGJ4 ===
+DE   RecName: Full=YolD-like protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 98.0
+E-value: 0.0174
+Alignment Length: 107
+Percentage Identity: 0.186
+
+=== M1MK50 ===
+DE   RecName: Full=Basal-body rod modification protein FlgD {ECO:0000256|RuleBase:RU362076};
+Bit Score: 87.0
+E-value: 0.0174
+Alignment Length: 138
+Percentage Identity: 0.159
+
+=== A0A5E7A5X2 ===
+DE   RecName: Full=Small-conductance mechanosensitive channel {ECO:0000256|RuleBase:RU369025};
+Bit Score: 101.0
+E-value: 0.01848
+Alignment Length: 121
+Percentage Identity: 0.115
+
+=== A0A845LVS7 ===
+DE   SubName: Full=Veg protein {ECO:0000313|EMBL:MZQ96697.1};
+Bit Score: 112.0
+E-value: 0.01962
+Alignment Length: 61
+Percentage Identity: 0.163
+
+=== A0A841HEA5 ===
+DE   RecName: Full=Basal-body rod modification protein FlgD {ECO:0000256|ARBA:ARBA00016013};
+Bit Score: 86.0
+E-value: 0.02083
+Alignment Length: 140
+Percentage Identity: 0.171
+
+=== A0A1D3TQ19 ===
+DE   SubName: Full=Uncharacterized protein Veg {ECO:0000313|EMBL:SCP95606.1};
+Bit Score: 119.0
+E-value: 0.02212
+Alignment Length: 60
+Percentage Identity: 0.1
+
+=== A0A140LBB9 ===
+DE   RecName: Full=Protein Veg {ECO:0008006|Google:ProtNLM};
+Bit Score: 111.0
+E-value: 0.02212
+Alignment Length: 73
+Percentage Identity: 0.123
+
+=== A0A813DJY5 ===
+DE   RecName: Full=WWE domain-containing protein {ECO:0000259|PROSITE:PS50918};
+DE   Flags: Fragment;
+Bit Score: 96.0
+E-value: 0.02212
+Alignment Length: 101
+Percentage Identity: 0.188
+
+=== A0A1F8V9K2 ===
+DE   RecName: Full=Flagellar hook capping protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 88.0
+E-value: 0.02212
+Alignment Length: 133
+Percentage Identity: 0.157
+
+=== A0A430AYF1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RSU13093.1};
+Bit Score: 78.0
+E-value: 0.02212
+Alignment Length: 116
+Percentage Identity: 0.137
+
+=== A0A6B0WXN5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MXX14126.1};
+DE   Flags: Fragment;
+Bit Score: 124.0
+E-value: 0.02349
+Alignment Length: 82
+Percentage Identity: 0.146
+
+=== A0A7X8HGA6 ===
+DE   SubName: Full=Veg protein {ECO:0000313|EMBL:NLJ57978.1};
+Bit Score: 106.0
+E-value: 0.02349
+Alignment Length: 65
+Percentage Identity: 0.107
+
+=== A0A3C1BLS4 ===
+DE   RecName: Full=Ribosome maturation factor RimP {ECO:0000256|HAMAP-Rule:MF_01077};
+Bit Score: 105.0
+E-value: 0.02349
+Alignment Length: 77
+Percentage Identity: 0.168
+
+=== A0A7Y1MN85 ===
+DE   RecName: Full=Small-conductance mechanosensitive channel {ECO:0000256|RuleBase:RU369025};
+Bit Score: 95.0
+E-value: 0.02494
+Alignment Length: 113
+Percentage Identity: 0.123
+
+=== A0A2I8EFN6 ===
+DE   RecName: Full=DUF3592 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 66.0
+E-value: 0.02494
+Alignment Length: 147
+Percentage Identity: 0.163
+
+=== A0A7S4KAX7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAE2288344.1};
+DE   Flags: Fragment;
+Bit Score: 100.0
+E-value: 0.02648
+Alignment Length: 95
+Percentage Identity: 0.2
+
+=== A0A429ZKC5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RST94119.1};
+Bit Score: 100.0
+E-value: 0.02648
+Alignment Length: 108
+Percentage Identity: 0.101
+
+=== A0A0U2MDX2 ===
+DE   SubName: Full=Flagellar hook capping protein {ECO:0000313|EMBL:ALS27552.1};
+Bit Score: 83.0
+E-value: 0.02648
+Alignment Length: 117
+Percentage Identity: 0.162
+
+=== A0A410X086 ===
+DE   SubName: Full=Flagellar hook capping protein {ECO:0000313|EMBL:QAV20084.1};
+Bit Score: 77.0
+E-value: 0.02648
+Alignment Length: 137
+Percentage Identity: 0.153
+
+=== R4KB64 ===
+DE   SubName: Full=Flagellar hook capping protein {ECO:0000313|EMBL:AGK97769.1};
+Bit Score: 92.0
+E-value: 0.02811
+Alignment Length: 126
+Percentage Identity: 0.174
+
+=== A0A6I6F389 ===
+DE   RecName: Full=Basal-body rod modification protein FlgD {ECO:0000256|RuleBase:RU362076};
+Bit Score: 88.0
+E-value: 0.02811
+Alignment Length: 103
+Percentage Identity: 0.174
+
+=== A0A379PHS4 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 83.0
+E-value: 0.02811
+Alignment Length: 120
+Percentage Identity: 0.133
+
+=== A0A5S5CE43 ===
+DE   SubName: Full=Flagellar basal-body rod modification protein FlgD {ECO:0000313|EMBL:TYP77651.1};
+Bit Score: 79.0
+E-value: 0.02811
+Alignment Length: 128
+Percentage Identity: 0.179
+
+=== A0A023AY28 ===
+DE   RecName: Full=DUF5641 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 79.0
+E-value: 0.02811
+Alignment Length: 148
+Percentage Identity: 0.162
+
+=== T2MDP5 ===
+DE   SubName: Full=OTU domain-containing protein 4 {ECO:0000313|EMBL:CDG70403.1};
+DE   SubName: Full=Uncharacterized protein LOC100215194 {ECO:0000313|RefSeq:XP_012559332.1, ECO:0000313|RefSeq:XP_012559333.1};
+Bit Score: 79.0
+E-value: 0.02811
+Alignment Length: 132
+Percentage Identity: 0.136
+
+=== C4RE75 ===
+DE   RecName: Full=Integral membrane protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 75.0
+E-value: 0.02811
+Alignment Length: 103
+Percentage Identity: 0.135
+
+=== A0A7X8I1P5 ===
+DE   SubName: Full=Veg protein {ECO:0000313|EMBL:NLJ99015.1};
+Bit Score: 108.0
+E-value: 0.02985
+Alignment Length: 79
+Percentage Identity: 0.101
+
+=== A0A7X8VDV6 ===
+DE   SubName: Full=Veg protein {ECO:0000313|EMBL:NLZ54196.1};
+Bit Score: 99.0
+E-value: 0.02985
+Alignment Length: 78
+Percentage Identity: 0.141
+
+=== A0A6B0GID4 ===
+DE   RecName: Full=DUF3006 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 86.0
+E-value: 0.02985
+Alignment Length: 84
+Percentage Identity: 0.119
+
+=== W2E6C6 ===
+DE   SubName: Full=Flagellar hook capping protein FlgD {ECO:0000313|EMBL:ETK26611.1};
+Bit Score: 78.0
+E-value: 0.02985
+Alignment Length: 140
+Percentage Identity: 0.15
+
+=== A0A7C6P473 ===
+DE   RecName: Full=Ribosome maturation factor RimP {ECO:0000256|HAMAP-Rule:MF_01077};
+Bit Score: 110.0
+E-value: 0.03169
+Alignment Length: 64
+Percentage Identity: 0.14
+
+=== A0A521MNA9 ===
+DE   RecName: Full=Helicase XPB/Ssl2 N-terminal domain-containing protein {ECO:0000259|Pfam:PF13625};
+Bit Score: 87.0
+E-value: 0.03169
+Alignment Length: 113
+Percentage Identity: 0.132
+
+=== A0A6A4J3P2 ===
+DE   RecName: Full=SGF29 C-terminal domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 87.0
+E-value: 0.03169
+Alignment Length: 120
+Percentage Identity: 0.091
+
+=== A0A1V0UY99 ===
+DE   RecName: Full=Basal-body rod modification protein FlgD {ECO:0000256|RuleBase:RU362076};
+Bit Score: 78.0
+E-value: 0.03169
+Alignment Length: 141
+Percentage Identity: 0.156
+
+=== A0A1H0YXW1 ===
+DE   SubName: Full=Flagellar basal-body rod modification protein FlgD {ECO:0000313|EMBL:SDQ19983.1};
+Bit Score: 73.0
+E-value: 0.03169
+Alignment Length: 118
+Percentage Identity: 0.211
+
+=== U2EA21 ===
+DE   SubName: Full=Flagellar hook capping protein {ECO:0000313|EMBL:ERI91252.1};
+Bit Score: 89.0
+E-value: 0.03365
+Alignment Length: 128
+Percentage Identity: 0.117
+
+=== A0A379IMM1 ===
+DE   RecName: Full=Small-conductance mechanosensitive channel {ECO:0000256|RuleBase:RU369025};
+Bit Score: 82.0
+E-value: 0.03365
+Alignment Length: 150
+Percentage Identity: 0.126
+
+=== A0A6L5XXS5 ===
+DE   RecName: Full=Veg protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 115.0
+E-value: 0.03573
+Alignment Length: 60
+Percentage Identity: 0.1
+
+=== A0A2E4Y947 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBG09780.1};
+Bit Score: 109.0
+E-value: 0.03573
+Alignment Length: 100
+Percentage Identity: 0.12
+
+=== A0A3D4LL08 ===
+DE   RecName: Full=Veg protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 102.0
+E-value: 0.03573
+Alignment Length: 65
+Percentage Identity: 0.107
+
+=== A0A1Z8Q9T6 ===
+DE   RecName: Full=Ribosome maturation factor RimP {ECO:0000256|HAMAP-Rule:MF_01077};
+Bit Score: 101.0
+E-value: 0.03573
+Alignment Length: 77
+Percentage Identity: 0.168
+
+=== A0A2D7TSY1 ===
+DE   RecName: Full=Ribosome maturation factor RimP {ECO:0000256|HAMAP-Rule:MF_01077};
+Bit Score: 100.0
+E-value: 0.03573
+Alignment Length: 77
+Percentage Identity: 0.142
+
+=== A0A6P1MBT3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:QHI71377.1};
+Bit Score: 87.0
+E-value: 0.03573
+Alignment Length: 114
+Percentage Identity: 0.14
+
+=== A0A7V9SSE0 ===
+DE   RecName: Full=Zinc-ribbon 15 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 75.0
+E-value: 0.03573
+Alignment Length: 127
+Percentage Identity: 0.11
+
+=== A0A519TSE4 ===
+DE   SubName: Full=WYL domain-containing protein {ECO:0000313|EMBL:RZK37906.1};
+Bit Score: 71.0
+E-value: 0.03573
+Alignment Length: 115
+Percentage Identity: 0.165
+
+=== A0A3A9EN39 ===
+DE   RecName: Full=Basal-body rod modification protein FlgD {ECO:0000256|RuleBase:RU362076};
+Bit Score: 68.0
+E-value: 0.03573
+Alignment Length: 137
+Percentage Identity: 0.175
+
+=== A0A1M4XSQ1 ===
+DE   SubName: Full=Uncharacterized protein Veg {ECO:0000313|EMBL:SHE96501.1};
+Bit Score: 105.0
+E-value: 0.03794
+Alignment Length: 78
+Percentage Identity: 0.102
+
+=== A0A1I5X2V0 ===
+DE   SubName: Full=Uncharacterized protein Veg {ECO:0000313|EMBL:SFQ26268.1};
+Bit Score: 100.0
+E-value: 0.03794
+Alignment Length: 81
+Percentage Identity: 0.197
+
+=== A0A7V6MTR5 ===
+DE   SubName: Full=Veg protein {ECO:0000313|EMBL:HHV17263.1};
+Bit Score: 98.0
+E-value: 0.03794
+Alignment Length: 78
+Percentage Identity: 0.141
+
+=== A0A0K8J8P4 ===
+DE   RecName: Full=Veg protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 93.0
+E-value: 0.03794
+Alignment Length: 92
+Percentage Identity: 0.108
+
+=== A0A3N5GXF9 ===
+DE   RecName: Full=DUF3592 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 87.0
+E-value: 0.03794
+Alignment Length: 118
+Percentage Identity: 0.11
+
+=== A0A0L6U1H6 ===
+DE   SubName: Full=ABC transporter permease {ECO:0000313|EMBL:KNZ42212.1};
+Bit Score: 108.0
+E-value: 0.04028
+Alignment Length: 61
+Percentage Identity: 0.147
+
+=== A0A847XD38 ===
+DE   SubName: Full=Veg protein {ECO:0000313|EMBL:NMB26910.1};
+Bit Score: 105.0
+E-value: 0.04028
+Alignment Length: 74
+Percentage Identity: 0.081
+
+=== A0A849TMV2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NOU07562.1};
+Bit Score: 75.0
+E-value: 0.04028
+Alignment Length: 121
+Percentage Identity: 0.181
+
+=== A0A402A1S5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GCE12951.1};
+Bit Score: 128.0
+E-value: 0.04277
+Alignment Length: 57
+Percentage Identity: 0.122
+
+=== A0A258IGZ3 ===
+DE   RecName: Full=Ribosome maturation factor RimP C-terminal domain-containing protein {ECO:0000259|Pfam:PF17384};
+DE   Flags: Fragment;
+Bit Score: 114.0
+E-value: 0.04277
+Alignment Length: 57
+Percentage Identity: 0.157
+
+=== A0A7S2YEA7 ===
+DE   RecName: Full=SGF29 C-terminal domain-containing protein {ECO:0000259|PROSITE:PS51518};
+DE   Flags: Fragment;
+Bit Score: 85.0
+E-value: 0.04277
+Alignment Length: 107
+Percentage Identity: 0.112
+
+=== A0A419WF36 ===
+DE   SubName: Full=Uncharacterized membrane protein YhaH (DUF805 family) {ECO:0000313|EMBL:RKD94077.1};
+Bit Score: 85.0
+E-value: 0.04277
+Alignment Length: 120
+Percentage Identity: 0.108
+
+=== A0A0C5H176 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AJP18089.1};
+Bit Score: 82.0
+E-value: 0.04277
+Alignment Length: 104
+Percentage Identity: 0.173
+
+=== C4XE34 ===
+DE   RecName: Full=Ribosome maturation factor RimP {ECO:0008006|Google:ProtNLM};
+Bit Score: 80.0
+E-value: 0.04277
+Alignment Length: 108
+Percentage Identity: 0.12
+
+=== M1MWP9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AGF72169.1};
+Bit Score: 79.0
+E-value: 0.04277
+Alignment Length: 83
+Percentage Identity: 0.18
+
+=== A0A6N7B196 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KAF0201194.1};
+DE   Flags: Fragment;
+Bit Score: 71.0
+E-value: 0.04277
+Alignment Length: 108
+Percentage Identity: 0.194
+
+=== A0A7C6MXA9 ===
+DE   RecName: Full=Veg protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.04541
+Alignment Length: 60
+Percentage Identity: 0.066
+
+=== A0A2K8N216 ===
+DE   SubName: Full=Veg protein {ECO:0000313|EMBL:ATY83616.1};
+Bit Score: 103.0
+E-value: 0.04541
+Alignment Length: 78
+Percentage Identity: 0.166
+
+=== A0A3F3S1R5 ===
+DE   SubName: Full=Uncharacterized protein conserved in bacteria {ECO:0000313|EMBL:SUO99173.1};
+Bit Score: 103.0
+E-value: 0.04541
+Alignment Length: 78
+Percentage Identity: 0.102
+
+=== A0A017RYM9 ===
+DE   SubName: Full=Veg protein {ECO:0000313|EMBL:EYE89782.1};
+Bit Score: 99.0
+E-value: 0.04541
+Alignment Length: 67
+Percentage Identity: 0.149
+
+=== A0A6N7IT36 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MQL53220.1};
+Bit Score: 99.0
+E-value: 0.04541
+Alignment Length: 74
+Percentage Identity: 0.135
+
+=== A0A7X3RJC7 ===
+DE   RecName: Full=DUF481 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 92.0
+E-value: 0.04541
+Alignment Length: 110
+Percentage Identity: 0.127
+
+=== A0A7S1JU82 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAD9053965.1};
+DE   Flags: Fragment;
+Bit Score: 88.0
+E-value: 0.04541
+Alignment Length: 138
+Percentage Identity: 0.137
+
+=== A0A7S1I351 ===
+DE   RecName: Full=AD domain-containing protein {ECO:0000259|PROSITE:PS52001};
+Bit Score: 86.0
+E-value: 0.04541
+Alignment Length: 89
+Percentage Identity: 0.146
+
+=== A0A343JC37 ===
+DE   RecName: Full=Basal-body rod modification protein FlgD {ECO:0000256|RuleBase:RU362076};
+Bit Score: 84.0
+E-value: 0.04541
+Alignment Length: 125
+Percentage Identity: 0.112
+
+=== A0A6A4WMT6 ===
+DE   RecName: Full=RNA-directed DNA polymerase {ECO:0000256|ARBA:ARBA00012493};
+DE            EC=2.7.7.49 {ECO:0000256|ARBA:ARBA00012493};
+Bit Score: 74.0
+E-value: 0.04541
+Alignment Length: 135
+Percentage Identity: 0.14
+
+=== A0A183BPS4 ===
+DE   SubName: Full=Reverse transcriptase domain-containing protein {ECO:0000313|WBParaSite:GPLIN_000261000};
+Bit Score: 59.0
+E-value: 0.04541
+Alignment Length: 135
+Percentage Identity: 0.155
+
+=== A0A2P1G5F3 ===
+DE   RecName: Full=Veg protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 102.0
+E-value: 0.04822
+Alignment Length: 72
+Percentage Identity: 0.097
+
+=== A0A6V7UN85 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAD2160372.1};
+Bit Score: 94.0
+E-value: 0.04822
+Alignment Length: 86
+Percentage Identity: 0.186
+
+=== A0A6V7W7A6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAD2182588.1};
+Bit Score: 88.0
+E-value: 0.04822
+Alignment Length: 88
+Percentage Identity: 0.193
+
+=== A0A6J8AEB2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAC5365610.1};
+Bit Score: 87.0
+E-value: 0.04822
+Alignment Length: 103
+Percentage Identity: 0.116
+
+=== A0A1Y1WRG6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ORX76129.1};
+Bit Score: 82.0
+E-value: 0.04822
+Alignment Length: 108
+Percentage Identity: 0.203
+
+=== A0A285GZX8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SNY28844.1};
+Bit Score: 70.0
+E-value: 0.04822
+Alignment Length: 122
+Percentage Identity: 0.131
+

@@ -1,0 +1,1948 @@
+=== A0A1V3NV49 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 639.0
+E-value: 1.65e-15
+Alignment Length: 141
+Percentage Identity: 0.382
+
+=== A0A378KCD3 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:STX81275.1};
+Bit Score: 636.0
+E-value: 1.65e-15
+Alignment Length: 136
+Percentage Identity: 0.455
+
+=== A0A423PES5 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 615.0
+E-value: 3.186e-15
+Alignment Length: 141
+Percentage Identity: 0.39
+
+=== A0A368UQ69 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:RCW30170.1};
+Bit Score: 603.0
+E-value: 6.15e-15
+Alignment Length: 141
+Percentage Identity: 0.425
+
+=== A0A1N7P234 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:SIT04620.1};
+Bit Score: 597.0
+E-value: 6.15e-15
+Alignment Length: 143
+Percentage Identity: 0.426
+
+=== A0A357EC10 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:HBR49032.1};
+Bit Score: 590.0
+E-value: 6.529e-15
+Alignment Length: 145
+Percentage Identity: 0.42
+
+=== A0A3D9DRL5 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:REC93301.1};
+Bit Score: 600.0
+E-value: 7.812e-15
+Alignment Length: 143
+Percentage Identity: 0.37
+
+=== A0A261VBK0 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 567.0
+E-value: 7.812e-15
+Alignment Length: 145
+Percentage Identity: 0.406
+
+=== A0A0N9NLU8 ===
+DE   SubName: Full=Antirestriction protein KlcA {ECO:0000313|EMBL:ALG88787.1};
+Bit Score: 593.0
+E-value: 9.347e-15
+Alignment Length: 141
+Percentage Identity: 0.404
+
+=== A0A378KBS7 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:STX81623.1};
+Bit Score: 611.0
+E-value: 1.053e-14
+Alignment Length: 136
+Percentage Identity: 0.448
+
+=== A0A7W5HCJ7 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 578.0
+E-value: 1.421e-14
+Alignment Length: 143
+Percentage Identity: 0.349
+
+=== J9RXB6 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:AFR43782.1};
+Bit Score: 589.0
+E-value: 1.601e-14
+Alignment Length: 141
+Percentage Identity: 0.39
+
+=== A0A4R1MX83 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:TCK94693.1};
+Bit Score: 581.0
+E-value: 1.916e-14
+Alignment Length: 141
+Percentage Identity: 0.404
+
+=== A0A2S9WYX5 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 565.0
+E-value: 2.433e-14
+Alignment Length: 142
+Percentage Identity: 0.33
+
+=== A0A0C5XPN5 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:AJR26600.1};
+Bit Score: 588.0
+E-value: 2.742e-14
+Alignment Length: 138
+Percentage Identity: 0.405
+
+=== A0A6N1YGZ5 ===
+DE   SubName: Full=Antirestriction protein klcA {ECO:0000313|EMBL:SHE23287.1};
+Bit Score: 575.0
+E-value: 3.483e-14
+Alignment Length: 141
+Percentage Identity: 0.319
+
+=== A0A0Q4IKH9 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:KQN00152.1};
+Bit Score: 566.0
+E-value: 5.293e-14
+Alignment Length: 142
+Percentage Identity: 0.387
+
+=== A0A7T0JJ59 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:QPK61417.1};
+Bit Score: 574.0
+E-value: 5.62e-14
+Alignment Length: 134
+Percentage Identity: 0.395
+
+=== F2LRM9 ===
+DE   SubName: Full=KlcA protein {ECO:0000313|EMBL:AEA65523.1};
+Bit Score: 562.0
+E-value: 5.62e-14
+Alignment Length: 142
+Percentage Identity: 0.401
+
+=== A0A841HSK2 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 578.0
+E-value: 5.966e-14
+Alignment Length: 137
+Percentage Identity: 0.386
+
+=== A0A7X1NDS7 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:MPW20050.1};
+Bit Score: 564.0
+E-value: 5.966e-14
+Alignment Length: 134
+Percentage Identity: 0.335
+
+=== A0A6I2IKV1 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:MRT14319.1};
+Bit Score: 560.0
+E-value: 6.333e-14
+Alignment Length: 143
+Percentage Identity: 0.342
+
+=== A0A7W8W6E4 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 568.0
+E-value: 8.54e-14
+Alignment Length: 137
+Percentage Identity: 0.43
+
+=== A0A7Y7SUP2 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:NWA64077.1};
+Bit Score: 559.0
+E-value: 8.54e-14
+Alignment Length: 142
+Percentage Identity: 0.352
+
+=== A0A494R9Z9 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 560.0
+E-value: 9.067e-14
+Alignment Length: 144
+Percentage Identity: 0.333
+
+=== A0A8B3F2S5 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 552.0
+E-value: 1.022e-13
+Alignment Length: 139
+Percentage Identity: 0.366
+
+=== A0A2T6FPS9 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 567.0
+E-value: 1.085e-13
+Alignment Length: 141
+Percentage Identity: 0.333
+
+=== A0A3S0VJE8 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:RUR05839.1};
+Bit Score: 562.0
+E-value: 1.085e-13
+Alignment Length: 134
+Percentage Identity: 0.358
+
+=== E5YBU0 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 543.0
+E-value: 1.298e-13
+Alignment Length: 144
+Percentage Identity: 0.381
+
+=== A0A2S9WZ83 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 558.0
+E-value: 1.463e-13
+Alignment Length: 145
+Percentage Identity: 0.344
+
+=== A0A1S1Y543 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:OHX36532.1};
+Bit Score: 544.0
+E-value: 1.463e-13
+Alignment Length: 137
+Percentage Identity: 0.364
+
+=== A0A6L6Q9J1 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:MTW05858.1};
+Bit Score: 535.0
+E-value: 1.463e-13
+Alignment Length: 141
+Percentage Identity: 0.368
+
+=== A0A330G619 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:RAZ63307.1};
+Bit Score: 547.0
+E-value: 1.75e-13
+Alignment Length: 139
+Percentage Identity: 0.352
+
+=== A0A482IT11 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:QBP09930.1};
+Bit Score: 549.0
+E-value: 2.505e-13
+Alignment Length: 137
+Percentage Identity: 0.343
+
+=== A0A6I2IMX4 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:MRS92349.1};
+Bit Score: 531.0
+E-value: 2.505e-13
+Alignment Length: 144
+Percentage Identity: 0.305
+
+=== A0A2A5CU04 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:PCJ47374.1};
+Bit Score: 542.0
+E-value: 2.824e-13
+Alignment Length: 133
+Percentage Identity: 0.36
+
+=== A0A087FC54 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 544.0
+E-value: 3.379e-13
+Alignment Length: 141
+Percentage Identity: 0.319
+
+=== I3W089 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:AFK89016.1};
+Bit Score: 529.0
+E-value: 3.379e-13
+Alignment Length: 142
+Percentage Identity: 0.33
+
+=== A0A522RZL9 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:TAN06820.1};
+Bit Score: 543.0
+E-value: 4.556e-13
+Alignment Length: 144
+Percentage Identity: 0.25
+
+=== A0A376CVZ6 ===
+DE   SubName: Full=Anti-restriction protein {ECO:0000313|EMBL:STC76394.1};
+Bit Score: 523.0
+E-value: 4.837e-13
+Alignment Length: 145
+Percentage Identity: 0.303
+
+=== P75676 ===
+DE   RecName: Full=Uncharacterized protein YafX;
+Bit Score: 529.0
+E-value: 5.135e-13
+Alignment Length: 144
+Percentage Identity: 0.312
+
+=== A0A2X7FSE8 ===
+DE   SubName: Full=Anti-restriction protein {ECO:0000313|EMBL:SQP89473.1};
+Bit Score: 522.0
+E-value: 5.787e-13
+Alignment Length: 145
+Percentage Identity: 0.31
+
+=== A0A0N0J6T8 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 521.0
+E-value: 5.787e-13
+Alignment Length: 140
+Percentage Identity: 0.335
+
+=== A0A373FBB3 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:RGE41360.1};
+Bit Score: 525.0
+E-value: 6.924e-13
+Alignment Length: 147
+Percentage Identity: 0.278
+
+=== A0A419N368 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:RJT37391.1};
+Bit Score: 511.0
+E-value: 6.924e-13
+Alignment Length: 147
+Percentage Identity: 0.333
+
+=== A0A6L6F7B3 ===
+DE   SubName: Full=ArdB protein {ECO:0000313|EMBL:MTC21281.1};
+Bit Score: 511.0
+E-value: 6.924e-13
+Alignment Length: 147
+Percentage Identity: 0.299
+
+=== A0A2E4R5B3 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:MBF22816.1};
+Bit Score: 521.0
+E-value: 7.35e-13
+Alignment Length: 139
+Percentage Identity: 0.316
+
+=== V4NTJ2 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 511.0
+E-value: 7.803e-13
+Alignment Length: 144
+Percentage Identity: 0.347
+
+=== A0A2D8YCW9 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:MAN73599.1};
+Bit Score: 536.0
+E-value: 8.284e-13
+Alignment Length: 134
+Percentage Identity: 0.335
+
+=== A0A6A7RXB8 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:MQM32049.1};
+Bit Score: 510.0
+E-value: 8.795e-13
+Alignment Length: 145
+Percentage Identity: 0.372
+
+=== A0A0Q5DKS1 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 526.0
+E-value: 9.336e-13
+Alignment Length: 140
+Percentage Identity: 0.3
+
+=== A0A369FIK2 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:RDA25136.1};
+DE   Flags: Fragment;
+Bit Score: 505.0
+E-value: 9.912e-13
+Alignment Length: 145
+Percentage Identity: 0.303
+
+=== A0A2P4RP70 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:POH90092.1};
+Bit Score: 520.0
+E-value: 1.052e-12
+Alignment Length: 142
+Percentage Identity: 0.338
+
+=== A0A379V1X0 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:SUG74235.1};
+Bit Score: 522.0
+E-value: 1.117e-12
+Alignment Length: 145
+Percentage Identity: 0.268
+
+=== A0A454AAZ7 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 514.0
+E-value: 1.186e-12
+Alignment Length: 146
+Percentage Identity: 0.301
+
+=== F4QG12 ===
+DE   SubName: Full=Antirestriction protein klcA {ECO:0000313|EMBL:EGF93823.1};
+Bit Score: 496.0
+E-value: 1.186e-12
+Alignment Length: 141
+Percentage Identity: 0.312
+
+=== A0A2T3J7M4 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:PSU44771.1};
+Bit Score: 487.0
+E-value: 1.259e-12
+Alignment Length: 139
+Percentage Identity: 0.366
+
+=== A0A7I8C2X9 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:BCF95394.1};
+Bit Score: 523.0
+E-value: 1.419e-12
+Alignment Length: 143
+Percentage Identity: 0.314
+
+=== A0A0D8W9H2 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:PWH58069.1};
+DE   SubName: Full=Restriction endonuclease {ECO:0000313|EMBL:OJR56373.1};
+Bit Score: 498.0
+E-value: 1.419e-12
+Alignment Length: 143
+Percentage Identity: 0.3
+
+=== P52139 ===
+DE   RecName: Full=Uncharacterized protein YfjX;
+Bit Score: 502.0
+E-value: 1.506e-12
+Alignment Length: 146
+Percentage Identity: 0.308
+
+=== A0A899NDT5 ===
+DE   SubName: Full=Antirestriction protein KlcA {ECO:0000313|EMBL:QSM61736.1};
+Bit Score: 509.0
+E-value: 1.698e-12
+Alignment Length: 141
+Percentage Identity: 0.34
+
+=== A0A2S7K001 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:PQA85843.1};
+Bit Score: 512.0
+E-value: 1.913e-12
+Alignment Length: 140
+Percentage Identity: 0.321
+
+=== A0A5Q0EJ58 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:QFY89682.1};
+Bit Score: 501.0
+E-value: 1.913e-12
+Alignment Length: 139
+Percentage Identity: 0.352
+
+=== A0A2J0PKJ7 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:PJD75097.1};
+Bit Score: 499.0
+E-value: 1.913e-12
+Alignment Length: 140
+Percentage Identity: 0.321
+
+=== A0A1W0CE27 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 511.0
+E-value: 2.156e-12
+Alignment Length: 142
+Percentage Identity: 0.302
+
+=== A0A0H3L620 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 509.0
+E-value: 2.156e-12
+Alignment Length: 139
+Percentage Identity: 0.338
+
+=== A0A7W8UQX9 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 503.0
+E-value: 2.156e-12
+Alignment Length: 146
+Percentage Identity: 0.328
+
+=== A0A2X7VCG5 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:MIB63687.1};
+Bit Score: 498.0
+E-value: 2.156e-12
+Alignment Length: 146
+Percentage Identity: 0.294
+
+=== A0A5C8ZQN2 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:TXS90806.1};
+Bit Score: 472.0
+E-value: 2.289e-12
+Alignment Length: 143
+Percentage Identity: 0.384
+
+=== A0A2D9DQJ0 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:MAO39197.1};
+Bit Score: 491.0
+E-value: 2.58e-12
+Alignment Length: 145
+Percentage Identity: 0.344
+
+=== A0A743P4V8 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:HAF2131037.1};
+Bit Score: 494.0
+E-value: 2.739e-12
+Alignment Length: 145
+Percentage Identity: 0.282
+
+=== A0A0K8NUF5 ===
+DE   SubName: Full=Antirestriction protein klcA {ECO:0000313|EMBL:GAP33998.1};
+Bit Score: 492.0
+E-value: 2.739e-12
+Alignment Length: 142
+Percentage Identity: 0.288
+
+=== A0A4Q0F2V1 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:NAG22031.1};
+Bit Score: 490.0
+E-value: 2.908e-12
+Alignment Length: 145
+Percentage Identity: 0.289
+
+=== A0A1S1U179 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 505.0
+E-value: 3.087e-12
+Alignment Length: 142
+Percentage Identity: 0.309
+
+=== A0A225M3I5 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:OWT55242.1};
+Bit Score: 492.0
+E-value: 3.087e-12
+Alignment Length: 139
+Percentage Identity: 0.309
+
+=== A0A380PZC3 ===
+DE   SubName: Full=Antirestriction ArdB family protein {ECO:0000313|EMBL:SUP78851.1};
+Bit Score: 493.0
+E-value: 3.693e-12
+Alignment Length: 143
+Percentage Identity: 0.314
+
+=== A0A1G9CP90 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:SDK53482.1};
+Bit Score: 488.0
+E-value: 4.163e-12
+Alignment Length: 139
+Percentage Identity: 0.352
+
+=== A0A4P8WAR3 ===
+DE   SubName: Full=Antirestriction protein KlcA {ECO:0000313|EMBL:QCS38866.1};
+Bit Score: 481.0
+E-value: 4.163e-12
+Alignment Length: 145
+Percentage Identity: 0.296
+
+=== A0A1B7JTU2 ===
+DE   SubName: Full=KlcA family antirestriction protein {ECO:0000313|EMBL:OAT51323.1};
+Bit Score: 486.0
+E-value: 4.419e-12
+Alignment Length: 144
+Percentage Identity: 0.319
+
+=== A0A1C6Z258 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:SCM53074.1};
+Bit Score: 493.0
+E-value: 4.691e-12
+Alignment Length: 146
+Percentage Identity: 0.28
+
+=== Q32HM6 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 490.0
+E-value: 4.691e-12
+Alignment Length: 146
+Percentage Identity: 0.287
+
+=== A0A714MB24 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:HAD4215318.1};
+Bit Score: 488.0
+E-value: 4.691e-12
+Alignment Length: 146
+Percentage Identity: 0.294
+
+=== A0A7W2IKA9 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:MBA5687212.1};
+Bit Score: 485.0
+E-value: 4.981e-12
+Alignment Length: 141
+Percentage Identity: 0.304
+
+=== A0A157ZM07 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:SAK46545.1};
+Bit Score: 482.0
+E-value: 5.613e-12
+Alignment Length: 141
+Percentage Identity: 0.361
+
+=== E8RVV0 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:ADU15372.1};
+Bit Score: 474.0
+E-value: 6.326e-12
+Alignment Length: 142
+Percentage Identity: 0.323
+
+=== A0A2N3T8R6 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:PKV50884.1};
+Bit Score: 499.0
+E-value: 6.716e-12
+Alignment Length: 135
+Percentage Identity: 0.318
+
+=== A0A554VIF6 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:TSE07402.1};
+Bit Score: 474.0
+E-value: 6.716e-12
+Alignment Length: 148
+Percentage Identity: 0.29
+
+=== A0A2A2M651 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 470.0
+E-value: 6.716e-12
+Alignment Length: 137
+Percentage Identity: 0.35
+
+=== T0GMI7 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 471.0
+E-value: 7.13e-12
+Alignment Length: 142
+Percentage Identity: 0.352
+
+=== A0A3D9DRH4 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:REC93300.1};
+Bit Score: 469.0
+E-value: 7.13e-12
+Alignment Length: 142
+Percentage Identity: 0.267
+
+=== A0A1W9GP03 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 436.0
+E-value: 7.13e-12
+Alignment Length: 126
+Percentage Identity: 0.388
+
+=== A0A2E0HLD7 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 485.0
+E-value: 7.569e-12
+Alignment Length: 139
+Percentage Identity: 0.294
+
+=== A9IES9 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 484.0
+E-value: 7.569e-12
+Alignment Length: 137
+Percentage Identity: 0.299
+
+=== A0A443JRH8 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:RWR23107.1};
+Bit Score: 472.0
+E-value: 7.569e-12
+Alignment Length: 138
+Percentage Identity: 0.34
+
+=== A0A1I2HX04 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:SFF33900.1};
+Bit Score: 474.0
+E-value: 8.531e-12
+Alignment Length: 141
+Percentage Identity: 0.312
+
+=== A0A1D8UY67 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 476.0
+E-value: 9.056e-12
+Alignment Length: 154
+Percentage Identity: 0.318
+
+=== A0A6C0NG07 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:QHW08733.1};
+DE   SubName: Full=KlcA {ECO:0000313|EMBL:QHU24717.1};
+Bit Score: 468.0
+E-value: 9.056e-12
+Alignment Length: 148
+Percentage Identity: 0.304
+
+=== A0A7U6BLV2 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:AXD74741.1};
+Bit Score: 485.0
+E-value: 1.021e-11
+Alignment Length: 155
+Percentage Identity: 0.303
+
+=== A0A6C6Z5G3 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 480.0
+E-value: 1.021e-11
+Alignment Length: 145
+Percentage Identity: 0.268
+
+=== A0A851G347 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:NWJ78796.1};
+Bit Score: 463.0
+E-value: 1.15e-11
+Alignment Length: 137
+Percentage Identity: 0.328
+
+=== B3Y1S4 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 474.0
+E-value: 1.221e-11
+Alignment Length: 143
+Percentage Identity: 0.293
+
+=== A0A077EM82 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:AIL49879.1};
+Bit Score: 473.0
+E-value: 1.461e-11
+Alignment Length: 147
+Percentage Identity: 0.238
+
+=== A0A5S9AV91 ===
+DE   SubName: Full=Antirestriction protein klcA {ECO:0000313|EMBL:AWM63243.1};
+Bit Score: 476.0
+E-value: 1.551e-11
+Alignment Length: 154
+Percentage Identity: 0.311
+
+=== A0A2S5Z507 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 460.0
+E-value: 1.856e-11
+Alignment Length: 131
+Percentage Identity: 0.274
+
+=== A0A077NL11 ===
+DE   SubName: Full=KlcA {ECO:0000313|EMBL:CDG98590.1};
+Bit Score: 438.0
+E-value: 2.092e-11
+Alignment Length: 145
+Percentage Identity: 0.275
+
+=== A0A2G1V9X7 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 458.0
+E-value: 2.657e-11
+Alignment Length: 131
+Percentage Identity: 0.297
+
+=== A9M4P6 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 443.0
+E-value: 2.821e-11
+Alignment Length: 139
+Percentage Identity: 0.273
+
+=== A0A1N6MWQ5 ===
+DE   SubName: Full=Putative KlcA' protein {ECO:0000313|EMBL:SIP73260.1};
+Bit Score: 435.0
+E-value: 2.821e-11
+Alignment Length: 146
+Percentage Identity: 0.308
+
+=== A0A510US90 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 468.0
+E-value: 2.994e-11
+Alignment Length: 139
+Percentage Identity: 0.28
+
+=== A0A523Q1E8 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 446.0
+E-value: 2.994e-11
+Alignment Length: 142
+Percentage Identity: 0.295
+
+=== A0A502GVX8 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:TPG65735.1};
+Bit Score: 459.0
+E-value: 3.179e-11
+Alignment Length: 139
+Percentage Identity: 0.28
+
+=== A0A4R6QZM3 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:TDP78656.1};
+Bit Score: 440.0
+E-value: 3.179e-11
+Alignment Length: 142
+Percentage Identity: 0.338
+
+=== A0A3E2BDG7 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:RFT10458.1};
+Bit Score: 462.0
+E-value: 3.375e-11
+Alignment Length: 134
+Percentage Identity: 0.305
+
+=== A0A3C7W3L7 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:HBO14330.1};
+Bit Score: 435.0
+E-value: 4.038e-11
+Alignment Length: 145
+Percentage Identity: 0.337
+
+=== A0A751K7B2 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:HAF6936249.1};
+Bit Score: 434.0
+E-value: 6.515e-11
+Alignment Length: 147
+Percentage Identity: 0.292
+
+=== A0A377E2R2 ===
+DE   SubName: Full=CP4-6 prophage protein {ECO:0000313|EMBL:STM57352.1};
+Bit Score: 401.0
+E-value: 6.916e-11
+Alignment Length: 145
+Percentage Identity: 0.255
+
+=== A0A2E3CT48 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 437.0
+E-value: 7.794e-11
+Alignment Length: 142
+Percentage Identity: 0.232
+
+=== A0A6I1MXA6 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 426.0
+E-value: 8.275e-11
+Alignment Length: 138
+Percentage Identity: 0.253
+
+=== A0A844A5Q3 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:MQX07561.1};
+Bit Score: 423.0
+E-value: 8.785e-11
+Alignment Length: 143
+Percentage Identity: 0.363
+
+=== A0A3N4NHQ7 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 430.0
+E-value: 9.326e-11
+Alignment Length: 140
+Percentage Identity: 0.25
+
+=== F4SYK6 ===
+DE   SubName: Full=Putative cytoplasmic protein {ECO:0000313|EMBL:EGI16453.1};
+Bit Score: 423.0
+E-value: 1.116e-10
+Alignment Length: 145
+Percentage Identity: 0.296
+
+=== A0A3N4NHT4 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 427.0
+E-value: 1.258e-10
+Alignment Length: 152
+Percentage Identity: 0.243
+
+=== A0A6M4NYW1 ===
+DE   SubName: Full=Phage endonuclease VII {ECO:0000313|EMBL:QJS02045.1};
+Bit Score: 421.0
+E-value: 1.258e-10
+Alignment Length: 128
+Percentage Identity: 0.304
+
+=== A0A845SLI5 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:NDL64242.1};
+Bit Score: 411.0
+E-value: 1.258e-10
+Alignment Length: 136
+Percentage Identity: 0.294
+
+=== A0A0U5E0X7 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:CRI63940.1};
+Bit Score: 439.0
+E-value: 1.335e-10
+Alignment Length: 136
+Percentage Identity: 0.294
+
+=== A0A4R6F4T6 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:TDN69255.1};
+Bit Score: 357.0
+E-value: 1.335e-10
+Alignment Length: 153
+Percentage Identity: 0.274
+
+=== B8KVT9 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:EED34218.1};
+Bit Score: 416.0
+E-value: 1.417e-10
+Alignment Length: 150
+Percentage Identity: 0.28
+
+=== A0A764Z2C5 ===
+DE   SubName: Full=DUF1472 domain-containing protein {ECO:0000313|EMBL:HAG5258365.1};
+Bit Score: 430.0
+E-value: 1.8e-10
+Alignment Length: 137
+Percentage Identity: 0.291
+
+=== U3U516 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 412.0
+E-value: 1.911e-10
+Alignment Length: 133
+Percentage Identity: 0.323
+
+=== A0A5B0X842 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:KAA1195463.1};
+Bit Score: 400.0
+E-value: 2.428e-10
+Alignment Length: 147
+Percentage Identity: 0.176
+
+=== A0A0A0DL68 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 425.0
+E-value: 2.577e-10
+Alignment Length: 133
+Percentage Identity: 0.375
+
+=== A0A3N2RP71 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 383.0
+E-value: 3.083e-10
+Alignment Length: 145
+Percentage Identity: 0.248
+
+=== A0A2G5QXT3 ===
+DE   SubName: Full=KlcA protein {ECO:0000313|EMBL:PIB95301.1};
+Bit Score: 417.0
+E-value: 3.273e-10
+Alignment Length: 138
+Percentage Identity: 0.282
+
+=== A0A6N6WQD1 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:KAE9717990.1};
+DE   Flags: Fragment;
+Bit Score: 398.0
+E-value: 3.917e-10
+Alignment Length: 124
+Percentage Identity: 0.29
+
+=== A0A1X1EKK3 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:ORM89488.1};
+Bit Score: 396.0
+E-value: 4.414e-10
+Alignment Length: 140
+Percentage Identity: 0.285
+
+=== A0A6L7CID7 ===
+DE   SubName: Full=DUF1472 domain-containing protein {ECO:0000313|EMBL:MWT84746.1};
+Bit Score: 412.0
+E-value: 4.686e-10
+Alignment Length: 133
+Percentage Identity: 0.315
+
+=== A0A7Z1THJ4 ===
+DE   SubName: Full=KlcA {ECO:0000313|EMBL:PVM64612.1};
+Bit Score: 406.0
+E-value: 4.975e-10
+Alignment Length: 147
+Percentage Identity: 0.292
+
+=== A0A4R6DST9 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:TDN48083.1};
+Bit Score: 400.0
+E-value: 5.607e-10
+Alignment Length: 146
+Percentage Identity: 0.212
+
+=== A0A366WD04 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 384.0
+E-value: 5.607e-10
+Alignment Length: 153
+Percentage Identity: 0.281
+
+=== A0A1G0XEU7 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 402.0
+E-value: 5.952e-10
+Alignment Length: 102
+Percentage Identity: 0.441
+
+=== A0A2U8T020 ===
+DE   SubName: Full=KlcA {ECO:0000313|EMBL:AWM63556.1};
+Bit Score: 401.0
+E-value: 5.952e-10
+Alignment Length: 147
+Percentage Identity: 0.306
+
+=== A0A1G6Q4N8 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:SDC87299.1};
+Bit Score: 389.0
+E-value: 6.708e-10
+Alignment Length: 134
+Percentage Identity: 0.223
+
+=== A0A2Z2GUY2 ===
+DE   SubName: Full=KlcA {ECO:0000313|EMBL:ARR90513.1};
+Bit Score: 397.0
+E-value: 8.521e-10
+Alignment Length: 134
+Percentage Identity: 0.298
+
+=== A0A857EW82 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:QHB31095.1};
+Bit Score: 378.0
+E-value: 9.603e-10
+Alignment Length: 154
+Percentage Identity: 0.24
+
+=== A0A0H3W175 ===
+DE   SubName: Full=KlcA {ECO:0000313|EMBL:AKI06530.1};
+Bit Score: 407.0
+E-value: 1.02e-09
+Alignment Length: 112
+Percentage Identity: 0.401
+
+=== W8UCK7 ===
+DE   SubName: Full=Antirestriction protein klcA {ECO:0000313|EMBL:AHM77639.1};
+Bit Score: 374.0
+E-value: 1.02e-09
+Alignment Length: 144
+Percentage Identity: 0.263
+
+=== A0A743TWJ1 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:HAF2207255.1};
+DE   Flags: Fragment;
+Bit Score: 404.0
+E-value: 1.149e-09
+Alignment Length: 131
+Percentage Identity: 0.274
+
+=== A0A511QJK1 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 392.0
+E-value: 1.22e-09
+Alignment Length: 139
+Percentage Identity: 0.266
+
+=== A0A4D7DLL2 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:QCI95602.1};
+Bit Score: 401.0
+E-value: 1.295e-09
+Alignment Length: 120
+Percentage Identity: 0.383
+
+=== V4PKZ2 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 401.0
+E-value: 1.459e-09
+Alignment Length: 121
+Percentage Identity: 0.338
+
+=== A0A1V0DNR2 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:ARB02351.1};
+Bit Score: 380.0
+E-value: 1.854e-09
+Alignment Length: 147
+Percentage Identity: 0.299
+
+=== A0A736I6S3 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:HAE7580869.1};
+Bit Score: 373.0
+E-value: 1.854e-09
+Alignment Length: 135
+Percentage Identity: 0.281
+
+=== A0A2Z2GST8 ===
+DE   SubName: Full=ArdB {ECO:0000313|EMBL:ARR90113.1};
+Bit Score: 377.0
+E-value: 2.089e-09
+Alignment Length: 149
+Percentage Identity: 0.255
+
+=== A0A1S6KSH1 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 376.0
+E-value: 2.355e-09
+Alignment Length: 149
+Percentage Identity: 0.194
+
+=== A0A2S1FUR7 ===
+DE   SubName: Full=Antirestriction protein klcA {ECO:0000313|EMBL:AWD76495.1};
+Bit Score: 377.0
+E-value: 2.5e-09
+Alignment Length: 134
+Percentage Identity: 0.298
+
+=== A0A369FG13 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:RDA28050.1};
+DE   Flags: Fragment;
+Bit Score: 380.0
+E-value: 2.817e-09
+Alignment Length: 123
+Percentage Identity: 0.292
+
+=== A0A1Q8EYC2 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 369.0
+E-value: 2.817e-09
+Alignment Length: 143
+Percentage Identity: 0.244
+
+=== A0A2U3EWV9 ===
+DE   SubName: Full=Restriction endonuclease {ECO:0000313|EMBL:PWI78975.1};
+DE   Flags: Fragment;
+Bit Score: 347.0
+E-value: 2.817e-09
+Alignment Length: 115
+Percentage Identity: 0.295
+
+=== A0A077NJC8 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 358.0
+E-value: 2.991e-09
+Alignment Length: 154
+Percentage Identity: 0.194
+
+=== A0A602MUY3 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:ECT7283018.1};
+Bit Score: 352.0
+E-value: 3.175e-09
+Alignment Length: 148
+Percentage Identity: 0.236
+
+=== A0A3G4RJ83 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 358.0
+E-value: 3.371e-09
+Alignment Length: 140
+Percentage Identity: 0.257
+
+=== A0A0S1XZ89 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 380.0
+E-value: 4.282e-09
+Alignment Length: 119
+Percentage Identity: 0.369
+
+=== A0A4V2RWI4 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:TCO08601.1};
+Bit Score: 364.0
+E-value: 4.282e-09
+Alignment Length: 143
+Percentage Identity: 0.328
+
+=== G9G2N2 ===
+DE   SubName: Full=AdrB {ECO:0000313|EMBL:CDO50760.1};
+DE   SubName: Full=ArdB {ECO:0000313|EMBL:AEV55305.1, ECO:0000313|EMBL:AHN60166.1};
+DE   SubName: Full=KlcA {ECO:0000313|EMBL:CCN80089.1};
+Bit Score: 362.0
+E-value: 5.123e-09
+Alignment Length: 149
+Percentage Identity: 0.255
+
+=== A0A2J4RM33 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 381.0
+E-value: 5.439e-09
+Alignment Length: 114
+Percentage Identity: 0.289
+
+=== A0A2Z0N8E7 ===
+DE   SubName: Full=Antirestriction protein KlcA {ECO:0000313|EMBL:AKJ21307.1};
+Bit Score: 342.0
+E-value: 6.13e-09
+Alignment Length: 144
+Percentage Identity: 0.27
+
+=== A0A6N6WTE4 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:KAE9725972.1};
+DE   Flags: Fragment;
+Bit Score: 344.0
+E-value: 6.507e-09
+Alignment Length: 108
+Percentage Identity: 0.305
+
+=== A0A1G7QJ69 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:SDF97969.1};
+Bit Score: 372.0
+E-value: 7.334e-09
+Alignment Length: 107
+Percentage Identity: 0.345
+
+=== A0A1D8UXR7 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 375.0
+E-value: 9.889e-09
+Alignment Length: 112
+Percentage Identity: 0.375
+
+=== A0A5D0HVF6 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:TYA74911.1};
+Bit Score: 349.0
+E-value: 9.889e-09
+Alignment Length: 137
+Percentage Identity: 0.233
+
+=== A0A291FJ15 ===
+DE   SubName: Full=Antirestriction protein Klca {ECO:0000313|EMBL:ATG34055.1};
+Bit Score: 367.0
+E-value: 1.115e-08
+Alignment Length: 108
+Percentage Identity: 0.416
+
+=== A0A0F7LVE0 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 341.0
+E-value: 1.503e-08
+Alignment Length: 117
+Percentage Identity: 0.307
+
+=== A0A376K6C6 ===
+DE   SubName: Full=Putative antirestriction protein {ECO:0000313|EMBL:STE77477.1};
+Bit Score: 350.0
+E-value: 2.027e-08
+Alignment Length: 119
+Percentage Identity: 0.277
+
+=== Q2NQ41 ===
+DE   RecName: Full=Antirestriction protein KlcA {ECO:0008006|Google:ProtNLM};
+Bit Score: 317.0
+E-value: 2.574e-08
+Alignment Length: 111
+Percentage Identity: 0.36
+
+=== A0A7V4QCD5 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 309.0
+E-value: 2.901e-08
+Alignment Length: 140
+Percentage Identity: 0.221
+
+=== A0A4R6E1B6 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:TDN51507.1};
+Bit Score: 306.0
+E-value: 3.912e-08
+Alignment Length: 164
+Percentage Identity: 0.195
+
+=== A0A258SNL3 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 323.0
+E-value: 4.409e-08
+Alignment Length: 99
+Percentage Identity: 0.363
+
+=== A0A616SUT5 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:EDA6044711.1};
+Bit Score: 316.0
+E-value: 4.681e-08
+Alignment Length: 158
+Percentage Identity: 0.246
+
+=== A0A1W1UVA7 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:SMB85098.1};
+Bit Score: 314.0
+E-value: 4.681e-08
+Alignment Length: 145
+Percentage Identity: 0.234
+
+=== A0A4V1BP91 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:QBX78900.1};
+Bit Score: 309.0
+E-value: 5.275e-08
+Alignment Length: 169
+Percentage Identity: 0.254
+
+=== I2E0E0 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:AFJ90366.1};
+Bit Score: 342.0
+E-value: 5.601e-08
+Alignment Length: 108
+Percentage Identity: 0.305
+
+=== A0A1Y1QSE1 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 333.0
+E-value: 6.312e-08
+Alignment Length: 98
+Percentage Identity: 0.418
+
+=== A0A5D4XX68 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:TYT29277.1};
+Bit Score: 311.0
+E-value: 6.312e-08
+Alignment Length: 156
+Percentage Identity: 0.256
+
+=== A0A557PGZ3 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 318.0
+E-value: 7.114e-08
+Alignment Length: 140
+Percentage Identity: 0.178
+
+=== D6CK63 ===
+DE   SubName: Full=Probable antirestriction protein klca {ECO:0000313|EMBL:CAZ15834.1};
+Bit Score: 315.0
+E-value: 7.114e-08
+Alignment Length: 142
+Percentage Identity: 0.225
+
+=== A0A0U3B3D9 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 284.0
+E-value: 8.511e-08
+Alignment Length: 141
+Percentage Identity: 0.205
+
+=== A0A2D0APS6 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:OWS75404.1};
+Bit Score: 268.0
+E-value: 8.511e-08
+Alignment Length: 141
+Percentage Identity: 0.248
+
+=== A0A7Y0ZMZ8 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:NMX89404.1};
+Bit Score: 333.0
+E-value: 9.036e-08
+Alignment Length: 118
+Percentage Identity: 0.254
+
+=== A0A3S5I4C0 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:AZZ88414.1};
+Bit Score: 296.0
+E-value: 9.036e-08
+Alignment Length: 167
+Percentage Identity: 0.233
+
+=== A0A1Q9HRV6 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 312.0
+E-value: 1.018e-07
+Alignment Length: 142
+Percentage Identity: 0.239
+
+=== I6FAE0 ===
+DE   SubName: Full=KlcA {ECO:0000313|EMBL:EIQ53232.1};
+Bit Score: 293.0
+E-value: 1.148e-07
+Alignment Length: 115
+Percentage Identity: 0.278
+
+=== A0A6B9G4G1 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:QGY32561.1};
+Bit Score: 303.0
+E-value: 1.218e-07
+Alignment Length: 122
+Percentage Identity: 0.237
+
+=== A0A1S8CH52 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 334.0
+E-value: 1.373e-07
+Alignment Length: 103
+Percentage Identity: 0.32
+
+=== W1INC2 ===
+DE   RecName: Full=Antirestriction plasmid protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 304.0
+E-value: 1.373e-07
+Alignment Length: 128
+Percentage Identity: 0.257
+
+=== A0A811BQV6 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 301.0
+E-value: 1.373e-07
+Alignment Length: 157
+Percentage Identity: 0.235
+
+=== A0A6S6SKA7 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 285.0
+E-value: 1.373e-07
+Alignment Length: 147
+Percentage Identity: 0.217
+
+=== A0A5Y0S7S5 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:ECB7109893.1};
+DE   Flags: Fragment;
+Bit Score: 274.0
+E-value: 1.548e-07
+Alignment Length: 102
+Percentage Identity: 0.303
+
+=== A0A2D7WG01 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAK43864.1};
+Bit Score: 275.0
+E-value: 1.643e-07
+Alignment Length: 156
+Percentage Identity: 0.198
+
+=== U7NY96 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 320.0
+E-value: 1.852e-07
+Alignment Length: 108
+Percentage Identity: 0.314
+
+=== A0A6H2Y2X3 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:ECW2471538.1};
+DE   Flags: Fragment;
+Bit Score: 282.0
+E-value: 1.966e-07
+Alignment Length: 100
+Percentage Identity: 0.28
+
+=== A0A1Q8G372 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 278.0
+E-value: 2.216e-07
+Alignment Length: 160
+Percentage Identity: 0.212
+
+=== A0A259NX63 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OZB41035.1};
+Bit Score: 309.0
+E-value: 2.352e-07
+Alignment Length: 146
+Percentage Identity: 0.26
+
+=== A0A542CS53 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:TVZ61586.1};
+Bit Score: 290.0
+E-value: 2.497e-07
+Alignment Length: 158
+Percentage Identity: 0.278
+
+=== A0A379FXB0 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:SUC33003.1};
+Bit Score: 284.0
+E-value: 2.497e-07
+Alignment Length: 96
+Percentage Identity: 0.291
+
+=== A0A084T7J9 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 272.0
+E-value: 2.814e-07
+Alignment Length: 141
+Percentage Identity: 0.177
+
+=== A0A0E3BGE3 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 321.0
+E-value: 2.988e-07
+Alignment Length: 119
+Percentage Identity: 0.31
+
+=== A0A2A7U866 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:PEH74484.1};
+Bit Score: 303.0
+E-value: 3.367e-07
+Alignment Length: 114
+Percentage Identity: 0.236
+
+=== A0A223Q0D9 ===
+DE   SubName: Full=Antirestriction protein KlcA {ECO:0000313|EMBL:ASU51081.1};
+Bit Score: 264.0
+E-value: 5.117e-07
+Alignment Length: 113
+Percentage Identity: 0.327
+
+=== A0A482M2V1 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 272.0
+E-value: 5.767e-07
+Alignment Length: 101
+Percentage Identity: 0.287
+
+=== A0A5K8A2R0 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 303.0
+E-value: 7.326e-07
+Alignment Length: 98
+Percentage Identity: 0.346
+
+=== A0A0H3FI91 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:AEG94976.1};
+Bit Score: 296.0
+E-value: 8.256e-07
+Alignment Length: 98
+Percentage Identity: 0.346
+
+=== A0A1I3Y1N7 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:SFK25201.1};
+Bit Score: 268.0
+E-value: 8.765e-07
+Alignment Length: 130
+Percentage Identity: 0.238
+
+=== A0A378QCC6 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:STY98557.1};
+Bit Score: 233.0
+E-value: 9.878e-07
+Alignment Length: 144
+Percentage Identity: 0.18
+
+=== A0A379SMT7 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:SUG30697.1};
+Bit Score: 240.0
+E-value: 1.182e-06
+Alignment Length: 160
+Percentage Identity: 0.231
+
+=== A0A0L0UHT7 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 241.0
+E-value: 1.796e-06
+Alignment Length: 140
+Percentage Identity: 0.264
+
+=== A1U856 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 243.0
+E-value: 1.907e-06
+Alignment Length: 158
+Percentage Identity: 0.183
+
+=== A0A1W6KFF7 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 263.0
+E-value: 2.024e-06
+Alignment Length: 153
+Percentage Identity: 0.183
+
+=== C9QGL8 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 250.0
+E-value: 2.571e-06
+Alignment Length: 122
+Percentage Identity: 0.262
+
+=== A0A139DPL3 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 256.0
+E-value: 2.73e-06
+Alignment Length: 142
+Percentage Identity: 0.147
+
+=== A0A2S5Z558 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 261.0
+E-value: 4.149e-06
+Alignment Length: 131
+Percentage Identity: 0.19
+
+=== A0A443K0H7 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:RWR26216.1};
+Bit Score: 237.0
+E-value: 5.594e-06
+Alignment Length: 104
+Percentage Identity: 0.346
+
+=== S2F5P0 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 237.0
+E-value: 8.008e-06
+Alignment Length: 180
+Percentage Identity: 0.166
+
+=== H3RB12 ===
+DE   SubName: Full=ArdB family protein {ECO:0000313|EMBL:EHU01458.1};
+Bit Score: 231.0
+E-value: 8.502e-06
+Alignment Length: 109
+Percentage Identity: 0.256
+
+=== A0A378ALD9 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:STV13500.1};
+Bit Score: 223.0
+E-value: 8.502e-06
+Alignment Length: 96
+Percentage Identity: 0.25
+
+=== A0A0Q4NEX6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KQN62335.1};
+Bit Score: 231.0
+E-value: 9.582e-06
+Alignment Length: 133
+Percentage Identity: 0.15
+
+=== A0A7H9K7B4 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:QLV01828.1};
+Bit Score: 228.0
+E-value: 1.08e-05
+Alignment Length: 148
+Percentage Identity: 0.202
+
+=== A0A1U9MJ51 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:AQT47987.1};
+Bit Score: 184.0
+E-value: 1.08e-05
+Alignment Length: 141
+Percentage Identity: 0.17
+
+=== A0A084TEY5 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 229.0
+E-value: 1.217e-05
+Alignment Length: 128
+Percentage Identity: 0.187
+
+=== A3JKQ3 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 214.0
+E-value: 1.292e-05
+Alignment Length: 148
+Percentage Identity: 0.128
+
+=== A0A2D0IXG9 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:PHM26640.1};
+Bit Score: 234.0
+E-value: 1.85e-05
+Alignment Length: 121
+Percentage Identity: 0.198
+
+=== A0A2U3EXI2 ===
+DE   SubName: Full=Restriction endonuclease {ECO:0000313|EMBL:PWI79195.1};
+DE   Flags: Fragment;
+Bit Score: 213.0
+E-value: 1.85e-05
+Alignment Length: 90
+Percentage Identity: 0.3
+
+=== A0A2L1KEA6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AVE20668.1};
+Bit Score: 192.0
+E-value: 1.964e-05
+Alignment Length: 133
+Percentage Identity: 0.195
+
+=== A0A437RK56 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RVU47163.1};
+Bit Score: 195.0
+E-value: 2.213e-05
+Alignment Length: 150
+Percentage Identity: 0.186
+
+=== A0A329HX71 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RAU36339.1};
+Bit Score: 210.0
+E-value: 2.811e-05
+Alignment Length: 128
+Percentage Identity: 0.164
+
+=== A0A5Z6P9X8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ECT7283021.1};
+Bit Score: 197.0
+E-value: 2.984e-05
+Alignment Length: 145
+Percentage Identity: 0.137
+
+=== I3W383 ===
+DE   SubName: Full=KlcA {ECO:0000313|EMBL:AFK90060.1};
+Bit Score: 203.0
+E-value: 3.168e-05
+Alignment Length: 129
+Percentage Identity: 0.263
+
+=== A0A8B4Z7U2 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 214.0
+E-value: 3.791e-05
+Alignment Length: 129
+Percentage Identity: 0.17
+
+=== V8FTG1 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:ETD66712.1};
+Bit Score: 198.0
+E-value: 3.791e-05
+Alignment Length: 140
+Percentage Identity: 0.192
+
+=== A0A1W6UUN6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ARP21645.1};
+Bit Score: 178.0
+E-value: 4.024e-05
+Alignment Length: 142
+Percentage Identity: 0.147
+
+=== A0A5X0GNH5 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 187.0
+E-value: 4.815e-05
+Alignment Length: 152
+Percentage Identity: 0.131
+
+=== A0A7X3I3F7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MWV14215.1};
+Bit Score: 207.0
+E-value: 5.111e-05
+Alignment Length: 175
+Percentage Identity: 0.177
+
+=== A0A2Z1CAB7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ALZ46336.1};
+Bit Score: 215.0
+E-value: 5.761e-05
+Alignment Length: 164
+Percentage Identity: 0.195
+
+=== A0A1I9WIY7 ===
+DE   SubName: Full=Antirestriction protein klcA {ECO:0000313|EMBL:APA32106.1};
+Bit Score: 212.0
+E-value: 6.893e-05
+Alignment Length: 99
+Percentage Identity: 0.282
+
+=== A0A379FW97 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:SUC33005.1};
+Bit Score: 222.0
+E-value: 8.755e-05
+Alignment Length: 83
+Percentage Identity: 0.361
+
+=== A0A8B0SU73 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 157.0
+E-value: 9.294e-05
+Alignment Length: 110
+Percentage Identity: 0.29
+
+=== A0A379PLP1 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:SUE95891.1};
+Bit Score: 207.0
+E-value: 0.0001181
+Alignment Length: 169
+Percentage Identity: 0.177
+
+=== A0A161Z9X1 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 189.0
+E-value: 0.0001592
+Alignment Length: 166
+Percentage Identity: 0.192
+
+=== A0A0U1P5R4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAD29823.1};
+Bit Score: 179.0
+E-value: 0.0002147
+Alignment Length: 137
+Percentage Identity: 0.218
+
+=== A0A4R4G7A4 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 178.0
+E-value: 0.0002568
+Alignment Length: 139
+Percentage Identity: 0.172
+
+=== A0A7Y0SIC8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NMU83960.1};
+DE   Flags: Fragment;
+Bit Score: 181.0
+E-value: 0.0003262
+Alignment Length: 81
+Percentage Identity: 0.296
+
+=== A0A427DYE0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RRV08799.1};
+Bit Score: 186.0
+E-value: 0.0003677
+Alignment Length: 164
+Percentage Identity: 0.201
+
+=== A8FUD1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ABV36454.1};
+Bit Score: 164.0
+E-value: 0.0003677
+Alignment Length: 137
+Percentage Identity: 0.189
+
+=== A0A2K3TY48 ===
+DE   SubName: Full=Restriction endonuclease {ECO:0000313|EMBL:PNY69147.1};
+DE   Flags: Fragment;
+Bit Score: 196.0
+E-value: 0.0003903
+Alignment Length: 83
+Percentage Identity: 0.301
+
+=== A0A377A073 ===
+DE   SubName: Full=Putative antirestriction protein {ECO:0000313|EMBL:STK86245.1};
+Bit Score: 186.0
+E-value: 0.000467
+Alignment Length: 100
+Percentage Identity: 0.25
+
+=== A0A158RXJ2 ===
+DE   SubName: Full=Antirestriction protein klcA {ECO:0000313|EMBL:CDO34815.1};
+Bit Score: 193.0
+E-value: 0.0005588
+Alignment Length: 74
+Percentage Identity: 0.418
+
+=== A0A1V2DQ67 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 173.0
+E-value: 0.0006298
+Alignment Length: 149
+Percentage Identity: 0.154
+
+=== A0A6G6AID8 ===
+DE   SubName: Full=Antirestriction protein KlcA {ECO:0000313|EMBL:QID21890.1};
+Bit Score: 145.0
+E-value: 0.0008492
+Alignment Length: 95
+Percentage Identity: 0.326
+
+=== G9C9Z7 ===
+DE   SubName: Full=KlcA {ECO:0000313|EMBL:AEX00612.1};
+Bit Score: 183.0
+E-value: 0.001145
+Alignment Length: 77
+Percentage Identity: 0.376
+
+=== A0A7A6WQE9 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:HAJ1233126.1};
+DE   Flags: Fragment;
+Bit Score: 175.0
+E-value: 0.001216
+Alignment Length: 79
+Percentage Identity: 0.291
+
+=== N9AGR7 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 132.0
+E-value: 0.001544
+Alignment Length: 171
+Percentage Identity: 0.169
+
+=== A0A1H3QT45 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:SDZ16510.1};
+Bit Score: 131.0
+E-value: 0.001544
+Alignment Length: 105
+Percentage Identity: 0.247
+
+=== A0A1N7SWK3 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 177.0
+E-value: 0.002082
+Alignment Length: 74
+Percentage Identity: 0.337
+
+=== A0A6N8NN36 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:MWR91288.1};
+Bit Score: 152.0
+E-value: 0.002082
+Alignment Length: 94
+Percentage Identity: 0.234
+
+=== A0A4Y7XBA2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TEU25845.1};
+Bit Score: 119.0
+E-value: 0.003567
+Alignment Length: 135
+Percentage Identity: 0.111
+
+=== Q2W5N6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:BAE50839.1};
+Bit Score: 117.0
+E-value: 0.004809
+Alignment Length: 155
+Percentage Identity: 0.167
+
+=== A0A0N9NLM9 ===
+DE   SubName: Full=Antirestriction protein KlcA {ECO:0000313|EMBL:ALG88505.1};
+Bit Score: 149.0
+E-value: 0.006485
+Alignment Length: 67
+Percentage Identity: 0.313
+
+=== A0A5U8V888 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:EBS0214657.1};
+DE   Flags: Fragment;
+Bit Score: 126.0
+E-value: 0.01046
+Alignment Length: 70
+Percentage Identity: 0.342
+
+=== A0A1I3LMV1 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:SFI86037.1};
+Bit Score: 137.0
+E-value: 0.01179
+Alignment Length: 67
+Percentage Identity: 0.328
+
+=== A0A7Y8PP22 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:NWK51879.1};
+Bit Score: 99.0
+E-value: 0.01329
+Alignment Length: 157
+Percentage Identity: 0.165
+
+=== A0A3D8UHM0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RDX33434.1};
+Bit Score: 108.0
+E-value: 0.01903
+Alignment Length: 160
+Percentage Identity: 0.131
+
+=== A0A143G8U0 ===
+DE   RecName: Full=Antirestriction protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.02566
+Alignment Length: 135
+Percentage Identity: 0.14
+
+=== A0A1Y1BF56 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:BAX56988.1};
+Bit Score: 121.0
+E-value: 0.03259
+Alignment Length: 75
+Percentage Identity: 0.253
+
+=== A0A486JME2 ===
+DE   SubName: Full=Antirestriction protein {ECO:0000313|EMBL:VGJ57424.1, ECO:0000313|EMBL:VGM19957.1};
+Bit Score: 120.0
+E-value: 0.03259
+Alignment Length: 65
+Percentage Identity: 0.307
+
+=== A0A7U9KCK9 ===
+DE   RecName: Full=Phage protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 100.0
+E-value: 0.03259
+Alignment Length: 149
+Percentage Identity: 0.114
+
+=== A0A4V3BLV1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TDN48052.1};
+Bit Score: 94.0
+E-value: 0.03899
+Alignment Length: 141
+Percentage Identity: 0.092
+

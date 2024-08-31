@@ -1,0 +1,7 @@
+=== A0A3A4K859 ===
+DE   RecName: Full=Peptidase C39-like domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 84.0
+E-value: 0.04032
+Alignment Length: 79
+Percentage Identity: 0.202
+

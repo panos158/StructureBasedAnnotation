@@ -1,0 +1,7 @@
+=== I7MIX7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EAR95638.2};
+Bit Score: 64.0
+E-value: 0.04621
+Alignment Length: 122
+Percentage Identity: 0.163
+

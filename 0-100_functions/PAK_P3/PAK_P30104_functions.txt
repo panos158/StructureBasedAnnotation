@@ -1,0 +1,43 @@
+=== A0A104XY70 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KVP39794.1};
+Bit Score: 325.0
+E-value: 3.042e-07
+Alignment Length: 58
+Percentage Identity: 0.637
+
+=== A0A106QDB9 ===
+DE   RecName: Full=Transposase {ECO:0008006|Google:ProtNLM};
+Bit Score: 327.0
+E-value: 4.75e-07
+Alignment Length: 59
+Percentage Identity: 0.542
+
+=== A0A1M5UJ04 ===
+DE   RecName: Full=PH domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.009764
+Alignment Length: 65
+Percentage Identity: 0.092
+
+=== A0A6V8DWV0 ===
+DE   RecName: Full=F5/8 type C domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.009764
+Alignment Length: 60
+Percentage Identity: 0.183
+
+=== A0A3B0V106 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:VAW25706.1};
+DE   Flags: Fragment;
+Bit Score: 87.0
+E-value: 0.03071
+Alignment Length: 64
+Percentage Identity: 0.093
+
+=== A0A356X3I4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HBQ59756.1};
+Bit Score: 86.0
+E-value: 0.04499
+Alignment Length: 60
+Percentage Identity: 0.1
+

@@ -1,0 +1,117 @@
+=== A0A2K3JAI2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PNX50996.1};
+Bit Score: 168.0
+E-value: 0.004305
+Alignment Length: 66
+Percentage Identity: 0.242
+
+=== A0A7S1I7N8 ===
+DE   RecName: Full=Phospholipid scramblase {ECO:0000256|RuleBase:RU363116};
+Bit Score: 159.0
+E-value: 0.009475
+Alignment Length: 72
+Percentage Identity: 0.208
+
+=== A0A1Y1L540 ===
+DE   RecName: Full=Integrase catalytic domain-containing protein {ECO:0000259|PROSITE:PS50994};
+DE   Flags: Fragment;
+Bit Score: 151.0
+E-value: 0.01256
+Alignment Length: 64
+Percentage Identity: 0.171
+
+=== C5KND2 ===
+DE   RecName: Full=DUF5641 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 146.0
+E-value: 0.01256
+Alignment Length: 59
+Percentage Identity: 0.254
+
+=== A0A496XJK2 ===
+DE   RecName: Full=YopX protein domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.02469
+Alignment Length: 72
+Percentage Identity: 0.152
+
+=== A0A0F9EV80 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKL70156.1};
+Bit Score: 128.0
+E-value: 0.02612
+Alignment Length: 73
+Percentage Identity: 0.164
+
+=== C5K8S1 ===
+DE   RecName: Full=DUF5641 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.02612
+Alignment Length: 82
+Percentage Identity: 0.17
+
+=== A0A845V298 ===
+DE   RecName: Full=Hypervirulence associated protein TUDOR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 145.0
+E-value: 0.02764
+Alignment Length: 68
+Percentage Identity: 0.191
+
+=== A0A3A9GUY8 ===
+DE   RecName: Full=DUF2187 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.02924
+Alignment Length: 74
+Percentage Identity: 0.121
+
+=== A0A1J4W1L4 ===
+DE   RecName: Full=DUF4926 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.03093
+Alignment Length: 67
+Percentage Identity: 0.119
+
+=== A0A5A7TWP3 ===
+DE   SubName: Full=Protein ALWAYS EARLY 2-like isoform X1 {ECO:0000313|EMBL:KAA0048013.1};
+Bit Score: 139.0
+E-value: 0.03273
+Alignment Length: 65
+Percentage Identity: 0.123
+
+=== A0A0A9WPH6 ===
+DE   RecName: Full=RNA-directed DNA polymerase {ECO:0000256|ARBA:ARBA00012493};
+DE            EC=2.7.7.49 {ECO:0000256|ARBA:ARBA00012493};
+DE   Flags: Fragment;
+Bit Score: 137.0
+E-value: 0.03273
+Alignment Length: 63
+Percentage Identity: 0.111
+
+=== A0A1Y1N2P5 ===
+DE   RecName: Full=Tudor domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 126.0
+E-value: 0.03273
+Alignment Length: 77
+Percentage Identity: 0.168
+
+=== A0A349YFI1 ===
+DE   RecName: Full=DUF2187 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 132.0
+E-value: 0.03663
+Alignment Length: 69
+Percentage Identity: 0.231
+
+=== A0A0K8TI95 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:JAG65332.1};
+DE   Flags: Fragment;
+Bit Score: 134.0
+E-value: 0.04338
+Alignment Length: 62
+Percentage Identity: 0.112
+
+=== A0A7D9JIX4 ===
+DE   SubName: Full=Transposon Ty3-G Gag-Pol poly {ECO:0000313|EMBL:CAB4030200.1};
+Bit Score: 126.0
+E-value: 0.04338
+Alignment Length: 64
+Percentage Identity: 0.187
+

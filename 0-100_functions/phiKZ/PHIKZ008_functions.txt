@@ -1,0 +1,8 @@
+=== A0A498QWX5 ===
+DE   SubName: Full=Aklavinone 12-hydroxylase DnrF {ECO:0000313|EMBL:VBA52300.1};
+DE            EC=1.14.13.180 {ECO:0000313|EMBL:VBA52300.1};
+Bit Score: 79.0
+E-value: 0.04458
+Alignment Length: 48
+Percentage Identity: 0.229
+

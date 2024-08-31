@@ -1,0 +1,7 @@
+=== A0A2E7I109 ===
+DE   RecName: Full=DUF5681 domain-containing protein {ECO:0000259|Pfam:PF18932};
+Bit Score: 118.0
+E-value: 0.00222
+Alignment Length: 99
+Percentage Identity: 0.393
+

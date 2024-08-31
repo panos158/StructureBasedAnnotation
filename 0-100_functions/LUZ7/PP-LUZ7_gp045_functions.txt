@@ -1,0 +1,7 @@
+=== A0A4R4PYX9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TDC27659.1};
+Bit Score: 75.0
+E-value: 0.03095
+Alignment Length: 78
+Percentage Identity: 0.217
+

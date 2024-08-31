@@ -1,0 +1,260 @@
+=== N8WYM7 ===
+DE   RecName: Full=DUF1653 domain-containing protein {ECO:0000259|Pfam:PF07866};
+Bit Score: 105.0
+E-value: 0.002677
+Alignment Length: 134
+Percentage Identity: 0.097
+
+=== X1TES2 ===
+DE   RecName: Full=DUF1653 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 130.0
+E-value: 0.004932
+Alignment Length: 100
+Percentage Identity: 0.13
+
+=== F3B9M1 ===
+DE   RecName: Full=DUF1653 domain-containing protein {ECO:0000259|Pfam:PF07866};
+Bit Score: 90.0
+E-value: 0.006695
+Alignment Length: 145
+Percentage Identity: 0.165
+
+=== A0A356QTI9 ===
+DE   SubName: Full=Transcription-repair coupling factor {ECO:0000313|EMBL:HBP83360.1};
+DE   Flags: Fragment;
+Bit Score: 89.0
+E-value: 0.01394
+Alignment Length: 121
+Percentage Identity: 0.14
+
+=== X1GCG9 ===
+DE   RecName: Full=CarD-like/TRCF RNAP-interacting domain-containing protein {ECO:0000259|SMART:SM01058};
+DE   Flags: Fragment;
+Bit Score: 89.0
+E-value: 0.01482
+Alignment Length: 122
+Percentage Identity: 0.172
+
+=== A0A642C252 ===
+DE   SubName: Full=Transcription-repair coupling factor {ECO:0000313|EMBL:KAA4632375.1};
+DE   Flags: Fragment;
+Bit Score: 91.0
+E-value: 0.01674
+Alignment Length: 120
+Percentage Identity: 0.091
+
+=== A0A350V0W4 ===
+DE   RecName: Full=CarD-like/TRCF RNAP-interacting domain-containing protein {ECO:0000259|SMART:SM01058};
+DE   Flags: Fragment;
+Bit Score: 89.0
+E-value: 0.01674
+Alignment Length: 121
+Percentage Identity: 0.123
+
+=== A0A3M1TM75 ===
+DE   RecName: Full=CarD-like/TRCF RNAP-interacting domain-containing protein {ECO:0000259|SMART:SM01058};
+Bit Score: 80.0
+E-value: 0.0178
+Alignment Length: 159
+Percentage Identity: 0.132
+
+=== A0A126R8S0 ===
+DE   RecName: Full=DUF1653 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 129.0
+E-value: 0.01892
+Alignment Length: 61
+Percentage Identity: 0.18
+
+=== A0A2D6F0W7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAF36325.1};
+Bit Score: 146.0
+E-value: 0.02011
+Alignment Length: 57
+Percentage Identity: 0.105
+
+=== A0A259KW89 ===
+DE   SubName: Full=Transcription-repair coupling factor {ECO:0000313|EMBL:OZB03562.1};
+DE   Flags: Fragment;
+Bit Score: 88.0
+E-value: 0.02138
+Alignment Length: 122
+Percentage Identity: 0.147
+
+=== A0A7X6TDS9 ===
+DE   SubName: Full=Transcription-repair coupling factor {ECO:0000313|EMBL:NLB02947.1};
+DE   Flags: Fragment;
+Bit Score: 89.0
+E-value: 0.02273
+Alignment Length: 119
+Percentage Identity: 0.109
+
+=== A0A350YYU5 ===
+DE   SubName: Full=Transcription-repair coupling factor {ECO:0000313|EMBL:HAX96713.1};
+DE   Flags: Fragment;
+Bit Score: 83.0
+E-value: 0.02416
+Alignment Length: 119
+Percentage Identity: 0.151
+
+=== A0A4R6NZR6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TDP29797.1};
+Bit Score: 80.0
+E-value: 0.02416
+Alignment Length: 132
+Percentage Identity: 0.106
+
+=== A0A7C5N184 ===
+DE   SubName: Full=Transcription-repair coupling factor {ECO:0000313|EMBL:HHH28345.1};
+DE   Flags: Fragment;
+Bit Score: 81.0
+E-value: 0.02568
+Alignment Length: 132
+Percentage Identity: 0.136
+
+=== A0A3B0UXY1 ===
+DE   SubName: Full=Transcription-repair coupling factor {ECO:0000313|EMBL:VAW29449.1};
+DE   Flags: Fragment;
+Bit Score: 86.0
+E-value: 0.02902
+Alignment Length: 119
+Percentage Identity: 0.142
+
+=== A0A847B875 ===
+DE   RecName: Full=CarD-like/TRCF RNAP-interacting domain-containing protein {ECO:0000259|SMART:SM01058};
+DE   Flags: Fragment;
+Bit Score: 83.0
+E-value: 0.02902
+Alignment Length: 128
+Percentage Identity: 0.093
+
+=== A0A351AWJ3 ===
+DE   RecName: Full=Helicase ATP-binding domain-containing protein {ECO:0000259|PROSITE:PS51192};
+DE   Flags: Fragment;
+Bit Score: 82.0
+E-value: 0.02902
+Alignment Length: 132
+Percentage Identity: 0.136
+
+=== A0A7Y2K5R1 ===
+DE   SubName: Full=Transcription-repair coupling factor {ECO:0000313|EMBL:NNG25969.1};
+DE   Flags: Fragment;
+Bit Score: 78.0
+E-value: 0.02902
+Alignment Length: 172
+Percentage Identity: 0.116
+
+=== A0A3C2DAT4 ===
+DE   SubName: Full=Transcription-repair coupling factor {ECO:0000313|EMBL:HAQ21379.1};
+DE   Flags: Fragment;
+Bit Score: 85.0
+E-value: 0.03706
+Alignment Length: 119
+Percentage Identity: 0.126
+
+=== A0A2G6FZW6 ===
+DE   RecName: Full=Helicase ATP-binding domain-containing protein {ECO:0000259|PROSITE:PS51192};
+DE   Flags: Fragment;
+Bit Score: 84.0
+E-value: 0.03706
+Alignment Length: 121
+Percentage Identity: 0.14
+
+=== A0A1Z9LUF5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OUW58897.1};
+Bit Score: 89.0
+E-value: 0.0394
+Alignment Length: 98
+Percentage Identity: 0.132
+
+=== A0A3D2EYJ5 ===
+DE   SubName: Full=Transcription-repair coupling factor {ECO:0000313|EMBL:HCI02634.1};
+DE   Flags: Fragment;
+Bit Score: 83.0
+E-value: 0.0394
+Alignment Length: 118
+Percentage Identity: 0.127
+
+=== A0A3D1S893 ===
+DE   SubName: Full=Transcription-repair coupling factor {ECO:0000313|EMBL:HCF81145.1};
+DE   Flags: Fragment;
+Bit Score: 79.0
+E-value: 0.04188
+Alignment Length: 147
+Percentage Identity: 0.095
+
+=== E4X277 ===
+DE   RecName: Full=Integrase catalytic domain-containing protein {ECO:0000259|PROSITE:PS50994};
+Bit Score: 67.0
+E-value: 0.04188
+Alignment Length: 134
+Percentage Identity: 0.126
+
+=== A0A3C0TF32 ===
+DE   RecName: Full=DUF1653 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 101.0
+E-value: 0.04452
+Alignment Length: 74
+Percentage Identity: 0.121
+
+=== A0A519NXF9 ===
+DE   SubName: Full=Transcription-repair coupling factor {ECO:0000313|EMBL:RZJ78469.1};
+DE   Flags: Fragment;
+Bit Score: 82.0
+E-value: 0.04452
+Alignment Length: 119
+Percentage Identity: 0.134
+
+=== A0A1Q6PQM2 ===
+DE   SubName: Full=Transcription-repair coupling factor {ECO:0000313|EMBL:OLA20177.1};
+DE   Flags: Fragment;
+Bit Score: 81.0
+E-value: 0.04452
+Alignment Length: 130
+Percentage Identity: 0.123
+
+=== A0A3C2AQS7 ===
+DE   SubName: Full=Transcription-repair coupling factor {ECO:0000313|EMBL:HAP71087.1};
+DE   Flags: Fragment;
+Bit Score: 80.0
+E-value: 0.04452
+Alignment Length: 127
+Percentage Identity: 0.118
+
+=== A0A3A9C0I8 ===
+DE   SubName: Full=DUF1653 domain-containing protein {ECO:0000313|EMBL:RKJ09238.1};
+Bit Score: 76.0
+E-value: 0.04452
+Alignment Length: 181
+Percentage Identity: 0.077
+
+=== A0A3R0CD66 ===
+DE   SubName: Full=DUF4222 domain-containing protein {ECO:0000313|EMBL:MIK94945.1};
+Bit Score: 92.0
+E-value: 0.04732
+Alignment Length: 86
+Percentage Identity: 0.139
+
+=== A0A359GWM3 ===
+DE   SubName: Full=Transcription-repair coupling factor {ECO:0000313|EMBL:HBY00088.1};
+DE   Flags: Fragment;
+Bit Score: 82.0
+E-value: 0.04732
+Alignment Length: 119
+Percentage Identity: 0.117
+
+=== A0A7V0VY28 ===
+DE   SubName: Full=DEAD/DEAH box helicase {ECO:0000313|EMBL:HDX76453.1};
+DE   Flags: Fragment;
+Bit Score: 80.0
+E-value: 0.04732
+Alignment Length: 126
+Percentage Identity: 0.142
+
+=== X6NYU2 ===
+DE   RecName: Full=SAM domain-containing protein {ECO:0000259|PROSITE:PS50105};
+DE   Flags: Fragment;
+Bit Score: 55.0
+E-value: 0.04732
+Alignment Length: 145
+Percentage Identity: 0.11
+

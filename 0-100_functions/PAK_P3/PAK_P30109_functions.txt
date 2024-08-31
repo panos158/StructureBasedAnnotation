@@ -1,0 +1,21 @@
+=== A0A6J5DJI2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAB3754248.1};
+Bit Score: 351.0
+E-value: 4.08e-08
+Alignment Length: 87
+Percentage Identity: 0.448
+
+=== U2HE54 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ERJ38709.1};
+Bit Score: 372.0
+E-value: 5.38e-08
+Alignment Length: 88
+Percentage Identity: 0.443
+
+=== A0A103EM80 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KVE37240.1};
+Bit Score: 361.0
+E-value: 1.046e-07
+Alignment Length: 83
+Percentage Identity: 0.493
+

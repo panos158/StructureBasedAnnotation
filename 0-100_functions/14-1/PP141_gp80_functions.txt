@@ -1,0 +1,298 @@
+=== A0A367RT13 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RCJ38854.1};
+Bit Score: 195.0
+E-value: 0.001982
+Alignment Length: 72
+Percentage Identity: 0.152
+
+=== A0A2W6BV44 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PZS12921.1};
+Bit Score: 193.0
+E-value: 0.001982
+Alignment Length: 75
+Percentage Identity: 0.2
+
+=== A0A1A0QCF3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OBB19174.1};
+Bit Score: 193.0
+E-value: 0.002465
+Alignment Length: 71
+Percentage Identity: 0.197
+
+=== H1B9P5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EHO28134.1};
+Bit Score: 177.0
+E-value: 0.005005
+Alignment Length: 71
+Percentage Identity: 0.183
+
+=== A0A1J5PZH9 ===
+DE   RecName: Full=Signal peptidase I {ECO:0008006|Google:ProtNLM};
+Bit Score: 181.0
+E-value: 0.00863
+Alignment Length: 71
+Percentage Identity: 0.154
+
+=== A0A838PLV6 ===
+DE   RecName: Full=Signal peptidase I {ECO:0008006|Google:ProtNLM};
+Bit Score: 166.0
+E-value: 0.00863
+Alignment Length: 73
+Percentage Identity: 0.109
+
+=== A0A538ARC6 ===
+DE   SubName: Full=Signal peptidase I {ECO:0000313|EMBL:TMK82039.1};
+DE            EC=3.4.21.89 {ECO:0000313|EMBL:TMK82039.1};
+Bit Score: 163.0
+E-value: 0.01073
+Alignment Length: 71
+Percentage Identity: 0.169
+
+=== A0A538EL48 ===
+DE   SubName: Full=Signal peptidase I {ECO:0000313|EMBL:TML29251.1};
+DE            EC=3.4.21.89 {ECO:0000313|EMBL:TML29251.1};
+Bit Score: 158.0
+E-value: 0.01073
+Alignment Length: 71
+Percentage Identity: 0.197
+
+=== S7XTW4 ===
+DE   SubName: Full=Translation initiation factor eIF-5A {ECO:0000313|EMBL:EPR79328.1};
+Bit Score: 139.0
+E-value: 0.01073
+Alignment Length: 74
+Percentage Identity: 0.108
+
+=== A0A431IPJ2 ===
+DE   SubName: Full=Signal peptidase I {ECO:0000313|EMBL:RTL09366.1};
+DE            EC=3.4.21.89 {ECO:0000313|EMBL:RTL09366.1};
+Bit Score: 162.0
+E-value: 0.01264
+Alignment Length: 71
+Percentage Identity: 0.169
+
+=== A0A165SPD8 ===
+DE   RecName: Full=Site-specific DNA-methyltransferase {ECO:0008006|Google:ProtNLM};
+Bit Score: 116.0
+E-value: 0.01264
+Alignment Length: 76
+Percentage Identity: 0.197
+
+=== A0A7V8ZLI0 ===
+DE   SubName: Full=Signal peptidase I {ECO:0000313|EMBL:MBA2349841.1};
+DE            EC=3.4.21.89 {ECO:0000313|EMBL:MBA2349841.1};
+Bit Score: 157.0
+E-value: 0.01334
+Alignment Length: 71
+Percentage Identity: 0.112
+
+=== A0A410YJ80 ===
+DE   SubName: Full=Signal peptidase I {ECO:0000313|EMBL:QAV70491.1};
+DE            EC=3.4.21.89 {ECO:0000313|EMBL:QAV70491.1};
+Bit Score: 159.0
+E-value: 0.01409
+Alignment Length: 68
+Percentage Identity: 0.22
+
+=== A0A369TBJ9 ===
+DE   SubName: Full=Site-specific DNA-methyltransferase {ECO:0000313|EMBL:RDD60306.1};
+Bit Score: 106.0
+E-value: 0.01409
+Alignment Length: 76
+Percentage Identity: 0.197
+
+=== A0A7K1DXM7 ===
+DE   SubName: Full=Signal peptidase I {ECO:0000313|EMBL:MTA80829.1};
+DE            EC=3.4.21.89 {ECO:0000313|EMBL:MTA80829.1};
+DE   Flags: Fragment;
+Bit Score: 154.0
+E-value: 0.01954
+Alignment Length: 69
+Percentage Identity: 0.159
+
+=== A0A1G8NS09 ===
+DE   SubName: Full=Signal peptidase I {ECO:0000313|EMBL:SDI82756.1};
+Bit Score: 151.0
+E-value: 0.02064
+Alignment Length: 68
+Percentage Identity: 0.176
+
+=== A0A4U3CF01 ===
+DE   RecName: Full=S26 family signal peptidase {ECO:0008006|Google:ProtNLM};
+Bit Score: 151.0
+E-value: 0.02179
+Alignment Length: 71
+Percentage Identity: 0.197
+
+=== A0A1H1D6Y8 ===
+DE   SubName: Full=Signal peptidase, endoplasmic reticulum-type {ECO:0000313|EMBL:SDQ72180.1};
+Bit Score: 137.0
+E-value: 0.02179
+Alignment Length: 70
+Percentage Identity: 0.228
+
+=== A0A7I7P1I3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:BBY02344.1};
+Bit Score: 137.0
+E-value: 0.02179
+Alignment Length: 75
+Percentage Identity: 0.173
+
+=== D6U4R2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EFH81492.1};
+Bit Score: 157.0
+E-value: 0.02301
+Alignment Length: 74
+Percentage Identity: 0.162
+
+=== A0A6J7WAW6 ===
+DE   SubName: Full=Unannotated protein {ECO:0000313|EMBL:CAB5159709.1};
+Bit Score: 149.0
+E-value: 0.0243
+Alignment Length: 69
+Percentage Identity: 0.13
+
+=== A0A5P8Z4P5 ===
+DE   SubName: Full=DNA methylase {ECO:0000313|EMBL:QFS84607.1};
+Bit Score: 111.0
+E-value: 0.0243
+Alignment Length: 74
+Percentage Identity: 0.135
+
+=== A0A2W2DN03 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PZF98516.1};
+Bit Score: 136.0
+E-value: 0.02566
+Alignment Length: 71
+Percentage Identity: 0.211
+
+=== A0A292Z6K6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAY11793.1};
+Bit Score: 134.0
+E-value: 0.0271
+Alignment Length: 71
+Percentage Identity: 0.14
+
+=== L2GNF2 ===
+DE   RecName: Full=Translation initiation factor 5A-like N-terminal domain-containing protein {ECO:0000259|Pfam:PF21485};
+Bit Score: 126.0
+E-value: 0.02862
+Alignment Length: 76
+Percentage Identity: 0.131
+
+=== A0A1Q5Q3I8 ===
+DE   SubName: Full=Restriction endonuclease subunit M {ECO:0000313|EMBL:OKL54345.1};
+Bit Score: 107.0
+E-value: 0.02862
+Alignment Length: 73
+Percentage Identity: 0.136
+
+=== A0A2H6B6V3 ===
+DE   SubName: Full=Signal peptidase I W {ECO:0000313|EMBL:GBD45917.1};
+DE            EC=3.4.21.89 {ECO:0000313|EMBL:GBD45917.1};
+Bit Score: 151.0
+E-value: 0.03022
+Alignment Length: 71
+Percentage Identity: 0.112
+
+=== A0A6J7XYD3 ===
+DE   SubName: Full=Unannotated protein {ECO:0000313|EMBL:CAB5240967.1};
+Bit Score: 136.0
+E-value: 0.03022
+Alignment Length: 71
+Percentage Identity: 0.211
+
+=== A0A292Z026 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAY11770.1};
+Bit Score: 132.0
+E-value: 0.03022
+Alignment Length: 71
+Percentage Identity: 0.14
+
+=== A0A6I2VD39 ===
+DE   SubName: Full=Signal peptidase I {ECO:0000313|EMBL:MSV46302.1};
+DE            EC=3.4.21.89 {ECO:0000313|EMBL:MSV46302.1};
+Bit Score: 149.0
+E-value: 0.03191
+Alignment Length: 71
+Percentage Identity: 0.126
+
+=== H5UR94 ===
+DE   SubName: Full=Putative restriction-modification system DNA methylase {ECO:0000313|EMBL:GAB48252.1};
+Bit Score: 106.0
+E-value: 0.03191
+Alignment Length: 76
+Percentage Identity: 0.197
+
+=== F9NVK9 ===
+DE   SubName: Full=DNA (Cytosine-5-)-methyltransferase {ECO:0000313|EMBL:EGR97015.1};
+Bit Score: 97.0
+E-value: 0.0337
+Alignment Length: 75
+Percentage Identity: 0.16
+
+=== D5UR96 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ADG79085.1};
+Bit Score: 152.0
+E-value: 0.03968
+Alignment Length: 74
+Percentage Identity: 0.162
+
+=== A0A2W7QI86 ===
+DE   SubName: Full=Adenine-specific DNA-methyltransferase {ECO:0000313|EMBL:PZX47036.1};
+Bit Score: 99.0
+E-value: 0.03968
+Alignment Length: 78
+Percentage Identity: 0.166
+
+=== A0A2P8CDL3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:PSK83054.1};
+Bit Score: 157.0
+E-value: 0.04425
+Alignment Length: 70
+Percentage Identity: 0.128
+
+=== A0A538FPE3 ===
+DE   SubName: Full=Signal peptidase I {ECO:0000313|EMBL:TML42654.1};
+DE            EC=3.4.21.89 {ECO:0000313|EMBL:TML42654.1};
+Bit Score: 140.0
+E-value: 0.04425
+Alignment Length: 71
+Percentage Identity: 0.112
+
+=== A0A6J6INZ8 ===
+DE   SubName: Full=Unannotated protein {ECO:0000313|EMBL:CAB4626068.1};
+Bit Score: 138.0
+E-value: 0.04425
+Alignment Length: 71
+Percentage Identity: 0.154
+
+=== A0A7S3FHB8 ===
+DE   RecName: Full=Translation elongation factor IF5A C-terminal domain-containing protein {ECO:0000259|SMART:SM01376};
+Bit Score: 116.0
+E-value: 0.04425
+Alignment Length: 75
+Percentage Identity: 0.173
+
+=== B8HEE1 ===
+DE   SubName: Full=Peptidase S26B, signal peptidase {ECO:0000313|EMBL:ACL40886.1};
+Bit Score: 134.0
+E-value: 0.04673
+Alignment Length: 70
+Percentage Identity: 0.142
+
+=== A0A1G8P034 ===
+DE   SubName: Full=Signal peptidase I {ECO:0000313|EMBL:SDI85901.1};
+Bit Score: 146.0
+E-value: 0.04934
+Alignment Length: 68
+Percentage Identity: 0.117
+
+=== A0A852VE11 ===
+DE   SubName: Full=Adenine-specific DNA-methyltransferase {ECO:0000313|EMBL:NYF89920.1};
+DE            EC=2.1.1.72 {ECO:0000313|EMBL:NYF89920.1};
+Bit Score: 96.0
+E-value: 0.04934
+Alignment Length: 75
+Percentage Identity: 0.133
+

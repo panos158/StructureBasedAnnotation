@@ -1,0 +1,7 @@
+=== A0A4Q3H2Z1 ===
+DE   RecName: Full=DUF3108 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.01367
+Alignment Length: 81
+Percentage Identity: 0.123
+

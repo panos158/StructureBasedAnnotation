@@ -1,0 +1,56 @@
+=== K1YBG7 ===
+DE   RecName: Full=SH3 fold domain-containing protein {ECO:0000259|Pfam:PF20287};
+Bit Score: 432.0
+E-value: 2.472e-12
+Alignment Length: 136
+Percentage Identity: 0.308
+
+=== A0A7W8PCN7 ===
+DE   RecName: Full=SH3 fold domain-containing protein {ECO:0000259|Pfam:PF20287};
+Bit Score: 371.0
+E-value: 3.79e-11
+Alignment Length: 138
+Percentage Identity: 0.318
+
+=== A0A5U8XTY5 ===
+DE   RecName: Full=SH3 fold domain-containing protein {ECO:0000259|Pfam:PF20287};
+Bit Score: 343.0
+E-value: 9.547e-10
+Alignment Length: 133
+Percentage Identity: 0.24
+
+=== K2CA55 ===
+DE   RecName: Full=SH3 fold domain-containing protein {ECO:0000259|Pfam:PF20287};
+Bit Score: 310.0
+E-value: 1.558e-08
+Alignment Length: 130
+Percentage Identity: 0.207
+
+=== A0A2E8I659 ===
+DE   RecName: Full=SH3 fold domain-containing protein {ECO:0000259|Pfam:PF20287};
+Bit Score: 240.0
+E-value: 6.445e-07
+Alignment Length: 106
+Percentage Identity: 0.349
+
+=== A0A843H900 ===
+DE   RecName: Full=SH3 fold domain-containing protein {ECO:0000259|Pfam:PF20287};
+Bit Score: 160.0
+E-value: 0.0002199
+Alignment Length: 142
+Percentage Identity: 0.14
+
+=== A0A7W8URR1 ===
+DE   RecName: Full=DUF1983 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 102.0
+E-value: 0.00627
+Alignment Length: 149
+Percentage Identity: 0.134
+
+=== A0A2E8I6H4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MBQ50311.1};
+Bit Score: 74.0
+E-value: 0.04566
+Alignment Length: 153
+Percentage Identity: 0.104
+

@@ -1,0 +1,4198 @@
+=== A0A5Q0BKL6 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QFY42761.1};
+Bit Score: 394.0
+E-value: 9.75e-10
+Alignment Length: 87
+Percentage Identity: 0.459
+
+=== A0A5Q0BLC4 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 393.0
+E-value: 1.04e-09
+Alignment Length: 87
+Percentage Identity: 0.459
+
+=== A0A0C1INV6 ===
+DE   RecName: Full=PAAR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 390.0
+E-value: 1.04e-09
+Alignment Length: 88
+Percentage Identity: 0.42
+
+=== A0A1H9GDS4 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SEQ48234.1};
+Bit Score: 390.0
+E-value: 1.261e-09
+Alignment Length: 87
+Percentage Identity: 0.413
+
+=== A0A382L581 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SVC30975.1};
+DE   Flags: Fragment;
+Bit Score: 334.0
+E-value: 5.528e-09
+Alignment Length: 91
+Percentage Identity: 0.373
+
+=== A0A7G2RQ47 ===
+DE   RecName: Full=PaaR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 357.0
+E-value: 8.669e-09
+Alignment Length: 90
+Percentage Identity: 0.366
+
+=== A0A5N3PH52 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 350.0
+E-value: 1.275e-08
+Alignment Length: 90
+Percentage Identity: 0.388
+
+=== A0A143DC85 ===
+DE   RecName: Full=Thioesterase domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 312.0
+E-value: 8.218e-08
+Alignment Length: 89
+Percentage Identity: 0.348
+
+=== A0A0G9K5R6 ===
+DE   RecName: Full=PAAR motif protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 314.0
+E-value: 1.209e-07
+Alignment Length: 88
+Percentage Identity: 0.397
+
+=== A0A1Z9PND0 ===
+DE   RecName: Full=PaaR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 283.0
+E-value: 7.792e-07
+Alignment Length: 88
+Percentage Identity: 0.306
+
+=== A0A2E6ZIE5 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 269.0
+E-value: 1.389e-06
+Alignment Length: 90
+Percentage Identity: 0.322
+
+=== A0A2D8EIK2 ===
+DE   SubName: Full=PaaR repeat-containing protein {ECO:0000313|EMBL:MAL42755.1};
+Bit Score: 270.0
+E-value: 1.685e-06
+Alignment Length: 89
+Percentage Identity: 0.348
+
+=== A0A0F9THL7 ===
+DE   RecName: Full=PaaR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 219.0
+E-value: 1.937e-05
+Alignment Length: 93
+Percentage Identity: 0.268
+
+=== A0A1I1KDF3 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SFC58515.1};
+Bit Score: 209.0
+E-value: 1.937e-05
+Alignment Length: 89
+Percentage Identity: 0.269
+
+=== A0A3S0Y0V2 ===
+DE   SubName: Full=S-type pyocin domain-containing protein {ECO:0000313|EMBL:QPK23335.1};
+Bit Score: 211.0
+E-value: 2.505e-05
+Alignment Length: 98
+Percentage Identity: 0.306
+
+=== A0A2D8AUA6 ===
+DE   RecName: Full=PaaR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 233.0
+E-value: 2.671e-05
+Alignment Length: 89
+Percentage Identity: 0.303
+
+=== A0A104V3S8 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:KAB0641355.1};
+Bit Score: 202.0
+E-value: 3.037e-05
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== A0A2A5EJP5 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 223.0
+E-value: 3.239e-05
+Alignment Length: 90
+Percentage Identity: 0.3
+
+=== A0A1B4PTW6 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 203.0
+E-value: 3.454e-05
+Alignment Length: 89
+Percentage Identity: 0.224
+
+=== A0A2A7SF87 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 192.0
+E-value: 3.454e-05
+Alignment Length: 90
+Percentage Identity: 0.233
+
+=== A0A562R8T7 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:TWI65479.1};
+Bit Score: 212.0
+E-value: 3.683e-05
+Alignment Length: 89
+Percentage Identity: 0.292
+
+=== A0A7C2HRG1 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:HEL32141.1};
+Bit Score: 201.0
+E-value: 3.683e-05
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== D8P339 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 201.0
+E-value: 3.928e-05
+Alignment Length: 89
+Percentage Identity: 0.303
+
+=== A6F4R9 ===
+DE   RecName: Full=PAAR {ECO:0008006|Google:ProtNLM};
+Bit Score: 208.0
+E-value: 4.466e-05
+Alignment Length: 94
+Percentage Identity: 0.212
+
+=== A0A1S9IUZ7 ===
+DE   RecName: Full=Type VI secretion system PAAR protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 205.0
+E-value: 5.775e-05
+Alignment Length: 95
+Percentage Identity: 0.252
+
+=== A0A2G3JAT9 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 188.0
+E-value: 5.775e-05
+Alignment Length: 95
+Percentage Identity: 0.231
+
+=== A0A3M2BNA5 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 202.0
+E-value: 6.568e-05
+Alignment Length: 95
+Percentage Identity: 0.231
+
+=== A0A1Y6BHX0 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SMF12619.1};
+Bit Score: 194.0
+E-value: 7.003e-05
+Alignment Length: 88
+Percentage Identity: 0.227
+
+=== A0A6A7SC21 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 207.0
+E-value: 7.468e-05
+Alignment Length: 86
+Percentage Identity: 0.232
+
+=== H1SB89 ===
+DE   RecName: Full=PAAR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 201.0
+E-value: 7.468e-05
+Alignment Length: 89
+Percentage Identity: 0.258
+
+=== A0A2S5DU58 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:RQT04943.1};
+DE   SubName: Full=PAAR motif-containing protein {ECO:0000313|EMBL:VWD23330.1};
+Bit Score: 193.0
+E-value: 7.468e-05
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== A0A3S8ZNT3 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:AZN35136.1};
+Bit Score: 179.0
+E-value: 7.468e-05
+Alignment Length: 95
+Percentage Identity: 0.252
+
+=== A0A521ZK59 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 189.0
+E-value: 7.964e-05
+Alignment Length: 87
+Percentage Identity: 0.264
+
+=== A0A1X3RWW9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OSN06470.1};
+Bit Score: 203.0
+E-value: 8.493e-05
+Alignment Length: 100
+Percentage Identity: 0.27
+
+=== A0A1R0FTY5 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:MBD3124304.1};
+Bit Score: 195.0
+E-value: 8.493e-05
+Alignment Length: 86
+Percentage Identity: 0.232
+
+=== A0A352IQE5 ===
+DE   SubName: Full=Type VI secretion system PAAR protein {ECO:0000313|EMBL:HBC33678.1};
+Bit Score: 198.0
+E-value: 0.000103
+Alignment Length: 94
+Percentage Identity: 0.212
+
+=== A0A4Y9RN68 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:TFW06481.1};
+Bit Score: 186.0
+E-value: 0.000103
+Alignment Length: 102
+Percentage Identity: 0.196
+
+=== A0A4Y9R6J5 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:TFV99502.1};
+Bit Score: 184.0
+E-value: 0.0001098
+Alignment Length: 95
+Percentage Identity: 0.221
+
+=== A0A2G6CCP3 ===
+DE   RecName: Full=PaaR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 203.0
+E-value: 0.0001171
+Alignment Length: 97
+Percentage Identity: 0.247
+
+=== A0A1Y6IVS5 ===
+DE   SubName: Full=PAAR motif protein {ECO:0000313|EMBL:SMS01775.1};
+Bit Score: 198.0
+E-value: 0.0001171
+Alignment Length: 95
+Percentage Identity: 0.221
+
+=== A0A1B8YLB3 ===
+DE   SubName: Full=PAAR motif protein {ECO:0000313|EMBL:OCA55954.1};
+Bit Score: 188.0
+E-value: 0.0001171
+Alignment Length: 94
+Percentage Identity: 0.234
+
+=== A0A291LZ53 ===
+DE   RecName: Full=PaaR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 183.0
+E-value: 0.0001171
+Alignment Length: 99
+Percentage Identity: 0.232
+
+=== A0A0P7Y9D4 ===
+DE   RecName: Full=Tle1 phospholipase domain-containing protein {ECO:0000259|Pfam:PF09994};
+Bit Score: 197.0
+E-value: 0.0001249
+Alignment Length: 94
+Percentage Identity: 0.223
+
+=== A0A0J7JD46 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain, involved in TypeVI secretion {ECO:0000313|EMBL:KMQ76022.1};
+Bit Score: 197.0
+E-value: 0.0001249
+Alignment Length: 94
+Percentage Identity: 0.212
+
+=== A0A2X0WZL5 ===
+DE   SubName: Full=Uncharacterized conserved protein {ECO:0000313|EMBL:SPT70981.1};
+Bit Score: 196.0
+E-value: 0.0001249
+Alignment Length: 97
+Percentage Identity: 0.278
+
+=== A0A7X2IHB2 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:MRT31731.1};
+Bit Score: 196.0
+E-value: 0.0001249
+Alignment Length: 84
+Percentage Identity: 0.19
+
+=== A0A3T0CTX0 ===
+DE   SubName: Full=Type VI secretion system PAAR protein {ECO:0000313|EMBL:AZT83658.1};
+Bit Score: 194.0
+E-value: 0.0001249
+Alignment Length: 94
+Percentage Identity: 0.212
+
+=== A0A843YKC7 ===
+DE   SubName: Full=Type VI secretion system PAAR protein {ECO:0000313|EMBL:MQQ10278.1};
+Bit Score: 194.0
+E-value: 0.0001249
+Alignment Length: 97
+Percentage Identity: 0.206
+
+=== N6W5J5 ===
+DE   SubName: Full=Type VI secretion system PAAR protein {ECO:0000313|EMBL:ENO15489.2};
+Bit Score: 191.0
+E-value: 0.0001249
+Alignment Length: 94
+Percentage Identity: 0.17
+
+=== A0A1K0J8Q7 ===
+DE   SubName: Full=PAAR repeat-containing protein {ECO:0000313|EMBL:SCU74304.1};
+Bit Score: 176.0
+E-value: 0.0001249
+Alignment Length: 90
+Percentage Identity: 0.288
+
+=== A0A382F3I5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SVB57192.1};
+Bit Score: 196.0
+E-value: 0.0001332
+Alignment Length: 96
+Percentage Identity: 0.25
+
+=== A0A1N6M042 ===
+DE   SubName: Full=Putative deoxyribonuclease RhsA {ECO:0000313|EMBL:SIO92809.1};
+DE            EC=3.1.-.- {ECO:0000313|EMBL:SIO92809.1};
+Bit Score: 189.0
+E-value: 0.0001332
+Alignment Length: 101
+Percentage Identity: 0.257
+
+=== A0A0J7JE83 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain, involved in TypeVI secretion {ECO:0000313|EMBL:KMQ76091.1};
+Bit Score: 194.0
+E-value: 0.0001514
+Alignment Length: 94
+Percentage Identity: 0.223
+
+=== A0A2N7VBB7 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 192.0
+E-value: 0.0001514
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== A0A2J8HCH6 ===
+DE   SubName: Full=3-deoxy-manno-octulosonate-8-phosphatase {ECO:0000313|EMBL:PNI04051.1};
+Bit Score: 186.0
+E-value: 0.0001514
+Alignment Length: 96
+Percentage Identity: 0.26
+
+=== A0A2X3CLN4 ===
+DE   SubName: Full=PaaR repeat-containing protein {ECO:0000313|EMBL:SQC14013.1};
+Bit Score: 182.0
+E-value: 0.0001514
+Alignment Length: 83
+Percentage Identity: 0.301
+
+=== A0A0P9KII2 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 180.0
+E-value: 0.0001514
+Alignment Length: 89
+Percentage Identity: 0.235
+
+=== A0A455UF12 ===
+DE   RecName: Full=Type VI secretion system PAAR protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 174.0
+E-value: 0.0001514
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A8GCQ9 ===
+DE   SubName: Full=PAAR repeat-containing protein {ECO:0000313|EMBL:ABV40899.1};
+Bit Score: 187.0
+E-value: 0.0001836
+Alignment Length: 91
+Percentage Identity: 0.274
+
+=== A0A3D2A6T2 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 178.0
+E-value: 0.0001836
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== A0A4R7BAF8 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:TDR81894.1};
+Bit Score: 161.0
+E-value: 0.0001836
+Alignment Length: 90
+Percentage Identity: 0.233
+
+=== A0A7X3K7G4 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 177.0
+E-value: 0.0001958
+Alignment Length: 87
+Percentage Identity: 0.275
+
+=== A0A228HQ69 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 190.0
+E-value: 0.0002088
+Alignment Length: 90
+Percentage Identity: 0.3
+
+=== A0A6N7AIV8 ===
+DE   SubName: Full=PAAR repeat-containing protein {ECO:0000313|EMBL:KAF0113227.1};
+Bit Score: 188.0
+E-value: 0.0002088
+Alignment Length: 99
+Percentage Identity: 0.242
+
+=== A0A4Y9RQB9 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:TFW11527.1};
+Bit Score: 180.0
+E-value: 0.0002088
+Alignment Length: 87
+Percentage Identity: 0.241
+
+=== A0A3M6CCB7 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 179.0
+E-value: 0.0002088
+Alignment Length: 86
+Percentage Identity: 0.232
+
+=== A0A0J6NGM0 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 178.0
+E-value: 0.0002088
+Alignment Length: 89
+Percentage Identity: 0.224
+
+=== H9BQU0 ===
+DE   RecName: Full=PAAR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 174.0
+E-value: 0.0002088
+Alignment Length: 89
+Percentage Identity: 0.191
+
+=== A0A1B9P947 ===
+DE   RecName: Full=Type VI secretion system PAAR protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 161.0
+E-value: 0.0002088
+Alignment Length: 92
+Percentage Identity: 0.217
+
+=== A0A6N7VZ11 ===
+DE   RecName: Full=PAAR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 185.0
+E-value: 0.0002227
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== W5YGT5 ===
+DE   SubName: Full=Membrane protein {ECO:0000313|EMBL:AHI28240.1};
+Bit Score: 184.0
+E-value: 0.0002227
+Alignment Length: 94
+Percentage Identity: 0.234
+
+=== A0A6H0J001 ===
+DE   RecName: Full=Tle1 phospholipase domain-containing protein {ECO:0000259|Pfam:PF09994};
+Bit Score: 183.0
+E-value: 0.0002227
+Alignment Length: 97
+Percentage Identity: 0.257
+
+=== A0A8B2NVB1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RAI01103.1};
+Bit Score: 182.0
+E-value: 0.0002227
+Alignment Length: 86
+Percentage Identity: 0.267
+
+=== A0A2E3JRI7 ===
+DE   RecName: Full=PaaR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 177.0
+E-value: 0.0002227
+Alignment Length: 88
+Percentage Identity: 0.318
+
+=== A0A1B9M886 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 172.0
+E-value: 0.0002227
+Alignment Length: 82
+Percentage Identity: 0.256
+
+=== A0A845G6P4 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:MYM88607.1};
+Bit Score: 169.0
+E-value: 0.0002227
+Alignment Length: 93
+Percentage Identity: 0.258
+
+=== A0A4R6R6P9 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:TDP81217.1};
+Bit Score: 169.0
+E-value: 0.0002227
+Alignment Length: 87
+Percentage Identity: 0.229
+
+=== A0A142FZF1 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:TYA34832.1};
+Bit Score: 163.0
+E-value: 0.0002227
+Alignment Length: 84
+Percentage Identity: 0.261
+
+=== A0A137SEV5 ===
+DE   SubName: Full=Uropathogenic specific protein {ECO:0000313|EMBL:KXO10955.1};
+Bit Score: 189.0
+E-value: 0.0002375
+Alignment Length: 94
+Percentage Identity: 0.234
+
+=== U7P0V3 ===
+DE   SubName: Full=Membrane protein {ECO:0000313|EMBL:ERS89152.1};
+Bit Score: 189.0
+E-value: 0.0002375
+Alignment Length: 94
+Percentage Identity: 0.234
+
+=== A0A7X4LMG7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MZI94708.1};
+Bit Score: 188.0
+E-value: 0.0002375
+Alignment Length: 101
+Percentage Identity: 0.257
+
+=== A0A455W3L2 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 180.0
+E-value: 0.0002375
+Alignment Length: 82
+Percentage Identity: 0.207
+
+=== A0A7X2ISJ2 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:MRV75296.1};
+Bit Score: 175.0
+E-value: 0.0002375
+Alignment Length: 88
+Percentage Identity: 0.261
+
+=== A0A1A7C3U1 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, involved in TypeVI secretion {ECO:0000313|EMBL:OBV39395.1};
+Bit Score: 174.0
+E-value: 0.0002375
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== A0A1G7U201 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SDG40820.1};
+Bit Score: 172.0
+E-value: 0.0002375
+Alignment Length: 90
+Percentage Identity: 0.277
+
+=== A0A3N8BM90 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:RQR33467.1};
+Bit Score: 164.0
+E-value: 0.0002375
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A853J856 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:NZA24924.1};
+Bit Score: 150.0
+E-value: 0.0002375
+Alignment Length: 94
+Percentage Identity: 0.223
+
+=== A0A1H4DJT9 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SEA73041.1};
+DE   Flags: Fragment;
+Bit Score: 188.0
+E-value: 0.0002532
+Alignment Length: 100
+Percentage Identity: 0.26
+
+=== J2VFN4 ===
+DE   RecName: Full=PAAR motif protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 188.0
+E-value: 0.0002532
+Alignment Length: 99
+Percentage Identity: 0.202
+
+=== A0A2H9U670 ===
+DE   RecName: Full=Type VI secretion system PAAR protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 186.0
+E-value: 0.0002532
+Alignment Length: 94
+Percentage Identity: 0.244
+
+=== A0A515EPU0 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QDL54691.1};
+Bit Score: 184.0
+E-value: 0.0002532
+Alignment Length: 92
+Percentage Identity: 0.293
+
+=== A0A2J8GZT3 ===
+DE   RecName: Full=Type VI secretion system PAAR protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 180.0
+E-value: 0.0002532
+Alignment Length: 97
+Percentage Identity: 0.237
+
+=== A0A1S1N9X0 ===
+DE   RecName: Full=Type VI secretion protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 179.0
+E-value: 0.0002532
+Alignment Length: 100
+Percentage Identity: 0.25
+
+=== A0A4V3AUX6 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:TDK67128.1};
+Bit Score: 161.0
+E-value: 0.0002532
+Alignment Length: 83
+Percentage Identity: 0.289
+
+=== A0A1Y6IXT7 ===
+DE   SubName: Full=PAAR motif protein {ECO:0000313|EMBL:SMS02505.1};
+Bit Score: 184.0
+E-value: 0.00027
+Alignment Length: 100
+Percentage Identity: 0.26
+
+=== A0A119A801 ===
+DE   RecName: Full=PAAR motif protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 178.0
+E-value: 0.00027
+Alignment Length: 88
+Percentage Identity: 0.25
+
+=== A0A1I4GB70 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SFL27099.1};
+Bit Score: 174.0
+E-value: 0.00027
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== A0A2N0VXF5 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 171.0
+E-value: 0.00027
+Alignment Length: 89
+Percentage Identity: 0.258
+
+=== A0A0N0XK32 ===
+DE   RecName: Full=PAAR motif protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 173.0
+E-value: 0.000288
+Alignment Length: 89
+Percentage Identity: 0.202
+
+=== I0GRI9 ===
+DE   RecName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0008006|Google:ProtNLM};
+Bit Score: 186.0
+E-value: 0.0003071
+Alignment Length: 97
+Percentage Identity: 0.226
+
+=== A0A7V8IKX5 ===
+DE   SubName: Full=PAAR repeat-containing protein {ECO:0000313|EMBL:KHN52377.1};
+Bit Score: 183.0
+E-value: 0.0003071
+Alignment Length: 93
+Percentage Identity: 0.204
+
+=== A0A0P7Z7I3 ===
+DE   RecName: Full=Tle1 phospholipase domain-containing protein {ECO:0000259|Pfam:PF09994};
+DE   Flags: Fragment;
+Bit Score: 182.0
+E-value: 0.0003071
+Alignment Length: 94
+Percentage Identity: 0.212
+
+=== A0A242NJ98 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 175.0
+E-value: 0.0003071
+Alignment Length: 86
+Percentage Identity: 0.186
+
+=== A0A4R5LDM5 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:TDG06239.1};
+Bit Score: 143.0
+E-value: 0.0003071
+Alignment Length: 86
+Percentage Identity: 0.267
+
+=== A0A3D5Q713 ===
+DE   SubName: Full=Type VI secretion system PAAR protein {ECO:0000313|EMBL:HCW91474.1};
+DE   Flags: Fragment;
+Bit Score: 184.0
+E-value: 0.0003275
+Alignment Length: 94
+Percentage Identity: 0.223
+
+=== A0A0D6AS94 ===
+DE   SubName: Full=Unncharacterized conserved protein {ECO:0000313|EMBL:BAQ65540.1};
+Bit Score: 177.0
+E-value: 0.0003275
+Alignment Length: 88
+Percentage Identity: 0.25
+
+=== A0A2D0AEF3 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 166.0
+E-value: 0.0003275
+Alignment Length: 89
+Percentage Identity: 0.179
+
+=== A0A2P8VM42 ===
+DE   RecName: Full=DUF3289 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 183.0
+E-value: 0.0003492
+Alignment Length: 100
+Percentage Identity: 0.28
+
+=== A0A2E3N1L1 ===
+DE   RecName: Full=PaaR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 178.0
+E-value: 0.0003492
+Alignment Length: 89
+Percentage Identity: 0.235
+
+=== E0SMD9 ===
+DE   SubName: Full=Uropathogenic specific protein {ECO:0000313|EMBL:ADN00578.1};
+Bit Score: 178.0
+E-value: 0.0003492
+Alignment Length: 100
+Percentage Identity: 0.23
+
+=== A0A6I6EY57 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QGU89183.1};
+Bit Score: 163.0
+E-value: 0.0003492
+Alignment Length: 89
+Percentage Identity: 0.224
+
+=== A0A3M5AYR0 ===
+DE   RecName: Full=PAAR motif protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 159.0
+E-value: 0.0003492
+Alignment Length: 85
+Percentage Identity: 0.27
+
+=== A0A4Y6KR80 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 186.0
+E-value: 0.0003724
+Alignment Length: 89
+Percentage Identity: 0.258
+
+=== E2CL38 ===
+DE   SubName: Full=Paar repeat-containing protein {ECO:0000313|EMBL:EFO30237.1};
+Bit Score: 183.0
+E-value: 0.0003724
+Alignment Length: 96
+Percentage Identity: 0.229
+
+=== A0A1E4VNI0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OEC43541.1};
+Bit Score: 183.0
+E-value: 0.0003724
+Alignment Length: 94
+Percentage Identity: 0.212
+
+=== A0A2E2KIQ9 ===
+DE   RecName: Full=Type VI secretion system PAAR protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 182.0
+E-value: 0.0003724
+Alignment Length: 95
+Percentage Identity: 0.252
+
+=== A0A1M7YUH6 ===
+DE   SubName: Full=PAAR motif protein {ECO:0000313|EMBL:SHO56146.1};
+Bit Score: 181.0
+E-value: 0.0003724
+Alignment Length: 95
+Percentage Identity: 0.2
+
+=== A0A855ME72 ===
+DE   SubName: Full=PAAR repeat-containing protein {ECO:0000313|EMBL:POY49616.1};
+Bit Score: 173.0
+E-value: 0.0003724
+Alignment Length: 93
+Percentage Identity: 0.258
+
+=== A0A1M7YRF2 ===
+DE   SubName: Full=Putative deoxyribonuclease RhsA {ECO:0000313|EMBL:SHO55211.1};
+DE            EC=3.1.-.- {ECO:0000313|EMBL:SHO55211.1};
+Bit Score: 172.0
+E-value: 0.0003724
+Alignment Length: 101
+Percentage Identity: 0.247
+
+=== A0A2N9XXG3 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 169.0
+E-value: 0.0003724
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A3D2A6N9 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 169.0
+E-value: 0.0003724
+Alignment Length: 89
+Percentage Identity: 0.191
+
+=== K1YLL2 ===
+DE   RecName: Full=PAAR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 166.0
+E-value: 0.0003724
+Alignment Length: 85
+Percentage Identity: 0.211
+
+=== A0A6N6VUF6 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 158.0
+E-value: 0.0003724
+Alignment Length: 87
+Percentage Identity: 0.264
+
+=== A0A4Y8N5P6 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:TFE44922.1};
+Bit Score: 155.0
+E-value: 0.0003724
+Alignment Length: 94
+Percentage Identity: 0.223
+
+=== A0A024HII5 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 179.0
+E-value: 0.0003971
+Alignment Length: 91
+Percentage Identity: 0.263
+
+=== A0A0N0GPK3 ===
+DE   RecName: Full=PAAR motif protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 169.0
+E-value: 0.0003971
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A2K4MK64 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 163.0
+E-value: 0.0003971
+Alignment Length: 101
+Percentage Identity: 0.178
+
+=== A0A699GEH9 ===
+DE   RecName: Full=PAAR motif-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 160.0
+E-value: 0.0003971
+Alignment Length: 86
+Percentage Identity: 0.255
+
+=== A0A829HHA1 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 160.0
+E-value: 0.0003971
+Alignment Length: 88
+Percentage Identity: 0.25
+
+=== A0A2D7IDC4 ===
+DE   RecName: Full=PaaR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 160.0
+E-value: 0.0003971
+Alignment Length: 94
+Percentage Identity: 0.244
+
+=== A0A2S7EPN5 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 159.0
+E-value: 0.0003971
+Alignment Length: 94
+Percentage Identity: 0.223
+
+=== A0A166E5H4 ===
+DE   RecName: Full=PAAR motif protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 185.0
+E-value: 0.0004234
+Alignment Length: 97
+Percentage Identity: 0.237
+
+=== A0A1L4CY10 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 175.0
+E-value: 0.0004234
+Alignment Length: 81
+Percentage Identity: 0.296
+
+=== E0MRH2 ===
+DE   SubName: Full=Paar repeat-containing protein {ECO:0000313|EMBL:EFL88273.1};
+Bit Score: 173.0
+E-value: 0.0004234
+Alignment Length: 90
+Percentage Identity: 0.244
+
+=== A0A1M7Z3E2 ===
+DE   SubName: Full=PAAR motif protein {ECO:0000313|EMBL:SHO59176.1};
+Bit Score: 171.0
+E-value: 0.0004234
+Alignment Length: 101
+Percentage Identity: 0.247
+
+=== A0A1B9JV34 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 169.0
+E-value: 0.0004234
+Alignment Length: 88
+Percentage Identity: 0.193
+
+=== A0A5C1NPP2 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QEM83769.1};
+Bit Score: 159.0
+E-value: 0.0004234
+Alignment Length: 90
+Percentage Identity: 0.233
+
+=== A0A430RFB2 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 157.0
+E-value: 0.0004234
+Alignment Length: 87
+Percentage Identity: 0.264
+
+=== A0A7V8PQI2 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:MBA0169498.1};
+DE   Flags: Fragment;
+Bit Score: 177.0
+E-value: 0.0004515
+Alignment Length: 100
+Percentage Identity: 0.29
+
+=== A0A2E4W777 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 176.0
+E-value: 0.0004515
+Alignment Length: 98
+Percentage Identity: 0.234
+
+=== A0A258L6R4 ===
+DE   RecName: Full=PaaR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 175.0
+E-value: 0.0004515
+Alignment Length: 89
+Percentage Identity: 0.269
+
+=== A4SL78 ===
+DE   RecName: Full=Type VI secretion system PAAR protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 174.0
+E-value: 0.0004515
+Alignment Length: 95
+Percentage Identity: 0.252
+
+=== A0A1K2HSI7 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SFZ79521.1};
+Bit Score: 173.0
+E-value: 0.0004515
+Alignment Length: 85
+Percentage Identity: 0.235
+
+=== A1K523 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 168.0
+E-value: 0.0004515
+Alignment Length: 89
+Percentage Identity: 0.269
+
+=== A0A7Y6CY13 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:NUT61312.1};
+Bit Score: 162.0
+E-value: 0.0004515
+Alignment Length: 92
+Percentage Identity: 0.217
+
+=== A0A6L6PK40 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:MTV39333.1};
+Bit Score: 161.0
+E-value: 0.0004515
+Alignment Length: 93
+Percentage Identity: 0.236
+
+=== A0A1T4SFB7 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SKA26882.1};
+Bit Score: 156.0
+E-value: 0.0004515
+Alignment Length: 94
+Percentage Identity: 0.244
+
+=== A0A1V5QGD8 ===
+DE   SubName: Full=PAAR motif protein {ECO:0000313|EMBL:OQA28973.1};
+Bit Score: 165.0
+E-value: 0.0004815
+Alignment Length: 83
+Percentage Identity: 0.253
+
+=== A0A2S7TS91 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 161.0
+E-value: 0.0004815
+Alignment Length: 90
+Percentage Identity: 0.233
+
+=== A0A848MNY9 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:NMP28886.1};
+Bit Score: 160.0
+E-value: 0.0004815
+Alignment Length: 89
+Percentage Identity: 0.179
+
+=== A0A5B8RJX6 ===
+DE   RecName: Full=PAAR motif {ECO:0008006|Google:ProtNLM};
+Bit Score: 158.0
+E-value: 0.0004815
+Alignment Length: 88
+Percentage Identity: 0.238
+
+=== A0A160FQD8 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 178.0
+E-value: 0.0005135
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== A0A1R4LHG0 ===
+DE   SubName: Full=PAAR motif protein {ECO:0000313|EMBL:SJN56012.1};
+Bit Score: 173.0
+E-value: 0.0005135
+Alignment Length: 97
+Percentage Identity: 0.237
+
+=== A0A4S4B8Z5 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:THF69538.1};
+Bit Score: 173.0
+E-value: 0.0005476
+Alignment Length: 90
+Percentage Identity: 0.244
+
+=== A0A349L6W9 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 170.0
+E-value: 0.0005476
+Alignment Length: 85
+Percentage Identity: 0.247
+
+=== A0A3M2WUY6 ===
+DE   RecName: Full=PAAR-like protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 169.0
+E-value: 0.0005476
+Alignment Length: 85
+Percentage Identity: 0.27
+
+=== A0A1M5XD88 ===
+DE   SubName: Full=PAAR motif protein {ECO:0000313|EMBL:SHH97817.1};
+Bit Score: 169.0
+E-value: 0.0005476
+Alignment Length: 101
+Percentage Identity: 0.257
+
+=== A0A6C2CFM3 ===
+DE   SubName: Full=PaaR repeat-containing protein {ECO:0000313|EMBL:TYC52422.1};
+Bit Score: 167.0
+E-value: 0.0005476
+Alignment Length: 93
+Percentage Identity: 0.322
+
+=== A0A0N0XJT6 ===
+DE   RecName: Full=PAAR motif protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 157.0
+E-value: 0.0005476
+Alignment Length: 88
+Percentage Identity: 0.25
+
+=== A0A1B2F990 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 153.0
+E-value: 0.0005476
+Alignment Length: 90
+Percentage Identity: 0.266
+
+=== A0A7Z2VZ36 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QJE02078.1};
+Bit Score: 157.0
+E-value: 0.0005839
+Alignment Length: 90
+Percentage Identity: 0.266
+
+=== A0A6P2ID57 ===
+DE   SubName: Full=PAAR repeat-containing protein {ECO:0000313|EMBL:VWB28604.1};
+Bit Score: 144.0
+E-value: 0.0005839
+Alignment Length: 83
+Percentage Identity: 0.253
+
+=== A0A3L6M1C4 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:RIX48215.1};
+Bit Score: 141.0
+E-value: 0.0005839
+Alignment Length: 102
+Percentage Identity: 0.215
+
+=== A0A7X7BVW6 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:NLD09693.1};
+Bit Score: 175.0
+E-value: 0.0006227
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A1N6FTY4 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SIN98682.1};
+Bit Score: 168.0
+E-value: 0.0006227
+Alignment Length: 101
+Percentage Identity: 0.257
+
+=== A0A430R4X5 ===
+DE   RecName: Full=PAAR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 166.0
+E-value: 0.0006227
+Alignment Length: 88
+Percentage Identity: 0.261
+
+=== U5QLI3 ===
+DE   RecName: Full=PAAR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 160.0
+E-value: 0.0006227
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A1F3X6X5 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 157.0
+E-value: 0.0006227
+Alignment Length: 88
+Percentage Identity: 0.204
+
+=== A0A4R2SMC5 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:TCP91167.1};
+Bit Score: 179.0
+E-value: 0.000664
+Alignment Length: 93
+Percentage Identity: 0.236
+
+=== A0A6N7PZQ1 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 175.0
+E-value: 0.000664
+Alignment Length: 94
+Percentage Identity: 0.202
+
+=== A0A5E4SRH5 ===
+DE   RecName: Full=PAAR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 173.0
+E-value: 0.000664
+Alignment Length: 89
+Percentage Identity: 0.235
+
+=== A0A2U3EX82 ===
+DE   RecName: Full=Type VI secretion system PAAR protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 168.0
+E-value: 0.000664
+Alignment Length: 101
+Percentage Identity: 0.297
+
+=== A0A0Q5PAR0 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 165.0
+E-value: 0.000664
+Alignment Length: 89
+Percentage Identity: 0.224
+
+=== A0A2S9X762 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 151.0
+E-value: 0.000664
+Alignment Length: 92
+Percentage Identity: 0.206
+
+=== A0A430HC76 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:RSZ55114.1};
+Bit Score: 165.0
+E-value: 0.000755
+Alignment Length: 89
+Percentage Identity: 0.202
+
+=== A0A379TZJ3 ===
+DE   SubName: Full=Uncharacterized conserved protein {ECO:0000313|EMBL:SUG55135.1};
+Bit Score: 165.0
+E-value: 0.000755
+Alignment Length: 89
+Percentage Identity: 0.168
+
+=== A0A2E6W9I6 ===
+DE   RecName: Full=Type VI secretion protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 161.0
+E-value: 0.000755
+Alignment Length: 94
+Percentage Identity: 0.244
+
+=== A0A1Y6IT80 ===
+DE   SubName: Full=PAAR motif protein {ECO:0000313|EMBL:SMS00836.1};
+Bit Score: 172.0
+E-value: 0.0008052
+Alignment Length: 95
+Percentage Identity: 0.168
+
+=== A0A1M5VJQ1 ===
+DE   SubName: Full=PAAR motif protein {ECO:0000313|EMBL:SHH75143.1};
+Bit Score: 170.0
+E-value: 0.0008052
+Alignment Length: 101
+Percentage Identity: 0.257
+
+=== A0A7X4KP34 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 166.0
+E-value: 0.0008052
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== A0A522A216 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:TAK99232.1};
+Bit Score: 165.0
+E-value: 0.0008052
+Alignment Length: 89
+Percentage Identity: 0.202
+
+=== A0A7X3M2D0 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:MXP57282.1};
+Bit Score: 161.0
+E-value: 0.0008052
+Alignment Length: 88
+Percentage Identity: 0.193
+
+=== A0A1Z9F1R2 ===
+DE   RecName: Full=PaaR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 160.0
+E-value: 0.0008052
+Alignment Length: 97
+Percentage Identity: 0.226
+
+=== H2ITP9 ===
+DE   RecName: Full=PAAR motif protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 160.0
+E-value: 0.0008052
+Alignment Length: 86
+Percentage Identity: 0.197
+
+=== A0A4P6WST8 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QBM24985.1};
+Bit Score: 159.0
+E-value: 0.0008052
+Alignment Length: 89
+Percentage Identity: 0.235
+
+=== A0A1I1FSQ3 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SFC00010.1};
+Bit Score: 153.0
+E-value: 0.0008052
+Alignment Length: 97
+Percentage Identity: 0.226
+
+=== A0A6P1EPY3 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.0008052
+Alignment Length: 89
+Percentage Identity: 0.224
+
+=== A0A2S4I8A5 ===
+DE   RecName: Full=PAAR-like protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 170.0
+E-value: 0.0008586
+Alignment Length: 89
+Percentage Identity: 0.269
+
+=== A0A840MJQ9 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:MBB5017725.1};
+Bit Score: 170.0
+E-value: 0.0008586
+Alignment Length: 88
+Percentage Identity: 0.25
+
+=== A0A7Z2ZUN4 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QJE02485.1};
+Bit Score: 165.0
+E-value: 0.0008586
+Alignment Length: 85
+Percentage Identity: 0.211
+
+=== A0A2S5K5Q6 ===
+DE   SubName: Full=Alanine racemase {ECO:0000313|EMBL:PPC61165.1};
+Bit Score: 159.0
+E-value: 0.0008586
+Alignment Length: 96
+Percentage Identity: 0.25
+
+=== A0A845GN91 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:MYM95461.1};
+Bit Score: 159.0
+E-value: 0.0008586
+Alignment Length: 79
+Percentage Identity: 0.24
+
+=== A0A1H0SNP6 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SDP43361.1};
+Bit Score: 166.0
+E-value: 0.0009156
+Alignment Length: 83
+Percentage Identity: 0.24
+
+=== A0A349XNY9 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:HAU74754.1};
+Bit Score: 166.0
+E-value: 0.0009156
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== A0A2G3K4Q4 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 165.0
+E-value: 0.0009156
+Alignment Length: 85
+Percentage Identity: 0.223
+
+=== A0A371WT01 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:RFB80025.1};
+Bit Score: 161.0
+E-value: 0.0009156
+Alignment Length: 89
+Percentage Identity: 0.258
+
+=== A0A3G8H629 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:AZG15645.1};
+Bit Score: 155.0
+E-value: 0.0009156
+Alignment Length: 89
+Percentage Identity: 0.224
+
+=== A0A2K4U324 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 150.0
+E-value: 0.0009156
+Alignment Length: 82
+Percentage Identity: 0.256
+
+=== A0A2U3N492 ===
+DE   SubName: Full=Chitinase class I {ECO:0000313|EMBL:SPL72379.1};
+Bit Score: 142.0
+E-value: 0.0009156
+Alignment Length: 96
+Percentage Identity: 0.208
+
+=== R8YH74 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 141.0
+E-value: 0.0009156
+Alignment Length: 87
+Percentage Identity: 0.275
+
+=== A0A1B8V851 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 167.0
+E-value: 0.0009764
+Alignment Length: 89
+Percentage Identity: 0.179
+
+=== Q21E49 ===
+DE   SubName: Full=PAAR {ECO:0000313|EMBL:ABD83030.1};
+Bit Score: 165.0
+E-value: 0.0009764
+Alignment Length: 95
+Percentage Identity: 0.21
+
+=== A0A1E3G094 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OMI84420.1};
+Bit Score: 164.0
+E-value: 0.0009764
+Alignment Length: 89
+Percentage Identity: 0.191
+
+=== A0A833MQL1 ===
+DE   RecName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0008006|Google:ProtNLM};
+Bit Score: 163.0
+E-value: 0.0009764
+Alignment Length: 92
+Percentage Identity: 0.206
+
+=== A0A4Q1CR86 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:RXK64731.1};
+Bit Score: 151.0
+E-value: 0.0009764
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== A0A3S8ZP02 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:AZN35129.1};
+Bit Score: 145.0
+E-value: 0.0009764
+Alignment Length: 84
+Percentage Identity: 0.226
+
+=== A0A562L738 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:TWI03448.1};
+Bit Score: 140.0
+E-value: 0.0009764
+Alignment Length: 85
+Percentage Identity: 0.211
+
+=== N8XL05 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 163.0
+E-value: 0.001041
+Alignment Length: 84
+Percentage Identity: 0.226
+
+=== A0A643FVE3 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QOT79239.1};
+Bit Score: 160.0
+E-value: 0.001041
+Alignment Length: 89
+Percentage Identity: 0.258
+
+=== S6UYK3 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 153.0
+E-value: 0.001041
+Alignment Length: 81
+Percentage Identity: 0.259
+
+=== A0A0A0M999 ===
+DE   SubName: Full=PAAR motif family protein {ECO:0000313|EMBL:KGO99618.1};
+Bit Score: 142.0
+E-value: 0.001041
+Alignment Length: 86
+Percentage Identity: 0.267
+
+=== A0A4Y9SZ83 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:TFW32184.1};
+Bit Score: 162.0
+E-value: 0.00111
+Alignment Length: 89
+Percentage Identity: 0.157
+
+=== J3GPB5 ===
+DE   RecName: Full=PAAR motif protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 157.0
+E-value: 0.00111
+Alignment Length: 89
+Percentage Identity: 0.235
+
+=== A0A369RG64 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RDD34055.1};
+Bit Score: 157.0
+E-value: 0.00111
+Alignment Length: 99
+Percentage Identity: 0.212
+
+=== A0A6M6ICJ9 ===
+DE   SubName: Full=PaaR repeat-containing protein {ECO:0000313|EMBL:QJY32214.1};
+Bit Score: 153.0
+E-value: 0.00111
+Alignment Length: 94
+Percentage Identity: 0.234
+
+=== A0A4Q1CG26 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:RXK58657.1};
+DE   Flags: Fragment;
+Bit Score: 143.0
+E-value: 0.00111
+Alignment Length: 91
+Percentage Identity: 0.197
+
+=== A0A3L0W4K7 ===
+DE   SubName: Full=Type VI secretion system PAAR protein {ECO:0000313|EMBL:MHO07190.1};
+DE   Flags: Fragment;
+Bit Score: 168.0
+E-value: 0.001184
+Alignment Length: 94
+Percentage Identity: 0.212
+
+=== A0A7Z7FLK1 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SDI59362.1};
+Bit Score: 158.0
+E-value: 0.001184
+Alignment Length: 84
+Percentage Identity: 0.238
+
+=== A0A6N6VRZ9 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 158.0
+E-value: 0.001184
+Alignment Length: 80
+Percentage Identity: 0.237
+
+=== A0A1R0FRW9 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:MBD3124821.1};
+Bit Score: 155.0
+E-value: 0.001184
+Alignment Length: 90
+Percentage Identity: 0.211
+
+=== A0A7Z2VU85 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QJD99091.1};
+Bit Score: 155.0
+E-value: 0.001184
+Alignment Length: 89
+Percentage Identity: 0.202
+
+=== A0A1R4LUG1 ===
+DE   SubName: Full=PAAR motif protein {ECO:0000313|EMBL:SJN60083.1};
+Bit Score: 150.0
+E-value: 0.001184
+Alignment Length: 99
+Percentage Identity: 0.262
+
+=== A0A843YWL3 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 136.0
+E-value: 0.001184
+Alignment Length: 93
+Percentage Identity: 0.236
+
+=== A0A5C7JIH5 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:TXG81058.1};
+DE   Flags: Fragment;
+Bit Score: 171.0
+E-value: 0.001263
+Alignment Length: 96
+Percentage Identity: 0.229
+
+=== A0A1M7SPN1 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SHN60412.1};
+Bit Score: 165.0
+E-value: 0.001263
+Alignment Length: 88
+Percentage Identity: 0.295
+
+=== A0A0M9DQJ3 ===
+DE   RecName: Full=Type VI secretion protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 159.0
+E-value: 0.001263
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A7I8BNM4 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 157.0
+E-value: 0.001263
+Alignment Length: 84
+Percentage Identity: 0.202
+
+=== A0A4R4BV07 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 154.0
+E-value: 0.001263
+Alignment Length: 78
+Percentage Identity: 0.23
+
+=== A0A2W4RAM8 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 152.0
+E-value: 0.001263
+Alignment Length: 95
+Percentage Identity: 0.231
+
+=== A0A653VZE3 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:VXC06879.1};
+Bit Score: 144.0
+E-value: 0.001263
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A1H7FK90 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SEK26516.1};
+Bit Score: 152.0
+E-value: 0.001346
+Alignment Length: 90
+Percentage Identity: 0.233
+
+=== A0A1U6GNH0 ===
+DE   RecName: Full=PAAR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 151.0
+E-value: 0.001346
+Alignment Length: 89
+Percentage Identity: 0.191
+
+=== A0A4S2D0S6 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:TGY34626.1};
+Bit Score: 149.0
+E-value: 0.001346
+Alignment Length: 89
+Percentage Identity: 0.202
+
+=== A0A3M3YPH6 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 137.0
+E-value: 0.001346
+Alignment Length: 87
+Percentage Identity: 0.252
+
+=== A0A2U3MWK3 ===
+DE   SubName: Full=PAAR motif protein {ECO:0000313|EMBL:SPL69679.1};
+Bit Score: 130.0
+E-value: 0.001346
+Alignment Length: 89
+Percentage Identity: 0.258
+
+=== A0A0H3K138 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 162.0
+E-value: 0.001436
+Alignment Length: 89
+Percentage Identity: 0.258
+
+=== A0A1L6HUX2 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 155.0
+E-value: 0.001436
+Alignment Length: 85
+Percentage Identity: 0.235
+
+=== A0A6B2FIY0 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 152.0
+E-value: 0.001436
+Alignment Length: 89
+Percentage Identity: 0.224
+
+=== A0A853JED6 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:NZA27215.1};
+Bit Score: 152.0
+E-value: 0.001436
+Alignment Length: 90
+Percentage Identity: 0.222
+
+=== H1SIH9 ===
+DE   SubName: Full=PAAR repeat-containing protein {ECO:0000313|EMBL:EHP37671.1};
+Bit Score: 138.0
+E-value: 0.001436
+Alignment Length: 95
+Percentage Identity: 0.231
+
+=== A0A0L0ESA7 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 168.0
+E-value: 0.001531
+Alignment Length: 100
+Percentage Identity: 0.18
+
+=== A0A229GSS7 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 153.0
+E-value: 0.001531
+Alignment Length: 89
+Percentage Identity: 0.168
+
+=== A0A071MER4 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 151.0
+E-value: 0.001531
+Alignment Length: 84
+Percentage Identity: 0.238
+
+=== A0A853I9I3 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:NYZ66724.1};
+Bit Score: 151.0
+E-value: 0.001531
+Alignment Length: 87
+Percentage Identity: 0.218
+
+=== A0A7C9GQE8 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:MQL49559.1};
+Bit Score: 148.0
+E-value: 0.001531
+Alignment Length: 92
+Percentage Identity: 0.217
+
+=== A0A3M2XLQ7 ===
+DE   SubName: Full=PAAR motif protein {ECO:0000313|EMBL:RML64739.1};
+DE   Flags: Fragment;
+Bit Score: 146.0
+E-value: 0.001531
+Alignment Length: 82
+Percentage Identity: 0.231
+
+=== A0A7T6VGB8 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QQK03329.1};
+Bit Score: 145.0
+E-value: 0.001531
+Alignment Length: 89
+Percentage Identity: 0.235
+
+=== A0A643G3V7 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QOT80223.1};
+Bit Score: 140.0
+E-value: 0.001531
+Alignment Length: 95
+Percentage Identity: 0.221
+
+=== A0A7W7PE17 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:MBB4885200.1};
+Bit Score: 167.0
+E-value: 0.001633
+Alignment Length: 90
+Percentage Identity: 0.233
+
+=== A0A5S3WYN4 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 165.0
+E-value: 0.001633
+Alignment Length: 104
+Percentage Identity: 0.182
+
+=== A0A1I1PJ04 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SFD09809.1};
+Bit Score: 159.0
+E-value: 0.001633
+Alignment Length: 86
+Percentage Identity: 0.255
+
+=== A0A3N7B708 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 147.0
+E-value: 0.001633
+Alignment Length: 93
+Percentage Identity: 0.236
+
+=== A0A7G8W423 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QNK75116.1};
+Bit Score: 140.0
+E-value: 0.001633
+Alignment Length: 90
+Percentage Identity: 0.222
+
+=== A0A7Y8TXJ7 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:NWK52593.1};
+Bit Score: 139.0
+E-value: 0.001633
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A853IK15 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:NYZ69727.1};
+DE   Flags: Fragment;
+Bit Score: 161.0
+E-value: 0.001741
+Alignment Length: 93
+Percentage Identity: 0.182
+
+=== A0A7C5J520 ===
+DE   RecName: Full=PaaR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.001741
+Alignment Length: 98
+Percentage Identity: 0.244
+
+=== A0A0E9LR87 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAO27764.1};
+Bit Score: 128.0
+E-value: 0.001741
+Alignment Length: 100
+Percentage Identity: 0.25
+
+=== A0A375HS00 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 160.0
+E-value: 0.001857
+Alignment Length: 86
+Percentage Identity: 0.22
+
+=== A0A7Z9QM53 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 152.0
+E-value: 0.001857
+Alignment Length: 99
+Percentage Identity: 0.161
+
+=== A0A518BPM6 ===
+DE   SubName: Full=PAAR motif protein {ECO:0000313|EMBL:QDU68927.1};
+Bit Score: 150.0
+E-value: 0.001857
+Alignment Length: 103
+Percentage Identity: 0.242
+
+=== B4E675 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 147.0
+E-value: 0.001857
+Alignment Length: 89
+Percentage Identity: 0.202
+
+=== Q88AB3 ===
+DE   SubName: Full=Conserved domain protein {ECO:0000313|EMBL:AAO54023.1};
+Bit Score: 140.0
+E-value: 0.001857
+Alignment Length: 87
+Percentage Identity: 0.252
+
+=== A0A7W5EX61 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:MBB3232500.1};
+Bit Score: 129.0
+E-value: 0.001857
+Alignment Length: 94
+Percentage Identity: 0.244
+
+=== A0A329XCM3 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:RAX13422.1};
+Bit Score: 159.0
+E-value: 0.00198
+Alignment Length: 89
+Percentage Identity: 0.191
+
+=== A0A165VQT1 ===
+DE   SubName: Full=PAAR motif protein {ECO:0000313|EMBL:KZL15276.1};
+Bit Score: 155.0
+E-value: 0.00198
+Alignment Length: 102
+Percentage Identity: 0.215
+
+=== A0A6L6Q843 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:MTW05619.1};
+Bit Score: 154.0
+E-value: 0.00198
+Alignment Length: 85
+Percentage Identity: 0.2
+
+=== A0A840MU72 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:MBB5018721.1};
+Bit Score: 152.0
+E-value: 0.00198
+Alignment Length: 90
+Percentage Identity: 0.244
+
+=== A0A6I3MAS7 ===
+DE   RecName: Full=PaaR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 149.0
+E-value: 0.00198
+Alignment Length: 92
+Percentage Identity: 0.271
+
+=== A0A2E3M0I3 ===
+DE   SubName: Full=PaaR repeat-containing protein {ECO:0000313|EMBL:MBB65738.1};
+Bit Score: 146.0
+E-value: 0.00198
+Alignment Length: 95
+Percentage Identity: 0.231
+
+=== A0A2M9E3P9 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 146.0
+E-value: 0.00198
+Alignment Length: 91
+Percentage Identity: 0.197
+
+=== N8Y6K3 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 143.0
+E-value: 0.00198
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== F0G728 ===
+DE   RecName: Full=PAAR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 140.0
+E-value: 0.00198
+Alignment Length: 84
+Percentage Identity: 0.261
+
+=== A0A3B7MBJ0 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:AXY61444.1};
+Bit Score: 139.0
+E-value: 0.00198
+Alignment Length: 88
+Percentage Identity: 0.272
+
+=== A0A3D9MYC7 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:REE23500.1};
+Bit Score: 133.0
+E-value: 0.00198
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== A0A1H2ZX02 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SDX21963.1};
+Bit Score: 131.0
+E-value: 0.00198
+Alignment Length: 90
+Percentage Identity: 0.244
+
+=== A0A2S3VWH3 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 159.0
+E-value: 0.002111
+Alignment Length: 88
+Percentage Identity: 0.181
+
+=== Q0ACM1 ===
+DE   SubName: Full=PAAR repeat-containing protein {ECO:0000313|EMBL:ABI55416.1};
+Bit Score: 155.0
+E-value: 0.002111
+Alignment Length: 97
+Percentage Identity: 0.185
+
+=== A0A368NXG5 ===
+DE   RecName: Full=Type VI secretion protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 154.0
+E-value: 0.002111
+Alignment Length: 99
+Percentage Identity: 0.181
+
+=== A0A1Q8DWX2 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 151.0
+E-value: 0.002111
+Alignment Length: 89
+Percentage Identity: 0.157
+
+=== A0A2Z5N5M1 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 147.0
+E-value: 0.002111
+Alignment Length: 81
+Percentage Identity: 0.197
+
+=== A0A072TE01 ===
+DE   SubName: Full=PAAR motif protein {ECO:0000313|EMBL:KEH15441.1};
+Bit Score: 145.0
+E-value: 0.002111
+Alignment Length: 80
+Percentage Identity: 0.25
+
+=== A0A7G8VG76 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QNK67119.1};
+Bit Score: 142.0
+E-value: 0.002111
+Alignment Length: 87
+Percentage Identity: 0.195
+
+=== A0A4P9VQI4 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 135.0
+E-value: 0.002111
+Alignment Length: 92
+Percentage Identity: 0.25
+
+=== A0A2G3LJN7 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 131.0
+E-value: 0.002111
+Alignment Length: 95
+Percentage Identity: 0.252
+
+=== X5FWH6 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 154.0
+E-value: 0.002251
+Alignment Length: 81
+Percentage Identity: 0.197
+
+=== A0A7D5N072 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QLH42033.1};
+Bit Score: 153.0
+E-value: 0.002251
+Alignment Length: 86
+Percentage Identity: 0.22
+
+=== A0A3D4WFF4 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 143.0
+E-value: 0.002251
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== A0A6M3ZR78 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QJQ01109.1};
+Bit Score: 142.0
+E-value: 0.002251
+Alignment Length: 101
+Percentage Identity: 0.188
+
+=== A0A2N0ZSE7 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 138.0
+E-value: 0.002251
+Alignment Length: 90
+Percentage Identity: 0.211
+
+=== A0A2H9YRL4 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.002251
+Alignment Length: 91
+Percentage Identity: 0.164
+
+=== A0A2E4YCY5 ===
+DE   SubName: Full=PaaR repeat-containing protein {ECO:0000313|EMBL:MBG10774.1};
+Bit Score: 156.0
+E-value: 0.002401
+Alignment Length: 98
+Percentage Identity: 0.214
+
+=== A0A0F2J169 ===
+DE   RecName: Full=PAAR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.002401
+Alignment Length: 89
+Percentage Identity: 0.235
+
+=== A0A4R4QFJ3 ===
+DE   SubName: Full=PaaR repeat-containing protein {ECO:0000313|EMBL:TDC34294.1};
+Bit Score: 150.0
+E-value: 0.00256
+Alignment Length: 92
+Percentage Identity: 0.271
+
+=== A0A4R4JQN4 ===
+DE   SubName: Full=Killer protein of pyocin s3 {ECO:0000313|EMBL:TDB56817.1};
+Bit Score: 140.0
+E-value: 0.00256
+Alignment Length: 88
+Percentage Identity: 0.238
+
+=== A0A3M3Z1D9 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 140.0
+E-value: 0.00256
+Alignment Length: 90
+Percentage Identity: 0.233
+
+=== X0R1F6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAF57557.1};
+Bit Score: 139.0
+E-value: 0.00256
+Alignment Length: 95
+Percentage Identity: 0.189
+
+=== A0A661IS60 ===
+DE   SubName: Full=PaaR repeat-containing protein {ECO:0000313|EMBL:RLA83397.1};
+Bit Score: 162.0
+E-value: 0.00273
+Alignment Length: 95
+Percentage Identity: 0.157
+
+=== Q0WIH2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAL19535.1};
+Bit Score: 153.0
+E-value: 0.00273
+Alignment Length: 81
+Percentage Identity: 0.246
+
+=== A0A518C4R0 ===
+DE   SubName: Full=Putative deoxyribonuclease RhsA {ECO:0000313|EMBL:QDU74218.1};
+DE            EC=3.1.-.- {ECO:0000313|EMBL:QDU74218.1};
+Bit Score: 150.0
+E-value: 0.00273
+Alignment Length: 99
+Percentage Identity: 0.232
+
+=== A0A6S7AZ90 ===
+DE   RecName: Full=Bacterial toxin 44 domain-containing protein {ECO:0000259|Pfam:PF15607};
+Bit Score: 140.0
+E-value: 0.00273
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A377QDQ1 ===
+DE   SubName: Full=Uncharacterized conserved protein {ECO:0000313|EMBL:STQ93514.1};
+Bit Score: 124.0
+E-value: 0.00273
+Alignment Length: 90
+Percentage Identity: 0.255
+
+=== A0A2S0LKA2 ===
+DE   SubName: Full=Type VI secretion protein {ECO:0000313|EMBL:AVM56317.1};
+Bit Score: 151.0
+E-value: 0.002911
+Alignment Length: 101
+Percentage Identity: 0.217
+
+=== A0A0E3ZV17 ===
+DE   RecName: Full=Type VI secretion protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 145.0
+E-value: 0.002911
+Alignment Length: 110
+Percentage Identity: 0.227
+
+=== S9Q2F7 ===
+DE   RecName: Full=Type VI secretion protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.002911
+Alignment Length: 100
+Percentage Identity: 0.24
+
+=== N8X0Z3 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.002911
+Alignment Length: 91
+Percentage Identity: 0.197
+
+=== A0A368YKP1 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:RCW79886.1};
+Bit Score: 132.0
+E-value: 0.002911
+Alignment Length: 96
+Percentage Identity: 0.27
+
+=== A0A7Y6QN81 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:NVD98372.1};
+Bit Score: 124.0
+E-value: 0.002911
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A2S0JKR8 ===
+DE   SubName: Full=PaaR repeat-containing protein {ECO:0000313|EMBL:AVK84054.1};
+Bit Score: 158.0
+E-value: 0.003104
+Alignment Length: 97
+Percentage Identity: 0.164
+
+=== G8NPT0 ===
+DE   SubName: Full=PAAR repeat-containing protein {ECO:0000313|EMBL:AEU37169.1};
+Bit Score: 156.0
+E-value: 0.003104
+Alignment Length: 92
+Percentage Identity: 0.206
+
+=== D8IYM2 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 150.0
+E-value: 0.003104
+Alignment Length: 83
+Percentage Identity: 0.253
+
+=== A0A016QT80 ===
+DE   RecName: Full=PAAR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 142.0
+E-value: 0.003104
+Alignment Length: 90
+Percentage Identity: 0.255
+
+=== A0A1L9BKI0 ===
+DE   RecName: Full=Type VI secretion protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 142.0
+E-value: 0.003104
+Alignment Length: 101
+Percentage Identity: 0.227
+
+=== A0A7Y5MS70 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:NUO01623.1};
+Bit Score: 141.0
+E-value: 0.003104
+Alignment Length: 97
+Percentage Identity: 0.195
+
+=== A0A2M9E3P6 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 140.0
+E-value: 0.003104
+Alignment Length: 97
+Percentage Identity: 0.175
+
+=== A0A562M112 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:TWI13570.1};
+Bit Score: 137.0
+E-value: 0.003104
+Alignment Length: 90
+Percentage Identity: 0.222
+
+=== S3P6X6 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 136.0
+E-value: 0.003104
+Alignment Length: 88
+Percentage Identity: 0.227
+
+=== A0A4U3FA07 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.003104
+Alignment Length: 89
+Percentage Identity: 0.168
+
+=== A0A2U3N4T9 ===
+DE   SubName: Full=PAAR motif protein {ECO:0000313|EMBL:SPL72579.1};
+Bit Score: 120.0
+E-value: 0.003104
+Alignment Length: 90
+Percentage Identity: 0.266
+
+=== A0A662Z5V2 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SFJ74094.1};
+Bit Score: 156.0
+E-value: 0.003311
+Alignment Length: 96
+Percentage Identity: 0.208
+
+=== A0A6I2IDE2 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 153.0
+E-value: 0.003311
+Alignment Length: 90
+Percentage Identity: 0.255
+
+=== A0A3S0PPI1 ===
+DE   SubName: Full=Type VI secretion system PAAR protein {ECO:0000313|EMBL:RTZ16405.1};
+Bit Score: 150.0
+E-value: 0.003311
+Alignment Length: 95
+Percentage Identity: 0.21
+
+=== A0A3S7KXC0 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.003311
+Alignment Length: 87
+Percentage Identity: 0.218
+
+=== A0A3G7U7V1 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 136.0
+E-value: 0.003311
+Alignment Length: 90
+Percentage Identity: 0.166
+
+=== A0A1H4CHJ3 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SEA59896.1};
+Bit Score: 112.0
+E-value: 0.003311
+Alignment Length: 101
+Percentage Identity: 0.227
+
+=== A0A0F6A7H8 ===
+DE   RecName: Full=PAAR motif family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 153.0
+E-value: 0.00353
+Alignment Length: 99
+Percentage Identity: 0.252
+
+=== C4LD91 ===
+DE   SubName: Full=PAAR repeat-containing protein {ECO:0000313|EMBL:ACQ94622.1};
+Bit Score: 151.0
+E-value: 0.00353
+Alignment Length: 96
+Percentage Identity: 0.239
+
+=== A0A1T4N0K9 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SJZ72890.1};
+Bit Score: 149.0
+E-value: 0.00353
+Alignment Length: 79
+Percentage Identity: 0.202
+
+=== A0A1H4DJQ9 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SEA73011.1};
+Bit Score: 140.0
+E-value: 0.00353
+Alignment Length: 99
+Percentage Identity: 0.202
+
+=== A0A7Y9L3Z3 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:NYE62715.1};
+Bit Score: 139.0
+E-value: 0.00353
+Alignment Length: 87
+Percentage Identity: 0.206
+
+=== A0A2I0EMV5 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 139.0
+E-value: 0.00353
+Alignment Length: 89
+Percentage Identity: 0.202
+
+=== A0A1I1DF67 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SFB71708.1};
+Bit Score: 137.0
+E-value: 0.00353
+Alignment Length: 88
+Percentage Identity: 0.227
+
+=== A0A1C3YUT7 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SCB73823.1};
+Bit Score: 136.0
+E-value: 0.00353
+Alignment Length: 90
+Percentage Identity: 0.188
+
+=== A0A1H7VRI7 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SEM11499.1};
+Bit Score: 132.0
+E-value: 0.00353
+Alignment Length: 91
+Percentage Identity: 0.197
+
+=== A0A5B0X2S3 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:KAA1193660.1};
+Bit Score: 145.0
+E-value: 0.003765
+Alignment Length: 91
+Percentage Identity: 0.175
+
+=== A0A2M8S3B5 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 140.0
+E-value: 0.003765
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A7Y5Y261 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:NUT61347.1};
+Bit Score: 138.0
+E-value: 0.003765
+Alignment Length: 87
+Percentage Identity: 0.206
+
+=== A0A0M9E231 ===
+DE   SubName: Full=Type VI secretion protein {ECO:0000313|EMBL:KPA12309.1};
+Bit Score: 137.0
+E-value: 0.003765
+Alignment Length: 107
+Percentage Identity: 0.168
+
+=== W7PVW8 ===
+DE   RecName: Full=PAAR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 136.0
+E-value: 0.003765
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A2T0KUB1 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:PRX28063.1};
+Bit Score: 135.0
+E-value: 0.003765
+Alignment Length: 83
+Percentage Identity: 0.192
+
+=== A0A6N6VQM2 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:KAB8037864.1};
+Bit Score: 133.0
+E-value: 0.003765
+Alignment Length: 80
+Percentage Identity: 0.225
+
+=== A0A329BX28 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:RAS26342.1};
+Bit Score: 132.0
+E-value: 0.003765
+Alignment Length: 86
+Percentage Identity: 0.22
+
+=== A0A085GIL2 ===
+DE   SubName: Full=Rhs family protein {ECO:0000313|EMBL:KFC83557.1};
+Bit Score: 144.0
+E-value: 0.004014
+Alignment Length: 93
+Percentage Identity: 0.172
+
+=== A0A1I0GMF6 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SET72224.1};
+Bit Score: 138.0
+E-value: 0.004014
+Alignment Length: 97
+Percentage Identity: 0.226
+
+=== A0A2T5NGM4 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 138.0
+E-value: 0.004014
+Alignment Length: 90
+Percentage Identity: 0.222
+
+=== A0A7S7ST55 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QOY96504.1};
+Bit Score: 134.0
+E-value: 0.004014
+Alignment Length: 88
+Percentage Identity: 0.227
+
+=== A0A2K9A536 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AUD77840.1};
+Bit Score: 153.0
+E-value: 0.004281
+Alignment Length: 98
+Percentage Identity: 0.193
+
+=== A0A662ZF42 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SFK58066.1};
+Bit Score: 148.0
+E-value: 0.004281
+Alignment Length: 96
+Percentage Identity: 0.187
+
+=== A0A6S6Z4E3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAB3659947.1};
+Bit Score: 145.0
+E-value: 0.004281
+Alignment Length: 89
+Percentage Identity: 0.269
+
+=== A0A699L993 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GFB31952.1};
+DE   Flags: Fragment;
+Bit Score: 142.0
+E-value: 0.004281
+Alignment Length: 85
+Percentage Identity: 0.164
+
+=== A0A543K621 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:TQM90528.1};
+Bit Score: 138.0
+E-value: 0.004281
+Alignment Length: 94
+Percentage Identity: 0.255
+
+=== A0A378QK46 ===
+DE   SubName: Full=Uncharacterized conserved protein {ECO:0000313|EMBL:STZ00674.1};
+Bit Score: 129.0
+E-value: 0.004281
+Alignment Length: 84
+Percentage Identity: 0.202
+
+=== L1PSR3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EKY18412.1};
+DE   Flags: Fragment;
+Bit Score: 122.0
+E-value: 0.004281
+Alignment Length: 101
+Percentage Identity: 0.237
+
+=== A0A0P9QHF7 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 120.0
+E-value: 0.004281
+Alignment Length: 84
+Percentage Identity: 0.25
+
+=== A0A7W8WJ37 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:MBB5496971.1};
+Bit Score: 151.0
+E-value: 0.004565
+Alignment Length: 91
+Percentage Identity: 0.274
+
+=== A0A381TWS8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:SVA18603.1};
+Bit Score: 146.0
+E-value: 0.004565
+Alignment Length: 99
+Percentage Identity: 0.181
+
+=== A0A7L8CX23 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QOD91352.1};
+Bit Score: 138.0
+E-value: 0.004565
+Alignment Length: 85
+Percentage Identity: 0.2
+
+=== A0A2V1ZUD1 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:PWK12564.1};
+Bit Score: 137.0
+E-value: 0.004565
+Alignment Length: 95
+Percentage Identity: 0.189
+
+=== A0A4U9HJX6 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.004565
+Alignment Length: 85
+Percentage Identity: 0.2
+
+=== A0A2P4RNP6 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:POH89911.1};
+Bit Score: 132.0
+E-value: 0.004565
+Alignment Length: 83
+Percentage Identity: 0.265
+
+=== A0A1X3DK16 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 131.0
+E-value: 0.004565
+Alignment Length: 94
+Percentage Identity: 0.265
+
+=== A0A4Q1CXB9 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:RXK69871.1};
+Bit Score: 123.0
+E-value: 0.004565
+Alignment Length: 89
+Percentage Identity: 0.191
+
+=== A0A7M3U372 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QOD38857.1};
+Bit Score: 109.0
+E-value: 0.004565
+Alignment Length: 89
+Percentage Identity: 0.247
+
+=== A0A133PS32 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KXA31631.1};
+Bit Score: 146.0
+E-value: 0.004868
+Alignment Length: 97
+Percentage Identity: 0.226
+
+=== S2KJ00 ===
+DE   RecName: Full=PAAR motif family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 135.0
+E-value: 0.004868
+Alignment Length: 93
+Percentage Identity: 0.204
+
+=== A0A090QUU1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GAL05624.1};
+Bit Score: 132.0
+E-value: 0.004868
+Alignment Length: 98
+Percentage Identity: 0.214
+
+=== A0A7X9XB16 ===
+DE   SubName: Full=Type VI secretion protein {ECO:0000313|EMBL:NME70272.1};
+Bit Score: 121.0
+E-value: 0.004868
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A0A0JV27 ===
+DE   RecName: Full=PaaR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 147.0
+E-value: 0.005191
+Alignment Length: 95
+Percentage Identity: 0.273
+
+=== A0A1X7LM08 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SMG54189.1};
+Bit Score: 147.0
+E-value: 0.005191
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A7W5BBD4 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:MBB3120024.1};
+Bit Score: 143.0
+E-value: 0.005191
+Alignment Length: 88
+Percentage Identity: 0.204
+
+=== A0A811GXD8 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 140.0
+E-value: 0.005191
+Alignment Length: 88
+Percentage Identity: 0.193
+
+=== A0A1H3RYJ1 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SDZ29939.1};
+Bit Score: 137.0
+E-value: 0.005191
+Alignment Length: 88
+Percentage Identity: 0.204
+
+=== A0A2D6MDR7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAG26553.1};
+Bit Score: 134.0
+E-value: 0.005191
+Alignment Length: 104
+Percentage Identity: 0.173
+
+=== A0A4U0QC93 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:TJZ79019.1};
+Bit Score: 132.0
+E-value: 0.005191
+Alignment Length: 87
+Percentage Identity: 0.241
+
+=== A0A1L9ATW9 ===
+DE   RecName: Full=Type VI secretion protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 128.0
+E-value: 0.005191
+Alignment Length: 101
+Percentage Identity: 0.237
+
+=== A0A1T5BJ95 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SKB47364.1};
+Bit Score: 126.0
+E-value: 0.005191
+Alignment Length: 103
+Percentage Identity: 0.252
+
+=== A0A7L5BGB1 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QIB37839.1};
+Bit Score: 151.0
+E-value: 0.005536
+Alignment Length: 89
+Percentage Identity: 0.191
+
+=== A0A7W6NA04 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:MBB4042015.1};
+Bit Score: 137.0
+E-value: 0.005536
+Alignment Length: 90
+Percentage Identity: 0.244
+
+=== A0A177SMQ8 ===
+DE   RecName: Full=PAAR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 137.0
+E-value: 0.005536
+Alignment Length: 91
+Percentage Identity: 0.197
+
+=== E5B9N6 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.005536
+Alignment Length: 91
+Percentage Identity: 0.197
+
+=== A0A1X1PNN8 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 132.0
+E-value: 0.005536
+Alignment Length: 83
+Percentage Identity: 0.18
+
+=== S2KJE2 ===
+DE   RecName: Full=PAAR motif family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 123.0
+E-value: 0.005536
+Alignment Length: 84
+Percentage Identity: 0.261
+
+=== N9LET9 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.005536
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A291GGS6 ===
+DE   RecName: Full=Type VI secretion system PAAR protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 115.0
+E-value: 0.005536
+Alignment Length: 96
+Percentage Identity: 0.229
+
+=== A0A853I859 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:NYZ69503.1};
+DE   Flags: Fragment;
+Bit Score: 145.0
+E-value: 0.005903
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A853I4T1 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:NYZ68910.1};
+Bit Score: 133.0
+E-value: 0.005903
+Alignment Length: 85
+Percentage Identity: 0.258
+
+=== A0A4Y8ZRP1 ===
+DE   RecName: Full=Type VI secretion protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.005903
+Alignment Length: 97
+Percentage Identity: 0.185
+
+=== A0A4V3F447 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:TDU23866.1};
+Bit Score: 127.0
+E-value: 0.005903
+Alignment Length: 96
+Percentage Identity: 0.218
+
+=== A0A1V4H2R9 ===
+DE   SubName: Full=Uncharacterized conserved protein {ECO:0000313|EMBL:STZ00135.1};
+Bit Score: 126.0
+E-value: 0.005903
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== A0A7W5BAS1 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:MBB3119714.1};
+Bit Score: 145.0
+E-value: 0.006295
+Alignment Length: 89
+Percentage Identity: 0.191
+
+=== A0A1I1VXK7 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SFD87692.1};
+Bit Score: 141.0
+E-value: 0.006295
+Alignment Length: 94
+Percentage Identity: 0.212
+
+=== A0A316AIE1 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:PWJ57473.1};
+Bit Score: 140.0
+E-value: 0.006295
+Alignment Length: 104
+Percentage Identity: 0.23
+
+=== A0A1G7XXQ1 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SDG88941.1};
+Bit Score: 136.0
+E-value: 0.006295
+Alignment Length: 88
+Percentage Identity: 0.181
+
+=== A0A662ANF7 ===
+DE   RecName: Full=PaaR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 135.0
+E-value: 0.006295
+Alignment Length: 99
+Percentage Identity: 0.242
+
+=== A0A3M8F0I4 ===
+DE   RecName: Full=Colicin D C-terminal domain-containing protein {ECO:0000259|Pfam:PF11429};
+Bit Score: 132.0
+E-value: 0.006295
+Alignment Length: 98
+Percentage Identity: 0.204
+
+=== A0A6M3ZUV1 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QJQ02425.1};
+Bit Score: 131.0
+E-value: 0.006295
+Alignment Length: 90
+Percentage Identity: 0.211
+
+=== A0A375H9Z7 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 128.0
+E-value: 0.006295
+Alignment Length: 90
+Percentage Identity: 0.166
+
+=== A0A7Y5L2F0 ===
+DE   SubName: Full=Type VI secretion protein {ECO:0000313|EMBL:NUP10826.1};
+Bit Score: 145.0
+E-value: 0.006713
+Alignment Length: 93
+Percentage Identity: 0.182
+
+=== A0A7W5B708 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:MBB3117703.1};
+Bit Score: 136.0
+E-value: 0.006713
+Alignment Length: 87
+Percentage Identity: 0.229
+
+=== A0A829HE08 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 125.0
+E-value: 0.006713
+Alignment Length: 91
+Percentage Identity: 0.186
+
+=== A0A653I2N1 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.006713
+Alignment Length: 84
+Percentage Identity: 0.25
+
+=== A0A5C7R2P0 ===
+DE   RecName: Full=Type IV secretion protein Rhs {ECO:0008006|Google:ProtNLM};
+Bit Score: 138.0
+E-value: 0.007158
+Alignment Length: 95
+Percentage Identity: 0.242
+
+=== A0A7X3L518 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MWV10500.1};
+Bit Score: 132.0
+E-value: 0.007158
+Alignment Length: 94
+Percentage Identity: 0.212
+
+=== A0A2L0EL37 ===
+DE   RecName: Full=PAAR motif-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 144.0
+E-value: 0.007633
+Alignment Length: 100
+Percentage Identity: 0.19
+
+=== A0A2S9IKW1 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.007633
+Alignment Length: 92
+Percentage Identity: 0.228
+
+=== A0A3Q0L4H8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:AAO10296.2};
+Bit Score: 132.0
+E-value: 0.007633
+Alignment Length: 97
+Percentage Identity: 0.206
+
+=== Q6LMQ9 ===
+DE   RecName: Full=Tox-PAAR-like domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 132.0
+E-value: 0.007633
+Alignment Length: 97
+Percentage Identity: 0.185
+
+=== N9JSW3 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 125.0
+E-value: 0.007633
+Alignment Length: 92
+Percentage Identity: 0.26
+
+=== A0A0Q6XXK7 ===
+DE   SubName: Full=Type VI secretion protein {ECO:0000313|EMBL:KQW03098.1};
+Bit Score: 135.0
+E-value: 0.00814
+Alignment Length: 103
+Percentage Identity: 0.223
+
+=== A0A1T5EW68 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SKB88183.1};
+Bit Score: 134.0
+E-value: 0.00814
+Alignment Length: 88
+Percentage Identity: 0.159
+
+=== A0A5B1B762 ===
+DE   SubName: Full=Paar repeat-containing protein {ECO:0000313|EMBL:KAA1244507.1};
+Bit Score: 132.0
+E-value: 0.00814
+Alignment Length: 99
+Percentage Identity: 0.202
+
+=== A0A2S7EV95 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 132.0
+E-value: 0.00814
+Alignment Length: 92
+Percentage Identity: 0.173
+
+=== A0A2E1DTF9 ===
+DE   RecName: Full=Fungal lipase-like domain-containing protein {ECO:0000259|Pfam:PF01764};
+Bit Score: 131.0
+E-value: 0.00814
+Alignment Length: 101
+Percentage Identity: 0.237
+
+=== K8GSE7 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 125.0
+E-value: 0.00814
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A031LK21 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.00814
+Alignment Length: 91
+Percentage Identity: 0.186
+
+=== A0A0F9YCW6 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KKO10102.1};
+Bit Score: 109.0
+E-value: 0.00814
+Alignment Length: 88
+Percentage Identity: 0.227
+
+=== A0A1M3KZ77 ===
+DE   RecName: Full=Type VI secretion protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.00868
+Alignment Length: 97
+Percentage Identity: 0.206
+
+=== A0A7V5NZE4 ===
+DE   RecName: Full=PaaR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 131.0
+E-value: 0.00868
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== A0A1V9F5M8 ===
+DE   SubName: Full=Type VI secretion protein {ECO:0000313|EMBL:OQP53562.1};
+Bit Score: 127.0
+E-value: 0.00868
+Alignment Length: 101
+Percentage Identity: 0.188
+
+=== A0A5C1NER0 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QEM80199.1};
+Bit Score: 126.0
+E-value: 0.00868
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A4R3YQ55 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:TCV94540.1};
+Bit Score: 124.0
+E-value: 0.00868
+Alignment Length: 80
+Percentage Identity: 0.212
+
+=== A0A542MDR9 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:TQK11480.1};
+Bit Score: 104.0
+E-value: 0.00868
+Alignment Length: 90
+Percentage Identity: 0.2
+
+=== W4LZ21 ===
+DE   RecName: Full=ABC transmembrane type-1 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.009257
+Alignment Length: 101
+Percentage Identity: 0.247
+
+=== A0A5D0VBE4 ===
+DE   RecName: Full=Type VI secretion protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 133.0
+E-value: 0.009257
+Alignment Length: 95
+Percentage Identity: 0.2
+
+=== A0A7C1U2L2 ===
+DE   SubName: Full=Phospholipase {ECO:0000313|EMBL:HEB94517.1};
+Bit Score: 130.0
+E-value: 0.009257
+Alignment Length: 97
+Percentage Identity: 0.226
+
+=== A0A433SCL0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RUS66460.1};
+Bit Score: 130.0
+E-value: 0.009257
+Alignment Length: 91
+Percentage Identity: 0.186
+
+=== A0A4S1DEG0 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:TGU85494.1};
+DE   Flags: Fragment;
+Bit Score: 127.0
+E-value: 0.009257
+Alignment Length: 85
+Percentage Identity: 0.235
+
+=== F2LI18 ===
+DE   SubName: Full=PAAR repeat-containing protein {ECO:0000313|EMBL:AEA59095.1};
+Bit Score: 122.0
+E-value: 0.009257
+Alignment Length: 89
+Percentage Identity: 0.202
+
+=== A0A3M3TTU7 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 118.0
+E-value: 0.009257
+Alignment Length: 80
+Percentage Identity: 0.262
+
+=== A0A1K2HP41 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SFZ78584.1};
+Bit Score: 118.0
+E-value: 0.009257
+Alignment Length: 88
+Percentage Identity: 0.238
+
+=== A0A524BFG8 ===
+DE   RecName: Full=PaaR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 137.0
+E-value: 0.009871
+Alignment Length: 106
+Percentage Identity: 0.179
+
+=== A0A7W5C0I3 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:MBB3142586.1};
+Bit Score: 136.0
+E-value: 0.009871
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A4R2YZ19 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:TCQ89122.1};
+Bit Score: 132.0
+E-value: 0.009871
+Alignment Length: 89
+Percentage Identity: 0.202
+
+=== A0A2T3NU56 ===
+DE   RecName: Full=Toxin VasX N-terminal region domain-containing protein {ECO:0000259|Pfam:PF20249};
+Bit Score: 130.0
+E-value: 0.009871
+Alignment Length: 97
+Percentage Identity: 0.195
+
+=== A0A7K0IYH8 ===
+DE   SubName: Full=Type VI secretion protein {ECO:0000313|EMBL:MSN25152.1};
+Bit Score: 127.0
+E-value: 0.009871
+Alignment Length: 97
+Percentage Identity: 0.164
+
+=== M4X2W0 ===
+DE   SubName: Full=Rhs element Vgr protein {ECO:0000313|EMBL:AGI26778.1};
+Bit Score: 127.0
+E-value: 0.009871
+Alignment Length: 94
+Percentage Identity: 0.159
+
+=== A0A1B9M4N9 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.009871
+Alignment Length: 90
+Percentage Identity: 0.188
+
+=== A0A1B9NEY3 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.009871
+Alignment Length: 98
+Percentage Identity: 0.193
+
+=== N9P7Z1 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 120.0
+E-value: 0.009871
+Alignment Length: 90
+Percentage Identity: 0.188
+
+=== A0A7Y5KR90 ===
+DE   SubName: Full=Type VI secretion protein {ECO:0000313|EMBL:NUP05682.1};
+Bit Score: 119.0
+E-value: 0.009871
+Alignment Length: 94
+Percentage Identity: 0.202
+
+=== A0A1C6NI73 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SCK30751.1};
+Bit Score: 111.0
+E-value: 0.01053
+Alignment Length: 99
+Percentage Identity: 0.191
+
+=== A0A0C1J0G1 ===
+DE   RecName: Full=PAAR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 135.0
+E-value: 0.01122
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A1H0HF34 ===
+DE   SubName: Full=DUF4150 domain-containing protein {ECO:0000313|EMBL:KAB0480708.1};
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SDO17758.1};
+Bit Score: 135.0
+E-value: 0.01122
+Alignment Length: 89
+Percentage Identity: 0.202
+
+=== A0A3B0M8U5 ===
+DE   SubName: Full=Putative deoxyribonuclease RhsA {ECO:0000313|EMBL:SUZ32361.1};
+DE            EC=3.1.-.- {ECO:0000313|EMBL:SUZ32361.1};
+Bit Score: 133.0
+E-value: 0.01122
+Alignment Length: 104
+Percentage Identity: 0.211
+
+=== A0A853JGN7 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:NZA28583.1};
+Bit Score: 130.0
+E-value: 0.01122
+Alignment Length: 100
+Percentage Identity: 0.21
+
+=== A0A1Y1Q5F0 ===
+DE   RecName: Full=Phospholipase {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.01122
+Alignment Length: 106
+Percentage Identity: 0.169
+
+=== A0A4Q6XIY4 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:RZF55685.1};
+Bit Score: 115.0
+E-value: 0.01122
+Alignment Length: 87
+Percentage Identity: 0.206
+
+=== A0A7X5TN92 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 112.0
+E-value: 0.01122
+Alignment Length: 88
+Percentage Identity: 0.238
+
+=== A0A6L8KRE4 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:MYM29477.1};
+Bit Score: 123.0
+E-value: 0.01197
+Alignment Length: 103
+Percentage Identity: 0.184
+
+=== A0A5C1NCK7 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QEM80198.1};
+Bit Score: 115.0
+E-value: 0.01197
+Alignment Length: 92
+Percentage Identity: 0.195
+
+=== A0A419A3H2 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 134.0
+E-value: 0.01276
+Alignment Length: 94
+Percentage Identity: 0.202
+
+=== A0A6H2NTJ3 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 132.0
+E-value: 0.01276
+Alignment Length: 92
+Percentage Identity: 0.228
+
+=== I7C4Q7 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 132.0
+E-value: 0.01276
+Alignment Length: 93
+Percentage Identity: 0.139
+
+=== A0A3P0NVK9 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 130.0
+E-value: 0.01276
+Alignment Length: 88
+Percentage Identity: 0.215
+
+=== Q5VIZ8 ===
+DE   RecName: Full=Type VI secretion system PAAR protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 127.0
+E-value: 0.01276
+Alignment Length: 94
+Percentage Identity: 0.17
+
+=== A0A4P7WVC6 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 125.0
+E-value: 0.01276
+Alignment Length: 97
+Percentage Identity: 0.206
+
+=== A0A2N7QRX9 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.01276
+Alignment Length: 97
+Percentage Identity: 0.144
+
+=== N8ZKF9 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 116.0
+E-value: 0.01276
+Alignment Length: 92
+Percentage Identity: 0.184
+
+=== A0A1M4S7U1 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SHE28283.1};
+DE   Flags: Fragment;
+Bit Score: 115.0
+E-value: 0.01276
+Alignment Length: 88
+Percentage Identity: 0.215
+
+=== A0A0D0R9D7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:KIQ98149.1};
+Bit Score: 106.0
+E-value: 0.01276
+Alignment Length: 91
+Percentage Identity: 0.23
+
+=== A0A5C1NMU9 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QEM83768.1};
+Bit Score: 103.0
+E-value: 0.01276
+Alignment Length: 87
+Percentage Identity: 0.206
+
+=== A0A0A7S222 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 137.0
+E-value: 0.01361
+Alignment Length: 100
+Percentage Identity: 0.19
+
+=== A0A3R7M811 ===
+DE   SubName: Full=Uropathogenic specific protein {ECO:0000313|EMBL:RNF33566.1};
+Bit Score: 136.0
+E-value: 0.01361
+Alignment Length: 95
+Percentage Identity: 0.21
+
+=== E8WWI8 ===
+DE   SubName: Full=PAAR repeat-containing protein {ECO:0000313|EMBL:ADW69652.1};
+Bit Score: 132.0
+E-value: 0.01361
+Alignment Length: 99
+Percentage Identity: 0.232
+
+=== E8WW36 ===
+DE   SubName: Full=PAAR repeat-containing protein {ECO:0000313|EMBL:ADW67342.1};
+Bit Score: 132.0
+E-value: 0.01361
+Alignment Length: 99
+Percentage Identity: 0.222
+
+=== A0A4Z0W4X9 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 125.0
+E-value: 0.01361
+Alignment Length: 101
+Percentage Identity: 0.198
+
+=== A0A2A4MCK1 ===
+DE   RecName: Full=Gp5/Type VI secretion system Vgr protein OB-fold domain-containing protein {ECO:0000259|Pfam:PF04717};
+Bit Score: 124.0
+E-value: 0.01361
+Alignment Length: 96
+Percentage Identity: 0.166
+
+=== A0A317Q3G3 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:PWW10089.1};
+Bit Score: 120.0
+E-value: 0.01361
+Alignment Length: 87
+Percentage Identity: 0.172
+
+=== A0A5P1UPZ1 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QER38979.1};
+Bit Score: 111.0
+E-value: 0.01361
+Alignment Length: 89
+Percentage Identity: 0.213
+
+=== A0A1V3KX93 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.01361
+Alignment Length: 90
+Percentage Identity: 0.244
+
+=== A0A520C9I6 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:RZL41941.1};
+Bit Score: 104.0
+E-value: 0.01361
+Alignment Length: 89
+Percentage Identity: 0.179
+
+=== A0A4U1JH17 ===
+DE   SubName: Full=Type VI secretion protein {ECO:0000313|EMBL:TKD09990.1};
+Bit Score: 138.0
+E-value: 0.01452
+Alignment Length: 94
+Percentage Identity: 0.18
+
+=== A0A017SU98 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EYF00180.1};
+Bit Score: 128.0
+E-value: 0.01452
+Alignment Length: 98
+Percentage Identity: 0.183
+
+=== A0A1N6F176 ===
+DE   SubName: Full=PAAR motif-containing protein {ECO:0000313|EMBL:SIN89058.1};
+Bit Score: 127.0
+E-value: 0.01452
+Alignment Length: 94
+Percentage Identity: 0.212
+
+=== A0A521G8P5 ===
+DE   SubName: Full=Type VI secretion protein {ECO:0000313|EMBL:TAE24146.1};
+Bit Score: 124.0
+E-value: 0.01452
+Alignment Length: 96
+Percentage Identity: 0.187
+
+=== A0A257S8L0 ===
+DE   RecName: Full=Type VI secretion protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 120.0
+E-value: 0.01452
+Alignment Length: 94
+Percentage Identity: 0.18
+
+=== A0A519ER99 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:RZI66011.1};
+Bit Score: 118.0
+E-value: 0.01452
+Alignment Length: 88
+Percentage Identity: 0.181
+
+=== A0A454JK93 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:RMC99610.1};
+Bit Score: 115.0
+E-value: 0.01452
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A1S8CTP2 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 115.0
+E-value: 0.01452
+Alignment Length: 92
+Percentage Identity: 0.184
+
+=== C5ALI9 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ACR30690.1};
+Bit Score: 115.0
+E-value: 0.01452
+Alignment Length: 89
+Percentage Identity: 0.179
+
+=== A0A662LTN7 ===
+DE   SubName: Full=PaaR repeat-containing protein {ECO:0000313|EMBL:RLF57159.1};
+Bit Score: 134.0
+E-value: 0.01548
+Alignment Length: 90
+Percentage Identity: 0.177
+
+=== A0A437MES4 ===
+DE   SubName: Full=Type VI secretion protein {ECO:0000313|EMBL:RVT96115.1};
+Bit Score: 125.0
+E-value: 0.01548
+Alignment Length: 98
+Percentage Identity: 0.163
+
+=== A0A850BWI8 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:NUQ78874.1};
+Bit Score: 123.0
+E-value: 0.01548
+Alignment Length: 91
+Percentage Identity: 0.219
+
+=== A0A484GF81 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:TEA28096.1};
+DE   Flags: Fragment;
+Bit Score: 121.0
+E-value: 0.01548
+Alignment Length: 76
+Percentage Identity: 0.184
+
+=== A0A1V4GUR4 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OPH35876.1};
+Bit Score: 112.0
+E-value: 0.01548
+Alignment Length: 92
+Percentage Identity: 0.206
+
+=== A0A3M4DQ88 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 110.0
+E-value: 0.01548
+Alignment Length: 82
+Percentage Identity: 0.256
+
+=== A0A382DX66 ===
+DE   RecName: Full=PAAR motif protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.01548
+Alignment Length: 87
+Percentage Identity: 0.16
+
+=== A0A645DXT5 ===
+DE   SubName: Full=Putative deoxyribonuclease RhsA {ECO:0000313|EMBL:MPM94125.1};
+DE            EC=3.1.-.- {ECO:0000313|EMBL:MPM94125.1};
+Bit Score: 106.0
+E-value: 0.01548
+Alignment Length: 92
+Percentage Identity: 0.293
+
+=== S2F6J9 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 103.0
+E-value: 0.01548
+Alignment Length: 77
+Percentage Identity: 0.233
+
+=== A0A4Y6UHZ5 ===
+DE   RecName: Full=DUF4237 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 129.0
+E-value: 0.01651
+Alignment Length: 77
+Percentage Identity: 0.233
+
+=== A0A1H2V8A7 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SDW64515.1};
+Bit Score: 124.0
+E-value: 0.01651
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A1Q9XSV4 ===
+DE   RecName: Full=Type IV secretion protein Rhs {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.01651
+Alignment Length: 94
+Percentage Identity: 0.191
+
+=== A0A1H1PM43 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SDS12236.1};
+Bit Score: 119.0
+E-value: 0.01651
+Alignment Length: 94
+Percentage Identity: 0.18
+
+=== A0A0M6Y3Z8 ===
+DE   RecName: Full=Zn-binding protein involved in type VI secretion {ECO:0008006|Google:ProtNLM};
+Bit Score: 118.0
+E-value: 0.01651
+Alignment Length: 97
+Percentage Identity: 0.144
+
+=== A0A1H2SG07 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SDW30445.1};
+Bit Score: 110.0
+E-value: 0.01651
+Alignment Length: 89
+Percentage Identity: 0.235
+
+=== A0A2N3HTR5 ===
+DE   RecName: Full=Paar repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 130.0
+E-value: 0.0176
+Alignment Length: 98
+Percentage Identity: 0.234
+
+=== A0A521TVY3 ===
+DE   RecName: Full=Type VI secretion protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 128.0
+E-value: 0.0176
+Alignment Length: 101
+Percentage Identity: 0.207
+
+=== X5F710 ===
+DE   RecName: Full=Type VI secretion system PAAR protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 125.0
+E-value: 0.0176
+Alignment Length: 75
+Percentage Identity: 0.253
+
+=== A0A3B0WGM1 ===
+DE   RecName: Full=Type VI secretion protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.0176
+Alignment Length: 97
+Percentage Identity: 0.216
+
+=== N8Y4A2 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.0176
+Alignment Length: 89
+Percentage Identity: 0.224
+
+=== A0A228J498 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.0176
+Alignment Length: 91
+Percentage Identity: 0.197
+
+=== A0A2E0H7N2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAR88303.1};
+Bit Score: 115.0
+E-value: 0.0176
+Alignment Length: 100
+Percentage Identity: 0.18
+
+=== A0A081CTV1 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.0176
+Alignment Length: 87
+Percentage Identity: 0.16
+
+=== A1U418 ===
+DE   SubName: Full=PAAR repeat-containing protein {ECO:0000313|EMBL:ABM19737.1};
+Bit Score: 109.0
+E-value: 0.0176
+Alignment Length: 80
+Percentage Identity: 0.275
+
+=== A0A2K9ER65 ===
+DE   RecName: Full=Type VI secretion protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 125.0
+E-value: 0.01877
+Alignment Length: 91
+Percentage Identity: 0.241
+
+=== A0A7U6B532 ===
+DE   SubName: Full=Rhs family protein {ECO:0000313|EMBL:AXA90573.1};
+Bit Score: 125.0
+E-value: 0.01877
+Alignment Length: 77
+Percentage Identity: 0.22
+
+=== Q02CG1 ===
+DE   SubName: Full=PAAR repeat-containing protein {ECO:0000313|EMBL:ABJ81255.1};
+Bit Score: 123.0
+E-value: 0.01877
+Alignment Length: 98
+Percentage Identity: 0.214
+
+=== A0A484GEK0 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:TEA27697.1};
+Bit Score: 123.0
+E-value: 0.01877
+Alignment Length: 90
+Percentage Identity: 0.2
+
+=== A0A521X7A9 ===
+DE   RecName: Full=Type VI secretion protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 122.0
+E-value: 0.01877
+Alignment Length: 100
+Percentage Identity: 0.22
+
+=== A0A2E7P0C6 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 122.0
+E-value: 0.01877
+Alignment Length: 87
+Percentage Identity: 0.206
+
+=== R9B2M1 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.01877
+Alignment Length: 81
+Percentage Identity: 0.234
+
+=== A0A553GT80 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.01877
+Alignment Length: 89
+Percentage Identity: 0.258
+
+=== A0A7Y5NQK6 ===
+DE   RecName: Full=DUF637 domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 96.0
+E-value: 0.01877
+Alignment Length: 89
+Percentage Identity: 0.191
+
+=== A0A379ZQM3 ===
+DE   SubName: Full=Uncharacterized conserved protein {ECO:0000313|EMBL:SUI66212.1};
+Bit Score: 123.0
+E-value: 0.02002
+Alignment Length: 77
+Percentage Identity: 0.311
+
+=== A0A1V9F5Q0 ===
+DE   RecName: Full=Lysine-specific metallo-endopeptidase domain-containing protein {ECO:0000259|SMART:SM01351};
+Bit Score: 122.0
+E-value: 0.02002
+Alignment Length: 100
+Percentage Identity: 0.2
+
+=== A0A853JC57 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:NZA26836.1};
+Bit Score: 121.0
+E-value: 0.02002
+Alignment Length: 89
+Percentage Identity: 0.202
+
+=== A0A7C6F2N1 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 121.0
+E-value: 0.02002
+Alignment Length: 107
+Percentage Identity: 0.186
+
+=== A0A1I1UV95 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SFD73598.1};
+Bit Score: 117.0
+E-value: 0.02002
+Alignment Length: 100
+Percentage Identity: 0.23
+
+=== A0A3A8FBL9 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:RKG38601.1};
+Bit Score: 115.0
+E-value: 0.02002
+Alignment Length: 92
+Percentage Identity: 0.141
+
+=== A0A1I6LKB6 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SFS03909.1};
+Bit Score: 113.0
+E-value: 0.02002
+Alignment Length: 108
+Percentage Identity: 0.175
+
+=== A0A0M9EDM9 ===
+DE   SubName: Full=Type VI secretion protein {ECO:0000313|EMBL:KPA19520.1};
+Bit Score: 112.0
+E-value: 0.02002
+Alignment Length: 101
+Percentage Identity: 0.217
+
+=== A0A1Y3CGL6 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 109.0
+E-value: 0.02002
+Alignment Length: 91
+Percentage Identity: 0.153
+
+=== A0A0J8V4P0 ===
+DE   RecName: Full=Type VI secretion protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 105.0
+E-value: 0.02002
+Alignment Length: 110
+Percentage Identity: 0.19
+
+=== A0A811GRQ7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CAB3835918.1};
+Bit Score: 128.0
+E-value: 0.02134
+Alignment Length: 87
+Percentage Identity: 0.195
+
+=== A0A1V6CP46 ===
+DE   SubName: Full=PAAR motif protein {ECO:0000313|EMBL:OQB78603.1};
+Bit Score: 120.0
+E-value: 0.02134
+Alignment Length: 97
+Percentage Identity: 0.226
+
+=== G8PVB0 ===
+DE   RecName: Full=PAAR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 117.0
+E-value: 0.02134
+Alignment Length: 69
+Percentage Identity: 0.275
+
+=== A0A418MFB4 ===
+DE   RecName: Full=Type VI secretion protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 116.0
+E-value: 0.02134
+Alignment Length: 99
+Percentage Identity: 0.232
+
+=== A0A4Y9JSC3 ===
+DE   RecName: Full=DUF6531 domain-containing protein {ECO:0000259|Pfam:PF20148};
+DE   Flags: Fragment;
+Bit Score: 113.0
+E-value: 0.02134
+Alignment Length: 80
+Percentage Identity: 0.237
+
+=== A0A3A9I1R2 ===
+DE   RecName: Full=Type VI secretion system PAAR protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 111.0
+E-value: 0.02134
+Alignment Length: 75
+Percentage Identity: 0.24
+
+=== A0A4R3X523 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:TCV65352.1};
+Bit Score: 111.0
+E-value: 0.02134
+Alignment Length: 102
+Percentage Identity: 0.176
+
+=== A0A7W6ABA2 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:MBB3880162.1};
+Bit Score: 110.0
+E-value: 0.02134
+Alignment Length: 79
+Percentage Identity: 0.189
+
+=== A0A1Z2SIU7 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ASA57114.1};
+Bit Score: 102.0
+E-value: 0.02134
+Alignment Length: 80
+Percentage Identity: 0.237
+
+=== B5EVY9 ===
+DE   RecName: Full=Tox-PAAR-like domain-containing protein {ECO:0000259|Pfam:PF13665};
+Bit Score: 88.0
+E-value: 0.02134
+Alignment Length: 120
+Percentage Identity: 0.141
+
+=== A0A0C1LJ21 ===
+DE   SubName: Full=Type VI secretion protein {ECO:0000313|EMBL:KIC95398.1};
+Bit Score: 126.0
+E-value: 0.02276
+Alignment Length: 101
+Percentage Identity: 0.168
+
+=== A0A4P9VS55 ===
+DE   RecName: Full=N-acetylmuramoyl-L-alanine amidase {ECO:0000256|ARBA:ARBA00011901};
+DE            EC=3.5.1.28 {ECO:0000256|ARBA:ARBA00011901};
+Bit Score: 120.0
+E-value: 0.02276
+Alignment Length: 93
+Percentage Identity: 0.236
+
+=== Q48FV9 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 108.0
+E-value: 0.02276
+Alignment Length: 80
+Percentage Identity: 0.262
+
+=== W3V1F5 ===
+DE   SubName: Full=PAAR motif protein {ECO:0000313|EMBL:ETS29623.1};
+Bit Score: 105.0
+E-value: 0.02276
+Alignment Length: 88
+Percentage Identity: 0.272
+
+=== A0A2E8NRW5 ===
+DE   SubName: Full=PaaR repeat-containing protein {ECO:0000313|EMBL:MBR18657.1};
+Bit Score: 126.0
+E-value: 0.02427
+Alignment Length: 104
+Percentage Identity: 0.144
+
+=== A0A2S8FG27 ===
+DE   RecName: Full=Type VI secretion protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 125.0
+E-value: 0.02427
+Alignment Length: 102
+Percentage Identity: 0.254
+
+=== A0A3N4Q126 ===
+DE   SubName: Full=Type VI secretion protein {ECO:0000313|EMBL:RPE05464.1};
+Bit Score: 120.0
+E-value: 0.02427
+Alignment Length: 92
+Percentage Identity: 0.228
+
+=== A0A378TRA6 ===
+DE   SubName: Full=Uncharacterized conserved protein {ECO:0000313|EMBL:STZ63348.1};
+Bit Score: 120.0
+E-value: 0.02427
+Alignment Length: 88
+Percentage Identity: 0.193
+
+=== A0A7Y6UW89 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:NVD98139.1};
+Bit Score: 119.0
+E-value: 0.02427
+Alignment Length: 95
+Percentage Identity: 0.2
+
+=== A0A4R8L3E8 ===
+DE   RecName: Full=PAAR motif-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.02427
+Alignment Length: 91
+Percentage Identity: 0.186
+
+=== A0A1N6FTP0 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SIN98600.1};
+Bit Score: 120.0
+E-value: 0.02588
+Alignment Length: 94
+Percentage Identity: 0.191
+
+=== A0A662A992 ===
+DE   RecName: Full=Type VI secretion protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 118.0
+E-value: 0.02588
+Alignment Length: 100
+Percentage Identity: 0.23
+
+=== A0A2M8W0B7 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:PJI84363.1};
+Bit Score: 117.0
+E-value: 0.02588
+Alignment Length: 93
+Percentage Identity: 0.236
+
+=== A0A7Y1CN65 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 124.0
+E-value: 0.0276
+Alignment Length: 96
+Percentage Identity: 0.177
+
+=== A0A7C7G3U5 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 118.0
+E-value: 0.0276
+Alignment Length: 98
+Percentage Identity: 0.193
+
+=== A0A525CU99 ===
+DE   RecName: Full=Tox-PAAR-like domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.0276
+Alignment Length: 101
+Percentage Identity: 0.237
+
+=== A0A7Y5H0G1 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 106.0
+E-value: 0.0276
+Alignment Length: 103
+Percentage Identity: 0.165
+
+=== A0A3E1R9N1 ===
+DE   RecName: Full=Lysozyme {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+DE            EC=3.2.1.17 {ECO:0000256|ARBA:ARBA00012732, ECO:0000256|RuleBase:RU003788};
+Bit Score: 107.0
+E-value: 0.02943
+Alignment Length: 89
+Percentage Identity: 0.191
+
+=== A0A831VV65 ===
+DE   RecName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.02943
+Alignment Length: 68
+Percentage Identity: 0.279
+
+=== A0A519Q993 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 102.0
+E-value: 0.02943
+Alignment Length: 85
+Percentage Identity: 0.235
+
+=== A0A1G8PA12 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SDI89125.1};
+Bit Score: 99.0
+E-value: 0.02943
+Alignment Length: 96
+Percentage Identity: 0.197
+
+=== A0A4U1JDU3 ===
+DE   RecName: Full=Type VI secretion protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 123.0
+E-value: 0.03139
+Alignment Length: 93
+Percentage Identity: 0.193
+
+=== A0A2R4CHP2 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:AVR99000.1};
+Bit Score: 110.0
+E-value: 0.03139
+Alignment Length: 84
+Percentage Identity: 0.142
+
+=== A0A3B0JCP1 ===
+DE   RecName: Full=Phage related protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.03139
+Alignment Length: 89
+Percentage Identity: 0.224
+
+=== A0A1W6EUK4 ===
+DE   SubName: Full=PAAR repeat-containing protein {ECO:0000313|EMBL:ARK19402.1};
+Bit Score: 95.0
+E-value: 0.03139
+Alignment Length: 95
+Percentage Identity: 0.168
+
+=== A0A1S7U5E7 ===
+DE   RecName: Full=PAAR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 119.0
+E-value: 0.03347
+Alignment Length: 98
+Percentage Identity: 0.163
+
+=== A0A2S5KL24 ===
+DE   RecName: Full=Type VI secretion protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 115.0
+E-value: 0.03347
+Alignment Length: 97
+Percentage Identity: 0.195
+
+=== A0A2S8PZ72 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:PQQ24527.1};
+Bit Score: 107.0
+E-value: 0.03347
+Alignment Length: 79
+Percentage Identity: 0.24
+
+=== B1T2K5 ===
+DE   RecName: Full=PAAR repeat-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 104.0
+E-value: 0.03347
+Alignment Length: 92
+Percentage Identity: 0.184
+
+=== A0A1Y1Q580 ===
+DE   RecName: Full=Phospholipase {ECO:0008006|Google:ProtNLM};
+Bit Score: 87.0
+E-value: 0.03347
+Alignment Length: 110
+Percentage Identity: 0.181
+
+=== A0A3M0LW78 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 120.0
+E-value: 0.03569
+Alignment Length: 92
+Percentage Identity: 0.206
+
+=== A0A850BIK1 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:NUQ74570.1};
+Bit Score: 118.0
+E-value: 0.03569
+Alignment Length: 100
+Percentage Identity: 0.19
+
+=== A0A329WUN0 ===
+DE   RecName: Full=Type IV secretion protein Rhs {ECO:0008006|Google:ProtNLM};
+Bit Score: 116.0
+E-value: 0.03569
+Alignment Length: 76
+Percentage Identity: 0.263
+
+=== A0A1A9K4X2 ===
+DE   RecName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0008006|Google:ProtNLM};
+Bit Score: 114.0
+E-value: 0.03569
+Alignment Length: 94
+Percentage Identity: 0.17
+
+=== A0A7V9QLD6 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:MBA2686101.1};
+Bit Score: 111.0
+E-value: 0.03569
+Alignment Length: 105
+Percentage Identity: 0.19
+
+=== A0A359G0M1 ===
+DE   RecName: Full=Type VI secretion protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 110.0
+E-value: 0.03569
+Alignment Length: 72
+Percentage Identity: 0.319
+
+=== N9D985 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 105.0
+E-value: 0.03569
+Alignment Length: 93
+Percentage Identity: 0.182
+
+=== A0A072TEB2 ===
+DE   SubName: Full=PAAR motif protein {ECO:0000313|EMBL:KEH15727.1};
+DE   Flags: Fragment;
+Bit Score: 104.0
+E-value: 0.03569
+Alignment Length: 91
+Percentage Identity: 0.164
+
+=== A0A1I3ULE9 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SFJ83742.1};
+Bit Score: 123.0
+E-value: 0.03806
+Alignment Length: 94
+Percentage Identity: 0.212
+
+=== A0A518K8A6 ===
+DE   SubName: Full=PAAR motif protein {ECO:0000313|EMBL:QDV74020.1};
+Bit Score: 117.0
+E-value: 0.03806
+Alignment Length: 100
+Percentage Identity: 0.17
+
+=== A0A2N7QRX7 ===
+DE   RecName: Full=10 kDa chaperonin {ECO:0008006|Google:ProtNLM};
+Bit Score: 115.0
+E-value: 0.03806
+Alignment Length: 79
+Percentage Identity: 0.189
+
+=== A0A3M4CTW3 ===
+DE   SubName: Full=PAAR protein {ECO:0000313|EMBL:RMP34782.1};
+DE   Flags: Fragment;
+Bit Score: 111.0
+E-value: 0.03806
+Alignment Length: 95
+Percentage Identity: 0.221
+
+=== A0A6P2RBW9 ===
+DE   SubName: Full=PAAR repeat-containing protein {ECO:0000313|EMBL:VWC32690.1};
+Bit Score: 110.0
+E-value: 0.03806
+Alignment Length: 87
+Percentage Identity: 0.137
+
+=== A0A560VHM2 ===
+DE   SubName: Full=Putative Zn-binding protein involved in type VI secretion {ECO:0000313|EMBL:TWD04854.1};
+Bit Score: 109.0
+E-value: 0.03806
+Alignment Length: 84
+Percentage Identity: 0.154
+
+=== A0A1I3P3M8 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SFJ15666.1};
+Bit Score: 108.0
+E-value: 0.03806
+Alignment Length: 98
+Percentage Identity: 0.204
+
+=== A0A1H3FK20 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SDX91402.1};
+Bit Score: 101.0
+E-value: 0.03806
+Alignment Length: 90
+Percentage Identity: 0.255
+
+=== A0A5Q4ZYD4 ===
+DE   RecName: Full=Tox-PAAR-like domain-containing protein {ECO:0000259|Pfam:PF13665};
+Bit Score: 85.0
+E-value: 0.03806
+Alignment Length: 113
+Percentage Identity: 0.132
+
+=== D0YXY1 ===
+DE   SubName: Full=Uropathogenic specific protein {ECO:0000313|EMBL:EEZ41112.1};
+Bit Score: 110.0
+E-value: 0.04059
+Alignment Length: 65
+Percentage Identity: 0.276
+
+=== A0A4P7CNN5 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QBQ97390.1};
+Bit Score: 107.0
+E-value: 0.04059
+Alignment Length: 89
+Percentage Identity: 0.168
+
+=== A0A242NXH4 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+DE   Flags: Fragment;
+Bit Score: 116.0
+E-value: 0.04328
+Alignment Length: 78
+Percentage Identity: 0.141
+
+=== A0A5U2WYP3 ===
+DE   SubName: Full=RHS repeat protein {ECO:0000313|EMBL:EBP2351170.1};
+DE   Flags: Fragment;
+Bit Score: 115.0
+E-value: 0.04328
+Alignment Length: 77
+Percentage Identity: 0.233
+
+=== A0A3N8LDW4 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:RQS72634.1};
+Bit Score: 93.0
+E-value: 0.04328
+Alignment Length: 88
+Percentage Identity: 0.215
+
+=== A0A321LXG2 ===
+DE   SubName: Full=Type VI secretion protein {ECO:0000313|EMBL:PYP91719.1};
+Bit Score: 119.0
+E-value: 0.04615
+Alignment Length: 100
+Percentage Identity: 0.18
+
+=== A0A1I2DU92 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SFE83480.1};
+Bit Score: 116.0
+E-value: 0.04615
+Alignment Length: 79
+Percentage Identity: 0.202
+
+=== A0A627YDQ4 ===
+DE   SubName: Full=RHS repeat protein {ECO:0000313|EMBL:EDD1175908.1};
+DE   Flags: Fragment;
+Bit Score: 108.0
+E-value: 0.04615
+Alignment Length: 80
+Percentage Identity: 0.225
+
+=== A0A1G9ELW6 ===
+DE   SubName: Full=Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion {ECO:0000313|EMBL:SDK77041.1};
+Bit Score: 100.0
+E-value: 0.04615
+Alignment Length: 90
+Percentage Identity: 0.266
+
+=== A0A4P7D7J8 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:QBR02714.1};
+Bit Score: 99.0
+E-value: 0.04615
+Alignment Length: 103
+Percentage Identity: 0.165
+
+=== A0A0S2FCF0 ===
+DE   SubName: Full=PAAR motif family protein {ECO:0000313|EMBL:ALN81217.1};
+Bit Score: 98.0
+E-value: 0.04615
+Alignment Length: 86
+Percentage Identity: 0.209
+
+=== A0A7Y5KRH7 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:NUP05600.1};
+Bit Score: 103.0
+E-value: 0.04922
+Alignment Length: 100
+Percentage Identity: 0.19
+
+=== A0A7Y5GX08 ===
+DE   SubName: Full=PAAR domain-containing protein {ECO:0000313|EMBL:NUN14793.1};
+Bit Score: 100.0
+E-value: 0.04922
+Alignment Length: 103
+Percentage Identity: 0.174
+
+=== I2NT19 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 99.0
+E-value: 0.04922
+Alignment Length: 66
+Percentage Identity: 0.272
+
+=== A0A1Q9RBC1 ===
+DE   RecName: Full=PAAR domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 92.0
+E-value: 0.04922
+Alignment Length: 94
+Percentage Identity: 0.117
+

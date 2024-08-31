@@ -1,0 +1,14 @@
+=== A0A6I7HGK1 ===
+DE   RecName: Full=Lipoprotein {ECO:0008006|Google:ProtNLM};
+Bit Score: 85.0
+E-value: 0.03581
+Alignment Length: 100
+Percentage Identity: 0.2
+
+=== A0A2D6XAW2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:MAH48065.1};
+Bit Score: 74.0
+E-value: 0.04304
+Alignment Length: 98
+Percentage Identity: 0.122
+

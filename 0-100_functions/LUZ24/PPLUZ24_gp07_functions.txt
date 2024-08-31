@@ -1,0 +1,779 @@
+=== A0A7Y5A2A8 ===
+DE   SubName: Full=SprT domain-containing protein {ECO:0000313|EMBL:NOU46168.1};
+Bit Score: 181.0
+E-value: 0.002972
+Alignment Length: 62
+Percentage Identity: 0.209
+
+=== A0A4Q0M8U3 ===
+DE   SubName: Full=SprT domain-containing protein {ECO:0000313|EMBL:RXF69146.1};
+Bit Score: 178.0
+E-value: 0.002972
+Alignment Length: 62
+Percentage Identity: 0.225
+
+=== A0A519X475 ===
+DE   SubName: Full=SprT domain-containing protein {ECO:0000313|EMBL:RZK78916.1};
+DE   Flags: Fragment;
+Bit Score: 169.0
+E-value: 0.003521
+Alignment Length: 61
+Percentage Identity: 0.278
+
+=== A0A2D9GF14 ===
+DE   SubName: Full=SprT domain-containing protein {ECO:0000313|EMBL:MAO72282.1};
+Bit Score: 166.0
+E-value: 0.003942
+Alignment Length: 61
+Percentage Identity: 0.18
+
+=== A0A415ZIJ0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RHO63828.1};
+Bit Score: 163.0
+E-value: 0.004171
+Alignment Length: 70
+Percentage Identity: 0.171
+
+=== C6W0Z2 ===
+DE   RecName: Full=SprT-like domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 170.0
+E-value: 0.004941
+Alignment Length: 60
+Percentage Identity: 0.166
+
+=== A0A1V5VM20 ===
+DE   RecName: Full=SprT-like family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 173.0
+E-value: 0.006193
+Alignment Length: 61
+Percentage Identity: 0.196
+
+=== A0A2E1GSI4 ===
+DE   SubName: Full=SprT domain-containing protein {ECO:0000313|EMBL:MAU89163.1};
+Bit Score: 171.0
+E-value: 0.007763
+Alignment Length: 61
+Percentage Identity: 0.18
+
+=== A0A495JAA3 ===
+DE   RecName: Full=SprT-like domain-containing protein {ECO:0000259|Pfam:PF10263};
+Bit Score: 154.0
+E-value: 0.008692
+Alignment Length: 64
+Percentage Identity: 0.218
+
+=== A0A1V0I2E0 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 122.0
+E-value: 0.008692
+Alignment Length: 71
+Percentage Identity: 0.169
+
+=== A0A1T5E7N4 ===
+DE   RecName: Full=SprT-like family protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 160.0
+E-value: 0.009197
+Alignment Length: 65
+Percentage Identity: 0.215
+
+=== A0A381Q6X2 ===
+DE   RecName: Full=SprT-like domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 153.0
+E-value: 0.009197
+Alignment Length: 66
+Percentage Identity: 0.212
+
+=== A0A3D3CZ24 ===
+DE   RecName: Full=SprT-like domain-containing protein {ECO:0000259|Pfam:PF10263};
+DE   Flags: Fragment;
+Bit Score: 152.0
+E-value: 0.01089
+Alignment Length: 65
+Percentage Identity: 0.153
+
+=== A0A3E5ALV2 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RGN21506.1};
+Bit Score: 144.0
+E-value: 0.01089
+Alignment Length: 62
+Percentage Identity: 0.177
+
+=== A0A4Q3EX06 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RYE24795.1};
+Bit Score: 159.0
+E-value: 0.01153
+Alignment Length: 63
+Percentage Identity: 0.142
+
+=== A0A2N3A8W3 ===
+DE   SubName: Full=SprT domain-containing protein {ECO:0000313|EMBL:PKP51318.1};
+Bit Score: 153.0
+E-value: 0.0122
+Alignment Length: 63
+Percentage Identity: 0.19
+
+=== A0A369IHY0 ===
+DE   SubName: Full=SprT domain-containing protein {ECO:0000313|EMBL:RDB06246.1};
+Bit Score: 154.0
+E-value: 0.01291
+Alignment Length: 60
+Percentage Identity: 0.15
+
+=== A0A0R2QZ33 ===
+DE   RecName: Full=SprT-like domain-containing protein {ECO:0000259|Pfam:PF10263};
+Bit Score: 150.0
+E-value: 0.01291
+Alignment Length: 61
+Percentage Identity: 0.196
+
+=== A0A3D5S7G8 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HCX25107.1};
+Bit Score: 124.0
+E-value: 0.01291
+Alignment Length: 86
+Percentage Identity: 0.197
+
+=== A0A2D5AD49 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 124.0
+E-value: 0.01291
+Alignment Length: 69
+Percentage Identity: 0.144
+
+=== A0A4S0KW28 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 117.0
+E-value: 0.01291
+Alignment Length: 72
+Percentage Identity: 0.166
+
+=== A0A3L7S5U0 ===
+DE   SubName: Full=SprT domain-containing protein {ECO:0000313|EMBL:RLS77016.1};
+DE   Flags: Fragment;
+Bit Score: 151.0
+E-value: 0.01366
+Alignment Length: 62
+Percentage Identity: 0.209
+
+=== A0A5B7UCT4 ===
+DE   SubName: Full=SprT family zinc-dependent metalloprotease {ECO:0000313|EMBL:QCX53011.1};
+Bit Score: 151.0
+E-value: 0.01366
+Alignment Length: 64
+Percentage Identity: 0.14
+
+=== A0A0R2RZF2 ===
+DE   RecName: Full=SprT-like domain-containing protein {ECO:0000259|Pfam:PF10263};
+Bit Score: 149.0
+E-value: 0.01366
+Alignment Length: 61
+Percentage Identity: 0.196
+
+=== A0A090V966 ===
+DE   RecName: Full=SprT-like domain-containing protein {ECO:0000259|Pfam:PF10263};
+Bit Score: 148.0
+E-value: 0.01366
+Alignment Length: 63
+Percentage Identity: 0.19
+
+=== A0A0R2RMD3 ===
+DE   RecName: Full=SprT-like domain-containing protein {ECO:0000259|Pfam:PF10263};
+Bit Score: 148.0
+E-value: 0.01529
+Alignment Length: 61
+Percentage Identity: 0.196
+
+=== A0A4P5TNI4 ===
+DE   SubName: Full=Metallopeptidase {ECO:0000313|EMBL:GDX51861.1};
+Bit Score: 148.0
+E-value: 0.01529
+Alignment Length: 63
+Percentage Identity: 0.19
+
+=== A0A531HU52 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 122.0
+E-value: 0.01529
+Alignment Length: 67
+Percentage Identity: 0.179
+
+=== A0A221URM4 ===
+DE   SubName: Full=Metallopeptidase {ECO:0000313|EMBL:ASO03910.1};
+Bit Score: 156.0
+E-value: 0.01618
+Alignment Length: 61
+Percentage Identity: 0.163
+
+=== A0A2E1PD15 ===
+DE   SubName: Full=SprT domain-containing protein {ECO:0000313|EMBL:MAV81779.1};
+DE   Flags: Fragment;
+Bit Score: 152.0
+E-value: 0.01618
+Alignment Length: 66
+Percentage Identity: 0.136
+
+=== A0A4Q3SQG4 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 122.0
+E-value: 0.01618
+Alignment Length: 66
+Percentage Identity: 0.181
+
+=== A0A1X7KDR2 ===
+DE   SubName: Full=SprT-like family protein {ECO:0000313|EMBL:SMG39063.1};
+Bit Score: 155.0
+E-value: 0.01811
+Alignment Length: 61
+Percentage Identity: 0.163
+
+=== A0A3D2XHX5 ===
+DE   RecName: Full=SprT-like domain-containing protein {ECO:0000259|Pfam:PF10263};
+Bit Score: 153.0
+E-value: 0.01811
+Alignment Length: 61
+Percentage Identity: 0.163
+
+=== A0A3E1NLU4 ===
+DE   RecName: Full=SprT-like domain-containing protein {ECO:0000259|Pfam:PF10263};
+Bit Score: 148.0
+E-value: 0.01811
+Alignment Length: 67
+Percentage Identity: 0.179
+
+=== A0A4Q3DZP5 ===
+DE   SubName: Full=SprT domain-containing protein {ECO:0000313|EMBL:RYE11812.1};
+DE   Flags: Fragment;
+Bit Score: 148.0
+E-value: 0.01811
+Alignment Length: 62
+Percentage Identity: 0.177
+
+=== A0A1V5NYZ1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OQA10758.1};
+Bit Score: 141.0
+E-value: 0.01811
+Alignment Length: 68
+Percentage Identity: 0.161
+
+=== A0A838T9S9 ===
+DE   RecName: Full=SprT-like domain-containing protein {ECO:0000259|Pfam:PF10263};
+Bit Score: 139.0
+E-value: 0.01811
+Alignment Length: 64
+Percentage Identity: 0.171
+
+=== A0A2E7FBH6 ===
+DE   SubName: Full=SprT domain-containing protein {ECO:0000313|EMBL:MBN08841.1};
+Bit Score: 146.0
+E-value: 0.01917
+Alignment Length: 61
+Percentage Identity: 0.196
+
+=== A0A2T7UW46 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 113.0
+E-value: 0.01917
+Alignment Length: 66
+Percentage Identity: 0.166
+
+=== A0A6A4LNA0 ===
+DE   RecName: Full=Translation elongation factor KOW-like domain-containing protein {ECO:0000259|Pfam:PF08207};
+DE   Flags: Fragment;
+Bit Score: 121.0
+E-value: 0.02028
+Alignment Length: 68
+Percentage Identity: 0.161
+
+=== A0A1G1W7U1 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:OGY23749.1};
+Bit Score: 120.0
+E-value: 0.02028
+Alignment Length: 82
+Percentage Identity: 0.121
+
+=== A0A537V4P5 ===
+DE   RecName: Full=Translation elongation factor KOW-like domain-containing protein {ECO:0000259|Pfam:PF08207};
+DE   Flags: Fragment;
+Bit Score: 118.0
+E-value: 0.02028
+Alignment Length: 68
+Percentage Identity: 0.176
+
+=== A0A3M1HB99 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 109.0
+E-value: 0.02028
+Alignment Length: 73
+Percentage Identity: 0.205
+
+=== A0A0C1FI16 ===
+DE   RecName: Full=SprT-like domain-containing protein {ECO:0000259|Pfam:PF10263};
+Bit Score: 147.0
+E-value: 0.02146
+Alignment Length: 61
+Percentage Identity: 0.18
+
+=== A0A5Q4EIZ3 ===
+DE   RecName: Full=SprT-like domain-containing protein {ECO:0000259|Pfam:PF10263};
+Bit Score: 147.0
+E-value: 0.02146
+Alignment Length: 62
+Percentage Identity: 0.145
+
+=== A0A3E5GT65 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RGO50791.1};
+Bit Score: 135.0
+E-value: 0.02146
+Alignment Length: 78
+Percentage Identity: 0.179
+
+=== A0A4U0EX35 ===
+DE   SubName: Full=SprT domain-containing protein {ECO:0000313|EMBL:TJY36515.1};
+Bit Score: 147.0
+E-value: 0.0227
+Alignment Length: 65
+Percentage Identity: 0.123
+
+=== A0A540KAE8 ===
+DE   RecName: Full=Elongation factor P C-terminal domain-containing protein {ECO:0000259|SMART:SM00841};
+Bit Score: 119.0
+E-value: 0.0227
+Alignment Length: 69
+Percentage Identity: 0.159
+
+=== A0A0V0H160 ===
+DE   SubName: Full=Putative ovule protein {ECO:0000313|EMBL:JAP14130.1};
+Bit Score: 110.0
+E-value: 0.0227
+Alignment Length: 75
+Percentage Identity: 0.093
+
+=== A0A7X8DLR4 ===
+DE   SubName: Full=SprT family zinc-dependent metalloprotease {ECO:0000313|EMBL:NLJ81685.1};
+Bit Score: 154.0
+E-value: 0.02402
+Alignment Length: 59
+Percentage Identity: 0.152
+
+=== A0A2T3HQ25 ===
+DE   SubName: Full=SprT domain-containing protein {ECO:0000313|EMBL:PST84529.1};
+Bit Score: 146.0
+E-value: 0.02402
+Alignment Length: 67
+Percentage Identity: 0.194
+
+=== A0A2E2ELI8 ===
+DE   SubName: Full=SprT domain-containing protein {ECO:0000313|EMBL:MAX68940.1};
+Bit Score: 139.0
+E-value: 0.02402
+Alignment Length: 61
+Percentage Identity: 0.147
+
+=== A0A7C4YR72 ===
+DE   SubName: Full=Elongation factor P {ECO:0000313|EMBL:HGX11255.1};
+Bit Score: 120.0
+E-value: 0.02402
+Alignment Length: 66
+Percentage Identity: 0.136
+
+=== B9KKM5 ===
+DE   RecName: Full=Elongation factor P {ECO:0000255|HAMAP-Rule:MF_00141};
+DE            Short=EF-P {ECO:0000255|HAMAP-Rule:MF_00141};
+Bit Score: 114.0
+E-value: 0.02542
+Alignment Length: 66
+Percentage Identity: 0.196
+
+=== A0A3D4UW84 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:HCT52387.1};
+Bit Score: 114.0
+E-value: 0.02542
+Alignment Length: 74
+Percentage Identity: 0.189
+
+=== A0A833QY08 ===
+DE   SubName: Full=Putative translation elongation factor P {ECO:0000313|EMBL:KAF3330198.1};
+Bit Score: 112.0
+E-value: 0.02542
+Alignment Length: 66
+Percentage Identity: 0.151
+
+=== X5ZCU5 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 111.0
+E-value: 0.02542
+Alignment Length: 73
+Percentage Identity: 0.164
+
+=== A0A5D2GFG1 ===
+DE   RecName: Full=Translation elongation factor P/YeiP central domain-containing protein {ECO:0000259|SMART:SM01185};
+Bit Score: 119.0
+E-value: 0.02846
+Alignment Length: 65
+Percentage Identity: 0.215
+
+=== A0A0D2QDI7 ===
+DE   RecName: Full=Translation elongation factor KOW-like domain-containing protein {ECO:0000259|Pfam:PF08207};
+Bit Score: 112.0
+E-value: 0.02846
+Alignment Length: 73
+Percentage Identity: 0.205
+
+=== A0A836VVT6 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 111.0
+E-value: 0.02846
+Alignment Length: 66
+Percentage Identity: 0.196
+
+=== A0A2E2AX37 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 117.0
+E-value: 0.03011
+Alignment Length: 71
+Percentage Identity: 0.14
+
+=== A0A3L7SR24 ===
+DE   SubName: Full=SprT domain-containing protein {ECO:0000313|EMBL:RLS84009.1};
+Bit Score: 136.0
+E-value: 0.03186
+Alignment Length: 69
+Percentage Identity: 0.159
+
+=== A0A0F8Y6Z4 ===
+DE   RecName: Full=Translation elongation factor P/YeiP central domain-containing protein {ECO:0000259|SMART:SM01185};
+DE   Flags: Fragment;
+Bit Score: 117.0
+E-value: 0.03186
+Alignment Length: 72
+Percentage Identity: 0.194
+
+=== J4DNK6 ===
+DE   SubName: Full=Elongation factor {ECO:0000313|EMBL:BAM39124.1};
+Bit Score: 115.0
+E-value: 0.03186
+Alignment Length: 66
+Percentage Identity: 0.227
+
+=== A0A261Y3X0 ===
+DE   RecName: Full=Elongation factor P {ECO:0008006|Google:ProtNLM};
+Bit Score: 107.0
+E-value: 0.03186
+Alignment Length: 71
+Percentage Identity: 0.112
+
+=== V9EG66 ===
+DE   SubName: Full=Translation elongation factor P {ECO:0000313|EMBL:ETI37528.1};
+Bit Score: 106.0
+E-value: 0.03186
+Alignment Length: 75
+Percentage Identity: 0.12
+
+=== A0A1M5FTM5 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 105.0
+E-value: 0.03186
+Alignment Length: 74
+Percentage Identity: 0.162
+
+=== A0A1E3X656 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 115.0
+E-value: 0.03371
+Alignment Length: 64
+Percentage Identity: 0.234
+
+=== A0A529L4U0 ===
+DE   SubName: Full=Elongation factor P {ECO:0000313|EMBL:TIU28578.1};
+DE   Flags: Fragment;
+Bit Score: 115.0
+E-value: 0.03371
+Alignment Length: 69
+Percentage Identity: 0.173
+
+=== A0A527MRV7 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 114.0
+E-value: 0.03371
+Alignment Length: 67
+Percentage Identity: 0.164
+
+=== X6E8T8 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 114.0
+E-value: 0.03371
+Alignment Length: 67
+Percentage Identity: 0.164
+
+=== A0A2E6J3F2 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 112.0
+E-value: 0.03371
+Alignment Length: 67
+Percentage Identity: 0.149
+
+=== K1SSP3 ===
+DE   SubName: Full=Translation elongation factor P (EF-P) {ECO:0000313|EMBL:EKC63647.1};
+DE   Flags: Fragment;
+Bit Score: 110.0
+E-value: 0.03371
+Alignment Length: 65
+Percentage Identity: 0.2
+
+=== A0A3B8V1Z3 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 110.0
+E-value: 0.03371
+Alignment Length: 71
+Percentage Identity: 0.126
+
+=== A0A6I7QIG2 ===
+DE   RecName: Full=SprT-like domain-containing protein {ECO:0000259|Pfam:PF10263};
+Bit Score: 142.0
+E-value: 0.03567
+Alignment Length: 60
+Percentage Identity: 0.15
+
+=== A0A6J1BFY5 ===
+DE   SubName: Full=Uncharacterized protein LOC110427107 {ECO:0000313|RefSeq:XP_021298195.1};
+Bit Score: 117.0
+E-value: 0.03567
+Alignment Length: 65
+Percentage Identity: 0.2
+
+=== A0A529HJG3 ===
+DE   SubName: Full=Elongation factor P {ECO:0000313|EMBL:TIT83898.1};
+DE   Flags: Fragment;
+Bit Score: 114.0
+E-value: 0.03567
+Alignment Length: 67
+Percentage Identity: 0.164
+
+=== A0A5M4D1P1 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 114.0
+E-value: 0.03567
+Alignment Length: 69
+Percentage Identity: 0.072
+
+=== D6U7C7 ===
+DE   SubName: Full=Elongation factor P {ECO:0000313|EMBL:EFH79788.1};
+Bit Score: 113.0
+E-value: 0.03567
+Alignment Length: 65
+Percentage Identity: 0.215
+
+=== A0A2E6CJI3 ===
+DE   SubName: Full=Elongation factor P {ECO:0000313|EMBL:MBJ68571.1};
+DE   Flags: Fragment;
+Bit Score: 105.0
+E-value: 0.03567
+Alignment Length: 75
+Percentage Identity: 0.146
+
+=== A0A2E3HR92 ===
+DE   SubName: Full=SprT domain-containing protein {ECO:0000313|EMBL:MBB13444.1};
+Bit Score: 143.0
+E-value: 0.03775
+Alignment Length: 63
+Percentage Identity: 0.111
+
+=== A0A7V3AGL2 ===
+DE   SubName: Full=Elongation factor P {ECO:0000313|EMBL:HFK18794.1};
+Bit Score: 115.0
+E-value: 0.03775
+Alignment Length: 65
+Percentage Identity: 0.215
+
+=== A0A349PXJ6 ===
+DE   RecName: Full=elongation factor P {ECO:0000256|NCBIfam:TIGR00038};
+DE   Flags: Fragment;
+Bit Score: 114.0
+E-value: 0.03775
+Alignment Length: 68
+Percentage Identity: 0.191
+
+=== A0A2N2ZT78 ===
+DE   SubName: Full=SprT domain-containing protein {ECO:0000313|EMBL:PKP45754.1};
+Bit Score: 126.0
+E-value: 0.03994
+Alignment Length: 67
+Percentage Identity: 0.104
+
+=== A0A401Z7X0 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:GCE02960.1};
+Bit Score: 124.0
+E-value: 0.03994
+Alignment Length: 71
+Percentage Identity: 0.14
+
+=== A0A2V9GNW6 ===
+DE   SubName: Full=Elongation factor P {ECO:0000313|EMBL:PYU71055.1};
+DE   Flags: Fragment;
+Bit Score: 115.0
+E-value: 0.03994
+Alignment Length: 68
+Percentage Identity: 0.132
+
+=== A0A2Z6LTW1 ===
+DE   RecName: Full=Translation elongation factor KOW-like domain-containing protein {ECO:0000259|Pfam:PF08207};
+Bit Score: 112.0
+E-value: 0.03994
+Alignment Length: 67
+Percentage Identity: 0.208
+
+=== E8ZKE2 ===
+DE   SubName: Full=Translation elongation factor P {ECO:0000313|EMBL:CBY92108.1};
+Bit Score: 112.0
+E-value: 0.03994
+Alignment Length: 67
+Percentage Identity: 0.208
+
+=== A0A4S0JZP5 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 112.0
+E-value: 0.03994
+Alignment Length: 67
+Percentage Identity: 0.164
+
+=== S6B354 ===
+DE   SubName: Full=Elongation factor P, putative {ECO:0000313|EMBL:BAN65818.1};
+Bit Score: 111.0
+E-value: 0.03994
+Alignment Length: 66
+Percentage Identity: 0.212
+
+=== A0A5C8RVF7 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 111.0
+E-value: 0.03994
+Alignment Length: 65
+Percentage Identity: 0.153
+
+=== A0A257PF07 ===
+DE   SubName: Full=Elongation factor P {ECO:0000313|EMBL:OYV34759.1};
+DE   Flags: Fragment;
+Bit Score: 110.0
+E-value: 0.03994
+Alignment Length: 67
+Percentage Identity: 0.223
+
+=== A0A431LWD5 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 110.0
+E-value: 0.03994
+Alignment Length: 65
+Percentage Identity: 0.2
+
+=== A5VLU9 ===
+DE   RecName: Full=Elongation factor P {ECO:0000255|HAMAP-Rule:MF_00141};
+DE            Short=EF-P {ECO:0000255|HAMAP-Rule:MF_00141};
+Bit Score: 115.0
+E-value: 0.04226
+Alignment Length: 65
+Percentage Identity: 0.184
+
+=== A0A7X3DKR3 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 114.0
+E-value: 0.04226
+Alignment Length: 68
+Percentage Identity: 0.191
+
+=== A0A2T7BZJ7 ===
+DE   RecName: Full=Translation elongation factor P/YeiP central domain-containing protein {ECO:0008006|Google:ProtNLM};
+Bit Score: 111.0
+E-value: 0.04226
+Alignment Length: 69
+Percentage Identity: 0.173
+
+=== A0A5J9WB24 ===
+DE   RecName: Full=Translation elongation factor P/YeiP central domain-containing protein {ECO:0000259|SMART:SM01185};
+DE   Flags: Fragment;
+Bit Score: 111.0
+E-value: 0.04226
+Alignment Length: 67
+Percentage Identity: 0.164
+
+=== A8V562 ===
+DE   SubName: Full=Elongation factor P {ECO:0000313|EMBL:EDP73074.1};
+DE   Flags: Fragment;
+Bit Score: 98.0
+E-value: 0.04226
+Alignment Length: 66
+Percentage Identity: 0.181
+
+=== A0A3R6Y8A3 ===
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:RHV86275.1};
+Bit Score: 114.0
+E-value: 0.04472
+Alignment Length: 83
+Percentage Identity: 0.156
+
+=== A0A804JTA4 ===
+DE   RecName: Full=Translation elongation factor P/YeiP central domain-containing protein {ECO:0000259|SMART:SM01185};
+Bit Score: 110.0
+E-value: 0.04472
+Alignment Length: 66
+Percentage Identity: 0.151
+
+=== A0A2M9CVP5 ===
+DE   SubName: Full=SprT-like family protein {ECO:0000313|EMBL:PJJ75981.1};
+Bit Score: 109.0
+E-value: 0.04472
+Alignment Length: 70
+Percentage Identity: 0.185
+
+=== U4TKN5 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 113.0
+E-value: 0.04731
+Alignment Length: 65
+Percentage Identity: 0.169
+
+=== A0A6L3T7V4 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 111.0
+E-value: 0.04731
+Alignment Length: 70
+Percentage Identity: 0.157
+
+=== A0A7X8ZQU6 ===
+DE   SubName: Full=Elongation factor P {ECO:0000313|EMBL:NLZ70927.1};
+DE   Flags: Fragment;
+Bit Score: 107.0
+E-value: 0.04731
+Alignment Length: 64
+Percentage Identity: 0.187
+
+=== A0A7C5W6P7 ===
+DE   RecName: Full=Elongation factor P {ECO:0000256|HAMAP-Rule:MF_00141, ECO:0000256|NCBIfam:TIGR00038};
+DE            Short=EF-P {ECO:0000256|HAMAP-Rule:MF_00141};
+Bit Score: 103.0
+E-value: 0.04731
+Alignment Length: 64
+Percentage Identity: 0.171
+
