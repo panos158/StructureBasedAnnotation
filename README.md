@@ -24,7 +24,7 @@ The predicted functions for each peptide along with the percentages of occurrenc
 **ColabFold** was utilized through the Google Colab infrastructure, found here: ColabFold v1.5.5: AlphaFold2 w/ MMseqs2 BATCH, and **ESMFold** was utilized through the Google Colab server as well. The **Alphafold** job script used for the structure prediction is:
 
 
-```json
+```bash
 
 #!/bin/bash
 #PBS -N AlphaFold_script
@@ -76,7 +76,7 @@ echo "{fasta_file} structure prediction complete. Results saved in ${fasta_outpu
 
 After structure prediction for the main dataset's peptides was completed, the obtained pdb files were used in the next Foldseek job script:
 
-```json
+```bash
 #!/bin/bash
 #SBATCH --clusters=wice
 #SBATCH --job-name=foldseek_run
