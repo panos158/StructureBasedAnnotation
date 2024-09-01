@@ -1,0 +1,5 @@
+Function	Percentage
+Uncharacterized protein	45.5
+Endonuclease I	36.4
+PD(D/E)XK endonuclease domain-containing protein	9.1
+Endonuclease	9.1

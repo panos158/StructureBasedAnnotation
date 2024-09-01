@@ -1,0 +1,6 @@
+Function	Percentage
+PH domain-containing protein	33.3
+FERM domain-containing protein	16.7
+Uncharacterized protein	16.7
+Bacterial Pleckstrin homology domain-containing protein	16.7
+Cyclic nucleotide-binding domain-containing protein	16.7

@@ -1,0 +1,3 @@
+Function	Percentage
+Uncharacterized protein	66.7
+Secreted protein	33.3

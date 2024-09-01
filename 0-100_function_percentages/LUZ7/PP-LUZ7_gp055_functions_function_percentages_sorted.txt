@@ -1,0 +1,16 @@
+Function	Percentage
+Uncharacterized protein	85.3
+IPT/TIG domain-containing protein	2.3
+Phage protein	1.6
+Phage tail protein	1.6
+Tail fiber assembly protein	1.6
+Flagellar motor switch protein FliN-like C-terminal domain-containing protein	0.8
+Bacteriophage lambda head decoration protein D	0.8
+Tail assembly chaperone	0.8
+SHSP domain-containing protein	0.8
+DUF4376 domain-containing protein	0.8
+DUF2169 domain-containing protein	0.8
+Lipoprotein	0.8
+DUF3237 domain-containing protein	0.8
+YD repeat-containing protein	0.8
+BrnT family toxin	0.8

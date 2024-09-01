@@ -1,0 +1,6 @@
+Function	Percentage
+Nitrogen fixation protein NifZ	40.0
+Uncharacterized protein	30.0
+DUF58 domain-containing protein	10.0
+DUF3310 domain-containing protein	10.0
+DUF4926 domain-containing protein	10.0

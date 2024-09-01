@@ -1,0 +1,3 @@
+Function	Percentage
+Uncharacterized protein	50.0
+Uncharacterized protein AF_1636;	50.0

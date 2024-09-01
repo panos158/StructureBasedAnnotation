@@ -1,0 +1,4 @@
+Function	Percentage
+Uncharacterized protein	89.5
+ArnR1-like winged helix-turn-helix domain-containing protein	5.3
+HNS binding protein	5.3

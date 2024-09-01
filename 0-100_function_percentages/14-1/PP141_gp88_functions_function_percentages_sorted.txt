@@ -1,0 +1,2 @@
+Function	Percentage
+Transposase	100.0

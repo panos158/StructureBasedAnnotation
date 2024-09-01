@@ -1,0 +1,3 @@
+Function	Percentage
+Uncharacterized protein	90.0
+Bacteriophage protein	10.0

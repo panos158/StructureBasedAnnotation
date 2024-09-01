@@ -1,0 +1,37 @@
+Function	Percentage
+Helix-turn-helix domain-containing protein	40.2
+Uncharacterized protein	20.7
+DNA-binding protein	16.0
+HNH endonuclease	3.7
+Helix-turn-helix protein	3.0
+Helix-turn-helix type 11 domain-containing protein	2.6
+Transcriptional regulator	1.4
+MarR family transcriptional regulator	1.4
+Helix-turn-helix domain protein	0.9
+Putative DNA binding, helix-turn-helix domain containing protein	0.9
+Helix-turn-helix domain	0.9
+ArsR family transcriptional regulator	0.9
+Putative transcriptional regulator	0.5
+HTH arsR-type domain-containing protein	0.5
+Winged helix-turn-helix transcriptional regulator	0.5
+Transcription regulator TrmB N-terminal domain-containing protein	0.5
+DNA primase/polymerase bifunctional N-terminal domain-containing protein	0.5
+Transposase	0.5
+HU domain-containing protein	0.5
+Transcriptional regulator, MerR family	0.2
+HTH marR-type domain-containing protein	0.2
+AbrB family transcriptional regulator	0.2
+MarR family protein	0.2
+DUF3489 domain-containing protein	0.2
+Pyocin activator protein PrtN	0.2
+Transcriptional regulator, ArsR family	0.2
+Iron-sulfur cluster biosynthesis transcriptional regulator SufR	0.2
+KilA-N domain-containing protein	0.2
+HTH_39 domain containing protein	0.2
+Antirepressor protein C-terminal domain-containing protein	0.2
+Nuclear transport factor 2 family protein	0.2
+Phage associated protein	0.2
+Phage protein	0.2
+DNA-binding MarR family transcriptional regulator	0.2
+DUF4314 domain-containing protein	0.2
+ROK family transcriptional regulator	0.2

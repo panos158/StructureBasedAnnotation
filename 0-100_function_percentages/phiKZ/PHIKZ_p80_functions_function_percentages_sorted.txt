@@ -1,0 +1,2 @@
+Function	Percentage
+IraD/Gp25-like domain-containing protein	100.0

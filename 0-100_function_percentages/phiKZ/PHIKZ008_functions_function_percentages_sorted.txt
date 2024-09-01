@@ -1,0 +1,2 @@
+Function	Percentage
+Aklavinone 12-hydroxylase DnrF	100.0

@@ -1,0 +1,4 @@
+Function	Percentage
+Cytochrome B	33.3
+Uncharacterized protein	33.3
+Membralin	33.3

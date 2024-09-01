@@ -1,0 +1,16 @@
+Function	Percentage
+Uncharacterized protein	35.7
+Lipoprotein	10.7
+50S ribosomal protein L17	7.1
+TolC family protein	7.1
+Uncharacterized protein Rv2560;	3.6
+ATPase	3.6
+Proline and glycine rich transmembrane protein	3.6
+Terminase small subunit	3.6
+Methyl-accepting transducer domain-containing protein	3.6
+Conserved domain protein	3.6
+Methyl-accepting chemotaxis protein	3.6
+Flagellar basal body rod protein	3.6
+Phage terminase small subunit P27 family	3.6
+Amidase	3.6
+Helix-turn-helix domain-containing protein	3.6

@@ -1,0 +1,3 @@
+Function	Percentage
+Uncharacterized protein	95.8
+Terminase small subunit	4.2

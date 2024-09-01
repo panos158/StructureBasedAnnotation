@@ -1,0 +1,47 @@
+Function	Percentage
+DNA polymerase I	46.0
+DNA-directed DNA polymerase family A palm domain-containing protein	38.2
+DNA polymerase	2.2
+Bifunctional 3'-5' exonuclease/DNA polymerase	1.6
+DNA-directed DNA polymerase	1.4
+Uncharacterized protein	1.2
+Mitochondrial DNA polymerase catalytic subunit	1.2
+DNA polymerase I, thermostable	1.0
+Unannotated protein	0.8
+Putative DNA polymerase	0.7
+DNA polymerase subunit gamma-1	0.4
+DNA polymerase I-3'-5' exonuclease and polymerase domains	0.3
+DNA polymerase nu-like	0.3
+DNA polymerase-1	0.3
+Polymerase gamma 2	0.1
+Type I restriction-modification system	0.1
+DNA polymerase nu like protein	0.1
+HAUS augmin-like complex subunit 3	0.1
+Polymerase protein	0.1
+Glycerophosphodiester phosphodiesterase	0.1
+Fused DNA polymerase I 5'->3' exonuclease 3'->5' polymerase 3'->5' exonuclease	0.1
+Polymerase I protein	0.1
+Mitochondrial DNA polymerase I protein D, putative	0.1
+Intein C-terminal splicing domain-containing protein	0.1
+POLN	0.1
+DPOG1	0.1
+DNA polymerase I A, chloroplastic-like	0.1
+DNA polymerase theta	0.1
+DNA-directed DNA polymerase I	0.1
+DNA polymerase nu isoform A	0.1
+DNA polymerase family A	0.1
+DNA polymerase I (POL I)	0.1
+Helicase and polymerase-containing protein TEBICHI isoform X1	0.1
+Protein containing DNA-directed DNA polymerase, family A domain	0.1
+DNA polymerase I (EC)	0.1
+DNA-directed DNA polymerase, DNA polymerase I	0.1
+DNA primase/helicase	0.1
+Putative DNA polymerase I	0.1
+Polymerase (DNA directed) nu	0.1
+DNA polymerase nu	0.1
+DNA/RNA polymerases family protein	0.1
+PolA	0.1
+DNA-directed DNA polymerase, family A domain protein	0.1
+Aspartate carbamoyltransferase	0.1
+DNA polymerase v	0.1
+DNA polymerase I;	0.1

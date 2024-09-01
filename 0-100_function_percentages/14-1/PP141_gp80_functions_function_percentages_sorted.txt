@@ -1,0 +1,17 @@
+Function	Percentage
+Signal peptidase I	29.3
+Uncharacterized protein	26.8
+Unannotated protein	7.3
+Site-specific DNA-methyltransferase	4.9
+Adenine-specific DNA-methyltransferase	4.9
+Translation initiation factor eIF-5A	2.4
+S26 family signal peptidase	2.4
+Signal peptidase, endoplasmic reticulum-type	2.4
+DNA methylase	2.4
+Translation initiation factor 5A-like N-terminal domain-containing protein	2.4
+Restriction endonuclease subunit M	2.4
+Signal peptidase I W	2.4
+Putative restriction-modification system DNA methylase	2.4
+DNA (Cytosine-5-)-methyltransferase	2.4
+Translation elongation factor IF5A C-terminal domain-containing protein	2.4
+Peptidase S26B, signal peptidase	2.4

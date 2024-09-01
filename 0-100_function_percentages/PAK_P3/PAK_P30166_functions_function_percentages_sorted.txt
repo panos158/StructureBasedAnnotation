@@ -1,0 +1,3 @@
+Function	Percentage
+DUF1643 domain-containing protein	75.0
+Uncharacterized protein	25.0

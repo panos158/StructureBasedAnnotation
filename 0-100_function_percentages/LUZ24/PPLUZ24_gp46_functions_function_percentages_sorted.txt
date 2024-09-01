@@ -1,0 +1,4 @@
+Function	Percentage
+DUF2187 domain-containing protein	50.0
+Uncharacterized protein	25.0
+Veg protein	25.0

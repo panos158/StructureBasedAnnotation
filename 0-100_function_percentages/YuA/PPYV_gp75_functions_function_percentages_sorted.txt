@@ -1,0 +1,6 @@
+Function	Percentage
+Uncharacterized protein	92.9
+Tail assembly protein	2.4
+Phage protein	2.4
+Glutaredoxin	1.2
+DUF5069 domain-containing protein	1.2

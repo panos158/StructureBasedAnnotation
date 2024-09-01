@@ -1,0 +1,3 @@
+Function	Percentage
+Uncharacterized protein	92.3
+DUF2442 domain-containing protein	7.7

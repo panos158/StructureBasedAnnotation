@@ -1,0 +1,55 @@
+Function	Percentage
+PAAR domain-containing protein	40.9
+Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, incolved in TypeVI secretion	8.7
+Type VI secretion protein	6.4
+PAAR repeat-containing protein	5.9
+Putative Zn-binding protein involved in type VI secretion	5.5
+PAAR motif protein	5.4
+Uncharacterized protein	5.2
+PaaR repeat-containing protein	4.7
+Type VI secretion system PAAR protein	3.2
+Uncharacterized conserved protein	1.2
+PAAR motif-containing protein	0.8
+Putative deoxyribonuclease RhsA	0.8
+PAAR motif family protein	0.8
+Paar repeat-containing protein	0.7
+Tox-PAAR-like domain-containing protein	0.7
+Uropathogenic specific protein	0.7
+Type IV secretion protein Rhs	0.5
+Phospholipase	0.5
+Tle1 phospholipase domain-containing protein	0.5
+Rhs family protein	0.3
+PAAR-like protein	0.3
+RHS repeat protein	0.3
+Membrane protein	0.3
+PAAR	0.3
+Zn-binding Pro-Ala-Ala-Arg (PAAR) domain, involved in TypeVI secretion	0.3
+DUF3289 domain-containing protein	0.2
+Lysine-specific metallo-endopeptidase domain-containing protein	0.2
+Gp5/Type VI secretion system Vgr protein OB-fold domain-containing protein	0.2
+DUF4237 domain-containing protein	0.2
+Zn-binding protein involved in type VI secretion	0.2
+DUF637 domain-containing protein	0.2
+DUF6531 domain-containing protein	0.2
+Rhs element Vgr protein	0.2
+N-acetylmuramoyl-L-alanine amidase	0.2
+Lysozyme	0.2
+Phage related protein	0.2
+10 kDa chaperonin	0.2
+PAAR protein	0.2
+DUF4150 domain-containing protein	0.2
+Thioesterase domain-containing protein	0.2
+Toxin VasX N-terminal region domain-containing protein	0.2
+Unncharacterized conserved protein	0.2
+ABC transmembrane type-1 domain-containing protein	0.2
+Fungal lipase-like domain-containing protein	0.2
+S-type pyocin domain-containing protein	0.2
+Colicin D C-terminal domain-containing protein	0.2
+Bacterial toxin 44 domain-containing protein	0.2
+Killer protein of pyocin s3	0.2
+Conserved domain protein	0.2
+3-deoxy-manno-octulosonate-8-phosphatase	0.2
+Alanine racemase	0.2
+Zn-binding Pro-Ala-Ala-Arg (PAAR) domain-containing protein, involved in TypeVI secretion	0.2
+PAAR motif	0.2
+Chitinase class I	0.2

@@ -1,0 +1,2 @@
+Function	Percentage
+Putative phage resolvase/integrase	100.0

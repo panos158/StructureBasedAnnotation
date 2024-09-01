@@ -1,0 +1,6 @@
+Function	Percentage
+Uncharacterized protein	70.6
+Phage tail protein	11.8
+DUF1983 domain-containing protein	5.9
+Virus tail fibre assembly protein, lambda gpK	5.9
+TubC N-terminal docking domain-containing protein	5.9

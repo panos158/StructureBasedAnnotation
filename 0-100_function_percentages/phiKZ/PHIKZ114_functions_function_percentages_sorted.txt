@@ -1,0 +1,46 @@
+Function	Percentage
+XRE family transcriptional regulator	34.0
+HTH cro/C1-type domain-containing protein	17.2
+HigA2-like helix-turn-helix domain-containing protein	15.1
+Transcriptional regulator	12.6
+Predicted DNA-binding protein, contains XRE-type HTH domain	3.5
+Putative XRE-type DNA-binding protein	2.6
+Transcriptional regulator, XRE family	2.2
+Helix-turn-helix domain-containing protein	2.0
+Uncharacterized conserved small protein	1.2
+Fis family transcriptional regulator	1.0
+Helix-turn-helix motif	0.7
+Uncharacterized protein	0.7
+Helix-turn-helix domain protein	0.6
+Putative conserved small protein	0.6
+Helix-turn-helix protein	0.4
+Putative Xre family DNA-binding protein	0.4
+Xre family transcriptional regulator	0.4
+Putative DNA-binding protein	0.3
+Helix-turn-helix transcriptional regulator	0.3
+Helix-turn-helix family protein	0.3
+Helix-turn-helix motif domain protein	0.3
+Cro/Cl family transcriptional regulator	0.3
+Predicted transcriptional regulator XRE family	0.1
+XRE family transcriptional regulator (Modular protein)	0.1
+HTH domain-containing putative transcriptional regulator	0.1
+Antitoxin HigA	0.1
+Antitoxin HipB	0.1
+Helix-turn-helix domain containing XRE family transcriptional regulator	0.1
+Putative transcriptional regulator, XRE family	0.1
+Expression regulator NrxR	0.1
+Acyltransferase family protein	0.1
+Probable XRE family transcriptional regulator	0.1
+Uncharacterized conserved small protein-like protein	0.1
+Putative Transcriptional regulator, XRE family	0.1
+STMD1.83 protein	0.1
+Cytoplasmic protein	0.1
+DNA-binding protein	0.1
+Inorganic pyrophosphatase 2	0.1
+Helix-turn-helix domain containing protein	0.1
+histidine kinase	0.1
+Membrane protein	0.1
+PtxR	0.1
+DH200=94 genomic scaffold, scaffold_9048	0.1
+Putative small protein	0.1
+DNA-binding Xre family transcriptional regulator	0.1

@@ -1,0 +1,3 @@
+Function	Percentage
+Uncharacterized protein	97.0
+MmcQ/YjbR family DNA-binding protein	3.0

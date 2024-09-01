@@ -1,0 +1,87 @@
+Function	Percentage
+GNAT family N-acetyltransferase	31.6
+N-acetyltransferase domain-containing protein	19.0
+Acetyltransferase	8.0
+Putative acetyltransferase	6.9
+N-acetyltransferase	3.9
+[Citrate [pro-3S]-lyase] ligase	2.9
+Putative N-acetyltransferase YjaB	2.8
+Acetyltransferase, GNAT family	2.5
+Acetyltransferase (GNAT) family protein	1.9
+GCN5-related N-acetyltransferase	1.7
+Ribosomal protein S18 acetylase RimI	1.2
+Ribosomal protein S18 acetylase RimI-like enzyme	1.1
+[citrate (Pro-3S)-lyase] ligase	1.0
+Uncharacterized N-acetyltransferase YjaB	1.0
+GNAT family acetyltransferase	1.0
+N-acetyltransferase GCN5	1.0
+Acetyltransferase (GNAT) domain-containing protein	1.0
+Uncharacterized protein	0.8
+GNAT superfamily N-acetyltransferase	0.7
+Histone acetyltransferase	0.6
+Putative acyltransferase	0.6
+ElaA protein	0.4
+GCN5-like N-acetyltransferase	0.4
+Acetyltransferase GNAT family	0.4
+GCN5 family acetyltransferase	0.3
+N-acetylglutamate synthase, GNAT family	0.3
+Predicted N-acetyltransferase YhbS	0.2
+Acetyltransferase family protein	0.2
+Protein containing GCN5-related N-acetyltransferase domain	0.2
+Acetyltransferase (GNAT) family	0.2
+Toxin-antitoxin system, toxin component, GNAT family	0.2
+Membrane protein	0.1
+[citrate [pro-3S]-lyase] ligase	0.1
+Citrate lyase ligase C-terminal-like domain protein	0.1
+[Ribosomal protein bS18]-alanine N-acetyltransferase	0.1
+Predicted phosphodiesterase	0.1
+Citrate lyase ligase	0.1
+Histone acetyltransferase HPA2	0.1
+Citrate lyase synthetase	0.1
+Putative N-acetyltransferase YhbS	0.1
+3-dehydroquinate dehydratase	0.1
+Citrate lyase ligase C-terminal domain-containing protein	0.1
+Putative GCN5-related N-acetyltransferase	0.1
+N-alpha-acetyltransferase MAK3	0.1
+Acetyltransferase, gnat family	0.1
+Ubiquinone/menaquinone biosynthesis C-methylase UbiE	0.1
+Putative N-acetyltransferase YjdG	0.1
+Chorismate mutase	0.1
+Glycine N-acyltransferase-like protein	0.1
+Adenylyltransferase/cytidyltransferase family protein	0.1
+N-acetyltransferase YjcF	0.1
+MarR family transcriptional regulator	0.1
+Putative GNAT family N-acyltransferase	0.1
+GNAT family acetyltransferase, putative	0.1
+Phage Mu protein F like protein	0.1
+Acetyltransferase YafP	0.1
+Acetyltransferase YjaB	0.1
+Glutamate racemase	0.1
+Enterochelin esterase-like enzyme	0.1
+Translation initiation factor IF-3	0.1
+Phosphoglycolate phosphatase, HAD superfamily	0.1
+Histone acetyltransferase HPA2 and related acetyltransferases	0.1
+Acetyltransferase GNAT family protein	0.1
+YjaB_1 protein	0.1
+Toxin-antitoxin system, toxin component, GNAT domain protein	0.1
+Putative ADP-ribose pyrophosphatase/acetyltransferase	0.1
+Acyltransferase	0.1
+GCN5 family N-acetyltransferase	0.1
+GrpB-like predicted nucleotidyltransferase (UPF0157 family)	0.1
+Putative N-acetyltransferase YafP	0.1
+Histone acetyltransferase HPA2/related acetyltransferase	0.1
+Peptide N-acetyltransferase	0.1
+Hypothetical acetyltransferase	0.1
+Orotate phosphoribosyltransferase	0.1
+Peptidyl-lysine N-acetyltransferase YjaB	0.1
+L-amino acid N-acyltransferase YncA	0.1
+Peptidyl-lysine N-acetyltransferase YiaC	0.1
+N-acetyltransferase ElaA	0.1
+HTH-type transcriptional repressor ComR	0.1
+G5L3F5 (Acetyltransferase)	0.1
+Acetyltransferase, gnat family protein	0.1
+RimJ/RimL family protein N-acetyltransferase	0.1
+Acyl-CoA N-acyltransferase	0.1
+ethanolamine-phosphate cytidylyltransferase	0.1
+Amino-acid acetyltransferase	0.1
+Mycothiol acetyltransferase	0.1

@@ -1,0 +1,13 @@
+Function	Percentage
+Uncharacterized protein	65.6
+DUF2188 domain-containing protein	3.1
+Phage protein	3.1
+Type II toxin-antitoxin system RelE/ParE family toxin	3.1
+Zinc finger PHD-type domain-containing protein	3.1
+DUF2922 domain-containing protein	3.1
+Lipoprotein	3.1
+HNH endonuclease	3.1
+GAF domain-containing protein	3.1
+YlzJ-like protein	3.1
+Chromatin modification protein	3.1
+TNG2, Chromatin remodeling protein, contains PhD zinc finger	3.1

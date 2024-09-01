@@ -1,0 +1,12 @@
+Function	Percentage
+Uncharacterized protein	75.5
+Zinc ribbon domain-containing protein	5.7
+Rubredoxin-like domain-containing protein	3.8
+SRCR domain-containing protein	1.9
+CbrC family protein	1.9
+Hypothetical phage protein	1.9
+DUF551 domain-containing protein	1.9
+Zinc finger CHCC-type domain-containing protein	1.9
+Restriction alleviation protein	1.9
+Rubredoxin	1.9
+TerY-C metal binding domain-containing protein	1.9

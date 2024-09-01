@@ -1,0 +1,19 @@
+Function	Percentage
+Elongation factor P	35.2
+SprT domain-containing protein	16.2
+SprT-like domain-containing protein	13.3
+Uncharacterized protein	9.5
+Translation elongation factor P/YeiP central domain-containing protein	4.8
+SprT-like family protein	3.8
+Translation elongation factor KOW-like domain-containing protein	3.8
+Translation elongation factor P	1.9
+SprT family zinc-dependent metalloprotease	1.9
+Metallopeptidase	1.9
+elongation factor P	1.0
+Uncharacterized protein LOC110427107	1.0
+Translation elongation factor P (EF-P)	1.0
+Putative ovule protein	1.0
+Elongation factor	1.0
+Putative translation elongation factor P	1.0
+Elongation factor P C-terminal domain-containing protein	1.0
+Elongation factor P, putative	1.0

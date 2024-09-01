@@ -1,0 +1,5 @@
+Function	Percentage
+Uncharacterized protein	50.0
+Transposase	16.7
+PH domain-containing protein	16.7
+F5/8 type C domain-containing protein	16.7

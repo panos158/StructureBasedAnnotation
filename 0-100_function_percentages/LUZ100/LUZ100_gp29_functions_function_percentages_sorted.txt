@@ -1,0 +1,32 @@
+Function	Percentage
+NTP pyrophosphohydrolase MazG-like domain-containing protein	25.3
+NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein	13.8
+Nucleoside triphosphate pyrophosphohydrolase	8.6
+Phosphoribosyl-ATP pyrophosphatase	8.0
+Uncharacterized protein	6.9
+Histidine biosynthesis bifunctional protein HisIE	5.2
+Phosphoribosyl-AMP cyclohydrolase	4.6
+DNA-binding protein	3.4
+Nucleotide pyrophosphohydrolase	3.4
+Pyrophosphatase	3.4
+MazG nucleotide pyrophosphohydrolase domain protein	2.9
+MazG nucleotide pyrophosphohydrolase domain-containing protein	1.7
+DUF550 domain-containing protein	1.1
+MazG-like nucleotide pyrophosphohydrolase family protein	1.1
+Phage DNA-binding protein	1.1
+MazG family protein	0.6
+XTP/dITP diphosphohydrolase	0.6
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	0.6
+Tetrapyrrole methylase family protein / MazG family protein/ATP diphosphatase	0.6
+Nucleoside triphosphate pyrophosphohydrolase MazG	0.6
+Nucleoside triphosphate pyrophosphohydrolase/pyrophosphatase MazG	0.6
+Predicted pyrophosphatase	0.6
+Putative pyrophosphatase	0.6
+Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)	0.6
+MazG nucleotide pyrophosphohydrolase	0.6
+Transcriptional regulator, Cro/CI family	0.6
+Helix-turn-helix domain-containing protein	0.6
+ArpR	0.6
+Phosphoribosyl-ATP pyrophosphohydrolase	0.6
+Restriction alleviation protein, Lar family	0.6
+Uncharacterized protein YabN with tetrapyrrole methylase and pyrophosphatase domain	0.6

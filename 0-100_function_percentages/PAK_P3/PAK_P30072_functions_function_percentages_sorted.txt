@@ -1,0 +1,13 @@
+Function	Percentage
+Uncharacterized protein	18.8
+DUF5641 domain-containing protein	12.5
+DUF2187 domain-containing protein	12.5
+Phospholipid scramblase	6.2
+Integrase catalytic domain-containing protein	6.2
+YopX protein domain-containing protein	6.2
+Hypervirulence associated protein TUDOR domain-containing protein	6.2
+DUF4926 domain-containing protein	6.2
+Protein ALWAYS EARLY 2-like isoform X1	6.2
+RNA-directed DNA polymerase	6.2
+Tudor domain-containing protein	6.2
+Transposon Ty3-G Gag-Pol poly	6.2

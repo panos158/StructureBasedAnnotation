@@ -1,0 +1,9 @@
+Function	Percentage
+Uncharacterized protein	58.6
+Type II toxin-antitoxin system HicA family toxin	17.2
+HicA-like toxin of HicAB toxin-antitoxin system	6.9
+Bro-N domain-containing protein	3.4
+Rha family transcriptional regulator	3.4
+HicA toxin of toxin-antitoxin	3.4
+DUF4136 domain-containing protein	3.4
+DUF4062 domain-containing protein	3.4

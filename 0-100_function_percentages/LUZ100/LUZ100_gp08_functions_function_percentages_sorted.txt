@@ -1,0 +1,10 @@
+Function	Percentage
+Uncharacterized protein	57.1
+WYL domain-containing protein	10.7
+Transcriptional antiterminator, Rof	10.7
+50S ribosomal protein L32	3.6
+SnRNP Sm-like protein	3.6
+DUF2642 domain-containing protein	3.6
+YolD-like family protein	3.6
+Transcriptional regulator	3.6
+YolD-like protein	3.6

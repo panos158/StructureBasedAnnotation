@@ -1,0 +1,5 @@
+Function	Percentage
+protein-serine/threonine phosphatase	25.0
+SH3 domain-containing protein	25.0
+Extracellular protein	25.0
+Uncharacterized protein	25.0

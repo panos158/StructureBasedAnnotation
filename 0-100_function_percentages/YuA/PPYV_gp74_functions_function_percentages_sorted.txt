@@ -1,0 +1,4 @@
+Function	Percentage
+Uncharacterized protein	57.1
+Tail assembly protein	28.6
+Phage tail protein	14.3

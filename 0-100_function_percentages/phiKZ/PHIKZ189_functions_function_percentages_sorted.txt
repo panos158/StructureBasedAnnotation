@@ -1,0 +1,33 @@
+Function	Percentage
+Uncharacterized protein	33.0
+Peptidase S24/S26A/S26B/S26C domain-containing protein	12.1
+Lipoprotein	5.5
+DUF2642 domain-containing protein	4.4
+DUF2187 domain-containing protein	4.4
+DNA-binding protein	3.3
+PRC-barrel domain-containing protein	2.2
+HP0423 family protein	2.2
+Phage repressor protein C, contains Cro/C1-type HTH and peptisase s24 domains	2.2
+RNA chaperone ProQ	2.2
+Tudor domain-containing protein	2.2
+HTH cro/C1-type domain-containing protein	2.2
+KOW domain-containing protein	2.2
+Bifunctional lysine-specific demethylase and histidyl-hydroxylase	2.2
+Peptidase S24-like	1.1
+DUF968 domain-containing protein	1.1
+Zinc finger CCCH-type with G patch domain-containing protein	1.1
+Helix-turn-helix transcriptional regulator	1.1
+Tyr recombinase domain-containing protein	1.1
+Mechanosensitive ion channel	1.1
+ubiquitinyl hydrolase 1	1.1
+Acetylornithine deacetylase	1.1
+Bacteriophage repressor protein C1	1.1
+Small-conductance mechanosensitive channel	1.1
+S24 family peptidase	1.1
+Phage repressor protein C with HTH and peptisase S24 domain	1.1
+Uncharacterized protein conserved in bacteria (DUF2187)	1.1
+Cyclic nucleotide-binding domain-containing protein	1.1
+DUF308 domain-containing protein	1.1
+Hypervirulence associated protein TUDOR domain-containing protein	1.1
+Dirigent protein 17-like	1.1
+Spore coat protein	1.1

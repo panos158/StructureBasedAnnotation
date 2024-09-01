@@ -1,0 +1,3 @@
+Function	Percentage
+AAA family ATPase	50.0
+AAA ATPase	50.0
