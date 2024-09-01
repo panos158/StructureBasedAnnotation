@@ -1,0 +1,19 @@
+Largest Function: dATP/dGTP diphosphohydrolase N-terminal domain-containing protein
+
+Best Entry for Largest Function:
+File: A0A351BKY3
+Function: dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909}
+E-value: 9.316e-05
+Bit Score: 224.0
+Alignment Length: 105
+Percentage Identity: 0.276
+
+Best Overall Entry:
+File: A0A351BKY3
+Function: dATP/dGTP diphosphohydrolase N-terminal domain-containing protein {ECO:0000259|Pfam:PF18909}
+E-value: 9.316e-05
+Bit Score: 224.0
+Alignment Length: 105
+Percentage Identity: 0.276
+
+Note: The best overall entry is the same as the best entry for the largest function.

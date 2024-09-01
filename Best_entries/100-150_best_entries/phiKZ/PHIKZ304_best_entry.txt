@@ -1,0 +1,19 @@
+Largest Function: Glycine zipper 2TM domain-containing protein
+
+Best Entry for Largest Function:
+File: A0A1S8FG92
+Function: Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM}
+E-value: 2.983e-05
+Bit Score: 153.0
+Alignment Length: 127
+Percentage Identity: 0.22
+
+Best Overall Entry:
+File: A0A1S8FG92
+Function: Glycine zipper 2TM domain-containing protein {ECO:0008006|Google:ProtNLM}
+E-value: 2.983e-05
+Bit Score: 153.0
+Alignment Length: 127
+Percentage Identity: 0.22
+
+Note: The best overall entry is the same as the best entry for the largest function.

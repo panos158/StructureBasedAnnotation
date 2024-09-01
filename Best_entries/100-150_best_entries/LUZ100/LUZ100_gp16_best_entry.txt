@@ -1,0 +1,17 @@
+Largest Function: GxxExxY protein
+
+Best Entry for Largest Function:
+File: A0A1G1XQR7
+Function: GxxExxY protein {ECO:0008006|Google:ProtNLM}
+E-value: 0.0005334
+Bit Score: 111.0
+Alignment Length: 98
+Percentage Identity: 0.214
+
+Best Overall Entry:
+File: A0A323UN87
+Function: Endodeoxyribonuclease {ECO:0000313|EMBL:PZA13974.1}
+E-value: 9.03e-18
+Bit Score: 491.0
+Alignment Length: 148
+Percentage Identity: 0.547

@@ -1,0 +1,17 @@
+Largest Function: F-box domain-containing protein
+
+Best Entry for Largest Function:
+File: A0A369K942
+Function: F-box domain-containing protein {ECO:0008006|Google:ProtNLM}
+E-value: 0.01135
+Bit Score: 79.0
+Alignment Length: 84
+Percentage Identity: 0.154
+
+Best Overall Entry:
+File: A0A831NUE7
+Function: Uncharacterized protein {ECO:0000313|EMBL:HDK44593.1}
+E-value: 0.005442
+Bit Score: 69.0
+Alignment Length: 131
+Percentage Identity: 0.099

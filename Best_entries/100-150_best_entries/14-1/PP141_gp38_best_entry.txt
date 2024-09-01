@@ -1,0 +1,17 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: A0A158DLS0
+Function: Uncharacterized protein {ECO:0000313|EMBL:SAK95380.1}
+E-value: 4.271e-07
+Bit Score: 243.0
+Alignment Length: 141
+Percentage Identity: 0.34
+
+Best Overall Entry:
+File: A0A106PLS9
+Function: Tail assembly chaperone {ECO:0008006|Google:ProtNLM}
+E-value: 5.028e-08
+Bit Score: 274.0
+Alignment Length: 141
+Percentage Identity: 0.312

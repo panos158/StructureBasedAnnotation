@@ -1,0 +1,17 @@
+Largest Function: Holliday junction resolvase RecU
+
+Best Entry for Largest Function:
+File: A0A1W1VSC2
+Function: Holliday junction resolvase RecU {ECO:0000256|ARBA:ARBA00029523}
+E-value: 0.01184
+Bit Score: 97.0
+Alignment Length: 153
+Percentage Identity: 0.137
+
+Best Overall Entry:
+File: A0A496UXI6
+Function: Uncharacterized protein {ECO:0000313|EMBL:RKZ20214.1}
+E-value: 8.677e-15
+Bit Score: 535.0
+Alignment Length: 129
+Percentage Identity: 0.426

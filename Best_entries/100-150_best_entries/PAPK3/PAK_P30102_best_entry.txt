@@ -1,0 +1,19 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: A0A379PMN8
+Function: Uncharacterized protein {ECO:0000313|EMBL:SUE72352.1}
+E-value: 1.972e-08
+Bit Score: 312.0
+Alignment Length: 106
+Percentage Identity: 0.386
+
+Best Overall Entry:
+File: A0A379PMN8
+Function: Uncharacterized protein {ECO:0000313|EMBL:SUE72352.1}
+E-value: 1.972e-08
+Bit Score: 312.0
+Alignment Length: 106
+Percentage Identity: 0.386
+
+Note: The best overall entry is the same as the best entry for the largest function.

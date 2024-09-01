@@ -1,0 +1,19 @@
+Largest Function: PH domain-containing protein
+
+Best Entry for Largest Function:
+File: A0A7S3BUW6
+Function: PH domain-containing protein {ECO:0008006|Google:ProtNLM}
+E-value: 0.0241
+Bit Score: 111.0
+Alignment Length: 65
+Percentage Identity: 0.107
+
+Best Overall Entry:
+File: A0A7S3BUW6
+Function: PH domain-containing protein {ECO:0008006|Google:ProtNLM}
+E-value: 0.0241
+Bit Score: 111.0
+Alignment Length: 65
+Percentage Identity: 0.107
+
+Note: The best overall entry is the same as the best entry for the largest function.

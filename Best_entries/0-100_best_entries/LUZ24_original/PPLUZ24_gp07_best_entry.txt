@@ -1,0 +1,17 @@
+Largest Function: Elongation factor P
+
+Best Entry for Largest Function:
+File: A0A540KAE8
+Function: Elongation factor P C-terminal domain-containing protein {ECO:0000259|SMART:SM00841}
+E-value: 0.0227
+Bit Score: 119.0
+Alignment Length: 69
+Percentage Identity: 0.159
+
+Best Overall Entry:
+File: A0A7Y5A2A8
+Function: SprT domain-containing protein {ECO:0000313|EMBL:NOU46168.1}
+E-value: 0.002972
+Bit Score: 181.0
+Alignment Length: 62
+Percentage Identity: 0.209

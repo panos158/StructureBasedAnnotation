@@ -1,0 +1,19 @@
+Largest Function: Helix-turn-helix domain-containing protein
+
+Best Entry for Largest Function:
+File: A0A1H2I729
+Function: Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:SDU39746.1}
+E-value: 1.114e-09
+Bit Score: 391.0
+Alignment Length: 76
+Percentage Identity: 0.763
+
+Best Overall Entry:
+File: A0A1H2I729
+Function: Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:SDU39746.1}
+E-value: 1.114e-09
+Bit Score: 391.0
+Alignment Length: 76
+Percentage Identity: 0.763
+
+Note: The best overall entry is the same as the best entry for the largest function.

@@ -1,0 +1,19 @@
+Largest Function: Lysozyme
+
+Best Entry for Largest Function:
+File: A0A2M8CXB6
+Function: Lysozyme {ECO:0008006|Google:ProtNLM}
+E-value: 7.802e-09
+Bit Score: 366.0
+Alignment Length: 134
+Percentage Identity: 0.417
+
+Best Overall Entry:
+File: A0A2M8CXB6
+Function: Lysozyme {ECO:0008006|Google:ProtNLM}
+E-value: 7.802e-09
+Bit Score: 366.0
+Alignment Length: 134
+Percentage Identity: 0.417
+
+Note: The best overall entry is the same as the best entry for the largest function.

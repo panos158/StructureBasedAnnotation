@@ -1,0 +1,19 @@
+Largest Function: HNH nuclease domain-containing protein
+
+Best Entry for Largest Function:
+File: A0A3A8L071
+Function: HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392}
+E-value: 1.342e-15
+Bit Score: 501.0
+Alignment Length: 149
+Percentage Identity: 0.402
+
+Best Overall Entry:
+File: A0A3A8L071
+Function: HNH nuclease domain-containing protein {ECO:0000259|Pfam:PF13392}
+E-value: 1.342e-15
+Bit Score: 501.0
+Alignment Length: 149
+Percentage Identity: 0.402
+
+Note: The best overall entry is the same as the best entry for the largest function.

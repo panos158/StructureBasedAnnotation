@@ -1,0 +1,17 @@
+Largest Function: Helix-turn-helix domain-containing protein
+
+Best Entry for Largest Function:
+File: A0A759WCH7
+Function: Helix-turn-helix domain-containing protein {ECO:0000313|EMBL:HAG2208842.1}
+E-value: 0.02911
+Bit Score: 93.0
+Alignment Length: 150
+Percentage Identity: 0.186
+
+Best Overall Entry:
+File: A0A2D5TSU5
+Function: Transcriptional regulator {ECO:0000313|EMBL:MAD98739.1}
+E-value: 4.114e-06
+Bit Score: 283.0
+Alignment Length: 104
+Percentage Identity: 0.375

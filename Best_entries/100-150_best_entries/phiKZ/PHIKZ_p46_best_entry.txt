@@ -1,0 +1,19 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: K1YBP5
+Function: Uncharacterized protein {ECO:0000313|EMBL:EKD22669.1}
+E-value: 0.0008164
+Bit Score: 198.0
+Alignment Length: 147
+Percentage Identity: 0.224
+
+Best Overall Entry:
+File: K1YBP5
+Function: Uncharacterized protein {ECO:0000313|EMBL:EKD22669.1}
+E-value: 0.0008164
+Bit Score: 198.0
+Alignment Length: 147
+Percentage Identity: 0.224
+
+Note: The best overall entry is the same as the best entry for the largest function.

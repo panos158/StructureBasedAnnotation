@@ -1,0 +1,17 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: A0A5W4PTP0
+Function: Uncharacterized protein {ECO:0000313|EMBL:EBW9188282.1}
+E-value: 1.428e-06
+Bit Score: 227.0
+Alignment Length: 152
+Percentage Identity: 0.171
+
+Best Overall Entry:
+File: A0A431I8U5
+Function: Virion structural protein {ECO:0008006|Google:ProtNLM}
+E-value: 3.255e-09
+Bit Score: 324.0
+Alignment Length: 147
+Percentage Identity: 0.217

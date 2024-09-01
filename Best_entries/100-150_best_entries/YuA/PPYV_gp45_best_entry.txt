@@ -1,0 +1,19 @@
+Largest Function: Antirestriction protein
+
+Best Entry for Largest Function:
+File: A0A1V3NV49
+Function: Antirestriction protein {ECO:0008006|Google:ProtNLM}
+E-value: 1.65e-15
+Bit Score: 639.0
+Alignment Length: 141
+Percentage Identity: 0.382
+
+Best Overall Entry:
+File: A0A1V3NV49
+Function: Antirestriction protein {ECO:0008006|Google:ProtNLM}
+E-value: 1.65e-15
+Bit Score: 639.0
+Alignment Length: 141
+Percentage Identity: 0.382
+
+Note: The best overall entry is the same as the best entry for the largest function.

@@ -1,0 +1,19 @@
+Largest Function: Portal protein
+
+Best Entry for Largest Function:
+File: A0A2E7I0Z4
+Function: Portal protein {ECO:0008006|Google:ProtNLM}
+E-value: 0.005705
+Bit Score: 151.0
+Alignment Length: 72
+Percentage Identity: 0.291
+
+Best Overall Entry:
+File: A0A2E7I0Z4
+Function: Portal protein {ECO:0008006|Google:ProtNLM}
+E-value: 0.005705
+Bit Score: 151.0
+Alignment Length: 72
+Percentage Identity: 0.291
+
+Note: The best overall entry is the same as the best entry for the largest function.

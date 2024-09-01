@@ -1,0 +1,17 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: A0A2P6FF02
+Function: Uncharacterized protein {ECO:0000313|EMBL:PQM32012.1}
+E-value: 0.01787
+Bit Score: 73.0
+Alignment Length: 116
+Percentage Identity: 0.112
+
+Best Overall Entry:
+File: A0A3A4ZYL7
+Function: YihY family inner membrane protein {ECO:0000313|EMBL:RJR34354.1}
+E-value: 0.01364
+Bit Score: 61.0
+Alignment Length: 161
+Percentage Identity: 0.118

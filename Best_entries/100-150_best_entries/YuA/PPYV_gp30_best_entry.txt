@@ -1,0 +1,19 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: A0A3N7GVD3
+Function: Uncharacterized protein {ECO:0000313|EMBL:RQP11943.1}
+E-value: 1.036e-06
+Bit Score: 258.0
+Alignment Length: 112
+Percentage Identity: 0.348
+
+Best Overall Entry:
+File: A0A3N7GVD3
+Function: Uncharacterized protein {ECO:0000313|EMBL:RQP11943.1}
+E-value: 1.036e-06
+Bit Score: 258.0
+Alignment Length: 112
+Percentage Identity: 0.348
+
+Note: The best overall entry is the same as the best entry for the largest function.

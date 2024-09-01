@@ -1,0 +1,17 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: A0A2N1QMD1
+Function: Uncharacterized protein {ECO:0000313|EMBL:PKL02266.1}
+E-value: 0.002723
+Bit Score: 86.0
+Alignment Length: 106
+Percentage Identity: 0.122
+
+Best Overall Entry:
+File: A0A1Q4FM28
+Function: Fimbrial assembly protein {ECO:0008006|Google:ProtNLM}
+E-value: 0.0006473
+Bit Score: 104.0
+Alignment Length: 117
+Percentage Identity: 0.102

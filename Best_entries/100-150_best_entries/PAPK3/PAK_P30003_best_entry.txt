@@ -1,0 +1,19 @@
+Largest Function: Phage-like element PBSX protein XkdF domain-containing protein
+
+Best Entry for Largest Function:
+File: A0A2E7I106
+Function: Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550}
+E-value: 2.765e-16
+Bit Score: 566.0
+Alignment Length: 137
+Percentage Identity: 0.569
+
+Best Overall Entry:
+File: A0A2E7I106
+Function: Phage-like element PBSX protein XkdF domain-containing protein {ECO:0000259|Pfam:PF14550}
+E-value: 2.765e-16
+Bit Score: 566.0
+Alignment Length: 137
+Percentage Identity: 0.569
+
+Note: The best overall entry is the same as the best entry for the largest function.

@@ -1,0 +1,9 @@
+Largest Function: protein-serine/threonine phosphatase
+
+Best Overall Entry:
+File: A0A847X599
+Function: SH3 domain-containing protein {ECO:0000313|EMBL:NMB14200.1}
+E-value: 0.035
+Bit Score: 86.0
+Alignment Length: 85
+Percentage Identity: 0.176

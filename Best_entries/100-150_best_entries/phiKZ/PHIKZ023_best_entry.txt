@@ -1,0 +1,9 @@
+Largest Function: Transcription-repair coupling factor
+
+Best Overall Entry:
+File: N8WYM7
+Function: DUF1653 domain-containing protein {ECO:0000259|Pfam:PF07866}
+E-value: 0.002677
+Bit Score: 105.0
+Alignment Length: 134
+Percentage Identity: 0.097

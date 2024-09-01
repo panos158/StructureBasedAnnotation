@@ -1,0 +1,17 @@
+Largest Function: DUF2634 domain-containing protein
+
+Best Entry for Largest Function:
+File: A0A329UPV9
+Function: DUF2634 domain-containing protein {ECO:0008006|Google:ProtNLM}
+E-value: 1.216e-08
+Bit Score: 375.0
+Alignment Length: 119
+Percentage Identity: 0.235
+
+Best Overall Entry:
+File: A0A6N0JI63
+Function: Phage protein {ECO:0008006|Google:ProtNLM}
+E-value: 6.556e-10
+Bit Score: 426.0
+Alignment Length: 113
+Percentage Identity: 0.327

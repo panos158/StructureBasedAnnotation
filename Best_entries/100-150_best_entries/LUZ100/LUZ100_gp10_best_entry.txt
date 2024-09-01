@@ -1,0 +1,19 @@
+Largest Function: MarR family transcriptional regulator
+
+Best Entry for Largest Function:
+File: A0A136QBG2
+Function: MarR family transcriptional regulator {ECO:0000313|EMBL:KXK68010.1}
+E-value: 1.145e-13
+Bit Score: 496.0
+Alignment Length: 111
+Percentage Identity: 0.873
+
+Best Overall Entry:
+File: A0A136QBG2
+Function: MarR family transcriptional regulator {ECO:0000313|EMBL:KXK68010.1}
+E-value: 1.145e-13
+Bit Score: 496.0
+Alignment Length: 111
+Percentage Identity: 0.873
+
+Note: The best overall entry is the same as the best entry for the largest function.

@@ -1,0 +1,19 @@
+Largest Function: DUF4326 domain-containing protein
+
+Best Entry for Largest Function:
+File: A0A6I5WE68
+Function: DUF4326 domain-containing protein {ECO:0000313|EMBL:QGN48637.1}
+E-value: 0.001596
+Bit Score: 193.0
+Alignment Length: 57
+Percentage Identity: 0.473
+
+Best Overall Entry:
+File: A0A6I5WE68
+Function: DUF4326 domain-containing protein {ECO:0000313|EMBL:QGN48637.1}
+E-value: 0.001596
+Bit Score: 193.0
+Alignment Length: 57
+Percentage Identity: 0.473
+
+Note: The best overall entry is the same as the best entry for the largest function.

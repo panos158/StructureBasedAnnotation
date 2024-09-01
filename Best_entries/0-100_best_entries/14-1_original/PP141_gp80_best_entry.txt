@@ -1,0 +1,17 @@
+Largest Function: Signal peptidase I
+
+Best Entry for Largest Function:
+File: A0A1J5PZH9
+Function: Signal peptidase I {ECO:0008006|Google:ProtNLM}
+E-value: 0.00863
+Bit Score: 181.0
+Alignment Length: 71
+Percentage Identity: 0.154
+
+Best Overall Entry:
+File: A0A367RT13
+Function: Uncharacterized protein {ECO:0000313|EMBL:RCJ38854.1}
+E-value: 0.001982
+Bit Score: 195.0
+Alignment Length: 72
+Percentage Identity: 0.152

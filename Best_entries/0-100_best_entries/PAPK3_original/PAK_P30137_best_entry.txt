@@ -1,0 +1,19 @@
+Largest Function: DUF551 domain-containing protein
+
+Best Entry for Largest Function:
+File: A0A6I6LW92
+Function: DUF551 domain-containing protein {ECO:0000313|EMBL:QGZ32825.1}
+E-value: 0.008228
+Bit Score: 82.0
+Alignment Length: 56
+Percentage Identity: 0.41
+
+Best Overall Entry:
+File: A0A6I6LW92
+Function: DUF551 domain-containing protein {ECO:0000313|EMBL:QGZ32825.1}
+E-value: 0.008228
+Bit Score: 82.0
+Alignment Length: 56
+Percentage Identity: 0.41
+
+Note: The best overall entry is the same as the best entry for the largest function.

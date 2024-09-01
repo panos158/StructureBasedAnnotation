@@ -1,0 +1,19 @@
+Largest Function: DUF5681 domain-containing protein
+
+Best Entry for Largest Function:
+File: A0A2E7I109
+Function: DUF5681 domain-containing protein {ECO:0000259|Pfam:PF18932}
+E-value: 0.00222
+Bit Score: 118.0
+Alignment Length: 99
+Percentage Identity: 0.393
+
+Best Overall Entry:
+File: A0A2E7I109
+Function: DUF5681 domain-containing protein {ECO:0000259|Pfam:PF18932}
+E-value: 0.00222
+Bit Score: 118.0
+Alignment Length: 99
+Percentage Identity: 0.393
+
+Note: The best overall entry is the same as the best entry for the largest function.

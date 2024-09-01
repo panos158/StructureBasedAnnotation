@@ -1,0 +1,17 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: A0A3P3QQ02
+Function: Uncharacterized protein {ECO:0000313|EMBL:RRJ22569.1}
+E-value: 0.0001431
+Bit Score: 258.0
+Alignment Length: 86
+Percentage Identity: 0.441
+
+Best Overall Entry:
+File: A0A1H4R0W5
+Function: Holin {ECO:0008006|Google:ProtNLM}
+E-value: 2.148e-08
+Bit Score: 423.0
+Alignment Length: 94
+Percentage Identity: 0.691

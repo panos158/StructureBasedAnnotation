@@ -1,0 +1,17 @@
+Largest Function: DNA polymerase I
+
+Best Entry for Largest Function:
+File: A0A7C5NUV7
+Function: DNA polymerase I {ECO:0000313|EMBL:HHH76515.1}
+E-value: 4.25e-06
+Bit Score: 247.0
+Alignment Length: 89
+Percentage Identity: 0.337
+
+Best Overall Entry:
+File: A0A1Z9GST7
+Function: DNA-directed DNA polymerase family A palm domain-containing protein {ECO:0000259|SMART:SM00482}
+E-value: 1.333e-08
+Bit Score: 361.0
+Alignment Length: 91
+Percentage Identity: 0.417

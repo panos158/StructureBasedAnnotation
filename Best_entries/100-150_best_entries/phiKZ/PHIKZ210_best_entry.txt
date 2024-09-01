@@ -1,0 +1,17 @@
+Largest Function: Nitrogen fixation protein NifZ
+
+Best Entry for Largest Function:
+File: A0A0P6W6S3
+Function: Nitrogen fixation protein NifZ {ECO:0000313|EMBL:KPL54839.1}
+E-value: 0.003269
+Bit Score: 128.0
+Alignment Length: 100
+Percentage Identity: 0.16
+
+Best Overall Entry:
+File: A0A534RPX0
+Function: SH3 domain-containing protein {ECO:0008006|Google:ProtNLM}
+E-value: 0.002071
+Bit Score: 132.0
+Alignment Length: 120
+Percentage Identity: 0.15

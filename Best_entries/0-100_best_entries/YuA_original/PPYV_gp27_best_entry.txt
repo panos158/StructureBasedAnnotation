@@ -1,0 +1,17 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: A0A1H6GSE3
+Function: Uncharacterized protein {ECO:0000313|EMBL:SEH26226.1}
+E-value: 0.0003207
+Bit Score: 182.0
+Alignment Length: 71
+Percentage Identity: 0.366
+
+Best Overall Entry:
+File: A0A3N7IY24
+Function: Type II toxin-antitoxin system HicA family toxin {ECO:0008006|Google:ProtNLM}
+E-value: 1.907e-09
+Bit Score: 445.0
+Alignment Length: 68
+Percentage Identity: 0.882

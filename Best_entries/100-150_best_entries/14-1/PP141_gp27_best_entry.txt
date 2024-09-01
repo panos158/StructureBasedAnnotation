@@ -1,0 +1,17 @@
+Largest Function: Head-tail adaptor protein
+
+Best Entry for Largest Function:
+File: A0A0Q6DLD9
+Function: Head-tail adaptor protein {ECO:0008006|Google:ProtNLM}
+E-value: 3.211e-05
+Bit Score: 213.0
+Alignment Length: 121
+Percentage Identity: 0.157
+
+Best Overall Entry:
+File: A0A379QME8
+Function: Uncharacterized protein {ECO:0000313|EMBL:SUF57517.1}
+E-value: 2.199e-13
+Bit Score: 630.0
+Alignment Length: 122
+Percentage Identity: 0.385

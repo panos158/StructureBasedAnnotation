@@ -1,0 +1,17 @@
+Largest Function: SPOR domain-containing protein
+
+Best Entry for Largest Function:
+File: A0A7Z9PYQ6
+Function: SPOR domain-containing protein {ECO:0000313|EMBL:HIB68728.1}
+E-value: 0.02003
+Bit Score: 96.0
+Alignment Length: 81
+Percentage Identity: 0.259
+
+Best Overall Entry:
+File: A0A2P8ABC9
+Function: RRM domain-containing protein {ECO:0000259|PROSITE:PS50102}
+E-value: 0.005056
+Bit Score: 100.0
+Alignment Length: 116
+Percentage Identity: 0.189

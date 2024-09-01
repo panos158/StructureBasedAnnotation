@@ -1,0 +1,17 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: A0A291PJI1
+Function: Uncharacterized protein {ECO:0000313|EMBL:ATJ91534.1}
+E-value: 1.287e-07
+Bit Score: 355.0
+Alignment Length: 97
+Percentage Identity: 0.257
+
+Best Overall Entry:
+File: D4XAU3
+Function: Phage protein {ECO:0008006|Google:ProtNLM}
+E-value: 6.672e-08
+Bit Score: 376.0
+Alignment Length: 101
+Percentage Identity: 0.336

@@ -1,0 +1,17 @@
+Largest Function: Phage tail assembly chaperone-like domain-containing protein
+
+Best Entry for Largest Function:
+File: A0A2D9WZJ8
+Function: Phage tail assembly chaperone-like domain-containing protein {ECO:0000259|Pfam:PF16778}
+E-value: 1.449e-05
+Bit Score: 149.0
+Alignment Length: 139
+Percentage Identity: 0.258
+
+Best Overall Entry:
+File: A0A840RPM0
+Function: Tail fiber assembly protein {ECO:0008006|Google:ProtNLM}
+E-value: 1.277e-05
+Bit Score: 183.0
+Alignment Length: 128
+Percentage Identity: 0.265

@@ -1,0 +1,17 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: Q0AG30
+Function: Uncharacterized protein {ECO:0000313|EMBL:ABI59702.1}
+E-value: 1.234e-05
+Bit Score: 242.0
+Alignment Length: 65
+Percentage Identity: 0.538
+
+Best Overall Entry:
+File: A0A3N7IHM3
+Function: Tail assembly protein {ECO:0008006|Google:ProtNLM}
+E-value: 3.407e-06
+Bit Score: 260.0
+Alignment Length: 66
+Percentage Identity: 0.545

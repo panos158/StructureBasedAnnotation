@@ -1,0 +1,17 @@
+Largest Function: Tail fiber assembly protein
+
+Best Entry for Largest Function:
+File: A0A0N9WN70
+Function: Tail fiber assembly protein {ECO:0008006|Google:ProtNLM}
+E-value: 1.486e-09
+Bit Score: 321.0
+Alignment Length: 138
+Percentage Identity: 0.362
+
+Best Overall Entry:
+File: A0A0U1PR60
+Function: Phage tail protein {ECO:0008006|Google:ProtNLM}
+E-value: 1.156e-09
+Bit Score: 331.0
+Alignment Length: 134
+Percentage Identity: 0.328

@@ -1,0 +1,17 @@
+Largest Function: Recombination endonuclease VII
+
+Best Entry for Largest Function:
+File: A0A4Z0F5U1
+Function: Recombination endonuclease VII {ECO:0008006|Google:ProtNLM}
+E-value: 5.752e-10
+Bit Score: 255.0
+Alignment Length: 144
+Percentage Identity: 0.319
+
+Best Overall Entry:
+File: A0A0F9F6Q1
+Function: HNH nuclease domain-containing protein {ECO:0008006|Google:ProtNLM}
+E-value: 2.211e-10
+Bit Score: 269.0
+Alignment Length: 139
+Percentage Identity: 0.338

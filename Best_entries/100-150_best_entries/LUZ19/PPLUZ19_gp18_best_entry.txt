@@ -1,0 +1,19 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: A0A843HZB4
+Function: Uncharacterized protein {ECO:0000313|EMBL:MBO7735439.1}
+E-value: 0.01662
+Bit Score: 104.0
+Alignment Length: 87
+Percentage Identity: 0.103
+
+Best Overall Entry:
+File: A0A843HZB4
+Function: Uncharacterized protein {ECO:0000313|EMBL:MBO7735439.1}
+E-value: 0.01662
+Bit Score: 104.0
+Alignment Length: 87
+Percentage Identity: 0.103
+
+Note: The best overall entry is the same as the best entry for the largest function.

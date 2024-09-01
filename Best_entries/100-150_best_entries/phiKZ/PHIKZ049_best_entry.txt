@@ -1,0 +1,19 @@
+Largest Function: SH3 fold domain-containing protein
+
+Best Entry for Largest Function:
+File: K1YBG7
+Function: SH3 fold domain-containing protein {ECO:0000259|Pfam:PF20287}
+E-value: 2.472e-12
+Bit Score: 432.0
+Alignment Length: 136
+Percentage Identity: 0.308
+
+Best Overall Entry:
+File: K1YBG7
+Function: SH3 fold domain-containing protein {ECO:0000259|Pfam:PF20287}
+E-value: 2.472e-12
+Bit Score: 432.0
+Alignment Length: 136
+Percentage Identity: 0.308
+
+Note: The best overall entry is the same as the best entry for the largest function.

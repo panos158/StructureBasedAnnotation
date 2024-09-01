@@ -1,0 +1,9 @@
+Largest Function: Deoxyuridine 5'-triphosphate nucleotidohydrolase
+
+Best Overall Entry:
+File: A0A1Y5I7J2
+Function: UDENN domain-containing protein {ECO:0000259|PROSITE:PS50211}
+E-value: 6.69e-11
+Bit Score: 451.0
+Alignment Length: 140
+Percentage Identity: 0.392

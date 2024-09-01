@@ -1,0 +1,17 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: A0A4Q5TNH2
+Function: Uncharacterized protein {ECO:0000313|EMBL:RYY51274.1}
+E-value: 6.362e-10
+Bit Score: 451.0
+Alignment Length: 117
+Percentage Identity: 0.367
+
+Best Overall Entry:
+File: A0A2E7I0Z1
+Function: Head-tail adaptor protein {ECO:0008006|Google:ProtNLM}
+E-value: 4.77e-13
+Bit Score: 590.0
+Alignment Length: 123
+Percentage Identity: 0.455

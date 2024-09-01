@@ -1,0 +1,19 @@
+Largest Function: Head decoration protein
+
+Best Entry for Largest Function:
+File: A0A2E7I117
+Function: Head decoration protein {ECO:0008006|Google:ProtNLM}
+E-value: 2.356e-17
+Bit Score: 654.0
+Alignment Length: 124
+Percentage Identity: 0.54
+
+Best Overall Entry:
+File: A0A2E7I117
+Function: Head decoration protein {ECO:0008006|Google:ProtNLM}
+E-value: 2.356e-17
+Bit Score: 654.0
+Alignment Length: 124
+Percentage Identity: 0.54
+
+Note: The best overall entry is the same as the best entry for the largest function.

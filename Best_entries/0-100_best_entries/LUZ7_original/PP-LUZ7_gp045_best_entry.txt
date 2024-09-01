@@ -1,0 +1,19 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: A0A4R4PYX9
+Function: Uncharacterized protein {ECO:0000313|EMBL:TDC27659.1}
+E-value: 0.03095
+Bit Score: 75.0
+Alignment Length: 78
+Percentage Identity: 0.217
+
+Best Overall Entry:
+File: A0A4R4PYX9
+Function: Uncharacterized protein {ECO:0000313|EMBL:TDC27659.1}
+E-value: 0.03095
+Bit Score: 75.0
+Alignment Length: 78
+Percentage Identity: 0.217
+
+Note: The best overall entry is the same as the best entry for the largest function.

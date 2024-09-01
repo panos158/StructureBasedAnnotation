@@ -1,0 +1,19 @@
+Largest Function: DUF3310 domain-containing protein
+
+Best Entry for Largest Function:
+File: A0A2V2RHR0
+Function: DUF3310 domain-containing protein {ECO:0008006|Google:ProtNLM}
+E-value: 1.893e-06
+Bit Score: 285.0
+Alignment Length: 127
+Percentage Identity: 0.314
+
+Best Overall Entry:
+File: A0A2V2RHR0
+Function: DUF3310 domain-containing protein {ECO:0008006|Google:ProtNLM}
+E-value: 1.893e-06
+Bit Score: 285.0
+Alignment Length: 127
+Percentage Identity: 0.314
+
+Note: The best overall entry is the same as the best entry for the largest function.

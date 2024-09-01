@@ -1,0 +1,19 @@
+Largest Function: Bacterial sensory transduction regulator
+
+Best Entry for Largest Function:
+File: A0A0F6TDW2
+Function: Bacterial sensory transduction regulator {ECO:0008006|Google:ProtNLM}
+E-value: 0.01773
+Bit Score: 86.0
+Alignment Length: 138
+Percentage Identity: 0.137
+
+Best Overall Entry:
+File: A0A0F6TDW2
+Function: Bacterial sensory transduction regulator {ECO:0008006|Google:ProtNLM}
+E-value: 0.01773
+Bit Score: 86.0
+Alignment Length: 138
+Percentage Identity: 0.137
+
+Note: The best overall entry is the same as the best entry for the largest function.

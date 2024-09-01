@@ -1,0 +1,17 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: A0A2A4T416
+Function: Uncharacterized protein {ECO:0000313|EMBL:PCI27885.1}
+E-value: 8.465e-14
+Bit Score: 543.0
+Alignment Length: 154
+Percentage Identity: 0.285
+
+Best Overall Entry:
+File: A0A3N7I0P4
+Function: DUF3168 domain-containing protein {ECO:0008006|Google:ProtNLM}
+E-value: 1.992e-22
+Bit Score: 897.0
+Alignment Length: 151
+Percentage Identity: 0.688

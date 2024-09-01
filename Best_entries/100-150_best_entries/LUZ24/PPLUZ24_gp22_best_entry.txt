@@ -1,0 +1,19 @@
+Largest Function: Gamma-glutamylcyclotransferase family protein
+
+Best Entry for Largest Function:
+File: A0A525C664
+Function: Gamma-glutamylcyclotransferase family protein {ECO:0000256|RuleBase:RU367036}
+E-value: 7.574e-12
+Bit Score: 489.0
+Alignment Length: 135
+Percentage Identity: 0.325
+
+Best Overall Entry:
+File: A0A525C664
+Function: Gamma-glutamylcyclotransferase family protein {ECO:0000256|RuleBase:RU367036}
+E-value: 7.574e-12
+Bit Score: 489.0
+Alignment Length: 135
+Percentage Identity: 0.325
+
+Note: The best overall entry is the same as the best entry for the largest function.

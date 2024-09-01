@@ -1,0 +1,19 @@
+Largest Function: Suppressor of fused-like domain-containing protein
+
+Best Entry for Largest Function:
+File: A0A7W1N283
+Function: Suppressor of fused-like domain-containing protein {ECO:0008006|Google:ProtNLM}
+E-value: 0.04418
+Bit Score: 86.0
+Alignment Length: 163
+Percentage Identity: 0.079
+
+Best Overall Entry:
+File: A0A7W1N283
+Function: Suppressor of fused-like domain-containing protein {ECO:0008006|Google:ProtNLM}
+E-value: 0.04418
+Bit Score: 86.0
+Alignment Length: 163
+Percentage Identity: 0.079
+
+Note: The best overall entry is the same as the best entry for the largest function.

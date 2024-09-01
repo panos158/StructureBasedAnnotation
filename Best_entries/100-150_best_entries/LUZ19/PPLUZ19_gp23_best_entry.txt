@@ -1,0 +1,19 @@
+Largest Function: Recombination endonuclease VII
+
+Best Entry for Largest Function:
+File: A0A7Y6JUR5
+Function: Recombination endonuclease VII {ECO:0008006|Google:ProtNLM}
+E-value: 7.932e-09
+Bit Score: 309.0
+Alignment Length: 133
+Percentage Identity: 0.368
+
+Best Overall Entry:
+File: A0A7Y6JUR5
+Function: Recombination endonuclease VII {ECO:0008006|Google:ProtNLM}
+E-value: 7.932e-09
+Bit Score: 309.0
+Alignment Length: 133
+Percentage Identity: 0.368
+
+Note: The best overall entry is the same as the best entry for the largest function.

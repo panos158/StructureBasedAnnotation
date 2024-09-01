@@ -1,0 +1,19 @@
+Largest Function: Peptidase C39-like domain-containing protein
+
+Best Entry for Largest Function:
+File: A0A3A4K859
+Function: Peptidase C39-like domain-containing protein {ECO:0008006|Google:ProtNLM}
+E-value: 0.04032
+Bit Score: 84.0
+Alignment Length: 79
+Percentage Identity: 0.202
+
+Best Overall Entry:
+File: A0A3A4K859
+Function: Peptidase C39-like domain-containing protein {ECO:0008006|Google:ProtNLM}
+E-value: 0.04032
+Bit Score: 84.0
+Alignment Length: 79
+Percentage Identity: 0.202
+
+Note: The best overall entry is the same as the best entry for the largest function.

@@ -1,0 +1,19 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: I7MIX7
+Function: Uncharacterized protein {ECO:0000313|EMBL:EAR95638.2}
+E-value: 0.04621
+Bit Score: 64.0
+Alignment Length: 122
+Percentage Identity: 0.163
+
+Best Overall Entry:
+File: I7MIX7
+Function: Uncharacterized protein {ECO:0000313|EMBL:EAR95638.2}
+E-value: 0.04621
+Bit Score: 64.0
+Alignment Length: 122
+Percentage Identity: 0.163
+
+Note: The best overall entry is the same as the best entry for the largest function.

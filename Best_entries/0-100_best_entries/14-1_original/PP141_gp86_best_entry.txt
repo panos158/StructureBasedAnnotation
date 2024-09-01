@@ -1,0 +1,19 @@
+Largest Function: AAA family ATPase
+
+Best Entry for Largest Function:
+File: A0A2H0L7D4
+Function: AAA family ATPase {ECO:0000313|EMBL:PIQ79564.1}
+E-value: 0.02306
+Bit Score: 120.0
+Alignment Length: 72
+Percentage Identity: 0.152
+
+Best Overall Entry:
+File: A0A2H0L7D4
+Function: AAA family ATPase {ECO:0000313|EMBL:PIQ79564.1}
+E-value: 0.02306
+Bit Score: 120.0
+Alignment Length: 72
+Percentage Identity: 0.152
+
+Note: The best overall entry is the same as the best entry for the largest function.

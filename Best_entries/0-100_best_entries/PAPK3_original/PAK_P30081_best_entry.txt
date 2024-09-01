@@ -1,0 +1,19 @@
+Largest Function: Cytochrome B
+
+Best Entry for Largest Function:
+File: A0A497F2D7
+Function: Cytochrome B {ECO:0008006|Google:ProtNLM}
+E-value: 0.03323
+Bit Score: 55.0
+Alignment Length: 98
+Percentage Identity: 0.204
+
+Best Overall Entry:
+File: A0A497F2D7
+Function: Cytochrome B {ECO:0008006|Google:ProtNLM}
+E-value: 0.03323
+Bit Score: 55.0
+Alignment Length: 98
+Percentage Identity: 0.204
+
+Note: The best overall entry is the same as the best entry for the largest function.

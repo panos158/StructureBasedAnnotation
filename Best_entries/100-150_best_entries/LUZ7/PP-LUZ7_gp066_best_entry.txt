@@ -1,0 +1,19 @@
+Largest Function: Ead/Ea22-like family protein
+
+Best Entry for Largest Function:
+File: A0A1X3HZ61
+Function: Ead/Ea22-like family protein {ECO:0008006|Google:ProtNLM}
+E-value: 7.234e-08
+Bit Score: 298.0
+Alignment Length: 118
+Percentage Identity: 0.381
+
+Best Overall Entry:
+File: A0A1X3HZ61
+Function: Ead/Ea22-like family protein {ECO:0008006|Google:ProtNLM}
+E-value: 7.234e-08
+Bit Score: 298.0
+Alignment Length: 118
+Percentage Identity: 0.381
+
+Note: The best overall entry is the same as the best entry for the largest function.

@@ -1,0 +1,19 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: A0A2A2CD96
+Function: Uncharacterized protein {ECO:0000313|EMBL:PAU25805.1}
+E-value: 0.02356
+Bit Score: 146.0
+Alignment Length: 117
+Percentage Identity: 0.188
+
+Best Overall Entry:
+File: A0A2A2CD96
+Function: Uncharacterized protein {ECO:0000313|EMBL:PAU25805.1}
+E-value: 0.02356
+Bit Score: 146.0
+Alignment Length: 117
+Percentage Identity: 0.188
+
+Note: The best overall entry is the same as the best entry for the largest function.

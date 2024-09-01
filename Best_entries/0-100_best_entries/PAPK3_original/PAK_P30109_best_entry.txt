@@ -1,0 +1,19 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: A0A6J5DJI2
+Function: Uncharacterized protein {ECO:0000313|EMBL:CAB3754248.1}
+E-value: 4.08e-08
+Bit Score: 351.0
+Alignment Length: 87
+Percentage Identity: 0.448
+
+Best Overall Entry:
+File: A0A6J5DJI2
+Function: Uncharacterized protein {ECO:0000313|EMBL:CAB3754248.1}
+E-value: 4.08e-08
+Bit Score: 351.0
+Alignment Length: 87
+Percentage Identity: 0.448
+
+Note: The best overall entry is the same as the best entry for the largest function.

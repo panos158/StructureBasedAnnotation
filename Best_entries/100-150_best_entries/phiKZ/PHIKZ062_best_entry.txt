@@ -1,0 +1,17 @@
+Largest Function: Type VI secretion system baseplate subunit TssE
+
+Best Entry for Largest Function:
+File: A0A356KY53
+Function: Type VI secretion system baseplate subunit TssE {ECO:0000313|EMBL:HBP23659.1}
+E-value: 0.0004588
+Bit Score: 138.0
+Alignment Length: 131
+Percentage Identity: 0.122
+
+Best Overall Entry:
+File: A0A2E8I7L7
+Function: Uncharacterized protein {ECO:0000313|EMBL:MBQ50195.1}
+E-value: 6.834e-09
+Bit Score: 334.0
+Alignment Length: 135
+Percentage Identity: 0.229

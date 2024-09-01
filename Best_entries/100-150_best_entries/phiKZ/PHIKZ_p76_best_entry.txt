@@ -1,0 +1,17 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: A0A4S2H5U6
+Function: Uncharacterized protein {ECO:0000313|EMBL:TGY91114.1}
+E-value: 0.01692
+Bit Score: 83.0
+Alignment Length: 127
+Percentage Identity: 0.11
+
+Best Overall Entry:
+File: A0A0S4M0T5
+Function: Putative membrane protein {ECO:0000313|EMBL:CUT17217.1}
+E-value: 0.0009588
+Bit Score: 116.0
+Alignment Length: 118
+Percentage Identity: 0.186

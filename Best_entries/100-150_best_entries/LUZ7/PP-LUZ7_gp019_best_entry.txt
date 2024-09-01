@@ -1,0 +1,17 @@
+Largest Function: Macro domain-containing protein
+
+Best Entry for Largest Function:
+File: A0A2E0ZJU1
+Function: Macro domain-containing protein {ECO:0008006|Google:ProtNLM}
+E-value: 4.006e-16
+Bit Score: 598.0
+Alignment Length: 154
+Percentage Identity: 0.285
+
+Best Overall Entry:
+File: A0A533I3U7
+Function: Uncharacterized protein {ECO:0000313|EMBL:TKW65197.1}
+E-value: 2.374e-16
+Bit Score: 594.0
+Alignment Length: 144
+Percentage Identity: 0.333

@@ -1,0 +1,19 @@
+Largest Function: Head fiber protein
+
+Best Entry for Largest Function:
+File: A0A378XTT3
+Function: Head fiber protein {ECO:0008006|Google:ProtNLM}
+E-value: 4.296e-06
+Bit Score: 206.0
+Alignment Length: 110
+Percentage Identity: 0.427
+
+Best Overall Entry:
+File: A0A378XTT3
+Function: Head fiber protein {ECO:0008006|Google:ProtNLM}
+E-value: 4.296e-06
+Bit Score: 206.0
+Alignment Length: 110
+Percentage Identity: 0.427
+
+Note: The best overall entry is the same as the best entry for the largest function.

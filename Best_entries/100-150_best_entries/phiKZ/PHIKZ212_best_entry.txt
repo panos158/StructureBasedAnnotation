@@ -1,0 +1,19 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: C3GSY9
+Function: Uncharacterized protein {ECO:0000313|EMBL:EEM74489.1}
+E-value: 0.01067
+Bit Score: 127.0
+Alignment Length: 81
+Percentage Identity: 0.283
+
+Best Overall Entry:
+File: C3GSY9
+Function: Uncharacterized protein {ECO:0000313|EMBL:EEM74489.1}
+E-value: 0.01067
+Bit Score: 127.0
+Alignment Length: 81
+Percentage Identity: 0.283
+
+Note: The best overall entry is the same as the best entry for the largest function.

@@ -1,0 +1,19 @@
+Largest Function: CMP/dCMP-type deaminase domain-containing protein
+
+Best Entry for Largest Function:
+File: A0A2E7I209
+Function: CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747}
+E-value: 1.846e-19
+Bit Score: 747.0
+Alignment Length: 129
+Percentage Identity: 0.573
+
+Best Overall Entry:
+File: A0A2E7I209
+Function: CMP/dCMP-type deaminase domain-containing protein {ECO:0000259|PROSITE:PS51747}
+E-value: 1.846e-19
+Bit Score: 747.0
+Alignment Length: 129
+Percentage Identity: 0.573
+
+Note: The best overall entry is the same as the best entry for the largest function.

@@ -1,0 +1,17 @@
+Largest Function: Phage tail protein
+
+Best Entry for Largest Function:
+File: A0A3V3LP51
+Function: Phage tail protein {ECO:0008006|Google:ProtNLM}
+E-value: 2.198e-09
+Bit Score: 412.0
+Alignment Length: 149
+Percentage Identity: 0.208
+
+Best Overall Entry:
+File: A0A0H3B1B2
+Function: Bacteriophage protein {ECO:0008006|Google:ProtNLM}
+E-value: 1.558e-18
+Bit Score: 853.0
+Alignment Length: 146
+Percentage Identity: 0.486

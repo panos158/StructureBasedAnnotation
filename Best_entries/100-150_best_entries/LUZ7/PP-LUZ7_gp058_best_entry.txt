@@ -1,0 +1,19 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: B1JCY0
+Function: Uncharacterized protein {ECO:0000313|EMBL:ACA74406.1}
+E-value: 7.033e-07
+Bit Score: 248.0
+Alignment Length: 107
+Percentage Identity: 0.345
+
+Best Overall Entry:
+File: B1JCY0
+Function: Uncharacterized protein {ECO:0000313|EMBL:ACA74406.1}
+E-value: 7.033e-07
+Bit Score: 248.0
+Alignment Length: 107
+Percentage Identity: 0.345
+
+Note: The best overall entry is the same as the best entry for the largest function.

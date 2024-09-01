@@ -1,0 +1,19 @@
+Largest Function: Holin
+
+Best Entry for Largest Function:
+File: A0A533I567
+Function: Holin {ECO:0008006|Google:ProtNLM}
+E-value: 0.004004
+Bit Score: 135.0
+Alignment Length: 90
+Percentage Identity: 0.344
+
+Best Overall Entry:
+File: A0A533I567
+Function: Holin {ECO:0008006|Google:ProtNLM}
+E-value: 0.004004
+Bit Score: 135.0
+Alignment Length: 90
+Percentage Identity: 0.344
+
+Note: The best overall entry is the same as the best entry for the largest function.

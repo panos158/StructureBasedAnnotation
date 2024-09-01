@@ -1,0 +1,19 @@
+Largest Function: GNAT family N-acetyltransferase
+
+Best Entry for Largest Function:
+File: A0A2E4N493
+Function: GNAT family N-acetyltransferase {ECO:0008006|Google:ProtNLM}
+E-value: 5.97e-08
+Bit Score: 278.0
+Alignment Length: 144
+Percentage Identity: 0.208
+
+Best Overall Entry:
+File: A0A2E4N493
+Function: GNAT family N-acetyltransferase {ECO:0008006|Google:ProtNLM}
+E-value: 5.97e-08
+Bit Score: 278.0
+Alignment Length: 144
+Percentage Identity: 0.208
+
+Note: The best overall entry is the same as the best entry for the largest function.

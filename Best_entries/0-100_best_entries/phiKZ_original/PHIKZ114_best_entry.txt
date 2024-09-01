@@ -1,0 +1,17 @@
+Largest Function: XRE family transcriptional regulator
+
+Best Entry for Largest Function:
+File: A0A2G0YS34
+Function: XRE family transcriptional regulator {ECO:0000313|EMBL:PHN60082.1}
+E-value: 4.697e-08
+Bit Score: 393.0
+Alignment Length: 94
+Percentage Identity: 0.531
+
+Best Overall Entry:
+File: A0A2T5HIR4
+Function: Putative XRE-type DNA-binding protein {ECO:0000313|EMBL:PTQ71465.1}
+E-value: 1.056e-08
+Bit Score: 424.0
+Alignment Length: 92
+Percentage Identity: 0.565

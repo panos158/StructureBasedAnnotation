@@ -1,0 +1,19 @@
+Largest Function: Interferon-related developmental regulator 2
+
+Best Entry for Largest Function:
+File: M7C0H7
+Function: Interferon-related developmental regulator 2 {ECO:0000313|EMBL:EMP33862.1}
+E-value: 0.03683
+Bit Score: 55.0
+Alignment Length: 118
+Percentage Identity: 0.144
+
+Best Overall Entry:
+File: M7C0H7
+Function: Interferon-related developmental regulator 2 {ECO:0000313|EMBL:EMP33862.1}
+E-value: 0.03683
+Bit Score: 55.0
+Alignment Length: 118
+Percentage Identity: 0.144
+
+Note: The best overall entry is the same as the best entry for the largest function.

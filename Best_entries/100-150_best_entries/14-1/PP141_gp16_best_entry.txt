@@ -1,0 +1,19 @@
+Largest Function: Lipoprotein
+
+Best Entry for Largest Function:
+File: A0A6I7HGK1
+Function: Lipoprotein {ECO:0008006|Google:ProtNLM}
+E-value: 0.03581
+Bit Score: 85.0
+Alignment Length: 100
+Percentage Identity: 0.2
+
+Best Overall Entry:
+File: A0A6I7HGK1
+Function: Lipoprotein {ECO:0008006|Google:ProtNLM}
+E-value: 0.03581
+Bit Score: 85.0
+Alignment Length: 100
+Percentage Identity: 0.2
+
+Note: The best overall entry is the same as the best entry for the largest function.

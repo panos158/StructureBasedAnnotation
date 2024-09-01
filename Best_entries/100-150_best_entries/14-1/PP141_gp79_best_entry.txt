@@ -1,0 +1,17 @@
+Largest Function: YCII-related domain-containing protein
+
+Best Entry for Largest Function:
+File: A0A316VKJ5
+Function: YCII-related domain-containing protein {ECO:0008006|Google:ProtNLM}
+E-value: 0.01439
+Bit Score: 71.0
+Alignment Length: 106
+Percentage Identity: 0.103
+
+Best Overall Entry:
+File: A0A292YK65
+Function: Diguanylate phosphodiesterase {ECO:0000313|EMBL:GAX88870.1}
+E-value: 0.009586
+Bit Score: 72.0
+Alignment Length: 107
+Percentage Identity: 0.158

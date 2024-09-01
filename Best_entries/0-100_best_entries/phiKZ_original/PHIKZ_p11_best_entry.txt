@@ -1,0 +1,17 @@
+Largest Function: RHS repeat protein
+
+Best Entry for Largest Function:
+File: A0A4Q4B251
+Function: RHS repeat protein {ECO:0008006|Google:ProtNLM}
+E-value: 0.0454
+Bit Score: 75.0
+Alignment Length: 83
+Percentage Identity: 0.108
+
+Best Overall Entry:
+File: A0A7K4GW50
+Function: Uncharacterized protein {ECO:0000313|EMBL:NVM33958.1}
+E-value: 0.02919
+Bit Score: 90.0
+Alignment Length: 92
+Percentage Identity: 0.152

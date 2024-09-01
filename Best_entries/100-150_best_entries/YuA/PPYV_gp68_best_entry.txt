@@ -1,0 +1,17 @@
+Largest Function: HK97 gp10 family phage protein
+
+Best Entry for Largest Function:
+File: A0A833P4K7
+Function: HK97 gp10 family phage protein {ECO:0008006|Google:ProtNLM}
+E-value: 1.175e-12
+Bit Score: 557.0
+Alignment Length: 144
+Percentage Identity: 0.395
+
+Best Overall Entry:
+File: A0A3N7HX71
+Function: Virion structural protein {ECO:0008006|Google:ProtNLM}
+E-value: 1.3220000000000002e-20
+Bit Score: 876.0
+Alignment Length: 148
+Percentage Identity: 0.844

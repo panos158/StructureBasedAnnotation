@@ -1,0 +1,19 @@
+Largest Function: Putative phage resolvase/integrase
+
+Best Entry for Largest Function:
+File: R6NQY0
+Function: Putative phage resolvase/integrase {ECO:0000313|EMBL:CDC08646.1}
+E-value: 0.03866
+Bit Score: 120.0
+Alignment Length: 53
+Percentage Identity: 0.226
+
+Best Overall Entry:
+File: R6NQY0
+Function: Putative phage resolvase/integrase {ECO:0000313|EMBL:CDC08646.1}
+E-value: 0.03866
+Bit Score: 120.0
+Alignment Length: 53
+Percentage Identity: 0.226
+
+Note: The best overall entry is the same as the best entry for the largest function.

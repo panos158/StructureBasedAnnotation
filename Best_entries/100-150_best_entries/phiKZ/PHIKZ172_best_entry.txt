@@ -1,0 +1,19 @@
+Largest Function: NADAR domain-containing protein
+
+Best Entry for Largest Function:
+File: A0A7S4PRZ6
+Function: NADAR domain-containing protein {ECO:0000259|Pfam:PF08719}
+E-value: 0.04956
+Bit Score: 96.0
+Alignment Length: 169
+Percentage Identity: 0.112
+
+Best Overall Entry:
+File: A0A7S4PRZ6
+Function: NADAR domain-containing protein {ECO:0000259|Pfam:PF08719}
+E-value: 0.04956
+Bit Score: 96.0
+Alignment Length: 169
+Percentage Identity: 0.112
+
+Note: The best overall entry is the same as the best entry for the largest function.

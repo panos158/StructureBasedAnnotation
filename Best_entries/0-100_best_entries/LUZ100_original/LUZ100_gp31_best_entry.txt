@@ -1,0 +1,17 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: A0A6H0ZKB8
+Function: Uncharacterized protein {ECO:0000313|EMBL:QIX20603.1}
+E-value: 0.0002798
+Bit Score: 197.0
+Alignment Length: 67
+Percentage Identity: 0.462
+
+Best Overall Entry:
+File: A0A845Q7C1
+Function: MmcQ/YjbR family DNA-binding protein {ECO:0008006|Google:ProtNLM}
+E-value: 8.513e-06
+Bit Score: 253.0
+Alignment Length: 60
+Percentage Identity: 0.533

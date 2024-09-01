@@ -1,0 +1,19 @@
+Largest Function: Proteasome subunit beta
+
+Best Entry for Largest Function:
+File: A0A7X1Y7S1
+Function: Proteasome subunit beta {ECO:0000313|EMBL:MQU32154.1}
+E-value: 4.069e-16
+Bit Score: 675.0
+Alignment Length: 144
+Percentage Identity: 0.437
+
+Best Overall Entry:
+File: A0A7X1Y7S1
+Function: Proteasome subunit beta {ECO:0000313|EMBL:MQU32154.1}
+E-value: 4.069e-16
+Bit Score: 675.0
+Alignment Length: 144
+Percentage Identity: 0.437
+
+Note: The best overall entry is the same as the best entry for the largest function.

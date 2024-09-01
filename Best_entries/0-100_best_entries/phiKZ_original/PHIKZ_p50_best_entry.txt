@@ -1,0 +1,19 @@
+Largest Function: PAAR domain-containing protein
+
+Best Entry for Largest Function:
+File: A0A5Q0BKL6
+Function: PAAR domain-containing protein {ECO:0000313|EMBL:QFY42761.1}
+E-value: 9.75e-10
+Bit Score: 394.0
+Alignment Length: 87
+Percentage Identity: 0.459
+
+Best Overall Entry:
+File: A0A5Q0BKL6
+Function: PAAR domain-containing protein {ECO:0000313|EMBL:QFY42761.1}
+E-value: 9.75e-10
+Bit Score: 394.0
+Alignment Length: 87
+Percentage Identity: 0.459
+
+Note: The best overall entry is the same as the best entry for the largest function.

@@ -1,0 +1,17 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: A0A0A1Q2X7
+Function: Uncharacterized protein {ECO:0000313|EMBL:CEJ15932.1}
+E-value: 1.032e-06
+Bit Score: 173.0
+Alignment Length: 160
+Percentage Identity: 0.268
+
+Best Overall Entry:
+File: A0A3S1CYZ7
+Function: Phage tail assembly chaperone-like domain-containing protein {ECO:0000259|Pfam:PF16778}
+E-value: 1.876e-10
+Bit Score: 297.0
+Alignment Length: 147
+Percentage Identity: 0.312

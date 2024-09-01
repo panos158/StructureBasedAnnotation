@@ -1,0 +1,17 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: A0A523XKW4
+Function: Uncharacterized protein {ECO:0000313|EMBL:TET79943.1}
+E-value: 0.0005052
+Bit Score: 206.0
+Alignment Length: 82
+Percentage Identity: 0.292
+
+Best Overall Entry:
+File: A0A136QBI2
+Function: WYL domain-containing protein {ECO:0008006|Google:ProtNLM}
+E-value: 1.312e-12
+Bit Score: 563.0
+Alignment Length: 94
+Percentage Identity: 0.734

@@ -1,0 +1,19 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: A0A4V2A487
+Function: Uncharacterized protein {ECO:0000313|EMBL:RYY51359.1}
+E-value: 3.33e-08
+Bit Score: 319.0
+Alignment Length: 135
+Percentage Identity: 0.303
+
+Best Overall Entry:
+File: A0A4V2A487
+Function: Uncharacterized protein {ECO:0000313|EMBL:RYY51359.1}
+E-value: 3.33e-08
+Bit Score: 319.0
+Alignment Length: 135
+Percentage Identity: 0.303
+
+Note: The best overall entry is the same as the best entry for the largest function.

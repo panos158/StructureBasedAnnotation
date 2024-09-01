@@ -1,0 +1,19 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: A0A0F9PVR9
+Function: Uncharacterized protein {ECO:0000313|EMBL:KKM97272.1}
+E-value: 8.391e-09
+Bit Score: 291.0
+Alignment Length: 144
+Percentage Identity: 0.222
+
+Best Overall Entry:
+File: A0A0F9PVR9
+Function: Uncharacterized protein {ECO:0000313|EMBL:KKM97272.1}
+E-value: 8.391e-09
+Bit Score: 291.0
+Alignment Length: 144
+Percentage Identity: 0.222
+
+Note: The best overall entry is the same as the best entry for the largest function.

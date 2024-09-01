@@ -1,0 +1,19 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: A8IF74
+Function: Uncharacterized protein {ECO:0000313|EMBL:BAF89584.1}
+E-value: 0.0001137
+Bit Score: 196.0
+Alignment Length: 65
+Percentage Identity: 0.676
+
+Best Overall Entry:
+File: A8IF74
+Function: Uncharacterized protein {ECO:0000313|EMBL:BAF89584.1}
+E-value: 0.0001137
+Bit Score: 196.0
+Alignment Length: 65
+Percentage Identity: 0.676
+
+Note: The best overall entry is the same as the best entry for the largest function.

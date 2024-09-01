@@ -1,0 +1,17 @@
+Largest Function: NTP pyrophosphohydrolase MazG-like domain-containing protein
+
+Best Entry for Largest Function:
+File: A0A3E0R371
+Function: NTP pyrophosphohydrolase MazG-like domain-containing protein {ECO:0000259|Pfam:PF03819}
+E-value: 1.967e-08
+Bit Score: 380.0
+Alignment Length: 95
+Percentage Identity: 0.452
+
+Best Overall Entry:
+File: A0A348HFN3
+Function: Predicted pyrophosphatase {ECO:0000313|EMBL:BBG30435.1}
+E-value: 4.685e-09
+Bit Score: 412.0
+Alignment Length: 94
+Percentage Identity: 0.457

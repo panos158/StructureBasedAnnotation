@@ -1,0 +1,19 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: A0A521YU74
+Function: Uncharacterized protein {ECO:0000313|EMBL:TAK84356.1}
+E-value: 0.03932
+Bit Score: 94.0
+Alignment Length: 128
+Percentage Identity: 0.164
+
+Best Overall Entry:
+File: A0A521YU74
+Function: Uncharacterized protein {ECO:0000313|EMBL:TAK84356.1}
+E-value: 0.03932
+Bit Score: 94.0
+Alignment Length: 128
+Percentage Identity: 0.164
+
+Note: The best overall entry is the same as the best entry for the largest function.

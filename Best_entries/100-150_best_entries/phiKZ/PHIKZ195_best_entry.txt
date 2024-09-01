@@ -1,0 +1,17 @@
+Largest Function: Uncharacterized protein
+
+Best Entry for Largest Function:
+File: K9UJD3
+Function: Uncharacterized protein {ECO:0000313|EMBL:AFY94289.1}
+E-value: 0.0124
+Bit Score: 87.0
+Alignment Length: 137
+Percentage Identity: 0.109
+
+Best Overall Entry:
+File: A0A673FPQ2
+Function: Protein interacting with cyclin A1 {ECO:0000313|Ensembl:ENSSRHP00000002848.1}
+E-value: 0.006917
+Bit Score: 86.0
+Alignment Length: 99
+Percentage Identity: 0.121
