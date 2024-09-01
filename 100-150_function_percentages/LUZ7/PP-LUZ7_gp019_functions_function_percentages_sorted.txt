@@ -1,0 +1,81 @@
+Function	Percentage
+Macro domain-containing protein	48.6
+Appr-1-p processing protein	7.8
+Uncharacterized protein	3.6
+O-acetyl-ADP-ribose deacetylase (Regulator of RNase III), contains Macro domain	2.6
+O-acetyl-ADP-ribose deacetylase	2.6
+O-acyl-ADP-ribose deacylase 1	2.2
+RNA-directed DNA polymerase	2.2
+Appr-1-p processing domain protein	2.0
+O-acetyl-ADP-ribose deacetylase (Regulator of RNase III)	1.8
+ADP-ribose 1''-phosphate phosphatase	1.8
+Appr-1-p processing domain-containing protein	1.8
+ADP-ribose-binding protein	1.6
+Macro domain protein	1.4
+O-acetyl-ADP-ribose deacetylase 1	1.4
+Gypsy retrotransposon integrase-like protein 1	1.2
+SGNH hydrolase-type esterase domain-containing protein	1.0
+DUF4433 domain-containing protein	0.8
+Integrase zinc-binding domain-containing protein	0.8
+ADP-ribose glycohydrolase OARD1-like	0.6
+Appr-1-p processing enzyme family protein	0.6
+Phosphatase	0.6
+Retrovirus-related Pol polyprotein	0.4
+Uncharacterized protein, isoform B	0.4
+Ubiquitin-like protease family profile domain-containing protein	0.4
+RNase III inhibitor	0.4
+Putative phosphatase, C-terminal domain of histone macro H2A1 like protein	0.4
+Macro domain	0.4
+Uncharacterized protein aq_987;	0.2
+Phage protein	0.2
+Peptidase M24 domain-containing protein	0.2
+O-acetyl-ADP-ribose deacetylase (Regulator of RNase III) containing Macro domain	0.2
+DUF5678 domain-containing protein	0.2
+DUF4265 domain-containing protein	0.2
+Uncharacterized protein LOC114346539	0.2
+Cytosol aminopeptidase domain-containing protein	0.2
+Reverse transcriptase/retrotransposon-derived protein RNase H-like domain-containing protein	0.2
+O-acetyl-ADP-ribose deacetylase C6orf130	0.2
+Uncharacterized protein LOC117643545 isoform X2	0.2
+Uncharacterized protein LOC114330619	0.2
+Probable serine/threonine-protein kinase DDB_G0272092	0.2
+Putative serine/threonine-protein kinase isoform X3	0.2
+Protein containing Appr-1-p processing domain protein	0.2
+DRBM domain-containing protein	0.2
+PHD-type domain-containing protein	0.2
+Retrotransposon gag domain-containing protein	0.2
+Uncharacterized protein APE_1648.1;	0.2
+Caspase family p20 domain-containing protein	0.2
+DUF1273 family protein	0.2
+OSK domain-containing protein	0.2
+MBL fold metallo-hydrolase	0.2
+Putative Appr-1-p processing enzyme family protein	0.2
+O-acetyl-ADP-ribose deacetylase 1 isoform X4	0.2
+DarT domain-containing protein	0.2
+GEO13066p1	0.2
+ADP-ribosyl-(Nitrogenase)-activating glycohydrolase	0.2
+Phosphatase, C-terminal domain of histone macro H2A1 like protein	0.2
+ADP-ribose 1'-phosphate phophatase related protein	0.2
+Sarcoplasmic reticulum histidine-rich calcium-binding protein-like	0.2
+ADP-ribose glycohydrolase OARD1	0.2
+Putative macroH2A1-like phosphatase	0.2
+Appr-1-p processing enzyme family	0.2
+O-acetyl-ADP-ribose deacetylase (Regulator of RNase III)/uncharacterized protein YwgA	0.2
+O-acetyl-ADP-ribose deacetylase-like protein	0.2
+O-acetyl-ADP-ribose deacetylase 1-like	0.2
+CCHC-type domain-containing protein	0.2
+Serine/arginine repetitive matrix protein 2-like	0.2
+Uncharacterized protein LOC103522163	0.2
+C6orf130	0.2
+Uncharacterized protein LOC108745172 isoform X1	0.2
+Appr-1-p processing enzyme	0.2
+Putative phosphatase, C-terminal domain of histone macroH2A1 like protein	0.2
+Zgc:110708	0.2
+Polynucleotide kinase 3-phosphatase	0.2
+Uncharacterized protein LOC113203974 isoform X1	0.2
+Putative serine/threonine-protein kinase clkA	0.2
+GNAT family N-acetyltransferase	0.2
+ImmA/IrrE family metallo-endopeptidase	0.2
+ADP-ribose 1''-phosphate phophatase related protein	0.2
+AT19489p	0.2
+ribonuclease H	0.2

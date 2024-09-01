@@ -1,0 +1,65 @@
+Function	Percentage
+DUF2634 domain-containing protein	27.6
+IraD/Gp25-like domain-containing protein	16.5
+Uncharacterized protein	16.0
+GPW/gp25 family protein	5.3
+Phage protein	3.8
+Baseplate protein	3.8
+Phage tail protein	3.6
+LysM domain-containing protein	3.2
+Bacteriophage protein	2.1
+Phage baseplate assembly protein W	2.1
+Baseplate assembly protein	1.7
+Phage portal protein	1.5
+Gene 25-like lysozyme	1.2
+Phage baseplate protein	1.0
+Phage protein XkdS	0.9
+Uncharacterized protein DUF2634	0.9
+Histidine kinase	0.7
+Protein of uncharacterized function (DUF2634)	0.7
+Burkholderia phage Bcep781 gp51	0.5
+PF10934 family protein	0.4
+Type VI secretion system lysozyme-like protein	0.2
+Phage-like element pbsx protein XkdS	0.2
+Lysozyme	0.2
+Tail protein	0.2
+Phage-like element PBSX protein xkdS	0.2
+GPW / gp25 family protein	0.2
+25-like lysozyme	0.2
+Phage protein Gp138 N-terminal domain-containing protein	0.2
+LysM peptidoglycan-binding domain-containing protein	0.2
+Baseplate protein J-like domain-containing protein	0.2
+DUF2169 domain-containing protein	0.1
+Tip attachment protein J domain-containing protein	0.1
+Putative GPW / gp25 family	0.1
+Domain protein	0.1
+SbsA Ig-like domain-containing protein	0.1
+Phage baseplate-like protein	0.1
+W protein	0.1
+DUF3986 family protein	0.1
+Putative baseplate wedge subunit	0.1
+Phage Mu protein Gp25-like protein	0.1
+Phage baseplate outer wedge protein (Acidic lysozyme), putative	0.1
+Gll1413 protein	0.1
+Putative lysozyme	0.1
+Type VI secretion system baseplate protein TssE	0.1
+Putative phage baseplate protein	0.1
+Phage protein GP46	0.1
+Mlr6561 protein	0.1
+Pyridoxamine-phosphate oxidase	0.1
+Baseplate assembly protein, putative	0.1
+DNA-packaging protein	0.1
+XkdS-like protein	0.1
+Lipid/polyisoprenoid-binding YceI-like domain-containing protein	0.1
+DUF4440 domain-containing protein	0.1
+Protein 25-like lysozyme	0.1
+Phage-related protein	0.1
+Phage protein XkdS family protein	0.1
+Gp5/Type VI secretion system Vgr protein OB-fold domain-containing protein	0.1
+Lin1286 protein	0.1
+Pesponse regulators consisting of a CheY-like	0.1
+LysM domain protein	0.1
+Phage baseplate assembly protein	0.1
+Putative lysogenic conversion protein	0.1
+Putative phage tail protein	0.1
+25-like lysozyme family protein	0.1

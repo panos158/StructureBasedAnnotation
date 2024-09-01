@@ -1,0 +1,24 @@
+Function	Percentage
+Glycine zipper 2TM domain-containing protein	58.8
+Outer membrane lipoprotein SlyB	13.1
+17 kDa surface antigen	10.4
+Uncharacterized protein	2.7
+Outer membrane lipoprotein	2.3
+Glycine zipper domain-containing protein	2.3
+Membrane protein	1.8
+Outer membrane lipoprotein pcp	1.4
+Glycine zipper 2TM protein	0.9
+Lipoprotein	0.5
+Peptidoglycan-associated outer membrane lipoprotein	0.5
+Flagellar hook-length control protein FliK	0.5
+Putative outer membrane lipoprotein	0.5
+DUF3592 domain-containing protein	0.5
+YMGG-like Gly-zipper domain-containing protein	0.5
+Acetate/propionate kinase	0.5
+Putative outer membrane lipoprotein Pcp	0.5
+Rickettsia 17 kDa surface antigen family	0.5
+Putative peptidoglycan-associated lipoprotein (Pal)	0.5
+Rickettsia surface antigen	0.5
+Glycine zipper family protein	0.5
+PAL cross-reacting lipoprotein	0.5
+Surface antigen family protein	0.5

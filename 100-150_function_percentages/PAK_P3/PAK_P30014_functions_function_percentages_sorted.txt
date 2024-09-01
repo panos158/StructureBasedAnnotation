@@ -1,0 +1,20 @@
+Function	Percentage
+Uncharacterized protein	30.8
+DUF3277 family protein	26.0
+DUF3277 domain-containing protein	17.8
+Phage tail protein	6.2
+Uncharacterized protein DUF3277	3.4
+Phage tail tube protein	2.7
+PF11681 family protein	1.4
+Putative bacteriophage protein	1.4
+Phage protein	1.4
+Tail tube protein	1.4
+Gp15	1.4
+Bacteriophage protein	1.4
+Receptor ligand binding region domain-containing protein	0.7
+DUF1833 domain-containing protein	0.7
+Putative phage protein	0.7
+Tail protein	0.7
+DUF192 domain-containing protein	0.7
+ABC-type multidrug transport system, ATPase	0.7
+BNR repeat-containing family member	0.7

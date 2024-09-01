@@ -1,0 +1,6 @@
+Function	Percentage
+Uncharacterized protein	69.2
+Tail assembly chaperone	7.7
+Phage protein	7.7
+Phage tail protein	7.7
+Putative DUF2669 domain protein	7.7

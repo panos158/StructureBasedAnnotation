@@ -1,0 +1,4 @@
+Function	Percentage
+SPOR domain-containing protein	66.7
+tetrahydrofolate synthase	22.2
+RRM domain-containing protein	11.1

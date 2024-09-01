@@ -1,0 +1,89 @@
+Function	Percentage
+Proteasome subunit beta	27.3
+Uncharacterized protein	24.6
+ATP-dependent protease subunit HslV	6.4
+proteasome endopeptidase complex	5.0
+Peptidase	3.3
+Proteasome endopeptidase complex	2.9
+20S proteasome subunit A/B	2.1
+Proteasome subunit alpha	1.9
+ATP-dependent protease HslVU (ClpYQ), peptidase subunit	1.7
+Proteasome subunit alpha type	1.2
+Proteasome subunit beta type-5	1.2
+Proteasome subunit	1.0
+Proteasome beta subunit	0.6
+Proteasome-type protease	0.6
+Putative proteasome-type protease	0.6
+MFS transporter	0.6
+20S proteasome A and B subunits	0.6
+ATP-dependent protease HslVU (ClpYQ) peptidase subunit	0.6
+Proteasome subunit alpha type-7	0.6
+Peptidase S14	0.6
+Proteasome subunit beta type	0.4
+20S proteasome subunits A/B	0.4
+20S proteasome alpha/beta subunit	0.4
+Proteasome subunit beta type-4	0.4
+N-terminal nucleophile aminohydrolase	0.4
+Proteasome subunit alpha type-3	0.4
+20S proteasome, alpha and beta subunits	0.4
+Proteasome subunit beta type-3	0.4
+Proteasome subunit alpha type-1	0.4
+Proteasome, subunit alpha/beta	0.4
+Proteasome subunit beta type-2-A	0.4
+Pup3p	0.2
+Proteasome subunit beta type 5,8	0.2
+J domain-containing protein	0.2
+PRE7	0.2
+20S proteasome core particle subunit beta 6	0.2
+BA75_01942T0	0.2
+(Perigord truffle) hypothetical protein	0.2
+Proteasome protein	0.2
+Proteasome core particle subunit beta 3	0.2
+U1 small nuclear ribonucleoprotein 70 kDa	0.2
+Proteasome subunit alpha-type 7-like	0.2
+RING-type domain-containing protein	0.2
+Transmembrane protein	0.2
+PRE1	0.2
+Peptidase M12A domain-containing protein	0.2
+Proteasome 20S subunit alpha 3	0.2
+GH24307	0.2
+Proteasome subunit alpha type-4-like	0.2
+Proteasome alpha-type subunits domain-containing protein	0.2
+Proteasome subunit alpha-type 8	0.2
+Mitochondrial dicarboxylate carrier	0.2
+Proteasome subunit alpha type, putative	0.2
+20S proteasome subunit beta type-1	0.2
+20S proteasome subunit	0.2
+PSB6	0.2
+Subunit HslV of ATP-dependent protease	0.2
+Bacteriophage lambda head decoration protein D	0.2
+DRBM domain-containing protein	0.2
+ATP-dependent HslUV protease, peptidase subunit HslV	0.2
+Peptidase of the HslV family protein	0.2
+20S proteasome A and B subunit	0.2
+Phage tail protein	0.2
+Proteasome, alpha and beta subunits	0.2
+Proteasome A-type and B-type, ATP-dependent protease, putative	0.2
+HslU--HslV peptidase	0.2
+ATP dependent peptidase CodWX CodW component	0.2
+ATP-dependent protease hslV	0.2
+Atp-dependent protease subunit	0.2
+ATP-dependent protease HslV	0.2
+HslU--HslV peptidase proteolytic subunit	0.2
+Probable proteasome subunit beta type-4;	0.2
+THH1/TOM1/TOM3 domain-containing protein	0.2
+Proteasome subunit y, putative	0.2
+Sulfhydryl oxidase	0.2
+20S proteasome subunits A and B	0.2
+Proteasome endopeptidase complex, archaeal, beta subunit	0.2
+Proteasome subunit beta 1	0.2
+PPM-type phosphatase domain-containing protein	0.2
+non-specific serine/threonine protein kinase	0.2
+Prophage tail endopeptidase domain-containing protein	0.2
+Subunit beta of proteasome	0.2
+20S proteasome, regulatory subunit beta type PSMB1/PRE7	0.2
+PSB2	0.2
+20s proteasome subunit beta type-1	0.2
+Ribonuclease	0.2
+Beta type-1 subunit of proteasome	0.2
+Pre-mRNA-splicing ATP-dependent RNA helicase PRP28	0.2

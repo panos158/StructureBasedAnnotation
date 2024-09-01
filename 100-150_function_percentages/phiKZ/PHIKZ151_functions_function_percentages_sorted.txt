@@ -1,0 +1,22 @@
+Function	Percentage
+DUF488 domain-containing protein	66.0
+DUF488 family protein	19.3
+Uncharacterized protein	4.2
+Uncharacterized conserved protein YeaO, DUF488 family	1.3
+ParB/Sulfiredoxin domain-containing protein	0.8
+Uncharacterized conserved protein	0.8
+Uncharacterized protein YeaO (DUF488 family)	0.8
+Histidine phosphatase family protein	0.8
+MarR family transcriptional regulator	0.8
+Uncharacterized protein YeaO	0.4
+Protein containing DUF1130	0.4
+Uncharacterized protein (DUF488 family)	0.4
+YeaO family protein	0.4
+ParB domain protein	0.4
+PF04343 family protein	0.4
+DUF4326 domain-containing protein	0.4
+Uroporphyrin-III methyltransferase	0.4
+DUF2493 domain-containing protein	0.4
+Uroporphyrin-III c-methyltransferase	0.4
+Protein containing DUF488	0.4
+Uncharacterized protein DUF488	0.4

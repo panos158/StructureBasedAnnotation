@@ -1,0 +1,25 @@
+Function	Percentage
+Tail fiber assembly protein	37.3
+Phage tail protein	18.6
+Uncharacterized protein	13.0
+Tail assembly chaperone	5.6
+CPS-53 (KpLE1) prophage protein	2.5
+DUF4376 domain-containing protein	2.5
+Tail assembly chaperone gp38	2.5
+Virus tail fibre assembly protein, lambda gpK	2.5
+Phage tail assembly chaperone-like domain-containing protein	1.9
+Putative tail fiber assembly protein	1.9
+Phage tail fiber assembly	1.2
+Caudovirales tail fiber assembly protein	1.2
+Caudovirales tail fibre assembly protein	1.2
+Phage tail assembly protein	1.2
+Phage tail fiber assembly protein	1.2
+Uncharacterized protein DUF4376	0.6
+Phage tail assembly chaperone	0.6
+Prophage tail fiber assembly protein TfaE	0.6
+Caudovirales tail fiber assembly protein, lambda gpK	0.6
+Tail fiber assembly protein p37	0.6
+Virus tail fiber assembly protein lambda gpK	0.6
+Cytoplasmic protein	0.6
+Phage tail assembly chaperone gp38	0.6
+Phage tail assembly chaperone protein	0.6

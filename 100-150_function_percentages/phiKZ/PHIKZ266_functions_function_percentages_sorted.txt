@@ -1,0 +1,8 @@
+Function	Percentage
+Uncharacterized protein	25.0
+YihY family inner membrane protein	12.5
+Pectate lyase superfamily protein domain-containing protein	12.5
+Phage tail protein	12.5
+ABC transporter domain-containing protein	12.5
+PPC domain-containing protein	12.5
+AraC family transcriptional regulator	12.5

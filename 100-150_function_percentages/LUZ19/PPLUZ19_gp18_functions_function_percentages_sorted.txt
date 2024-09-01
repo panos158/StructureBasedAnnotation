@@ -1,0 +1,3 @@
+Function	Percentage
+Uncharacterized protein	80.0
+AP2/ERF domain-containing protein	20.0

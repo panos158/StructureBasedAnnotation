@@ -1,0 +1,41 @@
+Function	Percentage
+Uncharacterized protein	31.8
+Exonuclease domain-containing protein	15.0
+tRNA-uridine aminocarboxypropyltransferase	9.2
+3'-5' exonuclease	9.2
+Exonuclease R569	4.0
+Exonuclease	2.3
+DNA polymerase III subunit epsilon	2.3
+3'-5' exoribonuclease	2.3
+DNA polymerase-3 subunit epsilon	2.3
+Type I-E CRISPR-associated endoribonuclease Cas2	2.3
+Exonuclease RNase T and DNA polymerase III	1.2
+3'-5' exoribonuclease Rv2179c-like domain-containing protein	1.2
+Uncharacterized protein DUF5051	1.2
+Uncharacterized protein LOC116294049	0.6
+Helicase ATP-binding domain-containing protein	0.6
+Uncharacterized protein LOC117639401	0.6
+DNA polymerase	0.6
+RecQ family ATP-dependent DNA helicase	0.6
+Putative exonuclease	0.6
+3`-5` exonuclease	0.6
+Three prime repair exonuclease 1	0.6
+HNH nuclease domain-containing protein	0.6
+Uncharacterized exonuclease CP81	0.6
+DNA polymerase III PolC-type	0.6
+DNA mismatch repair protein Msh3-like	0.6
+Uncharacterized protein LOC116304652	0.6
+Helicase	0.6
+Uncharacterized protein C7orf31-like	0.6
+DNA polymerase III subunit epsilon, DEDDh exonuclease, part of the DnaQ-like	0.6
+DNA polymerase III, epsilon chain	0.6
+Exonuclease, DNA polymerase III, epsilon subunit	0.6
+Exonuclease, putative	0.6
+DNA polymerase III polC-type	0.6
+Exonuclease family protein	0.6
+DNA ligase	0.6
+GIY-YIG domain-containing protein	0.6
+DNA polymerase III, epsilon subunit	0.6
+DNA 3'-5' helicase	0.6
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein	0.6
+ATP-dependent DNA helicase, RecQ family	0.6

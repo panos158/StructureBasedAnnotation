@@ -1,0 +1,6 @@
+Function	Percentage
+Uncharacterized protein	42.9
+Nematoblast specific protein	14.3
+Fibronectin type-III domain-containing protein	14.3
+Lipoprotein	14.3
+Peptidoglycan binding-like domain-containing protein	14.3

@@ -1,0 +1,10 @@
+Function	Percentage
+Uncharacterized protein	68.7
+SMODS-associated and fused to various effectors domain-containing protein	14.9
+CRISPR-associated protein Csx3	4.5
+CRISPR-associated protein	4.5
+SAVED domain-containing protein	1.5
+CRISPR-associated (Cas) DxTHG family protein	1.5
+CRISPR-associated protein TM1812	1.5
+Recombinase family protein	1.5
+CRISPR locus-related DNA-binding protein	1.5

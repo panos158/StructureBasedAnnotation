@@ -1,0 +1,8 @@
+Function	Percentage
+Helix-turn-helix domain-containing protein	27.3
+Transcriptional regulator	18.2
+HTH cro/C1-type domain-containing protein	18.2
+DNA-binding helix-turn-helix protein	9.1
+Helix-turn-helix domain protein	9.1
+Multiprotein-bridging factor 1c-like	9.1
+Transcriptional regulator, contains XRE-family HTH domain	9.1

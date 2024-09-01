@@ -1,0 +1,62 @@
+Function	Percentage
+Phage tail protein	52.6
+Uncharacterized protein	21.7
+Phage tail-like protein	3.3
+Conserved hypothetical phage tail region protein	2.4
+Tail tube protein	1.7
+Phage tail tube protein	1.4
+Tail protein	1.2
+T4-like virus tail tube protein gp19	1.2
+Phage protein	0.9
+Phage major tail protein, TP901-1 family	0.9
+Virion structural protein	0.7
+DUF3277 family protein	0.7
+Glycerol acyltransferase	0.7
+Phage portal protein	0.7
+Capsid protein	0.5
+Membrane-associated protease 1	0.5
+IPT/TIG domain-containing protein	0.5
+Phage tail region protein	0.3
+Major tail protein	0.3
+TP901-1 family phage major tail protein	0.3
+DUF1463 domain-containing protein	0.3
+Peptidase A2 domain-containing protein	0.2
+HNH endonuclease	0.2
+BIG2 domain-containing protein	0.2
+Bacteriophage protein	0.2
+DUF4815 domain-containing protein	0.2
+Major structural protein	0.2
+Conserved hypothetical phage tail protein	0.2
+Photosynthesis system II assembly factor Ycf48/Hcf136-like domain-containing protein	0.2
+Cytosolic protein	0.2
+Putative peptidoglycan binding domain protein	0.2
+Small major structural protein	0.2
+Bacteriophage T4 Gp8 domain-containing protein	0.2
+VCBS repeat-containing protein	0.2
+Type VI secretion system tube protein Hcp	0.2
+Hcp1 family type VI secretion system effector	0.2
+Phage tail tube protein gp19	0.2
+TonB-dependent receptor-like beta-barrel domain-containing protein	0.2
+Putative cytosolic protein	0.2
+Peptidoglycan binding-like domain-containing protein	0.2
+Mlr6550 protein	0.2
+Phage tail family protein	0.2
+ABC-type multidrug transport system, ATPase	0.2
+Burkholderia phage Bcep781 gp03	0.2
+DUF3277 domain-containing protein	0.2
+DUF4382 domain-containing protein	0.2
+Putative Glucose dehydrogenase PQQ-dependent	0.2
+Core tail protein	0.2
+Putative tail protein	0.2
+Lipocalin-like domain-containing protein	0.2
+DUF2793 domain-containing protein	0.2
+XkdM protein, phage-like element PBSX	0.2
+DUF192 domain-containing protein	0.2
+Phage major tail protein, phi13 family	0.2
+Immunity protein 50	0.2
+F5/8 type C domain protein	0.2
+ApeA N-terminal domain-containing protein	0.2
+Twin-arginine translocation signal domain-containing protein	0.2
+DUF2140 family protein	0.2
+Afp1	0.2
+DUF4390 domain-containing protein	0.2

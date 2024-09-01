@@ -1,0 +1,10 @@
+Function	Percentage
+Uncharacterized protein	82.8
+DUF1488 domain-containing protein	4.7
+DUF982 domain-containing protein	3.1
+4Fe-4S Mo/W bis-MGD-type domain-containing protein	1.6
+Integron gene cassette protein	1.6
+DUF5678 domain-containing protein	1.6
+DUF4346 domain-containing protein	1.6
+DUF2934 domain-containing protein	1.6
+SPOR domain-containing protein	1.6

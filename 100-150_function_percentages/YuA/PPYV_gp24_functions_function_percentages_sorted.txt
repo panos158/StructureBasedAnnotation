@@ -1,0 +1,15 @@
+Function	Percentage
+Holliday junction resolvase RecU	23.9
+VRR-NUC domain-containing protein	22.4
+Uncharacterized protein	16.4
+Holliday junction resolvase	10.4
+YqaJ viral recombinase domain-containing protein	4.5
+Endonuclease	4.5
+Crossover junction endodeoxyribonuclease Hjc	4.5
+Protein NO VEIN C-terminal domain-containing protein	3.0
+Holliday junction resolvase Hjc	3.0
+Restriction endonuclease type IV Mrr domain-containing protein	1.5
+NERD domain-containing protein	1.5
+Restriction endonuclease	1.5
+DUF3883 domain-containing protein	1.5
+GH10 domain-containing protein	1.5

@@ -1,0 +1,38 @@
+Function	Percentage
+GIY-YIG domain-containing protein	43.9
+GIY-YIG nuclease family protein	19.9
+Putative GIY-YIG homing endonuclease	8.2
+Group I intron endonuclease	4.7
+LuxR family transcriptional regulator	4.1
+GIY-YIG catalytic domain-containing protein	3.2
+Putative GIY YIG homing endonuclease	2.0
+GIY-YIG catalytic domain protein	1.5
+GIY-YIG endonuclease	0.9
+Putative site-specific DNA endonuclease	0.9
+Endonuclease	0.9
+GIY-YIG catalytic domain containing protein	0.9
+Putative endonuclease	0.9
+WW domain-containing protein	0.6
+Group I intron GIY-YIG endonuclease	0.6
+ArsR family transcriptional regulator	0.6
+Excinuclease ABC C subunit domain protein	0.6
+Type III restriction protein res subunit	0.3
+GIY-YIG nuclease domain protein	0.3
+GIY-YIG homing endonuclease	0.3
+NUMOD3 motif protein	0.3
+Truncated GIY-YIG endonuclease	0.3
+Nuclease	0.3
+Transcriptional regulator, ArsR family	0.3
+NUMOD3 motif (2 copies)	0.3
+Aspartate/tyrosine/aromatic aminotransferase	0.3
+Transcriptional regulator	0.3
+DUF2087 domain-containing protein	0.3
+Endonuclease protein	0.3
+Excinuclease ABC subunit C	0.3
+Putative GIY-YIG endonuclease	0.3
+DUF4145 domain-containing protein	0.3
+Uncharacterized protein	0.3
+Intron encoded BmoI	0.3
+GIY-YIG catalytic domain containing protein possible intron encoded endonuclease	0.3
+GIY-YIG catalytic protein	0.3
+Uncharacterized protein orf412	0.3

@@ -1,0 +1,5 @@
+Function	Percentage
+Ead/Ea22-like family protein	47.6
+Uncharacterized protein	38.1
+DUF551 domain-containing protein	9.5
+Phage eae protein	4.8

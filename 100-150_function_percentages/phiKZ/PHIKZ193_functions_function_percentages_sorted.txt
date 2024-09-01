@@ -1,0 +1,3 @@
+Function	Percentage
+Interferon-related developmental regulator 2	50.0
+Mab-21-like nucleotidyltransferase domain-containing protein	50.0

@@ -1,0 +1,53 @@
+Function	Percentage
+Gamma-glutamylcyclotransferase family protein	32.5
+Gamma-glutamylcyclotransferase	19.2
+Gamma-glutamylcyclotransferase AIG2-like domain-containing protein	18.7
+glutathione-specific gamma-glutamylcyclotransferase	8.7
+Putative gamma-glutamylcyclotransferase	4.4
+gamma-glutamylcyclotransferase	3.3
+AIG2 family protein	2.0
+Uncharacterized conserved protein YtfP, gamma-glutamylcyclotransferase (GGCT)/AIG2-like family	1.8
+Gamma-glutamylcyclotransferase (GGCT)/AIG2-like uncharacterized protein YtfP	1.4
+Gamma-glutamylcyclotransferase b	0.9
+AIG2-like family protein	0.7
+Gamma-L-glutamyl-butirosin B gamma-glutamyl cyclotransferase	0.7
+Uncharacterized protein	0.6
+Gamma-glutamylaminecyclotransferase	0.4
+Gamma-glutamylcyclotransferase family protein YtfP	0.4
+Gamma-glutamylcyclotransferase family protein ytfP	0.3
+Gamma-glutamyl cyclotransferase	0.2
+Gamma-glutamyl cyclotransferase, AIG2-like	0.2
+Allophanate hydrolase	0.2
+Gamma-glutamylcyclotransferase a	0.2
+Putative gamma-glutamylcyclotransferase YkqA	0.2
+AIG2-like family	0.2
+SH3b domain-containing protein	0.2
+Enhancer of polycomb-like protein	0.1
+Amidase	0.1
+VOC domain-containing protein	0.1
+Gamma-glutamylcyclotransferase-like	0.1
+Urease accessory protein UreD	0.1
+RING-type domain-containing protein	0.1
+Apea-like HEPN domain-containing protein	0.1
+DUF4433 domain-containing protein	0.1
+AIG2-like	0.1
+EOG090X09KD	0.1
+CobB protein	0.1
+Periplasmic divalent cation tolerance protein cutA	0.1
+Adenine deaminase	0.1
+Putative gamma-glutamylamine cyclotransferase	0.1
+Cation transport regulator ChaC	0.1
+Putative gamma-glutamylcyclotransferase VC_2546;	0.1
+Protein containing AIG2-like domain	0.1
+Gamma-L-glutamyl-butirosin B gamma-glutamyl cyclotransferase;	0.1
+Radical SAM protein	0.1
+FERM domain-containing protein	0.1
+Radical SAM protein, TatD family-associated	0.1
+Unannotated protein	0.1
+Branched-chain alpha-keto acid dehydrogenase	0.1
+Gamma-glutamylcyclotransferase-like protein	0.1
+Gamma-glutamylaminecyclotransferase;	0.1
+Dolichyl-phosphate-mannose--protein mannosyltransferase	0.1
+Isochorismatase family protein	0.1
+Uncharacterized conserved protein	0.1
+Enoyl reductase (ER) domain-containing protein	0.1

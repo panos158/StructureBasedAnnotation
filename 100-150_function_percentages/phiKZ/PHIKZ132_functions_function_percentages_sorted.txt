@@ -1,0 +1,18 @@
+Function	Percentage
+Uncharacterized protein	38.2
+Phage tail protein	8.8
+Lower baseplate protein N-terminal domain-containing protein	8.8
+Tail fiber protein	5.9
+Peptidase S74 domain-containing protein	2.9
+Major tropism determinant N-terminal domain-containing protein	2.9
+BppU N-terminal domain-containing protein	2.9
+Tail fiber-like repeat protein	2.9
+Lin1708 protein	2.9
+Phage-related protein	2.9
+DUF1983 domain-containing protein	2.9
+Periplasmic copper-binding protein NosD beta helix domain-containing protein	2.9
+Receptor-binding protein of phage tail base-plate Siphoviridae head domain-containing protein	2.9
+Major structural protein 1 jelly-roll domain-containing protein	2.9
+Hypothetical phage protein	2.9
+Lin1290 protein	2.9
+Hep_Hag	2.9

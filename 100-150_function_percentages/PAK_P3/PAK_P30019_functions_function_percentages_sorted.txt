@@ -1,0 +1,21 @@
+Function	Percentage
+Uncharacterized protein	83.9
+Bacteriophage protein	5.0
+Tail protein	1.7
+Immunity protein 50	0.6
+Pullulanase	0.6
+DUF1292 domain-containing protein	0.6
+Dystroglycan-type cadherin-like domain-containing protein	0.6
+STAS domain-containing protein	0.6
+Putative Ig domain-containing protein	0.6
+RecJ OB domain-containing protein	0.6
+Non-ribosomal peptide synthetase modules	0.6
+PilZ domain-containing protein	0.6
+Plastocyanin-like domain-containing protein	0.6
+BppU N-terminal domain-containing protein	0.6
+ASCH domain-containing protein	0.6
+Dit-like phage tail protein N-terminal domain-containing protein	0.6
+Phytase-like domain-containing protein	0.6
+DUF2442 domain-containing protein	0.6
+Proteinase inhibitor I42 chagasin domain-containing protein	0.6
+PRC-barrel domain-containing protein	0.6

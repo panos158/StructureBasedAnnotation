@@ -1,0 +1,27 @@
+Function	Percentage
+Uncharacterized protein	24.1
+Phage tail assembly chaperone-like domain-containing protein	17.5
+Phage tail protein	17.5
+DUF4376 domain-containing protein	15.7
+Tail fiber assembly protein	4.8
+Tail fiber assembly domain protein	1.8
+Putative phage tail fiber protein	1.8
+Phage protein	1.8
+Phage tail assembly chaperone protein	1.8
+Phage tail assembly chaperone	1.2
+Prophage tail protein	1.2
+DUF4145 domain-containing protein	1.2
+Lambda-like tail fibre protein N-terminal domain-containing protein	1.2
+Putative phage-like protein	1.2
+Putative phage protein	0.6
+Uncharacterized protein DUF4376	0.6
+Phage tail N and DUF4376 domain containing protei n	0.6
+Phenol hydroxylase	0.6
+Tail fiber assembly domain-containing protein	0.6
+Transcriptional regulator	0.6
+DUF4065 domain-containing protein	0.6
+Mannitol operon repressor	0.6
+Caudovirales tail fibre assembly protein	0.6
+Tail fiber assembly protein G	0.6
+Virus tail fibre assembly protein, lambda gpK	0.6
+Phage-related protein	0.6

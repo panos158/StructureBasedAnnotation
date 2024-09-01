@@ -1,0 +1,84 @@
+Function	Percentage
+GNAT family N-acetyltransferase	30.6
+N-acetyltransferase domain-containing protein	23.0
+Glucosamine 6-phosphate N-acetyltransferase	9.7
+glucosamine-phosphate N-acetyltransferase	3.8
+Acetyltransferase (GNAT) family protein	3.5
+N-acetyltransferase	3.1
+Acetyltransferase	2.4
+Ribosomal protein S18 acetylase RimI-like enzyme	2.0
+GCN5-related N-acetyltransferase	2.0
+GNAT family acetyltransferase	1.9
+Ribosomal protein S18 acetylase RimI	1.8
+Putative acetyltransferase	1.4
+Acetyltransferase, GNAT family	1.2
+Acyl-CoA N-acyltransferase	0.9
+Glucosamine-phosphate N-acetyltransferase	0.9
+N-alpha-acetyltransferase 40	0.6
+Uncharacterized protein	0.6
+GNAT superfamily N-acetyltransferase	0.6
+N-acetyltransferase GCN5	0.6
+Acetyltransferase (GNAT) domain-containing protein	0.5
+Aminoalkylphosphonate N-acetyltransferase	0.4
+Unannotated protein	0.4
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	0.4
+AAC(3)-I family aminoglycoside N-acetyltransferase	0.4
+Mycothiol acetyltransferase	0.3
+Aminoglycoside 6'-N-acetyltransferase I	0.3
+Streptothricin acetyltransferase	0.3
+Aminoalkylphosphonic acid N-acetyltransferase	0.3
+GCN5 family acetyltransferase	0.3
+Acetyltransferase GNAT family protein	0.2
+PhnO protein	0.2
+Predicted N-acetyltransferase YhbS	0.2
+Acetyltransferase YpeA	0.2
+N-acetylglutamate synthase, GNAT family	0.2
+Aminoglycoside 3-N-acetyltransferase I	0.2
+AAC(3)-I family aminoglycoside 3-N-acetyltransferase	0.2
+Ribosomal-protein-alanine acetyltransferase	0.2
+N-alpha-acetyltransferase 30	0.1
+Putative N-acetyltransferase CML1	0.1
+Acetyltransferase (GNAT) family	0.1
+GCN5-like N-acetyltransferase	0.1
+Glucosamine-phosphate n-acetyltransferase	0.1
+Glucosamine 6-phosphate N-acetyltransferase;	0.1
+Histone acetyltransferase HPA2	0.1
+TWA4_scaffold00001, whole genome shotgun sequence	0.1
+Acetyltransferases	0.1
+Uncharacterized N-acetyltransferase YycN	0.1
+FR47-like protein	0.1
+Diamine acetyltransferase	0.1
+Acetyltransferase, ribosomal protein N-acetylase	0.1
+Acetyltransferase protein	0.1
+GNAT acetyltransferase	0.1
+Lipid carrier: UDP-N-acetylgalactosaminyltransferase	0.1
+N-acetylaspartate synthetase	0.1
+Acetyltransferases-like protein	0.1
+Putative acetyl-transferase	0.1
+monogalactosyldiacylglycerol synthase	0.1
+Rubredoxin	0.1
+Glucosamine 6-phosphate acetyltransferase	0.1
+AAC(3')-I	0.1
+Putative glucosamine 6-phosphate N-acetyltransferase	0.1
+Acyltransferase	0.1
+Putative N-acetyltransferase YhfO	0.1
+Acyl-CoA N-acyltransferases (Nat)	0.1
+Related to glucosamine-phosphate N-acetyltransferase	0.1
+Putative GCN5-related N-acetyltransferase	0.1
+Retrotransposon protein	0.1
+Putative N-acetyltransferase YhbS	0.1
+Glucosamine 6-phosphate N-acetyltransferase 1	0.1
+Predicted acetyltransferase	0.1
+Putative Glucosamine 6-phosphate N-acetyltransferase	0.1
+MFS transporter	0.1
+Gentamicin 3'-N-acetyltransferase	0.1
+Acyl-CoA N-acyltransferase (Nat)-1	0.1
+Glucosamine 6-phosphate N-acetyltransferase 1;	0.1
+Spermidine acetyltransferase	0.1
+Glucosamine 6-phosphate n-acetyltransferase	0.1
+Acetyltransf_1	0.1
+Phosphinothricin acetyltransferase	0.1
+tRNA (uracil-O(2)-)-methyltransferase	0.1
+Biogenesis of lysosome-related organelles complex 1 subunit CNL1	0.1
+Acetyltransferase domain containing protein	0.1
+GCN5 family N-acetyltransferase	0.1

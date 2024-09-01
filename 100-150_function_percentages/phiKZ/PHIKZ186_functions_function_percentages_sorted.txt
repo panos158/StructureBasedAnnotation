@@ -1,0 +1,4 @@
+Function	Percentage
+Uncharacterized protein	50.0
+Cytotoxic translational repressor of toxin-antitoxin stability system	25.0
+TubC N-terminal docking domain-containing protein	25.0

@@ -1,0 +1,45 @@
+Function	Percentage
+Uncharacterized protein	22.0
+Veg protein	11.8
+Basal-body rod modification protein FlgD	10.2
+Flagellar hook capping protein	8.7
+Flagellar basal-body rod modification protein FlgD	6.3
+Ribosome maturation factor RimP	3.9
+Uncharacterized protein Veg	2.4
+Small-conductance mechanosensitive channel	2.4
+AD domain-containing protein	1.6
+SGF29 C-terminal domain-containing protein	1.6
+DUF5641 domain-containing protein	1.6
+DUF3592 domain-containing protein	1.6
+Helicase XPB/Ssl2 N-terminal domain-containing protein	1.6
+DUF481 domain-containing protein	0.8
+Uncharacterized protein conserved in bacteria	0.8
+Uncharacterized membrane protein YhaH (DUF805 family)	0.8
+Ribosome maturation factor RimP C-terminal domain-containing protein	0.8
+ABC transporter permease	0.8
+WYL domain-containing protein	0.8
+Lipoprotein	0.8
+Zinc-ribbon 15 domain-containing protein	0.8
+RNA-directed DNA polymerase	0.8
+Flagellar hook capping protein FlgD	0.8
+DUF3006 domain-containing protein	0.8
+Integral membrane protein	0.8
+Uncharacterized protein LOC100215194	0.8
+OTU domain-containing protein 4	0.8
+DUF3560 domain-containing protein	0.8
+Flagellar basal body rod modification protein	0.8
+Flagellar biosynthesis protein FlgD	0.8
+WWE domain-containing protein	0.8
+Protein Veg	0.8
+50S ribosomal protein L19	0.8
+YolD-like protein	0.8
+FlgD Tudor-like domain-containing protein	0.8
+Signal peptidase I	0.8
+Uncharacterized protein YegJ (DUF2314 family)	0.8
+Always early	0.8
+Spore coat protein Z	0.8
+Integrase catalytic domain-containing protein	0.8
+Gemin6 protein	0.8
+Flagellar hook assembly protein FlgD	0.8
+ATPase AAA-type core domain-containing protein	0.8
+Reverse transcriptase domain-containing protein	0.8

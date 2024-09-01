@@ -1,0 +1,2 @@
+Function	Percentage
+NADAR domain-containing protein	100.0

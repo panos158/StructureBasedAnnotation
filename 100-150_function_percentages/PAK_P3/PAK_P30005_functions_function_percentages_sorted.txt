@@ -1,0 +1,13 @@
+Function	Percentage
+Head decoration protein	67.5
+Bacteriophage lambda head decoration protein D	19.4
+Uncharacterized protein	5.6
+Phage protein	1.9
+Hypothetical phage-related protein	1.2
+Uncharacterized protein B3gp19	0.6
+Gifsy-1 prophage head protein gpshp	0.6
+Putative head decoration protein	0.6
+DUF3850 domain-containing protein	0.6
+Exo-alpha-sialidase	0.6
+Putative phage protein GP19	0.6
+Phage protein GP19	0.6

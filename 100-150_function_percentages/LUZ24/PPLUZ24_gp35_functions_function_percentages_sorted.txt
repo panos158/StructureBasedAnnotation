@@ -1,0 +1,30 @@
+Function	Percentage
+Recombination endonuclease VII	69.4
+Endonuclease VII	6.2
+HNH endonuclease	3.3
+Endonuclease VII domain-containing protein	3.3
+Uncharacterized protein	3.2
+HNH nuclease domain-containing protein	3.0
+Endonuclease	2.8
+Recombinase	2.1
+Putative recombination endonuclease VII	1.6
+HNH domain-containing protein	0.9
+Nuclease associated modular domain-containing protein	0.7
+His-Me finger endonuclease beta4-alpha2 domain-containing protein	0.4
+DUF4368 domain-containing protein	0.4
+DUF2116 family Zn-ribbon domain-containing protein	0.2
+Zinc finger CGNR domain-containing protein	0.2
+Gp97	0.2
+Bacteriophage Lambda NinG protein	0.2
+Zinc-ribbon domain-containing protein	0.2
+Putative HNH endonuclease	0.2
+Recombination endonuclease VII subfamily	0.2
+HTH arsR-type domain-containing protein	0.2
+Thymidylate synthase/dCMP hydroxymethylase domain-containing protein	0.2
+Phage endonuclease VII	0.2
+Putative PfWMP3_35	0.2
+Amidohydrolase-related domain-containing protein	0.2
+Endonuclease (Modular protein)	0.2
+Membrane protein	0.2
+PCQ3_69	0.2
+DUF3795 domain-containing protein	0.2

@@ -1,0 +1,70 @@
+Function	Percentage
+Uncharacterized protein	37.1
+DUF3168 domain-containing protein	30.5
+Gp37 protein	4.8
+Tail terminator	4.1
+Phage protein	4.1
+Phage tail protein	3.7
+DUF1834 family protein	1.6
+Acyl-CoA transferase	1.4
+Bacteriophage protein	1.4
+Tail protein	1.1
+Uncharacterized protein DUF4128	1.0
+Uncharacterized protein DUF3168	0.7
+Gene transfer agent protein	0.5
+Phage associated protein	0.4
+Minor capsid protein	0.4
+Tail-completion protein	0.3
+DUF1834 domain-containing protein	0.2
+Phage minor tail protein U	0.2
+Prophage PSSSM-04	0.2
+Putative bacteriophage protein	0.2
+DUF5072 domain-containing protein	0.2
+Conserved domain protein	0.2
+Minor tail protein U	0.2
+DUF4255 domain-containing protein	0.2
+DUF1833 domain-containing protein	0.2
+Mu-like prophage protein gp37	0.2
+DUF4128 domain-containing protein	0.2
+Condensation domain-containing protein	0.1
+Bacteriophage lambda, GpZ, minor tail,Ankyrin repeat-containing domain,Ankyrin repeat	0.1
+ASCH domain-containing protein	0.1
+Photorhabdus luminescens subsp. laumondii TTO1 complete genome segment 10/17	0.1
+Transposase	0.1
+Prophage PSSB64-02	0.1
+Putative phage-like protein	0.1
+DUF1579 domain-containing protein	0.1
+Putative prophage protein	0.1
+Phage-like protein	0.1
+Conserved uncharacterized protein	0.1
+Polymer-forming cytoskeletal protein	0.1
+Suppressor of fused protein SUFU	0.1
+non-specific serine/threonine protein kinase	0.1
+Phage-related protein	0.1
+DUF4815 domain-containing protein	0.1
+PilN domain-containing protein	0.1
+Fimbrial assembly protein	0.1
+FIST domain-containing protein	0.1
+Protein kinase domain-containing protein	0.1
+Tail completion protein R (GpR)	0.1
+Electron transfer flavoprotein subunit beta	0.1
+Putative DnaT-like domain-containing protein	0.1
+Flagellar protein FlgN	0.1
+Phage Gp37 protein	0.1
+Putative gene transfer agent protein	0.1
+Gp37	0.1
+Baseplate protein J-like domain-containing protein	0.1
+Putative tail component of prophage CP-933K	0.1
+Phage minor tail protein	0.1
+Secreted protein	0.1
+SOUL heme-binding protein	0.1
+PASTA domain-containing protein	0.1
+Phage portal protein	0.1
+ParB/Sulfiredoxin domain-containing protein	0.1
+N-acetyltransferase domain-containing protein	0.1
+ATP-binding protein	0.1
+Gene transfer agent	0.1
+Suppressor of fused-like domain-containing protein	0.1
+Bacterial transcription activator effector binding domain-containing protein	0.1
+Pyridoxamine 5'-phosphate oxidase	0.1
+DUF2110 family protein	0.1

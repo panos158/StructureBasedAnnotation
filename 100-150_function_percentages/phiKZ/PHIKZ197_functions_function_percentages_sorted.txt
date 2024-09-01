@@ -1,0 +1,4 @@
+Function	Percentage
+DUF3307 domain-containing protein	92.1
+Uncharacterized protein DUF3307	4.8
+Bacteriophage-like DUF3307 domain-containing protein	3.2

@@ -1,0 +1,32 @@
+Function	Percentage
+Phage-like element PBSX protein XkdF domain-containing protein	61.5
+site-specific DNA-methyltransferase (adenine-specific)	5.1
+Putative peptidase	4.5
+Putative phage serine protease XkdF	3.2
+Terminase	3.2
+Uncharacterized protein	1.9
+Methyltransferase domain-containing protein	1.3
+DNA methyltransferase	1.3
+Putative serine protease XkdF	1.3
+Peptidase U35	1.3
+Phage-like element PBSX protein xkdF	1.3
+N-6 DNA methylase	1.3
+HK97 family phage prohead protease	1.3
+Phage prohead protein	0.6
+Primosomal protein	0.6
+Phage-related protein	0.6
+Caudovirus prohead protease	0.6
+Phage prohead protease, HK97 family	0.6
+SPP1 gp7 family putative phage head morphogenesis protein	0.6
+Phage capsid and scaffold	0.6
+Phage serine protease XkdF	0.6
+Uracil DNA glycosylase superfamily protein	0.6
+Uracil-DNA glycosylase-like domain-containing protein	0.6
+Putative nucleic acid-binding protein skin element	0.6
+Phage-like element PBSX protein XkdF;	0.6
+ATP-dependent DNA ligase family profile domain-containing protein	0.6
+DNA ligase	0.6
+DNA wielding protein skin element	0.6
+Phage portal protein	0.6
+Putative structural domain protein	0.6
+Putative prohead protease	0.6

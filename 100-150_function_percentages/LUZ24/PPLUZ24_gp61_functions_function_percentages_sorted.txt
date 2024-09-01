@@ -1,0 +1,6 @@
+Function	Percentage
+Uncharacterized protein	93.3
+Ketopantoate reductase C-terminal domain-containing protein	1.7
+HNH endonuclease	1.7
+Phage protein	1.7
+Acriflavin resistance protein	1.7

@@ -1,0 +1,15 @@
+Function	Percentage
+Deoxyuridine 5'-triphosphate nucleotidohydrolase	77.3
+dUTP diphosphatase	21.4
+Deoxyuridine 5'-triphosphate nucleotidohydrolase, mitochondrial	0.2
+dUTPase-like domain-containing protein	0.2
+PB1 domain-containing protein	0.1
+UDENN domain-containing protein	0.1
+DeoxyUTP pyrophosphatase	0.1
+Deoxyuridine 5'-triphosphate nucleotidohydrolase;	0.1
+Pseudouridine synthase	0.1
+Probable deoxyuridine 5'-triphosphate nucleotidohydrolase;	0.1
+Thymidylate kinase	0.1
+Solute carrier family 12 member 1	0.1
+Uncharacterized protein	0.1
+C-type lectin domain-containing protein	0.1

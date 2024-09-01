@@ -1,0 +1,2 @@
+Function	Percentage
+DUF3310 domain-containing protein	100.0

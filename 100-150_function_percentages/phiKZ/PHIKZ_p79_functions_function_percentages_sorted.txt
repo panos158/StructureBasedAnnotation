@@ -1,0 +1,4 @@
+Function	Percentage
+F-box domain-containing protein	50.0
+Uncharacterized protein	25.0
+HEAT repeat domain-containing protein	25.0

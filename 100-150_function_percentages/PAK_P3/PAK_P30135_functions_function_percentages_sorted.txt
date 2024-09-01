@@ -1,0 +1,7 @@
+Function	Percentage
+Uncharacterized protein	71.4
+DUF5683 domain-containing protein	9.5
+GNAT family N-acetyltransferase	4.8
+HTH LytTR-type domain-containing protein	4.8
+DUF2726 domain-containing protein	4.8
+DUF3592 domain-containing protein	4.8

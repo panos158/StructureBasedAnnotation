@@ -1,0 +1,4 @@
+Function	Percentage
+Uncharacterized protein	81.0
+Helix-turn-helix domain-containing protein	14.3
+Homeodomain-like domain-containing protein	4.8

@@ -1,0 +1,4 @@
+Function	Percentage
+Uncharacterized protein	58.3
+Phage protein	33.3
+ESPR domain-containing protein	8.3

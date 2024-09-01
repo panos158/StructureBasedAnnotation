@@ -1,0 +1,29 @@
+Function	Percentage
+Type VI secretion system baseplate subunit TssE	34.3
+Uncharacterized protein	13.3
+IraD/Gp25-like domain-containing protein	13.3
+DUF3889 domain-containing protein	5.7
+Type VI secretion system protein ImpF	4.8
+Type VI secretion system lysozyme-like protein	2.9
+Gene 25-like lysozyme	1.9
+Lysozyme	1.9
+Type VI secretion protein	1.9
+Peptidase M4	1.9
+Type VI secretion system lysozyme-related protein	1.9
+FTP domain-containing protein	1.0
+Peptidase	1.0
+Uncharacterized protein YhdC;	1.0
+Monopolin complex subunit Csm1/Pcs1 C-terminal domain-containing protein	1.0
+TadE-like domain-containing protein	1.0
+Coenzyme Q-binding protein COQ10 START domain-containing protein	1.0
+PepSY domain-containing protein	1.0
+Type 4 fimbrial biogenesis protein PilX N-terminal domain-containing protein	1.0
+Limonene-1,2-epoxide hydrolase	1.0
+DUF3887 domain-containing protein	1.0
+EvpE	1.0
+GPW/gp25 family protein	1.0
+Tim44-like domain-containing protein	1.0
+Uncharacterized protein similar to VCA0109	1.0
+Uncharacterized protein ImpF	1.0
+DUF1983 domain-containing protein	1.0
+Lipoprotein	1.0

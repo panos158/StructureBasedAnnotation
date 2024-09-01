@@ -1,0 +1,6 @@
+Function	Percentage
+Uncharacterized protein	36.4
+RRM domain-containing protein	36.4
+Chemotaxis protein CheA	9.1
+Methionine ABC transporter ATP-binding protein	9.1
+VWFA domain-containing protein	9.1

@@ -1,0 +1,48 @@
+Function	Percentage
+GxxExxY protein	58.8
+Endonuclease I	9.1
+Uncharacterized protein	8.2
+Endodeoxyribonuclease	3.4
+DUF559 domain-containing protein	2.6
+ATP-dependent DNA helicase RecG	2.0
+Phage endonuclease I	1.4
+DUF1064 domain-containing protein	1.0
+Elongation factor 4	1.0
+Nuclease associated modular domain-containing protein	1.0
+GTP-binding signal recognition particle	0.8
+Tr-type G domain-containing protein	0.8
+C2H2-type domain-containing protein	0.6
+PD-(D/E)XK nuclease superfamily protein	0.6
+HIRAN domain-containing protein	0.6
+VRR-NUC domain-containing protein	0.6
+Restriction endonuclease type IV Mrr domain-containing protein	0.6
+Conserved domain protein	0.4
+Restriction endonuclease domain-containing protein	0.4
+GTP-binding protein	0.4
+Single-stranded-DNA-specific exonuclease RecJ	0.4
+Endonuclease	0.4
+alanine--tRNA ligase	0.2
+Type III restriction endonuclease subunit M	0.2
+site-specific DNA-methyltransferase (adenine-specific)	0.2
+PDDEXK_3 family protein	0.2
+ATP-dependent exoDNAse (Exonuclease V), alpha subunit, helicase superfamily I	0.2
+mannosyl-3-phosphoglycerate phosphatase	0.2
+Glycosyltransferase family 92 protein	0.2
+Restriction system protein Mrr-like N-terminal domain-containing protein	0.2
+Putative orf	0.2
+NADH:ubiquinone oxidoreductase subunit 5 (Chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit	0.2
+DNA helicase	0.2
+TnsA endonuclease N-terminal domain-containing protein	0.2
+ATP-binding domain-containing protein	0.2
+Thaumarchaeal output domain-containing protein	0.2
+Holliday junction resolvase	0.2
+Replication-relaxation	0.2
+Type II secretion system protein GspG C-terminal domain-containing protein	0.2
+DUF61 family protein	0.2
+HTH cro/C1-type domain-containing protein	0.2
+Restriction endonuclease	0.2
+Protein NO VEIN C-terminal domain-containing protein	0.2
+Putative endonuclease I	0.2
+Endodeoxyribonuclease 1	0.2
+Endodeoxyribonuclease I	0.2
+PD-(D/E)XK endonuclease-like domain-containing protein	0.2

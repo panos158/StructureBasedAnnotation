@@ -1,0 +1,15 @@
+Function	Percentage
+Uncharacterized protein	77.3
+Bacteriophage protein	8.3
+Phage tail protein	3.0
+Putative bacteriophage protein	3.0
+Tail assembly chaperone	1.5
+Phosphotyrosine protein phosphatase I domain-containing protein	0.8
+CRISPR type III-B/RAMP module-associated protein Cmr5	0.8
+Phage XkdN-like protein	0.8
+Polyphosphate kinase	0.8
+DUF1641 domain-containing protein	0.8
+Phage protein	0.8
+NusB/RsmB/TIM44 domain-containing protein	0.8
+Phage tail assemb.y chaperone protein, TAC	0.8
+Putative DUF2669 domain protein	0.8

@@ -1,0 +1,10 @@
+Function	Percentage
+Uncharacterized protein	20.0
+Protein interacting with cyclin A1	10.0
+PDZ domain-containing protein	10.0
+ROK family protein	10.0
+Lipoprotein	10.0
+Protein-interacting with cyclin A1	10.0
+Uncharacterized protein proca1	10.0
+Uncharacterized LOC103023370	10.0
+DUF2953 domain-containing protein	10.0

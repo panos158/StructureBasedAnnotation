@@ -1,0 +1,27 @@
+Function	Percentage
+Antirestriction protein	73.1
+Uncharacterized protein	7.2
+KlcA	3.6
+Antirestriction protein klcA	2.9
+Antirestriction protein KlcA	2.9
+Restriction endonuclease	1.4
+DUF1472 domain-containing protein	0.7
+KlcA protein	0.7
+Anti-restriction protein	0.7
+Putative antirestriction protein	0.7
+ArdB	0.7
+ArdB family protein	0.4
+Antirestriction plasmid protein	0.4
+Probable antirestriction protein klca	0.4
+Antirestriction protein Klca	0.4
+AdrB	0.4
+CP4-6 prophage protein	0.4
+Phage endonuclease VII	0.4
+Putative cytoplasmic protein	0.4
+Putative KlcA' protein	0.4
+KlcA family antirestriction protein	0.4
+Antirestriction ArdB family protein	0.4
+Uncharacterized protein YfjX;	0.4
+ArdB protein	0.4
+Uncharacterized protein YafX;	0.4
+Phage protein	0.4

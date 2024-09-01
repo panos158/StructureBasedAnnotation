@@ -1,0 +1,23 @@
+Function	Percentage
+Uncharacterized protein	27.2
+DUF3277 family protein	25.8
+DUF3277 domain-containing protein	22.5
+Phage tail protein	4.6
+Uncharacterized protein DUF3277	3.3
+Phage tail tube protein	2.0
+PF11681 family protein	2.0
+Putative bacteriophage protein	1.3
+Gp15	1.3
+DUF1463 domain-containing protein	1.3
+Bacteriophage protein	1.3
+DUF192 domain-containing protein	0.7
+Aspartate chemoreceptor protein	0.7
+Cytosolic protein	0.7
+Putative cytosolic protein	0.7
+Tail tube protein	0.7
+Tail protein	0.7
+Putative phage protein	0.7
+Phage protein	0.7
+Receptor ligand binding region domain-containing protein	0.7
+DUF1833 domain-containing protein	0.7
+Tip attachment protein J domain-containing protein	0.7

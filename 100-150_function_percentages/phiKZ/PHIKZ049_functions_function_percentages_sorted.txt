@@ -1,0 +1,4 @@
+Function	Percentage
+SH3 fold domain-containing protein	75.0
+DUF1983 domain-containing protein	12.5
+Uncharacterized protein	12.5

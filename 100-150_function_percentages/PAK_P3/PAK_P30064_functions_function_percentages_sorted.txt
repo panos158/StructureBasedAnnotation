@@ -1,0 +1,4 @@
+Function	Percentage
+Uncharacterized protein	75.0
+DUF3310 domain-containing protein	12.5
+3'-phosphatase, 5'-polynucleotide kinase	12.5

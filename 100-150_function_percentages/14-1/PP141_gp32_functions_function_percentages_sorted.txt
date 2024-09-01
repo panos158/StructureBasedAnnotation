@@ -1,0 +1,12 @@
+Function	Percentage
+Uncharacterized protein	77.8
+Bacteriophage protein	5.6
+Phage protein	4.2
+Dit-like phage tail protein N-terminal domain-containing protein	2.8
+Phage related-protein	1.4
+Putative Ig domain-containing protein	1.4
+Dystroglycan-type cadherin-like domain-containing protein	1.4
+Non-ribosomal peptide synthetase modules	1.4
+IgGFc-binding protein N-terminal domain-containing protein	1.4
+Pullulanase	1.4
+Immunity protein 50	1.4

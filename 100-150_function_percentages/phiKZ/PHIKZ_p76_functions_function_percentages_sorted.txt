@@ -1,0 +1,18 @@
+Function	Percentage
+Uncharacterized protein	25.5
+Type II secretion system protein M	15.7
+General secretion pathway protein L	13.7
+GspL periplasmic domain-containing protein	9.8
+PilN domain-containing protein	3.9
+GspL cytoplasmic actin-ATPase-like domain-containing protein	3.9
+Fimbrial assembly protein	3.9
+Tfp pilus assembly protein PilN	3.9
+General secretion pathway protein GspL	3.9
+Transcription factor like	2.0
+SHS2 domain-containing protein	2.0
+Pilus assembly protein PilM	2.0
+Putative membrane protein	2.0
+Transcription-repair-coupling factor C-terminal domain-containing protein	2.0
+Smr domain-containing protein	2.0
+Type II secretion system protein L	2.0
+Arsenate reductase	2.0

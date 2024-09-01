@@ -1,0 +1,26 @@
+Function	Percentage
+Lysozyme	77.4
+lysozyme	12.5
+Glycoside hydrolase	2.2
+Uncharacterized protein	2.2
+Putative structural protein	0.7
+Probable T4-type lysozyme 2	0.4
+Putative lysozyme	0.4
+Phage lysozyme	0.2
+Transmembrane protein, putative	0.2
+Granulins domain-containing protein	0.2
+Peptidase M15B domain-containing protein	0.2
+Putative glycoside hydrolase	0.2
+Probable T4-type lysozyme 1	0.2
+Uncharacterized protein LOC106152131	0.2
+Uncharacterized protein LOC106154686	0.2
+N-acetylmuramoyl-L-alanine amidase	0.2
+GH24 family phage-related lysozyme (Muramidase)	0.2
+Phage tail lysozyme domain-containing protein	0.2
+Glycoside hydrolase family 24	0.2
+LysM domain-containing protein	0.2
+Chain A, D20c mutant of T4 lysozyme	0.2
+Probable T4-type lysozyme 1;	0.2
+CHAP domain-containing protein	0.2
+Peptidase M15A C-terminal domain-containing protein	0.2
+Phage-related lysozyme (Muramidase), GH24 family	0.2

@@ -1,0 +1,14 @@
+Function	Percentage
+Uncharacterized protein	39.7
+Lipoprotein	23.3
+Virion structural protein	15.1
+Chitinase	4.1
+Phage tail protein	2.7
+PARCEL domain-containing protein	2.7
+Spiralin	2.7
+Adhesin	2.7
+Membrane protein, putative	1.4
+BspA family leucine-rich repeat surface protein	1.4
+Surface protein	1.4
+Variable surface lipoprotein	1.4
+VspN	1.4

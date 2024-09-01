@@ -1,0 +1,43 @@
+Function	Percentage
+Uncharacterized protein	27.8
+PilN domain-containing protein	17.8
+Fimbrial assembly protein	11.1
+Histidine kinase	3.9
+GspL periplasmic domain-containing protein	3.3
+Type IV pilus assembly protein PilN	2.8
+histidine kinase	2.8
+POTRA domain-containing protein	2.2
+Pilus assembly protein PilN	2.2
+Fimbrial assembly family protein	2.2
+FtsK domain-containing protein	1.7
+GspL cytoplasmic actin-ATPase-like domain-containing protein	1.7
+Fimbrial assembly protein (PilN)	1.7
+Tfp pilus assembly protein PilN	1.1
+Pilus assembly protein PilM	1.1
+Type 4a pilus biogenesis protein PilO	1.1
+Fimbrial protein	1.1
+General secretion pathway protein L	1.1
+Type IV pilus biogenesis protein PilM	0.6
+Sensor histidine kinase	0.6
+SCP domain-containing protein	0.6
+DUF3168 domain-containing protein	0.6
+ATP-binding protein	0.6
+Core-2/I-Branching enzyme	0.6
+50S ribosomal protein HLP, mitochondrial	0.6
+SufR, DeoR family transcriptional regulator, suf operon transcriptional repressor	0.6
+Type IV pilus biogenesis protein PilN	0.6
+Lipoprotein	0.6
+Type II secretion system protein M	0.6
+Signal transduction histidine kinase internal region domain-containing protein	0.6
+Two-component sensor histidine kinase	0.6
+Sensor histidine kinase NatK C-terminal domain-containing protein	0.6
+Signal transduction histidine kinase	0.6
+DUF5667 domain-containing protein	0.6
+ACT domain-containing protein	0.6
+PAS domain S-box protein	0.6
+Flagellar hook-length control protein FliK	0.6
+General secretion pathway protein	0.6
+Flagellar M-ring C-terminal domain-containing protein	0.6
+General secretion pathway protein GspM	0.6
+SHS2 domain-containing protein	0.6
+Histidine kinase/DNA gyrase B/HSP90-like ATPase	0.6

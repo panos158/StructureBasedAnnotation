@@ -1,0 +1,6 @@
+Function	Percentage
+DUF3310 domain-containing protein	72.7
+Uncharacterized protein	9.1
+Protein of unknwon function (DUF3310)	9.1
+Phage protein	4.5
+Gp29	4.5

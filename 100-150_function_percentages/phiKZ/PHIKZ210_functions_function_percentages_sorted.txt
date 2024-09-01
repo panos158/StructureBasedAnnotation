@@ -1,0 +1,40 @@
+Function	Percentage
+Nitrogen fixation protein NifZ	44.2
+SH3 domain-containing protein	8.4
+SH3b domain-containing protein	8.4
+NifZ protein	5.2
+Uncharacterized protein	3.9
+NifZ family protein	3.2
+NifZ domain protein	2.6
+NifZ nitrogen fixation protein	1.3
+non-specific serine/threonine protein kinase	1.3
+Putative nifZ protein	1.3
+NifZ domain-containing protein	1.3
+N-acetylmuramoyl-L-alanine amidase	1.3
+Calx-beta domain-containing protein	0.6
+Pectate lyase	0.6
+Tudor domain-containing protein	0.6
+Hypervirulence associated protein TUDOR domain-containing protein	0.6
+Dockerin domain-containing protein	0.6
+Uncharacterized conserved protein YgiM, contains N-terminal SH3 domain, DUF1202 family	0.6
+ATP-dependent endonuclease	0.6
+Peroxidase	0.6
+Lipoprotein	0.6
+Tetratricopeptide repeat protein	0.6
+Nitrogen fixation protein Z	0.6
+NifZ family protein (Modular protein)	0.6
+Bacterial SH3 domain-containing protein	0.6
+Glycoside hydrolase family 5 domain-containing protein	0.6
+Putative nitrogen fixation protein NifT	0.6
+Bifunctional nitrogen fixation protein NifZ and NifT/FixU protein	0.6
+J domain-containing protein	0.6
+Pectate lyase C	0.6
+Glycoside hydrolase family protein	0.6
+Secreted protein containing SH3, type 3 domain protein	0.6
+Putative nifZ protein (Modular protein)	0.6
+SH3 type 3 domain protein	0.6
+DUF3006 domain-containing protein	0.6
+NifZ nitrogen fixation protein (Modular protein)	0.6
+Class A beta-lactamase	0.6
+Nitrogen fixation protein, NifZ	0.6
+Cytochrome b5 heme-binding domain-containing protein	0.6

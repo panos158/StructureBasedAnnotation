@@ -1,0 +1,4 @@
+Function	Percentage
+dATP/dGTP diphosphohydrolase N-terminal domain-containing protein	98.0
+Phage-related protein	1.3
+CMP/dCMP-type deaminase domain-containing protein	0.7

@@ -1,0 +1,42 @@
+Function	Percentage
+DUF2634 domain-containing protein	28.5
+Uncharacterized protein	25.8
+IraD/Gp25-like domain-containing protein	12.6
+Bacteriophage protein	4.6
+Phage protein	3.0
+Phage tail protein	3.0
+LysM domain-containing protein	3.0
+Phage baseplate assembly protein W	2.0
+Burkholderia phage Bcep781 gp51	1.3
+GPW/gp25 family protein	1.3
+Baseplate assembly protein	1.3
+Phage baseplate protein	1.3
+Gene 25-like lysozyme	1.0
+Tail protein	1.0
+Protein of uncharacterized function (DUF2634)	0.7
+Peptidase propeptide and YPEB domain-containing protein	0.7
+Phage-related protein	0.7
+Histidine kinase	0.7
+CHK kinase-like domain-containing protein	0.3
+Pyridoxamine-phosphate oxidase	0.3
+Putative lysozyme	0.3
+LysM peptidoglycan-binding domain-containing protein	0.3
+DNA helicase	0.3
+Type VI secretion system protein	0.3
+Type VI secretion system baseplate subunit TssE	0.3
+Putative bacteriophage protein	0.3
+Phage protein XkdS family protein	0.3
+W protein	0.3
+DUF4440 domain-containing protein	0.3
+Phage-like element pbsx protein XkdS	0.3
+Phage portal protein	0.3
+25-like lysozyme	0.3
+Baseplate protein	0.3
+Uncharacterized protein DUF2634	0.3
+Pesponse regulators consisting of a CheY-like	0.3
+PF10934 family protein	0.3
+Lipid/polyisoprenoid-binding YceI-like domain-containing protein	0.3
+Phage protein Gp138 N-terminal domain-containing protein	0.3
+Phage protein GP46	0.3
+Baseplate protein J-like domain-containing protein	0.3
+ATP-dependent helicase	0.3

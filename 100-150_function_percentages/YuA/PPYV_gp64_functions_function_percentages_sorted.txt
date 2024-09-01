@@ -1,0 +1,61 @@
+Function	Percentage
+Uncharacterized protein	41.2
+Head-tail adaptor protein	17.9
+Phage protein	6.4
+Phage head-tail adapter protein	3.5
+Phage head-tail joining protein	3.2
+Head-to-tail stopper	3.1
+Phage head-tail adaptor	2.6
+Phage tail protein	2.5
+Minor capsid protein	2.3
+Glutamate 5-kinase	2.2
+Phage head closure protein	1.7
+Head-tail adaptor	1.6
+Phage head-tail adaptor, putative, SPP1 family	0.9
+SPP1 family predicted phage head-tail adaptor	0.9
+Head-tail joining protein	0.8
+Putative phage head-tail adaptor	0.8
+Bacteriophage head-tail adaptor	0.6
+Virion structural protein	0.6
+Head decoration protein	0.4
+Tail protein	0.4
+DUF3168 domain-containing protein	0.4
+Gp9	0.3
+Phage head-tail adaptor, putative	0.3
+Minor tail protein	0.3
+Phage Head-Tail Attachment	0.3
+Head-closure protein	0.3
+Fibronectin type-III domain-containing protein	0.3
+Putative structural protein	0.3
+Structural protein 2	0.1
+Ubiquitin-activating enzyme E1 FCCH domain-containing protein	0.1
+Secreted protein	0.1
+YopX protein	0.1
+Electron transfer protein	0.1
+Putative DnaT-like domain-containing protein	0.1
+Esterase	0.1
+Protein gp9	0.1
+DUF5666 domain-containing protein	0.1
+ATP-binding sugar transporter	0.1
+Prophage PssSM-02, structural protein	0.1
+DNRLRE domain-containing protein	0.1
+Chromosome partition protein Smc	0.1
+DUF4376 domain-containing protein	0.1
+Ig-like domain-containing protein	0.1
+SpoVT-AbrB domain-containing protein	0.1
+Linalool dehydratase/isomerase domain-containing protein	0.1
+Mlr8530 protein	0.1
+DUF2190 domain-containing protein	0.1
+YopX protein domain-containing protein	0.1
+Alpha-L-rhamnosidase six-hairpin glycosidase domain-containing protein	0.1
+ADP-ribosyltransferase exoenzyme	0.1
+Proteinase inhibitor I42 chagasin domain-containing protein	0.1
+Cellulase Ig-like domain-containing protein	0.1
+Capsid protein	0.1
+D-glucuronyl C5-epimerase C-terminal domain-containing protein	0.1
+Transcription elongation factor GreA/GreB C-terminal domain-containing protein	0.1
+Putative phage protein	0.1
+DUF35 domain-containing protein	0.1
+Bacteriophage lambda head decoration protein D	0.1
+DUF2190 family protein	0.1
+Putative Phage head-tail adaptor	0.1

@@ -1,0 +1,4 @@
+Function	Percentage
+Uncharacterized protein	86.7
+Chromosome partitioning protein ParB	6.7
+Fimbrial protein	6.7

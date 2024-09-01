@@ -1,0 +1,2 @@
+Function	Percentage
+Peptidase C39-like domain-containing protein	100.0

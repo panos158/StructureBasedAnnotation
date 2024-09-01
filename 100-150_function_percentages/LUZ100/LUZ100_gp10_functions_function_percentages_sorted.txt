@@ -1,0 +1,67 @@
+Function	Percentage
+MarR family transcriptional regulator	43.3
+HTH marR-type domain-containing protein	21.3
+DNA-binding MarR family transcriptional regulator	6.7
+DNA-binding transcriptional regulator, MarR family	5.4
+Uncharacterized protein	3.2
+Transcriptional regulator	3.2
+Transcriptional regulator, MarR family	3.2
+Winged helix-turn-helix transcriptional regulator	2.3
+HTH iclR-type domain-containing protein	1.1
+Winged helix DNA-binding protein	0.9
+MarR family protein	0.8
+FdhD protein	0.7
+HTH-type transcriptional regulator MhqR	0.5
+Multiple antibiotic resistance protein MarR	0.3
+Regulatory protein MarR	0.3
+Transcriptional regulators	0.2
+Organic hydroperoxide resistance transcriptional regulator	0.2
+MarR family	0.2
+Gp07	0.2
+HTH-type transcriptional regulator PetP	0.2
+Transcriptional regulator SlyA	0.2
+Transcriptional regulator MarR family	0.2
+Response regulator	0.2
+Transcriptional regulator HosA	0.2
+N-acetyltransferase domain-containing protein	0.1
+Transcriptional regulator SlyA family protein	0.1
+IclR helix-turn-helix domain-containing protein	0.1
+Transcriptional regulatory protein	0.1
+GCN5-related N-acetyltransferase	0.1
+Hypothetical transcriptional regulator	0.1
+Putative HTH-type transcriptional regulator	0.1
+Uncharacterized HTH-type transcriptional regulator yusO	0.1
+Transcription regulator	0.1
+Probable transcriptional regulator	0.1
+IclR-like helix-turn-helix domain-containing protein	0.1
+Putative transcriptional regulator	0.1
+DNA-binding transcriptional regulator HxlR family	0.1
+ArnR1-like winged helix-turn-helix domain-containing protein	0.1
+MarR family 2-MHQ and catechol resistance regulon transcriptional repressor	0.1
+DprA winged helix domain-containing protein	0.1
+Accessory regulator R	0.1
+Transcriptional regulator HosA;	0.1
+SlyA protein	0.1
+Putative MarR family transcriptional regulator	0.1
+MarR DNA-binding transcription regulator	0.1
+Transcriptional regulator, MarR family protein	0.1
+Putative transcriptional regulator, MarR family	0.1
+ArsR family transcriptional regulator	0.1
+Winged helix DNA-binding domain-containing protein	0.1
+Regulatory protein, arsR family	0.1
+Transcriptional regulator/ MarR family	0.1
+Salmolysin	0.1
+Putative transcriptional regulatory protein, MarR family	0.1
+Phage antirepressor protein KilAC domain protein	0.1
+MarR family transcriptional regulator protein	0.1
+Response regulatory domain-containing protein	0.1
+AsnC family transcriptional regulator	0.1
+Sulfur carrier protein FdhD	0.1
+MarR family transcriptional regulator, transcriptional regulator for hemolysin	0.1
+GNAT family N-acetyltransferase	0.1
+Winged helix-turn-helix DNA-binding	0.1
+PAS domain S-box-containing protein	0.1
+Homoprotocatechuate degradation operon regulator, HpaR	0.1
+Regulatory protein	0.1
+Transcriptional repressor MprA	0.1
+Uncharacterized HTH-type transcriptional regulator YkoM;	0.1

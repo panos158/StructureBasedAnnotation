@@ -1,0 +1,4 @@
+Function	Percentage
+Uncharacterized protein	90.9
+Transposase	4.5
+KTSC domain-containing protein	4.5

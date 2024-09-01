@@ -1,0 +1,4 @@
+Function	Percentage
+Uncharacterized protein	50.0
+Holin	25.0
+Transmembrane protein	25.0

@@ -1,0 +1,8 @@
+Function	Percentage
+Uncharacterized protein	55.2
+SANTA domain-containing protein	27.6
+DUF2591 domain-containing protein	3.4
+Uncharacterized protein LOC116213101 isoform X1	3.4
+RAMA domain-containing protein	3.4
+ATP-dependent Lon protease	3.4
+Uncharacterized protein LOC109722965	3.4

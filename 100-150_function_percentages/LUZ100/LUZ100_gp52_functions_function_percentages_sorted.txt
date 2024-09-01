@@ -1,0 +1,60 @@
+Function	Percentage
+Uncharacterized protein	28.7
+HNH endonuclease	23.0
+HNH nuclease domain-containing protein	13.0
+Recombination endonuclease VII	10.1
+DNA-directed DNA polymerase	7.2
+HNH domain-containing protein	4.2
+Nuclease associated modular domain-containing protein	1.1
+Stc1 domain-containing protein	0.8
+Recombinase	0.8
+Endonuclease VII domain-containing protein	0.8
+HNH endonuclease 5 domain-containing protein	0.7
+Integrase	0.7
+Putative homing endonuclease	0.7
+Putative HNH endonuclease	0.6
+Bacteriophage protein	0.4
+AP2/ERF domain-containing protein	0.4
+C2H2-type domain-containing protein	0.4
+Phage protein	0.2
+Recombination protein NinG	0.2
+5-methylcytosine-specific restriction endonuclease McrA	0.2
+dUTP diphosphatase	0.2
+GIY-YIG domain-containing protein	0.2
+Helix-turn-helix domain-containing protein	0.2
+Ankyrin repeat domain-containing protein	0.2
+Endonuclease VII	0.2
+Transposase	0.2
+Endonuclease	0.2
+3'-5' exonuclease domain-containing protein	0.1
+Myb-like domain-containing protein	0.1
+GNAT family N-acetyltransferase	0.1
+Putative prophage protein	0.1
+Bacteriophage Lambda NinG protein	0.1
+Homing endonuclease LAGLIDADG domain-containing protein	0.1
+MYM-type domain-containing protein	0.1
+Putative baseplate protein	0.1
+BED-type domain-containing protein	0.1
+Asn/Gln amidotransferase domain-containing protein	0.1
+DUF2197 domain-containing protein	0.1
+Glutaredoxin	0.1
+LIM zinc-binding domain-containing protein	0.1
+Unannotated protein	0.1
+DUF1524 domain-containing protein	0.1
+ATPase	0.1
+HNH endonuclease domain protein	0.1
+SAP domain-containing protein	0.1
+Restriction endonuclease	0.1
+DUF2116 family Zn-ribbon domain-containing protein	0.1
+Nuclease-associated modular DNA-binding 1 domain-containing protein	0.1
+HNH nuclease	0.1
+DUF2256 domain-containing protein	0.1
+AraC family transcriptional regulator	0.1
+Probable Zinc-ribbon domain-containing protein	0.1
+GATA-type domain-containing protein	0.1
+Restriction endonuclease type IV Mrr domain-containing protein	0.1
+Restriction endonuclease PacI	0.1
+Putative recombination endonuclease VII	0.1
+CMP/dCMP-type deaminase domain-containing protein	0.1
+Group-specific protein	0.1
+Transposase DDE domain-containing protein	0.1

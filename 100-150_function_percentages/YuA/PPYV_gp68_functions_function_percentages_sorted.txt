@@ -1,0 +1,16 @@
+Function	Percentage
+HK97 gp10 family phage protein	67.7
+Uncharacterized protein	21.9
+Phage protein	1.6
+Neck protein	1.6
+Virion structural protein	1.0
+Bacteriophage HK97-gp10, putative tail-component	1.0
+Prophage PssSM-02	1.0
+Putative DnaT-like domain-containing protein	0.5
+Bacteriophage HK97-gp10, tail-component	0.5
+Putative tail protein	0.5
+Hypothetical conserved protein	0.5
+Phage virion morphogenesis (Putative tail completion) protein	0.5
+Phage protein, HK97 gp10 family	0.5
+Phage tail protein	0.5
+Bacteriophage protein	0.5

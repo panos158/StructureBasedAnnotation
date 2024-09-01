@@ -1,0 +1,20 @@
+Function	Percentage
+YCII-related domain-containing protein	31.4
+Uncharacterized protein	8.6
+DUF1330 domain-containing protein	5.7
+Guanylate cyclase domain-containing protein	5.7
+ABM domain-containing protein	5.7
+GGDEF domain-containing protein	5.7
+Diguanylate phosphodiesterase	2.9
+DUF3579 domain-containing protein	2.9
+Stage 0 sporulation protein A homolog	2.9
+DUF4242 domain-containing protein	2.9
+Kazal-type serine protease inhibitor domain-containing protein	2.9
+Domain X domain-containing protein	2.9
+Cystatin domain-containing protein	2.9
+DUF6535 domain-containing protein	2.9
+Acriflavin resistance protein	2.9
+Efflux RND transporter permease subunit	2.9
+Primosomal protein N	2.9
+Reverse transcriptase domain-containing protein	2.9
+DUF695 domain-containing protein	2.9

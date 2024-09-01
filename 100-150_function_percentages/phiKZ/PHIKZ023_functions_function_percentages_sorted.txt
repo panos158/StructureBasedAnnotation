@@ -1,0 +1,10 @@
+Function	Percentage
+Transcription-repair coupling factor	44.1
+DUF1653 domain-containing protein	17.6
+CarD-like/TRCF RNAP-interacting domain-containing protein	11.8
+Uncharacterized protein	8.8
+Helicase ATP-binding domain-containing protein	5.9
+Integrase catalytic domain-containing protein	2.9
+DUF4222 domain-containing protein	2.9
+DEAD/DEAH box helicase	2.9
+SAM domain-containing protein	2.9

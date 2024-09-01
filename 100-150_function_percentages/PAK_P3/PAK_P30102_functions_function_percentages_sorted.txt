@@ -1,0 +1,3 @@
+Function	Percentage
+Uncharacterized protein	88.9
+DEAD/DEAH box helicase	11.1

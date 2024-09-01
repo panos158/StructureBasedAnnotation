@@ -1,0 +1,82 @@
+Function	Percentage
+Uncharacterized protein	16.9
+Restriction endonuclease	9.7
+VRR-NUC domain-containing protein	8.7
+Holliday junction resolvase RecU	6.2
+PD-(D/E)XK nuclease superfamily protein	4.6
+Protein NO VEIN C-terminal domain-containing protein	3.6
+Restriction endonuclease type IV Mrr domain-containing protein	3.1
+AAA-ATPase-like domain-containing protein	2.6
+DUF3883 domain-containing protein	2.6
+site-specific DNA-methyltransferase (adenine-specific)	2.1
+YqaJ viral recombinase domain-containing protein	1.5
+AAA family ATPase	1.5
+DUF4365 domain-containing protein	1.0
+DUF91 domain-containing protein	1.0
+PD(D/E)XK endonuclease domain-containing protein	1.0
+Sugar fermentation stimulation protein	0.5
+UPF0102 protein HKN92_02440	0.5
+UPF0102 protein B7Z05_03590	0.5
+UPF0102 protein DCP06_00230	0.5
+UPF0102 protein ENS02_01765	0.5
+UPF0102 protein HHL14_21305	0.5
+UPF0102 protein ENM23_03170	0.5
+UPF0102 protein GAK30_03787	0.5
+UPF0102 protein DRI36_06555	0.5
+UPF0102 protein GT347_07605	0.5
+UPF0102 protein BN2475_40031	0.5
+Archaeal ATPase	0.5
+UPF0102 protein COTS27_00616	0.5
+UPF0102 protein G7Y31_07555	0.5
+Unannotated protein	0.5
+UPF0102 protein I6I06_10665	0.5
+UPF0102 protein HTY51_15335	0.5
+Chromosome undetermined scaffold_83, whole genome shotgun sequence	0.5
+Protein with a weak D-galactarate dehydratase/altronate hydrolase domain protein	0.5
+Protein containing DUF1703	0.5
+Sugar fermentation stimulation protein homolog	0.5
+UPF0102 protein G01um101420_21	0.5
+Restriction system protein	0.5
+UPF0102 protein DKT66_27880	0.5
+UPF0102 protein FVF58_04210	0.5
+Helicase C-terminal domain-containing protein	0.5
+UPF0102 protein B0G69_1528	0.5
+UPF0102 protein FAZ98_00560	0.5
+DUF4143 domain-containing protein	0.5
+UPF0102 protein EV147_4830	0.5
+UPF0102 protein bglu_1g02140	0.5
+UPF0102 protein GYA58_10655	0.5
+UPF0102 protein LMG29739_05900	0.5
+UPF0102 protein BURPS668_3819	0.5
+UPF0102 protein HMPREF1264_00345	0.5
+UPF0102 protein DFR31_2578	0.5
+UPF0102 protein SAMN05444168_0848	0.5
+Holliday junction resolvase	0.5
+UPF0102 protein ENW59_00180	0.5
+YraN family protein	0.5
+UPF0102 protein FAZ69_10190	0.5
+UPF0102 protein FOB72_15605	0.5
+PD-(D/E)XK motif protein	0.5
+UPF0102 protein PTE30175_04459	0.5
+UPF0102 protein HMPREF0291_11350	0.5
+Type I restriction enzyme R protein N-terminal domain-containing protein	0.5
+Archaeal holliday junction resolvase (Hjc)	0.5
+Endonuclease	0.5
+UPF0102 protein BGX14_2862	0.5
+UPF0102 protein KUL10_34130	0.5
+UPF0102 protein B0G83_11883	0.5
+UPF0102 protein Bcep1808_0248	0.5
+UPF0102 protein DC3_13880	0.5
+UPF0102 protein SAMN05444165_6151	0.5
+UPF0102 protein CEQ24_028930	0.5
+DUF1064 domain-containing protein	0.5
+UPF0102 protein SAMN05192543_10214	0.5
+UPF0102 protein FAZ97_00615	0.5
+UPF0102 protein CO2235_10066	0.5
+UPF0102 protein SAMN05443245_0454	0.5
+DUF559 domain-containing protein	0.5
+UPF0102 protein EDC56_3938	0.5
+UPF0102 protein HDG32_003305	0.5
+UPF0102 protein BURMUCGD2_0167	0.5
+UPF0102 protein EPN70_19500	0.5
+UPF0102 protein A2Y10_06775	0.5

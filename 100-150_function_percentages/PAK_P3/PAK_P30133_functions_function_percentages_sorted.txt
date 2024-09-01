@@ -1,0 +1,5 @@
+Function	Percentage
+Ead/Ea22-like family protein	55.6
+Uncharacterized protein	22.2
+Phage protein	11.1
+PE domain-containing protein	11.1

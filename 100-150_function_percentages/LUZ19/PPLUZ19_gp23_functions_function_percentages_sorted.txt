@@ -1,0 +1,10 @@
+Function	Percentage
+Recombination endonuclease VII	72.9
+Uncharacterized protein	8.3
+Exonuclease VII	4.2
+Endonuclease	4.2
+DNA endonuclease VII	2.1
+Putative recombination endonuclease VII	2.1
+C2H2-type domain-containing protein	2.1
+Endonuclease VII domain-containing protein	2.1
+Recombinase	2.1

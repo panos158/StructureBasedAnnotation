@@ -1,0 +1,8 @@
+Function	Percentage
+Phage tail assembly chaperone-like domain-containing protein	50.0
+Tail fiber assembly protein	8.3
+Phage tail protein	8.3
+Transcriptional regulator	8.3
+Phage protein	8.3
+DUF4376 domain-containing protein	8.3
+Virus tail fibre assembly protein, lambda gpK	8.3

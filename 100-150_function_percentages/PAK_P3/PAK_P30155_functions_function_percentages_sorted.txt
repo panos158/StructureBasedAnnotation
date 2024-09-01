@@ -1,0 +1,79 @@
+Function	Percentage
+CMP/dCMP-type deaminase domain-containing protein	29.1
+Cytidine deaminase	15.1
+dCMP deaminase	9.5
+dCMP deaminase family protein	7.8
+CMP deaminase	6.5
+Deoxycytidylate deaminase	6.1
+ComE operon protein 2	4.4
+tRNA-specific adenosine deaminase	3.0
+Cytidine and deoxycytidylate deaminase zinc-binding region	2.4
+Cell division protein DedD	2.1
+Deaminase	1.9
+CMP/dCMP deaminase zinc-binding protein	1.7
+CMP/dCMP deaminase, zinc-binding protein	0.8
+Cytidine/deoxycytidylate deaminase family protein	0.6
+Riboflavin biosynthesis protein RibD	0.5
+Competence protein ComE	0.5
+Putative CMP/dCMP deaminase zinc-binding	0.5
+CMP/dCMP deaminase zinc-binding	0.4
+CMP/dCMP deaminase, zinc-binding	0.4
+AAA family ATPase	0.3
+ComE operon protein 2 family protein	0.2
+Deoxycytidylate deaminase, dCMP deaminase	0.2
+Cytidine and deoxycytidylate deaminase	0.2
+Cytidine deaminase-like protein	0.2
+Uncharacterized protein	0.2
+Cytidine and deoxycytidylate deaminase zinc-binding region family protein	0.2
+Cytidine/deoxycytidylate deaminase	0.2
+tRNA(adenine(34)) deaminase	0.2
+Zinc-binding CMP/dCMP deaminase, dCMP deaminase	0.2
+Deoxycytidylate deaminase, putative	0.2
+Zinc-binding CMP/dCMP deaminase	0.2
+dUTP diphosphatase	0.2
+Putative cytidine and deoxycytidylate deaminase	0.1
+Fido domain-containing protein	0.1
+Cytidine and deoxycytidylate deaminase zinc-binding region protein	0.1
+Nucleoside deaminase	0.1
+Cytidine/deoxycytidylate deaminase-like protein	0.1
+Deoxycytidylate deaminase domain-containing protein	0.1
+ethanolamine-phosphate cytidylyltransferase	0.1
+Adenylyltransferase/cytidyltransferase family protein	0.1
+BQ2448_8040 protein	0.1
+Deoxycytidylate deaminase-related protein	0.1
+Anti-phage dCTP deaminase	0.1
+Dcmp deaminase	0.1
+SPOSA6832_02888-mRNA-1:cds	0.1
+Putative cytidine deaminase	0.1
+Histidine triad (HIT) protein	0.1
+Putative Cytidine deaminase	0.1
+Thymidylate kinase	0.1
+Intein C-terminal splicing domain-containing protein	0.1
+H516	0.1
+Putative cytosine/adenosine deaminase	0.1
+SAD1p	0.1
+BC1881 family protein	0.1
+Putative deoxycytidylate deaminase	0.1
+HIT domain-containing protein	0.1
+dCMP deaminase / Late competence protein ComEB	0.1
+Peptidyl-dipeptidase Dcp	0.1
+dCMP deaminase @ Late competence protein ComEB	0.1
+Putative comE operon protein 2	0.1
+dCMP deaminase, putative	0.1
+Putative dCMP deaminase	0.1
+Cmp/dcmp deaminase zinc-binding protein	0.1
+Late competence protein required for DNA binding and uptake	0.1
+NUDIX domain-containing protein	0.1
+tRNA-specific adenosine deaminase (Modular protein)	0.1
+Bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase	0.1
+Putative deoxycytidine deaminase	0.1
+dCMP deaminase Late competence protein ComEB	0.1
+dCMP deaminase, late competence protein ComEB	0.1
+dCMP deaminase (EC)	0.1
+Putative ComE operon protein 2	0.1
+Dephospho-CoA kinase	0.1
+Heparan-sulfate 6-O-sulfotransferase	0.1
+CMP/dCMP deaminase zinc-binding protein (Modular protein)	0.1
+Late competence operon required for DNA binding and uptake	0.1
+Putative cytidine/deoxycytidylate deaminase	0.1
+tRNA-adenosine deaminase	0.1

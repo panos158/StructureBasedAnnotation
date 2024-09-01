@@ -1,0 +1,55 @@
+Function	Percentage
+CMP/dCMP-type deaminase domain-containing protein	30.3
+Cytidine deaminase	26.5
+Riboflavin biosynthesis protein RibD	5.8
+Diaminohydroxyphosphoribosylaminopyrimidine deaminase	4.3
+Deoxycytidylate deaminase	3.7
+dCMP deaminase	3.5
+5-amino-6-(5-phosphoribosylamino)uracil reductase	3.2
+Cytidine deaminase-like protein	2.0
+tRNA-specific adenosine deaminase	1.4
+Uncharacterized protein	1.4
+Cytidine and deoxycytidylate deaminase zinc-binding region	1.2
+cytidine deaminase	1.2
+Putative CMP/dCMP deaminase zinc-binding	0.9
+dCMP deaminase family protein	0.9
+CMP deaminase	0.9
+DRAP deaminase	0.9
+Unannotated protein	0.6
+Nucleoside deaminase	0.6
+CMP/dCMP deaminase zinc-binding protein	0.6
+Diaminohydroxyphosphoribosylamino-pyrimidine deaminase	0.6
+Bifunctional protein	0.3
+Putative deoxycytidylate deaminase	0.3
+Deoxycytidylate deaminase-related protein	0.3
+Cytidine deoxycytidylate deaminase family	0.3
+Putative ComE operon protein 2	0.3
+Deoxycytidylate deaminase isoform X1	0.3
+Bacterial bifunctional deaminase-reductase C-terminal domain-containing protein	0.3
+Bifunctional protein RIB2	0.3
+Deoxycytidylate deaminase isoform X4	0.3
+Putative cytidine deaminase (Cytidine aminohydrolase) (CDA)	0.3
+DeoR faimly transcriptional regulator	0.3
+Uncharacterized protein LOC117644953 isoform X1	0.3
+Pyrimidine deaminase RibD-like protein	0.3
+Deaminase	0.3
+Podospora anserina S mat+ genomic DNA chromosome 5, supercontig 9	0.3
+diaminohydroxyphosphoribosylaminopyrimidine deaminase	0.3
+Putative dCMP deaminase family protein	0.3
+3,4-dihydroxy-2-butanone 4-phosphate synthase	0.3
+Putative tRNA-specific adenosine deaminase	0.3
+CMP/dCMP deaminase, zinc-binding protein	0.3
+ComE operon protein 2	0.3
+Cell division protein DedD	0.3
+protein-ribulosamine 3-kinase	0.3
+GPI inositol-deacylase	0.3
+(Perigord truffle) hypothetical protein	0.3
+Guanine deaminase	0.3
+GTP cyclohydrolase-2	0.3
+Protein argonaute MEL1	0.3
+Diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase	0.3
+Probable metalloreductase AIM14	0.3
+Uncharacterized protein LOC108079527	0.3
+Putative CMP/dCMP deaminase	0.3
+Multifunctional fusion protein	0.3
+tRNA(adenine(34)) deaminase	0.3

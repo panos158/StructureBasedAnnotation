@@ -1,0 +1,12 @@
+Function	Percentage
+Head fiber protein	35.0
+Uncharacterized protein	15.0
+Minor tail protein	10.0
+DUF1737 domain-containing protein	5.0
+SHOCT domain-containing protein	5.0
+Variable large protein	5.0
+Phage tail protein	5.0
+Predicted protein	5.0
+SGNH/GDSL hydrolase family protein	5.0
+Tail fiber protein	5.0
+Phage tail fibre repeat-containing protein	5.0
