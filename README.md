@@ -1,3 +1,5 @@
+Copyright © 2023-2024 Panagiotis Delaroudis. All Rights Reserved.
+
 # Structure-Based Functional Annotation of Phage Peptides
 &nbsp;
 
